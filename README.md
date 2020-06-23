@@ -7,7 +7,7 @@ For more information about Star Wars CCG, check out the SWCCG Players Committee 
 # Who Uses This?
 This database is currently used by Scomp Link Access (https://scomp.starwarsccg.org/)
 
-If you'd like to use this for your personal projects, please let us know!
+If you use this for your personal projects, please let us know so we can link ot your project!
 
 
 # What data is in here?
@@ -25,11 +25,11 @@ Basically anything you could want to search for, it should be in here.
 
 
 # Where are the images stored?
-All of the images are hosted in the "holotable" GIT Repository (https://github.com/swccgpc/holotable). This database links directly to those images
+All of the images are hosted in the Holotable Git repository (https://github.com/swccgpc/holotable). This database links directly to those images.
 
 
 # What does the data look like?
-Here's a sample:
+Here's a sample of Darth Vader from the Premiere Set:
 ```
 {
       "id": 634,
@@ -64,8 +64,8 @@ Here's a sample:
       ],
       "combo": [
         "Darth Vader + Grand Moff Tarkin Once per battle, Tarkin may cancel one opponent's destiny just drawn.",
-        " Darth Vader + I Have You Now Add one battle destiny (two if Rebel is Luke) if a Dark Jedi and a Rebel with ability > 2 are involved in the same battle.",
-        " Darth Vader + Force Field Cancels an attempt to target a Dark Jedi with a character weapon."
+        "Darth Vader + I Have You Now Add one battle destiny (two if Rebel is Luke) if a Dark Jedi and a Rebel with ability > 2 are involved in the same battle.",
+        "Darth Vader + Force Field Cancels an attempt to target a Dark Jedi with a character weapon."
       ],
       "matching": [
         "Vader's Custom TIE",
@@ -77,8 +77,7 @@ Here's a sample:
         "Darth Vader's Lightsaber",
         "Darth Vader's Lightsaber (V)",
         "Vader's Lightsaber"
-      ],
-      "legacy": false
+      ]
 }
 ```
 
@@ -89,7 +88,7 @@ This database combine data from a couple different sources:
 
 # Why Another Database?
 Keeping all of the SWCCG resources all in-sync is a daunting task. Many of the previous databases have been created in a format which is not easily editable by the average-joe.  
-- Holotable works with a proprietary format with carefully-placed commas which need to be place meticulously.  
+- Holotable works with a proprietary format with carefully-placed commas which need to be placed meticulously.  
 - SWIP is extremly outdated and still runs with a SQLite 2 DB, which is extremly painful to update.
 
 Neither of the previous databases are very easy for new applications to consume. Trying to maintain those two systems is just not a good long-term solution. 
