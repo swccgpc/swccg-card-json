@@ -10,7 +10,7 @@ This database is currently used by Scomp Link Access (https://scomp.starwarsccg.
 If you use this for your personal projects, please let us know so we can link ot your project!
 
 
-# What data is in here?
+# What Data Is Here?
 Our goal is eventually to have everything in this database that one could need.
 - Card Names
 - Images
@@ -24,11 +24,11 @@ Our goal is eventually to have everything in this database that one could need.
 Basically anything you could want to search for, it should be in here.
 
 
-# Where are the images stored?
+# Where Are The Images?
 All of the images are hosted in the Holotable Git repository (https://github.com/swccgpc/holotable). This database links directly to those images.
 
 
-# What does the data look like?
+# What Does It Look Like?
 Here's a sample of Darth Vader from the Premiere Set:
 ```
 {
@@ -81,10 +81,12 @@ Here's a sample of Darth Vader from the Premiere Set:
 }
 ```
 
+
 # Where did all this data come from?
-This database combine data from a couple different sources:
+This database combines data from a couple different sources:
 - Holotable
 - SWIP
+
 
 # Why Another Database?
 Keeping all of the SWCCG resources all in-sync is a daunting task. Many of the previous databases have been created in a format which is not easily editable by the average-joe.  
@@ -97,3 +99,20 @@ Neither of the previous databases are very easy for new applications to consume.
 # Why JSON?
 JSON is easy to read.  It's just a bunch of human-readable labels. Anybody can copy-paste a new card into the database. There are tools available to edit JSON and there are tools to validate that the JSON is properly formatted
 
+
+# Where Can I Ask Questions?
+The best place to ask questions about this project is on the Star Wars CCG Players Committee Forums. Specifically, the "Resources" Sub-Form: https://forum.starwarsccg.org/viewforum.php?f=188
+
+
+# How To Contribute?
+If you see bugs in the current data, please contribute!
+
+Here's a brief overview of what you will need to do:
+1. Create a Fork of the code
+2. Create a new branch inside your fok
+3. Commit your changes in that branch
+4. Create a pull request (PR)
+5. Someone on the team will review your PR and get it merged?
+
+There is a nice tutorial here:
+https://www.thinkful.com/learn/github-pull-request-tutorial/Time-to-Submit-Your-First-PR#Time-to-Submit-Your-First-PR
