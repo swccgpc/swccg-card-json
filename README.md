@@ -1,9 +1,11 @@
-# swccg-db
-JSON database for Star Wars CCG
+# Star Wars CCG Card Database  (JSON)
+Welcome to the Star Wars CCG Card database! This database contains all of the current cards for Decipher's Star Wars Collectable Card Game.
+
+For more information about Star Wars CCG, check out the SWCCG Players Committee website here: https://www.starwarsccg.org/
 
 
 # Who Uses This?
-This database is currently used by Scomp Link Access. 
+This database is currently used by Scomp Link Access (https://scomp.starwarsccg.org/)
 
 If you'd like to use this for your personal projects, please let us know!
 
@@ -20,6 +22,10 @@ Our goal is eventually to have everything in this database that one could need.
 - Special notes for combos
 
 Basically anything you could want to search for, it should be in here.
+
+
+# Where are the images stored?
+All of the images are hosted in the "holotable" GIT Repository (https://github.com/swccgpc/holotable). This database links directly to those images
 
 
 # What does the data look like?
@@ -76,4 +82,19 @@ Here's a sample:
 }
 ```
 
+# Where did all this data come from?
+This database combine data from a couple different sources:
+- Holotable
+- SWIP
+
+# Why Another Database?
+Keeping all of the SWCCG resources all in-sync is a daunting task. Many of the previous databases have been created in a format which is not easily editable by the average-joe.  
+- Holotable works with a proprietary format with carefully-placed commas which need to be place meticulously.  
+- SWIP is extremly outdated and still runs with a SQLite 2 DB, which is extremly painful to update.
+
+Neither of the previous databases are very easy for new applications to consume. Trying to maintain those two systems is just not a good long-term solution. 
+
+
+# Why JSON?
+JSON is easy to read.  It's just a bunch of human-readable labels. Anybody can copy-paste a new card into the database. There are tools available to edit JSON and there are tools to validate that the JSON is properly formatted
 
