@@ -4,13 +4,13 @@ Welcome to the Star Wars CCG Card database! This database contains all of the cu
 For more information about Star Wars CCG, check out the SWCCG Players Committee website here: https://www.starwarsccg.org/
 
 
-# Who Uses This?
+## Who Uses This?
 This database is currently used by Scomp Link Access (https://scomp.starwarsccg.org/)
 
 If you use this for your personal projects, please let us know so we can link ot your project!
 
 
-# What Data Is Here?
+## What Data Is Here?
 Our goal is eventually to have everything in this database that one could need.
 - Card Names
 - Images
@@ -24,11 +24,11 @@ Our goal is eventually to have everything in this database that one could need.
 Basically anything you could want to search for, it should be in here.
 
 
-# Where Are The Images?
+## Where Are The Images?
 All of the images are hosted in the Holotable Git repository (https://github.com/swccgpc/holotable). This database links directly to those images.
 
 
-# What Does It Look Like?
+## What Does It Look Like?
 Here's a sample of Darth Vader from the Premiere Set:
 ```
 {
@@ -82,13 +82,13 @@ Here's a sample of Darth Vader from the Premiere Set:
 ```
 
 
-# Where did all this data come from?
+## Where did all this data come from?
 This database combines data from a couple different sources:
 - Holotable
 - SWIP
 
 
-# Why Another Database?
+## Why Another Database?
 Keeping all of the SWCCG resources all in-sync is a daunting task. Many of the previous databases have been created in a format which is not easily editable by the average-joe.  
 - Holotable works with a proprietary format with carefully-placed commas which need to be placed meticulously.  
 - SWIP is extremly outdated and still runs with a SQLite 2 DB, which is extremly painful to update.
@@ -96,15 +96,15 @@ Keeping all of the SWCCG resources all in-sync is a daunting task. Many of the p
 Neither of the previous databases are very easy for new applications to consume. Trying to maintain those two systems is just not a good long-term solution. 
 
 
-# Why JSON?
+## Why JSON?
 JSON is easy to read.  It's just a bunch of human-readable labels. Anybody can copy-paste a new card into the database. There are tools available to edit JSON and there are tools to validate that the JSON is properly formatted
 
 
-# Where Can I Ask Questions?
+## Where Can I Ask Questions?
 The best place to ask questions about this project is on the Star Wars CCG Players Committee Forums. Specifically, the "Resources" Sub-Form: https://forum.starwarsccg.org/viewforum.php?f=188
 
 
-# How To Contribute?
+## How To Contribute?
 If you see bugs in the current data, please contribute!
 
 Here's a brief overview of what you will need to do:
