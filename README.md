@@ -1,2 +1,79 @@
 # swccg-db
 JSON database for Star Wars CCG
+
+
+# Who Uses This?
+This database is currently used by Scomp Link Access. 
+
+If you'd like to use this for your personal projects, please let us know!
+
+
+# What data is in here?
+Our goal is eventually to have everything in this database that one could need.
+- Card Names
+- Images
+- Gametext
+- Card Stats
+- Characteristics
+- Icons
+- "Pulls X", "Pulled by X"
+- Special notes for combos
+
+Basically anything you could want to search for, it should be in here.
+
+
+# What does the data look like?
+Here's a sample:
+```
+{
+      "id": 634,
+      "side": "Dark",
+      "rarity": "R1",
+      "set": "Premiere",
+      "front": {
+        "title": "•Darth Vader",
+        "imageUrl": "https://github.com/swccgpc/holotable/blob/master/Images-HT/starwars/Premiere-Dark/large/darthvader.gif?raw=true",
+        "type": "Character",
+        "subType": "Imperial",
+        "uniqueness": "*",
+        "destiny": 1,
+        "power": 6,
+        "ability": 6,
+        "deploy": 6,
+        "forfeit": 8,
+        "icons": [
+          "Pilot",
+          "Warrior"
+        ],
+        "gametext": "When in battle, adds 1 to each of your battle destiny draws. Adds 3 to power of anything he pilots (or 4 to power and 3 to maneuver if Vader's Custom TIE). Immune to attrition < 5.",
+        "lore": "Dark Lord of the Sith. Servant of Emperor's. Encased in armor with cybernetic life support. Student of Obi-Wan Kenobi. Was the best starpilot in the galaxy. Cunning warrior.",
+        "extraText": [
+          "Dark Jedi"
+        ]
+      },
+      "pulledBy": [
+        "Blizzard 4",
+        "Sith Fury (V)",
+        "The Empire's Back"
+      ],
+      "combo": [
+        "Darth Vader + Grand Moff Tarkin Once per battle, Tarkin may cancel one opponent's destiny just drawn.",
+        " Darth Vader + I Have You Now Add one battle destiny (two if Rebel is Luke) if a Dark Jedi and a Rebel with ability > 2 are involved in the same battle.",
+        " Darth Vader + Force Field Cancels an attempt to target a Dark Jedi with a character weapon."
+      ],
+      "matching": [
+        "Vader's Custom TIE",
+        "Vader's Custom TIE (V)",
+        "Vader's Personal Shuttle",
+        "Vader's Personal Shuttle (V)"
+      ],
+      "matchingWeapon": [
+        "Darth Vader's Lightsaber",
+        "Darth Vader's Lightsaber (V)",
+        "Vader's Lightsaber"
+      ],
+      "legacy": false
+}
+```
+
+
