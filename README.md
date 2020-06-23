@@ -116,3 +116,9 @@ Here's a brief overview of what you will need to do:
 
 There is a nice tutorial here:
 https://www.thinkful.com/learn/github-pull-request-tutorial/Time-to-Submit-Your-First-PR#Time-to-Submit-Your-First-PR
+
+
+## Attribution
+We would like to thank the authors of Holotable and SWIP for the initial data this project was seeded with! Without that initial data, none of this would have been possible.
+
+Also a special thanks to all of those who help with updating this database and the corresponding images in Holotable!
