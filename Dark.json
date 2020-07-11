@@ -5578,7 +5578,7 @@
         "imageUrl": "https://res.starwarsccg.org/cards/Images-HT/cards/legacy/Virtual1-Dark/large/blasterrack.gif?raw=true",
         "type": "Effect",
         "destiny": 3,
-        "gametext": "Deploy on table. During your deploy phase, if you just deployed a unique (•) character, may deploy a matching weapon on that character from Reserve Deck; reshuffle. (Immune to Alter.)",
+        "gametext": "Deploy on table. Once per turn, may \\/ a matching weapon on your unique (•) character present at a site. [Immune to Alter.]",
         "lore": "Imperial facilities like the Death Star and garrison bases have blaster racks at key locations to equip soldiers with weapons like blaster rifles and thermal detonators."
       },
       "legacy": true
@@ -20228,7 +20228,7 @@
         "icons": [
           "Episode I"
         ],
-        "gametext": "Plays on table. Cancels Order To Engage and Scramble. Once per game, may take an Immediate Effect into hand from Reserve Deck; reshuffle. While opponent occupies no battleground systems, Staging Areas is suspended. 'Missing' on Lost In The Wilderness is treated as 'landspeed = 0 for remainder of turn.'",
+        "gametext": "Plays on table. Ice Storm, Lost In The Wilderness, Order To Engage, Sandwhirl, and Scramble are canceled. Once per game, may /\\ an Immediate Effect. Unless opponent occupies a battleground system, Staging Areas is suspended.",
         "lore": "The Boonta Eve crowds are always looking for new and exciting developments at every Podrace."
       },
       "legacy": true
@@ -46110,30 +46110,6 @@
       "legacy": true
     },
     {
-      "id": 5102,
-      "side": "Dark",
-      "rarity": "R",
-      "set": "Virtual Set 4",
-      "front": {
-        "title": "•Strategic Reserves (V)",
-        "imageUrl": "https://res.starwarsccg.org/cards/Images-HT/starwars/Virtual4-Dark/large/strategicreserves.gif?raw=true",
-        "type": "Effect",
-        "uniqueness": "*",
-        "destiny": 4,
-        "icons": [
-          "Episode VII"
-        ],
-        "gametext": "Deploy on table. Once per turn, may cancel a Force drain by placing here from hand a non-unique First Order stormtrooper. Your cards here may deploy as if from hand (if Effect canceled by opponent, any characters here may immediately deploy for free).",
-        "lore": "The Empire is able to quickly relocate its manpower, deploying its troops as efficiently as possible."
-      },
-      "pulledBy": [
-        "Twi'lek Advisor",
-        "We Must Accelerate Our Plans"
-      ],
-      "counterpart": "Entrenchment",
-      "legacy": false
-    },
-    {
       "id": 2366,
       "side": "Dark",
       "rarity": "PM",
@@ -46486,7 +46462,6 @@
         "Imperial Arrest Order & Secret Plans",
         "Imperial Decree",
         "Imperial Decree (V)",
-        "Imperial Domination (V)",
         "Imperial Justice (V)",
         "Inconsequential Losses",
         "Kuat Drive Yards (B6)",
@@ -52407,7 +52382,7 @@
           "Warrior",
           "Premium"
         ],
-        "gametext": "Adds 3 to power of anything he pilots.  Deploys -2 to Hoth.  Your combat vehicles are defense value +1 at same and related locations.  While on Hoth, your AT-ATs and Imperials are deploy -1 and forfeit +1 at related locations.",
+        "gametext": "Add 3 to power of anything he pilots. Leader. Once per turn, may reveal from hand to \/ 6th marker or Blizzard 1 to Hoth. Deploys free aboard Blizzard 1. While piloting Blizzard 1, adds one destiny to total power.",
         "lore": "General of the AT-AT assault armor division sent by Darth Vader to crush the Rebellion on Hoth. Cold and ruthless.",
         "extraText": [
           "Force-Attuned"

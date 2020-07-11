@@ -14546,7 +14546,7 @@
         "icons": [
           "Episode I"
         ],
-        "gametext": "Plays on table. Once per game, may take into hand an Immediate Effect from Reserve Deck; reshuffle. While opponent occupies no battleground systems, Mobilization Points is suspended. 'Missing' on Always Thinking With Your Stomach is treated as 'landspeed = 0 for remainder of turn.'",
+        "gametext": "Plays on table. Always Thinking With Your Stomach, Ice Storm, and Sandwhirl are canceled. Once per game, may /\\ an Immediate Effect. Unless opponent occupies a battleground system, Mobilization Points is suspended.",
         "lore": "The Jedi won't tolerate silly behavior for very long."
       },
       "legacy": true
@@ -21169,10 +21169,10 @@
         "subType": "Starfighter: Heavily Modified Light Freighter",
         "destiny": 2,
         "power": 8,
-        "maneuver": 5,
+        "maneuver": 6,
         "hyperspeed": 7,
         "deploy": 6,
-        "forfeit": 6,
+        "forfeit": 8,
         "icons": [
           "Pilot x2",
           "Nav Computer",
@@ -30727,7 +30727,7 @@
         "power": 6,
         "ability": 6,
         "deploy": 6,
-        "forfeit": 7,
+        "forfeit": 9,
         "icons": [
           "Pilot",
           "Warrior",
@@ -40239,7 +40239,7 @@
         "subType": "Droid",
         "destiny": null,
         "power": 1,
-        "deploy": 3,
+        "deploy": 1,
         "forfeit": 4,
         "icons": [
           "Nav Computer",
@@ -42140,8 +42140,7 @@
         "The Rebellion's Hope",
         "Luke With Lightsaber",
         "Master Luke",
-        "Son Of Skywalker",
-        "Young Skywalker"
+        "Son Of Skywalker"
       ],
       "legacy": false
     },
@@ -43957,8 +43956,7 @@
         "The Rebellion's Hope",
         "Luke With Lightsaber",
         "Master Luke",
-        "Son Of Skywalker",
-        "Young Skywalker"
+        "Son Of Skywalker"
       ],
       "legacy": false
     },
@@ -49703,8 +49701,7 @@
         "Jedi Master",
         "Yoda (V)",
         "Yoda",
-        "Keeper Of The Peace",
-        "Young Skywalker"
+        "Keeper Of The Peace"
       ],
       "pulledBy": [
         "A Weakness Can Be Found",
@@ -55337,7 +55334,7 @@
         "power": 3,
         "armor": 4,
         "hyperspeed": 5,
-        "deploy": 5,
+        "deploy": 3,
         "forfeit": 6,
         "icons": [
           "Pilot",
@@ -57414,52 +57411,6 @@
         "gametext": "If Luke and Vader present at same site, use 1 Force to initiate a duel between them. Either is power +2 if armed with a lightsaber. Draw destiny. Opponent draws two destiny. Both players add power. Loser is placed out of play.",
         "lore": "Even though he wasn't fully prepared to face the Dark Lord of the Sith, Luke rushed to save his friends."
       },
-      "legacy": false
-    },
-    {
-      "id": 5224,
-      "side": "Light",
-      "rarity": "PM",
-      "set": "Virtual Set 8",
-      "front": {
-        "title": "•Young Skywalker",
-        "imageUrl": "https://res.starwarsccg.org/cards/Images-HT/starwars/Virtual8-Light/large/youngskywalker.gif?raw=true",
-        "type": "Character",
-        "subType": "Rebel",
-        "uniqueness": "*",
-        "destiny": 1,
-        "power": 6,
-        "ability": 6,
-        "deploy": 6,
-        "forfeit": 9,
-        "icons": [
-          "Pilot",
-          "Warrior",
-          "Death Star II"
-        ],
-        "gametext": "Adds 2 to power of anything he pilots. If drawn for weapon or battle destiny, may take into hand to cancel and redraw that destiny. Power +1 for each Dark Jedi here. During your control phase, unless a Dark Jedi at a battleground, may retrieve 1 Force. Immune to attrition < 6.",
-        "lore": "'I've taken care of everything.'",
-        "extraText": [
-          "Jedi Knight"
-        ]
-      },
-      "pulledBy": [
-        "Luke's Back",
-        "Tatooine: City Outskirts"
-      ],
-      "matching": [
-        "Artoo-Detoo In Red 5",
-        "Red 5",
-        "Luke's T-16 Skyhopper",
-        "Rogue 1"
-      ],
-      "matchingWeapon": [
-        "Anakin's Lightsaber",
-        "Luke's Blaster Pistol",
-        "Luke's Hunting Rifle",
-        "Luke's Hunting Rifle (V)",
-        "Luke's Lightsaber"
-      ],
       "legacy": false
     },
     {
