@@ -1365,7 +1365,7 @@
           "Planet",
           "Episode VII"
         ],
-        "gametext": "Light: : Once during any deploy phase, may use 1 Force to relocate Luke between any two Ahch-To sites.",
+        "gametext": "Light:  Once during any deploy phase, may use 1 Force to relocate Luke between any two Ahch-To sites.  Dark:  While you occupy an Ahch-To site, its game text is canceled. Players may not Force drain here.",
         "parsec": 9
       },
       "legacy": false
@@ -1386,7 +1386,7 @@
           "Planet",
           "Episode VII"
         ],
-        "gametext": "Light: : If Luke here or out of play, Force Projection is [Immune to Sense]."
+        "gametext": "Light:  If Luke here or out of play, Force Projection is [Immune to Sense].  Dark:  While Luke here, attrition against you everywhere is +1."
       },
       "legacy": false
     },
@@ -1407,7 +1407,7 @@
           "Planet",
           "Episode VII"
         ],
-        "gametext": "Light: : Once during your turn, if Luke alone here, may draw top card of Force Pile."
+        "gametext": "Light:  Once during your turn, if Luke alone here, may draw top card of Force Pile.  Dark:  Unless your battleground on table, you generate no Force here."
       },
       "legacy": false
     },
@@ -1427,7 +1427,7 @@
           "Planet",
           "Episode VII"
         ],
-        "gametext": "Light: : While Luke here, opponent must first use 1 Force to fire a weapon anywhere."
+        "gametext": "Light:  While Luke here, opponent must first use 1 Force to fire a weapon anywhere.  Dark:  While Luke here, destiny draws for Sense and Alter are +2."
       },
       "legacy": false
     },
@@ -1447,7 +1447,7 @@
           "Planet",
           "Episode VII"
         ],
-        "gametext": "Light: : While Luke here or out of play, you lose no Force to [Reflections II] objectives."
+        "gametext": "Light:  While Luke here or out of play, you lose no Force to [Reflections II] objectives.  Dark:  When deployed, may play a Defensive Shield from under your Starting Effect as if from hand."
       },
       "legacy": false
     },
@@ -1467,7 +1467,7 @@
           "Planet",
           "Episode VII"
         ],
-        "gametext": "Light: : May deploy [Episode VII] Luke here from Reserve Deck; reshuffle. Once per turn, if Luke alone here, may subtract 2 from opponent's total power during a battle at another location."
+        "gametext": "Light:  May deploy [Episode VII] Luke here from Reserve Deck; reshuffle. Once per turn, if Luke alone here, may subtract 2 from opponent's total power during a battle at another location.  Dark:"
       },
       "legacy": false
     },
@@ -1623,7 +1623,7 @@
         ],
         "lightSideIcons": 1,
         "darkSideIcons": 0,
-        "gametext": "Light: : Subtract 1 from each of opponent's battle destiny draws here.",
+        "gametext": "Light:  Subtract 1 from each of opponent's battle destiny draws here.  Dark:  If you control, Force drain +1 here.",
         "parsec": 2
       },
       "pulledBy": [
@@ -1650,7 +1650,7 @@
           "Special Edition",
           "Dagobah"
         ],
-        "gametext": "Light: : May not be deployed if an Alderaan site (or sector) on table. Star Cruisers ignore location deployment restrictions in their game text.",
+        "gametext": "Light:  May not be deployed if an Alderaan site (or sector) on table. Star Cruisers ignore location deployment restrictions in their game text.  Dark:  When deployed, you choose: flip Set Your Course For Alderaan immediately or at the end of your next turn.",
         "parsec": 2
       },
       "legacy": true
@@ -2584,7 +2584,7 @@
         ],
         "lightSideIcons": 2,
         "darkSideIcons": 1,
-        "gametext": "Light: : If opponent initiates a battle here, your starships may move as a 'react' to or from nearest related asteroid sector.",
+        "gametext": "Light:  If opponent initiates a battle here, your starships may move as a 'react' to or from nearest related asteroid sector.  Dark:  Your Ugnaughts deploy free aboard starships here. If you control, all your Ugnaughts on table are forfeit +2.",
         "parsec": 5
       },
       "pulledBy": [
@@ -2618,7 +2618,7 @@
         ],
         "lightSideIcons": 2,
         "darkSideIcons": 1,
-        "gametext": "Light: : Force loss from Security Precautions is reduced by 4.",
+        "gametext": "Light:  Force loss from Security Precautions is reduced by 4.  Dark:  Your Ugnaughts deploy free aboard starships here. If you control, all your Ugnaughts on table are forfeit +2.",
         "parsec": 5
       },
       "pulledBy": [
@@ -2810,7 +2810,7 @@
         ],
         "lightSideIcons": 1,
         "darkSideIcons": 1,
-        "gametext": "Light: : If you control with a starfighter, opponent's Dreadnaught-class cruisers are deploy +3 and your Force generation here is +3.",
+        "gametext": "Light:  If you control with a starfighter, opponent's Dreadnaught-class cruisers are deploy +3 and your Force generation here is +3.  Dark:  -",
         "parsec": 4
       },
       "pulledBy": [
@@ -3680,7 +3680,7 @@
         ],
         "lightSideIcons": 1,
         "darkSideIcons": 1,
-        "gametext": "Light: : 'Asteroid Rules' in effect here. If you control, may cancel Force drain at related system."
+        "gametext": "Light:  'Asteroid Rules' in effect here. If you control, may cancel Force drain at related system.  Dark:  'Asteroid Rules' in effect here."
       },
       "counterpart": "Asteroid Field",
       "legacy": false
@@ -5024,7 +5024,7 @@
         ],
         "lightSideIcons": 2,
         "darkSideIcons": 1,
-        "gametext": "Light: : If you control, opponent's characters and vehicles deploy +1 to Cloud City locations",
+        "gametext": "Light:  If you control, opponent's characters and vehicles deploy +1 to Cloud City locations  Dark:  If you control, your characters and vehicles deploy -1 to Cloud City locations.",
         "parsec": 6
       },
       "pulledBy": [
@@ -5056,7 +5056,7 @@
         ],
         "lightSideIcons": 2,
         "darkSideIcons": 1,
-        "gametext": "Light: : If you control, for each of your starships or vehicles here, your total power is +1 in battles at Cloud City sites."
+        "gametext": "Light:  If you control, for each of your starships or vehicles here, your total power is +1 in battles at Cloud City sites.  Dark:  If you control, for each of your starships or vehicles here, your total power is +1 in battles at Cloud City sites."
       },
       "pulledBy": [
         "Mindful Of The Future"
@@ -5164,7 +5164,7 @@
         ],
         "lightSideIcons": 1,
         "darkSideIcons": 0,
-        "gametext": "Light: : 'Asteroid Rules' in effect here. If you control, Force drain +1 here for each Asteroid Field at same system."
+        "gametext": "Light:  'Asteroid Rules' in effect here. If you control, Force drain +1 here for each Asteroid Field at same system.  Dark:  'Asteroid Rules' in effect here. If you control, Force drain +1 here."
       },
       "pulledBy": [
         "Roche"
@@ -5192,7 +5192,7 @@
         ],
         "lightSideIcons": 1,
         "darkSideIcons": 1,
-        "gametext": "Light: : 'Cave Rules' in effect here. If you control, may cancel Force drains at system Related to Big One."
+        "gametext": "Light:  'Cave Rules' in effect here. If you control, may cancel Force drains at system Related to Big One.  Dark:  'Cave Rules' in effect here."
       },
       "pulledBy": [
         "Roche"
@@ -5548,7 +5548,7 @@
         ],
         "lightSideIcons": 1,
         "darkSideIcons": 1,
-        "gametext": "Light: : This site may not be converted."
+        "gametext": "Light:  This site may not be converted.  Dark:  Your Docking Bay transit from here requires 1 Force. If just 'blown away', lose 4 Force."
       },
       "pulledBy": [
         "Firin Morett",
@@ -5579,7 +5579,7 @@
           "Scomp Link",
           "Endor"
         ],
-        "gametext": "Light: : If you occupy during your control phase, may release an imprisoned captive here. Immune to revolution."
+        "gametext": "Light:  If you occupy during your control phase, may release an imprisoned captive here. Immune to revolution.  Dark:  While Palpatine imprisoned here, opponent's Force drains everywhere are -1."
       },
       "legacy": true
     },
@@ -6221,7 +6221,7 @@
         ],
         "lightSideIcons": 2,
         "darkSideIcons": 1,
-        "gametext": "Light: : Your spies deploy -1 here and at related sites. If you control, characters targeted by Undercover are immune to Hutt Smooch.",
+        "gametext": "Light:  Your spies deploy -1 here and at related sites. If you control, characters targeted by Undercover are immune to Hutt Smooch.  Dark:  Force drain -X here, where X= number of spies opponent has on table.",
         "parsec": 2
       },
       "pulledBy": [
@@ -7982,7 +7982,7 @@
         ],
         "lightSideIcons": 2,
         "darkSideIcons": 1,
-        "gametext": "Light: : If you occupy with a capital starship, Force generation +2 for you here. Mon Mothma deploys -2 at any Chandrila location.",
+        "gametext": "Light:  If you occupy with a capital starship, Force generation +2 for you here. Mon Mothma deploys -2 at any Chandrila location.  Dark:  If you control with two Star Destroyers, Force drain +1 here. If you control with no capital starships, Force drain -1 here.",
         "parsec": 4
       },
       "pulledBy": [
@@ -8877,7 +8877,7 @@
         ],
         "lightSideIcons": 1,
         "darkSideIcons": 0,
-        "gametext": "Light: : If you occupy, each Bith character is destiny +2.",
+        "gametext": "Light:  If you occupy, each Bith character is destiny +2.  Dark:  If you control, each Bith character is destiny -1 and Ghhhk is power +2 in battles at a holosite.",
         "parsec": 7
       },
       "pulledBy": [
@@ -9459,7 +9459,7 @@
         ],
         "lightSideIcons": 1,
         "darkSideIcons": 1,
-        "gametext": "Light: : If you control, Force drain +1 here and may cancel Carbon- Freezing here."
+        "gametext": "Light:  If you control, Force drain +1 here and may cancel Carbon- Freezing here.  Dark:  If you control, add 1 to your Carbon-Freezing destiny."
       },
       "pulledBy": [
         "Mindful Of The Future",
@@ -9487,7 +9487,7 @@
         ],
         "lightSideIcons": 2,
         "darkSideIcons": 1,
-        "gametext": "Light: : Whenever your gambler present here wins Cloud City Sabacc, retrieve 2 Force (3 if Lando)."
+        "gametext": "Light:  Whenever your gambler present here wins Cloud City Sabacc, retrieve 2 Force (3 if Lando).  Dark:  Unless you have a gambler here, you may not use wild cards in Cloud City Sabacc."
       },
       "pulledBy": [
         "Mindful Of The Future",
@@ -9515,7 +9515,7 @@
         ],
         "lightSideIcons": 1,
         "darkSideIcons": 1,
-        "gametext": "Light: : If Weather Vane on table, characters 'hit' here are instead immediately relocated there."
+        "gametext": "Light:  If Weather Vane on table, characters 'hit' here are instead immediately relocated there.  Dark:  If Weather Vane on table, characters 'hit' here are instead immediately relocated there."
       },
       "pulledBy": [
         "Mindful Of The Future",
@@ -9543,7 +9543,7 @@
         ],
         "lightSideIcons": 1,
         "darkSideIcons": 1,
-        "gametext": "Light: : Your aliens are power +1 here. If your Lando or your Lobot here, Force drain +1 here."
+        "gametext": "Light:  Your aliens are power +1 here. If your Lando or your Lobot here, Force drain +1 here.  Dark:  Your aliens are forfeit -1 here. If your Lando or your Lobot here, Force drain +1 here."
       },
       "pulledBy": [
         "Mindful Of The Future",
@@ -9570,7 +9570,7 @@
         ],
         "lightSideIcons": 2,
         "darkSideIcons": 2,
-        "gametext": "Light: : Once during each of your control phases, may use 1 Force to retrieve one Cloud City location."
+        "gametext": "Light:  Once during each of your control phases, may use 1 Force to retrieve one Cloud City location.  Dark:  If you control, opponent's Downtown Plaza game text is canceled."
       },
       "pulledBy": [
         "Mindful Of The Future",
@@ -9598,7 +9598,7 @@
         ],
         "lightSideIcons": 2,
         "darkSideIcons": 1,
-        "gametext": "Light: : Leia is deploy -2 here."
+        "gametext": "Light:  Leia is deploy -2 here.  Dark:  If you control, Force drain -1 here."
       },
       "pulledBy": [
         "Mindful Of The Future",
@@ -9625,7 +9625,7 @@
         ],
         "lightSideIcons": 1,
         "darkSideIcons": 1,
-        "gametext": "Light: : If you occupy, during your control phase, may use 3 Force to retrieve one droid."
+        "gametext": "Light:  If you occupy, during your control phase, may use 3 Force to retrieve one droid.  Dark:  If you control without an Ugnaught, Force drain -1 here."
       },
       "pulledBy": [
         "Mindful Of The Future",
@@ -9656,7 +9656,7 @@
         ],
         "lightSideIcons": 1,
         "darkSideIcons": 2,
-        "gametext": "Light: : Your characters with lightsabers are each power +2 here."
+        "gametext": "Light:  Your characters with lightsabers are each power +2 here.  Dark:  -"
       },
       "pulledBy": [
         "Mindful Of The Future",
@@ -9684,7 +9684,7 @@
         ],
         "lightSideIcons": 2,
         "darkSideIcons": 1,
-        "gametext": "Light: : If you control, once per turn may use 1 Force to cancel a Force drain at a Cloud City site."
+        "gametext": "Light:  If you control, once per turn may use 1 Force to cancel a Force drain at a Cloud City site.  Dark:  If you control, once per turn may use 2 Force to cancel a Force drain at a Cloud City site."
       },
       "pulledBy": [
         "Mindful Of The Future",
@@ -9711,7 +9711,7 @@
         ],
         "lightSideIcons": 1,
         "darkSideIcons": 1,
-        "gametext": "Light: : Your docking bay transit from here requires 1 Force."
+        "gametext": "Light:  Your docking bay transit from here requires 1 Force.  Dark:  Your docking bay transit from here requires 2 Force."
       },
       "pulledBy": [
         "Firin Morett",
@@ -9744,7 +9744,7 @@
         ],
         "lightSideIcons": 1,
         "darkSideIcons": 0,
-        "gametext": "Light: : During your move phase, you may move free between here and any Cloud City site."
+        "gametext": "Light:  During your move phase, you may move free between here and any Cloud City site.  Dark:  If you control, Force drain +1 here."
       },
       "pulledBy": [
         "Quiet Mining Colony"
@@ -9771,7 +9771,7 @@
         ],
         "lightSideIcons": 2,
         "darkSideIcons": 1,
-        "gametext": "Light: : Your blasters present may fire at targets at nearest related exterior site."
+        "gametext": "Light:  Your blasters present may fire at targets at nearest related exterior site.  Dark:  Force drain -1 here."
       },
       "pulledBy": [
         "Mindful Of The Future",
@@ -9797,7 +9797,7 @@
         ],
         "lightSideIcons": 1,
         "darkSideIcons": 1,
-        "gametext": "Light: : If you control, once per turn, may add 1 to a Force drain at a related site. Starships are power and maneuver -2 here."
+        "gametext": "Light:  If you control, once per turn, may add 1 to a Force drain at a related site. Starships are power and maneuver -2 here.  Dark:  If you control, Force drain +1 here. Starships are power and maneuver -2 here."
       },
       "counterpart": "Clouds",
       "combo": [
@@ -10963,7 +10963,7 @@
         ],
         "lightSideIcons": 1,
         "darkSideIcons": 1,
-        "gametext": "Light: : Your Falcon and your Corellian corvettes may deploy here as a 'react.'",
+        "gametext": "Light:  Your Falcon and your Corellian corvettes may deploy here as a 'react.'  Dark:  Each of your starships are hyperspeed +1 when moving from here.",
         "parsec": 1
       },
       "pulledBy": [
@@ -10993,7 +10993,7 @@
           "Planet",
           "A New Hope"
         ],
-        "gametext": "Light: : Once per turn, if you occupy with a Corellian, may activate 1 Force.",
+        "gametext": "Light:  Once per turn, if you occupy with a Corellian, may activate 1 Force.  Dark:  Each of your starships are hyperspeed +1 when moving from here.",
         "parsec": 1
       },
       "legacy": true
@@ -11630,7 +11630,7 @@
         ],
         "lightSideIcons": 2,
         "darkSideIcons": 1,
-        "gametext": "Light: : If you control, all non-unique Rebels are power and forfeit +1 and Rebel guards may move.",
+        "gametext": "Light:  If you control, all non-unique Rebels are power and forfeit +1 and Rebel guards may move.  Dark:  If you control, Force drain -1 here.",
         "parsec": 4
       },
       "pulledBy": [
@@ -11661,7 +11661,7 @@
         ],
         "lightSideIcons": 2,
         "darkSideIcons": 1,
-        "gametext": "Light: : If you control, for each of your starships here, your total power is +1 in battles at Coruscant sites.",
+        "gametext": "Light:  If you control, for each of your starships here, your total power is +1 in battles at Coruscant sites.  Dark:  If you control, for each of your starships here, your total power is +1 in battles at Coruscant sites.",
         "parsec": 0
       },
       "pulledBy": [
@@ -11691,7 +11691,7 @@
         ],
         "lightSideIcons": 1,
         "darkSideIcons": 2,
-        "gametext": "Light: : Force drain +1 here. If Rebels control this system, Imperials and Imperial starships are deploy +2.",
+        "gametext": "Light:  Force drain +1 here. If Rebels control this system, Imperials and Imperial starships are deploy +2.  Dark:  Your starships and pilots deploy -2 here.",
         "parsec": 0
       },
       "pulledBy": [
@@ -11717,7 +11717,7 @@
         "icons": [
           "Planet"
         ],
-        "gametext": "Light: : If just converted, may raise this system to the top.",
+        "gametext": "Light:  If just converted, may raise this system to the top.  Dark:  If your Coruscant system was converted, Force generation +1 here.",
         "parsec": 0
       },
       "legacy": true
@@ -11798,7 +11798,7 @@
         ],
         "lightSideIcons": 1,
         "darkSideIcons": 1,
-        "gametext": "Light: : Your docking bay transit from here requires 1 Force."
+        "gametext": "Light:  Your docking bay transit from here requires 1 Force.  Dark:  Your docking bay transit from here requires 2 Force."
       },
       "pulledBy": [
         "Firin Morett",
@@ -11829,7 +11829,7 @@
         ],
         "lightSideIcons": 1,
         "darkSideIcons": 1,
-        "gametext": "Light: : During battles here, a character's power is equal to that character's politics."
+        "gametext": "Light:  During battles here, a character's power is equal to that character's politics.  Dark:  During battles here, a character's power is equal to that character's politics."
       },
       "counterpart": "Coruscant: Galactic Senate",
       "combo": [
@@ -11854,7 +11854,7 @@
           "Episode I",
           "Special Edition"
         ],
-        "gametext": "Light: : Once per game, if Jedi Council Chamber on table, may take Speak To The Jedi Council into hand from Reserve Deck; reshuffle."
+        "gametext": "Light:  Once per game, if Jedi Council Chamber on table, may take Speak To The Jedi Council into hand from Reserve Deck; reshuffle.  Dark:  May not be separated from Jedi Council Chamber (if on table).  Force drain +1 here."
       },
       "legacy": true
     },
@@ -11877,7 +11877,7 @@
         ],
         "lightSideIcons": 3,
         "darkSideIcons": 0,
-        "gametext": "Light: : [Episode I] Yoda may deploy here from Reserve Deck; reshuffle. Immune to Revolution."
+        "gametext": "Light:  [Episode I] Yoda may deploy here from Reserve Deck; reshuffle. Immune to Revolution.  Dark:  Non-unique lightsaber Force drain bonuses everywhere are canceled."
       },
       "pulls": [
         "Yoda",
@@ -11913,7 +11913,7 @@
           "Episode I",
           "Coruscant"
         ],
-        "gametext": "Light: : May not be deployed if your Senate on table. If you just deployed a Jedi Council Member here, may take any one card into hand from Used Pile; reshuffle."
+        "gametext": "Light:  May not be deployed if your Senate on table. If you just deployed a Jedi Council Member here, may take any one card into hand from Used Pile; reshuffle.  Dark:  If your non-battleground site on table with no related locations (or if you do not control a battleground site), [Virtual Block 5] Wipe Them Out, All Of Them is suspended."
       },
       "legacy": true
     },
@@ -11933,7 +11933,7 @@
           "Planet",
           "Scomp Link"
         ],
-        "gametext": "Light: : If your Insurgent present, Force Drain + 1 here."
+        "gametext": "Light:  If your Insurgent present, Force Drain + 1 here.  Dark:  Characters of ability > 4 are defense value -1 here."
       },
       "legacy": true
     },
@@ -11953,7 +11953,7 @@
           "Planet",
           "Scomp Link"
         ],
-        "gametext": "Light: : Attempts to 'disable' the Planetary Shield are +2 for each Rogue Squadron pilot here."
+        "gametext": "Light:  Attempts to 'disable' the Planetary Shield are +2 for each Rogue Squadron pilot here.  Dark:  While Center of Tyranny on table, you generate no Force here."
       },
       "legacy": true
     },
@@ -11973,7 +11973,7 @@
           "Planet",
           "Episode I"
         ],
-        "gametext": "Light: : Your characters here are defense value -1 and may not be excluded from battle."
+        "gametext": "Light:  Your characters here are defense value -1 and may not be excluded from battle.  Dark:  Your characters here are defense value -1 and may not be excluded from battle."
       },
       "legacy": true
     },
@@ -11996,7 +11996,7 @@
         ],
         "lightSideIcons": 2,
         "darkSideIcons": 2,
-        "gametext": "Light: : Your characters here are defense value -1 and may not be excluded from battle."
+        "gametext": "Light:  Your characters here are defense value -1 and may not be excluded from battle.  Dark:  Your characters here are defense value -1 and may not be excluded from battle."
       },
       "pulledBy": [
         "Mindful Of The Future"
@@ -12020,7 +12020,7 @@
           "Episode I",
           "Coruscant"
         ],
-        "gametext": "Light: : Starships may deploy here. Once per turn, may deploy a starship site from Reserve Deck if its starship card on table; reshuffle."
+        "gametext": "Light:  Starships may deploy here. Once per turn, may deploy a starship site from Reserve Deck if its starship card on table; reshuffle.  Dark:  Unless you occupy, [Virtual Block 5] Wipe Them Out, All Of Them ignores starship and holosite sites."
       },
       "legacy": true
     },
@@ -12478,7 +12478,8 @@
         ],
         "lightSideIcons": 2,
         "darkSideIcons": 2,
-        "parsec": 9
+        "parsec": 9,
+        "gametext": ""
       },
       "pulls": [
         "One Dagobah site",
@@ -12513,7 +12514,7 @@
         ],
         "lightSideIcons": 1,
         "darkSideIcons": 0,
-        "gametext": "Light: : Your starfighters may deploy here and immune to Awwww, Cannot Get Your Ship Out here."
+        "gametext": "Light:  Your starfighters may deploy here and immune to Awwww, Cannot Get Your Ship Out here.  Dark:  If you occupy, Force generation +1 for you here."
       },
       "pulledBy": [
         "Dagobah"
@@ -12538,7 +12539,7 @@
         ],
         "lightSideIcons": 1,
         "darkSideIcons": 0,
-        "gametext": "Light: : No starships or vehicles here. Your creatures are deploy -2 here."
+        "gametext": "Light:  No starships or vehicles here. Your creatures are deploy -2 here.  Dark:  No starships or vehicles here. If you occupy, Force generation +1 for you here."
       },
       "pulledBy": [
         "Dagobah"
@@ -12563,7 +12564,7 @@
         ],
         "lightSideIcons": 1,
         "darkSideIcons": 0,
-        "gametext": "Light: : At end of your turn, your starships and vehicles here 'sink' to Used Pile."
+        "gametext": "Light:  At end of your turn, your starships and vehicles here 'sink' to Used Pile.  Dark:  At end of your turn, your starships and vehicles here 'sink' to bottom of Lost Pile."
       },
       "pulledBy": [
         "Dagobah"
@@ -12588,7 +12589,7 @@
         ],
         "lightSideIcons": 1,
         "darkSideIcons": 1,
-        "gametext": "Light: : Once per turn, may search Reserve Deck. Take one Jedi Test into hand. Reshuffle deck."
+        "gametext": "Light:  Once per turn, may search Reserve Deck. Take one Jedi Test into hand. Reshuffle deck.  Dark:  You may use 1 Force to cancel any Force drain here."
       },
       "pulls": [
         "One Jedi Test",
@@ -12622,7 +12623,7 @@
         ],
         "lightSideIcons": 2,
         "darkSideIcons": 0,
-        "gametext": "Light: : If Yoda here, once per turn, may subtract 2 from attrition against you at another location."
+        "gametext": "Light:  If Yoda here, once per turn, may subtract 2 from attrition against you at another location.  Dark:  If you occupy, opponent's Yoda's Hut game text is canceled."
       },
       "pulledBy": [
         "Dagobah"
@@ -12676,7 +12677,7 @@
         ],
         "lightSideIcons": 1,
         "darkSideIcons": 0,
-        "gametext": "Light: : Your capital starships deploy -2 and your starfighters deploy -1 here.",
+        "gametext": "Light:  Your capital starships deploy -2 and your starfighters deploy -1 here.  Dark:  If you control, Force drain +1 here.",
         "parsec": 5
       },
       "pulledBy": [
@@ -12742,7 +12743,7 @@
           "Planet",
           "Scomp Link"
         ],
-        "gametext": "Light: : Your docking bay transit from here is free."
+        "gametext": "Light:  Your docking bay transit from here is free.  Dark:  Your docking bay transit from here requires 2 Force."
       },
       "legacy": true
     },
@@ -12762,7 +12763,7 @@
           "Planet",
           "Scomp Link"
         ],
-        "gametext": "Light: : Your T-47s may move as a 'react' to Dantooine sites. Immune to Revolution."
+        "gametext": "Light:  Your T-47s may move as a 'react' to Dantooine sites. Immune to Revolution.  Dark:  While More Dangerous Than You Realize on table, you must control three Dantooine locations to flip it back, and Dantooine system gains one [Dark Side Force]."
       },
       "conceptBy": "(Original concept by Brandon Schele - Corellia Regionals 2005)",
       "legacy": true
@@ -13250,7 +13251,7 @@
         ],
         "lightSideIcons": 0,
         "darkSideIcons": 2,
-        "gametext": "Light: : Deploy if Death Star Plans completed and and Death Star system not on table. If 'blown away,' Dark Side loses 8 Force.",
+        "gametext": "Light:  Deploy if Death Star Plans completed and and Death Star system not on table. If 'blown away,' Dark Side loses 8 Force.  Dark:  X = parsec of current position (starts at 0). Immune to Revolution. You may move Death Star (hyperspeed = 1).",
         "parsec": null
       },
       "counterpart": "Death Star",
@@ -13299,7 +13300,7 @@
         ],
         "lightSideIcons": 0,
         "darkSideIcons": 1,
-        "gametext": "Light: : If you control, Force Drain +1 here and all imprisoned characters on Death Star are released."
+        "gametext": "Light:  If you control, Force Drain +1 here and all imprisoned characters on Death Star are released.  Dark:  -"
       },
       "counterpart": "Death Star: Detention Block Control Room",
       "legacy": false
@@ -13325,7 +13326,7 @@
         "characteristics": [
           "prison"
         ],
-        "gametext": "Light: : Force drain +1 here. Whenever you release a captive here, retrieve 1 Force (4 if Leia)."
+        "gametext": "Light:  Force drain +1 here. Whenever you release a captive here, retrieve 1 Force (4 if Leia).  Dark:  During your deploy phase, IT-O and Hypo may deploy here from Reserve Deck; reshuffle."
       },
       "pulls": [
         "Hypo",
@@ -13354,7 +13355,7 @@
         ],
         "lightSideIcons": 1,
         "darkSideIcons": 1,
-        "gametext": "Light: : Your docking bay transit from here requires 1 Force."
+        "gametext": "Light:  Your docking bay transit from here requires 1 Force.  Dark:  Your docking bay transit from here requires 1 Force."
       },
       "pulledBy": [
         "Firin Morett",
@@ -13384,7 +13385,7 @@
         ],
         "lightSideIcons": 1,
         "darkSideIcons": 1,
-        "gametext": "Light: : If you control, Luke and Obi-Wan are power +2 on Death Star."
+        "gametext": "Light:  If you control, Luke and Obi-Wan are power +2 on Death Star.  Dark:  If you control, opponent needs 2 ability to control each Death Star site."
       },
       "pulledBy": [
         "Mindful Of The Future"
@@ -13409,7 +13410,7 @@
         ],
         "lightSideIcons": 0,
         "darkSideIcons": 0,
-        "gametext": "Light: : You may deploy here without presence. If you control, Force drain +1 here."
+        "gametext": "Light:  You may deploy here without presence. If you control, Force drain +1 here.  Dark:  (none)."
       },
       "legacy": false
     },
@@ -13431,7 +13432,7 @@
         ],
         "lightSideIcons": 0,
         "darkSideIcons": 1,
-        "gametext": "Light: : 'Trench Rules' in effect and each of your starfighters is maneuver - 2 here."
+        "gametext": "Light:  'Trench Rules' in effect and each of your starfighters is maneuver - 2 here.  Dark:  'Trench Rules' in effect, your weapons fire free and Turbolaser Battery may deploy here."
       },
       "pulledBy": [
         "Rebel Tech"
@@ -13554,7 +13555,7 @@
         "destiny": 0,
         "lightSideIcons": 2,
         "darkSideIcons": 1,
-        "gametext": "Light: : 'Dejarik Rules' in effect here."
+        "gametext": "Light:  'Dejarik Rules' in effect here.  Dark:  'Dejarik Rules' in effect here. Site converted by Imperial Holotable."
       },
       "pulledBy": [
         "Escape Pod (V)"
@@ -13857,7 +13858,7 @@
         ],
         "lightSideIcons": 1,
         "darkSideIcons": 1,
-        "gametext": "Light: : Your Jawas may deploy here. Sandwhirl here moves only if on Tatooine. May not be deployed to Bespin, Coruscant, Dagobah, Hoth, Kessel or Naboo."
+        "gametext": "Light:  Your Jawas may deploy here. Sandwhirl here moves only if on Tatooine. May not be deployed to Bespin, Coruscant, Dagobah, Hoth, Kessel or Naboo.  Dark:  Eash of your battle destiny draws is -1 here. Sandwhirl here moves only if on Tatooine. May not be deployed to Bespin, Coruscant, Dagobah, Hoth, Kessel or Naboo."
       },
       "pulledBy": [
         "Kirdo III"
@@ -14940,7 +14941,7 @@
         "icons": [
           "Planet"
         ],
-        "gametext": "Light: : During your control phase, if you occupy, may lose 1 Force to retrieve a trooper into hand.",
+        "gametext": "Light:  During your control phase, if you occupy, may lose 1 Force to retrieve a trooper into hand.  Dark:  Force drain -1 here.  Despair may not prevent cards from moving as a 'react' (except away from battle).",
         "parsec": 2
       },
       "legacy": true
@@ -15896,7 +15897,7 @@
         ],
         "lightSideIcons": 2,
         "darkSideIcons": 2,
-        "gametext": "Light: : Force drain -1 here. To move your starship here from Sullust, Rendezvous Point or Haven requires -1 Force.",
+        "gametext": "Light:  Force drain -1 here. To move your starship here from Sullust, Rendezvous Point or Haven requires -1 Force.  Dark:  If you have no Imperials on Endor, Force drain -1 here.",
         "parsec": 8
       },
       "pulledBy": [
@@ -15930,7 +15931,7 @@
         ],
         "lightSideIcons": 2,
         "darkSideIcons": 2,
-        "gametext": "Light: : If you have no Rebels on Endor, Force drain -1 here. If you control, each of opponent's biker scouts is forfeit -1.",
+        "gametext": "Light:  If you have no Rebels on Endor, Force drain -1 here. If you control, each of opponent's biker scouts is forfeit -1.  Dark:  If you have no Imperials on Endor, Force drain -1 here.",
         "parsec": 8
       },
       "pulledBy": [
@@ -16080,7 +16081,7 @@
         ],
         "lightSideIcons": 2,
         "darkSideIcons": 2,
-        "gametext": "Light: : During your move phase, you may move from Back Door to Bunker (or vice versa)."
+        "gametext": "Light:  During your move phase, you may move from Back Door to Bunker (or vice versa).  Dark:  If you control, during your move phase, you may move from Back Door to Bunker (or vice versa)."
       },
       "pulledBy": [
         "General Solo (V)",
@@ -16114,7 +16115,7 @@
         ],
         "lightSideIcons": 0,
         "darkSideIcons": 1,
-        "gametext": "Light: : Force drain +1 here. If you initiate a battle here, add one battle destiny."
+        "gametext": "Light:  Force drain +1 here. If you initiate a battle here, add one battle destiny.  Dark:  Once per game, you may deploy Endor Shield from Reserve Deck; reshuffle."
       },
       "pulledBy": [
         "The Shield Is Down! (V)",
@@ -16143,7 +16144,7 @@
         ],
         "lightSideIcons": 1,
         "darkSideIcons": 1,
-        "gametext": "Light: : Unless you occupy Bunker (or Back Door), your characters may not deploy here."
+        "gametext": "Light:  Unless you occupy Bunker (or Back Door), your characters may not deploy here.  Dark:  Once per game, may deploy Endor Shield from Reserve Deck; reshuffle."
       },
       "pulledBy": [
         "The Shield Is Down! (V)",
@@ -16170,7 +16171,7 @@
         ],
         "lightSideIcons": 2,
         "darkSideIcons": 0,
-        "gametext": "Light: : Your Ewoks are deploy -1 here. Chief Chirpa deploys free here."
+        "gametext": "Light:  Your Ewoks are deploy -1 here. Chief Chirpa deploys free here.  Dark:  If you control Chief Chirpa's Hut, Ewoks at Endor sites are forfeit -1."
       },
       "pulledBy": [
         "Wuta"
@@ -16198,7 +16199,7 @@
         ],
         "lightSideIcons": 2,
         "darkSideIcons": 1,
-        "gametext": "Light: : No starships or vehicles here except speeder bikes, AT-STs, Ewok gliders and creature vehicles."
+        "gametext": "Light:  No starships or vehicles here except speeder bikes, AT-STs, Ewok gliders and creature vehicles.  Dark:  No starships or vehicles here except speeder bikes, AT-STs, Ewok gliders and creature vehicles."
       },
       "pulledBy": [
         "Mindful Of The Future",
@@ -16227,7 +16228,7 @@
         ],
         "lightSideIcons": 1,
         "darkSideIcons": 1,
-        "gametext": "Light: : No starships or vehicles here. Ewok devices and Ewok weapons deploy -1 here."
+        "gametext": "Light:  No starships or vehicles here. Ewok devices and Ewok weapons deploy -1 here.  Dark:  No starships or vehicles here. If no Ewoks on Endor, Force drain +1 here."
       },
       "pulledBy": [
         "Mindful Of The Future",
@@ -16258,7 +16259,7 @@
           "Planet",
           "Endor"
         ],
-        "gametext": "Light: : Non-unique Ewoks are Heroic. While you occupy, gains one [Light Side Force]. No starships or vehicles here."
+        "gametext": "Light:  Non-unique Ewoks are Heroic. While you occupy, gains one [Light Side Force]. No starships or vehicles here.  Dark:  No starships or vehicles here. If no Ewoks on Endor, Force drain +1 here."
       },
       "legacy": true
     },
@@ -16281,7 +16282,7 @@
         ],
         "lightSideIcons": 1,
         "darkSideIcons": 1,
-        "gametext": "Light: : While a Skywalker here, Prophecy Of The Force may not relocate from here."
+        "gametext": "Light:  While a Skywalker here, Prophecy Of The Force may not relocate from here.  Dark:  No starships or vehicles here."
       },
       "pulledBy": [
         "Mindful Of The Future",
@@ -16308,7 +16309,7 @@
         ],
         "lightSideIcons": 1,
         "darkSideIcons": 1,
-        "gametext": "Light: : Your character movement from here (except for Ewoks and scouts) requires +1 landspeed."
+        "gametext": "Light:  Your character movement from here (except for Ewoks and scouts) requires +1 landspeed.  Dark:  Your character movement from here (except for Yuzzum and scouts) requires +1 landspeed."
       },
       "pulledBy": [
         "The Shield Is Down! (V)",
@@ -16335,7 +16336,7 @@
         ],
         "lightSideIcons": 2,
         "darkSideIcons": 1,
-        "gametext": "Light: : During your move phase, your scouts may move between here and any exterior Endor site."
+        "gametext": "Light:  During your move phase, your scouts may move between here and any exterior Endor site.  Dark:  If you occupy, opponent's Hidden Forest Trail game text is canceled."
       },
       "pulledBy": [
         "Mindful Of The Future",
@@ -16364,7 +16365,7 @@
         ],
         "lightSideIcons": 1,
         "darkSideIcons": 1,
-        "gametext": "Light: : Your docking bay transit from here requires 2 Force."
+        "gametext": "Light:  Your docking bay transit from here requires 2 Force.  Dark:  Your docking bay transit from here requires 1 Force (free if your Imperial present)."
       },
       "pulledBy": [
         "Firin Morett",
@@ -16396,7 +16397,7 @@
         ],
         "lightSideIcons": 2,
         "darkSideIcons": 1,
-        "gametext": "Light: : Your starfighters land here for free. Your droids and [Endor] Rebels are deploy -1 here."
+        "gametext": "Light:  Your starfighters land here for free. Your droids and [Endor] Rebels are deploy -1 here.  Dark:  If you occupy, opponent's Rebel Landing Site game text is canceled."
       },
       "pulledBy": [
         "Mindful Of The Future",
@@ -17372,7 +17373,7 @@
         ],
         "lightSideIcons": 2,
         "darkSideIcons": 1,
-        "gametext": "Light: : During your deploy phase, Hydroponics Station or Vaporator may deploy here from Reserve Deck; reshuffle. May not be deployed to Bespin, Coruscant, Dagobah, Hoth, Kessel."
+        "gametext": "Light:  During your deploy phase, Hydroponics Station or Vaporator may deploy here from Reserve Deck; reshuffle. May not be deployed to Bespin, Coruscant, Dagobah, Hoth, Kessel.  Dark:  May not be deployed to Bespin, Coruscant, Dagobah, Hoth, Kessel."
       },
       "pulls": [
         "Hydroponics Station",
@@ -17869,7 +17870,7 @@
         ],
         "lightSideIcons": 1,
         "darkSideIcons": 1,
-        "gametext": "Light: : Your characters present here are immune to attrition. May not be deployed to Bespin, Coruscant, Hoth, Kessel or Tatooine."
+        "gametext": "Light:  Your characters present here are immune to attrition. May not be deployed to Bespin, Coruscant, Hoth, Kessel or Tatooine.  Dark:  May not be deployed to Bespin, Coruscant, Hoth, Kessel or Tatooine."
       },
       "pulledBy": [],
       "counterpart": "Forest",
@@ -18885,9 +18886,9 @@
           "Jedi Knight"
         ],
         "characteristics": [
-            "General",
-            "Jedi Council Member",
-            "Leader"
+          "General",
+          "Jedi Council Member",
+          "Leader"
         ]
       },
       "legacy": false
@@ -19239,7 +19240,7 @@
           "Exterior",
           "Interior"
         ],
-        "gametext": "Light: : Your docking bay transit from here requires 1 Force (free if Yoda on Geonosis)."
+        "gametext": "Light:  Your docking bay transit from here requires 1 Force (free if Yoda on Geonosis).  Dark:  Your docking bay transit from here requires 2 Force."
       },
       "legacy": true
     },
@@ -19260,7 +19261,7 @@
           "Episode I",
           "Coruscant"
         ],
-        "gametext": "Light: : [Episode I] Yoda ignores location deployment restrictions here. Once per game may deploy Yoda here from Reserve Deck; reshuffle."
+        "gametext": "Light:  [Episode I] Yoda ignores location deployment restrictions here. Once per game may deploy Yoda here from Reserve Deck; reshuffle.  Dark:  If you control, opponent's Forward Command Center game text is canceled."
       },
       "legacy": true
     },
@@ -19280,7 +19281,7 @@
           "Planet",
           "Exterior"
         ],
-        "gametext": "Light: : Amidala, Anakin and Obi-Wan deploy -1 here."
+        "gametext": "Light:  Amidala, Anakin and Obi-Wan deploy -1 here.  Dark:  If you control, may raise your converted Petranaki Arena to the top."
       },
       "legacy": true
     },
@@ -19300,7 +19301,7 @@
           "Planet",
           "Exterior"
         ],
-        "gametext": "Light: : Your total power here is +1 for each [Clone Army] card present."
+        "gametext": "Light:  Your total power here is +1 for each [Clone Army] card present.  Dark:  Once per turn, if you control, may raise your converted Rocky Plains to the top."
       },
       "legacy": true
     },
@@ -22342,7 +22343,7 @@
         ],
         "lightSideIcons": 1,
         "darkSideIcons": 0,
-        "gametext": "Light: : Your docking bay transit from here is free. If you occupy, opponent may not move to this site."
+        "gametext": "Light:  Your docking bay transit from here is free. If you occupy, opponent may not move to this site.  Dark:  Your docking bay transit from here requires 7 Force. Your transit to here requires +9 Force."
       },
       "pulledBy": [
         "Firin Morett",
@@ -22372,7 +22373,7 @@
         ],
         "lightSideIcons": 2,
         "darkSideIcons": 0,
-        "gametext": "Light: :While you control with a Rebel here, Home One is deploy -5 and power +3."
+        "gametext": "Light: While you control with a Rebel here, Home One is deploy -5 and power +3.  Dark: Force drain -1 here. When you initiate a battle here, add one battle destiny."
       },
       "legacy": false
     },
@@ -22527,7 +22528,7 @@
         ],
         "lightSideIcons": 2,
         "darkSideIcons": 1,
-        "gametext": "Light: : If you control, for each of your starships here, your total power is +1 in battles at Hoth sites.",
+        "gametext": "Light:  If you control, for each of your starships here, your total power is +1 in battles at Hoth sites.  Dark:  If you control, for each of your starships here, your total power is +1 in battles at Hoth sites.",
         "parsec": 5
       },
       "pulledBy": [
@@ -22597,7 +22598,7 @@
           "Exterior",
           "Planet"
         ],
-        "gametext": "Light: : Your Echo Base Troopers deploy -1 here. If you control, Force drain +1 here."
+        "gametext": "Light:  Your Echo Base Troopers deploy -1 here. If you control, Force drain +1 here.  Dark:  If you control, Force drain +1 here."
       },
       "legacy": false
     },
@@ -22621,7 +22622,7 @@
         ],
         "lightSideIcons": 2,
         "darkSideIcons": 0,
-        "gametext": "Light: : If you control, with X leaders here, your total power is +X in battles at Hoth locations."
+        "gametext": "Light:  If you control, with X leaders here, your total power is +X in battles at Hoth locations.  Dark:  If you initiate a battle here, add one battle destiny. If you control, Force drain -1 here."
       },
       "pulledBy": [
         "A New Secret Base"
@@ -22647,7 +22648,7 @@
           "Scomp Link",
           "Hoth"
         ],
-        "gametext": "Light: : If Local Uprising on table, may use 1 Force to take Rendezvous Point into hand from Reserve Deck; reshuffle. Your transports are hyperspeed +2. May not be converted."
+        "gametext": "Light:  If Local Uprising on table, may use 1 Force to take Rendezvous Point into hand from Reserve Deck; reshuffle. Your transports are hyperspeed +2. May not be converted.  Dark:  Unless you occupy this site (or three related locations), The First Transport Is Away! is immune to Our First Catch Of The Day."
       },
       "legacy": true
     },
@@ -22671,7 +22672,7 @@
         ],
         "lightSideIcons": 1,
         "darkSideIcons": 0,
-        "gametext": "Light: : If you control, once per turn, may use 4 Force to raise a converted Hoth site to the top."
+        "gametext": "Light:  If you control, once per turn, may use 4 Force to raise a converted Hoth site to the top.  Dark:  -"
       },
       "pulledBy": [
         "A New Secret Base"
@@ -22696,7 +22697,7 @@
           "Planet",
           "Scomp Link"
         ],
-        "gametext": "Light: : Once per game may deploy a [Hoth] general here from Reserve Deck; reshuffle. Non-[Defensive Shield] Chasm is canceled."
+        "gametext": "Light:  Once per game may deploy a [Hoth] general here from Reserve Deck; reshuffle. Non-[Defensive Shield] Chasm is canceled.  Dark:  While 1st Marker on table, Effects may deploy here instead of on 1st Marker."
       },
       "legacy": true
     },
@@ -22720,7 +22721,7 @@
         ],
         "lightSideIcons": 1,
         "darkSideIcons": 0,
-        "gametext": "Light: : Your docking bay transit from here requires 1 Force."
+        "gametext": "Light:  Your docking bay transit from here requires 1 Force.  Dark:  Your docking bay transit from here requires 3 Force. Your transit to here requires +4 Force."
       },
       "pulledBy": [
         "A New Secret Base",
@@ -22752,7 +22753,7 @@
         ],
         "lightSideIcons": 1,
         "darkSideIcons": 0,
-        "gametext": "Light: : Once per turn, when you deploy a medical droid, it is deploy -2."
+        "gametext": "Light:  Once per turn, when you deploy a medical droid, it is deploy -2.  Dark:  If you control, with an Imperial present, Force drain +1 here."
       },
       "pulledBy": [
         "A New Secret Base"
@@ -22777,7 +22778,7 @@
           "Scomp Link",
           "Hoth"
         ],
-        "gametext": "Light: : During your deploy phase, may deploy a medical droid here from Reserve Deck; reshuffle."
+        "gametext": "Light:  During your deploy phase, may deploy a medical droid here from Reserve Deck; reshuffle.  Dark:  If your Imperial present, Force drain +1 here."
       },
       "legacy": true
     },
@@ -22796,7 +22797,7 @@
           "Exterior",
           "Planet"
         ],
-        "gametext": "Light: : 'Hoth Energy Shield Rules' in effect. Your artillery weapons here are powered."
+        "gametext": "Light:  'Hoth Energy Shield Rules' in effect. Your artillery weapons here are powered.  Dark:  'Hoth Energy Shield Rules' in effect. If 'blown away,' Light Side loses 8 Force."
       },
       "legacy": false
     },
@@ -22816,7 +22817,7 @@
           "Planet",
           "Hoth"
         ],
-        "gametext": "Light: : While Liberation on table, Hoth Energy Shield covers only this site and Echo sites. Unique (•) speeders cannot be 'thrown.'"
+        "gametext": "Light:  While Liberation on table, Hoth Energy Shield covers only this site and Echo sites. Unique (•) speeders cannot be 'thrown.'  Dark:  'Hoth Energy Shield Rules' in effect. If 'blown away,' Light Side loses 8 Force. Artillery weapons on Hoth are powered."
       },
       "legacy": true
     },
@@ -22836,7 +22837,7 @@
           "Planet",
           "Hoth"
         ],
-        "gametext": "Light: : 'Hoth Energy Shield Rules' in effect. If 'blown away,' Light Side loses 3 Force (may not be reduced)."
+        "gametext": "Dark:  While [Virtual Block 2] Imperial Occupation on table, Hoth Energy Shield covers only this site and Echo sites. You may not attempt [Hoth] Epic Events from beyond the 3rd Marker.  Light:  'Hoth Energy Shield Rules' in effect. If 'blown away,' Light Side loses 3 Force (may not be reduced)."
       },
       "legacy": true
     },
@@ -22856,7 +22857,7 @@
           "Exterior",
           "Planet"
         ],
-        "gametext": "Light: : 'Hoth Energy Shield Rules' in effect. Your artillery weapons here are powered."
+        "gametext": "Light:  'Hoth Energy Shield Rules' in effect. Your artillery weapons here are powered.  Dark:  Your movement to or from here requires +1 Force. If 'blown away,' Light Side loses 8 Force."
       },
       "legacy": false
     },
@@ -22875,7 +22876,7 @@
           "Exterior",
           "Planet"
         ],
-        "gametext": "Light: : This site does not count when calculating Epic Events."
+        "gametext": "Light:  This site does not count when calculating Epic Events.  Dark:  This site does not count when calculating Epic Events."
       },
       "legacy": false
     },
@@ -22894,7 +22895,7 @@
           "Exterior",
           "Planet"
         ],
-        "gametext": "Light: : Add 1 to each of your weapon destiny draws here."
+        "gametext": "Light:  Add 1 to each of your weapon destiny draws here.  Dark:  If you control, Force generation +1 for you here."
       },
       "legacy": false
     },
@@ -24779,7 +24780,7 @@
         ],
         "lightSideIcons": 2,
         "darkSideIcons": 1,
-        "gametext": "Light: : Creatures cannot attack here. While no Rebels present, your total power here is +2."
+        "gametext": "Light:  Creatures cannot attack here. While no Rebels present, your total power here is +2.  Dark:  Creatures cannot attack here. Force drain -1 here."
       },
       "pulledBy": [
         "Mindful Of The Future"
@@ -24804,7 +24805,7 @@
         ],
         "lightSideIcons": 2,
         "darkSideIcons": 1,
-        "gametext": "Light: : If you control, Scum And Villainy is canceled. May deploy Bo Shuda from Reserve Deck; reshuffle."
+        "gametext": "Light:  If you control, Scum And Villainy is canceled. May deploy Bo Shuda from Reserve Deck; reshuffle.  Dark:  Your alien leaders here are immune to attrition."
       },
       "pulls": [
         "Bo Shuda"
@@ -24837,7 +24838,7 @@
         ],
         "lightSideIcons": 1,
         "darkSideIcons": 1,
-        "gametext": "Light: : If you control, Force drain +1 here."
+        "gametext": "Light:  If you control, Force drain +1 here.  Dark:  Gamorrean Guards are power and forfeit +1 here."
       },
       "pulledBy": [
         "Mindful Of The Future"
@@ -24954,7 +24955,7 @@
         ],
         "lightSideIcons": 2,
         "darkSideIcons": 1,
-        "gametext": "Light: : If [Episode VII] Falcon here, Force drain +1 here.",
+        "gametext": "Light:  If [Episode VII] Falcon here, Force drain +1 here.  Dark:  Imperial starships deploy +1 here.",
         "parsec": 4
       },
       "pulledBy": [
@@ -24988,7 +24989,7 @@
         ],
         "lightSideIcons": 1,
         "darkSideIcons": 1,
-        "gametext": "Light: : Your docking bay transit from here requires 1 Force."
+        "gametext": "Light:  Your docking bay transit from here requires 1 Force.  Dark:  Your docking bay transit from here requires 2 Force."
       },
       "pulledBy": [
         "Firin Morett",
@@ -25018,7 +25019,7 @@
         ],
         "lightSideIcons": 2,
         "darkSideIcons": 1,
-        "gametext": "Light: : Your starfighters take off and land here for free."
+        "gametext": "Light:  Your starfighters take off and land here for free.  Dark:  Your gangsters and scavengers deploy -1 here."
       },
       "pulledBy": [
         "Mindful Of The Future"
@@ -25044,7 +25045,7 @@
         ],
         "lightSideIcons": 2,
         "darkSideIcons": 1,
-        "gametext": "Light: : At the start of your turn, may stack top card of Lost Pile face down on Graveyard Of Giants."
+        "gametext": "Light:  At the start of your turn, may stack top card of Lost Pile face down on Graveyard Of Giants.  Dark:  Unless opponent's scavenger present, opponent's Ravager Crash Site game text is canceled."
       },
       "pulledBy": [
         "Mindful Of The Future",
@@ -25071,7 +25072,7 @@
         ],
         "lightSideIcons": 2,
         "darkSideIcons": 0,
-        "gametext": "Light: : Once per game, may deploy Rey here from Reserve Deck; reshuffle. Rey deploys -2 here."
+        "gametext": "Light:  Once per game, may deploy Rey here from Reserve Deck; reshuffle. Rey deploys -2 here.  Dark:  If Rey present, she may not be targeted by weapons."
       },
       "pulls": [
         "Rey"
@@ -25100,7 +25101,7 @@
         ],
         "lightSideIcons": 2,
         "darkSideIcons": 2,
-        "gametext": "Light: : If you just deployed a scavenger here, may retrieve a device, droid, or weapon."
+        "gametext": "Light:  If you just deployed a scavenger here, may retrieve a device, droid, or weapon.  Dark:  Unless you occupy, your non-scavenger characters deploy and move to here for +1 Force."
       },
       "pulledBy": [
         "Mindful Of The Future",
@@ -25127,7 +25128,7 @@
         ],
         "lightSideIcons": 2,
         "darkSideIcons": 1,
-        "gametext": "Light: : Lor San Tekka is power +4 and defense value -2 here."
+        "gametext": "Light:  Lor San Tekka is power +4 and defense value -2 here.  Dark:  If your First Order character here, your total power here is +2."
       },
       "pulledBy": [
         "Mindful Of The Future",
@@ -25979,7 +25980,7 @@
         ],
         "lightSideIcons": 1,
         "darkSideIcons": 1,
-        "gametext": "Light: : Your aliens and creature vehicles are each power +1 here. May not be deployed to Bespin, Coruscant, Hoth, Kessel or Tatooine."
+        "gametext": "Light:  Your aliens and creature vehicles are each power +1 here. May not be deployed to Bespin, Coruscant, Hoth, Kessel or Tatooine.  Dark:  Force drain -1 here. Your attrition against opponent is -2 here. May not be deployed to Bespin, Coruscant, Hoth, Kessel or Tatooine."
       },
       "pulledBy": [],
       "counterpart": "Jungle",
@@ -26283,7 +26284,7 @@
           "Planet",
           "Episode I"
         ],
-        "gametext": "Light: : Once per turn, may use 1 Force to deploy a Kamino site from Reserve Deck; reshuffle.",
+        "gametext": "Light:  Once per turn, may use 1 Force to deploy a Kamino site from Reserve Deck; reshuffle.  Dark:  If opponent has two clones on table, Force drain -1 here.",
         "parsec": 7
       },
       "legacy": false
@@ -26305,7 +26306,7 @@
           "Scomp Link",
           "Episode I"
         ],
-        "gametext": "Light: : During your deploy phase, your clone here may move to a site you occupy for free."
+        "gametext": "Light:  During your deploy phase, your clone here may move to a site you occupy for free.  Dark:  If you initiate battle here, add one battle destiny. Fetts may move to and from here for free."
       },
       "legacy": false
     },
@@ -26326,7 +26327,7 @@
           "Scomp Link",
           "Episode I"
         ],
-        "gametext": "Light: : While you control, your non-unique clone troopers are power and forfeit +1."
+        "gametext": "Light:  While you control, your non-unique clone troopers are power and forfeit +1.  Dark:  Fetts deploy -1 here."
       },
       "legacy": false
     },
@@ -26415,7 +26416,7 @@
         ],
         "lightSideIcons": 2,
         "darkSideIcons": 1,
-        "gametext": "Light: : Your Wookiees and smugglers deploy -2 here.",
+        "gametext": "Light:  Your Wookiees and smugglers deploy -2 here.  Dark:  Total ability of 6 or more required for you to draw battle destiny here.",
         "parsec": 6
       },
       "pulledBy": [
@@ -26444,7 +26445,7 @@
           "A New Hope",
           "Episode I"
         ],
-        "gametext": "Light: : Once per turn, if this was your starting location, may deploy one Kashyyyk site from Reserve Deck; reshuffle.",
+        "gametext": "Light:  Once per turn, if this was your starting location, may deploy one Kashyyyk site from Reserve Deck; reshuffle.  Dark:  Total ability of 6 or more required for you to draw battle destiny here.",
         "parsec": 6
       },
       "legacy": true
@@ -26501,7 +26502,7 @@
           "Episode I",
           "Dagobah"
         ],
-        "gametext": "Light: : In battles at Kashyyyk locations, attrition against opponent is +1 (limit +3) for each Kashyyyk location you occupy with a Wookiee."
+        "gametext": "Light:  In battles at Kashyyyk locations, attrition against opponent is +1 (limit +3) for each Kashyyyk location you occupy with a Wookiee.  Dark:  Unless you occupy, your Force generation here is canceled. No starships or vehicles here."
       },
       "legacy": true
     },
@@ -26522,7 +26523,7 @@
           "Endor",
           "Episode I"
         ],
-        "gametext": "Light: : At start of your turn, may draw a card from Reserve Deck for each Kashyyyk site where all your ability is provided by Wookiees. Once per turn, may deploy Yarna d'al' Gargan from Reserve Deck; reshuffle."
+        "gametext": "Light:  At start of your turn, may draw a card from Reserve Deck for each Kashyyyk site where all your ability is provided by Wookiees. Once per turn, may deploy Yarna d'al' Gargan from Reserve Deck; reshuffle.  Dark:  Unless Mosep on table, Force lost from your Force drains here must come from opponent's hand, if possible.  All Nudjs are lost."
       },
       "legacy": true
     },
@@ -26543,7 +26544,7 @@
           "Episode I",
           "Endor"
         ],
-        "gametext": "Light: : Your Force generation is +1 at Kashyyyk sites where you have a Wookiee."
+        "gametext": "Light:  Your Force generation is +1 at Kashyyyk sites where you have a Wookiee.  Dark:  At end of opponent's deploy phase, if opponent controls this site with at least two Wookiees and has 8 or more cards in hand, lose 1 Force."
       },
       "legacy": true
     },
@@ -26789,7 +26790,7 @@
         ],
         "lightSideIcons": 1,
         "darkSideIcons": 2,
-        "gametext": "Light: : If you control, Force drain +1 here.",
+        "gametext": "Light:  If you control, Force drain +1 here.  Dark:  If you control, Kessel Run is prevented (canceled).",
         "parsec": 8
       },
       "pulledBy": [
@@ -26967,7 +26968,7 @@
         ],
         "lightSideIcons": 2,
         "darkSideIcons": 2,
-        "gametext": "Light: : If you occupy with exactly 2 starships, your total power here is +2 and Vul Tazaene anywhere is doubled.",
+        "gametext": "Light:  If you occupy with exactly 2 starships, your total power here is +2 and Vul Tazaene anywhere is doubled.  Dark:  If you occupy with exactly 2 starships, your total power here is +2.",
         "parsec": 2
       },
       "pulledBy": [
@@ -27126,7 +27127,7 @@
         ],
         "lightSideIcons": 1,
         "darkSideIcons": 1,
-        "gametext": "Light: : If you occupy, once per turn, may search Reserve Deck and take any Desert, Kitonak, or Sandwhirl into hand; reshuffle.",
+        "gametext": "Light:  If you occupy, once per turn, may search Reserve Deck and take any Desert, Kitonak, or Sandwhirl into hand; reshuffle.  Dark:  If you control, Force drain -1 here.",
         "parsec": 1
       },
       "pulls": [
@@ -29888,7 +29889,7 @@
         "type": "Effect",
         "uniqueness": "*",
         "destiny": 4,
-        "gametext": "If an Endor site on table, deploy on table. [Death Star II] Luke is deploy = 6 and may not be Disarmed. If Luke is at a battleground (even as a captive), your battle destiny draws are +1 there and, once during your turn, may \/ Luke's Lightsaber or place a card from hand on Force Pile. [Immune to Alter.]",
+        "gametext": "If an Endor site on table, deploy on table. [Death Star II] Luke is deploy = 6 and may not be Disarmed. If Luke is at a battleground (even as a captive), your battle destiny draws are +1 there and, once during your turn, may / Luke's Lightsaber or place a card from hand on Force Pile. [Immune to Alter.]",
         "lore": "The final act of Luke's ascension to Jedi Knighthood was sending off his father, draped in the garb of Vader."
       },
       "conceptBy": "(Original concept by Chris Kelly)\"",
@@ -32195,7 +32196,7 @@
         ],
         "lightSideIcons": 2,
         "darkSideIcons": 1,
-        "gametext": "Light: : If you have won a Podrace, Force drain +1 here.",
+        "gametext": "Light:  If you have won a Podrace, Force drain +1 here.  Dark:  If you have lost a Podrace, you may not draw more than one battle destiny here.",
         "parsec": 3
       },
       "pulledBy": [
@@ -32994,7 +32995,7 @@
           "Planet",
           "Episode VII"
         ],
-        "gametext": "Light: : Once per game, may deploy an [Episode VII] alien here from Reserve Deck; reshuffle."
+        "gametext": "Light:  Once per game, may deploy an [Episode VII] alien here from Reserve Deck; reshuffle.  Dark:  Force drain -1 here. While you control, Dobra Doompa is suspended."
       },
       "legacy": false
     },
@@ -33015,7 +33016,7 @@
           "Planet",
           "Episode VII"
         ],
-        "gametext": "Light: : Once per game, if you control, may retrieve a weapon or device into hand."
+        "gametext": "Light:  Once per game, if you control, may retrieve a weapon or device into hand.  Dark:  Instead of Force draining here, may retrieve a weapon or device."
       },
       "legacy": false
     },
@@ -33792,7 +33793,7 @@
         ],
         "lightSideIcons": 2,
         "darkSideIcons": 1,
-        "gametext": "Light: : If you occupy with a Star Cruiser, opponent's Star Destroyers may not deploy here. Your Star Cruisers deploy -1 here.",
+        "gametext": "Light:  If you occupy with a Star Cruiser, opponent's Star Destroyers may not deploy here. Your Star Cruisers deploy -1 here.  Dark:  If you control without a Star Destroyer, Force drain -1 here.",
         "parsec": 6
       },
       "pulledBy": [
@@ -34165,7 +34166,7 @@
           "Parsec 7",
           "Episode I"
         ],
-        "gametext": "Light: : If you control, attrition against opponent in battles on Muunilinst is +1."
+        "gametext": "Light:  If you control, attrition against opponent in battles on Muunilinst is +1.  Dark:  If you control, attrition against opponent in battles on Muunilinst is +1."
       },
       "legacy": true
     },
@@ -34185,7 +34186,7 @@
           "Planet",
           "Episode I"
         ],
-        "gametext": "Light: : Your combat vehicles here are power +1 and add 1 to each of their weapon destiny draws."
+        "gametext": "Light:  Your combat vehicles here are power +1 and add 1 to each of their weapon destiny draws.  Dark:  Unless opponent controls this site, [Presence Droid] and [Separatist] cards may move to and from here for free."
       },
       "legacy": true
     },
@@ -34206,7 +34207,7 @@
           "Exterior",
           "Interior"
         ],
-        "gametext": "Light: : Your docking bay transit from here requires 1 Force (free if a [Clone Army] card here)."
+        "gametext": "Light:  Your docking bay transit from here requires 1 Force (free if a [Clone Army] card here).  Dark:  Your docking bay transit from here requires 2 Force."
       },
       "legacy": true
     },
@@ -34226,7 +34227,7 @@
           "Planet",
           "Episode I"
         ],
-        "gametext": "Light: : -"
+        "gametext": "Light:  -  Dark:  Battle droids and [Separatist] cards are forfeit -1 and power +1 here."
       },
       "legacy": true
     },
@@ -34246,7 +34247,7 @@
           "Planet",
           "Episode I"
         ],
-        "gametext": "Light: : Your [Clone Army] characters and [Clone Army] combat vehicles may shuttle to and from this site for free."
+        "gametext": "Light:  Your [Clone Army] characters and [Clone Army] combat vehicles may shuttle to and from this site for free.  Dark:  Unless you control with a [Separatist] card, Force drain -1 here."
       },
       "legacy": true
     },
@@ -34325,7 +34326,7 @@
         ],
         "lightSideIcons": 2,
         "darkSideIcons": 2,
-        "gametext": "Light: : If you control, for each of your starships here, your total power is +1 in battles at Naboo sites.",
+        "gametext": "Light:  If you control, for each of your starships here, your total power is +1 in battles at Naboo sites.  Dark:  If you control, for each of your starships here, your total power is +1 in battles at Naboo sites.",
         "parsec": 5
       },
       "pulledBy": [
@@ -34489,7 +34490,7 @@
         ],
         "lightSideIcons": 2,
         "darkSideIcons": 2,
-        "gametext": "Light: : Once per game may take Gungan Energy Shield into hand from Reserve Deck; reshuffle."
+        "gametext": "Light:  Once per game may take Gungan Energy Shield into hand from Reserve Deck; reshuffle.  Dark:  Your AATs deploy +1 here."
       },
       "pulls": [
         "Gungan Energy Shield"
@@ -34521,7 +34522,7 @@
         ],
         "lightSideIcons": 2,
         "darkSideIcons": 0,
-        "gametext": "Light: : Once per game may take Boss Nass into hand from Reserve Deck; reshuffle."
+        "gametext": "Light:  Once per game may take Boss Nass into hand from Reserve Deck; reshuffle.  Dark:  Opponent may not Force drain here. Immune to Revolution."
       },
       "pulls": [
         "Boss Nass"
@@ -34552,7 +34553,7 @@
         ],
         "lightSideIcons": 1,
         "darkSideIcons": 0,
-        "gametext": "Light: : Your Gungans deploy -1 here and move from here for free. You may not Force drain here."
+        "gametext": "Light:  Your Gungans deploy -1 here and move from here for free. You may not Force drain here.  Dark:  Cards with ability (except Gungans deploy +4 to underwater sites. Immune to Revolution."
       },
       "pulledBy": [
         "Rep Been"
@@ -34578,7 +34579,7 @@
         ],
         "lightSideIcons": 1,
         "darkSideIcons": 1,
-        "gametext": "Light: : Your gungans are each power +1 and deploy -1 here."
+        "gametext": "Light:  Your gungans are each power +1 and deploy -1 here.  Dark:  Unless your battle droid present, Force drain -1 here."
       },
       "pulledBy": [
         "Mindful Of The Future"
@@ -34605,7 +34606,7 @@
         ],
         "lightSideIcons": 2,
         "darkSideIcons": 1,
-        "gametext": "Light: : Add 1 to each of your weapon destiny draws here."
+        "gametext": "Light:  Add 1 to each of your weapon destiny draws here.  Dark:  (none)"
       },
       "pulledBy": [
         "Mindful Of The Future"
@@ -34633,7 +34634,7 @@
         ],
         "lightSideIcons": 1,
         "darkSideIcons": 1,
-        "gametext": "Light: : Your docking bay transit from here requires 1 Force."
+        "gametext": "Light:  Your docking bay transit from here requires 1 Force.  Dark:  Your docking bay transit from here requires 2 Force."
       },
       "pulledBy": [
         "Firin Morett",
@@ -34664,7 +34665,7 @@
         ],
         "lightSideIcons": 2,
         "darkSideIcons": 2,
-        "gametext": "Light: : Your Jedi are power +2 here."
+        "gametext": "Light:  Your Jedi are power +2 here.  Dark:  Your Dark Jedi are power +1 here. Force drain -1 here."
       },
       "pulledBy": [
         "Mindful Of The Future"
@@ -34691,7 +34692,7 @@
         ],
         "lightSideIcons": 3,
         "darkSideIcons": 2,
-        "gametext": "Light: : Any characters of ability < 5 'hit' here (and all cards on them) are placed in owner's Used Pile."
+        "gametext": "Light:  Any characters of ability < 5 'hit' here (and all cards on them) are placed in owner's Used Pile.  Dark:  Any characters of ability < 5 'hit' here (and all cards on them) are placed in owner's Used Pile."
       },
       "pulledBy": [
         "Mindful Of The Future"
@@ -34718,7 +34719,7 @@
         ],
         "lightSideIcons": 1,
         "darkSideIcons": 1,
-        "gametext": "Light: : Once per game may take Ascension Guns into hand from Reserve Deck; reshuffle."
+        "gametext": "Light:  Once per game may take Ascension Guns into hand from Reserve Deck; reshuffle.  Dark:  If your battle droid present, Force drain +1 here."
       },
       "pulls": [
         "Ascension Guns",
@@ -34750,7 +34751,7 @@
         ],
         "lightSideIcons": 1,
         "darkSideIcons": 1,
-        "gametext": "Light: : Once per game, may take [Set 1] Ascension Guns into hand from Reserve Deck; reshuffle. You move to here using landspeed for free."
+        "gametext": "Light:  Once per game, may take [Set 1] Ascension Guns into hand from Reserve Deck; reshuffle. You move to here using landspeed for free.  Dark:  While We Have A Plan on table, your Force icons here are canceled."
       },
       "pulls": [
         "Ascension Guns (V)"
@@ -34776,7 +34777,7 @@
         ],
         "lightSideIcons": 2,
         "darkSideIcons": 1,
-        "gametext": "Light: : While you occupy, opponent's [Presence] droids require +1 Force to move to here."
+        "gametext": "Light:  While you occupy, opponent's [Presence] droids require +1 Force to move to here.  Dark:  (none)"
       },
       "pulledBy": [
         "Mindful Of The Future"
@@ -34847,7 +34848,7 @@
         "icons": [
           "Planet"
         ],
-        "gametext": "Light: : Force drain +1 here. If you control, once per game, may take Han's Toolkit into hand from Reserve Deck; reshuffle.",
+        "gametext": "Light:  Force drain +1 here. If you control, once per game, may take Han's Toolkit into hand from Reserve Deck; reshuffle.  Dark:  Any starship piloted by a bounty hunter is power +1 here. All Starships may move between here and Nal Hutta as a react.",
         "parsec": 3
       },
       "legacy": true
@@ -34869,7 +34870,7 @@
         ],
         "lightSideIcons": 2,
         "darkSideIcons": 1,
-        "gametext": "Light: : Force drain +1 here. Once per game, if your control, may take Han's Toolkit into hand from Reserve Deck; reshuffle.",
+        "gametext": "Light:  Force drain +1 here. Once per game, if your control, may take Han's Toolkit into hand from Reserve Deck; reshuffle.  Dark:  Starships piloted by bounty hunters are power +1 here. All starships may move between here and Nal Hutta as a react.",
         "parsec": 3
       },
       "conceptBy": "(Original concept by Jarad Konsker, New Jersey Mini Open 2011)\"",
@@ -35035,7 +35036,7 @@
           "Interior",
           "Planet"
         ],
-        "gametext": "Light: : Characters (except scoundrels and bounty hunters) are deploy +1 to Nar Shaddaa."
+        "gametext": "Light:  Characters (except scoundrels and bounty hunters) are deploy +1 to Nar Shaddaa.  Dark:  If you occupy, opponent's game text here is canceled."
       },
       "legacy": true
     },
@@ -35055,7 +35056,7 @@
           "Planet",
           "Underground"
         ],
-        "gametext": "Light: : Scoundrel's Guild is immune to No Escape and your force generation there is +1."
+        "gametext": "Light:  Scoundrel's Guild is immune to No Escape and your force generation there is +1.  Dark:  Bounty Hunters are power +1 while on Nar Shaddaa."
       },
       "legacy": true
     },
@@ -35075,7 +35076,7 @@
           "Planet",
           "Underground"
         ],
-        "gametext": "Light: : Scoundrels may move to or from here using landspeed for free."
+        "gametext": "Light:  Scoundrels may move to or from here using landspeed for free.  Dark:  Force drain -1 here unless your assassin, bounty hunter, or thief present."
       },
       "legacy": true
     },
@@ -36720,7 +36721,7 @@
         ],
         "lightSideIcons": 1,
         "darkSideIcons": 1,
-        "gametext": "Light: : If you control, each of opponent's bounty hunters is forfeit -2.",
+        "gametext": "Light:  If you control, each of opponent's bounty hunters is forfeit -2.  Dark:  Each of your bounty hunter pilots add an additional 1 to power of starships they pilot here.",
         "parsec": 7
       },
       "pulledBy": [
@@ -37173,7 +37174,7 @@
           "Planet",
           "Hoth"
         ],
-        "gametext": "Light: : May not deploy to Bespin, Coruscant, Dantooine, Kessel or Tatooine. Once per game, may deploy a device (except a comlink) or Effect that deploys on a character here."
+        "gametext": "Light:  May not deploy to Bespin, Coruscant, Dantooine, Kessel or Tatooine. Once per game, may deploy a device (except a comlink) or Effect that deploys on a character here.  Dark:  Unless opponent's matching operative at same or related site, those sites are immune to [Premium] No Escape."
       },
       "legacy": true
     },
@@ -40692,7 +40693,7 @@
         ],
         "lightSideIcons": 2,
         "darkSideIcons": 1,
-        "gametext": "Light: : If you control, all opponent's troopers are forfeit and destiny -1.",
+        "gametext": "Light:  If you control, all opponent's troopers are forfeit and destiny -1.  Dark:  If you control, you may raise your converted Raithal system to the top.",
         "parsec": 3
       },
       "pulledBy": [
@@ -40722,7 +40723,7 @@
         ],
         "lightSideIcons": 1,
         "darkSideIcons": 1,
-        "gametext": "Light: : Your starships may move here as a 'react.'",
+        "gametext": "Light:  Your starships may move here as a 'react.'  Dark:  Your capital starships deploy -2 here.",
         "parsec": 3
       },
       "pulledBy": [
@@ -41029,7 +41030,7 @@
           "Planet",
           "Tatooine"
         ],
-        "gametext": "Light: : Your starfighters may deploy here (for -1 Force), and take off and land here for free.  Incom Corporation may deploy here (once per game, may use 2 Force to deploy it here from Reserve Deck; reshuffle)."
+        "gametext": "Light:  Your starfighters may deploy here (for -1 Force), and take off and land here for free.  Incom Corporation may deploy here (once per game, may use 2 Force to deploy it here from Reserve Deck; reshuffle).  Dark:  May not deploy to Bespin, Coruscant, Dagobah, Dantooine, Endor, Hoth, or Subjugated Planet.  Rebel Cell sites are immune to Revolution and [Premium] No Escape.  Limit one copy on table."
       },
       "legacy": true
     },
@@ -41049,7 +41050,7 @@
           "Planet",
           "Special Edition"
         ],
-        "gametext": "Light: : Deploys only to same planet system as Rebel Cell - Hidden Landing Site. While you occupy, your Force drains may not be modified by opponent's objective."
+        "gametext": "Light:  Deploys only to same planet system as Rebel Cell - Hidden Landing Site. While you occupy, your Force drains may not be modified by opponent's objective.  Dark:  Unless you control, each of your weapons at Rebel Cell sites may fire only once per battle."
       },
       "legacy": true
     },
@@ -41069,7 +41070,7 @@
           "Planet",
           "Special Edition"
         ],
-        "gametext": "Light: : Your [Hoth] artillery weapons at Rebel Cell sites are powered, forfeit +2, fire for free, and are placed in Used Pile when forfeited."
+        "gametext": "Light:  Your [Hoth] artillery weapons at Rebel Cell sites are powered, forfeit +2, fire for free, and are placed in Used Pile when forfeited.  Dark:  Deploys only to same planet system as Rebel Cell - Hidden Landing Site."
       },
       "legacy": true
     },
@@ -41089,7 +41090,7 @@
           "Exterior",
           "Underground"
         ],
-        "gametext": "Light: : While [Virtual Block 4] Hidden Base on table, your unique (*) aliens are deploy -1 (to a maximum of -1)."
+        "gametext": "Light:  While [Virtual Block 4] Hidden Base on table, your unique (*) aliens are deploy -1 (to a maximum of -1).  Dark:  Deploys only to same planet as Rebel Cell - Hidden Landing Site."
       },
       "legacy": true
     },
@@ -41110,7 +41111,7 @@
           "Planet",
           "A New Hope"
         ],
-        "gametext": "Light: : Deploys only to same planet system as Rebel Cell - Hidden Landing Site. For each of your characters here, your power is +1 at related system."
+        "gametext": "Light:  Deploys only to same planet system as Rebel Cell - Hidden Landing Site. For each of your characters here, your power is +1 at related system.  Dark:  Deploys only to same planet system as Rebel Cell - Hidden Landing Site."
       },
       "legacy": true
     },
@@ -42844,7 +42845,7 @@
           "Mobile",
           "A New Hope"
         ],
-        "gametext": "Light: : During your move phase, may relocate your leader here to a site you occupy."
+        "gametext": "Light:  During your move phase, may relocate your leader here to a site you occupy.  Dark:  While Redemption is at a system you do not occupy, you may only deploy spies here."
       },
       "legacy": true
     },
@@ -42946,7 +42947,7 @@
         ],
         "lightSideIcons": 2,
         "darkSideIcons": 0,
-        "gametext": "Light: : Your starships deploy -2 here and are hyperspeed +2 when moving to or from here. Neither player may Force drain here.",
+        "gametext": "Light:  Your starships deploy -2 here and are hyperspeed +2 when moving to or from here. Neither player may Force drain here.  Dark:  -",
         "parsec": 13
       },
       "cancels": [
@@ -43871,7 +43872,7 @@
         ],
         "lightSideIcons": 1,
         "darkSideIcons": 1,
-        "gametext": "Light: : During your deploy phase, you may deploy Big One and/or Asteroid Cave to this system from Reserve Deck; reshuffle.",
+        "gametext": "Light:  During your deploy phase, you may deploy Big One and/or Asteroid Cave to this system from Reserve Deck; reshuffle.  Dark:  Force Drain -1 here. If you control, Asteroid Sanctuary at related sector is canceled.",
         "parsec": 7
       },
       "pulls": [
@@ -43904,7 +43905,7 @@
           "Planet",
           "Special Edition"
         ],
-        "gametext": "Light: : Unless opponent controls this system, Commence Primary Ignition may not target it.",
+        "gametext": "Light:  Unless opponent controls this system, Commence Primary Ignition may not target it.  Dark:  Force Drain -1 here. If you control, Asteroid Sanctuary at related sector is canceled.",
         "parsec": 7
       },
       "legacy": true
@@ -44840,7 +44841,7 @@
         "imageUrl": "https://res.starwarsccg.org/cards/Images-HT/cards/legacy/Virtual1-Light/large/saitorrkalfas.gif?raw=true",
         "type": "Effect",
         "destiny": 4,
-        "gametext": "Deploy on table. Once per turn, may \/ a matching weapon on your unique (•) character present at a site. [Immune to Alter.]",
+        "gametext": "Deploy on table. Once per turn, may / a matching weapon on your unique (•) character present at a site. [Immune to Alter.]",
         "lore": "Saurin female from planet Durkteel. Bodyguard of Hrchek, a Saurin droid trader. Sai'torr will teach battle skills to those who prove themselves worthy."
       },
       "legacy": true
@@ -44937,7 +44938,7 @@
         ],
         "lightSideIcons": 0,
         "darkSideIcons": 0,
-        "gametext": "Light: : Deploy on your sandcrawler. Each Jawa is forfeit +2 here. 'Nighttime conditions' here."
+        "gametext": "Light:  Deploy on your sandcrawler. Each Jawa is forfeit +2 here. 'Nighttime conditions' here.  Dark:  Your characters may enter/exit here for 1 Force each. 'Nighttime conditions' here."
       },
       "counterpart": "Sandcrawler: Droid Junkheap",
       "legacy": false
@@ -45135,7 +45136,7 @@
         "icons": [
           "Planet"
         ],
-        "gametext": "Light: : While Rogue One is piloted by a Rebel here, it is immune to attrition.",
+        "gametext": "Light:  While Rogue One is piloted by a Rebel here, it is immune to attrition.  Dark:  Unless your Star Destroyer here (or your Imperial at a related location), Force drain -1 here.",
         "parsec": 7
       },
       "legacy": false
@@ -45155,7 +45156,7 @@
           "Exterior",
           "Planet"
         ],
-        "gametext": "Light: : Your combat vehicles, scouts, and spies are each power +1 here. Force drain +1 here."
+        "gametext": "Light:  Your combat vehicles, scouts, and spies are each power +1 here. Force drain +1 here.  Dark:  Your combat vehicles and Imperial troopers are each forfeit +1 here."
       },
       "legacy": false
     },
@@ -45175,7 +45176,7 @@
           "Planet",
           "Scomp Link"
         ],
-        "gametext": "Light: : While opponent occupies, Stardust (and any character it is on) may not move from here."
+        "gametext": "Light:  While opponent occupies, Stardust (and any character it is on) may not move from here.  Dark:  All immunity to attrition (and Ephant Mon's game text) here is canceled."
       },
       "legacy": false
     },
@@ -45195,7 +45196,7 @@
           "Planet",
           "Scomp Link"
         ],
-        "gametext": "Light: : Your docking bay transit to or from here requires +1 Force (+4 Force if Shield Gate on table)."
+        "gametext": "Light:  Your docking bay transit to or from here requires +1 Force (+4 Force if Shield Gate on table).  Dark:  Your docking bay transit from here requires 2 Force. Your combat vehicles deploy +1 here."
       },
       "legacy": false
     },
@@ -45216,7 +45217,7 @@
           "Planet",
           "Scomp Link"
         ],
-        "gametext": "Light: : During your move phase, may move free between here and any related site."
+        "gametext": "Light:  During your move phase, may move free between here and any related site.  Dark:  If you initiate a Force drain here, may rotate this site. Immune to Expand the Empire."
       },
       "legacy": false
     },
@@ -45907,7 +45908,7 @@
           "senator",
           "female"
         ],
-        "gametext": "Agenda: rebellion. Deploys -1 aboard your capital starship. Once per turn, while in a senate majority (or Stolen Data Tapes on table), may take your just drawn battle destiny into hand. Once per game, may \/ Chandrila.",
+        "gametext": "Agenda: rebellion. Deploys -1 aboard your capital starship. Once per turn, while in a senate majority (or Stolen Data Tapes on table), may take your just drawn battle destiny into hand. Once per game, may / Chandrila.",
         "lore": "Native of Chandrila. Leader of the Alliance. A former member of the Imperial Senate where she was a formidable opponent of then-Senator Palpatine. Friend of Bail Organa."
       },
       "pulls": [
@@ -47501,7 +47502,7 @@
         ],
         "lightSideIcons": 1,
         "darkSideIcons": 1,
-        "gametext": "Light: : If you have a non-unique Rebel leader at same or related site, Force drain +1 here. May not be deployed to Bespin, Dagobah, Endor, Hoth, Kashyyyk or Yavin 4."
+        "gametext": "Light:  If you have a non-unique Rebel leader at same or related site, Force drain +1 here. May not be deployed to Bespin, Dagobah, Endor, Hoth, Kashyyyk or Yavin 4.  Dark:  If your thief or scout present, Force drain +1 here. May not be deployed to Bespin, Dagobah, Endor, Hoth, Kashyyyk or Yavin 4."
       },
       "pulledBy": [],
       "counterpart": "Spaceport City",
@@ -47526,7 +47527,7 @@
         ],
         "lightSideIcons": 1,
         "darkSideIcons": 1,
-        "gametext": "Light: : Your docking bay transit from here requires 2 Force. Your starfighters deploy -1 (or 2 is freighter) here. May not be deployed to Bespin, Dagobah, Endor, Hoth or Yavin 4."
+        "gametext": "Light:  Your docking bay transit from here requires 2 Force. Your starfighters deploy -1 (or 2 is freighter) here. May not be deployed to Bespin, Dagobah, Endor, Hoth or Yavin 4.  Dark:  Your docking bay transit from here requires 3 Force. Your pilots deploy +1 here. May not be deployed to Bespin, Dagobah, Endor, Hoth or Yavin 4."
       },
       "pulledBy": [
         "Firin Morett",
@@ -47553,7 +47554,7 @@
           "Planet",
           "Special Edition"
         ],
-        "gametext": "Light: : Once per game, if top card of your Lost Pile is a Corellian (except Corran or Han), may exchange it with a card in hand."
+        "gametext": "Light:  Once per game, if top card of your Lost Pile is a Corellian (except Corran or Han), may exchange it with a card in hand.  Dark:  May not deploy to Bespin, Dagobah, Endor, Hoth, or Yavin 4.  Characters (except Lando, bounty hunters, Corellians and smugglers) are each power and forfeit -1 here."
       },
       "conceptBy": "(Original Concept by Jonathan Murray - DragonCon Open 2009)\"",
       "legacy": true
@@ -47593,7 +47594,7 @@
         ],
         "lightSideIcons": 1,
         "darkSideIcons": 1,
-        "gametext": "Light: : During your move phase, may move free between here and any related _spaceport site. May not be deployed to Bespin, Dagobah, Endor, Hoth, Kashyyyk or Yavin 4."
+        "gametext": "Light:  During your move phase, may move free between here and any related _spaceport site. May not be deployed to Bespin, Dagobah, Endor, Hoth, Kashyyyk or Yavin 4.  Dark:  Imperials are power -1 here. May not be deployed to Bespin, Dagobah, Endor, Hoth, Kashyyyk or Yavin 4."
       },
       "pulledBy": [],
       "counterpart": "Spaceport Street",
@@ -48265,7 +48266,7 @@
         ],
         "lightSideIcons": 2,
         "darkSideIcons": 1,
-        "gametext": "Light: : To move your starship between here and Death Star II, system it orbits, or Mon Calmari requires -1 Force.",
+        "gametext": "Light:  To move your starship between here and Death Star II, system it orbits, or Mon Calmari requires -1 Force.  Dark:  Your starships deploy +1 here.",
         "parsec": 7
       },
       "pulledBy": [
@@ -48648,7 +48649,7 @@
         ],
         "lightSideIcons": 1,
         "darkSideIcons": 1,
-        "gametext": "Light: : Once during each of your deploy phases, may deploy one creature here from Reserve Deck; reshuffle. May not be deployed to Bespin, Coruscant, Hoth, Kessel or Tatooine."
+        "gametext": "Light:  Once during each of your deploy phases, may deploy one creature here from Reserve Deck; reshuffle. May not be deployed to Bespin, Coruscant, Hoth, Kessel or Tatooine.  Dark:  To initiate battle here, you must use +3 Force. You may not 'react' to or from here. May not be deployed to Bespin, Coruscant, Hoth, Kessel or Tatooine."
       },
       "pulls": [
         "One creature",
@@ -48859,7 +48860,7 @@
           "Planet",
           "Episode VII"
         ],
-        "gametext": "Light: : During your deploy phase, if you just deployed a Maz's Castle location, may draw top card of Reserve Deck.",
+        "gametext": "Light:  During your deploy phase, if you just deployed a Maz's Castle location, may draw top card of Reserve Deck.  Dark:  If you just deployed a starship here, may shuffle any deck or pile.",
         "parsec": 5
       },
       "legacy": false
@@ -48880,7 +48881,7 @@
           "Planet",
           "Episode VII"
         ],
-        "gametext": "Light: : Once per turn, may deploy a Maz's Castle site from Reserve Deck; reshuffle."
+        "gametext": "Light:  Once per turn, may deploy a Maz's Castle site from Reserve Deck; reshuffle.  Dark:  If you control, opponent must use 1 Force to use their Takodana: Maz's Castle game text."
       },
       "legacy": false
     },
@@ -49437,7 +49438,7 @@
         ],
         "lightSideIcons": 2,
         "darkSideIcons": 1,
-        "gametext": "Light: : Your movement from here using hyperspeed requires -1 Force.",
+        "gametext": "Light:  Your movement from here using hyperspeed requires -1 Force.  Dark:  Unless your [Trade Federation] or [Independent Starship] starship here, you may not draw more than one battle destiny here.",
         "parsec": 7
       },
       "pulledBy": [
@@ -49471,7 +49472,7 @@
         ],
         "lightSideIcons": 2,
         "darkSideIcons": 1,
-        "gametext": "Light: : If you control, for each of your starships here, your total power is +1 in battles at Tatooine sites.",
+        "gametext": "Light:  If you control, for each of your starships here, your total power is +1 in battles at Tatooine sites.  Dark:  If you control, for each of your starships here, your total power is +1 in battles at Tatooine sites.",
         "parsec": 7
       },
       "pulledBy": [
@@ -49563,7 +49564,7 @@
         ],
         "lightSideIcons": 1,
         "darkSideIcons": 1,
-        "gametext": "Light: : During your move phase, may move your characters from here to Mos Eisley."
+        "gametext": "Light:  During your move phase, may move your characters from here to Mos Eisley.  Dark:  If you occupy, opponent's Anchorhead game text is canceled."
       },
       "pulledBy": [
         "A Weakness Can Be Found",
@@ -49591,7 +49592,7 @@
         ],
         "lightSideIcons": 1,
         "darkSideIcons": 1,
-        "gametext": "Light: : T-16s deploy free (and are power +2) here. If you control with a T-16, Force drain +1 here."
+        "gametext": "Light:  T-16s deploy free (and are power +2) here. If you control with a T-16, Force drain +1 here.  Dark:  Your womp rats, banthas and Tusken Raiders deploy -1 here."
       },
       "pulledBy": [
         "A Weakness Can Be Found",
@@ -49622,7 +49623,7 @@
         ],
         "lightSideIcons": 2,
         "darkSideIcons": 2,
-        "gametext": "Light: : Your aliens are each power +1."
+        "gametext": "Light:  Your aliens are each power +1.  Dark:  Your aliens here, except Tusken Raiders, are each forfeit +1."
       },
       "pulledBy": [
         "A Weakness Can Be Found",
@@ -49648,7 +49649,7 @@
           "Interior",
           "Planet"
         ],
-        "gametext": "Light: : [Virtual Block 8] Scoundrels are smugglers. May use 1 Force to deploy Mose Eisley from reserve deck; reshuffle. Immune to Revolution."
+        "gametext": "Light:  [Virtual Block 8] Scoundrels are smugglers. May use 1 Force to deploy Mose Eisley from reserve deck; reshuffle. Immune to Revolution.  Dark:  You lose no Force to Force Drains at opponent's Kessel system. May not be converted."
       },
       "legacy": true
     },
@@ -49671,7 +49672,7 @@
         ],
         "lightSideIcons": 2,
         "darkSideIcons": 1,
-        "gametext": "Light: : Once per game, may deploy a Jedi here from Reserve Deck; reshuffle."
+        "gametext": "Light:  Once per game, may deploy a Jedi here from Reserve Deck; reshuffle.  Dark:  Maul moves to here for free when using his landspeed."
       },
       "pulls": [
         "Aayla Secura",
@@ -49729,7 +49730,7 @@
         ],
         "lightSideIcons": 1,
         "darkSideIcons": 1,
-        "gametext": "Light: : Your character movement from here (except for scouts) requires +1 landspeed."
+        "gametext": "Light:  Your character movement from here (except for scouts) requires +1 landspeed.  Dark:  Your character movement from here (except for scouts) requires +1 landspeed."
       },
       "pulledBy": [
         "Yarna d'al' Gargan (V)"
@@ -49760,7 +49761,7 @@
         ],
         "lightSideIcons": 1,
         "darkSideIcons": 1,
-        "gametext": "Light: : Your docking bay transit from here requires 1 Force."
+        "gametext": "Light:  Your docking bay transit from here requires 1 Force.  Dark:  Your docking bay transit from here requires 2 Force."
       },
       "pulledBy": [
         "A Weakness Can Be Found",
@@ -49793,7 +49794,7 @@
         ],
         "lightSideIcons": 1,
         "darkSideIcons": 1,
-        "gametext": "Light: : -"
+        "gametext": "Light:  -  Dark:  Total ability of 6 or more required for you to draw battle destiny here."
       },
       "pulledBy": [
         "A Weakness Can Be Found",
@@ -49821,7 +49822,7 @@
         ],
         "lightSideIcons": 1,
         "darkSideIcons": 1,
-        "gametext": "Light: : If you occupy with a Jawa, opponent may not draw battle destiny here."
+        "gametext": "Light:  If you occupy with a Jawa, opponent may not draw battle destiny here.  Dark:  If you occupy with a Tusken Raider, opponent may not draw battle destiny here."
       },
       "pulledBy": [
         "A Weakness Can Be Found",
@@ -49852,7 +49853,7 @@
         ],
         "lightSideIcons": 2,
         "darkSideIcons": 1,
-        "gametext": "Light: : Your characters here aboard vehicles are each power +1."
+        "gametext": "Light:  Your characters here aboard vehicles are each power +1.  Dark:  Unless you control Hutt Trade Route, your game text on Tatooine: Jabba's Palace is canceled."
       },
       "pulledBy": [
         "A Weakness Can Be Found",
@@ -49880,7 +49881,7 @@
         ],
         "lightSideIcons": 2,
         "darkSideIcons": 1,
-        "gametext": "Light: : If you occupy with an alien, Bo Shuda cannot be canceled."
+        "gametext": "Light:  If you occupy with an alien, Bo Shuda cannot be canceled.  Dark:  When deployed, lose 1 Force for each of your Jabba's Palace sites that you do not occupy."
       },
       "pulledBy": [
         "A Weakness Can Be Found",
@@ -49912,7 +49913,7 @@
         ],
         "lightSideIcons": 1,
         "darkSideIcons": 1,
-        "gametext": "Light: : Your Jawas deploy here for 1 Force from you only, for free if Sandcrawler present."
+        "gametext": "Light:  Your Jawas deploy here for 1 Force from you only, for free if Sandcrawler present.  Dark:  -"
       },
       "pulledBy": [
         "A Weakness Can Be Found",
@@ -49938,7 +49939,7 @@
           "Exterior",
           "Planet"
         ],
-        "gametext": "Light: : Your non-unique Jawas deploy for 1 Force from you only. Your deserts gain one [Light Side Force]."
+        "gametext": "Light:  Your non-unique Jawas deploy for 1 Force from you only. Your deserts gain one [Light Side Force].  Dark:  If you control, opponent's Jawas and Sandcrawlers are power and forfeit -1."
       },
       "legacy": true
     },
@@ -49960,7 +49961,7 @@
         ],
         "lightSideIcons": 1,
         "darkSideIcons": 1,
-        "gametext": "Light: : Your Jawas are each power +1 and forfeit +2 here."
+        "gametext": "Light:  Your Jawas are each power +1 and forfeit +2 here.  Dark:  Force drain -1 here unless your Jawa is at this site."
       },
       "pulledBy": [
         "A Weakness Can Be Found",
@@ -49989,7 +49990,7 @@
         ],
         "lightSideIcons": 1,
         "darkSideIcons": 1,
-        "gametext": "Light: : If you control, Force drain +1 here (+2 if a Vaporator present)."
+        "gametext": "Light:  If you control, Force drain +1 here (+2 if a Vaporator present).  Dark:  If you control with a Tusken Raider present, Force drain +1 here."
       },
       "pulledBy": [
         "A Weakness Can Be Found",
@@ -50023,7 +50024,7 @@
         ],
         "lightSideIcons": 2,
         "darkSideIcons": 1,
-        "gametext": "Light: : Beru Lars and Luke deploy -1 here."
+        "gametext": "Light:  Beru Lars and Luke deploy -1 here.  Dark:  Add 1 to each of your weapon destiny draws here."
       },
       "pulledBy": [
         "A Weakness Can Be Found",
@@ -50051,7 +50052,7 @@
           "Planet",
           "Scomp Link"
         ],
-        "gametext": "Light: : Once per game, may deploy a non-[Reflections II] Lars here from Reserve Deck; reshuffle. While a Lars present here with a hydroponics station or vaporator, your Force generation here is +1 (+2 if with both)."
+        "gametext": "Light:  Once per game, may deploy a non-[Reflections II] Lars here from Reserve Deck; reshuffle. While a Lars present here with a hydroponics station or vaporator, your Force generation here is +1 (+2 if with both).  Dark:  While No One To Stop Us This Time on table, Imperials are deploy -1 here."
       },
       "legacy": true
     },
@@ -50074,7 +50075,7 @@
         ],
         "lightSideIcons": 2,
         "darkSideIcons": 1,
-        "gametext": "Light: : Anakin, Beru and Owen may move to or from here for free when using landspeed."
+        "gametext": "Light:  Anakin, Beru and Owen may move to or from here for free when using landspeed.  Dark:  Unless Vader or your trooper here, Force drain -1 here (if both here, Force drain +1 instead)."
       },
       "pulledBy": [
         "A Weakness Can Be Found",
@@ -50105,7 +50106,7 @@
         ],
         "lightSideIcons": 1,
         "darkSideIcons": 1,
-        "gametext": "Light: : If you control, once during each of your control phases may use 2 Force to retrieve 1 Force."
+        "gametext": "Light:  If you control, once during each of your control phases may use 2 Force to retrieve 1 Force.  Dark:  If you control, once during each of your control phases may use 4 Force to retrieve 1 Force."
       },
       "pulledBy": [
         "A Weakness Can Be Found",
@@ -50134,7 +50135,7 @@
         ],
         "lightSideIcons": 2,
         "darkSideIcons": 1,
-        "gametext": "Light: : During your control phase, you may move free from here directly to Cantina (or vice versa)."
+        "gametext": "Light:  During your control phase, you may move free from here directly to Cantina (or vice versa).  Dark:  -"
       },
       "pulledBy": [
         "A Weakness Can Be Found",
@@ -50170,7 +50171,7 @@
         ],
         "lightSideIcons": 2,
         "darkSideIcons": 1,
-        "gametext": "Light: : During your control phase, may move your characters from Slave Quarters to here."
+        "gametext": "Light:  During your control phase, may move your characters from Slave Quarters to here.  Dark:  -"
       },
       "pulledBy": [
         "A Weakness Can Be Found",
@@ -50201,7 +50202,7 @@
         ],
         "lightSideIcons": 1,
         "darkSideIcons": 1,
-        "gametext": "Light: : Your docking bay transit from here requires 1 Force."
+        "gametext": "Light:  Your docking bay transit from here requires 1 Force.  Dark:  Your docking bay transit from here requires 2 Force."
       },
       "pulledBy": [
         "A Weakness Can Be Found",
@@ -50234,7 +50235,7 @@
         ],
         "lightSideIcons": 2,
         "darkSideIcons": 0,
-        "gametext": "Light: : Obi-Wan is deploy -3 here."
+        "gametext": "Light:  Obi-Wan is deploy -3 here.  Dark:  If you control, Force drain +1 here."
       },
       "combo": [
         "Tatooine: Obi-Wan's Hut + B'omarr Monk Drain for two at Obi's Hut."
@@ -50256,7 +50257,7 @@
           "Exterior",
           "Planet"
         ],
-        "gametext": "Light: : Once per turn, if Obi-Wan 'communing' may deploy from Reserve Deck an effect with 'Rebel' in title; reshuffle."
+        "gametext": "Light:  Once per turn, if Obi-Wan 'communing' may deploy from Reserve Deck an effect with 'Rebel' in title; reshuffle.  Dark:  If you control, Force drain +1 here."
       },
       "legacy": true
     },
@@ -50279,7 +50280,7 @@
         ],
         "lightSideIcons": 1,
         "darkSideIcons": 1,
-        "gametext": "Light: : While either player's race total > 0, no battles or Force drains here."
+        "gametext": "Light:  While either player's race total > 0, no battles or Force drains here.  Dark:  While either player's race total > 0, no battles or Force drains here."
       },
       "pulledBy": [
         "A Weakness Can Be Found",
@@ -50309,7 +50310,7 @@
         ],
         "lightSideIcons": 1,
         "darkSideIcons": 1,
-        "gametext": "Light: : If you control, once per turn may exchange your top race destiny with top card of Lost Pile."
+        "gametext": "Light:  If you control, once per turn may exchange your top race destiny with top card of Lost Pile.  Dark:  If you control, once per turn may exchange your top race destiny with top card of Lost Pile."
       },
       "pulledBy": [
         "A Weakness Can Be Found",
@@ -50340,7 +50341,7 @@
           "Episode I",
           "Premium"
         ],
-        "gametext": "Light: : Once per turn, may deploy Ric Olie and/or a 327 Nubian here (for -1 Force each) from Reserve Deck; reshuffle."
+        "gametext": "Light:  Once per turn, may deploy Ric Olie and/or a 327 Nubian here (for -1 Force each) from Reserve Deck; reshuffle.  Dark:  Force drain +1 here. Opponent may not Force drain here."
       },
       "legacy": true
     },
@@ -50363,7 +50364,7 @@
         ],
         "lightSideIcons": 2,
         "darkSideIcons": 0,
-        "gametext": "Light: : Once per game may deploy Shmi here from Reserve Deck; reshuffle."
+        "gametext": "Light:  Once per game may deploy Shmi here from Reserve Deck; reshuffle.  Dark:  If Watto present, Force Drain +1 here."
       },
       "pulls": [
         "Shmi Skywalker"
@@ -50388,7 +50389,7 @@
         ],
         "lightSideIcons": 1,
         "darkSideIcons": 1,
-        "gametext": "Light: : You generate +X Force here, where X=power of your highest forfeit character here."
+        "gametext": "Light:  You generate +X Force here, where X=power of your highest forfeit character here.  Dark:  If you occupy, opponent's Tosche Station game text is canceled."
       },
       "pulledBy": [
         "Diplomatic Mission To Alderaan",
@@ -50417,7 +50418,7 @@
         ],
         "lightSideIcons": 1,
         "darkSideIcons": 1,
-        "gametext": "Light: : While you occupy, Force generation +2 here. Immune to Revolution."
+        "gametext": "Light:  While you occupy, Force generation +2 here. Immune to Revolution.  Dark:  If Watto present, Force drain +1 here and opponent's battle destiny draws here are -2."
       },
       "pulledBy": [
         "Diplomatic Mission To Alderaan",
@@ -52322,7 +52323,7 @@
         ],
         "lightSideIcons": 1,
         "darkSideIcons": 1,
-        "gametext": "Light: : If you occupy, during your control phase, may exchange three cards in hand for any one card in your Lost Pile.",
+        "gametext": "Light:  If you occupy, during your control phase, may exchange three cards in hand for any one card in your Lost Pile.  Dark:  If you control, Force drain +1 here.",
         "parsec": 2
       },
       "pulledBy": [
@@ -56260,7 +56261,7 @@
         ],
         "lightSideIcons": 2,
         "darkSideIcons": 1,
-        "gametext": "Light: : If you control, for each of your starships here, your total power is +1 in battles at Yavin 4 sites.",
+        "gametext": "Light:  If you control, for each of your starships here, your total power is +1 in battles at Yavin 4 sites.  Dark:  If you control, for each of your starships here, your total power is +1 in battles at Yavin 4 sites.",
         "parsec": 4
       },
       "pulledBy": [
@@ -56287,7 +56288,7 @@
         "icons": [
           "Planet"
         ],
-        "gametext": "Light: : Once per game, if a Critical Mission is deployed here may deploy from reserve deck an Effect on Yavin 4; reshuffle.",
+        "gametext": "Light:  Once per game, if a Critical Mission is deployed here may deploy from reserve deck an Effect on Yavin 4; reshuffle.  Dark:  Yavin 4 and starships here are immune to Lateral Damage.",
         "parsec": 4
       },
       "legacy": true
@@ -56306,7 +56307,7 @@
         "icons": [
           "Planet"
         ],
-        "gametext": "Light: : If Haven is canceled, place it in your Used Pile.",
+        "gametext": "Light:  If Haven is canceled, place it in your Used Pile.  Dark:  Unless you control, you may not deploy Effects on related locations.",
         "parsec": 4
       },
       "legacy": false
@@ -56382,7 +56383,7 @@
         ],
         "lightSideIcons": 1,
         "darkSideIcons": 0,
-        "gametext": "Light: : If you control, with a leader here, may add 1 to total of Attack Run."
+        "gametext": "Light:  If you control, with a leader here, may add 1 to total of Attack Run.  Dark:  If you control, Force drain +1 here and subtract 1 from total of Attack Run."
       },
       "legacy": false
     },
@@ -56406,7 +56407,7 @@
         ],
         "lightSideIcons": 1,
         "darkSideIcons": 1,
-        "gametext": "Light: : Your docking bay transit from here is free."
+        "gametext": "Light:  Your docking bay transit from here is free.  Dark:  Your docking bay transit from here requires 2 Force."
       },
       "pulledBy": [
         "Firin Morett",
@@ -56434,7 +56435,7 @@
           "Planet",
           "A New Hope"
         ],
-        "gametext": "Light: : If a Dark Jedi on table, Force drain -1 here. Once per game, may deploy Jedi Luke here from Reserve Deck; reshuffle."
+        "gametext": "Light:  If a Dark Jedi on table, Force drain -1 here. Once per game, may deploy Jedi Luke here from Reserve Deck; reshuffle.  Dark:  While opponent's non-[Episode I] Jedi here, destiny draws for Sense and Alter may not be modified."
       },
       "conceptBy": "(Original concept by Charles Clarkson - New York States 2006)\"",
       "legacy": true
@@ -56457,7 +56458,7 @@
         ],
         "lightSideIcons": 1,
         "darkSideIcons": 0,
-        "gametext": "Light: : A Rebel alone here battles at power +2 and is immune to attrition."
+        "gametext": "Light:  A Rebel alone here battles at power +2 and is immune to attrition.  Dark:  If you control, Force drain +1 here."
       },
       "counterpart": "Yavin 4: Jungle",
       "legacy": false
@@ -56480,7 +56481,7 @@
         ],
         "lightSideIcons": 2,
         "darkSideIcons": 0,
-        "gametext": "Light: : May not be separated from interior Yavin 4 sites. If you control, Attack Run total is +2."
+        "gametext": "Light:  May not be separated from interior Yavin 4 sites. If you control, Attack Run total is +2.  Dark:  May not be separated from interior Yavin 4 sites. If you occupy, Attack Run total is -4."
       },
       "legacy": false
     },
@@ -56502,7 +56503,7 @@
         ],
         "lightSideIcons": 2,
         "darkSideIcons": 0,
-        "gametext": "Light: : If you control, with a leader here, your starships are each power +1 at Death Star system."
+        "gametext": "Light:  If you control, with a leader here, your starships are each power +1 at Death Star system.  Dark:  If you control, Force drain +1 here."
       },
       "legacy": false
     },
@@ -56521,7 +56522,7 @@
           "Exterior",
           "Planet"
         ],
-        "gametext": "Light: : If Yavin 4 'blown away', Force loss is reduced by 4."
+        "gametext": "Light:  If Yavin 4 'blown away', Force loss is reduced by 4.  Dark:  If Yavin 4 system on table, Force drain -1 here."
       },
       "legacy": false
     },
@@ -56543,7 +56544,7 @@
         ],
         "lightSideIcons": 1,
         "darkSideIcons": 0,
-        "gametext": "Light: : If this is your starting location, Light Side goes first in game."
+        "gametext": "Light:  If this is your starting location, Light Side goes first in game.  Dark:  If you control, Force drain +1 here."
       },
       "legacy": false
     },
@@ -56566,7 +56567,7 @@
         ],
         "lightSideIcons": 2,
         "darkSideIcons": 0,
-        "gametext": "Light: : If you control, with a leader here, all Stormtroopers and TIEs on table are forfeit -1."
+        "gametext": "Light:  If you control, with a leader here, all Stormtroopers and TIEs on table are forfeit -1.  Dark:  If you initiate a battle here, add one battle destiny."
       },
       "legacy": false
     },
@@ -56586,7 +56587,7 @@
           "Planet",
           "Scomp Link"
         ],
-        "gametext": "Light: : Once per game, may take into hand Rebel Aces from Reserve Deck; reshuffle and/or exchange a card in hand with top card of Force Pile."
+        "gametext": "Light:  Once per game, may take into hand Rebel Aces from Reserve Deck; reshuffle and/or exchange a card in hand with top card of Force Pile.  Dark:  You lose no more than 2 Force from Force Drains at non-liberated systems."
       },
       "legacy": true
     },
@@ -56609,7 +56610,7 @@
         ],
         "lightSideIcons": 2,
         "darkSideIcons": 0,
-        "gametext": "Light: : Once per game, may deploy a Rebel leader here from Reserve deck; reshuffle."
+        "gametext": "Light:  Once per game, may deploy a Rebel leader here from Reserve deck; reshuffle.  Dark:  Opponent's characters here are immune to Set For Stun."
       },
       "pulls": [
         "Admiral Ackbar",
