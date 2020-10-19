@@ -6,6 +6,7 @@ For more information about Star Wars CCG, check out the SWCCG Players Committee 
 
 ## Who Uses This?
 This database is currently used by Scomp Link Access (https://scomp.starwarsccg.org/)
+Also used by the Comlink Android app (https://play.google.com/store/apps/details?id=com.hatfat.swccg)
 
 If you use this for your personal projects, please let us know so we can link ot your project!
 
