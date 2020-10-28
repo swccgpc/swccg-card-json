@@ -30083,7 +30083,7 @@
         "characteristics": [
           "Royal Guard"
         ],
-        "gametext": "When deployed, may take a Royal Guard into hand from Reserve Deck; reshuffle. If in battle with an Imperial, once per game may cancel a non-[Immune to Sense] Interrupt.",
+        "gametext": "When deployed, may take a Royal Guard into hand from Reserve Deck; reshuffle. During battle, if present at a site with an Imperial, once per game may cancel a non-[Immune to Sense] Interrupt.",
         "lore": "Fiercely devoted Royal Guard. Feels deeply indebted to those who risk their life for him. Unaware of the extent of Palpatine's atrocities and cruelty.",
         "extraText": [
           "Force-Attuned"
@@ -41258,7 +41258,7 @@
         "characteristics": [
           "Jawa"
         ],
-        "gametext": "Once per game, may take one Jawa Blaster or a card with 'sandcrawler' in title or gametext into hand from Reserve Deck; reshuffle. Once per turn, if present at a Tatooine battleground and there is more than 1 Force in opponent's Force Pile, you may use 1 Force in opponent's Force Pile.",
+        "gametext": "Once per game, may take Jawa Blaster or a card with 'sandcrawler' in title or gametext into hand from Reserve Deck; reshuffle. During opponent's turn, if present at a Tatooine battleground and there is more than 1 Force in opponent's Force Pile, you may use 1 Force in opponent's Force Pile.",
         "lore": "Jawa"
       },
       "pulls": [
@@ -55914,7 +55914,7 @@
         "characteristics": [
           "leader"
         ],
-        "gametext": "Adds 2 to anything he pilots. Rebels here (and at adjacent sites if your E-web blaster here) are power -1. When deployed, may / an E-web blaster or an Imperial stormtrooper for -3 Force.",
+        "gametext": "Adds 2 to anything he pilots. Rebels here (and at adjacent sites if your E-web blaster here) are power -1. When deployed, may / an E-web blaster or an Imperial stormtrooper for -2 Force.",
         "lore": "ISB Leader."
       },
       "pulls": [
@@ -55957,7 +55957,7 @@
         "icons": [
           "Cloud City"
         ],
-        "gametext": "If you have deployed a site with exactly two [Dark Side Force] (and no other locations), deploy a battleground site. Then, unless you have deployed a site with 'Palace in title, may deploy up to three Effects that are always immune to Alter. Place Interrupt in Lost Pile.",
+        "gametext": "If you have deployed a site with exactly two [Dark Side Force] (and no other locations), deploy a battleground site. Then, unless you have deployed Imperial Square or a site with 'Palace' in title, deploy up to three Effects that are always immune to Alter. Place Interrupt in Lost Pile.",
         "lore": "Luke got the shafe"
       },
       "pulls": [

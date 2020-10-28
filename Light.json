@@ -32173,7 +32173,8 @@
         "imageUrl": "https://res.starwarsccg.org/cards/Images-HT/starwars/Virtual11-Light/large/maketenmenfeellikeahundred.gif?raw=true",
         "type": "Effect",
         "destiny": 5,
-        "gametext": "If Stardust on table, deploy on table. Saw is a Resistance Agent and spy. Once per game, may deploy Saw from Reserve Deck; reshuffle. Rebel spies are deploy -1 to Scarif. Once per battle, if you just drew a Rebel spy for destiny, may retrieve 1 Force. Nightfall is canceled. [Immune to Alter.]",
+        "gametext": "If 
+ on table, deploy on table. Nightfall is canceled. Saw is a spy. Rebel spies deploy -1 to Scarif. Once per battle, if you just drew a Rebel spy for destiny, may retrieve 1 Force. [Immune to Alter.]",
         "lore": "Blank."
       },
       "legacy": false
@@ -40240,13 +40241,13 @@
         "subType": "Droid",
         "destiny": null,
         "power": 1,
-        "deploy": 1,
+        "deploy": 3,
         "forfeit": 4,
         "icons": [
           "Nav Computer",
           "A New Hope"
         ],
-        "gametext": "While aboard a starfighter, adds 2 to power, maneuver, and hyperspeed. While with a Scomp Link, adds one [Light Side Force] and, once per game, if about to be lost, may place in Used Pile. Immune to Fire Extinguisher and Restraining Bolt.",
+        "gametext": "While present with a Scomp Link, adds one [Light Side] icon here. While aboard a starfighter, adds 2 to power, maneuver and hyperspeed. Immune to Fire Extinguisher.",
         "lore": "Fiesty. Loyal. Heroic. Insecure. Rebel spy. Excels at trouble. Incorrigible counterpart of a mindless philosopher. Has picked up a slight flutter. A bit eccentric.",
         "extraText": [
           "Astromech Droid"
@@ -40267,7 +40268,7 @@
         "uniqueness": "*",
         "destiny": null,
         "power": 1,
-        "deploy": 3,
+        "deploy": 2,
         "forfeit": 4,
         "icons": [
           "Nav Computer",
@@ -40277,7 +40278,7 @@
           "r-unit",
           "spy"
         ],
-        "gametext": "While present with a Scomp Link, adds one [Light Side] icon here. While aboard a starfighter, adds 2 to power, maneuver and hyperspeed. Immune to Fire Extinguisher.",
+        "gametext": "While aboard a starfighter, adds 2 to power, maneuver, and hyperspeed. While with a Scomp Link, adds one [Light Side Force] icon here. Immune to Fire Extinguisher and Restraining Bolt.",
         "lore": "Fiesty. Loyal. Heroic. Insecure. Rebel spy. Excels at trouble. Incorrigible counterpart of a mindless philosopher. Has picked up a slight flutter. A bit eccentric.",
         "extraText": [
           "Astromech Droid"
@@ -45076,7 +45077,7 @@
         "icons": [
           "Warrior"
         ],
-        "gametext": "Attrition against opponent is +1 here for each of their characters present. Opponent may not reduce your Force drains here. Once per game, if in battle with an Imperial or Rebel, may lose top card of Reserve Deck to cancel a non-[Immune to Sense] Interrupt.",
+        "gametext": "Attrition against opponent is +1 here for each of their characters present. Opponent may not reduce your Force drains here. Cancels Trooper Assault here.",
         "lore": "Leader.",
         "extraText": [
           "Force-Attuned"
@@ -47838,7 +47839,7 @@
         "imageUrl": "https://res.starwarsccg.org/cards/Images-HT/starwars/Virtual9-Light/large/stardust.gif?raw=true",
         "type": "Effect",
         "destiny": 6,
-        "gametext": "Deploy on Data Vault. At any time, may relocate Stardust to your spy present. During your control phase, if on your spy at a battleground you occupy, opponent loses 2 Force. If about to leave table, relocate to Data Vault (if possible). (Immune to Alter.)",
+        "gametext": "Deploy on Data Vault. At any time, may relocate Stardust to your spy present. During your control phase, if on your spy at a battleground you occupy, opponent loses 1 Force. If about to leave table, relocate to Data Vault (if possible). (Immune to Alter.)",
         "lore": "Blank."
       },
       "legacy": false
@@ -51169,7 +51170,7 @@
         "icons": [
           "Episode VII"
         ],
-        "gametext": "The Galaxy May Need A Legend:Deploy Ahch-To system and any [Episode VII] battleground.{For} remainder of game, you may not Force drain on Ahch-To. You may not deploy [Episode I] locations or non-[Episode VII] Luke. Once per game, may take any one card into hand from Force Pile; reshuffle. Luke deploys only to Ahch-To.{While} this side up, once per turn, may use 1 Force to deploy an Ahch-To location or [Episode VII] battleground from Reserve Deck; reshuffle.May {flip} this card if Luke on Ahch-To and a battle was just initiated involving a Resistance character.We Need Luke Skywalker:{Immediately} place Luke out of play (ignore [Death Star II] objective restrictions, if any). For remainder of battle, opponent may not fire weapons.{While} this side up, opponent's immunity to attrition is limited to < 5. Your Force drains are +1 where you have two unique (•) Resistance characters. Once during your turn, may peek at the top card of your Force Pile and Reserve Deck; place both cards (in any order) on top of one of those piles. Once per turn during battle, may cancel an opponent's just drawn destiny to cause a re-draw."
+        "gametext": "The Galaxy May Need A Legend:Deploy Ahch-To system and any [Episode VII] battleground.{For} remainder of game, you may not Force drain on Ahch-To. You may not deploy [Episode I] locations or non-[Episode VII] Luke. Once per game, may take any one card into hand from Force Pile; reshuffle. Luke deploys only to Ahch-To.{While} this side up, once per turn, may use 1 Force to deploy an Ahch-To location or [Episode VII] battleground from Reserve Deck; reshuffle.May {flip} this card if Luke on Ahch-To and a battle was just initiated involving a Resistance character.We Need Luke Skywalker:{Immediately} place Luke out of play (ignore [Death Star II] objective restrictions, if any). For remainder of battle, opponent may not fire weapons.{While} this side up, opponent's immunity to attrition is limited to < 5. Your Force drains are +1 where you have two unique (•) Resistance characters. Once during your turn, may peek at the top card of your Force Pile and Reserve Deck; place both cards (in any order) on top of one of those piles. Once per turn during battle involving two Resistance characters, may cancel an opponent's just drawn destiny to cause a re-draw."
       },
       "back": {
         "title": "The Galaxy May Need A Legend / We Need Luke Skywalker",
@@ -51179,7 +51180,7 @@
         "icons": [
           "Episode VII"
         ],
-        "gametext": "The Galaxy May Need A Legend:Deploy Ahch-To system and any [Episode VII] battleground.{For} remainder of game, you may not Force drain on Ahch-To. You may not deploy [Episode I] locations or non-[Episode VII] Luke. Once per game, may take any one card into hand from Force Pile; reshuffle. Luke deploys only to Ahch-To.{While} this side up, once per turn, may use 1 Force to deploy an Ahch-To location or [Episode VII] battleground from Reserve Deck; reshuffle.May {flip} this card if Luke on Ahch-To and a battle was just initiated involving a Resistance character.We Need Luke Skywalker:{Immediately} place Luke out of play (ignore [Death Star II] objective restrictions, if any). For remainder of battle, opponent may not fire weapons.{While} this side up, opponent's immunity to attrition is limited to < 5. Your Force drains are +1 where you have two unique (•) Resistance characters. Once during your turn, may peek at the top card of your Force Pile and Reserve Deck; place both cards (in any order) on top of one of those piles. Once per turn during battle, may cancel an opponent's just drawn destiny to cause a re-draw."
+        "gametext": "The Galaxy May Need A Legend:Deploy Ahch-To system and any [Episode VII] battleground.{For} remainder of game, you may not Force drain on Ahch-To. You may not deploy [Episode I] locations or non-[Episode VII] Luke. Once per game, may take any one card into hand from Force Pile; reshuffle. Luke deploys only to Ahch-To.{While} this side up, once per turn, may use 1 Force to deploy an Ahch-To location or [Episode VII] battleground from Reserve Deck; reshuffle.May {flip} this card if Luke on Ahch-To and a battle was just initiated involving a Resistance character.We Need Luke Skywalker:{Immediately} place Luke out of play (ignore [Death Star II] objective restrictions, if any). For remainder of battle, opponent may not fire weapons.{While} this side up, opponent's immunity to attrition is limited to < 5. Your Force drains are +1 where you have two unique (•) Resistance characters. Once during your turn, may peek at the top card of your Force Pile and Reserve Deck; place both cards (in any order) on top of one of those piles. Once per turn during battle involving two Resistance characters, may cancel an opponent's just drawn destiny to cause a re-draw."
       },
       "legacy": false
     },
@@ -51762,7 +51763,7 @@
         "icons": [
           "Premium"
         ],
-        "gametext": "They Have No Idea We're Coming:Deploy Scarif system, Data Vault (with Stardust there), and Massassi War Room.{For} remainder of game, you may not deploy Jedi. Baze, Chirrut, and Rebel troopers are spies.{While} this side up, once per turn, may deploy a Rebel starship (except Home One or [Reflections III] Falcon) or a Scarif site from Reserve Deck; reshuffle. Each player's characters (except Imperials and spies) and vehicles deploy +2 to Scarif sites that player does not occupy.{Flip} this card if you control two Scarif locations.Until We Win, Or The Chances Are Spent:{While} this side up, your spies are defense value +2 (and power +1 if with Stardust) and are immune to Undercover. While Stardust on your spy, opponent may not cancel your Force drains at battlegrounds. Once per turn, may place a Rebel in your Lost Pile out of play to cancel a just drawn destiny targeting the ability or defense value of your Rebel or to make a regular move with your spy during your control phase.{Flip} this card if you do not occupy two Scarif locations (unless Rogue One at a Scarif site you occupy)."
+        "gametext": "They Have No Idea We're Coming:Deploy Scarif system, Data Vault (with Stardust there), and Massassi War Room.{For} remainder of game, you may not deploy Jedi. Baze, Chirrut, and Rebel troopers are spies.{While} this side up, once per turn, may deploy a Rebel starship (except Home One or [Reflections III] Falcon) or a Scarif site from Reserve Deck; reshuffle. {Flip} this card if you control two Scarif locations.Until We Win, Or The Chances Are Spent:{While} this side up, your spies are defense value +2 (and power +1 if with Stardust) and are immune to Undercover. While Stardust on your spy, opponent may not cancel your Force drains at battlegrounds. Once per turn, may place a Rebel in your Lost Pile out of play to make a regular move with your Rebel spy during your control phase or cancel an attempt to target your non-Undercover Rebel spy with a weapon.{Flip} this card if you do not occupy two Scarif locations (unless Rogue One at a Scarif site you occupy)."
       },
       "back": {
         "title": "They Have No Idea We're Coming / Until We Win, Or The Chances Are Spent",
@@ -51772,7 +51773,7 @@
         "icons": [
           "Premium"
         ],
-        "gametext": "They Have No Idea We're Coming:Deploy Scarif system, Data Vault (with Stardust there), and Massassi War Room.{For} remainder of game, you may not deploy Jedi. Baze, Chirrut, and Rebel troopers are spies.{While} this side up, once per turn, may deploy a Rebel starship (except Home One or [Reflections III] Falcon) or a Scarif site from Reserve Deck; reshuffle. Each player's characters (except Imperials and spies) and vehicles deploy +2 to Scarif sites that player does not occupy.{Flip} this card if you control two Scarif locations.Until We Win, Or The Chances Are Spent:{While} this side up, your spies are defense value +2 (and power +1 if with Stardust) and are immune to Undercover. While Stardust on your spy, opponent may not cancel your Force drains at battlegrounds. Once per turn, may place a Rebel in your Lost Pile out of play to cancel a just drawn destiny targeting the ability or defense value of your Rebel or to make a regular move with your spy during your control phase.{Flip} this card if you do not occupy two Scarif locations (unless Rogue One at a Scarif site you occupy)."
+        "gametext": "They Have No Idea We're Coming:Deploy Scarif system, Data Vault (with Stardust there), and Massassi War Room.{For} remainder of game, you may not deploy Jedi. Baze, Chirrut, and Rebel troopers are spies.{While} this side up, once per turn, may deploy a Rebel starship (except Home One or [Reflections III] Falcon) or a Scarif site from Reserve Deck; reshuffle. {Flip} this card if you control two Scarif locations.Until We Win, Or The Chances Are Spent:{While} this side up, your spies are defense value +2 (and power +1 if with Stardust) and are immune to Undercover. While Stardust on your spy, opponent may not cancel your Force drains at battlegrounds. Once per turn, may place a Rebel in your Lost Pile out of play to make a regular move with your Rebel spy during your control phase or cancel an attempt to target your non-Undercover Rebel spy with a weapon.{Flip} this card if you do not occupy two Scarif locations (unless Rogue One at a Scarif site you occupy)."
       },
       "legacy": false
     },
@@ -55504,7 +55505,7 @@
         "icons": [
           "Endor"
         ],
-        "gametext": "Deploy on table.  Your total Force generation is +1.  Once per game, may use 3 Force to take an Effect that has no deploy cost and deploys on another card into hand from Reserve Deck; reshuffle.  May place this Effect out of play to retrieve 1 Force. (Immune to Alter.)",
+        "gametext": "Unless Massassi Throne Room on table, deploy on table.  Your total Force generation is +1.  Once per game, may use 3 Force to take an Effect that has no deploy cost and deploys on another card into hand from Reserve Deck; reshuffle.  May place this Effect out of play to retrieve 1 Force. (Immune to Alter.)",
         "lore": "Every Ewok is taught to be protective of the younger members of their clan."
       },
       "conceptBy": "(Original concept by Eric Hunter - Gen Con Winner 2002)\"",
