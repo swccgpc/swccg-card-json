@@ -7607,7 +7607,7 @@
         "gametext": "Adds 2 to power of anything he pilots.  Deploys -1 and forfeit +1 at a docking bay or aboard a starship.  During your control phase, if at a battleground, may use 1 force (free if at Casino) to exchange a card in hand with a random card in Lost Pile.  Immune to attrition < 3.",
         "lore": "Elder of a dextrous race of renowned travelers. Gambler. Frequents casinos, bars and spaceports. Originally from distant planet Dor Nameth",
         "extraText": [
-          "Force-Sensative"
+          "Force-Sensitive"
         ]
       },
       "conceptBy": "(Original concept by Bill Kafer - League Cube Tournament 2009)\"",
@@ -55983,6 +55983,829 @@
         "lore": "'Your fleet is lost. And your friends on the Endor moon will not survive. There is no escape, my young apprentice.'"
       },
       "legacy": true
-    }
+    },
+    {
+      "id": 6789,
+      "side": "Dark",
+      "rarity": "R1",
+      "set": "Virtual Set 13",
+      "front": {
+        "title": "•Admiral Ozzel (V)",
+        "imageUrl": "https://res.starwarsccg.org/cards/Images-HT/starwars/Virtual13-Dark/large/admiralozzel.gif?raw=true",
+        "type": "Character",
+        "subType": "Imperial",
+        "uniqueness": "*",
+        "destiny": 0,
+        "power": 2,
+        "ability": 2,
+        "deploy": 2,
+        "forfeit": 4,
+        "icons": [
+          "Pilot"
+        ],
+        "characteristics": [
+          "ISB agent",
+          "admiral",
+          "leader"
+        ],
+        "gametext": "Adds 2 to power of anything he pilots. Matching pilot for any Death Squadron Star Destroyer and, while piloting one, instead of Force draining here, may draw top card of Reserve Deck or raise your same or related converted location to the top.",
+        "lore": "Leader of the Emperor's Death Squadron assigned to hunt down and crush the Rebellion. As clumsy as he is stupid. Has just failed Darth Vader for the next-to-last time."
+      },
+      "pulledBy": [
+        "Endor Shield (V)",
+        "Imperial Command"
+      ],
+      "combo": [
+        "Admiral Ozzel + Commander Nemet"
+      ],
+      "legacy": false
+    },
+	{
+      "id": 6790,
+      "side": "Dark",
+      "rarity": "C",
+      "set": "Virtual Set 13",
+      "front": {
+        "title": "•Dryden Vos",
+        "imageUrl": "https://res.starwarsccg.org/cards/Images-HT/starwars/Virtual13-Dark/large/drydenvos.gif?raw=true",
+        "type": "Character",
+        "subType": "Alien",
+        "uniqueness": "*",
+        "destiny": 1,
+        "power": 4,
+		"ability": 3,
+        "deploy": 6,
+        "forfeit": 6,
+        "icons": [
+          "Pilot",
+          "Warrior"
+        ],
+        "characteristics": [
+          "leader",
+          "gangster",
+          "Crimson Dawn"
+        ],
+        "gametext": "Deploys -2 if Maul on table. When deployed, may deploy a weapon on Vos from Reserve Deck; reshuffle. While armed and present at a site, opponent may not 'react' to or from here. Immune to attrition < 5 (< 3 if with Qi'ra).",
+        "lore": "Crimson Dawn leader. Gangster.",
+        "extraText": [
+          "Teräs Käsi 5"
+        ]
+      },
+      "legacy": false
+    },
+	{
+      "id": 6791,
+      "side": "Dark",
+      "rarity": "C",
+      "set": "Virtual Set 13",
+      "front": {
+        "title": "••Hylobon Enforcer",
+        "imageUrl": "https://res.starwarsccg.org/cards/Images-HT/starwars/Virtual13-Dark/large/hybolonenforcer.gif?raw=true",
+        "type": "Character",
+        "subType": "Alien",
+        "uniqueness": "**",
+        "destiny": 3,
+        "power": 3,
+		"ability": 2,
+        "deploy": 4,
+        "forfeit": 4,
+        "icons": [
+          "Warrior",
+          "Permanent weapon"
+        ],
+        "characteristics": [
+          "Crimson Dawn",
+          "guard"
+        ],
+        "gametext": "Deploy -1 and forfeit +1 at same or related location as Vos or at an opponent's site. Permanent weapon is Percussive Cannon (may target a character using 1 Force; draw destiny; if destiny +1 > defense value, target's game text is canceled for remainder of turn).",
+        "lore": "Crimson Dawn. Hylobon guard."
+      },
+      "legacy": false
+    },
+	{
+      "id": 6792,
+      "side": "Dark",
+      "rarity": "C",
+      "set": "Virtual Set 13",
+      "front": {
+        "title": "•Aemon Gremm With Percussive Cannon",
+        "imageUrl": "https://res.starwarsccg.org/cards/Images-HT/starwars/Virtual13-Dark/large/aemongremmwithpercussivecannon.gif?raw=true",
+        "type": "Character",
+        "subType": "Alien",
+        "uniqueness": "*",
+        "destiny": 2,
+        "power": 3,
+		"ability": 2,
+        "deploy": 3,
+        "forfeit": 4,
+        "icons": [
+          "Warrior",
+          "Permanent weapon"
+        ],
+        "characteristics": [
+          "Crimson Dawn",
+		  "leader",
+          "guard"
+        ],
+        "gametext": "Permanent weapon is Percussive Cannon (may target a character or vehicle for free; draw destiny; if destiny > defense value, target hit and is power and forfeit -2). While with your guard or at an opponent's site, opponent's weapon destiny draws here are -1.",
+        "lore": "Crimson Dawn. Hylobon guard leader."
+      },
+      "legacy": false
+    },
+	{
+      "id": 6793,
+      "side": "Dark",
+      "rarity": "C",
+      "set": "Virtual Set 13",
+      "front": {
+        "title": "•Eighth Brother",
+        "imageUrl": "https://res.starwarsccg.org/cards/Images-HT/starwars/Virtual13-Dark/large/eighthbrother.gif?raw=true",
+        "type": "Character",
+        "subType": "Imperial",
+        "uniqueness": "*",
+        "destiny": 3,
+        "power": 3,
+		"ability": 5,
+        "deploy": 4,
+        "forfeit": 5,
+        "icons": [
+          "Pilot",
+          "Warrior"
+        ],
+        "characteristics": [
+          "Inquisitor"
+        ],
+        "gametext": "Adds 2 to power of anything he pilots. May deploy or move as a 'react' to same site as a 'Hatred' card. During your move phase, unless alone, may return one of your Inquisitors here (and all cards on them) to owner's hand.",
+        "lore": "Terrelian Jango Jumper. Inquisitor."
+      },
+      "legacy": false
+    },
+	{
+      "id": 6794,
+      "side": "Dark",
+      "rarity": "C",
+      "set": "Virtual Set 13",
+      "front": {
+        "title": "•Darth Tyranus",
+        "imageUrl": "https://res.starwarsccg.org/cards/Images-HT/starwars/Virtual13-Dark/large/darthtyranus.gif?raw=true",
+        "type": "Character",
+        "subType": "Dark Jedi Master",
+        "uniqueness": "*",
+        "destiny": 1,
+        "power": 5,
+		"ability": 7,
+        "deploy": 7,
+        "forfeit": 8,
+        "icons": [
+          "Pilot",
+          "Warrior",
+          "Separatist",
+		  "Episode I"
+        ],
+        "characteristics": [
+          "leader"
+        ],
+        "gametext": "Deploys -1 to an [Episode I] location. Jedi here are power and immunity to attrition -1. During battle or lightsaber combat involving Dooku, may cancel and redraw an opponent's just drawn destiny. Immune to Sorry About The Mess and attrition < 6.",
+        "lore": "Serennian leader. Trade Federation.",
+        "extraText": [
+          "Dark Jedi Master"
+        ]
+      },
+      "legacy": false
+    },
+	{
+      "id": 6795,
+      "side": "Dark",
+      "rarity": "C",
+      "set": "Virtual Set 13",
+      "front": {
+        "title": "•Fifth Brother",
+        "imageUrl": "https://res.starwarsccg.org/cards/Images-HT/starwars/Virtual13-Dark/large/fifthbrother.gif?raw=true",
+        "type": "Character",
+        "subType": "Imperial",
+        "uniqueness": "*",
+        "destiny": 2,
+        "power": 4,
+		"ability": 5,
+        "deploy": 4,
+        "forfeit": 6,
+         "icons": [
+          "Pilot",
+          "Warrior"
+        ],
+        "characteristics": [
+          "Inquisitor"
+        ],
+        "gametext": "Power +3 and defense value -2 while with a Jedi, Padawan, or 'Hatred' card. Characters here may not have their forfeit increased.",
+        "lore": "Inquisitor.",
+        "extraText": [
+          "Force-Sensitive"
+        ]
+      },
+      "legacy": false
+    },
+	{
+      "id": 6796,
+      "side": "Dark",
+      "rarity": "C",
+      "set": "Virtual Set 13",
+      "front": {
+        "title": "•••ID9 Probe Droid",
+        "imageUrl": "https://res.starwarsccg.org/cards/Images-HT/starwars/Virtual13-Dark/large/id9probedroid.gif?raw=true",
+        "type": "Character",
+        "subType": "Droid",
+        "uniqueness": "***",
+        "destiny": 3,
+        "power": 1,
+        "armor": 4,
+        "deploy": 1,
+        "forfeit": 4,
+        "characteristics": [
+          "spy"
+        ],
+        "gametext": "During your deploy phase, may use 2 Force to relocate an Inquisitor to same site and place this droid in Used Pile. While present with Seventh Sister, opponent may not target Seventh Sister with weapons unless this card 'hit.'",
+        "lore": "Spy.",
+        "extraText": [
+          "Probe Droid"
+        ]
+      },
+      "legacy": false
+    },
+	{
+      "id": 6797,
+      "side": "Dark",
+      "rarity": "C",
+      "set": "Virtual Set 13",
+      "front": {
+        "title": "•Ninth Sister",
+        "imageUrl": "https://res.starwarsccg.org/cards/Images-HT/starwars/Virtual13-Dark/large/ninthsister.gif?raw=true",
+        "type": "Character",
+        "subType": "Imperial",
+        "uniqueness": "*",
+        "destiny": 2,
+        "power": 5,
+		"ability": 5,
+        "deploy": 4,
+        "forfeit": 4,
+          "icons": [
+          "Pilot",
+          "Warrior"
+        ],
+        "characteristics": [
+          "Inquisitor",
+		  "female"
+        ],
+        "gametext": "Defense value -2 while opponent has a weapon present. While at a site, unless opponent's character of ability > 3 here, reset opponent's total battle destiny here to 0.",
+        "lore": "Female Dowutin Inquisitor.",
+        "extraText": [
+          "Force-Sensitive"
+        ]
+      },
+      "legacy": false
+    },
+	{
+      "id": 6798,
+      "side": "Dark",
+      "rarity": "C",
+      "set": "Virtual Set 13",
+      "front": {
+        "title": "•Margo",
+        "imageUrl": "https://res.starwarsccg.org/cards/Images-HT/starwars/Virtual13-Dark/large/margo.gif?raw=true",
+        "type": "Character",
+        "subType": "Alien",
+        "uniqueness": "*",
+        "destiny": 2,
+        "power": 2,
+		"ability": 2,
+        "deploy": 2,
+        "forfeit": 3,
+        "characteristics": [
+          "Crimson Dawn",
+		  "female"
+        ],
+        "gametext": "Once during opponent's deploy phase, may use 1 Force to choose: 'break cover' of opponent's Undercover spy here or draw destiny; if destiny = number of opponent's characters at same site, to initiate battle here this turn requires +1 Force.",
+        "lore": "Female Imroosian. Crimson Dawn."
+      },
+      "legacy": false
+    },
+	{
+      "id": 6799,
+      "side": "Dark",
+      "rarity": "C",
+      "set": "Virtual Set 13",
+      "front": {
+        "title": "•Seventh Sister",
+        "imageUrl": "https://res.starwarsccg.org/cards/Images-HT/starwars/Virtual13-Dark/large/seventhsister.gif?raw=true",
+        "type": "Character",
+        "subType": "Imperial",
+        "uniqueness": "*",
+        "destiny": 2,
+        "power": 4,
+		"ability": 5,
+        "deploy": 5,
+        "forfeit": 7,
+          "icons": [
+          "Pilot",
+          "Warrior"
+        ],
+        "characteristics": [
+          "Inquisitor",
+		  "female"
+        ],
+        "gametext": "Attrition against you is -1 here while with a Jedi, Padawan, probe droid, or 'Hatred' card. Once per turn, may use 1 Force (free if your probe droid here) to draw top card of Reserve Deck. Your Inquisitors and probe droids here are immune to attrition < 4.",
+        "lore": "Female Mirialan Inquisitor.",
+        "extraText": [
+          "Force-Sensitive"
+        ]
+      },
+      "legacy": false
+    },
+	{
+      "id": 6800,
+      "side": "Dark",
+      "rarity": "C",
+      "set": "Virtual Set 13",
+      "front": {
+        "title": "•Maul",
+        "imageUrl": "https://res.starwarsccg.org/cards/Images-HT/starwars/Virtual13-Dark/large/maul.gif?raw=true",
+        "type": "Character",
+        "subType": "Sith",
+        "uniqueness": "*",
+        "destiny": .5,
+        "power": 4,
+		"ability": 6,
+        "deploy": 4,
+        "forfeit": 8,
+        "icons": [
+          "Warrior"
+        ],
+        "characteristics": [
+          "Crimson Dawn",
+          "leader",
+          "gangster"
+        ],
+        "gametext": "Never deploys to a battleground. Opponent may not cancel your destiny draws. Once per turn, may add 1 to a just drawn battle or weapon destiny. Once per turn, may subtract 1 from a just drawn battle or weapon destiny. Immune to attrition < 5.",
+        "lore": "Crimson Dawn leader. Gangster.",
+        "extraText": [
+          "Dark Jedi"
+        ]
+      },
+      "legacy": false
+    },	
+    {
+      "id": 6801,
+      "side": "Dark",
+      "rarity": "R",
+      "set": "Virtual Set 13",
+      "front": {
+        "title": "•Failure At The Cave (V)",
+        "imageUrl": "https://res.starwarsccg.org/cards/Images-HT/starwars/Virtual13-Dark/large/failureatthecave.gif?raw=true",
+        "type": "Defensive Shield",
+        "uniqueness": "*",
+        "destiny": 0,
+        "gametext": "Plays on table. Opponent's Undercover spies are immune to Double Agent. While a Jedi Test on table, Projection Of A Skywalker is canceled. If Grimtaash just revealed your hand, you may place up to two cards from hand in your Used Pile.",
+        "lore": "'That place is strong with the dark side of the Force. A domain of evil it is. In you must go.'"
+      },
+      "legacy": false
+    },	
+	
+    {
+      "id": 6802,
+      "side": "Dark",
+      "rarity": "C",
+      "set": "Virtual Set 13",
+      "front": {
+        "title": "<>Planetary Rings",
+        "imageUrl": "https://res.starwarsccg.org/cards/Images-HT/starwars/Virtual13-Dark/large/planetaryrings.gif?raw=true",
+        "type": "Effect",
+        "uniqueness": "<>",
+        "destiny": 4,
+        "gametext": "Deploy on a battleground planet system. Adds one [Light Side] icon at your related Big One. If a sector was just drawn for asteroid destiny, cancel and redraw that destiny. Once per turn, may deploy a sector to this system from Reserve Deck; reshuffle. [Immune to Alter.]",
+        "lore": "'We're gonna get pulverized if we stay out here much longer.'"
+      },
+      "legacy": false
+    },	
+    {
+      "id": 6803,
+      "side": "Dark",
+      "rarity": "C",
+      "set": "Virtual Set 13",
+      "front": {
+        "title": "•There Are Many Hunting You Now",
+        "imageUrl": "https://res.starwarsccg.org/cards/Images-HT/starwars/Virtual13-Dark/large/therearemanyhuntingyounow.gif?raw=true",
+        "type": "Effect",
+        "uniqueness": "*",
+        "destiny": 4,
+        "gametext": "Deploy on table. Once during your turn, may stack top card of Lost Pile face down (as a 'Hatred' card) on an opponent's character with your Inquisitor. Opponent must choose to lose 1 Force or that character's game text is canceled for remainder of turn. [Immune to Alter.]",
+        "lore": "Blank"
+      },
+      "legacy": false
+    },	
+    {
+      "id": 6804,
+      "side": "Dark",
+      "rarity": "R",
+      "set": "Virtual Set 13",
+      "front": {
+        "title": "•Visage Of The Emperor (V)",
+        "imageUrl": "https://res.starwarsccg.org/cards/Images-HT/starwars/Virtual13-Dark/large/visageoftheemperor.gif?raw=true",
+        "type": "Effect",
+        "uniqueness": "*",
+        "destiny": 7,
+        "characteristics": [
+          "hologram"
+        ],
+        "gametext": "Lose 2 Force to deploy on Vader's Castle. Your Force generation here may not be limited. Each player loses 1 Force at the end of their own turn. Once per game, may take a lightsaber into hand from Reserve Deck; reshuffle. [Immune to Alter].",
+        "lore": "Palpatine's hologram. Imposing. Ominous. Intimidating. Instrument for the evil Emperor's sinister reach across the galaxy. Used on a secret frequency of the Imperial HoloNet."
+      },
+      "pulledBy": [
+        "HoloNet Transmission",
+        "Masterful Move",
+        "Masterful Move & Endor Occupation",
+        "Twi'lek Advisor",
+        "We Must Accelerate Our Plans"
+      ],
+      "canceledBy": [
+        "Out Of Commission & Transmission Terminated",
+        "Transmission Terminated"
+      ],
+      "legacy": false
+    },	
+    {
+      "id": 6805,
+      "side": "Dark",
+      "rarity": "R",
+      "set": "Virtual Set 13",
+      "front": {
+        "title": "•A Lawless Time",
+        "imageUrl": "https://res.starwarsccg.org/cards/Images-HT/starwars/Virtual13-Dark/large/alawlesstime.gif?raw=true",
+        "type": "Interrupt",
+        "subType": "Used",
+        "uniqueness": "*",
+        "destiny": 4,
+        "gametext": "Lose 2 Force to retrieve a Crimson Dawn leader. OR If you just fired a [Set 13] blaster during a battle, add one battle destiny. OR During any control phase, if Maul or Vos at a battleground site, flip Shadow Collective (or You Know Who I Answer To).",
+        "lore": "Blank"
+      },
+      "legacy": false
+    },
+    {
+      "id": 6806,
+      "side": "Dark",
+      "rarity": "C2",
+      "set": "Virtual Set 13",
+      "front": {
+        "title": "Imperial Code Cylinder (V)",
+        "imageUrl": "https://res.starwarsccg.org/cards/Images-HT/starwars/Virtual13-Dark/large/imperialcodecylinder.gif?raw=true",
+        "type": "Interrupt",
+        "subType": "Used",
+        "destiny": 4,
+        "gametext": "Take Krennic or a non-spy captain into hand from Reserve Deck; reshuffle. OR Peek at the bottom card of any deck or pile. OR During the power segment of a battle, if your captain in battle with your leader, cancel one destiny just drawn (except a battle destiny).",
+        "lore": "Imperial officers are issued coded cylinders which access computer information via Scomp links. Each cylinder is coded to the officer's own security clearance."
+      },
+      "legacy": false
+    },	
+    {
+      "id": 6807,
+      "side": "Dark",
+      "rarity": "R",
+      "set": "Virtual Set 13",
+      "front": {
+        "title": "•Far More Frightening Than Death",
+        "imageUrl": "https://res.starwarsccg.org/cards/Images-HT/starwars/Virtual13-Dark/large/farmorefrighteningthandeath.gif?raw=true",
+        "type": "Interrupt",
+        "subType": "Used or Lost",
+        "uniqueness": "*",
+        "destiny": 4,
+        "gametext": "USED: Stack top card of Lost Pile face down (as a 'Hatred' card) on opponent's leader (or character of ability > 3) at a battleground. LOST: If your Inquisitor in battle with a Jedi, Padawan, or 'Hatred' card, add one battle destiny (add two if with all three).",
+        "lore": "Blank"
+      },
+      "legacy": false
+    },
+    {
+      "id": 6808,
+      "side": "Dark",
+      "rarity": "R",
+      "set": "Virtual Set 13",
+      "front": {
+        "title": "•I Never Ask For Anything Twice",
+        "imageUrl": "https://res.starwarsccg.org/cards/Images-HT/starwars/Virtual13-Dark/large/ineveraskforanythingtwice.gif?raw=true",
+        "type": "Interrupt",
+        "subType": "Used or Lost",
+        "uniqueness": "*",
+        "destiny": 4,
+        "gametext": "USED: Take First Light or Vos into hand from Reserve Deck; reshuffle. OR Place a character from hand in Used Pile to activate 1 Force (2 if Vos on table). LOST: Once per game, exchange two cards in hand with any one card in Lost Pile. [Immune to Sense.]",
+        "lore": "Blank"
+      },
+      "legacy": false
+    },
+    {
+      "id": 6809,
+      "side": "Dark",
+      "rarity": "R",
+      "set": "Virtual Set 13",
+      "front": {
+        "title": "I’ve Been Searching For You For Some Time",
+        "imageUrl": "https://res.starwarsccg.org/cards/Images-HT/starwars/Virtual13-Dark/large/ivebeensearchingforyouforsometime.gif?raw=true",
+        "type": "Interrupt",
+        "subType": "Used or Lost",
+        "destiny": 5,
+        "gametext": "USED: If opponent's character is about to be lost, place all 'Hatred' cards (if any) on that character in owner's Used Pile. LOST: Lose Vader or an Inquisitor from hand to take up to two Inquisitors into hand from Reserve Deck; reshuffle.",
+        "lore": "Blank"
+      },
+      "legacy": false
+    },
+    {
+      "id": 6810,
+      "side": "Dark",
+      "rarity": "R",
+      "set": "Virtual Set 13",
+      "front": {
+        "title": "•Working Much More Closely",
+        "imageUrl": "https://res.starwarsccg.org/cards/Images-HT/starwars/Virtual13-Dark/large/workingmuchmoreclosely.gif?raw=true",
+        "type": "Interrupt",
+        "subType": "Lost",
+        "uniqueness": "*",
+        "destiny": 3,
+        "characteristics": [
+          "hologram"
+        ],
+        "gametext": "If you have two Crimson Dawn characters in battle together, draw destiny and subtract that amount from attrition against you. OR Deploy up to two Crimson Dawn characters from Reserve Deck; reshuffle. OR Cancel a hologram.",
+        "lore": "Hologram."
+      },
+      "legacy": false
+    },
+    {
+      "id": 6811,
+      "side": "Dark",
+      "rarity": "U2",
+      "set": "Virtual Set 13",
+      "front": {
+        "title": "•Dathomir: Maul’s Chambers",
+        "imageUrl": "https://res.starwarsccg.org/cards/Images-HT/starwars/Virtual13-Dark/large/dathomirmaulschambers.gif?raw=true",
+        "type": "Location",
+        "subType": "Site",
+        "destiny": 0,
+        "icons": [
+          "Interior",
+          "Planet",
+          "Scomp Link"
+        ],
+        "lightSideIcons": 0,
+        "darkSideIcons": 2,
+        "gametext": "Dark:  May deploy [Set 13] Maul here from Reserve Deck; reshuffle.  Light:  Jar Jar and your spies (except Ezra) may not deploy here. Opponent may not Force drain here."
+      },
+      "legacy": false
+    },	
+    {
+      "id": 6812,
+      "side": "Dark",
+      "rarity": "U",
+      "set": "Virtual Set 13",
+      "front": {
+        "title": "•Executor: Control Station",
+        "imageUrl": "https://res.starwarsccg.org/cards/Images-HT/starwars/Virtual13-Dark/large/executorcontrolstation.gif?raw=true",
+        "type": "Location",
+        "subType": "Site",
+        "uniqueness": "*",
+        "destiny": 0,
+        "icons": [
+          "Interior",
+          "Mobile",
+          "Starship",
+          "Scomp Link"
+        ],
+        "lightSideIcons": 0,
+        "darkSideIcons": 2,
+        "gametext": "Dark:  While your Imperial here, [Dagobah] Executor is deploy -7 (except to Fondor).  Light:  Force drain -1 here. If you initiate battle here, add one battle destiny."
+      },
+      "pulledBy": [
+        "Commander Gherant"
+      ],
+      "legacy": false
+    },	
+    {
+      "id": 6813,
+      "side": "Dark",
+      "rarity": "U2",
+      "set": "Virtual Set 13",
+      "front": {
+        "title": "•First Light: Bar",
+        "imageUrl": "https://res.starwarsccg.org/cards/Images-HT/starwars/Virtual13-Dark/large/firstlightbar.gif?raw=true",
+        "type": "Location",
+        "subType": "Site",
+        "destiny": 0,
+        "icons": [
+          "Interior",
+          "Mobile",
+          "Starship",
+          "Scomp Link"
+        ],
+        "lightSideIcons": 1,
+        "darkSideIcons": 2,
+        "gametext": "Dark:  Once per game, may deploy Margo, Wuher, or a musician here from Reserve Deck; reshuffle.  Light:  Force drain -1 here (if your musician here, Force drain +1 instead)."
+      },
+      "legacy": false
+    },	
+    {
+      "id": 6814,
+      "side": "Dark",
+      "rarity": "U2",
+      "set": "Virtual Set 13",
+      "front": {
+        "title": "•First Light: Dryden’s Study",
+        "imageUrl": "https://res.starwarsccg.org/cards/Images-HT/starwars/Virtual13-Dark/large/firstlightdrydensstudy.gif?raw=true",
+        "type": "Location",
+        "subType": "Site",
+        "destiny": 0,
+        "icons": [
+          "Interior",
+          "Mobile",
+          "Starship",
+          "Scomp Link"
+        ],
+        "lightSideIcons": 0,
+        "darkSideIcons": 2,
+        "gametext": "Dark:  During your move phase, your Crimson Dawn leader may move between here and a site.  Light:  Add 1 to your blaster weapon destiny draws here. Unless Vos on table, Force drain -1 here."
+      },
+      "legacy": false
+    },	
+    {
+      "id": 6815,
+      "side": "Dark",
+      "rarity": "U2",
+      "set": "Virtual Set 13",
+      "front": {
+        "title": "•First Light: Reception Area",
+        "imageUrl": "https://res.starwarsccg.org/cards/Images-HT/starwars/Virtual13-Dark/large/firstlightreceptionarea.gif?raw=true",
+        "type": "Location",
+        "subType": "Site",
+        "destiny": 0,
+        "icons": [
+          "Interior",
+          "Mobile",
+          "Starship",
+          "Scomp Link"
+        ],
+        "lightSideIcons": 1,
+        "darkSideIcons": 2,
+        "gametext": "Dark:  While your unique (•) alien here, your Force generation is +1 here (+2 if Margo).  Light:  Force drain -1 here (if your smuggler here, Force drain +1 instead)."
+      },
+      "legacy": false
+    },	
+    {
+      "id": 6816,
+      "side": "Dark",
+      "rarity": "U2",
+      "set": "Virtual Set 13",
+      "front": {
+        "title": "•Malachor: Sith Temple Upper Chamber",
+        "imageUrl": "https://res.starwarsccg.org/cards/Images-HT/starwars/Virtual13-Dark/large/malachorsithtempleupperchamber.gif?raw=true",
+        "type": "Location",
+        "subType": "Site",
+        "destiny": 0,
+        "icons": [
+          "Underground",
+		  "Interior",
+          "Planet"
+        ],
+        "lightSideIcons": 1,
+        "darkSideIcons": 2,
+        "gametext": "Dark:  Force drain +1 here. While Vader alone here, he is power +2.  Light:  While Ahsoka alone (or with Ezra) here, she is power +2."
+      },
+      "legacy": false
+    },	
+    {
+      "id": 6817,
+      "side": "Dark",
+      "rarity": "U2",
+      "set": "Virtual Set 13",
+      "front": {
+        "title": "•Malachor: Sith Temple Entrance",
+        "imageUrl": "https://res.starwarsccg.org/cards/Images-HT/starwars/Virtual13-Dark/large/malachorsithtempleentrance.gif?raw=true",
+        "type": "Location",
+        "subType": "Site",
+        "destiny": 0,
+        "icons": [
+          "Underground",
+		  "Interior",
+          "Exterior",
+          "Planet"
+        ],
+        "lightSideIcons": 1,
+        "darkSideIcons": 2,
+        "gametext": "Dark:  You initiate battles here for free. Unless you occupy, Inquisitors deploy -1 here.  Light:  Once per game, you may deploy a Padawan (except Anakin) here from Reserve Deck; reshuffle."
+      },
+      "legacy": false
+    },	
+    {
+      "id": 6818,
+      "side": "Dark",
+      "rarity": "U",
+      "set": "Virtual Set 13",
+      "front": {
+        "title": "•Wakeelmui (V)",
+        "imageUrl": "https://res.starwarsccg.org/cards/Images-HT/starwars/Virtual13-Dark/large/wakeelmui.gif?raw=true",
+        "type": "Location",
+        "subType": "System",
+        "uniqueness": "*",
+        "destiny": 0,
+        "icons": [
+          "Planet"
+        ],
+        "lightSideIcons": 1,
+        "darkSideIcons": 2,
+        "gametext": "Dark:  Your TIEs may deploy here as a 'react.'  Light:  While opponent has more starships here than you, your starships here are power -1."
+        "parsec": 2
+      },
+      "pulledBy": [
+        "Mobilization Points",
+        "You Cannot Hide Forever & Mobilization Points"
+      ],
+      "combo": [
+        "Wakeelmui + Sienar Fleet Systems Retrieve 1 Force each time you deploy a TIE. Once per turn may relocate a TIE just lost from table to Used Pile."
+      ],
+      "legacy": false
+    },	
+    {
+      "id": 6819,
+      "side": "Dark",
+      "rarity": "C",
+      "set": "Virtual Set 13",
+      "front": {
+        "title": "Black Sun Blaster",
+        "imageUrl": "https://res.starwarsccg.org/cards/Images-HT/starwars/Virtual13-Dark/large/blacksunblaster.gif?raw=true",
+        "type": "Weapon",
+        "subType": "Character",
+        "destiny": 4,
+        "characteristics": [
+          "blaster"
+        ],
+        "gametext": "Use 1 Force to deploy on your alien warrior (free if your Black Sun agent leader on table). May target a character or vehicle for free. Draw destiny. If destiny +1 > defense value, target hit and you may activate 1 Force.",
+        "lore": "Highly specialized weapon used for disintegration. Commonly found on the black market and in criminal arsenals. One of the favored weapons of the Black Sun."
+      },
+      "legacy": false
+    },	
+    {
+      "id": 6820,
+      "side": "Dark",
+      "rarity": "C",
+      "set": "Virtual Set 13",
+      "front": {
+        "title": "•••Crimson Dawn Blaster",
+        "imageUrl": "https://res.starwarsccg.org/cards/Images-HT/starwars/Virtual13-Dark/large/crimsondawnblaster.gif?raw=true",
+        "type": "Weapon",
+        "subType": "Character",
+        "uniqueness": "***",
+        "destiny": 3,
+        "characteristics": [
+          "blaster"
+        ],
+        "gametext": "Use 1 Force to deploy on your warrior (free if your Crimson Dawn leader on table). May target a character or vehicle for free. Draw destiny. If destiny +1 > defense value, target hit and may not be used to satisfy attrition.",
+        "lore": "Blank"
+      },
+      "legacy": false
+    },	
+    {
+      "id": 6821,
+      "side": "Dark",
+      "rarity": "R",
+      "set": "Virtual Set 13",
+      "front": {
+        "title": "Hunt Down And Destroy The Jedi / Their Fire Has Gone Out Of The Universe (V)",
+        "imageUrl": "https://res.starwarsccg.org/cards/Images-HT/starwars/Virtual13-Dark/large/huntdownanddestroythejedi.gif?raw=true",
+        "type": "Objective",
+        "destiny": 0,
+        "gametext": "Hunt Down And Destroy The Jedi: Deploy Vader's Castle and [Set 13] Visage Of The Emperor. {For} remainder of game, you may not deploy characters except bounty hunters, droids, and Imperials. Where you have an Inquisitor, your total battle destiny is +1 (+2 if with a 'Hatred' card). Inquisitors are destiny +2. {While} this side up, once per turn, may deploy a [Cloud City] or Malachor battleground site from Reserve Deck; reshuffle. {Flip} this card if Vader is at a battleground site unless Luke, a Jedi, or a Padawan at a battleground site. Their Fire Has Gone Out Of The Universe: {While} this side up, you lose no Force from Visage Of The Emperor. While Vader armed with a lightsaber, opponent's Force drain bonuses are canceled. {Flip} this card if Luke, a Jedi, or a Padawan at a battleground site; once per game, may take Vader and your cards on him into hand from a site you control."
+      },
+      "back": {
+        "title": "Hunt Down And Destroy The Jedi / Their Fire Has Gone Out Of The Universe (V)",
+        "imageUrl": "https://res.starwarsccg.org/cards/Images-HT/starwars/Virtual13-Dark/large/theirfirehasgoneoutoftheuniverse.gif?raw=true",
+        "type": "Objective",
+        "destiny": 7,
+        "gametext": "Hunt Down And Destroy The Jedi: Deploy Vader's Castle and [Set 13] Visage Of The Emperor. {For} remainder of game, you may not deploy characters except bounty hunters, droids, and Imperials. Where you have an Inquisitor, your total battle destiny is +1 (+2 if with a 'Hatred' card). Inquisitors are destiny +2. {While} this side up, once per turn, may deploy a [Cloud City] or Malachor battleground site from Reserve Deck; reshuffle. {Flip} this card if Vader is at a battleground site unless Luke, a Jedi, or a Padawan at a battleground site. Their Fire Has Gone Out Of The Universe: {While} this side up, you lose no Force from Visage Of The Emperor. While Vader armed with a lightsaber, opponent's Force drain bonuses are canceled. {Flip} this card if Luke, a Jedi, or a Padawan at a battleground site; once per game, may take Vader and your cards on him into hand from a site you control."
+      },
+      "legacy": false
+    },	
+    {
+      "id": 6822,
+      "side": "Dark",
+      "rarity": "C",
+      "set": "Virtual Set 13",
+      "front": {
+        "title": "Shadow Collective / You Know Who I Answer To",
+        "imageUrl": "https://res.starwarsccg.org/cards/Images-HT/starwars/Virtual13-Dark/large/shadowcollective.gif?raw=true",
+        "type": "Objective",
+        "destiny": 0,
+        "gametext": "Shadow Collective: Deploy Maul's Chambers. If Massassi Throne Room on table, may deploy [Set 13] Maul to Maul's Chambers. {For} remainder of game, you may not deploy cards with ability (or [Episode I] droids) except characters with 'Black Sun,' 'Crimson Dawn,' or 'Hutt' in lore, assassins, gangsters, [Episode I] bounty hunters, and [Independent] starships. Once per turn, may deploy a non-unique blaster (or a card with 'First Light' in title) from Reserve Deck; reshuffle. {Flip} this card if you just 'hit' a character (or during your battle phase if your gangsters control two battlegrounds). You Know Who I Answer To: {May immediately} re-circulate and shuffle your Reserve Deck. {While} this side up, if your gangster leader in battle at same site as your non-unique blaster, may add one destiny to total power. During your draw phase, if Maul alone, may peek at the cards in your Force Pile. {Flip} this card at end of turn. If you are about to flip this card and you occupy three battlegrounds, opponent loses 1 Force."
+      },
+      "back": {
+        "title": "Shadow Collective / You Know Who I Answer To",
+        "imageUrl": "https://res.starwarsccg.org/cards/Images-HT/starwars/Virtual13-Dark/large/youknowwhoianswerto.gif?raw=true",
+        "type": "Objective",
+        "destiny": 7,
+        "gametext": "Shadow Collective: Deploy Maul's Chambers. If Massassi Throne Room on table, may deploy [Set 13] Maul to Maul's Chambers. {For} remainder of game, you may not deploy cards with ability (or [Episode I] droids) except characters with 'Black Sun,' 'Crimson Dawn,' or 'Hutt' in lore, assassins, gangsters, [Episode I] bounty hunters, and [Independent] starships. Once per turn, may deploy a non-unique blaster (or a card with 'First Light' in title) from Reserve Deck; reshuffle. {Flip} this card if you just 'hit' a character (or during your battle phase if your gangsters control two battlegrounds). You Know Who I Answer To: {May immediately} re-circulate and shuffle your Reserve Deck. {While} this side up, if your gangster leader in battle at same site as your non-unique blaster, may add one destiny to total power. During your draw phase, if Maul alone, may peek at the cards in your Force Pile. {Flip} this card at end of turn. If you are about to flip this card and you occupy three battlegrounds, opponent loses 1 Force."
+      },
+      "legacy": false
+    }	
   ]
 }
