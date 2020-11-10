@@ -58055,7 +58055,7 @@
       },
       "legacy": false
     },
- {
+    {
       "id": 6823,
       "side": "Light",
       "rarity": "C",
@@ -58068,7 +58068,7 @@
         "uniqueness": "*",
         "destiny": 3,
         "power": 2,
-		"ability": 3,
+		    "ability": 3,
         "deploy": 2,
         "forfeit": 4,
         "icons": [
@@ -58087,7 +58087,7 @@
       },
       "legacy": false
     },
- {
+    {
       "id": 6824,
       "side": "Light",
       "rarity": "C",
@@ -58109,7 +58109,7 @@
         ],
         "characteristics": [
           "smuggler",
-		  "female"
+		      "female"
         ],
         "gametext": "While aboard (or stacked on) a freighter, adds 1 to power, maneuver, and hyperspeed, and when forfeiting L3-37, stack her on that freighter. May lose L3-37 to cancel a non-[Immune to Sense] Interrupt targeting a freighter she is aboard or stacked on.",
         "lore": "Female smuggler.",
@@ -58119,7 +58119,7 @@
       },
       "legacy": false
     },
-   {
+    {
       "id": 6825,
       "side": "Light",
       "rarity": "R2",
@@ -58133,7 +58133,7 @@
         "destiny": 1,
         "power": 7,
         "ability": 2,
-		"armor": 4,
+		    "armor": 4,
         "deploy": 4,
         "forfeit": 6,
         "icons": [
@@ -58168,7 +58168,7 @@
       ],
       "legacy": false
     },
- {
+    {
       "id": 6826,
       "side": "Light",
       "rarity": "C",
@@ -58181,7 +58181,7 @@
         "uniqueness": "*",
         "destiny": 2,
         "power": 3,
-		"ability": 4,
+		    "ability": 4,
         "deploy": 3,
         "forfeit": 3,
         "icons": [
@@ -58191,8 +58191,8 @@
         "characteristics": [
           "smuggler",
           "thief",
-		  "female",
-		  "Corellian"
+          "female",
+          "Corellian"
         ],
         "gametext": "When forfeited at same location as Han or Vos, may satisfy all remaining battle damage against you. If you just initiated a battle or Force drain at same battleground and you have completed a Kessel Run, opponent loses 1 Force. Immune to attrition < 3.",
         "lore": "Female thief. Corellian smuggler.",
@@ -58202,7 +58202,7 @@
       },
       "legacy": false
     },
- {
+    {
       "id": 6827,
       "side": "Light",
       "rarity": "C",
@@ -58215,7 +58215,7 @@
         "uniqueness": "*",
         "destiny": 4,
         "power": 3,
-		"ability": 2,
+		    "ability": 2,
         "deploy": 3,
         "forfeit": 4,
         "icons": [
@@ -58234,7 +58234,7 @@
       },
       "legacy": false
     },
- {
+    {
       "id": 6828,
       "side": "Light",
       "rarity": "C",
@@ -58247,7 +58247,7 @@
         "uniqueness": "*",
         "destiny": 1,
         "power": 3,
-		"ability": 3,
+	      "ability": 3,
         "deploy": 2,
         "forfeit": 5,
         "icons": [
@@ -58258,7 +58258,7 @@
           "smuggler",
           "gambler",
           "thief",
-		  "Corellian"
+		      "Corellian"
         ],
         "gametext": "Adds 2 to power and maneuver of anything he pilots or drives. If exactly one 'coaxium' card here, may take it into hand. While piloting Falcon and you have completed a Kessel Run, adds one battle destiny and opponent generates no Force here.",
         "lore": "Corellian gambler, smuggler, and thief.",
@@ -58268,7 +58268,7 @@
       },
       "legacy": false
     },
- {
+    {
       "id": 6829,
       "side": "Light",
       "rarity": "C",
@@ -58281,7 +58281,7 @@
         "uniqueness": "*",
         "destiny": 1,
         "power": 6,
-		"ability": 7,
+		    "ability": 7,
         "deploy": 6,
         "forfeit": 8,
         "icons": [
@@ -58296,7 +58296,7 @@
       },
       "legacy": false
     },
- {
+    {
       "id": 6830,
       "side": "Light",
       "rarity": "C",
@@ -58309,7 +58309,7 @@
         "uniqueness": "*",
         "destiny": 0,
         "power": 4,
-		"ability": 3,
+		    "ability": 3,
         "deploy": 3,
         "forfeit": 5,
         "icons": [
@@ -58318,7 +58318,7 @@
         "characteristics": [
           "smuggler",
           "information broker",
-		  "musician",
+		      "musician",
           "thief"
         ],
         "gametext": "If Vos or a [Set 13] smuggler on table, destiny +3 when drawn for destiny. Cancels Aurra's game text here. If just lost, may place out of play (for remainder of game, Han adds one battle destiny). If opponent just initiated a battle here, Beckett may fire a blaster.",
@@ -58329,7 +58329,7 @@
       },
       "legacy": false
     },
- {
+    {
       "id": 6831,
       "side": "Light",
       "rarity": "C",
@@ -58342,7 +58342,7 @@
         "uniqueness": "*",
         "destiny": 2,
         "power": 2,
-		"ability": 2,
+		    "ability": 2,
         "deploy": 2,
         "forfeit": 4,
         "icons": [
@@ -58353,7 +58353,7 @@
           "smuggler",
           "scout",
           "thief",
-		  "female"
+		      "female"
         ],
         "gametext": "May forfeit in place of your 'hit' [Set 13] smuggler here, restoring that smuggler to normal. Permanent weapon is Blaster Pistol (may target a character or creature for free; draw destiny; target hit, and its forfeit = 0, if destiny +1 > defense value).",
         "lore": "Female scout, smuggler, and thief."
@@ -58630,10 +58630,10 @@
         "icons": [
           "Interior",
           "Mobile",
-		  "Scomp Link",
-		  "Death Star II"
+          "Scomp Link",
+          "Death Star II"
         ],
-		"lightSideIcons": 2,
+		  "lightSideIcons": 2,
         "darkSideIcons": 2,
         "gametext": "Light:  While Luke alone here, he is power +2.  Dark:  Your total power here is -1 for each card stacked on I Feel The Conflict."
       },
@@ -58693,7 +58693,7 @@
           "Pilot",
           "Nav Computer",
           "Scomp Link",
-		  "Resistace"
+		      "Resistace"
         ],
         "characteristics": [
           "Resistace (starship)",
@@ -58721,11 +58721,6 @@
       },
       "legacy": false
     }
-
-
-	
-	
-	
 	
   ]
 }

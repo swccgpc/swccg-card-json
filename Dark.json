@@ -56020,7 +56020,7 @@
       ],
       "legacy": false
     },
-	{
+	  {
       "id": 6790,
       "side": "Dark",
       "rarity": "C",
@@ -56033,7 +56033,7 @@
         "uniqueness": "*",
         "destiny": 1,
         "power": 4,
-		"ability": 3,
+		    "ability": 3,
         "deploy": 6,
         "forfeit": 6,
         "icons": [
@@ -56053,7 +56053,7 @@
       },
       "legacy": false
     },
-	{
+	  {
       "id": 6791,
       "side": "Dark",
       "rarity": "C",
@@ -56066,7 +56066,7 @@
         "uniqueness": "**",
         "destiny": 3,
         "power": 3,
-		"ability": 2,
+		    "ability": 2,
         "deploy": 4,
         "forfeit": 4,
         "icons": [
@@ -56082,7 +56082,7 @@
       },
       "legacy": false
     },
-	{
+	  {
       "id": 6792,
       "side": "Dark",
       "rarity": "C",
@@ -56095,7 +56095,7 @@
         "uniqueness": "*",
         "destiny": 2,
         "power": 3,
-		"ability": 2,
+		    "ability": 2,
         "deploy": 3,
         "forfeit": 4,
         "icons": [
@@ -56104,7 +56104,7 @@
         ],
         "characteristics": [
           "Crimson Dawn",
-		  "leader",
+		      "leader",
           "guard"
         ],
         "gametext": "Permanent weapon is Percussive Cannon (may target a character or vehicle for free; draw destiny; if destiny > defense value, target hit and is power and forfeit -2). While with your guard or at an opponent's site, opponent's weapon destiny draws here are -1.",
@@ -56112,7 +56112,7 @@
       },
       "legacy": false
     },
-	{
+	  {
       "id": 6793,
       "side": "Dark",
       "rarity": "C",
@@ -56125,7 +56125,7 @@
         "uniqueness": "*",
         "destiny": 3,
         "power": 3,
-		"ability": 5,
+		    "ability": 5,
         "deploy": 4,
         "forfeit": 5,
         "icons": [
@@ -56140,7 +56140,7 @@
       },
       "legacy": false
     },
-	{
+	  {
       "id": 6794,
       "side": "Dark",
       "rarity": "C",
@@ -56153,14 +56153,14 @@
         "uniqueness": "*",
         "destiny": 1,
         "power": 5,
-		"ability": 7,
+		    "ability": 7,
         "deploy": 7,
         "forfeit": 8,
         "icons": [
           "Pilot",
           "Warrior",
           "Separatist",
-		  "Episode I"
+		      "Episode I"
         ],
         "characteristics": [
           "leader"
@@ -56173,7 +56173,7 @@
       },
       "legacy": false
     },
-	{
+	  {
       "id": 6795,
       "side": "Dark",
       "rarity": "C",
@@ -56186,7 +56186,7 @@
         "uniqueness": "*",
         "destiny": 2,
         "power": 4,
-		"ability": 5,
+		    "ability": 5,
         "deploy": 4,
         "forfeit": 6,
          "icons": [
@@ -56204,7 +56204,7 @@
       },
       "legacy": false
     },
-	{
+	  {
       "id": 6796,
       "side": "Dark",
       "rarity": "C",
@@ -56231,7 +56231,7 @@
       },
       "legacy": false
     },
-	{
+	  {
       "id": 6797,
       "side": "Dark",
       "rarity": "C",
@@ -56244,16 +56244,16 @@
         "uniqueness": "*",
         "destiny": 2,
         "power": 5,
-		"ability": 5,
+		    "ability": 5,
         "deploy": 4,
         "forfeit": 4,
-          "icons": [
+        "icons": [
           "Pilot",
           "Warrior"
         ],
         "characteristics": [
           "Inquisitor",
-		  "female"
+		    "female"
         ],
         "gametext": "Defense value -2 while opponent has a weapon present. While at a site, unless opponent's character of ability > 3 here, reset opponent's total battle destiny here to 0.",
         "lore": "Female Dowutin Inquisitor.",
@@ -56263,7 +56263,7 @@
       },
       "legacy": false
     },
-	{
+	  {
       "id": 6798,
       "side": "Dark",
       "rarity": "C",
@@ -56276,7 +56276,7 @@
         "uniqueness": "*",
         "destiny": 2,
         "power": 2,
-		"ability": 2,
+		    "ability": 2,
         "deploy": 2,
         "forfeit": 3,
         "characteristics": [
@@ -56288,7 +56288,7 @@
       },
       "legacy": false
     },
-	{
+	  {
       "id": 6799,
       "side": "Dark",
       "rarity": "C",
@@ -56301,7 +56301,7 @@
         "uniqueness": "*",
         "destiny": 2,
         "power": 4,
-		"ability": 5,
+		    "ability": 5,
         "deploy": 5,
         "forfeit": 7,
           "icons": [
@@ -56310,7 +56310,7 @@
         ],
         "characteristics": [
           "Inquisitor",
-		  "female"
+		      "female"
         ],
         "gametext": "Attrition against you is -1 here while with a Jedi, Padawan, probe droid, or 'Hatred' card. Once per turn, may use 1 Force (free if your probe droid here) to draw top card of Reserve Deck. Your Inquisitors and probe droids here are immune to attrition < 4.",
         "lore": "Female Mirialan Inquisitor.",
@@ -56320,7 +56320,7 @@
       },
       "legacy": false
     },
-	{
+	  {
       "id": 6800,
       "side": "Dark",
       "rarity": "C",
@@ -56331,9 +56331,9 @@
         "type": "Character",
         "subType": "Sith",
         "uniqueness": "*",
-        "destiny": .5,
+        "destiny": 0.5,
         "power": 4,
-		"ability": 6,
+		    "ability": 6,
         "deploy": 4,
         "forfeit": 8,
         "icons": [
@@ -56665,7 +56665,7 @@
         "destiny": 0,
         "icons": [
           "Underground",
-		  "Interior",
+		      "Interior",
           "Planet"
         ],
         "lightSideIcons": 1,
@@ -56687,7 +56687,7 @@
         "destiny": 0,
         "icons": [
           "Underground",
-		  "Interior",
+		      "Interior",
           "Exterior",
           "Planet"
         ],
@@ -56714,7 +56714,7 @@
         ],
         "lightSideIcons": 1,
         "darkSideIcons": 2,
-        "gametext": "Dark:  Your TIEs may deploy here as a 'react.'  Light:  While opponent has more starships here than you, your starships here are power -1."
+        "gametext": "Dark:  Your TIEs may deploy here as a 'react.'  Light:  While opponent has more starships here than you, your starships here are power -1.",
         "parsec": 2
       },
       "pulledBy": [
