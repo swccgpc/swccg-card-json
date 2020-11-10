@@ -58054,6 +58054,678 @@
         "lore": "Smugglers and other rogues frequent spaceports along trade routes. 'Your friend is quite a mercenary. I wonder if he really cares about anything, or anybody.'."
       },
       "legacy": false
+    },
+ {
+      "id": 6823,
+      "side": "Light",
+      "rarity": "C",
+      "set": "Virtual Set 13",
+      "front": {
+        "title": "•Captain Lando Calrissian",
+        "imageUrl": "https://res.starwarsccg.org/cards/Images-HT/starwars/Virtual13-Light/large/captainlandocalrissian.gif?raw=true",
+        "type": "Character",
+        "subType": "Alien",
+        "uniqueness": "*",
+        "destiny": 3,
+        "power": 2,
+		"ability": 3,
+        "deploy": 2,
+        "forfeit": 4,
+        "icons": [
+          "Pilot",
+          "Warrior"
+        ],
+        "characteristics": [
+          "smuggler",
+          "gambler"
+        ],
+        "gametext": "Adds 2 to power of anything he pilots. If a battle was just initiated here, may exchange a card in hand with an Interrupt of destiny = 4 from Reserve Deck; reshuffle. Once per game, if you have completed a Kessel Run, may return Lando to hand.",
+        "lore": "Smuggler and gambler.",
+        "extraText": [
+          "Force-Attuned"
+        ]
+      },
+      "legacy": false
+    },
+ {
+      "id": 6824,
+      "side": "Light",
+      "rarity": "C",
+      "set": "Virtual Set 13",
+      "front": {
+        "title": "•L3-37 (Elthree-Threeseven)",
+        "imageUrl": "https://res.starwarsccg.org/cards/Images-HT/starwars/Virtual13-Light/large/l337elthreethreeseven.gif?raw=true",
+        "type": "Character",
+        "subType": "Droid",
+        "uniqueness": "*",
+        "destiny": 3,
+        "power": 2,
+        "armor": 4,
+        "deploy": 2,
+        "forfeit": 4,
+        "icons": [
+          "Pilot",
+          "Astromech"
+        ],
+        "characteristics": [
+          "smuggler",
+		  "female"
+        ],
+        "gametext": "While aboard (or stacked on) a freighter, adds 1 to power, maneuver, and hyperspeed, and when forfeiting L3-37, stack her on that freighter. May lose L3-37 to cancel a non-[Immune to Sense] Interrupt targeting a freighter she is aboard or stacked on.",
+        "lore": "Female smuggler.",
+        "extraText": [
+          "Custom Pilot Droid"
+        ]
+      },
+      "legacy": false
+    },
+   {
+      "id": 6825,
+      "side": "Light",
+      "rarity": "R2",
+      "set": "Virtual Set 13",
+      "front": {
+        "title": "•Chewbacca (V)",
+        "imageUrl": "https://res.starwarsccg.org/cards/Images-HT/starwars/Virtual13-Light/large/chewbacca.gif?raw=true",
+        "type": "Character",
+        "subType": "Alien/Rebel",
+        "uniqueness": "*",
+        "destiny": 1,
+        "power": 7,
+        "ability": 2,
+		"armor": 4,
+        "deploy": 4,
+        "forfeit": 6,
+        "icons": [
+          "Pilot",
+          "Warrior"
+        ],
+        "characteristics": [
+          "smuggler",
+          "Wookiee"
+        ],
+        "gametext": "Adds 2 to power of anything he pilots (3 if Falcon). May deploy -1 as a 'react' (-2 to same location as Han). If you have completed a Kessel Run, opponent's Force retrieval is canceled. During battle here (or at a holosite), your dejariks are destiny +2.",
+        "lore": "Wookiee smuggler from Kashyyyk. Over 200 years old. Top-notch mechanic and pilot. Jabba has large bounty on this 'walking carpet.' Friends call him Chewie...or Fuzzball."
+      },
+      "pulledBy": [
+        "Beldon's Eye (V)",
+        "Life Debt",
+        "Seeking An Audience (V)",
+        "Soth Petikkin (when at a Jabba's Palace site you control)",
+        "Wookiee Roar"
+      ],
+      "matching": [
+        "Chewie's AT-ST",
+        "Gold Squadron 1",
+        "Lando In Millennium Falcon",
+        "Millennium Falcon",
+        "The Falcon",
+        "The Falcon",
+        "Junkyard Garbage"
+      ],
+      "matchingWeapon": [
+        "Chewbacca's Bowcaster"
+      ],
+      "legacy": false
+    },
+ {
+      "id": 6826,
+      "side": "Light",
+      "rarity": "C",
+      "set": "Virtual Set 13",
+      "front": {
+        "title": "•Qi’ra",
+        "imageUrl": "https://res.starwarsccg.org/cards/Images-HT/starwars/Virtual13-Light/large/qira.gif?raw=true",
+        "type": "Character",
+        "subType": "Alien",
+        "uniqueness": "*",
+        "destiny": 2,
+        "power": 3,
+		"ability": 4,
+        "deploy": 3,
+        "forfeit": 3,
+        "icons": [
+          "Pilot",
+          "Warrior"
+        ],
+        "characteristics": [
+          "smuggler",
+          "thief",
+		  "female",
+		  "Corellian"
+        ],
+        "gametext": "When forfeited at same location as Han or Vos, may satisfy all remaining battle damage against you. If you just initiated a battle or Force drain at same battleground and you have completed a Kessel Run, opponent loses 1 Force. Immune to attrition < 3.",
+        "lore": "Female thief. Corellian smuggler.",
+        "extraText": [
+          "Teräs Käsi 5"
+        ]
+      },
+      "legacy": false
+    },
+ {
+      "id": 6827,
+      "side": "Light",
+      "rarity": "C",
+      "set": "Virtual Set 13",
+      "front": {
+        "title": "•Rio Durant",
+        "imageUrl": "https://res.starwarsccg.org/cards/Images-HT/starwars/Virtual13-Light/large/riodurant.gif?raw=true",
+        "type": "Character",
+        "subType": "Alien",
+        "uniqueness": "*",
+        "destiny": 4,
+        "power": 3,
+		"ability": 2,
+        "deploy": 3,
+        "forfeit": 4,
+        "icons": [
+          "Pilot",
+          "Warrior x2"
+        ],
+        "characteristics": [
+          "smuggler",
+          "thief"
+        ],
+        "gametext": "Adds 2 to power of anything he pilots. Once per turn, if you just deployed a smuggler here, may place a card from hand in Used Pile to activate 2 Force. Once per game, if you just won a battle here, may steal a starfighter from opponent's Lost Pile into hand.",
+        "lore": "Ardennian smuggler and thief.",
+        "extraText": [
+          ""
+        ]
+      },
+      "legacy": false
+    },
+ {
+      "id": 6828,
+      "side": "Light",
+      "rarity": "C",
+      "set": "Virtual Set 13",
+      "front": {
+        "title": "•Han… Solo",
+        "imageUrl": "https://res.starwarsccg.org/cards/Images-HT/starwars/Virtual13-Light/large/hansolo.gif?raw=true",
+        "type": "Character",
+        "subType": "Alien",
+        "uniqueness": "*",
+        "destiny": 1,
+        "power": 3,
+		"ability": 3,
+        "deploy": 2,
+        "forfeit": 5,
+        "icons": [
+          "Pilot",
+          "Warrior"
+        ],
+        "characteristics": [
+          "smuggler",
+          "gambler",
+          "thief",
+		  "Corellian"
+        ],
+        "gametext": "Adds 2 to power and maneuver of anything he pilots or drives. If exactly one 'coaxium' card here, may take it into hand. While piloting Falcon and you have completed a Kessel Run, adds one battle destiny and opponent generates no Force here.",
+        "lore": "Corellian gambler, smuggler, and thief.",
+        "extraText": [
+          "Force-Attuned"
+        ]
+      },
+      "legacy": false
+    },
+ {
+      "id": 6829,
+      "side": "Light",
+      "rarity": "C",
+      "set": "Virtual Set 13",
+      "front": {
+        "title": "•Qui-Gon Jinn, Serene Jedi",
+        "imageUrl": "https://res.starwarsccg.org/cards/Images-HT/starwars/Virtual13-Light/large/quigonjinnserenejedi.gif?raw=true",
+        "type": "Character",
+        "subType": "Jedi Master",
+        "uniqueness": "*",
+        "destiny": 1,
+        "power": 6,
+		"ability": 7,
+        "deploy": 6,
+        "forfeit": 8,
+        "icons": [
+          "Warrior",
+          "Episode I"
+        ],
+        "gametext": "Once per game, may deploy Meditation on Qui-Gon from Lost Pile. If alone during battle: your total battle destiny is +1 for each weapon destiny draw that was completed while alone this battle, and opponent may not cancel your destiny draws. Immune to attrition.",
+        "lore": "Qui-Gon's sense of control assisted him in his final confrontation with Darth Maul. The ability to heal oneself in battle, mentally and physically, can be a huge advantage.",
+        "extraText": [
+          "Jedi Master"
+        ]
+      },
+      "legacy": false
+    },
+ {
+      "id": 6830,
+      "side": "Light",
+      "rarity": "C",
+      "set": "Virtual Set 13",
+      "front": {
+        "title": "•Tobias Beckett",
+        "imageUrl": "https://res.starwarsccg.org/cards/Images-HT/starwars/Virtual13-Light/large/tobiasbeckett.gif?raw=true",
+        "type": "Character",
+        "subType": "Alien",
+        "uniqueness": "*",
+        "destiny": 0,
+        "power": 4,
+		"ability": 3,
+        "deploy": 3,
+        "forfeit": 5,
+        "icons": [
+          "Warrior"
+        ],
+        "characteristics": [
+          "smuggler",
+          "information broker",
+		  "musician",
+          "thief"
+        ],
+        "gametext": "If Vos or a [Set 13] smuggler on table, destiny +3 when drawn for destiny. Cancels Aurra's game text here. If just lost, may place out of play (for remainder of game, Han adds one battle destiny). If opponent just initiated a battle here, Beckett may fire a blaster.",
+        "lore": "Glee Anselmian smuggler. Information broker, musician, and thief.",
+        "extraText": [
+          "Force-Attuned"
+        ]
+      },
+      "legacy": false
+    },
+ {
+      "id": 6831,
+      "side": "Light",
+      "rarity": "C",
+      "set": "Virtual Set 13",
+      "front": {
+        "title": "•Val",
+        "imageUrl": "https://res.starwarsccg.org/cards/Images-HT/starwars/Virtual13-Light/large/val.gif?raw=true",
+        "type": "Character",
+        "subType": "Alien",
+        "uniqueness": "*",
+        "destiny": 2,
+        "power": 2,
+		"ability": 2,
+        "deploy": 2,
+        "forfeit": 4,
+        "icons": [
+          "Warrior",
+          "Permanent weapon"
+        ],
+        "characteristics": [
+          "smuggler",
+          "scout",
+          "thief",
+		  "female"
+        ],
+        "gametext": "May forfeit in place of your 'hit' [Set 13] smuggler here, restoring that smuggler to normal. Permanent weapon is Blaster Pistol (may target a character or creature for free; draw destiny; target hit, and its forfeit = 0, if destiny +1 > defense value).",
+        "lore": "Female scout, smuggler, and thief."
+      },
+      "legacy": false
+    },
+    {
+      "id": 6832,
+      "side": "Light",
+      "rarity": "PM",
+      "set": "Virtual Set 13",
+      "front": {
+        "title": "•Yoda, Master Of The Force (V)",
+        "imageUrl": "https://res.starwarsccg.org/cards/Images-HT/starwars/Virtual13-Light/large/yodamasteroftheforce.gif?raw=true",
+        "type": "Character",
+        "subType": "Jedi Master",
+        "uniqueness": "*",
+        "destiny": 4,
+        "power": 3,
+        "ability": 7,
+        "deploy": 4,
+        "forfeit": 7,
+        "icons": [
+          "Episode I"
+        ],
+        "characteristics": [
+          "Jedi Council member"
+        ],
+        "gametext": "Power +3 while defending a battle (or while exactly two Jedi on table). Once per game, during your move phase, may relocate to a battleground site as a regular move. Immune to attrition.",
+        "lore": "Jedi Council Member. 'More to say have you?'",
+        "extraText": [
+          "Jedi Master"
+        ]
+      },
+       "pulledBy": [
+        "Coruscant: Jedi Council Chamber",
+        "Speak With The Jedi Council",
+        "Tatooine: City Outskirts",
+        "Yoda",
+        "You Seek Yoda"
+      ],
+      "legacy": false
+    },
+    {
+      "id": 6833,
+      "side": "Light",
+      "rarity": "R",
+      "set": "Virtual Set 13",
+      "front": {
+        "title": "•Clumsy And Stupid",
+        "imageUrl": "https://res.starwarsccg.org/cards/Images-HT/starwars/Virtual13-Light/large/clumsyandstupid.gif?raw=true",
+        "type": "Defensive Shield",
+        "uniqueness": "*",
+        "destiny": 0,
+        "gametext": "Plays on table. Opponent's Undercover spies are immune to Nevar Yalnal. Field Promotion is canceled if on Ozzel or opponent's [Maintenance] card. If Monnok just revealed your hand, you may place up to two cards from hand in your Used Pile.",
+        "lore": "'Lord Vader, the fleet has moved out of lightspeed and we're preparing to aah . . . ukh . . . uh . . . uuuuukkk!'"
+      },
+      "legacy": false
+    },		
+   {
+      "id": 6834,
+      "side": "Light",
+      "rarity": "R2",
+      "set": "Virtual Set 13",
+      "front": {
+        "title": "•Kessel Run (V)",
+        "imageUrl": "https://res.starwarsccg.org/cards/Images-HT/starwars/Virtual13-Light/large/kesselrun.gif?raw=true",
+        "type": "Effect",
+        "uniqueness": "*",
+        "destiny": 5,
+        "gametext": "Deploy on Kessel; draw 'coaxium' destinies, stacking face up here until total > 12 (cannot deploy otherwise). During each move phase, if your smuggler here, move a 'coaxium' card from here to Used Pile. If no 'coaxium' cards here, retrieve 4 Force; place Effect out of play.",
+        "lore": "Planet Kessel has infamous glitterstim spice mines attracting smugglers and pirates. A 'Kessel run' is a long, dangerous hyper-route they must travel quickly."
+      },
+      "pulledBy": [
+        "The Signal",
+        "We Wish To Board At Once"
+      ],
+      "canceledBy": [
+        "Oo-ta Goo-ta",
+        "Solo?"
+      ],
+      "legacy": false
+    },
+    {
+      "id": 6835,
+      "side": "Light",
+      "rarity": "R",
+      "set": "Virtual Set 13",
+      "front": {
+        "title": "Twilight Is Upon Me (V)",
+        "imageUrl": "https://res.starwarsccg.org/cards/Images-HT/starwars/Virtual13-Light/large/twilightisuponme.gif?raw=true",
+        "type": "Effect",
+        "uniqueness": "*",
+        "destiny": 5,
+        "gametext": "If He Is The Chosen One on table, deploy on table. You may not deploy [Episode I] sites. While Luke with Prophecy Of The Force, your Force generation is +1 and opponent's Force generation is -1. May deploy Yoda's Hut from Reserve Deck; reshuffle. [Immune to Alter.]",
+        "lore": "When a Jedi dies, the spirit spreads through the Force and touches the living."
+      },
+      "pulls": [
+        "Yoda's Hut"
+      ],
+      "pulledBy": [
+        "The Signal",
+        "We Wish To Board At Once",
+        "Your Insight Serves You Well",
+        "Your Insight Serves You Well & Staging Areas"
+      ],
+      "legacy": false
+    },	
+    {
+      "id": 6836,
+      "side": "Light",
+      "rarity": "R",
+      "set": "Virtual Set 13",
+      "front": {
+        "title": "•Meditation (V)",
+        "imageUrl": "https://res.starwarsccg.org/cards/Images-HT/starwars/Virtual13-Light/large/meditation.gif?raw=true",
+        "type": "Effect",
+        "uniqueness": "*",
+        "destiny": 4,
+        "gametext": "Deploy on your character of ability > 3. Opponent's aliens here are power -1 (and forfeit -2 if a leader, [Maintenance], or [Permanent Weapon] card). During battle at same site, if opponent has more characters participating than you, may add one battle destiny (then lose Effect at end of battle).",
+        "lore": "To prepare for the inevitable conflict with Jabba's minions, Luke entered a calm state of mental preparation."
+      },
+      "pulledBy": [
+        "The Signal",
+        "We Wish To Board At Once",
+        "Wokling (V)"
+      ],
+      "legacy": false
+    },	
+    {
+      "id": 6837,
+      "side": "Light",
+      "rarity": "C",
+      "set": "Virtual Set 13",
+      "front": {
+        "title": "•He’s The Best Smuggler Around",
+        "imageUrl": "https://res.starwarsccg.org/cards/Images-HT/starwars/Virtual13-Light/large/hesthebestsmuggleraround.gif?raw=true",
+        "type": "Interrupt",
+        "subType": "Used or Lost",
+        "uniqueness": "*",
+        "destiny": 4,
+        "gametext": "USED: Take Kessel Run, L3-37, or Lando into hand from Reserve Deck; reshuffle. OR If you just moved a 'coaxium' card to Used Pile, randomly retrieve 1 Force. LOST: Once per game, place a card stacked on [Set D] A Useless Gesture in your Lost Pile.",
+        "lore": "Blank"
+      },
+      "legacy": false
+    },	
+    {
+      "id": 6838,
+      "side": "Light",
+      "rarity": "R",
+      "set": "Virtual Set 13",
+      "front": {
+        "title": "•Anakin Skywalker",
+        "imageUrl": "https://res.starwarsccg.org/cards/Images-HT/starwars/Virtual13-Light/large/anakinskywalker.gif?raw=true",
+        "type": "Interrupt",
+        "subType": "Used or Lost",
+        "uniqueness": "*",
+        "destiny": 4,
+        "gametext": "If I Feel The Conflict on table: USED: Take a Death Star II site into hand from Reserve Deck; reshuffle. OR Relocate Prophecy Of The Force to a site. LOST: During battle at a site, if Luke armed with [Death Star II] Luke's Lightsaber, choose: Add one destiny to attrition. OR Cancel the game text of a character of ability < 4.",
+        "lore": "'You were right about me. Tell your sister ... you were right.'"
+      },
+      "pulledBy": [
+        "Twilight Is Upon Me"
+      ],
+      "legacy": false
+    },	
+    {
+      "id": 6839,
+      "side": "Light",
+      "rarity": "R",
+      "set": "Virtual Set 13",
+      "front": {
+        "title": "Help Me Obi-Wan Kenobi & Quite A Mercenary",
+        "imageUrl": "https://res.starwarsccg.org/cards/Images-HT/starwars/Virtual13-Light/large/helpmeobiwankenobiquiteamercenary.gif?raw=true",
+        "type": "Interrupt",
+        "subType": "Used or Lost",
+        "destiny": 4,
+        "gametext": "If opponent's Audience Chamber on table, opponent loses 1 Force when you play this Interrupt. USED: Cancel Elis Helrot or Stunning Leader. [Immune to Sense.] OR Cancel a smuggler's game text for remainder of turn. LOST: During your move phase, 'break cover' of an Undercover spy. OR During battle, target an opponent's character of ability < 2 with your Jedi or smuggler; target is excluded from battle.",
+        "lore": "Blank"
+      },
+      "legacy": false
+    },		
+   {
+      "id": 6840,
+      "side": "Light",
+      "rarity": "C2",
+      "set": "Virtual Set 13",
+      "front": {
+        "title": "Han's Dice",
+        "imageUrl": "https://res.starwarsccg.org/cards/Images-HT/starwars/Virtual13-Light/large/hansdice.gif?raw=true",
+        "type": "Interrupt",
+        "subType": "Used",
+        "destiny": 3,
+        "gametext": "If Han or your gambler is in battle (with no Jedi), draw destiny: (0-2) subtract that amount from opponent's total battle destiny; (3-4) cancel the game text of a character participating in battle (if any); (5+) opponent loses all immunity to attrition (if any) this battle.",
+        "lore": "A pair of dice dangling above Millennium Falcon's cockpit, for luck. 'I've never seen anything to make me believe there's one, all-powerful Force controlling everything.'"
+      },
+      "legacy": false
+    },	
+    {
+      "id": 6841,
+      "side": "Light",
+      "rarity": "R",
+      "set": "Virtual Set 13",
+      "front": {
+        "title": "•I’ve Got A Really Good Feeling About This",
+        "imageUrl": "https://res.starwarsccg.org/cards/Images-HT/starwars/Virtual13-Light/large/ivegotareallygoodfeelingaboutthis.gif?raw=true",
+        "type": "Interrupt",
+        "subType": "Used",
+        "destiny": 4,
+        "gametext": "If you have two smugglers on table, choose one: If opponent has more cards in hand than you, draw one card from Reserve Deck (two if [Set 13] Han on table). OR If there are more [Dark Side] than [Light Side] on table, activate 1 Force (2 if [Set 13] Han on table). OR Re-circulate.",
+        "lore": "Blank"
+      },
+      "legacy": false
+    },	
+    {
+      "id": 6842,
+      "side": "Light",
+      "rarity": "R",
+      "set": "Virtual Set 13",
+      "front": {
+        "title": "•Savareen Standoff",
+        "imageUrl": "https://res.starwarsccg.org/cards/Images-HT/starwars/Virtual13-Light/large/savareenstandoff.gif?raw=true",
+        "type": "Interrupt",
+        "subType": "Used",
+        "destiny": 3,
+        "gametext": "If a battle was just initiated, immediately fire a blaster deployed on your smuggler present. That blaster may fire again this battle. OR Your smuggler armed with a weapon card is defense value +2 for remainder of turn (even if just targeted by an Interrupt or weapon).",
+        "lore": "Blank"
+      },
+      "legacy": false
+    },	
+    {
+      "id": 6843,
+      "side": "Light",
+      "rarity": "R1",
+      "set": "Virtual Set 13",
+      "front": {
+        "title": "•Corellia",
+        "imageUrl": "https://res.starwarsccg.org/cards/Images-HT/starwars/Virtual13-Light/large/corellia.gif?raw=true",
+        "type": "Location",
+        "subType": "System",
+        "uniqueness": "*",
+        "destiny": 0,
+        "icons": [
+          "Planet"
+        ],
+        "lightSideIcons": 2,
+        "darkSideIcons": 1,
+        "gametext": "Light:  Your Corellians and freighters deploy -1 here. Your starships are hyperspeed +1 when moving to or from here.  Dark:  If This Place Can Be A Little Rough on table, Force drain -1 here.",
+        "parsec": 1
+      },
+      "pulledBy": [
+        "A New Secret Base (V)",
+        "Hidden Base",
+        "Mindful Of The Future",
+        "Watch Your Step",
+        "Yavin 4 Base Operations"
+      ],
+      "combo": [
+        "Corellia + Kessel Run Because of its low parsec number, Corellia makes an ideal planet to begin a Kessel Run from."
+      ],
+      "legacy": false
+    },
+    {
+      "id": 6844,
+      "side": "Light",
+      "rarity": "C",
+      "set": "Virtual Set 13",
+      "front": {
+        "title": "•Death Star II: Chasm Walkway",
+        "imageUrl": "https://res.starwarsccg.org/cards/Images-HT/starwars/Virtual13-Light/large/deathstariichasmwalkway.gif?raw=true",
+        "type": "Location",
+        "subType": "Site",
+        "destiny": 0,
+        "icons": [
+          "Interior",
+          "Mobile",
+		  "Scomp Link",
+		  "Death Star II"
+        ],
+		"lightSideIcons": 2,
+        "darkSideIcons": 2,
+        "gametext": "Light:  While Luke alone here, he is power +2.  Dark:  Your total power here is -1 for each card stacked on I Feel The Conflict."
+      },
+      "legacy": false
+    },
+   {
+      "id": 6845,
+      "side": "Light",
+      "rarity": "U2",
+      "set": "Virtual Set 13",
+      "front": {
+        "title": "•Kessel",
+        "imageUrl": "https://res.starwarsccg.org/cards/Images-HT/starwars/Virtual13-Light/large/kessel.gif?raw=true",
+        "type": "Location",
+        "subType": "System",
+        "uniqueness": "*",
+        "destiny": 0,
+        "icons": [
+          "Planet"
+        ],
+        "lightSideIcons": 1,
+        "darkSideIcons": 2,
+        "gametext": "Light:  For remainder of game, while you occupy Kessel, Force drain +1 there and Kessel Run may not be canceled.  Dark:  If you control, Kessel Run is prevented (canceled).",
+        "parsec": 8
+      },
+      "pulledBy": [
+        "A New Secret Base (V)",
+        "Hidden Base",
+        "Mindful Of The Future",
+        "Watch Your Step",
+        "Yavin 4 Base Operations"
+      ],
+      "counterpart": "Kessel",
+      "combo": [
+        "Corellia + Kessel + Kessel Run Because of its low parsec number, Corellia makes an ideal planet to begin a Kessel Run from.  Raltiir + Raltiir Freighter Captain + Kessel + Kessel Run: Raltiir Freighter Captain doubles X on Kessel Run"
+      ],
+      "legacy": false
+    },
+   {
+      "id": 6846,
+      "side": "Light",
+      "rarity": "U",
+      "set": "Virtual Set 13",
+      "front": {
+        "title": "Leia’s Resistance Transport",
+        "imageUrl": "https://res.starwarsccg.org/cards/Images-HT/starwars/Virtual13-Light/large/leiasresistancetransport.gif?raw=true",
+        "type": "Starship",
+        "subType": "Capital: Resistance Transport",
+        "uniqueness": "*",
+        "destiny": 3,
+        "power": 3,
+        "armor": 4,
+        "hyperspeed": 3,
+        "deploy": 3,
+        "forfeit": 5,
+        "icons": [
+          "Pilot",
+          "Nav Computer",
+          "Scomp Link",
+		  "Resistace"
+        ],
+        "characteristics": [
+          "Resistace (starship)",
+          "ship-docking capability"
+        ],
+        "gametext": "May add 2 pilots and 5 passengers. Permanent pilot provides ability of 2. Deploys and moves like a starfighter. When deployed, may deploy a female Resistance character aboard for free from Reserve Deck; reshuffle.",
+        "lore": "Blank"
+      },
+      "legacy": false
+    },
+
+   {
+      "id": 6847,
+      "side": "Light",
+      "rarity": "C",
+      "set": "Virtual Set 13",
+      "front": {
+        "title": "Rock",
+        "imageUrl": "https://res.starwarsccg.org/cards/Images-HT/starwars/Virtual13-Light/large/rock.gif?raw=true",
+        "type": "Weapon",
+        "subType": "Character",
+        "destiny": 5,
+        "gametext": "Ewok weapon. Deploy on your warrior or Ewok. May 'throw' (place in Used Pile) to target a character. For remainder of turn, target is power -3 (and if Proxima, she cannot battle). If on a Corellian and a battle just initiated at same site, may 'throw' Rock.",
+        "lore": "Blank"
+      },
+      "legacy": false
     }
+
+
+	
+	
+	
+	
   ]
 }
