@@ -1,17 +1,20 @@
-# Star Wars CCG Card Database  (JSON)
-Welcome to the Star Wars CCG Card database! This database contains all of the current cards for Decipher's Star Wars Collectable Card Game.
+Star Wars CCG Card JSON Database
+================================
+
+The Star Wars CCG Card JSON database contains all of the current cards for Decipher's Star Wars Collectable Card Game.
 
 For more information about Star Wars CCG, check out the SWCCG Players Committee website here: https://www.starwarsccg.org/
 
 
-## Who Uses This?
-This database is currently used by Scomp Link Access (https://scomp.starwarsccg.org/)
-Also used by the Comlink Android app (https://play.google.com/store/apps/details?id=com.hatfat.swccg)
+## Where is the json used?
+This database is currently used by:
+* [Scomp Link Access](https://scomp.starwarsccg.org/)
+* [Comlink Android app](https://play.google.com/store/apps/details?id=com.hatfat.swccg)
 
-If you use this for your personal projects, please let us know so we can link ot your project!
+* Please do not use this database without notifying the SWCCG Players Committee.
 
 
-## What Data Is Here?
+## What Data Is in the json files?
 Our goal is eventually to have everything in this database that one could need.
 - Card Names
 - Images
@@ -26,7 +29,8 @@ Basically anything you could want to search for, it should be in here.
 
 
 ## Where Are The Images?
-All of the images are hosted in the Holotable Git repository (https://github.com/swccgpc/holotable). This database links directly to those images.
+* All of the images originate in the [Holotable Git repository](https://github.com/swccgpc/holotable).
+* The holotable images are hosted from `res.starwarsccg.org`.
 
 
 ## What Does It Look Like?
@@ -39,7 +43,7 @@ Here's a sample of Darth Vader from the Premiere Set:
       "set": "Premiere",
       "front": {
         "title": "•Darth Vader",
-        "imageUrl": "https://github.com/swccgpc/holotable/blob/master/Images-HT/starwars/Premiere-Dark/large/darthvader.gif?raw=true",
+        "imageUrl": "https://res.starwarsccg.org/cards/Premiere-Dark/large/darthvader.gif",
         "type": "Character",
         "subType": "Imperial",
         "uniqueness": "*",
@@ -84,9 +88,7 @@ Here's a sample of Darth Vader from the Premiere Set:
 
 
 ## Where did all this data come from?
-This database combines data from a couple different sources:
-- Holotable
-- SWIP
+This database combines data from Holotable and SWIP.
 
 
 ## Why Another Database?
@@ -101,10 +103,6 @@ Neither of the previous databases are very easy for new applications to consume.
 JSON is easy to read.  It's just a bunch of human-readable labels. Anybody can copy-paste a new card into the database. There are tools available to edit JSON and there are tools to validate that the JSON is properly formatted
 
 
-## Where Can I Ask Questions?
-The best place to ask questions about this project is on the Star Wars CCG Players Committee Forums. Specifically, the "Resources" Sub-Form: https://forum.starwarsccg.org/viewforum.php?f=188
-
-
 ## How To Contribute?
 If you see bugs in the current data, please contribute!
 
@@ -115,11 +113,12 @@ Here's a brief overview of what you will need to do:
 4. Create a pull request (PR)
 5. Someone on the team will review your PR and get it merged?
 
-There is a nice tutorial here:
-https://www.thinkful.com/learn/github-pull-request-tutorial/Time-to-Submit-Your-First-PR#Time-to-Submit-Your-First-PR
-
 
 ## Attribution
 We would like to thank the authors of Holotable and SWIP for the initial data this project was seeded with! Without that initial data, none of this would have been possible.
 
 Also a special thanks to all of those who help with updating this database and the corresponding images in Holotable!
+
+
+
+
