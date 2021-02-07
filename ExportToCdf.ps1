@@ -38,7 +38,7 @@ param(
 )
 
 if (-not (Test-Path -Path $JsonPath)) {
-    Write-Error "Cannot find $JsonPath" -ErrorAction Stop
+    Write-Error "Cannot find $JsonPath." -ErrorAction Stop
 }
 
 if (Test-Path -Path $CdfPath) {
@@ -96,9 +96,6 @@ ForEach-Object {
         "Epic Event" {
             "card `"$img`" `"$title ($destiny)\n$side $type [$rarity]\nSet: $set\n\nText: $gametext`""
         }
-        "Game Aid" {
-            "GAME AID UNSUPPORTED"
-        }
         "Interrupt" {
             "card `"$img`" `"$title ($destiny)\n$side $type - $subtype [$rarity]\nSet: $set\n\nLore: $lore\n\nText: $gametext`""
         }
@@ -120,7 +117,6 @@ ForEach-Object {
             "card `"$img`" `"$title ($destiny)\n$side $type - $subType [$rarity]\nSet: $set\nDeploy: $deploy Forfeit: $forfeit\n\nLore: $lore\n\nText: $gametext`""
         }
         default {
-            Write-Error "Title = $title, Type = $type"
             Write-Error "Type = $Type, Title = $Title, Error = Card type not supported."
         }
     }
