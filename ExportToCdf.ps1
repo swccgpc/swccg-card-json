@@ -1,13 +1,38 @@
-# ./ExportToCdf.ps1 -JsonPath ./Dark.json -CdfPath ./Dark.cdf -Set "Virtual Set 13"
-# ./ExportToCdf.ps1 -JsonPath ./Light.json -CdfPath ./Light.cdf -Set "Virtual Set 13"
+<#
+    .SYNOPSIS
+    This script attempts to parse a JSON file in the swccg-card-json repo to the approximate format of a Holotable CDF file.
 
+    .DESCRIPTION
+    This script attempts to parse a JSON file in the swccg-card-json repo to the approximate format of a Holotable CDF file.
+
+    The resulting output is sorted by card type, subtype and title.
+
+    .PARAMETER JsonPath
+    The path to the input JSON file.
+
+    .PARAMETER CdfPath
+    The path to the output CDF file.
+
+    .PARAMETER Set
+    The set to parse.  Valid values can be found in the input JSFON file "set" properties.
+
+    .EXAMPLE
+    PS> ./ExportToCdf.ps1 -JsonPath ./Dark.json -CdfPath ./Dark.cdf -Set "Virtual Set 13"
+
+    .EXAMPLE
+    PS> ./ExportToCdf.ps1 -JsonPath ./Light.json -CdfPath ./Light.cdf -Set "Virtual Set 13"
+#>
+[CmdletBinding()]
 param(
+    [Parameter(Mandatory)]
     [string]
     $JsonPath,
 
+    [Parameter(Mandatory)]
     [string]
     $CdfPath,
 
+    [Parameter(Mandatory)]
     [string]
     $Set
 )
@@ -25,6 +50,8 @@ $json = Get-Content $JsonPath | ConvertFrom-Json
 $json.cards |
 Where-Object { $_.set -eq $Set } |
 ForEach-Object {
+    Write-Verbose "Parsing id = $($_.id), title = $($_.front.title)..."
+
     $ability = $_.front.ability
     $armor = $_.front.armor
     $deploy = $_.front.deploy
@@ -107,5 +134,3 @@ ForEach-Object {
 Sort-Object -Property "Type", "SubType", "Title" |
 Select-Object -ExpandProperty "Line" |
 Set-Content -Path $CdfPath
-
-Get-Content -Path $CdfPath
