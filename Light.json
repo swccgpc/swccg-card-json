@@ -35936,7 +35936,7 @@
         "gametext": "Deploys -2 (and landspeed = 2) on Tatooine.  If a card was just stacked on Credits Will Do Fine, may take a non-character card into hand from Reserve Deck; reshuffle.  While at opponent's Watto's Junkyard, its Light Side game text is canceled.  Immune to attrition < 4.",
         "lore": "Qui-Gon Jinn's Padawan. Stayed behind to protect Queen Amidala when Qui-Gon left to explore Mos Espa, but was in constant communication should he be needed.",
         "extraText": [
-          "Force-Sensative"
+          "Force-Sensitive"
         ]
       },
       "legacy": true
@@ -35968,7 +35968,7 @@
         "gametext": "Deploys -2 (and landspeed = 2) on Tatooine. If a card was just stacked on Credits Will Do Fine, may take a non-character card into hand from Reserve Deck; reshuffle. While at opponent's Watto's Junkyard, its Light Side game text is canceled. Immune to attrition < 4.",
         "lore": "Qui-Gon Jinn's Padawan. Stayed behind to protect Queen Amidala when Qui-Gon left to explore Mos Espa, but was in constant communication should he be needed.",
         "extraText": [
-          "Force-Sensative"
+          "Force-Sensitive"
         ]
       },
       "pulledBy": [
@@ -36001,7 +36001,7 @@
         "gametext": "Deploys -2 (and landspeed = 2) on Tatooine.  If a card was just stacked on Credits Will Do Fine, may take a non-character card into hand from Reserve Deck; reshuffle.  While at opponent's Watto's Junkyard, its Light Side game text is canceled.  Immune to attrition < 4.",
         "lore": "Qui-Gon Jinn's Padawan. Stayed behind to protect Queen Amidala when Qui-Gon left to explore Mos Espa, but was in constant communication should he be needed.",
         "extraText": [
-          "Force-Sensative"
+          "Force-Sensitive"
         ]
       },
       "legacy": true
@@ -36029,7 +36029,7 @@
         "gametext": "Deploys -2 (and landspeed = 2) on Tatooine.  If a card was just stacked on Credits Will Do Fine, may take a non-character card into hand from Reserve Deck; reshuffle.  While at opponent's Watto's Junkyard, its Light Side game text is canceled.  Immune to attrition < 4.",
         "lore": "Qui-Gon Jinn's Padawan. Stayed behind to protect Queen Amidala when Qui-Gon left to explore Mos Espa, but was in constant communication should he be needed.",
         "extraText": [
-          "Force-Sensative"
+          "Force-Sensitive"
         ]
       },
       "legacy": false
@@ -38122,7 +38122,7 @@
         "gametext": "Adds 2 to power of anything she pilots.  If opponent's [Virtual Block 6] card just added a destiny to total power or attrition here, draw two destiny, choose one, and subtract it from their attrition and total power.  Your characters here are immune to You Are Beaten and attrition < 3.",
         "lore": "Good-natured former pilot whose family owns a galactic transportation company. Years of travel has her to learn many loopholes in spaceport protocol.",
         "extraText": [
-          "Force-Sensative"
+          "Force-Sensitive"
         ]
       },
       "legacy": true
@@ -58068,7 +58068,7 @@
         "uniqueness": "*",
         "destiny": 3,
         "power": 2,
-		    "ability": 3,
+        "ability": 3,
         "deploy": 2,
         "forfeit": 4,
         "icons": [
@@ -58109,7 +58109,7 @@
         ],
         "characteristics": [
           "smuggler",
-		      "female"
+          "female"
         ],
         "gametext": "While aboard (or stacked on) a freighter, adds 1 to power, maneuver, and hyperspeed, and when forfeiting L3-37, stack her on that freighter. May lose L3-37 to cancel a non-[Immune to Sense] Interrupt targeting a freighter she is aboard or stacked on.",
         "lore": "Female smuggler.",
@@ -58133,7 +58133,7 @@
         "destiny": 1,
         "power": 7,
         "ability": 2,
-		    "armor": 4,
+        "armor": 4,
         "deploy": 4,
         "forfeit": 6,
         "icons": [
@@ -58181,7 +58181,7 @@
         "uniqueness": "*",
         "destiny": 2,
         "power": 3,
-		    "ability": 4,
+        "ability": 4,
         "deploy": 3,
         "forfeit": 3,
         "icons": [
@@ -58215,7 +58215,7 @@
         "uniqueness": "*",
         "destiny": 4,
         "power": 3,
-		    "ability": 2,
+        "ability": 2,
         "deploy": 3,
         "forfeit": 4,
         "icons": [
@@ -58247,7 +58247,7 @@
         "uniqueness": "*",
         "destiny": 1,
         "power": 3,
-	      "ability": 3,
+        "ability": 3,
         "deploy": 2,
         "forfeit": 5,
         "icons": [
@@ -58258,7 +58258,7 @@
           "smuggler",
           "gambler",
           "thief",
-		      "Corellian"
+          "Corellian"
         ],
         "gametext": "Adds 2 to power and maneuver of anything he pilots or drives. If exactly one 'coaxium' card here, may take it into hand. While piloting Falcon and you have completed a Kessel Run, adds one battle destiny and opponent generates no Force here.",
         "lore": "Corellian gambler, smuggler, and thief.",
@@ -58281,7 +58281,7 @@
         "uniqueness": "*",
         "destiny": 1,
         "power": 6,
-		    "ability": 7,
+        "ability": 7,
         "deploy": 6,
         "forfeit": 8,
         "icons": [
@@ -58309,7 +58309,7 @@
         "uniqueness": "*",
         "destiny": 0,
         "power": 4,
-		    "ability": 3,
+        "ability": 3,
         "deploy": 3,
         "forfeit": 5,
         "icons": [
@@ -58318,7 +58318,7 @@
         "characteristics": [
           "smuggler",
           "information broker",
-		      "musician",
+          "musician",
           "thief"
         ],
         "gametext": "If Vos or a [Set 13] smuggler on table, destiny +3 when drawn for destiny. Cancels Aurra's game text here. If just lost, may place out of play (for remainder of game, Han adds one battle destiny). If opponent just initiated a battle here, Beckett may fire a blaster.",
@@ -58342,7 +58342,7 @@
         "uniqueness": "*",
         "destiny": 2,
         "power": 2,
-		    "ability": 2,
+        "ability": 2,
         "deploy": 2,
         "forfeit": 4,
         "icons": [
@@ -58353,7 +58353,7 @@
           "smuggler",
           "scout",
           "thief",
-		      "female"
+          "female"
         ],
         "gametext": "May forfeit in place of your 'hit' [Set 13] smuggler here, restoring that smuggler to normal. Permanent weapon is Blaster Pistol (may target a character or creature for free; draw destiny; target hit, and its forfeit = 0, if destiny +1 > defense value).",
         "lore": "Female scout, smuggler, and thief."
@@ -58388,7 +58388,7 @@
           "Jedi Master"
         ]
       },
-       "pulledBy": [
+      "pulledBy": [
         "Coruscant: Jedi Council Chamber",
         "Speak With The Jedi Council",
         "Tatooine: City Outskirts",
@@ -58412,8 +58412,8 @@
         "lore": "'Lord Vader, the fleet has moved out of lightspeed and we're preparing to aah . . . ukh . . . uh . . . uuuuukkk!'"
       },
       "legacy": false
-    },		
-   {
+    },
+    {
       "id": 6834,
       "side": "Light",
       "rarity": "R2",
@@ -58461,7 +58461,7 @@
         "Your Insight Serves You Well & Staging Areas"
       ],
       "legacy": false
-    },	
+    },
     {
       "id": 6836,
       "side": "Light",
@@ -58482,7 +58482,7 @@
         "Wokling (V)"
       ],
       "legacy": false
-    },	
+    },
     {
       "id": 6837,
       "side": "Light",
@@ -58499,7 +58499,7 @@
         "lore": "Blank"
       },
       "legacy": false
-    },	
+    },
     {
       "id": 6838,
       "side": "Light",
@@ -58519,7 +58519,7 @@
         "Twilight Is Upon Me"
       ],
       "legacy": false
-    },	
+    },
     {
       "id": 6839,
       "side": "Light",
@@ -58535,8 +58535,8 @@
         "lore": "Blank"
       },
       "legacy": false
-    },		
-   {
+    },
+    {
       "id": 6840,
       "side": "Light",
       "rarity": "C2",
@@ -58551,7 +58551,7 @@
         "lore": "A pair of dice dangling above Millennium Falcon's cockpit, for luck. 'I've never seen anything to make me believe there's one, all-powerful Force controlling everything.'"
       },
       "legacy": false
-    },	
+    },
     {
       "id": 6841,
       "side": "Light",
@@ -58567,7 +58567,7 @@
         "lore": "Blank"
       },
       "legacy": false
-    },	
+    },
     {
       "id": 6842,
       "side": "Light",
@@ -58583,7 +58583,7 @@
         "lore": "Blank"
       },
       "legacy": false
-    },	
+    },
     {
       "id": 6843,
       "side": "Light",
@@ -58633,13 +58633,13 @@
           "Scomp Link",
           "Death Star II"
         ],
-		  "lightSideIcons": 2,
+        "lightSideIcons": 2,
         "darkSideIcons": 2,
         "gametext": "Light:  While Luke alone here, he is power +2.  Dark:  Your total power here is -1 for each card stacked on I Feel The Conflict."
       },
       "legacy": false
     },
-   {
+    {
       "id": 6845,
       "side": "Light",
       "rarity": "U2",
@@ -58672,7 +58672,7 @@
       ],
       "legacy": false
     },
-   {
+    {
       "id": 6846,
       "side": "Light",
       "rarity": "U",
@@ -58693,7 +58693,7 @@
           "Pilot",
           "Nav Computer",
           "Scomp Link",
-		      "Resistace"
+          "Resistace"
         ],
         "characteristics": [
           "Resistace (starship)",
@@ -58704,8 +58704,7 @@
       },
       "legacy": false
     },
-
-   {
+    {
       "id": 6847,
       "side": "Light",
       "rarity": "C",
@@ -58721,6 +58720,5 @@
       },
       "legacy": false
     }
-	
   ]
 }
