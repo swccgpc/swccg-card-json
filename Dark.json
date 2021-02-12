@@ -56020,7 +56020,7 @@
       ],
       "legacy": false
     },
-	  {
+    {
       "id": 6790,
       "side": "Dark",
       "rarity": "C",
@@ -56033,7 +56033,7 @@
         "uniqueness": "*",
         "destiny": 1,
         "power": 4,
-		    "ability": 3,
+        "ability": 3,
         "deploy": 6,
         "forfeit": 6,
         "icons": [
@@ -56053,7 +56053,7 @@
       },
       "legacy": false
     },
-	  {
+    {
       "id": 6791,
       "side": "Dark",
       "rarity": "C",
@@ -56066,7 +56066,7 @@
         "uniqueness": "**",
         "destiny": 3,
         "power": 3,
-		    "ability": 2,
+        "ability": 2,
         "deploy": 4,
         "forfeit": 4,
         "icons": [
@@ -56082,7 +56082,7 @@
       },
       "legacy": false
     },
-	  {
+    {
       "id": 6792,
       "side": "Dark",
       "rarity": "C",
@@ -56095,7 +56095,7 @@
         "uniqueness": "*",
         "destiny": 2,
         "power": 3,
-		    "ability": 2,
+        "ability": 2,
         "deploy": 3,
         "forfeit": 4,
         "icons": [
@@ -56104,7 +56104,7 @@
         ],
         "characteristics": [
           "Crimson Dawn",
-		      "leader",
+          "leader",
           "guard"
         ],
         "gametext": "Permanent weapon is Percussive Cannon (may target a character or vehicle for free; draw destiny; if destiny > defense value, target hit and is power and forfeit -2). While with your guard or at an opponent's site, opponent's weapon destiny draws here are -1.",
@@ -56112,7 +56112,7 @@
       },
       "legacy": false
     },
-	  {
+    {
       "id": 6793,
       "side": "Dark",
       "rarity": "C",
@@ -56125,7 +56125,7 @@
         "uniqueness": "*",
         "destiny": 3,
         "power": 3,
-		    "ability": 5,
+        "ability": 5,
         "deploy": 4,
         "forfeit": 5,
         "icons": [
@@ -56140,7 +56140,7 @@
       },
       "legacy": false
     },
-	  {
+    {
       "id": 6794,
       "side": "Dark",
       "rarity": "C",
@@ -56153,14 +56153,14 @@
         "uniqueness": "*",
         "destiny": 1,
         "power": 5,
-		    "ability": 7,
+        "ability": 7,
         "deploy": 7,
         "forfeit": 8,
         "icons": [
           "Pilot",
           "Warrior",
           "Separatist",
-		      "Episode I"
+          "Episode I"
         ],
         "characteristics": [
           "leader"
@@ -56173,7 +56173,7 @@
       },
       "legacy": false
     },
-	  {
+    {
       "id": 6795,
       "side": "Dark",
       "rarity": "C",
@@ -56186,10 +56186,10 @@
         "uniqueness": "*",
         "destiny": 2,
         "power": 4,
-		    "ability": 5,
+        "ability": 5,
         "deploy": 4,
         "forfeit": 6,
-         "icons": [
+        "icons": [
           "Pilot",
           "Warrior"
         ],
@@ -56204,7 +56204,7 @@
       },
       "legacy": false
     },
-	  {
+    {
       "id": 6796,
       "side": "Dark",
       "rarity": "C",
@@ -56231,7 +56231,7 @@
       },
       "legacy": false
     },
-	  {
+    {
       "id": 6797,
       "side": "Dark",
       "rarity": "C",
@@ -56244,7 +56244,7 @@
         "uniqueness": "*",
         "destiny": 2,
         "power": 5,
-		    "ability": 5,
+        "ability": 5,
         "deploy": 4,
         "forfeit": 4,
         "icons": [
@@ -56253,7 +56253,7 @@
         ],
         "characteristics": [
           "Inquisitor",
-		    "female"
+          "female"
         ],
         "gametext": "Defense value -2 while opponent has a weapon present. While at a site, unless opponent's character of ability > 3 here, reset opponent's total battle destiny here to 0.",
         "lore": "Female Dowutin Inquisitor.",
@@ -56263,7 +56263,7 @@
       },
       "legacy": false
     },
-	  {
+    {
       "id": 6798,
       "side": "Dark",
       "rarity": "C",
@@ -56276,19 +56276,19 @@
         "uniqueness": "*",
         "destiny": 2,
         "power": 2,
-		    "ability": 2,
+        "ability": 2,
         "deploy": 2,
         "forfeit": 3,
         "characteristics": [
           "Crimson Dawn",
-		  "female"
+          "female"
         ],
         "gametext": "Once during opponent's deploy phase, may use 1 Force to choose: 'break cover' of opponent's Undercover spy here or draw destiny; if destiny = number of opponent's characters at same site, to initiate battle here this turn requires +1 Force.",
         "lore": "Female Imroosian. Crimson Dawn."
       },
       "legacy": false
     },
-	  {
+    {
       "id": 6799,
       "side": "Dark",
       "rarity": "C",
@@ -56301,16 +56301,16 @@
         "uniqueness": "*",
         "destiny": 2,
         "power": 4,
-		    "ability": 5,
+        "ability": 5,
         "deploy": 5,
         "forfeit": 7,
-          "icons": [
+        "icons": [
           "Pilot",
           "Warrior"
         ],
         "characteristics": [
           "Inquisitor",
-		      "female"
+          "female"
         ],
         "gametext": "Attrition against you is -1 here while with a Jedi, Padawan, probe droid, or 'Hatred' card. Once per turn, may use 1 Force (free if your probe droid here) to draw top card of Reserve Deck. Your Inquisitors and probe droids here are immune to attrition < 4.",
         "lore": "Female Mirialan Inquisitor.",
@@ -56320,7 +56320,7 @@
       },
       "legacy": false
     },
-	  {
+    {
       "id": 6800,
       "side": "Dark",
       "rarity": "C",
@@ -56333,7 +56333,7 @@
         "uniqueness": "*",
         "destiny": 0.5,
         "power": 4,
-		    "ability": 6,
+        "ability": 6,
         "deploy": 4,
         "forfeit": 8,
         "icons": [
@@ -56351,7 +56351,7 @@
         ]
       },
       "legacy": false
-    },	
+    },
     {
       "id": 6801,
       "side": "Dark",
@@ -56367,8 +56367,7 @@
         "lore": "'That place is strong with the dark side of the Force. A domain of evil it is. In you must go.'"
       },
       "legacy": false
-    },	
-	
+    },
     {
       "id": 6802,
       "side": "Dark",
@@ -56384,7 +56383,7 @@
         "lore": "'We're gonna get pulverized if we stay out here much longer.'"
       },
       "legacy": false
-    },	
+    },
     {
       "id": 6803,
       "side": "Dark",
@@ -56400,7 +56399,7 @@
         "lore": "Blank"
       },
       "legacy": false
-    },	
+    },
     {
       "id": 6804,
       "side": "Dark",
@@ -56430,7 +56429,7 @@
         "Transmission Terminated"
       ],
       "legacy": false
-    },	
+    },
     {
       "id": 6805,
       "side": "Dark",
@@ -56463,7 +56462,7 @@
         "lore": "Imperial officers are issued coded cylinders which access computer information via Scomp links. Each cylinder is coded to the officer's own security clearance."
       },
       "legacy": false
-    },	
+    },
     {
       "id": 6807,
       "side": "Dark",
@@ -56555,7 +56554,7 @@
         "gametext": "Dark:  May deploy [Set 13] Maul here from Reserve Deck; reshuffle.  Light:  Jar Jar and your spies (except Ezra) may not deploy here. Opponent may not Force drain here."
       },
       "legacy": false
-    },	
+    },
     {
       "id": 6812,
       "side": "Dark",
@@ -56582,7 +56581,7 @@
         "Commander Gherant"
       ],
       "legacy": false
-    },	
+    },
     {
       "id": 6813,
       "side": "Dark",
@@ -56605,7 +56604,7 @@
         "gametext": "Dark:  Once per game, may deploy Margo, Wuher, or a musician here from Reserve Deck; reshuffle.  Light:  Force drain -1 here (if your musician here, Force drain +1 instead)."
       },
       "legacy": false
-    },	
+    },
     {
       "id": 6814,
       "side": "Dark",
@@ -56628,7 +56627,7 @@
         "gametext": "Dark:  During your move phase, your Crimson Dawn leader may move between here and a site.  Light:  Add 1 to your blaster weapon destiny draws here. Unless Vos on table, Force drain -1 here."
       },
       "legacy": false
-    },	
+    },
     {
       "id": 6815,
       "side": "Dark",
@@ -56651,7 +56650,7 @@
         "gametext": "Dark:  While your unique (•) alien here, your Force generation is +1 here (+2 if Margo).  Light:  Force drain -1 here (if your smuggler here, Force drain +1 instead)."
       },
       "legacy": false
-    },	
+    },
     {
       "id": 6816,
       "side": "Dark",
@@ -56665,7 +56664,7 @@
         "destiny": 0,
         "icons": [
           "Underground",
-		      "Interior",
+          "Interior",
           "Planet"
         ],
         "lightSideIcons": 1,
@@ -56673,7 +56672,7 @@
         "gametext": "Dark:  Force drain +1 here. While Vader alone here, he is power +2.  Light:  While Ahsoka alone (or with Ezra) here, she is power +2."
       },
       "legacy": false
-    },	
+    },
     {
       "id": 6817,
       "side": "Dark",
@@ -56687,7 +56686,7 @@
         "destiny": 0,
         "icons": [
           "Underground",
-		      "Interior",
+          "Interior",
           "Exterior",
           "Planet"
         ],
@@ -56696,7 +56695,7 @@
         "gametext": "Dark:  You initiate battles here for free. Unless you occupy, Inquisitors deploy -1 here.  Light:  Once per game, you may deploy a Padawan (except Anakin) here from Reserve Deck; reshuffle."
       },
       "legacy": false
-    },	
+    },
     {
       "id": 6818,
       "side": "Dark",
@@ -56725,7 +56724,7 @@
         "Wakeelmui + Sienar Fleet Systems Retrieve 1 Force each time you deploy a TIE. Once per turn may relocate a TIE just lost from table to Used Pile."
       ],
       "legacy": false
-    },	
+    },
     {
       "id": 6819,
       "side": "Dark",
@@ -56744,7 +56743,7 @@
         "lore": "Highly specialized weapon used for disintegration. Commonly found on the black market and in criminal arsenals. One of the favored weapons of the Black Sun."
       },
       "legacy": false
-    },	
+    },
     {
       "id": 6820,
       "side": "Dark",
@@ -56764,7 +56763,7 @@
         "lore": "Blank"
       },
       "legacy": false
-    },	
+    },
     {
       "id": 6821,
       "side": "Dark",
@@ -56785,7 +56784,7 @@
         "gametext": "Hunt Down And Destroy The Jedi: Deploy Vader's Castle and [Set 13] Visage Of The Emperor. {For} remainder of game, you may not deploy characters except bounty hunters, droids, and Imperials. Where you have an Inquisitor, your total battle destiny is +1 (+2 if with a 'Hatred' card). Inquisitors are destiny +2. {While} this side up, once per turn, may deploy a [Cloud City] or Malachor battleground site from Reserve Deck; reshuffle. {Flip} this card if Vader is at a battleground site unless Luke, a Jedi, or a Padawan at a battleground site. Their Fire Has Gone Out Of The Universe: {While} this side up, you lose no Force from Visage Of The Emperor. While Vader armed with a lightsaber, opponent's Force drain bonuses are canceled. {Flip} this card if Luke, a Jedi, or a Padawan at a battleground site; once per game, may take Vader and your cards on him into hand from a site you control."
       },
       "legacy": false
-    },	
+    },
     {
       "id": 6822,
       "side": "Dark",
@@ -56806,6 +56805,6 @@
         "gametext": "Shadow Collective: Deploy Maul's Chambers. If Massassi Throne Room on table, may deploy [Set 13] Maul to Maul's Chambers. {For} remainder of game, you may not deploy cards with ability (or [Episode I] droids) except characters with 'Black Sun,' 'Crimson Dawn,' or 'Hutt' in lore, assassins, gangsters, [Episode I] bounty hunters, and [Independent] starships. Once per turn, may deploy a non-unique blaster (or a card with 'First Light' in title) from Reserve Deck; reshuffle. {Flip} this card if you just 'hit' a character (or during your battle phase if your gangsters control two battlegrounds). You Know Who I Answer To: {May immediately} re-circulate and shuffle your Reserve Deck. {While} this side up, if your gangster leader in battle at same site as your non-unique blaster, may add one destiny to total power. During your draw phase, if Maul alone, may peek at the cards in your Force Pile. {Flip} this card at end of turn. If you are about to flip this card and you occupy three battlegrounds, opponent loses 1 Force."
       },
       "legacy": false
-    }	
+    }
   ]
 }
