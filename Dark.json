@@ -7075,7 +7075,10 @@
           "parasite"
         ],
         "gametext": "* Ferocity = destiny -1. Habitat: Dagobah. Parasite: Character (that can move). Relocate Bog-wing and host up to two sites away (opponent of victim chooses). Bog-wing then detaches.",
-        "lore": "Avian jungle-dweller. Fiercely territorial. Uses powerful talons to pick up and bear off victims. Carries up to nine times it's own body weight. Feeds primarily on root lizards and vine snakes."
+        "lore": "Avian jungle-dweller. Fiercely territorial. Uses powerful talons to pick up and bear off victims. Carries up to nine times it's own body weight. Feeds primarily on root lizards and vine snakes.",
+        "extraText": [
+          "FLIGHT: 2"
+        ]
       },
       "counterpart": "Bog-wing",
       "legacy": false
@@ -7773,7 +7776,10 @@
           "ferocious"
         ],
         "gametext": "Habitat: planet sites (except Hoth). Does not attack your characters. When at a Jabba's palace site, prevents opponents characters from using their landspeed.",
-        "lore": "Watchbeast. Unwittingly foiled Ree Yees' plot to kill Jabba with a thermal detonator when it ate a crucial component. Louder than it is tough. Keeps watch for unwary intruders."
+        "lore": "Watchbeast. Unwittingly foiled Ree Yees' plot to kill Jabba with a thermal detonator when it ate a crucial component. Louder than it is tough. Keeps watch for unwary intruders.",
+        "extraText": [
+          "BARK: 5"
+        ]
       },
       "pulledBy": [
         "Swamp"
@@ -16441,7 +16447,10 @@
           "ferocious"
         ],
         "gametext": "* Ferocity = (power/ferocity of last character or creature eaten) + destiny. Habitat: exterior Dagobah sites, Trash Compactor and Dark Waters.",
-        "lore": "'Garbage squid' from Vodran's jungles. Changes color to match last meal. When unfed, turns transparent. Eats almost anything. Flexible eyestalk. 7 tentacles. Up to 6 meters long."
+        "lore": "'Garbage squid' from Vodran's jungles. Changes color to match last meal. When unfed, turns transparent. Eats almost anything. Flexible eyestalk. 7 tentacles. Up to 6 meters long.",
+        "extraText": [
+          "SLITHER: 5"
+        ]
       },
       "legacy": false
     },
@@ -16463,7 +16472,10 @@
           "A New Hope"
         ],
         "gametext": "* Ferocity = 2 + destiny. Habitat: swamps, jungles, Trash Compactor, and Dark Waters. Whenever this creature eats an opponent's card, opponent loses 2 Force.",
-        "lore": "'Garbage squid' from Vodran's jungles. Changes color to match last meal. When unfed, turns transparent. Eats almost anything. Flexible eyestalk. 7 tentacles. Up to 6 meters long."
+        "lore": "'Garbage squid' from Vodran's jungles. Changes color to match last meal. When unfed, turns transparent. Eats almost anything. Flexible eyestalk. 7 tentacles. Up to 6 meters long.",
+        "extraText": [
+          "TENTACLES: 4"
+        ]
       },
       "legacy": true
     },
@@ -17254,7 +17266,10 @@
           "ferocious"
         ],
         "gametext": "Ferocity = 3 + destiny. Habitat: swamps, jungles and Dark Waters. May attack droids. Defeated droids are relocated to an adjacent exterior site (opponent of victim chooses).",
-        "lore": "One of Dagobah's deadliest predators. Has razor-sharp fins, powerful constrictor coils and large fangs. Feeds on almost anything. Often mistaken for a swamp slug, due to its size."
+        "lore": "One of Dagobah's deadliest predators. Has razor-sharp fins, powerful constrictor coils and large fangs. Feeds on almost anything. Often mistaken for a swamp slug, due to its size.",
+        "extraText": [
+          "HUMP: 2"
+        ]
       },
       "pulledBy": [
         "Swamp"
@@ -30318,7 +30333,7 @@
         "gametext": "Ferocity = 6 + two destiny. Habitat: deserts and Tatooine exterior sites. May not deploy to an occupied site. If defeated, opponent may draw destiny and retrieve Force equal to destiny draw.",
         "lore": "Krayt dragons have beautiful and valuable pearls inside them as a gizzard to grind up food. Their fierceness is legendary. Up to 10 meters tall and 30 meters long.",
         "extraText": [
-          "MOURNFUL HOWL: 5 5"
+          "MOURNFUL HOWL: 5"
         ]
       },
       "legacy": false
@@ -35264,7 +35279,10 @@
           "parasite"
         ],
         "gametext": "Habitat: unlimited. Parasite: Starfighter. Host's power and hyperspeed are cumulatively -2; while both < 1, Mynocks randomly detach one at a time (cannot attach for remainder of turn). Moves like a starfighter.",
-        "lore": "Silicon-based space borne lifeform. Frequently called a 'power sucker.' Feeds on energy such as stellar radiation and electrical discharges. Absorbs minerals from starship hulks."
+        "lore": "Silicon-based space borne lifeform. Frequently called a 'power sucker.' Feeds on energy such as stellar radiation and electrical discharges. Absorbs minerals from starship hulks.",
+        "extraText": [
+          "SWARM: 3"
+        ]
       },
       "pulledBy": [
         "Swamp"
@@ -37109,7 +37127,7 @@
         "gametext": "Habitat: Hoth sites. Deploys only to Wampa Cave. For remainder of game, all wampas are selective creatures.",
         "lore": "When a wampa is wounded, the other members of its pack band together to repel the threat.",
         "extraText": [
-          "VICIOUS HOWL: 4 4"
+          "VICIOUS HOWL: 4"
         ]
       },
       "combo": [
@@ -37137,7 +37155,7 @@
         "gametext": "Habitat: Hoth sites. Deploys only to a marker site. Wampas are [Selective Creature] creatures. Other wampas are ferocity and defense value +2. Once per game, may deploy Wampa Cave on table from Reserve Deck; reshuffle.",
         "lore": "When a wampa is wounded, the other members of its pack band together to repel the threat.",
         "extraText": [
-          "VICIOUS HOWL: 4 4"
+          "VICIOUS HOWL: 4"
         ]
       },
       "legacy": true
@@ -40237,7 +40255,7 @@
         "gametext": "* Ferocity = 8 + destiny. Habitat: Rancor Pit and exterior planet sites. Deploys only to the rancor pit or to where Malakili is the only character. Moves towards another Rancor whenever possible.",
         "lore": "Indigenous to Dathomir, but found on several dozen worlds throughout the galaxy. Vicious predator. Sometimes kept as pets by eccentrics and crime lords.",
         "extraText": [
-          "ARMORED HIDE: 5 5"
+          "ARMORED HIDE: 5"
         ]
       },
       "pulledBy": [
@@ -40962,7 +40980,10 @@
           "ferocious"
         ],
         "gametext": "Habitat: planet sites. Landspeed = 2. Ferocity +2 when present at Bluffs or any canyon.",
-        "lore": "Fast-moving, insect-like pest. Scavengers in rocky, secluded habitats. Hides in shadows and attacks when surprised. Nearly 1 meter long."
+        "lore": "Fast-moving, insect-like pest. Scavengers in rocky, secluded habitats. Hides in shadows and attacks when surprised. Nearly 1 meter long.",
+        "extraText": [
+          "CARAPACE: 2"
+        ]
       },
       "pulledBy": [
         "Swamp"
@@ -41875,7 +41896,10 @@
           "ferocious"
         ],
         "gametext": "* Ferocity = 4 + destiny. Habitat: Great Pit Of Carkoon. If Sarlacc eats a captive, may retrieve 1 Force for each of your aliens here. Anything eaten by Sarlacc is placed out of play.",
-        "lore": "Very patient predator in the Dune Sea. Tentacles can grab prey up to four meters away. Digests victims for 1000 years. Often fed prisoners by Jabba the Hutt."
+        "lore": "Very patient predator in the Dune Sea. Tentacles can grab prey up to four meters away. Digests victims for 1000 years. Often fed prisoners by Jabba the Hutt.",
+        "extraText": [
+          "TENTACLES: 12"
+        ]
       },
       "legacy": false
     },
@@ -41894,7 +41918,10 @@
         "deploy": 4,
         "forfeit": 0,
         "gametext": "* Ferocity = 4 + destiny. Habitat: Great Pit Of Carkoon. X = number of your aliens here. Captives here are power -X. Anything eaten by Sarlacc is placed out of play (if a captive, retrieve up to X Force).",
-        "lore": "Very patient predator in the Dune Sea. Tentacles can grab prey up to four meters away. Digests victims for 1000 years. Often fed prisoners by Jabba the Hutt."
+        "lore": "Very patient predator in the Dune Sea. Tentacles can grab prey up to four meters away. Digests victims for 1000 years. Often fed prisoners by Jabba the Hutt.",
+        "extraText": [
+          "TENTACLES: 12"
+        ]
       },
       "legacy": true
     },
@@ -44480,7 +44507,10 @@
           "ferocious"
         ],
         "gametext": "Ferocity = destiny - 3. Habitat: planet sites (except Hoth and Tatooine) and Dark Waters. Cumulatively absorbs (temporarily cancels) one [Light Side Force] icon present. Parasite: None.",
-        "lore": "Slow, omnivorous swamp forager. Eats insects. Seeks damp, dark environments strong with the Force."
+        "lore": "Slow, omnivorous swamp forager. Eats insects. Seeks damp, dark environments strong with the Force.",
+        "extraText": [
+          "CLAWS: 2"
+        ]
       },
       "pulledBy": [
         "Swamp"
@@ -44929,7 +44959,10 @@
           "ferocious"
         ],
         "gametext": "* Ferocity = two destiny. Habitat: Big One (Cave is now Belly). Attacks starfighters (defeated cards are eaten or relocated to Belly, opponent of victim chooses). Once per turn, may open or close mouth.",
-        "lore": "Gigantic silicon-based lifeform. Exists in the vacuum of space. Devours small vessels whole. Has difficulty keeping its modified light freighters down."
+        "lore": "Gigantic silicon-based lifeform. Exists in the vacuum of space. Devours small vessels whole. Has difficulty keeping its modified light freighters down.",
+        "extraText": [
+          "HIDE: 3"
+        ]
       },
       "counterpart": "Space Slug",
       "legacy": false
@@ -47683,6 +47716,8 @@
           "Planet",
           "Scomp Link"
         ],
+        "lightSideIcons": 1,
+        "darkSideIcons": 1,
         "gametext": "Dark:  Once per turn, when a player's Landing Craft takes off or lands here, that player may retrieve 1 Force  Light:  Immune to Revolution. If a stormtrooper here, you must first use 2 Force to deploy a weapon or device at same or adjacent site."
       },
       "legacy": true
@@ -49680,7 +49715,10 @@
         "icons": [
           "Dagobah"
         ],
-        "gametext": "Habitat: sites. Parasite: Imperials. While attached and present, at same site: all Force generation is canceled, Dark Jedi and Jedi are defense value -1 and their weapon destinies are -1, and no attacks."
+        "gametext": "Habitat: sites. Parasite: Imperials. While attached and present, at same site: all Force generation is canceled, Dark Jedi and Jedi are defense value -1 and their weapon destinies are -1, and no attacks.",
+        "extraText": [
+          "FANGS: 4"
+        ]
       },
       "conceptBy": "(Original concept by Jeffrey Johns - PC Volunteer Award 2007)",
       "legacy": true
@@ -52789,7 +52827,10 @@
           "parasite"
         ],
         "gametext": "Habitat: planet sites (except Hoth). Attacks a character by attaching. X starts at 0. Every move phase, draw destiny; each time destiny > ability, add 1 to X. Character is power -X (eaten if power = 0).",
-        "lore": "Found on various planets throughout the galaxy. Hides among hanging vines, dropping on unsuspecting travelers that pass beneath. Kills its victims through gradual constriction."
+        "lore": "Found on various planets throughout the galaxy. Hides among hanging vines, dropping on unsuspecting travelers that pass beneath. Kills its victims through gradual constriction.",
+        "extraText": [
+          "SLITHER: 3"
+        ]
       },
       "pulledBy": [
         "Swamp"
@@ -53149,7 +53190,7 @@
         "gametext": "* Ferocity = 3 + destiny. Habitat: Hoth sites. Deploy only to Wampa Cave or unoccupied marker site. Defeated characters are eaten or relocated to Wampa Cave (opponent of victim chooses).",
         "lore": "Sly, carnivorous beast which stalks the snow-packed tundra. Wampas frequently drag their prey to an ice cave for storage. They always prefer to devour their victims alive.",
         "extraText": [
-          "VICIOUS HOWL: 3 3"
+          "VICIOUS HOWL: 3"
         ]
       },
       "combo": [
@@ -53177,7 +53218,7 @@
         "gametext": "* Ferocity = 3 + destiny. Habitat: Hoth sites. Deploys only to marker sites. Characters defeated by this Wampa may be relocated to Wampa Cave instead of being eaten (opponent of victim chooses).",
         "lore": "Sly, carnivorous beast which stalks the snow-packed tundra. Wampas frequently drag their prey to an ice cave for storage. They always prefer to devour their victims alive.",
         "extraText": [
-          "VICIOUS HOWL: 4 4"
+          "VICIOUS HOWL: 4"
         ]
       },
       "legacy": true
@@ -54401,7 +54442,10 @@
           "ferocious"
         ],
         "gametext": "* Ferocity = destiny. Habitat: exterior planet sites. Ferocity +1 for each other womp rat at same site. Lost if 'bullseyed' by Luke's T-16 Skyhopper present.",
-        "lore": "Carnivorous rodents. Typically found in Beggar's Canyon. About the size of an average thermal exhaust port."
+        "lore": "Carnivorous rodents. Typically found in Beggar's Canyon. About the size of an average thermal exhaust port.",
+        "extraText": [
+          "SCURRY: 4"
+        ]
       },
       "pulledBy": [
         "Swamp"
