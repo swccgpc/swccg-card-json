@@ -260,7 +260,7 @@
         "subType": "Used Or Lost",
         "uniqueness": "*",
         "destiny": 5,
-        "gametext": "USED: If a battle was just initiated where you have a character armed with a lightsaber, characters may not be targeted by lightsabers for remainder of battle.  LOST: If opponent just initiated a duel, opponent must choose to lose 4 Force or cancel the duel.\"",
+        "gametext": "USED: If a battle was just initiated where you have a character armed with a lightsaber, characters may not be targeted by lightsabers for remainder of battle.  LOST: If opponent just initiated a duel, opponent must choose to lose 4 Force or cancel the duel.",
         "lore": "Luke's experience on Dagobah gave him great skill in using the Force. Vader had to keep his focus on Luke at all times, or face the consequences."
       },
       "combo": [
@@ -299,7 +299,7 @@
         "subType": "Used Or Lost",
         "uniqueness": "*",
         "destiny": 4,
-        "gametext": "USED: If you have a character with a lightsaber in battle, all opponent's aliens at same site are power -1 for remainder of turn ( -2 if alien is non-unique).  LOST: If a duel was just initiated, add the destiny number of the top card of your Lost Pile to your total.\"",
+        "gametext": "USED: If you have a character with a lightsaber in battle, all opponent's aliens at same site are power -1 for remainder of turn ( -2 if alien is non-unique).  LOST: If a duel was just initiated, add the destiny number of the top card of your Lost Pile to your total.",
         "lore": "Vader was surprised at how far the 'young apprentice' had come in his training."
       },
       "combo": [
@@ -320,7 +320,7 @@
         "subType": "Used Or Lost",
         "uniqueness": "*",
         "destiny": 5,
-        "gametext": "USED: If your character armed with a lightsaber is defending a battle, adds 2 to your total power in that battle.  LOST: During a duel, cancel one of your duel destiny draws to cause a re-draw.\"",
+        "gametext": "USED: If your character armed with a lightsaber is defending a battle, adds 2 to your total power in that battle.  LOST: During a duel, cancel one of your duel destiny draws to cause a re-draw.",
         "lore": "Early on in his duel with Vader, Luke took his time in trying to sense his opponent's weaknesses."
       },
       "combo": [
@@ -1205,7 +1205,7 @@
         "type": "Interrupt",
         "subType": "Used Or Lost",
         "destiny": 6,
-        "gametext": "USED: Place out of play any one of the following from your hand: Attack Run, You're All Clear Kid, Death Star: Trench or Rebel Tech. Retrieve 1 Force.  LOST: Use 3 Force to retrieve Attack Run.\"",
+        "gametext": "USED: Place out of play any one of the following from your hand: Attack Run, You're All Clear Kid, Death Star: Trench or Rebel Tech. Retrieve 1 Force.  LOST: Use 3 Force to retrieve Attack Run.",
         "lore": "Early warning and careful planning allow the Rebels to achieve maximum readiness while still maintaining optimal flexibility."
       },
       "pulledBy": [
@@ -1825,7 +1825,7 @@
         "subType": "Used Or Lost",
         "uniqueness": "*",
         "destiny": 5,
-        "gametext": "USED: Take one unique (•) unpiloted starfighter into hand from Reserve Deck; reshuffle.  LOST: During a battle at a system or sector, if you are about to draw a card for battle destiny, you may instead use the maneuver number of your unique (•) starfighter in that battle.\""
+        "gametext": "USED: Take one unique (•) unpiloted starfighter into hand from Reserve Deck; reshuffle.  LOST: During a battle at a system or sector, if you are about to draw a card for battle destiny, you may instead use the maneuver number of your unique (•) starfighter in that battle."
       },
       "pulls": [
         "Artoo-Detoo In Red 5",
@@ -1974,7 +1974,7 @@
         "type": "Interrupt",
         "subType": "Used Or Lost",
         "destiny": 4,
-        "gametext": "USED: Target your highest-ability character and one Effect. Draw destiny. If destiny < ability of target character, cancel target Effect.  LOST: If a battle was just initiated at a site where opponent has at least two characters and one weapon, draw destiny. If destiny is < number of opponent's characters at that site, opponent chooses one to be lost.\""
+        "gametext": "USED: Target your highest-ability character and one Effect. Draw destiny. If destiny < ability of target character, cancel target Effect.  LOST: If a battle was just initiated at a site where opponent has at least two characters and one weapon, draw destiny. If destiny is < number of opponent's characters at that site, opponent chooses one to be lost."
       },
       "pulledBy": [
         "Yoda",
@@ -2008,7 +2008,7 @@
           "Episode I",
           "Coruscant"
         ],
-        "gametext": "USED: Cancel Sense.  LOST: Target an Effect, Political Effect, or Utinni Effect, and one of your characters on table.  Draw destiny.  If destiny < character's ability, target Effect is canceled (you lose no Force to There Is No Try). (Immune to opponent's Objective.)\"",
+        "gametext": "USED: Cancel Sense.  LOST: Target an Effect, Political Effect, or Utinni Effect, and one of your characters on table.  Draw destiny.  If destiny < character's ability, target Effect is canceled (you lose no Force to There Is No Try). (Immune to opponent's Objective.)",
         "lore": "The Force can be used to affect the things around a Jedi. 'Always remember, your focus determines your reality."
       },
       "legacy": true
@@ -2028,7 +2028,7 @@
           "Episode I",
           "Coruscant"
         ],
-        "gametext": "USED: Cancel Sense.  LOST: Target an Effect, Political Effect, or Utinni Effect, and one of your characters on table.  Draw destiny.  If destiny < character's ability, target Effect is canceled (you lose no Force to There Is No Try). (Immune to opponent's Objective.)\"",
+        "gametext": "USED: Cancel Sense.  LOST: Target an Effect, Political Effect, or Utinni Effect, and one of your characters on table.  Draw destiny.  If destiny < character's ability, target Effect is canceled (you lose no Force to There Is No Try). (Immune to opponent's Objective.)",
         "lore": "A user of the Force can alter the environment to affect the minds of others. 'The Force can have a strong influence on the weak-minded.'"
       },
       "legacy": false
@@ -2044,7 +2044,7 @@
         "type": "Interrupt",
         "subType": "Used Or Lost",
         "destiny": 4,
-        "gametext": "USED: Cancel Sense.  LOST: Target an Effect, Political Effect, or Utinni Effect, and one of your characters on table.  Draw destiny.  If destiny < character's ability, target Effect is canceled (you lose no Force to There Is No Try). (Immune to opponent's Objective.)\"",
+        "gametext": "USED: Cancel Sense.  LOST: Target an Effect, Political Effect, or Utinni Effect, and one of your characters on table.  Draw destiny.  If destiny < character's ability, target Effect is canceled (you lose no Force to There Is No Try). (Immune to opponent's Objective.)",
         "lore": "A user of the Force can alter the environment to affect the minds of others. 'The Force can have a strong influence on the weak-minded.'"
       },
       "legacy": true
@@ -2060,7 +2060,7 @@
         "type": "Interrupt",
         "subType": "Used Or Lost",
         "destiny": 4,
-        "gametext": "USED: Cancel Sense.  LOST: Target an Effect, Political Effect, or Utinni Effect, and one of your characters on table.  Draw destiny.  If destiny < character's ability, target Effect is canceled (you lose no Force to There Is No Try). (Immune to opponent's Objective.)\"",
+        "gametext": "USED: Cancel Sense.  LOST: Target an Effect, Political Effect, or Utinni Effect, and one of your characters on table.  Draw destiny.  If destiny < character's ability, target Effect is canceled (you lose no Force to There Is No Try). (Immune to opponent's Objective.)",
         "lore": "A user of the Force can alter the environment to affect the minds of others. 'The Force can have a strong influence on the weak-minded.'"
       },
       "legacy": false
@@ -2435,7 +2435,7 @@
         "gametext": "Deploy on Leia, non-Jedi Luke, or any Mara. May add 1 to Force drain where present. May target a character or creature. Draw two destiny. Target hit, and its forfeit = 0, if total destiny > defense value. Instead of firing, may use 1 Force to cancel a just drawn weapon destiny here.",
         "lore": "Constructed by Anakin Skywalker. Kept by Obi-Wan Kenobi until given to Luke."
       },
-      "conceptBy": "(Original concept by Peter Nordstrom - Alderaan Regional 2005)\"",
+      "conceptBy": "(Original concept by Peter Nordstrom - Alderaan Regional 2005)",
       "legacy": true
     },
     {
@@ -2746,7 +2746,7 @@
         "icons": [
           "Special Edition"
         ],
-        "gametext": "USED: Cancel Lateral Damage (Immune to Sense.) OR During opponent's deploy phase, deploy a Rebel of ability < 3 (except an admiral) aboard your starship from Reserve Deck; reshuffle  LOST: Once per game, if opponent has more cards with ability on table than you, draw destiny and retrieve up to that number of Rebels and/or Rebel starships (may take one retrieved card into hand).\""
+        "gametext": "USED: Cancel Lateral Damage (Immune to Sense.) OR During opponent's deploy phase, deploy a Rebel of ability < 3 (except an admiral) aboard your starship from Reserve Deck; reshuffle  LOST: Once per game, if opponent has more cards with ability on table than you, draw destiny and retrieve up to that number of Rebels and/or Rebel starships (may take one retrieved card into hand)."
       },
       "legacy": true
     },
@@ -2918,7 +2918,7 @@
         "icons": [
           "Episode I"
         ],
-        "gametext": "USED: Target your [Episode I] Jedi defending a battle. Target is immune to attrition for rest of turn (unless Dark Jedi present).  LOST: In a battle you lost, place a Jedi Council Member you just forfeited in Used Pile to cancel all battle damage and attrition against you.\"",
+        "gametext": "USED: Target your [Episode I] Jedi defending a battle. Target is immune to attrition for rest of turn (unless Dark Jedi present).  LOST: In a battle you lost, place a Jedi Council Member you just forfeited in Used Pile to cancel all battle damage and attrition against you.",
         "lore": "'I'm not going in there with two Jedi!'"
       },
       "legacy": false
@@ -3083,7 +3083,7 @@
         "icons": [
           "Cloud City"
         ],
-        "gametext": "USED: Cancel Disarmed or Stunning Leader.  OR  If a battle was just initiated, deploy a character weapon on your participating character from Reserve Deck (or hand); reshuffle.  LOST: Use 1 Force to deploy (or retrieve) non-[Reflections III] Obi-Wan from Reserve Deck; reshuffle.  OR  If opponent just initiated a battle against non-[Reflections III] Obi-Wan alone at a site, his forfeit cannot be reduced.\""
+        "gametext": "USED: Cancel Disarmed or Stunning Leader.  OR  If a battle was just initiated, deploy a character weapon on your participating character from Reserve Deck (or hand); reshuffle.  LOST: Use 1 Force to deploy (or retrieve) non-[Reflections III] Obi-Wan from Reserve Deck; reshuffle.  OR  If opponent just initiated a battle against non-[Reflections III] Obi-Wan alone at a site, his forfeit cannot be reduced."
       },
       "legacy": true
     },
@@ -3279,7 +3279,7 @@
           "Astromech Droid"
         ]
       },
-      "conceptBy": "(Original concept by Jared Lockwood - Origins V-Lite 2005)\"",
+      "conceptBy": "(Original concept by Jared Lockwood - Origins V-Lite 2005)",
       "legacy": true
     },
     {
@@ -3417,7 +3417,7 @@
         "subType": "Used Or Lost",
         "uniqueness": "*",
         "destiny": 4,
-        "gametext": "USED: Search your Reserve Deck, take one Hero Of A Thousand Devices into hand and reshuffle.  LOST: If R2-D2 is lost, use 1 Force to retrieve him. OR Use 3 Force to search your Reserve Deck, take R2-D2 into hand and reshuffle.\"",
+        "gametext": "USED: Search your Reserve Deck, take one Hero Of A Thousand Devices into hand and reshuffle.  LOST: If R2-D2 is lost, use 1 Force to retrieve him. OR Use 3 Force to search your Reserve Deck, take R2-D2 into hand and reshuffle.",
         "lore": "'You haven't finished with me yet!'"
       },
       "pulls": [
@@ -3568,7 +3568,7 @@
         "gametext": "USED: If opponent occupies your site, peek at the top two cards of Reserve Deck and take one into hand.  LOST: During any move phase, lose 2 Force to relocate up to 3 of your characters from an interior Theed Palace site to any related Throne Room (or vice versa).",
         "lore": "Modified S-5 security blasters can be used for a wide array of purposes"
       },
-      "conceptBy": "(Original Concept by Pat Johnson - Corellia Regionals 2005)\"",
+      "conceptBy": "(Original Concept by Pat Johnson - Corellia Regionals 2005)",
       "legacy": true
     },
     {
@@ -4077,7 +4077,7 @@
         "subType": "Used Or Lost",
         "uniqueness": "*",
         "destiny": 5,
-        "gametext": "USED: If a lightsaber was just used to enhance a Force drain, place it in Owner's Used Pile.  LOST: Place any or all of your devices and character weapons on table in your Used Pile.\"",
+        "gametext": "USED: If a lightsaber was just used to enhance a Force drain, place it in Owner's Used Pile.  LOST: Place any or all of your devices and character weapons on table in your Used Pile.",
         "lore": "'I mean you no harm.'"
       },
       "counterpart": "Weapon Of An Ungrateful Son",
@@ -4156,7 +4156,7 @@
         "gametext": "May add one pilot and one astromech. During battle, if Anakin or R2-D2 aboard, may lose 1 Force to cancel a non-[Immune to Sense] interrupt. While Anakin or R2-D2 aboard, immune to attrition < 5 (< 6 if both).",
         "lore": "Blank."
       },
-      "conceptBy": "(Original concept by Kevin Shannon)\"",
+      "conceptBy": "(Original concept by Kevin Shannon)",
       "matching": [
         "Anakin Skywalker"
       ],
@@ -4187,7 +4187,7 @@
         "gametext": "May add one pilot and one astromech. During battle, if Anakin or R2-D2 aboard, may lose 1 Force to cancel a non-[Immune to Sense] interrupt. While Anakin or R2-D2 aboard, immune to attrition < 5 (< 6 if both).",
         "lore": "Blank."
       },
-      "conceptBy": "(Original concept by Kevin Shannon)\"",
+      "conceptBy": "(Original concept by Kevin Shannon)",
       "legacy": false
     },
     {
@@ -4519,7 +4519,7 @@
         "gametext": "This character is lost if a Starting Effect on table. Your non-alien characters at sites are power and forfeit = 0. If present at a battleground site, your Force drains at battleground sites where you have two aliens are +1, and whenever you deploy an alien, retrieve 1 Force.",
         "lore": "Hunchbacked scavengers. Found in separate groups throughout the galaxy. Good at finding missing items. Make excellent gun runners. Some work with the rebellion."
       },
-      "conceptBy": "(Original Concept by Corey Faherty - Nationals 2006)\"",
+      "conceptBy": "(Original Concept by Corey Faherty - Nationals 2006)",
       "legacy": true
     },
     {
@@ -5002,7 +5002,7 @@
         "type": "Interrupt",
         "subType": "Used Or Lost",
         "destiny": 4,
-        "gametext": "USED: Activate 1 Force (2 if a Lars on table). OR During battle at a farm, add the destiny number of your device on this farm to your total power.  LOST: During battle at a farm, after battle destinies are drawn, place a 'crop' out of play to make attrition against you = 0.\"",
+        "gametext": "USED: Activate 1 Force (2 if a Lars on table). OR During battle at a farm, add the destiny number of your device on this farm to your total power.  LOST: During battle at a farm, after battle destinies are drawn, place a 'crop' out of play to make attrition against you = 0.",
         "lore": "Moisture farmers grow enough food to sustain Tatooine's population. Beru Lars has devised many dishes using herbs and roots naturally found in Tatooine's desert."
       },
       "legacy": true
@@ -5418,7 +5418,7 @@
         "subType": "Used Or Lost",
         "uniqueness": "*",
         "destiny": 4,
-        "gametext": "USED: Cancel an attempt to use a character weapon to target your character of ability > 4.  LOST: If your character of ability > 4 with a lightsaber was just targeted by a blaster, use 3 Force to re-target that blaster to an opponent's character present.\"",
+        "gametext": "USED: Cancel an attempt to use a character weapon to target your character of ability > 4.  LOST: If your character of ability > 4 with a lightsaber was just targeted by a blaster, use 3 Force to re-target that blaster to an opponent's character present.",
         "lore": "A Jedi can anticipate the actions of his opponent and let the Force control his actions, causing him to effortlessly deflect an opponent's attacks."
       },
       "counterpart": "Force Field",
@@ -5439,7 +5439,7 @@
         "subType": "Used Or Lost",
         "uniqueness": "*",
         "destiny": 2,
-        "gametext": "USED: If you just targeted with a blaster, add 3 to your weapon destiny.  LOST: Lose 1 Force to cause one opponent's character just 'hit' to be immediately placed in Lost Pile. OR Cancel Levitation Attack.\"",
+        "gametext": "USED: If you just targeted with a blaster, add 3 to your weapon destiny.  LOST: Lose 1 Force to cause one opponent's character just 'hit' to be immediately placed in Lost Pile. OR Cancel Levitation Attack.",
         "lore": "Some people think that hokey religions and ancient weapons are no match for a good blaster at your side."
       },
       "pulledBy": [
@@ -5620,7 +5620,7 @@
         "subType": "Used Or Lost",
         "uniqueness": "*",
         "destiny": 4,
-        "gametext": "USED: Select a player to activate 1 Force.  LOST: Cancel Juri Juice or Hypo.\"",
+        "gametext": "USED: Select a player to activate 1 Force.  LOST: Cancel Juri Juice or Hypo.",
         "lore": "Nutrient-rich beverage common in moisture farm communities. Rumored to have medicinal qualities. Popular in cantinas among those who can't hold their juri juice."
       },
       "cancels": [
@@ -6097,7 +6097,7 @@
           "Force-Sensitive"
         ]
       },
-      "conceptBy": "(Original Concept by Aaron Nelson - West Nationals 2008)\"",
+      "conceptBy": "(Original Concept by Aaron Nelson - West Nationals 2008)",
       "legacy": true
     },
     {
@@ -7323,7 +7323,7 @@
           "Force-Attuned"
         ]
       },
-      "conceptBy": "(Original concept by Matt Schmaltz)\"",
+      "conceptBy": "(Original concept by Matt Schmaltz)",
       "pulledBy": [
         "This Is MY Ship!",
         "Yavin 4: Massassi War Room (V)"
@@ -7736,7 +7736,7 @@
         "subType": "Used Or Lost",
         "uniqueness": "*",
         "destiny": 4,
-        "gametext": "USED: Cancel Force drain bonus from IT-O this turn.  LOST: During your battle phase, any of your escorted captives at same site may initiate and participate in one battle (they may not use weapons or devices and you may not voluntarily forfeit or relocate them).\"",
+        "gametext": "USED: Cancel Force drain bonus from IT-O this turn.  LOST: During your battle phase, any of your escorted captives at same site may initiate and participate in one battle (they may not use weapons or devices and you may not voluntarily forfeit or relocate them).",
         "lore": "Chewie's life debt to Han forced him to act, retaliating unexpectedly against his captors."
       },
       "pulledBy": [
@@ -7758,7 +7758,7 @@
         "type": "Interrupt",
         "subType": "Used Or Lost",
         "destiny": 4,
-        "gametext": "USED: If a battle was just initiated at a site, target a captive present. Captive released if you win battle.  LOST: Cancel Aiiii! Aaa! Aggggggggggggg!, Sonic Bombardment, Interrogation Array, This Is Some Rescue or Special Delivery.\"",
+        "gametext": "USED: If a battle was just initiated at a site, target a captive present. Captive released if you win battle.  LOST: Cancel Aiiii! Aaa! Aggggggggggggg!, Sonic Bombardment, Interrogation Array, This Is Some Rescue or Special Delivery.",
         "lore": "Han could have used a hand. Fortunately, Luke still had one to give."
       },
       "pulledBy": [
@@ -7789,7 +7789,7 @@
         "subType": "Used Or Starting",
         "uniqueness": "*",
         "destiny": 5,
-        "gametext": "USED: If a battle was just initiated, draw destiny and activate up to that much Force.  STARTING: If you have not deployed an Objective, deploy from Reserve Deck one battleground site (or two <> sites) related to your starting location. Place Interrupt in Reserve Deck.\"",
+        "gametext": "USED: If a battle was just initiated, draw destiny and activate up to that much Force.  STARTING: If you have not deployed an Objective, deploy from Reserve Deck one battleground site (or two <> sites) related to your starting location. Place Interrupt in Reserve Deck.",
         "lore": "Alliance troops on planet must plan ahead to achieve success in military operations."
       },
       "counterpart": "Combat Readiness",
@@ -7836,7 +7836,7 @@
         "gametext": "If your starting location was a system, deploy from Reserve Deck a related site (must be a battleground if the system is a non-battleground or Endor) with < 3 [Light Side Force] icons and up to three Effects that are always [Immune to Alter].  Place this Interrupt in Lost Pile.",
         "lore": "Alliance troops on planet must plan ahead to achieve success in military operations."
       },
-      "conceptBy": "(Original concept by Kevin Brownell - Illinois States 2004)\"",
+      "conceptBy": "(Original concept by Kevin Brownell - Illinois States 2004)",
       "counterpart": "Combat Readiness (V)",
       "legacy": false
     },
@@ -8033,7 +8033,7 @@
         "gametext": "If a player is about to draw destiny for an Epic Event, Interrupt, Objective, or weapon, that player must first activate 1 Force and shuffle their Reserve Deck. OR If both players just drew one battle destiny, cancel and redraw both destiny draws.",
         "lore": "Qui-Gon used his Jedi abilities to insure that there was no 'chance' involved with the use of Watto's chance cube."
       },
-      "conceptBy": "(Original concept by Evan Fitzgerald - PC Volunteer Award 2005)\"",
+      "conceptBy": "(Original concept by Evan Fitzgerald - PC Volunteer Award 2005)",
       "legacy": true
     },
     {
@@ -10741,7 +10741,7 @@
         "type": "Interrupt",
         "subType": "Used Or Lost",
         "destiny": 3,
-        "gametext": "USED: Cancel Limited Resources.  LOST: Use 2 Force (free if Lobot on table) to examine the top card of your Reserve Deck, Force Pile and Used Pile. Return one of those three cards to the top of each deck or pile.\"",
+        "gametext": "USED: Cancel Limited Resources.  LOST: Use 2 Force (free if Lobot on table) to examine the top card of your Reserve Deck, Force Pile and Used Pile. Return one of those three cards to the top of each deck or pile.",
         "lore": "Lobot's direct link with the Cloud City central computer allowed him to efficiently manipulate the floating city's resources."
       },
       "cancels": [
@@ -11144,7 +11144,7 @@
         "subType": "Used Or Lost",
         "uniqueness": "*",
         "destiny": 5,
-        "gametext": "USED: Search your Reserve Deck, take one Captive Fury or Captive Pursuit into hand and reshuffle.  LOST: If a bounty hunter (or gangster) and Han are involved in the same battle, you may add one battle destiny (add two if gangster is Jabba).\"",
+        "gametext": "USED: Search your Reserve Deck, take one Captive Fury or Captive Pursuit into hand and reshuffle.  LOST: If a bounty hunter (or gangster) and Han are involved in the same battle, you may add one battle destiny (add two if gangster is Jabba).",
         "lore": "'Threepio, you tell that slimy piece of worm-ridden filth he'll get no such pleasure from us!'"
       },
       "pulls": [
@@ -11610,7 +11610,7 @@
         "gametext": "Permanent pilot is •Corran Horn, who provides ability of 4. Weapon destiny draws are -2 here. While with a snub fighter, attrition against opponent is +1 here. Immune to attrition < 4.",
         "lore": "Blank."
       },
-      "conceptBy": "(Original concept by The Advocate Council)\"",
+      "conceptBy": "(Original concept by The Advocate Council)",
       "legacy": false
     },
     {
@@ -12117,7 +12117,7 @@
         "subType": "Used Or Lost",
         "uniqueness": "*",
         "destiny": 4,
-        "gametext": "USED: If your shuttle (including a shuttle vehicle) is in battle, add one battle destiny.  LOST: If your starfighter just landed at a site where opponent has no presence, deploy scouts (and weapons on those scouts) aboard it (capacity permitting) from Reserve Deck; reshuffle.\"",
+        "gametext": "USED: If your shuttle (including a shuttle vehicle) is in battle, add one battle destiny.  LOST: If your starfighter just landed at a site where opponent has no presence, deploy scouts (and weapons on those scouts) aboard it (capacity permitting) from Reserve Deck; reshuffle.",
         "lore": "The stolen code allowed the Rebels to land their strike team on the Endor surface undetected - or so they thought."
       },
       "combo": [
@@ -12139,7 +12139,7 @@
         "icons": [
           "Endor"
         ],
-        "gametext": "USED: During opponent's move phase, if Bunker 'blown away,' peek at top four cards of a player's Reserve Deck; replace in any order.  LOST: During opponent's move phase, deploy a Rebel scout of ability < 5 from Reserve Deck to an Endor site opponent does not occupy; reshuffle.\"",
+        "gametext": "USED: During opponent's move phase, if Bunker 'blown away,' peek at top four cards of a player's Reserve Deck; replace in any order.  LOST: During opponent's move phase, deploy a Rebel scout of ability < 5 from Reserve Deck to an Endor site opponent does not occupy; reshuffle.",
         "lore": "The stolen code allowed the Rebels to land their strike team on the Endor surface undetected - or so they thought."
       },
       "legacy": true
@@ -12337,7 +12337,7 @@
         "gametext": "Once per turn, if you just drew a destiny of 5, may take that card into hand. During any deploy phase, may use 1 Force to target a Dark Jedi present. Draw destiny. If destiny = 5, target loses immunity to attrition for remainder of turn.",
         "lore": "Clone trooper and spy."
       },
-      "conceptBy": "(Original concept by Chris Menzel)\"",
+      "conceptBy": "(Original concept by Chris Menzel)",
       "combo": [
         "Commander Cody + Captain Rex + CT-5555 (Fives)"
       ],
@@ -12815,7 +12815,7 @@
         "type": "Interrupt",
         "subType": "Used Or Lost",
         "destiny": 3,
-        "gametext": "USED: Cancel Dark Collaboration or Lone Pilot.  LOST: If two Imperials each with ability > 2 are in a battle together, use 2 Force to draw two destiny. Subtract that amount from opponent's attrition and total power (cannot fall below zero).\"",
+        "gametext": "USED: Cancel Dark Collaboration or Lone Pilot.  LOST: If two Imperials each with ability > 2 are in a battle together, use 2 Force to draw two destiny. Subtract that amount from opponent's attrition and total power (cannot fall below zero).",
         "lore": "The huge Imperial officers corps, with its high rate of turnover, is ripe with competitiveness and ambition. Advancement comes at the expense of another's career."
       },
       "cancels": [
@@ -12839,7 +12839,7 @@
         "icons": [
           "Hoth"
         ],
-        "gametext": "USED: Take Demotion into hand from Reserve Deck; reshuffle. OR For remainder of turn, cancel the game text of an Imperial (except a Dark Jedi) present with another Imperial.  LOST: Cancel Imperial Command (unless limiting your battle destiny draws).\"",
+        "gametext": "USED: Take Demotion into hand from Reserve Deck; reshuffle. OR For remainder of turn, cancel the game text of an Imperial (except a Dark Jedi) present with another Imperial.  LOST: Cancel Imperial Command (unless limiting your battle destiny draws).",
         "lore": "The huge Imperial officers corps, with its high rate of turnover, is ripe with competitiveness and ambition. Advancement comes at the expense of another's career."
       },
       "legacy": true
@@ -13942,7 +13942,7 @@
         "gametext": "If opponent just initiated battle, lose 1 Force to target a character present.  Target is power +2 and loses all immunity to attrition this turn.  OR  Once per game, exchange a character in hand with a character of the same persona from Lost Pile or Reserve Deck; reshuffle.",
         "lore": "Members of the Rebel Alliance are willing to make a perilous frontal attack for their cause."
       },
-      "conceptBy": "(Original Concept by Clayton Atkin - California States 2009)\"",
+      "conceptBy": "(Original Concept by Clayton Atkin - California States 2009)",
       "legacy": true
     },
     {
@@ -14273,7 +14273,7 @@
         "gametext": "USED: Target one piloted starship at a system. That starship is hyperspeed -1 for remainder of turn.  LOST: If you have 2 unique (•) piloted Rebel (or [Republic]) starfighters in battle at a system, draw destiny. If destiny < 4, exclude one starship from that battle.",
         "lore": "Rebel pilots understand that what they lack in numbers, they must make up for in strategy. They often use diversions to remove dangerous opponents from a conflict."
       },
-      "conceptBy": "(Original concept by Thomas Caspersen - Norwegian Nationals 2006)\"",
+      "conceptBy": "(Original concept by Thomas Caspersen - Norwegian Nationals 2006)",
       "legacy": true
     },
     {
@@ -14603,7 +14603,7 @@
         "subType": "Used Or Lost",
         "uniqueness": "*",
         "destiny": 6,
-        "gametext": "USED: Cancel 3,720 To 1 if it was just inserted or revealed. (Immune to Sense.)  LOST: Cancel one opponent's battle destiny just drawn by sacrificing (losing) one of your droids in that battle.\"",
+        "gametext": "USED: Cancel 3,720 To 1 if it was just inserted or revealed. (Immune to Sense.)  LOST: Cancel one opponent's battle destiny just drawn by sacrificing (losing) one of your droids in that battle.",
         "lore": "'We're on our way!'"
       },
       "canceledBy": [
@@ -14668,7 +14668,7 @@
         "subType": "Used Or Starting",
         "uniqueness": "*",
         "destiny": 5,
-        "gametext": "USED: Add 1 to your just-drawn weapon destiny.  STARTING: If you have deployed a battleground, deploy Ultimatum, Scrambled Transmission and/or Do, Or Do Not from Reserve Deck. Place Interrupt in Reserve Deck.\"",
+        "gametext": "USED: Add 1 to your just-drawn weapon destiny.  STARTING: If you have deployed a battleground, deploy Ultimatum, Scrambled Transmission and/or Do, Or Do Not from Reserve Deck. Place Interrupt in Reserve Deck.",
         "lore": "Han did not take kindly to Jabba's posturing."
       },
       "counterpart": "Surface Defense",
@@ -14691,7 +14691,7 @@
         "gametext": "USED: Use 1 Force to deploy an Effect that deploys for free on table (or on your side of table) and is always Immune to Alter from Reserve Deck; reshuffle.  STARTING: When drawing your starting hand, draw up to 12 cards instead of 8. Place this Interrupt in Reserve Deck.",
         "lore": "Han did not take kindly to Jabba's posturing."
       },
-      "conceptBy": "(Original concept by Steven Lewis - PC Volunteer Award 2008)\"",
+      "conceptBy": "(Original concept by Steven Lewis - PC Volunteer Award 2008)",
       "legacy": true
     },
     {
@@ -14711,7 +14711,7 @@
         "gametext": "USED: Use 1 Force to deploy an Effect that deploys for free on table (or on your side of table) and is always Immune to Alter from Reserve Deck; reshuffle.  STARTING: When drawing your starting hand, draw up to 12 cards instead of 8. Place this Interrupt in Reserve Deck.",
         "lore": "Han did not take kindly to Jabba's posturing."
       },
-      "conceptBy": "(Original concept by Steven Lewis - PC Volunteer Award 2008)\"",
+      "conceptBy": "(Original concept by Steven Lewis - PC Volunteer Award 2008)",
       "pulls": [
         "Any (Immune to Alter) effect that deploys for free on table (or your side of table)"
       ],
@@ -14751,7 +14751,7 @@
         "type": "Interrupt",
         "subType": "Used Or Starting",
         "destiny": 4,
-        "gametext": "USED: Initiate a battle for free.  STARTING: If Dantooine Operations on table, deploy from Reserve Deck Operations Center, Dantooine Engineering Corps, and up to two Effects which deploy on table (or your side of table), are always [Immune to Alter], and have no deploy cost. Place this Interrupt in Lost Pile.\"",
+        "gametext": "USED: Initiate a battle for free.  STARTING: If Dantooine Operations on table, deploy from Reserve Deck Operations Center, Dantooine Engineering Corps, and up to two Effects which deploy on table (or your side of table), are always [Immune to Alter], and have no deploy cost. Place this Interrupt in Lost Pile.",
         "lore": "'Stand-by alert. Death Star approaching. Estimated time to firing range, fifteen minutes.'"
       },
       "legacy": true
@@ -15435,7 +15435,7 @@
         "type": "Interrupt",
         "subType": "Used Or Lost",
         "destiny": 4,
-        "gametext": "USED: Cancel Limited Resources.  LOST: Use 3 Force to retrieve into hand one Effect of any kind.\"",
+        "gametext": "USED: Cancel Limited Resources.  LOST: Use 3 Force to retrieve into hand one Effect of any kind.",
         "lore": "When the nav computer maintenance program failed to auto-repair the hyperdrive, Han decided to take matters into his own hand."
       },
       "combo": [
@@ -15459,7 +15459,7 @@
         "type": "Interrupt",
         "subType": "Used Or Lost",
         "destiny": 4,
-        "gametext": "USED: Cancel Broken Concentration, Lateral Damage, or Limited Resources. OR Place a card just stacked on Droid Racks or Strategic Reserves in opponent's Lost Pile. (Immune to Sense) OR If you just drew a starship for destiny, take that starship into hand to cancel and redraw that destiny.  LOST: Use 3 Force to retrieve an Effect of any kind or a non-[Maintenance] starship into hand.\""
+        "gametext": "USED: Cancel Broken Concentration, Lateral Damage, or Limited Resources. OR Place a card just stacked on Droid Racks or Strategic Reserves in opponent's Lost Pile. (Immune to Sense) OR If you just drew a starship for destiny, take that starship into hand to cancel and redraw that destiny.  LOST: Use 3 Force to retrieve an Effect of any kind or a non-[Maintenance] starship into hand."
       },
       "legacy": false
     },
@@ -15745,7 +15745,7 @@
         "gametext": "Adds 3 to power of anything he pilots. Adds 2 to the hyperspeed of any freighter he pilots. During your move phase, may use 1 Force to 'break cover' of opponent's Undercover spy at same site. Cancels Lateral Damage targeting your starship at same or related system.",
         "lore": "Duros scout and smuggler."
       },
-      "conceptBy": "(Original concept by Brian Fred)\"",
+      "conceptBy": "(Original concept by Brian Fred)",
       "legacy": false
     },
     {
@@ -15855,7 +15855,7 @@
         "gametext": "Deploy on a non-docking bay exterior planet site you occupy. While you occupy this site, at same and related sites, your characters may deploy regardless of location deployment restrictions. Once per game, your character may deploy -3 here. (Immune to Alter.)",
         "lore": "Pirates, smugglers and Rebels operate from tiny camps which can be set up quickly and relocated at a moment's notice. A surprise visitor made Luke an unhappy camper."
       },
-      "conceptBy": "(Original concept by Brian Hollingworth - NYC Mini-Open Winner 2005)\"",
+      "conceptBy": "(Original concept by Brian Hollingworth - NYC Mini-Open Winner 2005)",
       "legacy": true
     },
     {
@@ -15870,7 +15870,7 @@
         "subType": "Used Or Lost",
         "uniqueness": "*",
         "destiny": 4,
-        "gametext": "USED: Cancel Overseeing It Personally. OR Use 4 Force to cancel Vader's game text for remainder of turn.  LOST: If Emperor just lost from table, draw destiny. Opponent must lose Force equal to the destiny draw.\"",
+        "gametext": "USED: Cancel Overseeing It Personally. OR Use 4 Force to cancel Vader's game text for remainder of turn.  LOST: If Emperor just lost from table, draw destiny. Opponent must lose Force equal to the destiny draw.",
         "lore": "The turning of Vader and the loss of Palpatine was the beginning of a new era for the entire galaxy."
       },
       "cancels": [
@@ -16522,7 +16522,7 @@
         "icons": [
           "Episode I"
         ],
-        "gametext": "USED: Once per game may take Podracer Bay into hand from Reserve Deck; reshuffle.  LOST: During a battle at Podracer Bay, add one battle destiny.\"",
+        "gametext": "USED: Once per game may take Podracer Bay into hand from Reserve Deck; reshuffle.  LOST: During a battle at Podracer Bay, add one battle destiny.",
         "lore": "'What'd he mean by that?' 'I'll tell you later.'"
       },
       "pulls": [
@@ -16816,7 +16816,7 @@
         "icons": [
           "Episode I"
         ],
-        "gametext": "USED: If a battle was just initiated, place the top card of your Used Pile on top of your Reserve Deck.  LOST: Use 3 Force to cause opponent to reveal hand. All cards opponent has 3 or more of in hand are lost.\"",
+        "gametext": "USED: If a battle was just initiated, place the top card of your Used Pile on top of your Reserve Deck.  LOST: Use 3 Force to cause opponent to reveal hand. All cards opponent has 3 or more of in hand are lost.",
         "lore": "In the end, Watto finally came to understand the agony of defeat."
       },
       "combo": [
@@ -17735,7 +17735,7 @@
         "subType": "Used Or Lost",
         "uniqueness": "*",
         "destiny": 6,
-        "gametext": "USED: Cancel Early Warning Network or It's An Older Code. OR During your deploy phase, deploy one starship (deploy -1) and/or one pilot to a system even without presence or Force icons.  LOST: Take one Tydirium or Tantive IV into hand from Reserve Deck; reshuffle.\"",
+        "gametext": "USED: Cancel Early Warning Network or It's An Older Code. OR During your deploy phase, deploy one starship (deploy -1) and/or one pilot to a system even without presence or Force icons.  LOST: Take one Tydirium or Tantive IV into hand from Reserve Deck; reshuffle.",
         "lore": "As a smuggler, Han had years of experience at avoiding Imperial detection. He chose the approach to Endor's moon as the time to pass some of that knowledge on to Chewie."
       },
       "pulls": [
@@ -17830,7 +17830,7 @@
         "gametext": "Take a device (except Landing Claw) into hand from Reserve Deck; reshuffle. OR Target one opponent's droid present with your Jedi in battle. For remainder of turn, target is power -1 and may not fire weapons.",
         "lore": "Blank."
       },
-      "conceptBy": "(Original concept by Tim Simon)\"",
+      "conceptBy": "(Original concept by Tim Simon)",
       "legacy": false
     },
     {
@@ -17847,7 +17847,7 @@
         "icons": [
           "Episode VII"
         ],
-        "gametext": "USED: If [Episode VII] Luke at a site, target all your characters at one other site. They are defense value = 5 this turn.  LOST: Once per game, if opponent just drew battle destiny and Luke is out of play, draw destiny and subtract that amount from opponent's total battle destiny.\"",
+        "gametext": "USED: If [Episode VII] Luke at a site, target all your characters at one other site. They are defense value = 5 this turn.  LOST: Once per game, if opponent just drew battle destiny and Luke is out of play, draw destiny and subtract that amount from opponent's total battle destiny.",
         "lore": "Blank."
       },
       "legacy": false
@@ -20529,7 +20529,7 @@
         "characteristics": [
           "dejarik"
         ],
-        "gametext": "USED: If opponent has 13 or more cards in hand, place all but 8 (random selection) in Used Pile.  LOST: Cancel Molator (even at a holosite). OR Use 4 Force to reveal opponent's hand. All cards opponent has two or more of in hand are lost.\"",
+        "gametext": "USED: If opponent has 13 or more cards in hand, place all but 8 (random selection) in Used Pile.  LOST: Cancel Molator (even at a holosite). OR Use 4 Force to reveal opponent's hand. All cards opponent has two or more of in hand are lost.",
         "lore": "Dejarik representation of mythical Molator guardian. The spirit of Grimtaash is said to protect Alderaanian royalty from corruption and betrayal."
       },
       "pulledBy": [
@@ -21694,7 +21694,7 @@
         "subType": "Used Or Starting",
         "uniqueness": "*",
         "destiny": 3,
-        "gametext": "USED: Add 1 to your battle destiny just drawn.  STARTING: Deploy up to three Effects if each of them deploys for free, is always immune to Alter and has 'deploy on table' (or 'deploy on your side of table') in its game text. Place Interrupt in Lost Pile.\"",
+        "gametext": "USED: Add 1 to your battle destiny just drawn.  STARTING: Deploy up to three Effects if each of them deploys for free, is always immune to Alter and has 'deploy on table' (or 'deploy on your side of table') in its game text. Place Interrupt in Lost Pile.",
         "lore": "At the Battle of Endor, Rebel starships fought to defend key capital starships, such as the Redemption."
       },
       "counterpart": "Prepared Defenses",
@@ -21714,7 +21714,7 @@
         "icons": [
           "Death Star II"
         ],
-        "gametext": "USED: Take one Redemption or a [Death Star II] capital starship (except a Star Cruiser) into hand from Reserve Deck; reshuffle.  STARTING: Deploy from Reserve Deck up to three cards that have the [Setup] icon or are Effects that deploy for free, are always [Immune to Alter], and deploy on table.  Place Interrupt in Lost Pile.\"",
+        "gametext": "USED: Take one Redemption or a [Death Star II] capital starship (except a Star Cruiser) into hand from Reserve Deck; reshuffle.  STARTING: Deploy from Reserve Deck up to three cards that have the [Setup] icon or are Effects that deploy for free, are always [Immune to Alter], and deploy on table.  Place Interrupt in Lost Pile.",
         "lore": "At the Battle of Endor, Rebel starships fought to defend key capital starships, such as the Redemption."
       },
       "legacy": true
@@ -21762,7 +21762,7 @@
         "type": "Interrupt",
         "subType": "Used Or Lost",
         "destiny": 5,
-        "gametext": "USED: Play a Defensive Shield from under your Starting Effect. [Immune to Sense] OR Cancel Counter Attack, [Virtual Set 0] Defensive Fire or Hidden Weapons. OR Make a just drawn Overload destiny = 1/2.  LOST: Cancel Cease Fire! or I Have You Now.\"",
+        "gametext": "USED: Play a Defensive Shield from under your Starting Effect. [Immune to Sense] OR Cancel Counter Attack, [Virtual Set 0] Defensive Fire or Hidden Weapons. OR Make a just drawn Overload destiny = 1/2.  LOST: Cancel Cease Fire! or I Have You Now.",
         "lore": "Smuggler and Rebel starships use black market armor plating and deflector shields to withstand enemy fire. Expensive but life-saving modifications."
       },
       "counterpart": "Cold Feet (V)",
@@ -22124,7 +22124,7 @@
         "subType": "Used Or Lost",
         "uniqueness": "*",
         "destiny": 2,
-        "gametext": "USED: During a battle at a site, instead of firing one character weapon, cause one opponent's character present to be power -4 until end of turn.  LOST: During a battle at a site, use 3 Force to cancel one battle destiny just drawn.\"",
+        "gametext": "USED: During a battle at a site, instead of firing one character weapon, cause one opponent's character present to be power -4 until end of turn.  LOST: During a battle at a site, use 3 Force to cancel one battle destiny just drawn.",
         "lore": "Using his position to his advantage, Luke managed to hold off Vader's onslaught, if only for a few seconds."
       },
       "counterpart": "End This Destructive Conflict",
@@ -22941,7 +22941,7 @@
         "type": "Interrupt",
         "subType": "Used Or Lost",
         "destiny": 2,
-        "gametext": "USED: If opponent just initiated a battle at a system or sector where you have a starship with maneuver > 3, use 1 Force to add one battle destiny.  LOST: If you just forfeited all your cards that participated in a battle you lost, cancel all remaining battle damage. (Immune to Sense.)\""
+        "gametext": "USED: If opponent just initiated a battle at a system or sector where you have a starship with maneuver > 3, use 1 Force to add one battle destiny.  LOST: If you just forfeited all your cards that participated in a battle you lost, cancel all remaining battle damage. (Immune to Sense.)"
       },
       "counterpart": "Ghhhk & Those Rebels Won't Escape Us",
       "canceledBy": [
@@ -23095,7 +23095,7 @@
         "gametext": "If Obi-Wan is out of play, use 1 Force to deploy on table. During battle, may use 1 Force to add 5 to your total power there for remainder of turn. Once per turn, if Luke a captive, may activate 1 Force. (Immune to Control.)",
         "lore": "Even though Luke felt the pain of losing his mentor, Obi-Wan continued to give him strength and guidance through the Force."
       },
-      "conceptBy": "(Original concept by Greg Shaw - Mystic Visions 2003)\"",
+      "conceptBy": "(Original concept by Greg Shaw - Mystic Visions 2003)",
       "legacy": true
     },
     {
@@ -23134,7 +23134,7 @@
         "subType": "Used Or Lost",
         "uniqueness": "*",
         "destiny": 5,
-        "gametext": "USED: Search your Reserve Deck, take one We Don't Need Their Scum into hand and reshuffle.  LOST: If a bounty hunter and your Lando are involved in the same battle, you may add one battle destiny (add two if bounty hunter is Boba Fett).\"",
+        "gametext": "USED: Search your Reserve Deck, take one We Don't Need Their Scum into hand and reshuffle.  LOST: If a bounty hunter and your Lando are involved in the same battle, you may add one battle destiny (add two if bounty hunter is Boba Fett).",
         "lore": "Of all the scum and villainy Lando had dealt with (pirates, smugglers, con-artists, thieves, swindlers, politicians and Imperial lackeys), he hated bounty hunters the most."
       },
       "pulls": [
@@ -23156,7 +23156,7 @@
         "icons": [
           "Cloud City"
         ],
-        "gametext": "USED: Cancel Lando System? OR If Lando piloting Falcon, it draws two battle destiny if not able to otherwise.  LOST: Retrieve your just lost gambler (except Dash) into hand. OR Place a copy of Eject! Eject! deployed on table in your Used Pile.\"",
+        "gametext": "USED: Cancel Lando System? OR If Lando piloting Falcon, it draws two battle destiny if not able to otherwise.  LOST: Retrieve your just lost gambler (except Dash) into hand. OR Place a copy of Eject! Eject! deployed on table in your Used Pile.",
         "lore": "Of all the scum and villainy Lando had dealt with (pirates, smugglers, con-artists, thieves, swindlers, politicians and Imperial lackeys), he hated bounty hunters the most."
       },
       "legacy": true
@@ -23716,7 +23716,7 @@
         "gametext": "If Rescue The Princess on table,LOST: Once per game, choose: Cancel an attempt to make non-Heroic R2-D2 lost.  OR  Lose 2 Force to cancel a battle just initiated if Leia defending alone. [Immune to Sense.]  STARTING: Deploy from Reserve Deck Cell 2187 and one always-[Immune to Alter] Effect.  Place this Interrupt in hand.",
         "lore": "'Huh?'"
       },
-      "conceptBy": "(Original concept by Chris Gogolen - League Cube Tournament 2009)\"",
+      "conceptBy": "(Original concept by Chris Gogolen - League Cube Tournament 2009)",
       "legacy": true
     },
     {
@@ -24180,7 +24180,7 @@
         "subType": "Used Or Lost",
         "uniqueness": "*",
         "destiny": 3,
-        "gametext": "USED: If your gambler was just targeted by a weapon, opponent must choose to select a new target or lose 2 Force.  LOST: Cancel any Effect (except those immune to Alter) deployed on Han or your Lando.\"",
+        "gametext": "USED: If your gambler was just targeted by a weapon, opponent must choose to select a new target or lose 2 Force.  LOST: Cancel any Effect (except those immune to Alter) deployed on Han or your Lando.",
         "lore": "'Well, that was a long time ago. I'm sure he's forgotten about that.' Since he needed Calrissian's help, Han regretted having introduced Lando to the Tonnika sisters."
       },
       "canceledBy": [
@@ -24519,7 +24519,7 @@
         "subType": "Used Or Lost",
         "uniqueness": "*",
         "destiny": 3,
-        "gametext": "USED: Cancel a Force drain at a site related to a system you control.  LOST: Cancel Counter Assault, It's Worse, Elis Helrot, Tallon Roll, Limited Resources or Scanning Crew. OR Use 3 Force to search your Lost Pile and take one non-unique starfighter into hand.\"",
+        "gametext": "USED: Cancel a Force drain at a site related to a system you control.  LOST: Cancel Counter Assault, It's Worse, Elis Helrot, Tallon Roll, Limited Resources or Scanning Crew. OR Use 3 Force to search your Lost Pile and take one non-unique starfighter into hand.",
         "lore": "Red Leader fired the first shot in the Death Star trench, causing massive internal damage. The spectacular near-miss inspired Red Squadron to double their efforts."
       },
       "pulls": [
@@ -24551,7 +24551,7 @@
         "subType": "Used Or Lost",
         "uniqueness": "*",
         "destiny": 3,
-        "gametext": "USED: Cancel Sniper or Blasted Droid. LOST: Use 3 Force to cancel any battle just initiated at a site. (Immune to Sense.)\"",
+        "gametext": "USED: Cancel Sniper or Blasted Droid. LOST: Use 3 Force to cancel any battle just initiated at a site. (Immune to Sense.)",
         "lore": "Luke's decision to ignore Leia's warning about the trap cost him an arm and a. . . well, just a hand actually."
       },
       "combo": [
@@ -24661,7 +24661,7 @@
         "icons": [
           "Episode I"
         ],
-        "gametext": "USED: During your move phase, take one of your characters with politics at Galactic Senate into hand.  LOST: If you have a Republic character with politics in battle at a site, add one battle destiny; that character is power and politics = 0 until end of turn.\"",
+        "gametext": "USED: During your move phase, take one of your characters with politics at Galactic Senate into hand.  LOST: If you have a Republic character with politics in battle at a site, add one battle destiny; that character is power and politics = 0 until end of turn.",
         "lore": "'This is your arena. I feel I must return to mine.'"
       },
       "combo": [
@@ -25526,7 +25526,7 @@
         "icons": [
           "Dagobah"
         ],
-        "gametext": "USED: If you just drew a character for destiny, take that card into hand to cancel and redraw that destiny.  LOST: Use 3 Force to retrieve a non-[Maintenance] character into hand.\"",
+        "gametext": "USED: If you just drew a character for destiny, take that card into hand to cancel and redraw that destiny.  LOST: Use 3 Force to retrieve a non-[Maintenance] character into hand.",
         "lore": "A Jedi can adjust the Force within and around an object, causing it to move as the Jedi wills."
       },
       "legacy": true
@@ -25545,7 +25545,7 @@
         "icons": [
           "Dagobah"
         ],
-        "gametext": "USED: If you just drew a character for destiny, take that card into hand to cancel and redraw that destiny.  LOST: Use 3 Force to retrieve a non-[Maintenance] character into hand.\"",
+        "gametext": "USED: If you just drew a character for destiny, take that card into hand to cancel and redraw that destiny.  LOST: Use 3 Force to retrieve a non-[Maintenance] character into hand.",
         "lore": "A Jedi can adjust the Force within and around an object, causing it to move as the Jedi wills."
       },
       "pulledBy": [
@@ -25598,7 +25598,7 @@
         "gametext": "Deploy on Mace or Yoda. [Coruscant] sites may not cancel Force drain bonuses. May add 1 to a Force drain where present. May target a character or creature for free. Draw 2 destiny (3 if on Yoda and defending). Target hit, and its forfeit = 0, if total destiny > defense value.",
         "lore": "Elegant sword of pure energy. 'This is the weapon of a Jedi Knight. Not as clumsy or as random as a blaster. A lightsaber can be dangerous to an unskilled user.'"
       },
-      "conceptBy": "(Original concept by Brandon Ruck - Tennessee State Winner 2004)\"",
+      "conceptBy": "(Original concept by Brandon Ruck - Tennessee State Winner 2004)",
       "legacy": true
     },
     {
@@ -25632,7 +25632,7 @@
         "subType": "Used Or Lost",
         "uniqueness": "*",
         "destiny": 3,
-        "gametext": "USED: Cancel a Force drain at a site if Luke is at an adjacent site.  LOST: If your character of ability > 4 is present with an opponent's leader, release a captive from a related prison (canceled if opponent loses 2 Force).\"",
+        "gametext": "USED: Cancel a Force drain at a site if Luke is at an adjacent site.  LOST: If your character of ability > 4 is present with an opponent's leader, release a captive from a related prison (canceled if opponent loses 2 Force).",
         "lore": "'You will bring Captain Solo and the Wookiee to me.'"
       },
       "cancels": [
@@ -25654,7 +25654,7 @@
         "icons": [
           "Jabba's Palace"
         ],
-        "gametext": "USED: If opponent just initiated a battle or Force drain, they must use 2 Force, or it is canceled.  LOST: If your Jedi in battle (unless with a Dark Jedi, Hutt, or Toydarian), 'wave had at' (add or subtract 2 from) an opponent's just drawn destiny.\"",
+        "gametext": "USED: If opponent just initiated a battle or Force drain, they must use 2 Force, or it is canceled.  LOST: If your Jedi in battle (unless with a Dark Jedi, Hutt, or Toydarian), 'wave had at' (add or subtract 2 from) an opponent's just drawn destiny.",
         "lore": "'You will bring Captain Solo and the Wookiee to me.'"
       },
       "legacy": false
@@ -26360,7 +26360,7 @@
           "Force-Sensitive"
         ]
       },
-      "conceptBy": "(Original concept by Jarad Konsker)\"",
+      "conceptBy": "(Original concept by Jarad Konsker)",
       "legacy": false
     },
     {
@@ -26714,7 +26714,7 @@
         "icons": [
           "Cloud City"
         ],
-        "gametext": "USED: Cancel an attempt to fire a weapon during any move phase.LOST: If a battle was just initiated, lose 1 Force to prevent all weapons from being fired for remainder of battle.\"",
+        "gametext": "USED: Cancel an attempt to fire a weapon during any move phase.LOST: If a battle was just initiated, lose 1 Force to prevent all weapons from being fired for remainder of battle.",
         "lore": "'Look, don't worry. Everything's gonna be fine. Trust me.'"
       },
       "counterpart": "Cease Fire!",
@@ -27353,7 +27353,7 @@
         "icons": [
           "Episode I"
         ],
-        "gametext": "USED: If present with a Dark Jedi or [Episode I] Jedi, your Padawan is power +2 for remainder of turn. OR Deploy one [Episode I] lightsaber from Reserve Deck; reshuffle.LOST: Once per game, retrieve a Padawan or [Episode I] lightsaber.\"",
+        "gametext": "USED: If present with a Dark Jedi or [Episode I] Jedi, your Padawan is power +2 for remainder of turn. OR Deploy one [Episode I] lightsaber from Reserve Deck; reshuffle.LOST: Once per game, retrieve a Padawan or [Episode I] lightsaber.",
         "lore": "A Jedi seeks nonviolent solutions to problems, but may fight to preserve the existence of life. An apprentice must learn which battles to fight and which to avoid."
       },
       "legacy": false
@@ -27626,7 +27626,7 @@
           "Force-Attuned"
         ]
       },
-      "conceptBy": "(Original concept by Tim Simon - PA States 2006)\"",
+      "conceptBy": "(Original concept by Tim Simon - PA States 2006)",
       "legacy": true
     },
     {
@@ -28034,7 +28034,7 @@
           "Protocol Droid"
         ]
       },
-      "conceptBy": "(Original concept by Drew Scott - World Champion 2005)\"",
+      "conceptBy": "(Original concept by Drew Scott - World Champion 2005)",
       "legacy": true
     },
     {
@@ -28589,7 +28589,7 @@
           "Force-Attuned"
         ]
       },
-      "conceptBy": "(Original concept by Hayes Hunter)\"",
+      "conceptBy": "(Original concept by Hayes Hunter)",
       "legacy": false
     },
     {
@@ -28982,7 +28982,7 @@
         "gametext": "USED: Reveal the top 3 cards of Reserve Deck; place one in hand, and the others on bottom of Used Pile (in any order).  STARTING: If your starting location was a non-[Special Edition] location, deploy from Reserve Deck an always [Immune to Alter] Effect and two <> sites with < 3 total [Light Side Force]. Place this Interrupt in hand.",
         "lore": "'It's not wise to upset a Wookiee.' 'But sir, nobody worries about upsetting a droid.' 'That's cause a droid don't pull people's arms out of their sockets when they lose.'"
       },
-      "conceptBy": "(Original Concept by Brian Rippetoe - TN Decktech Challenge 2006)\"",
+      "conceptBy": "(Original Concept by Brian Rippetoe - TN Decktech Challenge 2006)",
       "legacy": true
     },
     {
@@ -29131,7 +29131,7 @@
         "type": "Interrupt",
         "subType": "Used Or Lost",
         "destiny": 6,
-        "gametext": "USED: Cancel Silence Is Golden or Shut Him Up Or Shut Him Down.  LOST: Search your Used Pile and take any one droid, device or Stone Pile you find there into hand. Shuffle, cut and replace.\"",
+        "gametext": "USED: Cancel Silence Is Golden or Shut Him Up Or Shut Him Down.  LOST: Search your Used Pile and take any one droid, device or Stone Pile you find there into hand. Shuffle, cut and replace.",
         "lore": "Telekinesis is one of the powers awakened during a Jedi's apprenticeship. Using this ability, a student of the Force can learn to levitate objects."
       },
       "pulls": [
@@ -29162,7 +29162,7 @@
         "icons": [
           "Dagobah"
         ],
-        "gametext": "USED: Take a droid or device from your Force Pile into hand; reshuffle.  LOST: Once per game, if your apprentice is on Dagobah, cancel a Force drain at a non-Dagobah location.\"",
+        "gametext": "USED: Take a droid or device from your Force Pile into hand; reshuffle.  LOST: Once per game, if your apprentice is on Dagobah, cancel a Force drain at a non-Dagobah location.",
         "lore": "Telekinesis is one of the powers awakened during a Jedi's apprenticeship. Using this ability, a student of the Force can learn to levitate objects."
       },
       "legacy": true
@@ -29892,7 +29892,7 @@
         "gametext": "If an Endor site on table, deploy on table. [Death Star II] Luke is deploy = 6 and may not be Disarmed. If Luke is at a battleground (even as a captive), your battle destiny draws are +1 there and, once during your turn, may / Luke's Lightsaber or place a card from hand on Force Pile. [Immune to Alter.]",
         "lore": "The final act of Luke's ascension to Jedi Knighthood was sending off his father, draped in the garb of Vader."
       },
-      "conceptBy": "(Original concept by Chris Kelly)\"",
+      "conceptBy": "(Original concept by Chris Kelly)",
       "pulls": [
         "Luke's Lightsaber"
       ],
@@ -30293,7 +30293,7 @@
         "icons": [
           "Episode I"
         ],
-        "gametext": "USED: During battle, place top card of opponent's Lost Pile on top of their Reserve Deck.  LOST: Use 1 Force to 'repair' your Podracer. OR Target a Podracer. Draw destiny. If destiny > Podracer's destiny number, target is 'damaged.'\"",
+        "gametext": "USED: During battle, place top card of opponent's Lost Pile on top of their Reserve Deck.  LOST: Use 1 Force to 'repair' your Podracer. OR Target a Podracer. Draw destiny. If destiny > Podracer's destiny number, target is 'damaged.'",
         "lore": "'Wha-? Chuba da noya!'"
       },
       "pulledBy": [
@@ -30375,7 +30375,7 @@
         "type": "Interrupt",
         "subType": "Used Or Lost",
         "destiny": 4,
-        "gametext": "Add X to one weapon destiny (before weapon destiny is drawn) when targeting a combat vehicle. USED: X = 1.LOST: X = 3.\"",
+        "gametext": "Add X to one weapon destiny (before weapon destiny is drawn) when targeting a combat vehicle. USED: X = 1.LOST: X = 3.",
         "lore": "AT-ATs are nearly impervious to infantry fire, but occasionally a blaster bolt hits between the plating. It's one shot in a million, but such odds are a familiar to the Rebellion."
       },
       "counterpart": "Direct Hit",
@@ -31930,7 +31930,7 @@
         "gametext": "Scout. Deploys free to (and power +2 at) Cantina, Endor, or Hoth. Opponent may not 'react' to or from here. Once per game, may retrieve an Explosive Charge into hand.",
         "lore": "Hero of Nentan. Supervised construction of Echo Base on Hoth. Head of base security. At the Mos Eisley Cantina, everyone knows his name."
       },
-      "conceptBy": "(Original concept by Matt Thornton)\"",
+      "conceptBy": "(Original concept by Matt Thornton)",
       "pulledBy": [
         "General Crix Madine"
       ],
@@ -32247,7 +32247,7 @@
         "type": "Interrupt",
         "subType": "Used Or Lost",
         "destiny": 4,
-        "gametext": "USED: Use 1 Force to suspend [Virtual Block 3] Hutt Bounty or Scum And Villainy for remainder of turn. OR Target a planet site you occupy (even at the beginning of a turn). For remainder of turn, add one [Light Side Force] icon to that site.LOST: If your character of ability > 4 is with opponent's character of lesser ability (except Jabba or Watto), reveal opponent's hand. Select a card there; if opponent does not use or lose 2 Force, it is lost.\"",
+        "gametext": "USED: Use 1 Force to suspend [Virtual Block 3] Hutt Bounty or Scum And Villainy for remainder of turn. OR Target a planet site you occupy (even at the beginning of a turn). For remainder of turn, add one [Light Side Force] icon to that site.LOST: If your character of ability > 4 is with opponent's character of lesser ability (except Jabba or Watto), reveal opponent's hand. Select a card there; if opponent does not use or lose 2 Force, it is lost.",
         "lore": "Blank"
       },
       "legacy": true
@@ -32570,7 +32570,7 @@
         "gametext": "Deploys -2 to same system as any Star Cruiser. May add 3 pilots and 4 passengers. Permanent pilot provides ability of 2. Weapon destinies targeting your starships here are -2.",
         "lore": "Frequently escorts Mon Calamari star crusiers. Personally assigned by Ackbar to main Rebel fleet. Advanced scanners continuosly disrupt target acquistion signals."
       },
-      "conceptBy": "(Original concept by Jonathan Wilkerson)\"",
+      "conceptBy": "(Original concept by Jonathan Wilkerson)",
       "legacy": false
     },
     {
@@ -32800,7 +32800,7 @@
           "Jedi Master"
         ]
       },
-      "conceptBy": "(Original concept by James Booker - Worlds 2005)\"",
+      "conceptBy": "(Original concept by James Booker - Worlds 2005)",
       "legacy": true
     },
     {
@@ -32830,7 +32830,7 @@
           "Jedi Master"
         ]
       },
-      "conceptBy": "(Original concept by James Booker - Worlds 2005)\"",
+      "conceptBy": "(Original concept by James Booker - Worlds 2005)",
       "pulledBy": [
         "Padme Naberrie",
         "Tatooine: City Outskirts"
@@ -32871,7 +32871,7 @@
           "Jedi Master"
         ]
       },
-      "conceptBy": "(Original concept by James Booker - Worlds 2005)\"",
+      "conceptBy": "(Original concept by James Booker - Worlds 2005)",
       "legacy": true
     },
     {
@@ -32900,7 +32900,7 @@
           "Jedi Master"
         ]
       },
-      "conceptBy": "(Original concept by James Booker - Worlds 2005)\"",
+      "conceptBy": "(Original concept by James Booker - Worlds 2005)",
       "legacy": false
     },
     {
@@ -33216,7 +33216,7 @@
           "Force-Sensitive"
         ]
       },
-      "conceptBy": "(Original concept by Harikrishna Mehta - Berkeley V-Lite 2005)\"",
+      "conceptBy": "(Original concept by Harikrishna Mehta - Berkeley V-Lite 2005)",
       "legacy": true
     },
     {
@@ -33532,7 +33532,7 @@
         "icons": [
           "Episode I"
         ],
-        "gametext": "USED: Use 2 Force to deploy a unique (•) battleground not on table, from Reserve Deck; reshuffle.  STARTING: Deploy from your Reserve Deck one Effect which deploys on table (or your side of table) and has no deploy cost; reshuffle. Place Interrupt in Lost Pile.\"",
+        "gametext": "USED: Use 2 Force to deploy a unique (•) battleground not on table, from Reserve Deck; reshuffle.  STARTING: Deploy from your Reserve Deck one Effect which deploys on table (or your side of table) and has no deploy cost; reshuffle. Place Interrupt in Lost Pile.",
         "lore": "'But not at the expense of the moment.'"
       },
       "pulls": [
@@ -34873,7 +34873,7 @@
         "gametext": "Light:  Force drain +1 here. Once per game, if your control, may take Han's Toolkit into hand from Reserve Deck; reshuffle.  Dark:  Starships piloted by bounty hunters are power +1 here. All starships may move between here and Nal Hutta as a react.",
         "parsec": 3
       },
-      "conceptBy": "(Original concept by Jarad Konsker, New Jersey Mini Open 2011)\"",
+      "conceptBy": "(Original concept by Jarad Konsker, New Jersey Mini Open 2011)",
       "pulls": [
         "Han's Toolkit"
       ],
@@ -35540,7 +35540,7 @@
         "type": "Interrupt",
         "subType": "Used Or Lost",
         "destiny": 5,
-        "gametext": "USED: If you just answered 'no' to a Hypo question, opponent loses 3 Force.  LOST: Cancel Why Didn't You Tell Me? or I Am Your Father. OR If Luke is about to cross to the Dark Side, he is lost instead.\"",
+        "gametext": "USED: If you just answered 'no' to a Hypo question, opponent loses 3 Force.  LOST: Cancel Why Didn't You Tell Me? or I Am Your Father. OR If Luke is about to cross to the Dark Side, he is lost instead.",
         "lore": "Sometimes, the truth isn't very pretty."
       },
       "canceledBy": [
@@ -36776,7 +36776,7 @@
         "type": "Interrupt",
         "subType": "Used Or Lost",
         "destiny": 5,
-        "gametext": "USED: If a battle was just initiated, each of your X-wings and Y-wings present is power +1 and immune to attrition for remainder of turn.  LOST: Lose 1 Force to take up to three non-unique X-wings and/or non-unique Y-wings into hand from Reserve Deck; reshuffle.\"",
+        "gametext": "USED: If a battle was just initiated, each of your X-wings and Y-wings present is power +1 and immune to attrition for remainder of turn.  LOST: Lose 1 Force to take up to three non-unique X-wings and/or non-unique Y-wings into hand from Reserve Deck; reshuffle.",
         "lore": "'Hold up here and wait for my signal to start your run.'"
       },
       "pulls": [
@@ -36850,7 +36850,7 @@
           "Force-Sensitive"
         ]
       },
-      "conceptBy": "(Original concept by Jon Westergard - Virginia States 2005)\"",
+      "conceptBy": "(Original concept by Jon Westergard - Virginia States 2005)",
       "legacy": true
     },
     {
@@ -37012,7 +37012,7 @@
         "subType": "Used Or Lost",
         "uniqueness": "*",
         "destiny": 4,
-        "gametext": "USED: If your Rebel of ability > 2 just won a battle or duel, randomly take into hand one card stacked on Insignificant Rebellion. (Immune to Sense.)  LOST: If Luke is in battle (except with Vader), subtract 2 from each of opponent's battle destiny draws.\"",
+        "gametext": "USED: If your Rebel of ability > 2 just won a battle or duel, randomly take into hand one card stacked on Insignificant Rebellion. (Immune to Sense.)  LOST: If Luke is in battle (except with Vader), subtract 2 from each of opponent's battle destiny draws.",
         "lore": "'The Emperor knew, as I did, if Anakin were to have any offspring, they would be a threat to him.'"
       },
       "legacy": false
@@ -37031,7 +37031,7 @@
         "icons": [
           "Death Star II"
         ],
-        "gametext": "If your [Death Star II] objective on table,USED: Deploy Luke from Reserve Deck; reshuffle. OR During your move phase, relocate Luke to a site opponent occupies.  LOST: If your Rebel of ability > 2 just won a battle or duel, take any one card into hand from Reserve Deck; reshuffle (if Rebel is Luke, may also retrieve any one card).\"",
+        "gametext": "If your [Death Star II] objective on table,USED: Deploy Luke from Reserve Deck; reshuffle. OR During your move phase, relocate Luke to a site opponent occupies.  LOST: If your Rebel of ability > 2 just won a battle or duel, take any one card into hand from Reserve Deck; reshuffle (if Rebel is Luke, may also retrieve any one card).",
         "lore": "'The Emperor knew, as I did, if Anakin were to have any offspring, they would be a threat to him.'"
       },
       "legacy": true
@@ -37067,7 +37067,7 @@
         "type": "Interrupt",
         "subType": "Used Or Lost",
         "destiny": 5,
-        "gametext": "USED: Use 1 Force to randomly place one card in opponents Lost Pile out of play.  LOST: Cancel one hologram. OR Use 4 Force. Draw destiny. Add 1 to destiny for each asteroid sector on table. If total destiny> 3, Imperial Holotable site is 'blown away' (opponent loses 4 Force).\""
+        "gametext": "USED: Use 1 Force to randomly place one card in opponents Lost Pile out of play.  LOST: Cancel one hologram. OR Use 4 Force. Draw destiny. Add 1 to destiny for each asteroid sector on table. If total destiny> 3, Imperial Holotable site is 'blown away' (opponent loses 4 Force)."
       },
       "canceledBy": [
         "HoloNet Transmission",
@@ -37245,7 +37245,7 @@
         "gametext": "May add Harc as a pilot. During battle, adds one destiny to total power. If opponent just deployed a Dark Jedi or Sith to a related site, may deploy a related location from Reserve Deck; reshuffle. Immune to attrition < 4 (< 6 while at Bespin).",
         "lore": "Used to combat pirate activity in and around Cloud City. Top speed in atmosphere 1,150 kph. Hyperdrive installed by Bespin Motors."
       },
-      "conceptBy": "(Original Concept by Angelo Consoli - World Champion 2002)\"",
+      "conceptBy": "(Original Concept by Angelo Consoli - World Champion 2002)",
       "legacy": true
     },
     {
@@ -37277,7 +37277,7 @@
         "gametext": "May add Harc as a pilot. During battle, adds one destiny to total power. If a Dark Jedi or Sith was just deployed to a related site, may deploy a related location from Reserve Deck; reshuffle. Immune to attrition < 4 (< 6 at Bespin).",
         "lore": "Used to combat pirate activity in and around Cloud City. Top speed in atmosphere 1,150 kph. Hyperdrive installed by Bespin Motors."
       },
-      "conceptBy": "(Original Concept by Angelo Consoli - World Champion 2002)\"",
+      "conceptBy": "(Original Concept by Angelo Consoli - World Champion 2002)",
       "pulledBy": [
         "All Wings Report In & Darklighter Spin",
         "Local Defense"
@@ -37657,7 +37657,7 @@
         "gametext": "Adds 2 to power of anything he pilots. This character (and other Palace Raiders) are deploy -3 if You're A Slave? on table. While driving a vehicle, it is power +3, defense value +1, and moves for free.",
         "lore": "Smugglers from many worlds are hunted by the Empire for providing arms and supplies to the Alliance. The Outer Rim is their refuge."
       },
-      "conceptBy": "(Original concept by Brian Fred)\"",
+      "conceptBy": "(Original concept by Brian Fred)",
       "pulledBy": [
         "Nar Shaddaa Wind Chimes"
       ],
@@ -38027,7 +38027,7 @@
         "icons": [
           "Hoth"
         ],
-        "gametext": "USED: Play a Defensive Shield from under your Starting Effect. OR Target opponent's just-deployed [Maintenance] card. Target may not battle (or allow opponent to deploy cards from Reserve Deck) for remainder of turn. (Immune to Sense.)LOST: Cancel Trample (unless targeting an Undercover spy).\"",
+        "gametext": "USED: Play a Defensive Shield from under your Starting Effect. OR Target opponent's just-deployed [Maintenance] card. Target may not battle (or allow opponent to deploy cards from Reserve Deck) for remainder of turn. (Immune to Sense.)LOST: Cancel Trample (unless targeting an Undercover spy).",
         "lore": "'It's a good bet the Empire knows we're here.'"
       },
       "counterpart": "Turn It Off! Turn It Off! (V)",
@@ -38464,7 +38464,7 @@
         "icons": [
           "Episode I"
         ],
-        "gametext": "LOST: Instead of drawing race destiny, use a card from hand.  STARTING: Deploy Podrace Arena (with a Podracer, opponent may also deploy a Podracer there), Boonta Eve Podrace and any Effect that deploys for free. Place Interrupt in Reserve Deck.\"",
+        "gametext": "LOST: Instead of drawing race destiny, use a card from hand.  STARTING: Deploy Podrace Arena (with a Podracer, opponent may also deploy a Podracer there), Boonta Eve Podrace and any Effect that deploys for free. Place Interrupt in Reserve Deck.",
         "lore": "Advanced preparation in Podracing is usually the key to winning. A little extra work at the start can mean a lot in the long run."
       },
       "pulledBy": [
@@ -38775,7 +38775,7 @@
         "subType": "Used Or Lost",
         "uniqueness": "*",
         "destiny": 2,
-        "gametext": "USED: During a battle at a system or sector, instead of firing one of your starship weapons at a target, reduce that target's power by 4 until end of turn.  LOST: During a battle at a system or sector, use 3 Force to cancel one battle destiny just drawn.\"",
+        "gametext": "USED: During a battle at a system or sector, instead of firing one of your starship weapons at a target, reduce that target's power by 4 until end of turn.  LOST: During a battle at a system or sector, use 3 Force to cancel one battle destiny just drawn.",
         "lore": "'Luke, trust me.'"
       },
       "counterpart": "Coordinated Attack",
@@ -38798,7 +38798,7 @@
         "icons": [
           "Special Edition"
         ],
-        "gametext": "USED: If you just hit a target with a non-lightsaber non-[Permanent Weapon] weapon, may place target (and all cards on it) in owner's Used Pile.  LOST: Target a Heroic character or starship. It loses Heroic and/or immunity to attrition, if any, this turn.\"",
+        "gametext": "USED: If you just hit a target with a non-lightsaber non-[Permanent Weapon] weapon, may place target (and all cards on it) in owner's Used Pile.  LOST: Target a Heroic character or starship. It loses Heroic and/or immunity to attrition, if any, this turn.",
         "lore": "'Luke, trust me.'"
       },
       "legacy": true
@@ -39287,7 +39287,7 @@
         "icons": [
           "Cloud City"
         ],
-        "gametext": "USED: Raise your converted Kashyyyk system to the top. (Immune to Sense.)  STARTING: If Kashyyyk was your starting location, deploy from Reserve Deck Forest Depths, Grrrghrrrgh!, and up to two Effects that are always [Immune to Alter]. Place this Interrupt in hand.\"",
+        "gametext": "USED: Raise your converted Kashyyyk system to the top. (Immune to Sense.)  STARTING: If Kashyyyk was your starting location, deploy from Reserve Deck Forest Depths, Grrrghrrrgh!, and up to two Effects that are always [Immune to Alter]. Place this Interrupt in hand.",
         "lore": "'Chewie, this won't help me. Hey! Save your strength. There'll be another time. The princess...you have to take care of her.'"
       },
       "legacy": true
@@ -41302,7 +41302,7 @@
         "gametext": "Take an admiral or a non-Jedi general into hand from Reserve Deck; reshuffle. OR Once per game, deploy a war room from Reserve Deck; reshuffle. OR If your admiral or non-[Episode I] general is in battle, may add one battle destiny or prevent opponent from drawing more than one battle destiny (their battle destiny draws may not be canceled).",
         "lore": "In times of greatest need, the Rebellion relies on the brilliant leadership provided by commanders fighting for freedom."
       },
-      "conceptBy": "(Original concept by Brad Eier - Michigan States 2005)\"",
+      "conceptBy": "(Original concept by Brad Eier - Michigan States 2005)",
       "legacy": true
     },
     {
@@ -41323,7 +41323,7 @@
         "gametext": "Take an admiral or general into hand from Reserve Deck; reshuffle. OR If your admiral is in battle at a system (or your general is in battle at a site), you may either add one battle destiny or prevent opponent from drawing more than one battle destiny.",
         "lore": "In times of greatest need, the Rebellion relies on the brilliant leadership provided by commanders fighting for freedom."
       },
-      "conceptBy": "(Original concept by Brad Eier)\"",
+      "conceptBy": "(Original concept by Brad Eier)",
       "pulls": [
         "Admiral Ackbar",
         "Admiral Ackbar (V)",
@@ -42985,7 +42985,7 @@
         "icons": [
           "Cloud City"
         ],
-        "gametext": "LOST: Deploy a Tatooine battleground from Reserve Deck; reshuffle.  STARTING: If you have deployed a Jabba's Palace site, deploy Seeking An Audience and up to two Effects that deploy on table and are always immune to Alter. Place Interrupt in hand.\"",
+        "gametext": "LOST: Deploy a Tatooine battleground from Reserve Deck; reshuffle.  STARTING: If you have deployed a Jabba's Palace site, deploy Seeking An Audience and up to two Effects that deploy on table and are always immune to Alter. Place Interrupt in hand.",
         "lore": "'When we find Jabba the Hutt and that bounty hunter, we'll contact you.'"
       },
       "legacy": false
@@ -43302,7 +43302,7 @@
         "subType": "Used Or Lost",
         "uniqueness": "*",
         "destiny": 5,
-        "gametext": "USED: If you have a character on Weather Vane, place that character on your Used Pile.  LOST: Deploy one or more vehicles, starfighters and pilots (at normal use of the Force) as a 'react' to a cloud sector.\"",
+        "gametext": "USED: If you have a character on Weather Vane, place that character on your Used Pile.  LOST: Deploy one or more vehicles, starfighters and pilots (at normal use of the Force) as a 'react' to a cloud sector.",
         "lore": "'I know where Luke is.'"
       },
       "legacy": false
@@ -43321,7 +43321,7 @@
         "icons": [
           "Cloud City"
         ],
-        "gametext": "USED: Peek at the top 3 cards of your Reserve Deck and take one into hand; reshuffle. OR Cancel a just drawn destiny targeting the ability or defense value of your non-Undercover character of ability < 5 at a system or mobile location.  LOST: Cancel Close Call.\"",
+        "gametext": "USED: Peek at the top 3 cards of your Reserve Deck and take one into hand; reshuffle. OR Cancel a just drawn destiny targeting the ability or defense value of your non-Undercover character of ability < 5 at a system or mobile location.  LOST: Cancel Close Call.",
         "lore": "'I know where Luke is.'"
       },
       "legacy": false
@@ -43547,7 +43547,7 @@
         "icons": [
           "Episode I"
         ],
-        "gametext": "Use 5 Force to reveal opponent's hand. If opponent has no duplicate cards there, place this Interrupt in Used Pile. Otherwise USED: place a card revealed in opponent's Used Pile,LOST: all cards opponent has two or more of are lost. (Immune to Sense.)\"",
+        "gametext": "Use 5 Force to reveal opponent's hand. If opponent has no duplicate cards there, place this Interrupt in Used Pile. Otherwise USED: place a card revealed in opponent's Used Pile,LOST: all cards opponent has two or more of are lost. (Immune to Sense.)",
         "lore": "Darth Maul was eager to make his presence known."
       },
       "counterpart": "Kill Them Immediately",
@@ -44469,7 +44469,7 @@
         "type": "Interrupt",
         "subType": "Used Or Lost",
         "destiny": 6,
-        "gametext": "USED: During battle, if Obi-Wan out of play, cancel an attempt to target a Rebel with a weapon.  LOST: During battle at a site, place non-[Episode I] Obi Wan out of play (even from hand); Your other characters there may move away for free.\"",
+        "gametext": "USED: During battle, if Obi-Wan out of play, cancel an attempt to target a Rebel with a weapon.  LOST: During battle at a site, place non-[Episode I] Obi Wan out of play (even from hand); Your other characters there may move away for free.",
         "lore": "After seeing Vader strike down Obi-Wan, Luke attacked recklessly until he heard the old Jedi Master's voice warn, 'Run Luke, Run!'"
       },
       "legacy": true
@@ -45263,7 +45263,7 @@
         "gametext": "USED: Take a non-[Episode I] droid (except IL-19) into hand from Reserve Deck; reshuffle. OR Place a card from hand on Used Pile.  STARTING: Deploy from Reserve Deck two always [Immune to Alter] Effects. If you have only one location (with less than 3 [Light Side Force]) (except Massassi Throne Room) on table, may deploy a [Cloud City] site. Place this Interrupt in hand.",
         "lore": "A computer connection access port used mainly by droids to plug into database networks and locate information, evaluate threats, execute diagnostics or perform maintenance."
       },
-      "conceptBy": "(Original Concept by Mike Tomashweski - PC Volunteer Award 2006)\"",
+      "conceptBy": "(Original Concept by Mike Tomashweski - PC Volunteer Award 2006)",
       "legacy": true
     },
     {
@@ -45806,7 +45806,7 @@
         "gametext": "Agendas: justice, order. At same and related sites, vehicle weapon destiny draws are -2. Once per turn, may deploy an electropole, a [Coruscant] Naboo location, or a [Theed Palace] vehicle from Reserve Deck; reshuffle. If at Senate, may place Jar Jar and a [Coruscant] Political Effect out of play.",
         "lore": "Gungan."
       },
-      "conceptBy": "(Original concept by Brian Herold - Minnesota States 2006)\"",
+      "conceptBy": "(Original concept by Brian Herold - Minnesota States 2006)",
       "legacy": true
     },
     {
@@ -45833,7 +45833,7 @@
         "gametext": "Agendas: justice, order. At same and related sites, vehicle weapon destiny draws are -2. Once per turn, may deploy an electropole, a [Coruscant] Naboo location, or a [Theed Palace] vehicle from Reserve Deck; reshuffle. If at Senate, may place Jar Jar and a [Coruscant] Political Effect out of play.",
         "lore": "Gungan."
       },
-      "conceptBy": "(Original concept by Brian Herold - Minnesota States 2006)\"",
+      "conceptBy": "(Original concept by Brian Herold - Minnesota States 2006)",
       "legacy": true
     },
     {
@@ -46097,7 +46097,7 @@
         "type": "Interrupt",
         "subType": "Used Or Lost",
         "destiny": 3,
-        "gametext": "USED: Target your highest-ability character and one just-played Interrupt. Draw destiny. If destiny < ability of target character, cancel target Interrupt.  LOST: Use 3 Force. Each player places hand onto Reserve Deck (if possible), then places Used Pile onto Reserve Deck; reshuffle. Each player then draws cards from Reserve Deck equal to the number of cards just placed from hand onto Reserve Deck (if any).\""
+        "gametext": "USED: Target your highest-ability character and one just-played Interrupt. Draw destiny. If destiny < ability of target character, cancel target Interrupt.  LOST: Use 3 Force. Each player places hand onto Reserve Deck (if possible), then places Used Pile onto Reserve Deck; reshuffle. Each player then draws cards from Reserve Deck equal to the number of cards just placed from hand onto Reserve Deck (if any)."
       },
       "pulledBy": [
         "Yoda",
@@ -46552,7 +46552,7 @@
         "subType": "Used Or Lost",
         "uniqueness": "*",
         "destiny": 2,
-        "gametext": "USED: Target a location. Scomp links there cannot be used for remainder of turn. OR If opponent is about to scan or otherwise look through your hand (unless using Monnok), opponent continues but must lose 4 Force plus card allowing scan. OR If opponent has 13 or more cards in hand, place all but 8 (random selection) in Used Pile.  LOST: Use 4 Force to reveal opponent's hand. All cards opponent has two or more of in hand are lost.\""
+        "gametext": "USED: Target a location. Scomp links there cannot be used for remainder of turn. OR If opponent is about to scan or otherwise look through your hand (unless using Monnok), opponent continues but must lose 4 Force plus card allowing scan. OR If opponent has 13 or more cards in hand, place all but 8 (random selection) in Used Pile.  LOST: Use 4 Force to reveal opponent's hand. All cards opponent has two or more of in hand are lost."
       },
       "pulledBy": [
         "Hopping Mad",
@@ -47343,7 +47343,7 @@
         "subType": "Used Or Lost",
         "uniqueness": "*",
         "destiny": 2,
-        "gametext": "USED: If you just targeted with a blaster, add 3 to your total weapon destiny.  LOST: During your control phase, fire one of your weapons. Any 'hit' targets are immediately lost. OR Lose 1 Force to place opponent's just 'hit' character in Lost Pile.\""
+        "gametext": "USED: If you just targeted with a blaster, add 3 to your total weapon destiny.  LOST: During your control phase, fire one of your weapons. Any 'hit' targets are immediately lost. OR Lose 1 Force to place opponent's just 'hit' character in Lost Pile."
       },
       "pulledBy": [
         "Finn"
@@ -47440,7 +47440,7 @@
         "subType": "Used Or Lost",
         "uniqueness": "*",
         "destiny": 5,
-        "gametext": "USED: Use 1 Force to take into hand one vehicle, weapon or interrupt with 'Ewok' in the title from Reserve Deck; reshuffle.  LOST: If your Ewok is defending a battle, add one battle destiny.\"",
+        "gametext": "USED: Use 1 Force to take into hand one vehicle, weapon or interrupt with 'Ewok' in the title from Reserve Deck; reshuffle.  LOST: If your Ewok is defending a battle, add one battle destiny.",
         "lore": "Ewok warriors on patrol use primitive animal horns to coordinate their defenses."
       },
       "pulls": [
@@ -47556,7 +47556,7 @@
         ],
         "gametext": "Light:  Once per game, if top card of your Lost Pile is a Corellian (except Corran or Han), may exchange it with a card in hand.  Dark:  May not deploy to Bespin, Dagobah, Endor, Hoth, or Yavin 4.  Characters (except Lando, bounty hunters, Corellians and smugglers) are each power and forfeit -1 here."
       },
-      "conceptBy": "(Original Concept by Jonathan Murray - DragonCon Open 2009)\"",
+      "conceptBy": "(Original Concept by Jonathan Murray - DragonCon Open 2009)",
       "legacy": true
     },
     {
@@ -47615,7 +47615,7 @@
         "icons": [
           "Episode I"
         ],
-        "gametext": "USED: If the Jedi Council Chamber is not on table, you may deploy it from Reserve Deck; reshuffle.  LOST: Deploy one Jedi Council member to the Jedi Council Chamber from Reserve Deck; reshuffle.\"",
+        "gametext": "USED: If the Jedi Council Chamber is not on table, you may deploy it from Reserve Deck; reshuffle.  LOST: Deploy one Jedi Council member to the Jedi Council Chamber from Reserve Deck; reshuffle.",
         "lore": "Qui-Gon knew that urgency was required. What had transpired on Tatooine demanded the attention of the Council."
       },
       "pulls": [
@@ -47854,7 +47854,7 @@
         "type": "Interrupt",
         "subType": "Used Or Lost",
         "destiny": 5,
-        "gametext": "USED: Cancel Awwww, Cannot Get Your Ship Out.  LOST: Use 1 Force to draw destiny. If destiny < ability of your highest-ability character on table, search your Used Pile and take one starship into hand. Shuffle, cut and replace.\"",
+        "gametext": "USED: Cancel Awwww, Cannot Get Your Ship Out.  LOST: Use 1 Force to draw destiny. If destiny < ability of your highest-ability character on table, search your Used Pile and take one starship into hand. Shuffle, cut and replace.",
         "lore": "A Jedi can move large objects with the power of the mind."
       },
       "pulledBy": [
@@ -47880,7 +47880,7 @@
         "icons": [
           "Dagobah"
         ],
-        "gametext": "USED: If you just drew a starship for destiny, take that starship into hand to cancel and redraw that destiny.  LOST: Use 3 Force to retrieve a non-[Maintenance] starship into hand.\"",
+        "gametext": "USED: If you just drew a starship for destiny, take that starship into hand to cancel and redraw that destiny.  LOST: Use 3 Force to retrieve a non-[Maintenance] starship into hand.",
         "lore": "A Jedi can move large objects with the power of the mind."
       },
       "legacy": true
@@ -47899,7 +47899,7 @@
         "icons": [
           "Dagobah"
         ],
-        "gametext": "USED: If you just drew a starship for destiny, take that starship into hand to cancel and redraw that destiny.  LOST: Use 3 Force to retrieve a non-[Maintenance] starship into hand.\"",
+        "gametext": "USED: If you just drew a starship for destiny, take that starship into hand to cancel and redraw that destiny.  LOST: Use 3 Force to retrieve a non-[Maintenance] starship into hand.",
         "lore": "A Jedi can move large objects with the power of the mind."
       },
       "pulledBy": [
@@ -47957,7 +47957,7 @@
         "subType": "Used Or Lost",
         "uniqueness": "*",
         "destiny": 3,
-        "gametext": "Add X to one starship weapon destiny (before destiny is drawn) when targeting opponent's starship. USED: X=2.LOST: X=4.\"",
+        "gametext": "Add X to one starship weapon destiny (before destiny is drawn) when targeting opponent's starship. USED: X=2.LOST: X=4.",
         "lore": "Although unfamiliar with the quad laser turrets on the Falcon, Luke quickly scored two hits."
       },
       "legacy": false
@@ -48772,7 +48772,7 @@
         "subType": "Used Or Lost",
         "uniqueness": "*",
         "destiny": 3,
-        "gametext": "USED: If all of your ability in a battle is provided by scouts and/or spies, they each add 1 to your total battle destiny (limit +6).  LOST: For remainder of turn, your unique (•) scouts and unique (•) spies are each power +1 (or +2 while being attacked by a creature).\"",
+        "gametext": "USED: If all of your ability in a battle is provided by scouts and/or spies, they each add 1 to your total battle destiny (limit +6).  LOST: For remainder of turn, your unique (•) scouts and unique (•) spies are each power +1 (or +2 while being attacked by a creature).",
         "lore": "The ability to think and act independently gave the Rebels an advantage over their Imperial foes."
       },
       "counterpart": "Sneak Attack",
@@ -49543,7 +49543,7 @@
         "gametext": "Deploy on Han or a Lars. Character cannot be targeted by [Permanent Weapon] weapons or be captured. If just lost, place this device in Used Pile. Force loss from ...Or Be Destroyed must come from Reserve Deck (if possible) and may not be reduced below 2.",
         "lore": "Survival gear, food and tools are stored in small compartments. Made from bantha hide. Used by Luke and other Tatooine inhabitants."
       },
-      "conceptBy": "(Original concept by Joe Olson - Alderaan Regionals 2006)\"",
+      "conceptBy": "(Original concept by Joe Olson - Alderaan Regionals 2006)",
       "legacy": true
     },
     {
@@ -50968,7 +50968,7 @@
         "icons": [
           "Episode I"
         ],
-        "gametext": "USED: If you just drew a [Clone Army] card for destiny, take it into hand (may cancel and redraw it).  STARTING: If Republic At War on table, deploy Cloning Cylinders and two Effects that deploy for free, are always (Immune To Alter), and deploy on table. Place Interrupt in Lost Pile.\"",
+        "gametext": "USED: If you just drew a [Clone Army] card for destiny, take it into hand (may cancel and redraw it).  STARTING: If Republic At War on table, deploy Cloning Cylinders and two Effects that deploy for free, are always (Immune To Alter), and deploy on table. Place Interrupt in Lost Pile.",
         "lore": "Blank"
       },
       "legacy": true
@@ -51474,7 +51474,7 @@
         "subType": "Used Or Starting",
         "uniqueness": "*",
         "destiny": 5,
-        "gametext": "USED: Use 3 Force to search your Reserve Deck and take one Effect of any kind into hand; reshuffle  STARTING: Deploy from your Reserve Deck one Effect which has no deploy cost; reshuffle. Place Interrupt in the Lost Pile.\"",
+        "gametext": "USED: Use 3 Force to search your Reserve Deck and take one Effect of any kind into hand; reshuffle  STARTING: Deploy from your Reserve Deck one Effect which has no deploy cost; reshuffle. Place Interrupt in the Lost Pile.",
         "lore": "With a quick motion of his hand, Luke signaled Artoo and dramatically changed the situation."
       },
       "pulls": [
@@ -51500,7 +51500,7 @@
         "icons": [
           "Jabba's Palace"
         ],
-        "gametext": "USED: Use 1 Force to take a character weapon into hand from Reserve Deck; reshuffle.  STARTING: Take into hand and/or deploy from Reserve Deck up to three Effects of any kind with 'Jedi' in lore or game text. Place this Interrupt in Reserve Deck.\"",
+        "gametext": "USED: Use 1 Force to take a character weapon into hand from Reserve Deck; reshuffle.  STARTING: Take into hand and/or deploy from Reserve Deck up to three Effects of any kind with 'Jedi' in lore or game text. Place this Interrupt in Reserve Deck.",
         "lore": "With a quick motion of his hand, Luke signaled Artoo and dramatically changed the situation."
       },
       "legacy": true
@@ -51714,7 +51714,7 @@
         "gametext": "Adds 2 to power of anything he pilots. During your deploy phase, if piloting Red 10, may target one of your starships; deploy a non-[Theed Palace] astromech or matching pilot aboard target from Reserve Deck; reshuffle.",
         "lore": "Experienced smuggler from Ord Mantell. Piloted Red 10 at the Battle of Yavin. Long-time wingman of Garven Dreis."
       },
-      "conceptBy": "(Original concept by Brian Herold - Minnesota States 2005)\"",
+      "conceptBy": "(Original concept by Brian Herold - Minnesota States 2005)",
       "legacy": true
     },
     {
@@ -51743,7 +51743,7 @@
         "gametext": "Adds 2 to the power of anything he pilots. While at a battleground system, opponent's starships may not 'cloak.' May lose 1 Force (free if piloting Red 10) to cancel a just-drawn weapon destiny targeting a starship he is piloting.",
         "lore": "Experienced smuggler from Ord Mantell. Piloted Red 10 at the Battle of Yavin. Long-time wingman of Garven Dreis."
       },
-      "conceptBy": "(Original concept by Tom Kelly)\"",
+      "conceptBy": "(Original concept by Tom Kelly)",
       "matching": [
         "Red 10"
       ],
@@ -52005,7 +52005,7 @@
         "subType": "Used Or Lost",
         "uniqueness": "*",
         "destiny": 4,
-        "gametext": "USED: Deploy Ghost and Hera simultaneously from your hand and/or Reserve Deck (for -1 Force each); reshuffle.  LOST: If Chopper, Ezra, Hera, Kanan, Sabine or Zeb in a battle, they each add 1 to your total battle destiny.\""
+        "gametext": "USED: Deploy Ghost and Hera simultaneously from your hand and/or Reserve Deck (for -1 Force each); reshuffle.  LOST: If Chopper, Ezra, Hera, Kanan, Sabine or Zeb in a battle, they each add 1 to your total battle destiny."
       },
       "pulls": [
         "Captain Hera Syndulla",
@@ -52220,7 +52220,7 @@
         "gametext": "Use 3 Force to deploy on table. During your move phase, if opponent has 13 or more cards in hand, you may use 4 Force to place all but 8 (random choice) in Used Pile. Once during any control phase, you may place up to three cards from hand in Used Pile.",
         "lore": "Being sent to dispose of two Jedi is the battle droid equivalent of a really bad day at the office."
       },
-      "conceptBy": "(Original concept by Matthew Carulli)\"",
+      "conceptBy": "(Original concept by Matthew Carulli)",
       "pulledBy": [
         "The Signal",
         "We Wish To Board At Once"
@@ -52543,7 +52543,7 @@
         "icons": [
           "Episode I"
         ],
-        "gametext": "USED: If your character was just targeted by a weapon, opponent must use 2 Force or the targeting is canceled.  LOST: Cancel Hit Racer or Podracer Collision.\"",
+        "gametext": "USED: If your character was just targeted by a weapon, opponent must use 2 Force or the targeting is canceled.  LOST: Cancel Hit Racer or Podracer Collision.",
         "lore": "Anakin needed all the help he could get to evade Sebulba's tactics."
       },
       "pulledBy": [
@@ -52635,7 +52635,7 @@
         "gametext": "Adds 2 to power of anything she pilots. Your total battle destiny here is +1 (+2 if piloting a transport). Once per turn, if a battle just ended, may 'rescue' (retrieve from Lost Pile OR stack on [Set 0] Evacuation Control) a Rebel of ability < 3 forfeited from same location this turn.",
         "lore": "Chief Controller at Echo Command. Responsible for communicating orders to the troops. Personally gives firing orders to Ion Cannon Control."
       },
-      "conceptBy": "(Original concept by Camden Yanaga)\"",
+      "conceptBy": "(Original concept by Camden Yanaga)",
       "legacy": false
     },
     {
@@ -53377,7 +53377,7 @@
         "gametext": "Deploy on table. While any player has two aliens of the same card title together, they draw one battle destiny if unable to otherwise, and players draw no more than one battle destiny there. Once per turn, may raise your converted Jabba's Palace site to the top. (Immune to Alter.)",
         "lore": "Influence, like any commodity, has a price in the Outer Rim territories."
       },
-      "conceptBy": "(Original Concept by Ray Bordier - New York States 2007)\"",
+      "conceptBy": "(Original Concept by Ray Bordier - New York States 2007)",
       "legacy": true
     },
     {
@@ -53706,7 +53706,7 @@
         "subType": "Used Or Lost",
         "uniqueness": "**",
         "destiny": 3,
-        "gametext": "Name an Interrupt card. Opponent must reveal entire Used Pile, without shuffling. Then you choose:USED: Opponent must lose 1 Force for each copy of that Interrupt found there.  LOST: Each copy of that interrupt found there is lost.\"",
+        "gametext": "Name an Interrupt card. Opponent must reveal entire Used Pile, without shuffling. Then you choose:USED: Opponent must lose 1 Force for each copy of that Interrupt found there.  LOST: Each copy of that interrupt found there is lost.",
         "lore": "It's 15 parsecs to Kessel, we've replaced the negative power coupling, it's dark and we're wearing welding goggles. Hit it."
       },
       "combo": [
@@ -53728,7 +53728,7 @@
         "icons": [
           "Dagobah"
         ],
-        "gametext": "USED: If opponent has three non-battleground locations on table, activate 5 Force.  LOST: Deploy a battleground location from Reserve Deck; reshuffle.\"",
+        "gametext": "USED: If opponent has three non-battleground locations on table, activate 5 Force.  LOST: Deploy a battleground location from Reserve Deck; reshuffle.",
         "lore": "It's 15 parsecs to Kessel, we've replaced the negative power coupling, it's dark and we're wearing welding goggles. Hit it."
       },
       "legacy": true
@@ -54017,7 +54017,7 @@
         "subType": "Used Or Lost",
         "uniqueness": "*",
         "destiny": 3,
-        "gametext": "USED: Search your Reserve Deck. Take one Collision! or Egregious Pilot Error into hand. Shuffle, cut and replace.  LOST: If opponent just initiated a battle with at least two capital starships at a system where you have a lone starfighter, add two battle destiny.\"",
+        "gametext": "USED: Search your Reserve Deck. Take one Collision! or Egregious Pilot Error into hand. Shuffle, cut and replace.  LOST: If opponent just initiated a battle with at least two capital starships at a system where you have a lone starfighter, add two battle destiny.",
         "lore": "They're as clumsy as they are stupid."
       },
       "pulls": [
@@ -54083,7 +54083,7 @@
         "type": "Interrupt",
         "subType": "Used Or Lost",
         "destiny": 2,
-        "gametext": "USED: Cancel Res Luk Ra'auf.  LOST: If two bounty hunters (or an Imperial and a bounty hunter) are in a battle together, use 2 Force to draw two destiny. Subtract total from opponent's attrition and total power (cannot fall below zero).\"",
+        "gametext": "USED: Cancel Res Luk Ra'auf.  LOST: If two bounty hunters (or an Imperial and a bounty hunter) are in a battle together, use 2 Force to draw two destiny. Subtract total from opponent's attrition and total power (cannot fall below zero).",
         "lore": "Bounty Hunters. Independent contractors. Highly competitive loners. Powerful. Deadly. Scum."
       },
       "pulledBy": [
@@ -54200,7 +54200,7 @@
         "subType": "Used Or Lost",
         "uniqueness": "*",
         "destiny": 4,
-        "gametext": "USED: Search your Used Pile, take one weapon into hand and reshuffle.  LOST: Cancel You Are Beaten. OR If a battle was just initiated, one of your characters of ability > 3 present may steal one character weapon present.\"",
+        "gametext": "USED: Search your Used Pile, take one weapon into hand and reshuffle.  LOST: Cancel You Are Beaten. OR If a battle was just initiated, one of your characters of ability > 3 present may steal one character weapon present.",
         "lore": "A Jedi is taught to use the anger of his opponents (and their weapons) against them."
       },
       "pulls": [
@@ -54472,7 +54472,7 @@
         "gametext": "Adds 3 to power of anything he pilots. While piloting Pulsar Skate, it is maneuver +2 and Wedge draws one battle destiny if unable to otherwise. While at Tatooine (or with Booster, Luke, or Mirax), Set For Stun may not target characters here and Overwhelmed may not be played here.",
         "lore": "Highly decorated Corellian. Piloted Red 2 at the Battle of Yavin. A wealthy orphan, he bought a freighter with his inheritance. First joined the Alliance as a weapons smuggler."
       },
-      "conceptBy": "(Original concept by James Barnes - Texas States 2007)\"",
+      "conceptBy": "(Original concept by James Barnes - Texas States 2007)",
       "legacy": true
     },
     {
@@ -54502,7 +54502,7 @@
         "gametext": "Adds 3 to power of anything he pilots. While piloting an [Independent] starfighter, it is maneuver +1 (+2 if Pulsar Skate) and Wedge draws one battle destiny if unable to otherwise. While with Booster or Mirax, your total battle destiny here is +1.",
         "lore": "Highly decorated Corellian. Piloted Red 2 at the Battle of Yavin. A wealthy orphan, he bought a freighter with his inheritance. First joined the Alliance as a weapons smuggler."
       },
-      "conceptBy": "(Original concept by James Barnes)\"",
+      "conceptBy": "(Original concept by James Barnes)",
       "matching": [
         "Pulsar Skate",
         "Red 2",
@@ -54675,7 +54675,7 @@
         "icons": [
           "Cloud City"
         ],
-        "gametext": "USED: Deploy Han (except Han, Chewie, And The Falcon) from Reserve Deck; reshuffle.  LOST: Deploy Han (except Han, Chewie, And The Falcon) from your Lost Pile.\"",
+        "gametext": "USED: Deploy Han (except Han, Chewie, And The Falcon) from Reserve Deck; reshuffle.  LOST: Deploy Han (except Han, Chewie, And The Falcon) from your Lost Pile.",
         "lore": "'I promise.' 'Auuuuuug!'"
       },
       "legacy": true
@@ -54858,7 +54858,7 @@
         "type": "Interrupt",
         "subType": "Used Or Lost",
         "destiny": 5,
-        "gametext": "USED: Take one or two communications or protocol droids (or one of each) into hand from Reserve Deck; reshuffle.  LOST: Retrieve C-3PO. OR If C-3PO is in battle at a site, add one battle destiny (or two if with three Ewoks).\"",
+        "gametext": "USED: Take one or two communications or protocol droids (or one of each) into hand from Reserve Deck; reshuffle.  LOST: Retrieve C-3PO. OR If C-3PO is in battle at a site, add one battle destiny (or two if with three Ewoks).",
         "lore": "For the second time in the Endor mission, C-3PO saved the day."
       },
       "pulls": [
@@ -54928,7 +54928,7 @@
         "gametext": "Adds 2 to power of anything he pilots. While piloting Red 3, it gains [Nav Computer] and Wes draws one battle destiny if unable to otherwise. While aboard a starship or vehicle, its total weapon destiny is +1; if with Jek and it hits a target, opponent loses 1 Force from Reserve Deck.",
         "lore": "Served for many years as a gunner with friend Jek Porkins in the Tierfon Yellow Aces. Expert marksmanship helped the Alliance earn some of its earliest victories."
       },
-      "conceptBy": "(Original concept by Alexander Sheynis - Berkeley V-Lite 2005)\"",
+      "conceptBy": "(Original concept by Alexander Sheynis - Berkeley V-Lite 2005)",
       "legacy": true
     },
     {
@@ -54970,7 +54970,7 @@
         "icons": [
           "Episode I"
         ],
-        "gametext": "USED: Take a Fambaa, Battle Plains, or Boss Nass' Chambers into hand from Reserve Deck; reshuffle. OR Subtract one from any just drawn weapon destiny.  LOST: Target an opponent's undercover spy with your Gungan. Target is lost.\"",
+        "gametext": "USED: Take a Fambaa, Battle Plains, or Boss Nass' Chambers into hand from Reserve Deck; reshuffle. OR Subtract one from any just drawn weapon destiny.  LOST: Target an opponent's undercover spy with your Gungan. Target is lost.",
         "lore": "'Gungans no die'n without a fight.'"
       },
       "pulls": [
@@ -55182,7 +55182,7 @@
         "icons": [
           "Episode VII"
         ],
-        "gametext": "USED: Take Han's Dice or non-[Maintenance] Han into hand from Reserve Deck; reshuffle. LOST: If you just lost a gambler, take that gambler into hand. OR Once per game, exchange a card in hand with a Resistance Agent or [Episode VII] Skywalker in Lost Pile.\"",
+        "gametext": "USED: Take Han's Dice or non-[Maintenance] Han into hand from Reserve Deck; reshuffle. LOST: If you just lost a gambler, take that gambler into hand. OR Once per game, exchange a card in hand with a Resistance Agent or [Episode VII] Skywalker in Lost Pile.",
         "lore": "Blank."
       },
       "legacy": false
@@ -55487,7 +55487,7 @@
         "gametext": "Deploy on table.  Your total Force generation is +1.  Once per game, may use 3 Force to take an Effect that has no deploy cost and deploys on another card into hand from Reserve Deck; reshuffle.  May place this Effect out of play to retrieve 1 Force. (Immune to Alter.)",
         "lore": "Every Ewok is taught to be protective of the younger members of their clan."
       },
-      "conceptBy": "(Original concept by Eric Hunter - Gen Con Winner 2002)\"",
+      "conceptBy": "(Original concept by Eric Hunter - Gen Con Winner 2002)",
       "legacy": true
     },
     {
@@ -55507,7 +55507,7 @@
         "gametext": "Unless Massassi Throne Room on table, deploy on table.  Your total Force generation is +1.  Once per game, may use 3 Force to take an Effect that has no deploy cost and deploys on another card into hand from Reserve Deck; reshuffle.  May place this Effect out of play to retrieve 1 Force. (Immune to Alter.)",
         "lore": "Every Ewok is taught to be protective of the younger members of their clan."
       },
-      "conceptBy": "(Original concept by Eric Hunter - Gen Con Winner 2002)\"",
+      "conceptBy": "(Original concept by Eric Hunter - Gen Con Winner 2002)",
       "pulls": [
         "An effect that has no deploy cost and deploys on another card"
       ],
@@ -56437,7 +56437,7 @@
         ],
         "gametext": "Light:  If a Dark Jedi on table, Force drain -1 here. Once per game, may deploy Jedi Luke here from Reserve Deck; reshuffle.  Dark:  While opponent's non-[Episode I] Jedi here, destiny draws for Sense and Alter may not be modified."
       },
-      "conceptBy": "(Original concept by Charles Clarkson - New York States 2006)\"",
+      "conceptBy": "(Original concept by Charles Clarkson - New York States 2006)",
       "legacy": true
     },
     {
@@ -56861,7 +56861,7 @@
         "subType": "Used Or Lost",
         "uniqueness": "*",
         "destiny": 2,
-        "gametext": "USED: During opponent's turn, take up to 4 cards from your hand and place them on top of your Force Pile.  LOST: At the start of the damage segment during a battle, before any cards have been forfeited, cause all attrition for both sides to be reduced to 0.\""
+        "gametext": "USED: During opponent's turn, take up to 4 cards from your hand and place them on top of your Force Pile.  LOST: At the start of the damage segment during a battle, before any cards have been forfeited, cause all attrition for both sides to be reduced to 0."
       },
       "legacy": false
     },
@@ -56918,7 +56918,7 @@
           "Jedi Master"
         ]
       },
-      "conceptBy": "(Original concept by Sean Miller)\"",
+      "conceptBy": "(Original concept by Sean Miller)",
       "legacy": false
     },
     {
@@ -57066,7 +57066,7 @@
           "Jedi Master"
         ]
       },
-      "conceptBy": "(Original concept by Jacob Taylor - PC Volunteer Award 2005)\"",
+      "conceptBy": "(Original concept by Jacob Taylor - PC Volunteer Award 2005)",
       "legacy": true
     },
     {
@@ -57094,7 +57094,7 @@
           "Jedi Master"
         ]
       },
-      "conceptBy": "(Original concept by Jacob Taylor - PC Volunteer Award 2005)\"",
+      "conceptBy": "(Original concept by Jacob Taylor - PC Volunteer Award 2005)",
       "legacy": true
     },
     {
@@ -57287,7 +57287,7 @@
         "icons": [
           "Dagobah"
         ],
-        "gametext": "USED: Cancel and redraw a just drawn destiny.LOST: A just drawn battle destiny is +3.\"",
+        "gametext": "USED: Cancel and redraw a just drawn destiny.LOST: A just drawn battle destiny is +3.",
         "lore": "Sarcastic, Sardonic, Irreverent. Impertinent. Exasperating. Disrespectful. Outrageous and charming. Han was a scoundrel but Leia began to realize that she loved him."
       },
       "counterpart": "Close Call (V)",
@@ -57833,7 +57833,7 @@
         "subType": "Used Or Lost",
         "uniqueness": "*",
         "destiny": 4,
-        "gametext": "USED: Add 1 to forfeit of each of your Ewoks for remainder of turn.  LOST: Retrieve one card with 'Ewok' in the title. OR Cancel Dead Ewok, Imperial Tyranny or Empire's New Order.\"",
+        "gametext": "USED: Add 1 to forfeit of each of your Ewoks for remainder of turn.  LOST: Retrieve one card with 'Ewok' in the title. OR Cancel Dead Ewok, Imperial Tyranny or Empire's New Order.",
         "lore": "'You're a jittery little thing, aren't you?'"
       },
       "cancels": [
@@ -57854,7 +57854,7 @@
         "type": "Interrupt",
         "subType": "Used Or Lost",
         "destiny": 5,
-        "gametext": "USED: Deploy a Rogue Squadron pilot to a location you occupy with a Rogue Squadron pilot from Reserve Deck; reshuffle.  LOST: Cancel an attempt by opponent to target a Rogue Squadron pilot to be captured or excluded from battle. Or if two Rogue Squadron pilots are in battle together, add one battle destiny.\""
+        "gametext": "USED: Deploy a Rogue Squadron pilot to a location you occupy with a Rogue Squadron pilot from Reserve Deck; reshuffle.  LOST: Cancel an attempt by opponent to target a Rogue Squadron pilot to be captured or excluded from battle. Or if two Rogue Squadron pilots are in battle together, add one battle destiny."
       },
       "legacy": true
     },
@@ -58050,7 +58050,7 @@
         "icons": [
           "A New Hope"
         ],
-        "gametext": "USED: Cancel Elis Helrot. (Immune to Sense) OR Cancel a smuggler's game text for remainder of turn. OR Take [Reflections II] Chewie or Mercenary Armor into hand from Reserve Deck; reshuffle.  LOST: During your move phase, 'break cover' of an Undercover spy.\"",
+        "gametext": "USED: Cancel Elis Helrot. (Immune to Sense) OR Cancel a smuggler's game text for remainder of turn. OR Take [Reflections II] Chewie or Mercenary Armor into hand from Reserve Deck; reshuffle.  LOST: During your move phase, 'break cover' of an Undercover spy.",
         "lore": "Smugglers and other rogues frequent spaceports along trade routes. 'Your friend is quite a mercenary. I wonder if he really cares about anything, or anybody.'."
       },
       "legacy": false
