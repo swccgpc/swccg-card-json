@@ -55918,7 +55918,10 @@
           "assassin"
         ],
         "gametext": "Permanent weapon is •Aurra Sing's Blaster Rifle (may target a character for free; if targeting a Jedi, draw two destiny, otherwise draw destiny; target hit, and its forfeit = 0, if total destiny +1 > defense value).",
-        "lore": "Bounty hunter. Assassin."
+        "lore": "Bounty hunter. Assassin.",
+        "extraText": [
+          "Force Sensitive"
+        ]
       },
       "legacy": false
     },
