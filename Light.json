@@ -2413,8 +2413,7 @@
         "Princess Leia",
         "Princess Leia (V)",
         "Princess Leia Organa",
-        "Son Of Skywalker",
-        "Young Skywalker"
+        "Son Of Skywalker"
       ],
       "legacy": false
     },
@@ -3503,8 +3502,7 @@
         "The Rebellion's Hope",
         "Luke With Lightsaber",
         "Master Luke",
-        "Son Of Skywalker",
-        "Young Skywalker"
+        "Son Of Skywalker"
       ],
       "legacy": false
     },
@@ -8834,31 +8832,6 @@
         "lore": "'Attention. This is Lando Calrissian. The Empire has taken control of the city. I advise everyone to leave before more Imperial troops arrive.'"
       },
       "legacy": true
-    },
-    {
-      "id": 415,
-      "side": "Light",
-      "rarity": "C",
-      "set": "Virtual Set 0",
-      "front": {
-        "title": "•Civil Disorder (V)",
-        "imageUrl": "https://res.starwarsccg.org/cards/Images-HT/starwars/Virtual0-Light/large/civildisorder.gif?raw=true",
-        "type": "Effect",
-        "uniqueness": "*",
-        "destiny": 3,
-        "icons": [
-          "Cloud City"
-        ],
-        "gametext": "Deploy on table. You may not play Rebel Barrier. Senators are deploy +2. Whenever you initiate a battle, may retrieve your topmost non-[Permanent Weapon], non-[Maintenance] character. May place the top card of your Reserve Deck in Lost Pile to place a combat card in owner's Lost Pile. (Immune to Alter.)",
-        "lore": "'Attention. This is Lando Calrissian. The Empire has taken control of the city. I advise everyone to leave before more Imperial troops arrive.'"
-      },
-      "pulledBy": [
-        "Don't Tread On Me (V)",
-        "The Signal",
-        "We Wish To Board At Once"
-      ],
-      "counterpart": "Ability, Ability, Ability (V)",
-      "legacy": false
     },
     {
       "id": 416,
@@ -30992,8 +30965,7 @@
         "The Rebellion's Hope",
         "Luke With Lightsaber",
         "Master Luke",
-        "Son Of Skywalker",
-        "Young Skywalker"
+        "Son Of Skywalker"
       ],
       "matching": [
         "keins"
@@ -31118,8 +31090,7 @@
         "The Rebellion's Hope",
         "Luke With Lightsaber",
         "Master Luke",
-        "Son Of Skywalker",
-        "Young Skywalker"
+        "Son Of Skywalker"
       ],
       "legacy": false
     },
@@ -31235,7 +31206,6 @@
         "Luke With Lightsaber",
         "Master Luke",
         "Son Of Skywalker",
-        "Young Skywalker",
         "Owen Lars",
         "Owen & Beru Lars"
       ],
@@ -31295,7 +31265,6 @@
         "Luke With Lightsaber",
         "Master Luke",
         "Son Of Skywalker",
-        "Young Skywalker",
         "Owen Lars",
         "Owen & Beru Lars"
       ],
@@ -31340,8 +31309,7 @@
         "The Rebellion's Hope",
         "Luke With Lightsaber",
         "Master Luke",
-        "Son Of Skywalker",
-        "Young Skywalker"
+        "Son Of Skywalker"
       ],
       "legacy": false
     },
@@ -54288,26 +54256,6 @@
         "lore": "The X-wing's display panel allows for different firing patterns for different weapons. This gives the pilot the ability to switch weapon types with minimum time and energy loss."
       },
       "legacy": true
-    },
-    {
-      "id": 2777,
-      "side": "Light",
-      "rarity": "C",
-      "set": "Virtual Set 0",
-      "front": {
-        "title": "•Weapons Display (V)",
-        "imageUrl": "https://res.starwarsccg.org/cards/Images-HT/starwars/ResetDS-Light/large/weaponsdisplay.gif?raw=true",
-        "type": "Defensive Shield",
-        "uniqueness": "*",
-        "destiny": 3,
-        "icons": [
-          "Special Edition"
-        ],
-        "gametext": "Plays on table. Whenever opponent excludes any character(s) from battle, they lose 2 Force. At end of opponent's turn, if you control two battlegrounds (a site and a system) and opponent deployed a card with ability and did not inititate a battle, may retrieve 1 Force.",
-        "lore": "The X-wing's display panel allows for different firing patterns for different weapons. This gives the pilot the ability to switch weapon types with minimum time and energy loss."
-      },
-      "counterpart": "Firepower (V)",
-      "legacy": false
     },
     {
       "id": 2779,
