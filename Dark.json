@@ -12098,6 +12098,8 @@
           "Scomp Link",
           "Episode I"
         ],
+        "lightSideIcons": 1,
+        "darkSideIcons": 2,
         "gametext": "Dark:  Grievous moves from here for free.  Light:  May not be separated from Coruscant: Private Platform."
       },
       "legacy": false
@@ -12358,6 +12360,8 @@
           "Exterior",
           "Planet"
         ],
+        "lightSideIcons": 0,
+        "darkSideIcons": 1,
         "gametext": "Dark:  If deployed by your [Virtural Block 7] objective, may not be seperated from Palpatine's Quaters. Your docking bay transit to or from here is free.  Light:  All docking bay transit from same site as Insidious Prisoner is free. Your docking bay transit to or from here requires 2 Force."
       },
       "legacy": true
@@ -12379,6 +12383,8 @@
           "Scomp Link",
           "Episode I"
         ],
+        "lightSideIcons": 1,
+        "darkSideIcons": 1,
         "gametext": "Dark:  Your docking bay transit from here requires 1 Force.  Light:  Your docking bay transit from here requires 2 Force (1 if Obi-Wan present)."
       },
       "legacy": false
@@ -17122,6 +17128,8 @@
           "Planet",
           "Episode VII"
         ],
+        "lightSideIcons": 1,
+        "darkSideIcons": 2,
         "gametext": "Dark:  Once per turn, if you just moved a [First Order] starship to here, may activate 2 Force.  Light:  Unless your Resistance leader here, Force drain -1 here.",
         "parsec": 5
       },
@@ -24075,6 +24083,8 @@
           "Exterior",
           "Planet"
         ],
+        "lightSideIcons": 1,
+        "darkSideIcons": 2,
         "gametext": "Dark:  Add 1 to each of your weapon destiny draws here. If you control, Force drain +1 here.  Light:  Your troopers are forfeit -1 here."
       },
       "legacy": false
@@ -24176,6 +24186,8 @@
           "Exterior",
           "Planet"
         ],
+        "lightSideIcons": 0,
+        "darkSideIcons": 2,
         "gametext": "Dark:  During your move phase, you may move free from here directly to Mountains (or vice versa).  Light:  If you control, and Main Power Generators on table, Force drain -1 here."
       },
       "legacy": false
@@ -24196,6 +24208,8 @@
           "Planet",
           "Hoth"
         ],
+        "lightSideIcons": 0,
+        "darkSideIcons": 2,
         "gametext": "Dark:  Once per game, may take a non-[Maintenance] AT-AT into hand from Reserve Deck; reshuffle. During your move phase, may move for free between here and Mountains.  Light:  If Imperial Control on table, add one [Light Side Force] here and at Mountains. Ice Storm, Rebel Base Occupation, and opponent's Colo Claw Fish are canceled."
       },
       "legacy": true
@@ -24215,6 +24229,8 @@
           "Exterior",
           "Planet"
         ],
+        "lightSideIcons": 0,
+        "darkSideIcons": 2,
         "gametext": "Dark:  Once per game, may exchange an Interrupt from hand with bottom card of your Reserve Deck.  Light:  Ice Storm is canceled at Hoth sites."
       },
       "legacy": false
@@ -24234,6 +24250,8 @@
           "Exterior",
           "Planet"
         ],
+        "lightSideIcons": 0,
+        "darkSideIcons": 1,
         "gametext": "Dark:  Your Imperials and combat vehicles deploy -1 here.  Light:  If you control, Force drain +1 here."
       },
       "pulledBy": [
@@ -24256,6 +24274,8 @@
           "Exterior",
           "Planet"
         ],
+        "lightSideIcons": 0,
+        "darkSideIcons": 1,
         "gametext": "Dark:  Your AT-ATs move to here for free.  Light:"
       },
       "legacy": false
@@ -24275,6 +24295,8 @@
           "Interior",
           "Planet"
         ],
+        "lightSideIcons": 0,
+        "darkSideIcons": 2,
         "gametext": "Dark:  Your Wampas deploy free here.  Light:  If you control, and Main Power Generators on table, Force drain -1 here."
       },
       "legacy": false
@@ -27528,6 +27550,8 @@
           "Scomp Link",
           "Episode I"
         ],
+        "lightSideIcons": 0,
+        "darkSideIcons": 2,
         "gametext": "Dark:  Once per game, if you control, may take Invisible Hand into hand from Reserve Deck; reshuffle.  Light:  Unless your [Clone Army] character here, Force drain -1 here."
       },
       "legacy": false
@@ -27551,6 +27575,8 @@
           "Scomp Link",
           "Episode I"
         ],
+        "lightSideIcons": 0,
+        "darkSideIcons": 1,
         "gametext": "Dark:  Your docking bay transit from here requires 1 Force (free if your [Presence] droid present).  Light:  Your docking bay transit from here requires 3 Force (free if Palpatine present)."
       },
       "legacy": false
@@ -27573,6 +27599,8 @@
           "Scomp Link",
           "Episode I"
         ],
+        "lightSideIcons": 1,
+        "darkSideIcons": 2,
         "gametext": "Dark:  If you occupy, opponent must use +1 Force to move from here using landspeed.  Light:  You move to here using landspeed for free."
       },
       "pulledBy": [
@@ -27598,6 +27626,8 @@
           "Scomp Link",
           "Episode I"
         ],
+        "lightSideIcons": 1,
+        "darkSideIcons": 2,
         "gametext": "Dark:  While Insidious Prisoner here, your characters are power +1 here.  Light:  While your [Clone Army] character here, your characters are defense value +1 here."
       },
       "legacy": false
@@ -29110,6 +29140,8 @@
           "Exterior",
           "Planet"
         ],
+        "lightSideIcons": 1,
+        "darkSideIcons": 1,
         "gametext": "Dark:  May be deployed instead of Alderaan by Set Your Course For Alderaan.  Light:  Baze, Chirrut, and Saw deploy -1 here."
       },
       "legacy": false
@@ -34994,6 +35026,8 @@
           "Planet",
           "Episode I"
         ],
+        "lightSideIcons": 1,
+        "darkSideIcons": 2,
         "gametext": "Dark:  Once per turn, may use 1 Force to deploy a Mustafar site from Reserve Deck; reshuffle.  Light:  While Vader on table, unless Amidala at a Mustafar location, Force drain -1 here.",
         "parsec": 7
       },
@@ -54729,6 +54763,8 @@
           "Interior",
           "Planet"
         ],
+        "lightSideIcons": 1,
+        "darkSideIcons": 2,
         "gametext": "Dark:  Once per game, if you occupy three battlegrounds, may retrieve a Black Sun agent into hand..  Light:  Once per game, if you control, may retrieve [Reflections II] Dash into hand."
       },
       "legacy": false
