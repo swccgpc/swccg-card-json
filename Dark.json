@@ -1038,8 +1038,7 @@
       "counterpart": "Civil Disorder",
       "combo": [
         "Ability, Ability, Ability + Location, Location, Location + Monnok",
-        " Ability, Ability, Ability + Bad Feeling Have I, Astromech Shortage + Wrong Turn",
-        " Ability, Ability, Ability + Firepower (V) - Defensive Shield"
+        " Ability, Ability, Ability + Bad Feeling Have I, Astromech Shortage + Wrong Turn"
       ],
       "legacy": false
     },
@@ -1060,30 +1059,6 @@
         "lore": "'Ben. . . Ben, please! Ben. . . Leia! Hear me, Leia!'"
       },
       "legacy": true
-    },
-    {
-      "id": 47,
-      "side": "Dark",
-      "rarity": "C",
-      "set": "Virtual Set 0",
-      "front": {
-        "title": "•Ability, Ability, Ability (V)",
-        "imageUrl": "https://res.starwarsccg.org/cards/Images-HT/starwars/Virtual0-Dark/large/abilityabilityability.gif?raw=true",
-        "type": "Effect",
-        "uniqueness": "*",
-        "destiny": 3,
-        "icons": [
-          "Cloud City"
-        ],
-        "gametext": "Deploy on table.  You may not play Imperial Barrier.  Senators are deploy +2.  Whenever you initiate a battle, may retrieve your topmost non-[Permanent Weapon], non-[Maintenance] character.  May place the top card of your Reserve Deck in Lost Pile to place a combat card in owner's Lost Pile. (Immune to Alter.)",
-        "lore": "'Ben. . . Ben, please! Ben. . . Leia! Hear me, Leia!'"
-      },
-      "pulledBy": [
-        "Twi'lek Advisor",
-        "We Must Accelerate Our Plans"
-      ],
-      "counterpart": "Civil Disorder (V)",
-      "legacy": false
     },
     {
       "id": 48,
@@ -20671,30 +20646,6 @@
       "legacy": true
     },
     {
-      "id": 946,
-      "side": "Dark",
-      "rarity": "C",
-      "set": "Virtual Set 0",
-      "front": {
-        "title": "•Firepower (V)",
-        "imageUrl": "https://res.starwarsccg.org/cards/Images-HT/starwars/ResetDS-Dark/large/firepower.gif?raw=true",
-        "type": "Defensive Shield",
-        "uniqueness": "*",
-        "destiny": 3,
-        "icons": [
-          "Reflections III"
-        ],
-        "gametext": "Plays on table. If opponent moves from a location you occupy during your turn (unless 'moving through' the location), they lose 2 Force. At end of opponent's turn, if you control two battlegrounds (a site and system) and opponent deployed a card with ability and did not initiate a battle, you may retrieve 1 Force.",
-        "lore": "'About twenty guns. Some on the surface, some on the towers.'"
-      },
-      "counterpart": "Weapons Display (V)",
-      "combo": [
-        "Firepower (V) + Ability, Ability, Ability During opponent's deploy phase, opponent must choose to deploy a card with ability or lose 2 Force.",
-        " Firepower (V) - Defensive Shield + Set Your Course For Alderaan/The Ultimate Power In The Universe"
-      ],
-      "legacy": false
-    },
-    {
       "id": 6300,
       "side": "Dark",
       "rarity": "C",
@@ -22248,8 +22199,7 @@
         "First Order Stormtrooper",
         "FN-2003",
         "FN-2199 (Nines)",
-        "Strategic Reserves",
-        "Strategic Reserves (V)"
+        "Strategic Reserves"
       ],
       "pulledBy": [
         "Imperial Command"
