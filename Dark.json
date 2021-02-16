@@ -891,7 +891,7 @@
         "subType": "Used Or Lost",
         "uniqueness": "*",
         "destiny": 4,
-        "gametext": "USED: Draw top card of Reserve Deck.  LOST: Cancel an attempt to use a weapon to target your alien. OR Cancel Sense.",
+        "gametext": "To play this Interrupt, you must first place a card stacked on Jabba's Trophies in owner's Lost Pile. USED: Draw top card of Reserve Deck.  LOST: Cancel an attempt to use a weapon to target your alien. OR Cancel Sense.",
         "lore": "Jabba's minions could be expected to be sacrificed to save the Hutt, to destroy one of the Hutts enemies or to provide the Hutt and his minions with a good laugh."
       },
       "cancels": [
