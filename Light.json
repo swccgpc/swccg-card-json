@@ -22573,6 +22573,8 @@
           "Exterior",
           "Planet"
         ],
+        "lightSideIcons": 1,
+        "darkSideIcons": 1,
         "gametext": "Light:  Your Echo Base Troopers deploy -1 here. If you control, Force drain +1 here.  Dark:  If you control, Force drain +1 here."
       },
       "legacy": false
