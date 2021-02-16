@@ -121,7 +121,7 @@
         "imageUrl": "https://res.starwarsccg.org/cards/Images-HT/starwars/Virtual9-Light/large/abraveresistance.gif?raw=true",
         "type": "Effect",
         "destiny": 5,
-        "gametext": "If your [Episode VII] location on table, deploy on table. Your Force generation is +1 at Jakku battlegrounds you occupy. During your deploy phase, may place a Resistance character from hand on top of Used Pile to /\\ a Resistance character of equal or lesser ability. (Immune to Alter.)",
+        "gametext": "If your [Episode VII] location on table, deploy on table. Your Force generation is +1 at Jakku battlegrounds you occupy. During your deploy phase, may place a Resistance character from hand on top of Used Pile to /\\ a Resistance character of equal or lesser ability. [Immune to Alter.]",
         "lore": "Blank."
       },
       "legacy": false
@@ -243,7 +243,7 @@
         "icons": [
           "Episode I"
         ],
-        "gametext": "Deploy on table. Once per turn, if you just deployed a combat vehicle, may draw top card of Reserve Deck. During your deploy phase, may use 1 Force and reveal one [Clone Army] vehicle from hand to take into hand a clone pilot of ability < 3 (or vice versa) from Reserve Deck; reshuffle and deploy both simultaneously. (Immune to Alter.)",
+        "gametext": "Deploy on table. Once per turn, if you just deployed a combat vehicle, may draw top card of Reserve Deck. During your deploy phase, may use 1 Force and reveal one [Clone Army] vehicle from hand to take into hand a clone pilot of ability < 3 (or vice versa) from Reserve Deck; reshuffle and deploy both simultaneously. (Immune to Alter).",
         "lore": "Blank"
       },
       "legacy": true
@@ -9155,7 +9155,7 @@
         "icons": [
           "Episode I"
         ],
-        "gametext": "Use 4 Force to deploy on table. During your control phase, may use 2 Force to stack a clone from your Lost Pile here face down. At the start of your turn, turn all cards here face up. You may deploy any face up card stacked here (as if from hand). (Immune to Alter.)",
+        "gametext": "Use 4 Force to deploy on table. During your control phase, may use 2 Force to stack a clone from your Lost Pile here face down. At the start of your turn, turn all cards here face up. You may deploy any face up card stacked here (as if from hand). (Immune to Alter).",
         "lore": "Blank"
       },
       "legacy": true
@@ -9173,7 +9173,7 @@
         "icons": [
           "Episode I"
         ],
-        "gametext": "Use 4 Force to deploy on table. During your draw phase, may stack a non-unique clone from your Lost Pile here face down. At the start of your turn, turn all cards here face up. You may deploy any face up card stacked here (as if from hand). (Immune to Alter.)",
+        "gametext": "Use 4 Force to deploy on table. During your draw phase, may stack a non-unique clone from your Lost Pile here face down. At the start of your turn, turn all cards here face up. You may deploy any face up card stacked here (as if from hand). [Immune to Alter.]",
         "lore": "Blank."
       },
       "legacy": false
@@ -13478,7 +13478,7 @@
         "icons": [
           "Death Star II"
         ],
-        "gametext": "Deploy on table. Bail, Leia, and Mon Mothma are Insurgents. While an Insurgent present at a battleground, your total battle destiny is +1, and, if with your non-unique character, each may forfeit for 4 when hit. Once per game, may take one K'lor'slug into hand from reserve deck; reshuffle. (Immune to Alter.)",
+        "gametext": "Deploy on table. Bail, Leia, and Mon Mothma are Insurgents. While an Insurgent present at a battleground, your total battle destiny is +1, and, if with your non-unique character, each may forfeit for 4 when hit. Once per game, may take one K'lor'slug into hand from reserve deck; reshuffle. (Immune to Alter).",
         "lore": "Blank."
       },
       "legacy": true
@@ -14686,7 +14686,7 @@
       },
       "conceptBy": "(Original concept by Steven Lewis - PC Volunteer Award 2008)",
       "pulls": [
-        "Any [Immune to Alter] effect that deploys for free on table (or your side of table)"
+        "Any (Immune to Alter) effect that deploys for free on table (or your side of table)"
       ],
       "counterpart": "Surface Defense (V)",
       "legacy": false
@@ -23788,7 +23788,7 @@
         "imageUrl": "https://res.starwarsccg.org/cards/Images-HT/cards/legacy/Virtual8-Light/large/imperialnavigationcharts.gif?raw=true",
         "type": "Effect",
         "destiny": 3,
-        "gametext": "Deploy on a Nar Shaddaa battleground site. If you control three Nar Shaddaa locations or just won a battle (or initiated a Force drain) here, 'steal' (relocate to your side of table). Place in Used Pile if opponent controls three Nar Shaddaa locations. (Immune to Alter.)",
+        "gametext": "Deploy on a Nar Shaddaa battleground site. If you control three Nar Shaddaa locations or just won a battle (or initiated a Force drain) here, 'steal' (relocate to your side of table). Place in Used Pile if opponent controls three Nar Shaddaa locations. (Immune to Alter).",
         "lore": "Blank"
       },
       "legacy": true
@@ -29862,7 +29862,7 @@
         "type": "Effect",
         "uniqueness": "*",
         "destiny": 4,
-        "gametext": "If an Endor site on table, deploy on table. [Death Star II] Luke is deploy = 6 and may not be Disarmed. If Luke is at a battleground (even as a captive), your battle destiny draws are +1 there and, once during your turn, may / Luke's Lightsaber or place a card from hand on Force Pile. (Immune to Alter.)",
+        "gametext": "If an Endor site on table, deploy on table. [Death Star II] Luke is deploy = 6 and may not be Disarmed. If Luke is at a battleground (even as a captive), your battle destiny draws are +1 there and, once during your turn, may / Luke's Lightsaber or place a card from hand on Force Pile. [Immune to Alter.]",
         "lore": "The final act of Luke's ascension to Jedi Knighthood was sending off his father, draped in the garb of Vader."
       },
       "conceptBy": "(Original concept by Chris Kelly)",
@@ -32141,7 +32141,7 @@
         "imageUrl": "https://res.starwarsccg.org/cards/Images-HT/starwars/Virtual11-Light/large/maketenmenfeellikeahundred.gif?raw=true",
         "type": "Effect",
         "destiny": 5,
-        "gametext": "If Stardust on table, deploy on table. Nightfall is canceled. Saw is a spy. Rebel spies deploy -1 to Scarif. Once per battle, if you just drew a Rebel spy for destiny, may retrieve 1 Force. (Immune to Alter.)",
+        "gametext": "If Stardust on table, deploy on table. Nightfall is canceled. Saw is a spy. Rebel spies deploy -1 to Scarif. Once per battle, if you just drew a Rebel spy for destiny, may retrieve 1 Force. [Immune to Alter.]",
         "lore": "Blank."
       },
       "legacy": false
@@ -33821,7 +33821,7 @@
         "icons": [
           "Death Star II"
         ],
-        "gametext": "Deploy on table. Star Cruisers (except Profundity) may deploy -2 (to a maximum of -3), ignore deployment restrictions in their game text, draw one battle destiny if not able to otherwise, and are immune to attrition < 4. (Immune to Alter.)",
+        "gametext": "Deploy on table. Star Cruisers (except Profundity) may deploy -2 (to a maximum of -3), ignore deployment restrictions in their game text, draw one battle destiny if not able to otherwise, and are immune to attrition < 4. [Immune to Alter.]",
         "lore": "Admiral Ackbar's hit-and-fade tactics force the Imperial Navy to spread throughout the galaxy in a futile attempt to engage the Rebels."
       },
       "legacy": true
@@ -41212,7 +41212,7 @@
         "imageUrl": "https://res.starwarsccg.org/cards/Images-HT/cards/legacy/Virtual7-Light/large/rebelgunrunner.gif?raw=true",
         "type": "Effect",
         "destiny": 4,
-        "gametext": "Deploy on table; and stack a non-lightsaber weapon (without 'lost' in game text) here from Reserve Deck; reshuffle. If a battle was just initiated, may deploy weapon here on a participating card. Return weapon here at end of weapons segment (if possible), at end of battle, or if it is about to leave table, be stolen, or become inactive. (Immune to Alter.)",
+        "gametext": "Deploy on table; and stack a non-lightsaber weapon (without 'lost' in game text) here from Reserve Deck; reshuffle. If a battle was just initiated, may deploy weapon here on a participating card. Return weapon here at end of weapons segment (if possible), at end of battle, or if it is about to leave table, be stolen, or become inactive. (Immune to Alter).",
         "lore": "Smugglers from many worlds are hunted by the Empire for providing arms and supplies to the Alliance. The Outer Rim is their refuge."
       },
       "legacy": true
@@ -41419,7 +41419,7 @@
         "imageUrl": "https://res.starwarsccg.org/cards/Images-HT/cards/legacy/Virtual7-Light/large/rebelsacrifice.gif?raw=true",
         "type": "Effect",
         "destiny": 5,
-        "gametext": "Deploy on table if Obi-Wan 'communing.' 'Tatooine' on Obi-Wan is treated as 'Death Star'. Your Death Star sites gain one [Light Side],and if opponent loses Force to battle damage (or a Force Drain) at such sites, stack the first card lost face-down here. Attack Run is canceled. (Immune to Alter.)",
+        "gametext": "Deploy on table if Obi-Wan 'communing.' 'Tatooine' on Obi-Wan is treated as 'Death Star'. Your Death Star sites gain one [Light Side],and if opponent loses Force to battle damage (or a Force Drain) at such sites, stack the first card lost face-down here. Attack Run is canceled. [Immune to Alter]",
         "lore": "'You can't win Darth. If you strike me down I shall become more powerful than you can possibly imagine.' Obi-Wan's sacrifice gave the Rebels time to escape."
       },
       "legacy": true
@@ -44809,7 +44809,7 @@
         "imageUrl": "https://res.starwarsccg.org/cards/Images-HT/cards/legacy/Virtual1-Light/large/saitorrkalfas.gif?raw=true",
         "type": "Effect",
         "destiny": 4,
-        "gametext": "Deploy on table. Once per turn, may / a matching weapon on your unique (•) character present at a site. (Immune to Alter.)",
+        "gametext": "Deploy on table. Once per turn, may / a matching weapon on your unique (•) character present at a site. [Immune to Alter.]",
         "lore": "Saurin female from planet Durkteel. Bodyguard of Hrchek, a Saurin droid trader. Sai'torr will teach battle skills to those who prove themselves worthy."
       },
       "legacy": true
@@ -47749,7 +47749,7 @@
         "icons": [
           "Death Star II"
         ],
-        "gametext": "Deploy on table. During your deploy phase, may reveal one unpiloted Red or Rogue squadron starfighter (or vehicle) from hand to take its matching pilot character (or vice versa) from Reserve Deck and deploy both simultaneously; reshuffle. (Immune to Alter.)",
+        "gametext": "Deploy on table. During your deploy phase, may reveal one unpiloted Red or Rogue squadron starfighter (or vehicle) from hand to take its matching pilot character (or vice versa) from Reserve Deck and deploy both simultaneously; reshuffle. [Immune to Alter.]",
         "lore": "Rebel starfighter squadrons take great pride in their proficiency and dedication. Alliance pilots train relentlessly until man and machine function as one."
       },
       "legacy": false
@@ -50936,7 +50936,7 @@
         "icons": [
           "Episode I"
         ],
-        "gametext": "USED: If you just drew a [Clone Army] card for destiny, take it into hand (may cancel and redraw it).  STARTING: If Republic At War on table, deploy Cloning Cylinders and two Effects that deploy for free, are always [Immune to Alter], and deploy on table. Place Interrupt in Lost Pile.",
+        "gametext": "USED: If you just drew a [Clone Army] card for destiny, take it into hand (may cancel and redraw it).  STARTING: If Republic At War on table, deploy Cloning Cylinders and two Effects that deploy for free, are always (Immune To Alter), and deploy on table. Place Interrupt in Lost Pile.",
         "lore": "Blank"
       },
       "legacy": true
@@ -51389,7 +51389,7 @@
         "imageUrl": "https://res.starwarsccg.org/cards/Images-HT/cards/legacy/Virtual7-Light/large/theshieldisdown.gif?raw=true",
         "type": "Effect",
         "destiny": 5,
-        "gametext": "If [Virtual Block 7] Rebel Strike Team on table, deploy on table. Your [Endor Icon] Epic Event total is +1 for each of your non-Jedi scouts at Bunker. For each of your non-Jedi scouts in battle, attrition against opponent is +1. While opponent's [Endor icon] objective on table, Bunker may not be converted. Once per turn may take Bunker into hand from Reserve Deck; reshuffle. (Immune to Alter.)",
+        "gametext": "If [Virtual Block 7] Rebel Strike Team on table, deploy on table. Your [Endor Icon] Epic Event total is +1 for each of your non-Jedi scouts at Bunker. For each of your non-Jedi scouts in battle, attrition against opponent is +1. While opponent's [Endor icon] objective on table, Bunker may not be converted. Once per turn may take Bunker into hand from Reserve Deck; reshuffle. (Immune to Alter).",
         "lore": "Lando's confidence in the Rebel strike team on the forest moon was rewarded, and proved to be a decisive factor at the Battle of Endor."
       },
       "legacy": true
@@ -51529,7 +51529,7 @@
         "type": "Effect",
         "uniqueness": "*",
         "destiny": 5,
-        "gametext": "Deploy on table. If Yoda is on Dagobah and Jedi Test #3 is present with target apprentice, it is completed. Also, you may not play Surprise Assault. Each apprentice on Dagobah is landspeed = 2 and may not be targeted by Set For Stun. (Immune to Alter.)",
+        "gametext": "Deploy on table. If Yoda is on Dagobah and Jedi Test #3 is present with target apprentice, it is completed. Also, you may not play Surprise Assault. Each apprentice on Dagobah is landspeed = 2 and may not be targeted by Set For Stun. (Immune To Alter.)",
         "lore": "'When nine hundred years old you reach, look as good you will not. Hmmm?'"
       },
       "pulledBy": [
@@ -58396,7 +58396,7 @@
         "type": "Effect",
         "uniqueness": "*",
         "destiny": 5,
-        "gametext": "If He Is The Chosen One on table, deploy on table. You may not deploy [Episode I] sites. While Luke with Prophecy Of The Force, your Force generation is +1 and opponent's Force generation is -1. May deploy Yoda's Hut from Reserve Deck; reshuffle. (Immune to Alter.)",
+        "gametext": "If He Is The Chosen One on table, deploy on table. You may not deploy [Episode I] sites. While Luke with Prophecy Of The Force, your Force generation is +1 and opponent's Force generation is -1. May deploy Yoda's Hut from Reserve Deck; reshuffle. [Immune to Alter.]",
         "lore": "When a Jedi dies, the spirit spreads through the Force and touches the living."
       },
       "pulls": [
