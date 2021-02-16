@@ -8550,6 +8550,7 @@
         "deploy": 6,
         "forfeit": 6,
         "icons": [
+          "Maintenance",
           "Pilot",
           "Warrior"
         ],
@@ -21111,8 +21112,9 @@
         "deploy": 6,
         "forfeit": 8,
         "icons": [
-          "Pilot x2",
+          "Maintenance",
           "Nav Computer",
+          "Pilot x2",
           "Scomp Link"
         ],
         "characteristics": [
@@ -27681,6 +27683,7 @@
         "deploy": 5,
         "forfeit": 7,
         "icons": [
+          "Maintenance",
           "Pilot",
           "Warrior"
         ],
