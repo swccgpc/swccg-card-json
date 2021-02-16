@@ -19986,7 +19986,7 @@
           "blaster rifle",
           "rifle"
         ],
-        "gametext": "Deploy on your First Order warrior. May target a character or vehicle for free. Draw destiny. Add 1 if fired by a stormtrooper. Target hit, and may not be used to satisfy attrition, if destiny > defense value.",
+        "gametext": "Deploy on your First Order warrior. May target a character or vehicle for free. Draw destiny. Add 1 if fired by a stormtrooper. Target hit, and may not be used to satisfy attrition, if total destiny > defense value.",
         "lore": "Blank."
       },
       "pulledBy": [
