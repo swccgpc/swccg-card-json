@@ -21175,20 +21175,21 @@
         "subType": "Starfighter: Heavily-Modified Light Freighter",
         "uniqueness": "*",
         "destiny": 2,
-        "power": 7,
-        "maneuver": 5,
+        "power": 8,
+        "maneuver": 6,
         "hyperspeed": 7,
-        "deploy": 5,
+        "deploy": 6,
         "forfeit": 8,
         "icons": [
           "Pilot x2",
           "Nav Computer",
-          "Scomp Link"
+          "Scomp Link",
+          "Reflections III"
         ],
         "characteristics": [
           "Rebel (starship)"
         ],
-        "gametext": "Permanent pilots are •Han and •Chewie: provide ability of 5. Attempts here to 'blow away' any Death Star are +2. Immue to Come With Me, Lateral Damage, Life Debt and attrition < 6.",
+        "gametext": "May add 2 passengers. Permanent pilots are •Han and •Chewie, who provide total ability of 5. While in battle, adds one destiny to total power. Immune to Come With Me, Life Debt, and attrition < 5.",
         "lore": "Although tempermental, this trusty hunk of junk always seems to perform for its proud owner and his Wookie co-pilot when needed the most."
       },
       "pulledBy": [
