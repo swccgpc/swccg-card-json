@@ -1244,7 +1244,7 @@
         "subType": "Immediate",
         "uniqueness": "*",
         "destiny": 4,
-        "gametext": "f an opponent's character of ability > 3 was just lost in a battle or duel you won, deploy on one of your warriors involved. Warrior is power +2. During each of opponent's move phases, opponent loses 1 Force (2 if character was a Dark Jedi). (Immune to Control.)",
+        "gametext": "If an opponent's character of ability > 3 was just lost in a battle or duel you won, deploy on one of your warriors involved. Warrior is power +2. During each of opponent's move phases, opponent loses 1 Force (2 if character was a Dark Jedi). (Immune to Control.)",
         "lore": "With only a few Jedi remaining in the galaxy, each confrontation between them has far reaching consequences."
       },
       "pulledBy": [
