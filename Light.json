@@ -22774,6 +22774,8 @@
           "Exterior",
           "Planet"
         ],
+        "lightSideIcons": 1,
+        "darkSideIcons": 0,
         "gametext": "Light:  'Hoth Energy Shield Rules' in effect. Your artillery weapons here are powered.  Dark:  'Hoth Energy Shield Rules' in effect. If 'blown away,' Light Side loses 8 Force."
       },
       "legacy": false
@@ -22834,6 +22836,8 @@
           "Exterior",
           "Planet"
         ],
+        "lightSideIcons": 2,
+        "darkSideIcons": 0,
         "gametext": "Light:  'Hoth Energy Shield Rules' in effect. Your artillery weapons here are powered.  Dark:  Your movement to or from here requires +1 Force. If 'blown away,' Light Side loses 8 Force."
       },
       "legacy": false
