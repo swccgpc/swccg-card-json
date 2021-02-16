@@ -2901,7 +2901,7 @@
           "Episode I"
         ],
         "gametext": "Deploy on Petranaki Arena. During your control phase, may target an imprisoned captive here: each player draws destiny and adds 1 for each of their cards with power present (2 for [Separatist] cards). If your total higher, target 'executed' (lost) and opponent loses 2 Force. (Immune to Alter)",
-        "lore": "Blank"
+        "lore": "Blank."
       },
       "legacy": true
     },
@@ -16945,7 +16945,7 @@
           "Presence Droid"
         ],
         "gametext": "May add 1 pilot and 2 passengers. Dooku deploys free aboard. While Dooku aboard, immune to attrition and opponent must have at least two piloted starships to initiate battle at same system.",
-        "lore": "Blank"
+        "lore": "Blank."
       },
       "legacy": true
     },
@@ -17921,7 +17921,7 @@
           "Permanent Weapon"
         ],
         "gametext": "While with a [Clone Army] card or another Spider Droid, draws one battle destiny if unable to otherwise. Permanent weapon is Self-Destruct (may target a character present; draw destiny; if destiny +2 > defense value, target hit and forfeit -4, and this character also hit.)",
-        "lore": "Blank",
+        "lore": "Blank.",
         "extraText": [
           "Spider Droid"
         ]
@@ -19630,7 +19630,7 @@
         "subType": "Used Or Starting",
         "destiny": 3,
         "gametext": "USED: If you just drew a [Separatist] card for destiny, take it into hand (may cancel and redraw it).  STARTING: If Separatist Uprising on table, deploy Droid Racks and two Effects that deploy for free, are always [Immune to Alter], and deploy on table. Place Interrupt in Lost Pile. ",
-        "lore": "Blank"
+        "lore": "Blank."
       },
       "legacy": true
     },
@@ -20079,7 +20079,7 @@
           "Episode I"
         ],
         "gametext": "May add 1 pilot (suspends permanent pilot) and 1 passenger. Permanent pilot provides ability of 2. Forfeit +2 while with a [Clone Army] card. Unless defending, power +2 and adds one battle destiny.",
-        "lore": "Blank"
+        "lore": "Blank."
       },
       "legacy": true
     },
@@ -37031,7 +37031,7 @@
         "type": "Effect",
         "destiny": 5,
         "gametext": "Deploy on Contract Killers. Assassins are defense value +1. Once per game, may retrieve (Virtual Block 8) Death Mark. At the end of opponent's turn, if their character targeted by (Virtual Block 8) Death Mark is at a non-battleground or aboard their starship, opponent loses 3 Force. (Immune to Alter.)",
-        "lore": "Blank"
+        "lore": "Blank."
       },
       "legacy": true
     },
@@ -44065,7 +44065,7 @@
         "subType": "Used",
         "destiny": 3,
         "gametext": "During a battle at opponent's site (or your  non-<> site), instead of firing one of your character weapons at a target, cause that target to be immunity to attrition -3 (or limited to immunity to attrition < 5) for remainder of turn. OR If you just drew a character for destiny, take that card into hand to cancel and redraw that destiny. OR Cancel a 'react.' OR Place Projection of a Skywalker in opponent's Used Pile.",
-        "lore": "Blank"
+        "lore": "Blank."
       },
       "legacy": true
     },
@@ -48996,7 +48996,7 @@
           "Setup"
         ],
         "gametext": "Deploy on Conference Room (only at start of game); deploy Sim Aloo here and (Virtual Block 4) There is No Try from Reserve Deck; reshuffle. Players may initiate battle here for free. Once per game may deploy Ord Mantell from Reserve Deck; reshuffle. May not be canceled (except by opponent) or placed in Used Pile. Immune to Ineffective Maneuver.",
-        "lore": "Blank"
+        "lore": "Blank."
       },
       "legacy": true
     },
@@ -55857,8 +55857,11 @@
           "commander",
           "Trade Federation"
         ],
-        "gametext": "Adds 2 to anything he pilots. Unless alone, may place Trench in Used Pile to make an [Episode I] starship here immune to attrition for remainder of turn. While at opponent's system, their starships deploy +1 here.",
-        "lore": "Harch commander. Leader. Trade Federation."
+        "gametext": "Adds 2 to power of anything he pilots. Unless alone, may place Trench in Used Pile to make an [Episode I] starship here immune to attrition for remainder of turn. While at opponent's system, their starships deploy +1 here.",
+        "lore": "Harch commander. Leader. Trade Federation.",
+        "extraText": [
+          "Force-Attuned"
+        ]
       },
       "pulledBy": [
         "Imperial Command"
@@ -55889,8 +55892,11 @@
           "leader",
           "general"
         ],
-        "gametext": "Adds 2 to anything he pilots. Hux is lost. While with a Resistance character, adds one battle destiny. While Emperor on table, attrition against opponent here is +1 for each First Order character here.",
-        "lore": "Leader."
+        "gametext": "Adds 2 to power of anything he pilots. Hux is lost. While with a Resistance character, adds one battle destiny. While Emperor on table, attrition against opponent here is +1 for each First Order character here.",
+        "lore": "Leader.",
+        "extraText": [
+          "Force-Attuned"
+        ]
       },
       "pulledBy": [
         "Imperial Command"
@@ -55922,7 +55928,10 @@
           "assassin"
         ],
         "gametext": "Permanent weapon is •Aurra Sing's Blaster Rifle (may target a character for free; if targeting a Jedi, draw two destiny, otherwise draw destiny; target hit, and its forfeit = 0, if total destiny +1 > defense value).",
-        "lore": "Bounty hunter. Assassin."
+        "lore": "Bounty hunter. Assassin.",
+        "extraText": [
+          "Force-Sensitive"
+        ]
       },
       "legacy": false
     },
@@ -55948,8 +55957,11 @@
         "characteristics": [
           "leader"
         ],
-        "gametext": "Adds 2 to anything he pilots. Rebels here (and at adjacent sites if your E-web blaster here) are power -1. When deployed, may / an E-web blaster or an Imperial stormtrooper for -2 Force.",
-        "lore": "ISB Leader."
+        "gametext": "Adds 2 to power of anything he pilots. Rebels here (and at adjacent sites if your E-web blaster here) are power -1. When deployed, may deploy an E-web blaster or an Imperial stormtrooper from Reserve Deck for -2 Force; reshuffle.",
+        "lore": "ISB leader.",
+        "extraText": [
+          "Force-Sensitive"
+        ]
       },
       "pulls": [
         "E-web Blaster",
@@ -55971,8 +55983,8 @@
         "icons": [
           "Episode I"
         ],
-        "gametext": "Deploy on table. Non-[Episode I] Dark Jedi are lost. Unless with Obi-Wan, Dooku is immune to attrition. Your game text on Jedi Council Chamber is canceled. Once per turn, may / a mobile hallway or [Episode I] lightsaber. (Immune to Alter.)",
-        "lore": "Blank"
+        "gametext": "Deploy on table. Non-[Episode I] Dark Jedi are lost. Unless with Obi-Wan, Dooku is immune to attrition. Your game text on Jedi Council Chamber is canceled. Once per turn, may deploy a mobile hallway or [Episode I] lightsaber from Reserve Deck; reshuffle. (Immune to Alter.)",
+        "lore": "Blank."
       },
       "legacy": false
     },
@@ -55992,7 +56004,7 @@
           "Cloud City"
         ],
         "gametext": "If you have deployed a site with exactly two [Dark Side Force] (and no other locations), deploy a battleground site. Then, unless you have deployed Imperial Square or a site with 'Palace' in title, deploy up to three Effects that are always immune to Alter. Place Interrupt in Lost Pile.",
-        "lore": "Luke got the shafe"
+        "lore": "Luke got the shaft."
       },
       "pulls": [
         "Any battleground site",
@@ -56430,7 +56442,7 @@
         "uniqueness": "*",
         "destiny": 4,
         "gametext": "Deploy on table. Once during your turn, may stack top card of Lost Pile face down (as a 'Hatred' card) on an opponent's character with your Inquisitor. Opponent must choose to lose 1 Force or that character's game text is canceled for remainder of turn. (Immune to Alter.)",
-        "lore": "Blank"
+        "lore": "Blank."
       },
       "legacy": false
     },
@@ -56477,7 +56489,7 @@
         "uniqueness": "*",
         "destiny": 4,
         "gametext": "Lose 2 Force to retrieve a Crimson Dawn leader. OR If you just fired a [Set 13] blaster during a battle, add one battle destiny. OR During any control phase, if Maul or Vos at a battleground site, flip Shadow Collective (or You Know Who I Answer To).",
-        "lore": "Blank"
+        "lore": "Blank."
       },
       "legacy": false
     },
@@ -56510,7 +56522,7 @@
         "uniqueness": "*",
         "destiny": 4,
         "gametext": "USED: Stack top card of Lost Pile face down (as a 'Hatred' card) on opponent's leader (or character of ability > 3) at a battleground. LOST: If your Inquisitor in battle with a Jedi, Padawan, or 'Hatred' card, add one battle destiny (add two if with all three).",
-        "lore": "Blank"
+        "lore": "Blank."
       },
       "legacy": false
     },
@@ -56527,7 +56539,7 @@
         "uniqueness": "*",
         "destiny": 4,
         "gametext": "USED: Take First Light or Vos into hand from Reserve Deck; reshuffle. OR Place a character from hand in Used Pile to activate 1 Force (2 if Vos on table). LOST: Once per game, exchange two cards in hand with any one card in Lost Pile. [Immune to Sense.]",
-        "lore": "Blank"
+        "lore": "Blank."
       },
       "legacy": false
     },
@@ -56543,7 +56555,7 @@
         "subType": "Used or Lost",
         "destiny": 5,
         "gametext": "USED: If opponent's character is about to be lost, place all 'Hatred' cards (if any) on that character in owner's Used Pile. LOST: Lose Vader or an Inquisitor from hand to take up to two Inquisitors into hand from Reserve Deck; reshuffle.",
-        "lore": "Blank"
+        "lore": "Blank."
       },
       "legacy": false
     },
@@ -56794,7 +56806,7 @@
           "blaster"
         ],
         "gametext": "Use 1 Force to deploy on your warrior (free if your Crimson Dawn leader on table). May target a character or vehicle for free. Draw destiny. If destiny +1 > defense value, target hit and may not be used to satisfy attrition.",
-        "lore": "Blank"
+        "lore": "Blank."
       },
       "legacy": false
     },
