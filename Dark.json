@@ -22619,7 +22619,7 @@
         "type": "Interrupt",
         "subType": "Used Or Lost",
         "destiny": 2,
-        "gametext": "USED: Cancel Nabrun Leids LOST: If you just forfeited all your cards that participated in a battle you lost, cancel all remaining battle damage (Immune to Sense). OR Cancel Hyper Escape, Closer!?, or one 'react.' OR During your move phase, cancel Landing Claw."
+        "gametext": "USED: Cancel Nabrun Leids.  LOST: If you just forfeited all your cards that participated in a battle you lost, cancel all remaining battle damage (Immune to Sense). OR Cancel Hyper Escape, Closer!?, or one 'react.' OR During your move phase, cancel Landing Claw."
       },
       "counterpart": "Houjix & Out Of Nowhere",
       "cancels": [
@@ -28363,7 +28363,10 @@
         "deploy": 0,
         "forfeit": 0,
         "gametext": "{Deploys only at start of game if Carbon Chamber Testing is on table to Security Tower, frozen and imprisoned, (instead of a Rebel from opponent's Reserve Deck). If You Can Either Profit By This... is on table, opponent does not deploy Han at start of game (relocate Jabba's Prize to Audience Chamber, flip Carbon Chamber Testing, and you may not move or transfer Jabba's Prize)}. May not be placed in Reserve Deck. Jabba's Prize is a persona of Han only while on table. If Jabba's Prize leaves table, place it out of play. May not be targeted by We're The Bait or Someone Who Loves You. While Jabba's Prize is at Audience Chamber, Jabba is power +3, defense value +3, and adds 3 to his immunity to attrition. If Jabba's Prize was just released, opponent may replace it with any Han from hand, Used Pile, or Reserve Deck; reshuffle (if not replaced, place Jabba's Prize out of play).",
-        "lore": "Han Solo was frozen in carbonite to test the process Vader planned to use on Luke. When Boba Fett delivered Han to Jabba, the vile gangster called him his 'favorite decoration.'"
+        "lore": "Han Solo was frozen in carbonite to test the process Vader planned to use on Luke. When Boba Fett delivered Han to Jabba, the vile gangster called him his 'favorite decoration.'",
+        "extraText": [
+          "Carbon-Frozen"
+        ]
       },
       "back": {
         "title": "•Jabba's Prize/Jabba's Prize",
