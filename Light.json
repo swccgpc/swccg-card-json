@@ -22857,6 +22857,8 @@
           "Exterior",
           "Planet"
         ],
+        "lightSideIcons": 1,
+        "darkSideIcons": 1,
         "gametext": "Light:  This site does not count when calculating Epic Events.  Dark:  This site does not count when calculating Epic Events."
       },
       "legacy": false
