@@ -56293,6 +56293,8 @@
         "icons": [
           "Planet"
         ],
+        "lightSideIcons": 2,
+        "darkSideIcons": 1,
         "gametext": "Light:  If Haven is canceled, place it in your Used Pile.  Dark:  Unless you control, you may not deploy Effects on related locations.",
         "parsec": 4
       },
