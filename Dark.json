@@ -20207,11 +20207,11 @@
         "title": "•Fanfare (Tatooine) (V)",
         "imageUrl": "https://res.starwarsccg.org/cards/Images-HT/starwars/ResetDS-Dark/large/fanfaretatooine.gif?raw=true",
         "type": "Defensive Shield",
-        "destiny": 4,
+        "destiny": 0,
         "icons": [
           "Episode I"
         ],
-        "gametext": "Plays on table. Ice Storm, Lost In The Wilderness, Order To Engage, Sandwhirl, and Scramble are canceled. Once per game, may /\\ an Immediate Effect. Unless opponent occupies a battleground system, Staging Areas is suspended.",
+        "gametext": "Plays on table. Ice Storm, Lost In The Wilderness, Order To Engage, Sandwhirl, and Scramble are canceled. Once per game, may take an Immediate Effect into hand from Reserve Deck; reshuffle. Unless opponent occupies a battleground system, Staging Areas is suspended.",
         "lore": "The Boonta Eve crowds are always looking for new and exciting developments at every Podrace."
       },
       "legacy": false
@@ -20248,7 +20248,7 @@
         "icons": [
           "Episode I"
         ],
-        "gametext": "Plays on table. Cancels Order To Engage and Scramble. Once per game, may take an Immediate Effect into hand from Reserve Deck; reshuffle. While opponent occupies no battleground systems, Staging Areas is suspended. 'Missing' on Lost In The Wilderness is treated as 'landspeed = 0 for remainder of turn.'",
+        "gametext": "Plays on table. Ice Storm, Lost In The Wilderness, Order To Engage, Sandwhirl, and Scramble are canceled. Once per game, may take an Immediate Effect into hand from Reserve Deck; reshuffle. Unless opponent occupies a battleground system, Staging Areas is suspended.",
         "lore": "The Boonta Eve crowds are always looking for new and exciting developments at every Podrace."
       },
       "pulls": [
