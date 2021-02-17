@@ -26289,7 +26289,9 @@
           "Episode I"
         ],
         "gametext": "Light:  Once per turn, may use 1 Force to deploy a Kamino site from Reserve Deck; reshuffle.  Dark:  If opponent has two clones on table, Force drain -1 here.",
-        "parsec": 7
+        "parsec": 7,
+        "lightSideIcons": 2,
+        "darkSideIcons": 2
       },
       "legacy": false
     },
@@ -26310,7 +26312,9 @@
           "Scomp Link",
           "Episode I"
         ],
-        "gametext": "Light:  During your deploy phase, your clone here may move to a site you occupy for free.  Dark:  If you initiate battle here, add one battle destiny. Fetts may move to and from here for free."
+        "gametext": "Light:  During your deploy phase, your clone here may move to a site you occupy for free.  Dark:  If you initiate battle here, add one battle destiny. Fetts may move to and from here for free.",
+        "lightSideIcons": 2,
+        "darkSideIcons": 0
       },
       "legacy": false
     },
@@ -26331,7 +26335,9 @@
           "Scomp Link",
           "Episode I"
         ],
-        "gametext": "Light:  While you control, your non-unique clone troopers are power and forfeit +1.  Dark:  Fetts deploy -1 here."
+        "gametext": "Light:  While you control, your non-unique clone troopers are power and forfeit +1.  Dark:  Fetts deploy -1 here.",
+        "lightSideIcons": 2,
+        "darkSideIcons": 1
       },
       "legacy": false
     },
