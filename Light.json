@@ -24899,20 +24899,26 @@
         "deploy": 0,
         "forfeit": 0,
         "gametext": "Jabba's Prize is a Light Side card and does not count toward your deck limit. Reveal to opponent when deploying your Starting Effect. For remainder of game, you may not deploy [Maintenance] Falcon. {Deploys only at start of game if Jabba's Prize is at Security Tower (replaces opponent's Jabba's Prize imprisoned in Security Tower); otherwise place out of play.} May not be placed in Reserve Deck. Jabba's Prize is a persona of Corran Horn only while on table. If Jabba's Prize was just released or leaves table, place it out of play. While Jabba's Prize at Audience Chamber, opponent's battle destiny draws there are +1.",
-        "lore": "Blank."
+        "lore": "Blank.",
+        "extraText": [
+          "Carbon-Frozen"
+        ]
       },
       "back": {
         "title": "•Jabba's Prize/Jabba's Prize",
         "imageUrl": "https://res.starwarsccg.org/cards/Images-HT/starwars/Virtual0-Light/large/jabbasprizeback.gif?raw=true",
         "type": "Character",
         "subType": "Rebel",
-        "destiny": 7,
+        "destiny": 0,
         "power": 0,
         "ability": 0,
         "deploy": 0,
         "forfeit": 0,
         "gametext": "Jabba's Prize is a Light Side card and does not count toward your deck limit. Reveal to opponent when deploying your Starting Effect. For remainder of game, you may not deploy [Maintenance] Falcon. {Deploys only at start of game if Jabba's Prize is at Security Tower (replaces opponent's Jabba's Prize imprisoned in Security Tower); otherwise place out of play.} May not be placed in Reserve Deck. Jabba's Prize is a persona of Corran Horn only while on table. If Jabba's Prize was just released or leaves table, place it out of play. While Jabba's Prize at Audience Chamber, opponent's battle destiny draws there are +1.",
-        "lore": "Blank."
+        "lore": "Blank.",
+        "extraText": [
+          "Carbon-Frozen"
+        ]
       },
       "legacy": false
     },
