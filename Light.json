@@ -56553,6 +56553,8 @@
           "Exterior",
           "Planet"
         ],
+        "lightSideIcons": 2,
+        "darkSideIcons": 2,
         "gametext": "Light:  If Yavin 4 'blown away', Force loss is reduced by 4.  Dark:  If Yavin 4 system on table, Force drain -1 here."
       },
       "legacy": false
