@@ -1366,6 +1366,8 @@
           "Episode VII"
         ],
         "gametext": "Light:  Once during any deploy phase, may use 1 Force to relocate Luke between any two Ahch-To sites.  Dark:  While you occupy an Ahch-To site, its game text is canceled. Players may not Force drain here.",
+        "lightSideIcons": 2,
+        "darkSideIcons": 1,
         "parsec": 9
       },
       "legacy": false
@@ -1386,7 +1388,9 @@
           "Planet",
           "Episode VII"
         ],
-        "gametext": "Light:  If Luke here or out of play, Force Projection is [Immune to Sense].  Dark:  While Luke here, attrition against you everywhere is +1."
+        "gametext": "Light:  If Luke here or out of play, Force Projection is [Immune to Sense].  Dark:  While Luke here, attrition against you everywhere is +1.",
+        "lightSideIcons": 2,
+        "darkSideIcons": 1
       },
       "legacy": false
     },
@@ -1407,7 +1411,9 @@
           "Planet",
           "Episode VII"
         ],
-        "gametext": "Light:  Once during your turn, if Luke alone here, may draw top card of Force Pile.  Dark:  Unless your battleground on table, you generate no Force here."
+        "gametext": "Light:  Once during your turn, if Luke alone here, may draw top card of Force Pile.  Dark:  Unless your battleground on table, you generate no Force here.",
+        "lightSideIcons": 2,
+        "darkSideIcons": 1
       },
       "legacy": false
     },
@@ -1427,7 +1433,9 @@
           "Planet",
           "Episode VII"
         ],
-        "gametext": "Light:  While Luke here, opponent must first use 1 Force to fire a weapon anywhere.  Dark:  While Luke here, destiny draws for Sense and Alter are +2."
+        "gametext": "Light:  While Luke here, opponent must first use 1 Force to fire a weapon anywhere.  Dark:  While Luke here, destiny draws for Sense and Alter are +2.",
+        "lightSideIcons": 1,
+        "darkSideIcons": 0
       },
       "legacy": false
     },
@@ -1447,7 +1455,9 @@
           "Planet",
           "Episode VII"
         ],
-        "gametext": "Light:  While Luke here or out of play, you lose no Force to [Reflections II] objectives.  Dark:  When deployed, may play a Defensive Shield from under your Starting Effect as if from hand."
+        "gametext": "Light:  While Luke here or out of play, you lose no Force to [Reflections II] objectives.  Dark:  When deployed, may play a Defensive Shield from under your Starting Effect as if from hand.",
+        "lightSideIcons": 1,
+        "darkSideIcons": 0
       },
       "legacy": false
     },
@@ -1467,7 +1477,9 @@
           "Planet",
           "Episode VII"
         ],
-        "gametext": "Light:  May deploy [Episode VII] Luke here from Reserve Deck; reshuffle. Once per turn, if Luke alone here, may subtract 2 from opponent's total power during a battle at another location.  Dark:"
+        "gametext": "Light:  May deploy [Episode VII] Luke here from Reserve Deck; reshuffle. Once per turn, if Luke alone here, may subtract 2 from opponent's total power during a battle at another location.  Dark:",
+        "lightSideIcons": 2,
+        "darkSideIcons": 0
       },
       "legacy": false
     },
