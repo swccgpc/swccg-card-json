@@ -30750,7 +30750,7 @@
         "power": 6,
         "ability": 6,
         "deploy": 6,
-        "forfeit": 7,
+        "forfeit": 9,
         "icons": [
           "Pilot",
           "Warrior",
@@ -30760,7 +30760,7 @@
         "characteristics": [
           "scout"
         ],
-        "gametext": "Adds 2 to power of anything he pilots. Deploys -2 to a forest. Luke's weapon destiny draws are +1. At same site, opponent must first use 1 Force to fire a weapon. During opponent's draw phase, if alone on Endor, may retrieve 1 Force. Immune to attrition < 5.",
+        "gametext": "Adds 2 to power of anything he pilots. If drawn for destiny, may take into hand to cancel and redraw that destiny. Power +1 for each Dark Jedi here. Luke's weapon destiny draws are +1. At same site, opponent must first use 1 Force to fire a weapon. Immune to attrition < 6.",
         "lore": "Resourceful scout and member of the Rebel infiltration team assembled to destroy the shield generator. Surrendered to his father so that he would not endanger the mission.",
         "extraText": [
           "Jedi Knight"
