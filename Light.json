@@ -33003,7 +33003,9 @@
           "Planet",
           "Episode VII"
         ],
-        "gametext": "Light:  Once per game, may deploy an [Episode VII] alien here from Reserve Deck; reshuffle.  Dark:  Force drain -1 here. While you control, Dobra Doompa is suspended."
+        "gametext": "Light:  Once per game, may deploy an [Episode VII] alien here from Reserve Deck; reshuffle.  Dark:  Force drain -1 here. While you control, Dobra Doompa is suspended.",
+        "lightSideIcons": 2,
+        "darkSideIcons": 1
       },
       "legacy": false
     },
@@ -33024,7 +33026,9 @@
           "Planet",
           "Episode VII"
         ],
-        "gametext": "Light:  Once per game, if you control, may retrieve a weapon or device into hand.  Dark:  Instead of Force draining here, may retrieve a weapon or device."
+        "gametext": "Light:  Once per game, if you control, may retrieve a weapon or device into hand.  Dark:  Instead of Force draining here, may retrieve a weapon or device.",
+        "lightSideIcons": 1,
+        "darkSideIcons": 0
       },
       "legacy": false
     },
@@ -48907,7 +48911,9 @@
           "Planet",
           "Episode VII"
         ],
-        "gametext": "Light:  Once per turn, may deploy a Maz's Castle site from Reserve Deck; reshuffle.  Dark:  If you control, opponent must use 1 Force to use their Takodana: Maz's Castle game text."
+        "gametext": "Light:  Once per turn, may deploy a Maz's Castle site from Reserve Deck; reshuffle.  Dark:  If you control, opponent must use 1 Force to use their Takodana: Maz's Castle game text.",
+        "lightSideIcons": 2,
+        "darkSideIcons": 1
       },
       "legacy": false
     },
