@@ -45169,7 +45169,9 @@
           "Planet"
         ],
         "gametext": "Light:  While Rogue One is piloted by a Rebel here, it is immune to attrition.  Dark:  Unless your Star Destroyer here (or your Imperial at a related location), Force drain -1 here.",
-        "parsec": 7
+        "parsec": 7,
+        "lightSideIcons": 2,
+        "darkSideIcons": 1
       },
       "legacy": false
     },
@@ -45188,7 +45190,9 @@
           "Exterior",
           "Planet"
         ],
-        "gametext": "Light:  Your combat vehicles, scouts, and spies are each power +1 here. Force drain +1 here.  Dark:  Your combat vehicles and Imperial troopers are each forfeit +1 here."
+        "gametext": "Light:  Your combat vehicles, scouts, and spies are each power +1 here. Force drain +1 here.  Dark:  Your combat vehicles and Imperial troopers are each forfeit +1 here.",
+        "lightSideIcons": 2,
+        "darkSideIcons": 1
       },
       "legacy": false
     },
@@ -45208,7 +45212,9 @@
           "Planet",
           "Scomp Link"
         ],
-        "gametext": "Light:  While opponent occupies, Stardust (and any character it is on) may not move from here.  Dark:  All immunity to attrition (and Ephant Mon's game text) here is canceled."
+        "gametext": "Light:  While opponent occupies, Stardust (and any character it is on) may not move from here.  Dark:  All immunity to attrition (and Ephant Mon's game text) here is canceled.",
+        "lightSideIcons": 1,
+        "darkSideIcons": 1
       },
       "legacy": false
     },
@@ -45228,7 +45234,9 @@
           "Planet",
           "Scomp Link"
         ],
-        "gametext": "Light:  Your docking bay transit to or from here requires +1 Force (+4 Force if Shield Gate on table).  Dark:  Your docking bay transit from here requires 2 Force. Your combat vehicles deploy +1 here."
+        "gametext": "Light:  Your docking bay transit to or from here requires +1 Force (+4 Force if Shield Gate on table).  Dark:  Your docking bay transit from here requires 2 Force. Your combat vehicles deploy +1 here.",
+        "lightSideIcons": 1,
+        "darkSideIcons": 1
       },
       "legacy": false
     },
@@ -45249,7 +45257,9 @@
           "Planet",
           "Scomp Link"
         ],
-        "gametext": "Light:  During your move phase, may move free between here and any related site.  Dark:  If you initiate a Force drain here, may rotate this site. Immune to Expand the Empire."
+        "gametext": "Light:  During your move phase, may move free between here and any related site.  Dark:  If you initiate a Force drain here, may rotate this site. Immune to Expand the Empire.",
+        "lightSideIcons": 1,
+        "darkSideIcons": 1
       },
       "legacy": false
     },
