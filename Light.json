@@ -48891,7 +48891,9 @@
           "Episode VII"
         ],
         "gametext": "Light:  During your deploy phase, if you just deployed a Maz's Castle location, may draw top card of Reserve Deck.  Dark:  If you just deployed a starship here, may shuffle any deck or pile.",
-        "parsec": 5
+        "parsec": 5,
+        "lightSideIcons": 2,
+        "darkSideIcons": 1
       },
       "legacy": false
     },
