@@ -3950,7 +3950,8 @@
         "imageUrl": "https://res.starwarsccg.org/cards/Images-HT/starwars/ANewHope-Light/large/attackrun.gif?raw=true",
         "type": "Epic Event",
         "uniqueness": "*",
-        "destiny": 0
+        "destiny": 0,
+        "gametext": "Deploy on Death Star: Trench. During your move phase, you may make an Attack Run as follows: Enter Trench: Move up to 3 of your starfighters into trench (for free). Dark Side may immediately follow with up to 3 TIEs (for free). Provide Cover: Identify your lead starfighter (Proton Torpedoes* required) and wingmen (if any). Turbolaser Batteries and TIEs with weapons may now target your starfighters (wingmen first, then lead if no wingmen remaining). Hit starfighters are immediately lost. It's Away!: Draw two destiny. Pull Up!: All starfighters now move to Death Star system (for free). If (total destiny + X + Y - Z) > 15, Death Star is 'blown away.' X = ability of lead pilot (or 3 if Targeting Computer aboard) just before Pull Up!. Y = total sites at largest Rebel Base (Yavin 4 or Hoth). Z = highest ability of opponent's TIE pilots in trench just before Pull Up!. *Your Proton Torpedoes are immune to Overload."
       },
       "combo": [
         "Attack Run + Great Shot, Kid!"
