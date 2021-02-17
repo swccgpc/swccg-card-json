@@ -15709,13 +15709,15 @@
       "rarity": "C2",
       "set": "Virtual Set 3",
       "front": {
-        "title": "•Ellorrs Madak, Pilot Instructo",
+        "title": "•Ellorrs Madak, Pilot Instructor",
         "imageUrl": "https://res.starwarsccg.org/cards/Images-HT/starwars/Virtual3-Light/large/ellorrsmadakpilotinstructor.gif?raw=true",
         "type": "Character",
         "subType": "Alien",
         "destiny": 3,
         "power": 3,
         "ability": 2,
+        "deploy": 3,
+        "forfeit": 4,
         "icons": [
           "Pilot"
         ],
