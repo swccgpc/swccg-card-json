@@ -8204,6 +8204,31 @@
       "legacy": true
     },
     {
+      "id": 9999999999999,
+      "side": "Dark",
+      "rarity": "U1",
+      "set": "Virtual Premium Set",
+      "front": {
+        "title": "•Captain Khurgee (V)",
+        "imageUrl": "https://res.starwarsccg.org/cards/Images-HT/starwars/VirtualPremium-Dark/large/captainkhurgee.gif?raw=true",
+        "type": "Character",
+        "subType": "Imperial",
+        "destiny": 2,
+        "power": 2,
+        "ability": 2,
+        "deploy": 2,
+        "forfeit": 4,
+        "icons": [
+          "Pilot",
+          "Warrior",
+          "A New Hope"
+        ],
+        "gametext": "While aboard Thunderflare, attrition against you is -2 here. Once during your turn, if at a battleground, may peek at top card of opponent's Reserve Deck. If it is a character, may reveal it and opponent loses 1 Force (if it is a Rebel, may also place it on Used Pile).",
+        "lore": "Docking bay security officer. Leader. Honored for bravery aboard the Star Destroyer Thunderflare where he rescued five officers from the wreckage of a shuttle crash."
+      },
+      "legacy": false
+    },
+    {
       "id": 363,
       "side": "Dark",
       "rarity": "U1",
