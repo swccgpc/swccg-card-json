@@ -58765,6 +58765,64 @@
         "lore": "Blank"
       },
       "legacy": false
+    },
+    {
+      "id": 6848,
+      "side": "Light",
+      "rarity": "U1",
+      "set": "Virtual Premium Set",
+      "front": {
+        "title": "•Red 12",
+        "imageUrl": "https://res.starwarsccg.org/cards/Images-HT/starwars/VirtualPremium-Light/large/red12.gif?raw=true",
+        "type": "Starship",
+        "subType": "Starfighter: X-Wing",
+        "uniqueness": "*",
+        "destiny": 2,
+        "power": 3,
+        "maneuver": 4,
+        "hyperspeed": 5,
+        "deploy": 2,
+        "forfeit": 4,
+        "icons": [
+          "Nav Computer"
+        ],
+        "characteristics": [
+          "Rebel (starship)"
+        ],
+        "gametext": "May add 1 pilot. If Puck Naeco piloting, he may be placed in Used Pile instead of Lost Pile when he is forfeited. Immune to attrition < 4.",
+        "lore": "Blank."
+      },
+      "pulledBy": [
+        "All Wings Report In & Darklighter Spin"
+      ],
+      "matching": [
+        "Puck"
+      ],
+      "legacy": false
+    },
+    {
+      "id": 6849,
+      "side": "Light",
+      "rarity": "C2",
+      "set": "Virtual Premium Set",
+      "front": {
+        "title": "•Puck",
+        "imageUrl": "https://res.starwarsccg.org/cards/Images-HT/starwars/VirtualPremium-Light/large/puck.gif?raw=true",
+        "type": "Character",
+        "subType": "Rebel",
+        "destiny": null,
+        "power": 2,
+        "ability": 2,
+        "deploy": 2,
+        "forfeit": 4,
+        "icons": [
+          "Pilot",
+          "Warrior"
+        ],
+        "gametext": "Adds 2 to power of anything he pilots. When choosing the destiny value of this card, must use 3 Force to choose 7. May deploy as a 'react.' Your Rebel pilots aboard snub fighters here are forfeit +1.",
+        "lore": "Puck Naeco. Green and Red Squadron."
+      },
+      "legacy": false
     }
   ]
 }

@@ -8204,31 +8204,6 @@
       "legacy": true
     },
     {
-      "id": 6823,
-      "side": "Dark",
-      "rarity": "U1",
-      "set": "Virtual Premium Set",
-      "front": {
-        "title": "•Captain Khurgee (V)",
-        "imageUrl": "https://res.starwarsccg.org/cards/Images-HT/starwars/VirtualPremium-Dark/large/captainkhurgee.gif?raw=true",
-        "type": "Character",
-        "subType": "Imperial",
-        "destiny": 2,
-        "power": 2,
-        "ability": 2,
-        "deploy": 2,
-        "forfeit": 4,
-        "icons": [
-          "Pilot",
-          "Warrior",
-          "A New Hope"
-        ],
-        "gametext": "While aboard Thunderflare, attrition against you is -2 here. Once during your turn, if at a battleground, may peek at top card of opponent's Reserve Deck. If it is a character, may reveal it and opponent loses 1 Force (if it is a Rebel, may also place it on Used Pile).",
-        "lore": "Docking bay security officer. Leader. Honored for bravery aboard the Star Destroyer Thunderflare where he rescued five officers from the wreckage of a shuttle crash."
-      },
-      "legacy": false
-    },
-    {
       "id": 363,
       "side": "Dark",
       "rarity": "U1",
@@ -56882,6 +56857,31 @@
         "type": "Objective",
         "destiny": 7,
         "gametext": "Shadow Collective: Deploy Maul's Chambers. If Massassi Throne Room on table, may deploy [Set 13] Maul to Maul's Chambers. {For} remainder of game, you may not deploy cards with ability (or [Episode I] droids) except characters with 'Black Sun,' 'Crimson Dawn,' or 'Hutt' in lore, assassins, gangsters, [Episode I] bounty hunters, and [Independent] starships. Once per turn, may deploy a non-unique blaster (or a card with 'First Light' in title) from Reserve Deck; reshuffle. {Flip} this card if you just 'hit' a character (or during your battle phase if your gangsters control two battlegrounds). You Know Who I Answer To: {May immediately} re-circulate and shuffle your Reserve Deck. {While} this side up, if your gangster leader in battle at same site as your non-unique blaster, may add one destiny to total power. During your draw phase, if Maul alone, may peek at the cards in your Force Pile. {Flip} this card at end of turn. If you are about to flip this card and you occupy three battlegrounds, opponent loses 1 Force."
+      },
+      "legacy": false
+    },
+    {
+      "id": 6823,
+      "side": "Dark",
+      "rarity": "U1",
+      "set": "Virtual Premium Set",
+      "front": {
+        "title": "•Captain Khurgee (V)",
+        "imageUrl": "https://res.starwarsccg.org/cards/Images-HT/starwars/VirtualPremium-Dark/large/captainkhurgee.gif?raw=true",
+        "type": "Character",
+        "subType": "Imperial",
+        "destiny": 2,
+        "power": 2,
+        "ability": 2,
+        "deploy": 2,
+        "forfeit": 4,
+        "icons": [
+          "Pilot",
+          "Warrior",
+          "A New Hope"
+        ],
+        "gametext": "While aboard Thunderflare, attrition against you is -2 here. Once during your turn, if at a battleground, may peek at top card of opponent's Reserve Deck. If it is a character, may reveal it and opponent loses 1 Force (if it is a Rebel, may also place it on Used Pile).",
+        "lore": "Docking bay security officer. Leader. Honored for bravery aboard the Star Destroyer Thunderflare where he rescued five officers from the wreckage of a shuttle crash."
       },
       "legacy": false
     }
