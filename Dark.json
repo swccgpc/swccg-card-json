@@ -28375,7 +28375,6 @@
         "imageUrl": "https://res.starwarsccg.org/cards/Images-HT/starwars/ReflectionsII-Dark/large/jabbasprizeback.gif?raw=true",
         "type": "Character",
         "subType": "Rebel",
-        "destiny": 7,
         "power": 0,
         "ability": 0,
         "deploy": 0,
@@ -56028,16 +56027,16 @@
       "set": "Virtual Set 10",
       "front": {
         "title": "•Insignificant Rebellion (V)",
-        "imageUrl": "https://res.starwarsccg.org/cards/Images-HT/cards/legacy/Virtual10-Dark/large/insignificantrebellion.gif?raw=true",
+        "imageUrl": "https://res.starwarsccg.org/cards/Images-HT/starwars/cards/Virtual10-Dark/large/insignificantrebellion.gif?raw=true",
         "type": "Effect",
         "destiny": 4,
         "icons": [
           "Death Star II"
         ],
-        "gametext": "If Ralltiir Operations on table, deploy on table. Forfeit values may not be modified by Do They Have Code Clearance?. Once per battle, when you draw battle destiny, may exhange a card in hand with a card of same card type in Lost Pile (Immune to Alter.)",
+        "gametext": "If Ralltiir Operations on table, deploy on table. Forfeit values are not modified by Do They Have A Code Clearance?. Once per battle, when you draw battle destiny, may exchange a card in hand with a card of same card type in Lost Pile. (Immune to Alter.)",
         "lore": "'Your fleet is lost. And your friends on the Endor moon will not survive. There is no escape, my young apprentice.'"
       },
-      "legacy": true
+      "legacy": false
     },
     {
       "id": 6789,
