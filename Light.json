@@ -4676,7 +4676,8 @@
           "Permanent Weapon",
           "Warrior"
         ],
-        "gametext": "If about to be lost, may fire Baze's Cannon. Permanent weapon is •Baze's Cannon (may target a character for free; draw destiny;  add 1 if targeting a character of ability < 3; target hit, and it's forfeit = 0, if destiny +1 > defense value)."
+        "gametext": "If about to be lost, may fire Baze's Cannon. Permanent weapon is •Baze's Cannon (may target a character for free; draw destiny;  add 1 if targeting a character of ability < 3; target hit, and it's forfeit = 0, if destiny +1 > defense value).",
+        "lore": "Blank."
       },
       "legacy": false
     },
@@ -8767,7 +8768,8 @@
         "icons": [
           "Warrior"
         ],
-        "gametext": "If a battle was just inititaed here, may peek at the top card of any Reserve Desk; return it or place it on top of owner's Force Pile. If just lost, may take into hand from reserve deck; reshuffle or retrieve Baze. Once per game, you may re-circulate."
+        "gametext": "If a battle was just inititaed here, may peek at the top card of any Reserve Desk; return it or place it on top of owner's Force Pile. If just lost, may take into hand from reserve deck; reshuffle or retrieve Baze. Once per game, you may re-circulate.",
+        "lore": "Blank."
       },
       "legacy": false
     },
@@ -44230,7 +44232,8 @@
         "characteristics": [
           "Rebel (starship)"
         ],
-        "gametext": "May add 2 pilots and 4 passengers. May deploy with a pilot to a system without presence or Force icons. Spies deploy -1 aboard. Immune to attrition < 6 at opponent system (unless a Dark Jedi here)."
+        "gametext": "May add 2 pilots and 4 passengers. May deploy with a pilot to a system without presence or Force icons. Spies deploy -1 aboard. Immune to attrition < 6 at opponent system (unless a Dark Jedi here).",
+        "lore": "Blank."
       },
       "pulledBy": [
         "All Wings Report In & Darklighter Spin"
@@ -51053,7 +51056,7 @@
           "Resistance (starship)"
         ],
         "gametext": "May add 2 pilots and 2 passengers. Once per game, during your move phase, may make an additional move. While [Episode VII] Chewie, [Episode VII] Han, or Rey piloting manuver = 6 and immune to attrition < 5.",
-        "lore": "-"
+        "lore": "Blank."
       },
       "pulledBy": [
         "All Wings Report In & Darklighter Spin",
@@ -55104,7 +55107,7 @@
         "uniqueness": "*",
         "destiny": 5,
         "gametext": "Deploy on table. Whenever you lost Force (except from a Force drain or your card) during opponent's control phase, unless opponent occupies more battlegrounds that you, may reduce loss (to a minimum of 1) by the number of battlegrounds you occupy. (Immune to Alter.)",
-        "lore": "-"
+        "lore": "Blank."
       },
       "pulledBy": [
         "The Signal",
