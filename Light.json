@@ -51096,18 +51096,19 @@
         "subType": "Starfighter: Heavily-Modified Light Freighter",
         "destiny": 0,
         "power": 3,
-        "maneuver": 5,
+        "maneuver": 4,
         "hyperspeed": 6,
         "landspeed": 2,
         "deploy": 0,
         "forfeit": 7,
         "icons": [
+          "Nav Computer",
           "Resistance",
           "Scomp Link",
           "Episode VII"
         ],
         "gametext": "May not be placed in Reserve Deck. If Falcon about to leave table, place it out of play. May add 2 pilots and 2 passengers. Has ship-docking capability. While [Episode VII] Han or Rey piloting, maneuver +2 and immune to attrition < 4 (< 6 if both). Once during your move phase, if at a site, may flip this card (even if unpiloted).May not be placed in Reserve Deck. If Falcon about to leave table, place it out of play. May add 2 pilots and 2 passengers. Immune to Trample and Unsalvageable, even if unpiloted. While Finn or Rey aboard, immune to attrition < 4 (< 6 if both). Once during your move phase, if piloted, may flip this card.",
-        "lore": "The Millennium Falcon's well-known reputation is favorable not only for its captain and first mate, but for the Alliance as well.Han's 'special modifications' for Millennium Falcon included security mechanisms, deflector shields, hull plating, faster hyperdrive and enhanced weapons. Enclosed."
+        "lore": "The Millennium Falcon's well-known reputation is favorable not only for its captain and first mate, but for the Alliance as well."
       },
       "back": {
         "title": "•The Falcon, Junkyard Garbage/•The Falcon, Junkyard Garbage",
@@ -51127,7 +51128,7 @@
           "Episode VII"
         ],
         "gametext": "May not be placed in Reserve Deck. If Falcon about to leave table, place it out of play. May add 2 pilots and 2 passengers. Has ship-docking capability. While [Episode VII] Han or Rey piloting, maneuver +2 and immune to attrition < 4 (< 6 if both). Once during your move phase, if at a site, may flip this card (even if unpiloted).May not be placed in Reserve Deck. If Falcon about to leave table, place it out of play. May add 2 pilots and 2 passengers. Immune to Trample and Unsalvageable, even if unpiloted. While Finn or Rey aboard, immune to attrition < 4 (< 6 if both). Once during your move phase, if piloted, may flip this card.",
-        "lore": "The Millennium Falcon's well-known reputation is favorable not only for its captain and first mate, but for the Alliance as well.Han's 'special modifications' for Millennium Falcon included security mechanisms, deflector shields, hull plating, faster hyperdrive and enhanced weapons. Enclosed."
+        "lore": "Han's 'special modifications' for Millennium Falcon included security mechanisms, deflector shields, hull plating, faster hyperdrive and enhanced weapons. Enclosed."
       },
       "legacy": false
     },
