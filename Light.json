@@ -58071,7 +58071,10 @@
         "type": "Defensive Shield",
         "uniqueness": "*",
         "destiny": 0,
-        "gametext": "Plays on table. Cancels A Dangerous Time. Each player may play only one card with 'sabacc' in title each turn. You may cancel an opponent's card with 'sabacc' in title by losing 1 Force from hand.",
+        "icons": [
+          "Reflections III"
+        ],
+        "gametext": "Plays on table. Cancels A Dangerous Time and Imperial Supply. Each player may play only one card with 'sabacc' in title each turn. You may cancel an opponent's card with 'sabacc' in title by losing 1 Force from hand.",
         "lore": "Han was not sure if Lando had forgiven him for winning the Millennium Falcon. As the old gamblers' saying about sabacc goes: 'Win the game, lose a friend.'"
       },
       "cancels": [
