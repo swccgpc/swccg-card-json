@@ -138,6 +138,7 @@
         "uniqueness": "*",
         "destiny": 0,
         "icons": [
+          "Defensive Shield",
           "Episode I"
         ],
         "gametext": "Plays on table. If you just lost a Podrace, your Force loss is limited to half the difference between the winning race total and your highest race total (round up). While you occupy three battlegrounds, Watto's Box is suspended.",
@@ -624,6 +625,7 @@
         "uniqueness": "*",
         "destiny": 0,
         "icons": [
+          "Defensive Shield",
           "Grabber",
           "Episode I"
         ],
@@ -1309,6 +1311,9 @@
         "type": "Defensive Shield",
         "destiny": 5,
         "gametext": "Plays on table. Unless Inner Strength on table, opponent may use only one combat card per turn. While opponent has 2 Dark Jedi on Naboo, you lose no more than 2 Force to Force drains at opponent's Naboo sites. Let Them Make The First Move may target only droids and spies.",
+        "icons": [
+          "Defensive Shield"
+        ],
         "lore": "'What was that?' The Jedi power known as 'affect mind' is often used to create minor distractions, allowing Jedi to elude enemies rather than engage them in battle."
       },
       "legacy": true
@@ -1324,7 +1329,10 @@
         "type": "Defensive Shield",
         "uniqueness": "*",
         "destiny": 5,
-        "gametext": "Plays on table. Bad Feeling Have I is canceled. Unless Inner Strength on table, opponent may use only one combat card per turn. Let Them Make The First Move may target only Undercover spies and R2-D2."
+        "gametext": "Plays on table. Bad Feeling Have I is canceled. Unless Inner Strength on table, opponent may use only one combat card per turn. Let Them Make The First Move may target only Undercover spies and R2-D2.",
+        "icons": [
+          "Defensive Shield"
+        ]
       },
       "counterpart": "I Find Your Lack Of Faith Disturbing (V) - Defensive Shield",
       "legacy": false
@@ -1589,6 +1597,9 @@
         "uniqueness": "*",
         "destiny": 0,
         "gametext": "Plays on table. Whenever opponent retrieves X cards, opponent must first use X Force or that retrieval is canceled. (X is equal to the full amount of Force allowed to be retrieved, regardless of the number of cards in opponent's Lost Pile.)",
+        "icons": [
+          "Defensive Shield"
+        ],
         "lore": "The destruction of a command vehicle negatively impacts Imperial battle efficiency."
       },
       "counterpart": "Secret Plans - Defensive Shield",
@@ -2714,6 +2725,7 @@
         "uniqueness": "*",
         "destiny": 0,
         "icons": [
+          "Defensive Shield",
           "Episode I"
         ],
         "gametext": "Plays on table. While opponent has a non-unique alien or non-unique starfighter in battle, opponent may not draw more than two battle destiny.",
@@ -4628,6 +4640,9 @@
         "uniqueness": "*",
         "destiny": 0,
         "gametext": "Plays on table. For either player to initiate a Force drain, that player must first use 3 Force unless that player occupies a battleground site and a battleground system.",
+        "icons": [
+          "Defensive Shield"
+        ],
         "lore": "Even though the landing of the stolen shuttle was successful, the Rebel strike team on Endor was forced to rethink their plans when Leia disappeared."
       },
       "counterpart": "Battle Order - Defensive Shield",
@@ -8086,6 +8101,9 @@
           "Cloud City"
         ],
         "gametext": "Plays on table.  Substituted battle destinies do not count against battle destiny limits.  If all your battle destinies were canceled (and not redrawn) use 1 for your total battle destiny instead.  Once per game, may play a Defensive Shield from under your Starting Effect.",
+        "icons": [
+          "Defensive Shield"
+        ],
         "lore": "At Cloud City, Luke came face to face with his own destiny. Looking into the abyss, he made his decision."
       },
       "legacy": true
@@ -14302,6 +14320,9 @@
         "uniqueness": "*",
         "destiny": 0,
         "gametext": "Plays on table. Sense and Alter are now Lost Interrupts. When any player makes a destiny draw for Sense or Alter, and that destiny draw is successful, that player loses 2 Force.",
+        "icons": [
+          "Defensive Shield"
+        ],
         "lore": "A Jedi may choose to intervene in the natural course of events, but must accept responsibility for the consequences."
       },
       "counterpart": "There Is No Try - Defensive Shield",
@@ -14423,6 +14444,7 @@
         "uniqueness": "*",
         "destiny": 0,
         "icons": [
+          "Defensive Shield",
           "Episode I"
         ],
         "gametext": "Plays on table. Once per game may take any Immediate Effect into hand from Reserve Deck; reshuffle. While opponent occupies no battleground systems, Mobilization Points is suspended.",
@@ -14503,6 +14525,7 @@
         "type": "Defensive Shield",
         "destiny": 4,
         "icons": [
+          "Defensive Shield",
           "Episode I"
         ],
         "gametext": "Plays on table. Always Thinking With Your Stomach, Ice Storm, and Sandwhirl are canceled. Once per game, may /\\ an Immediate Effect. Unless opponent occupies a battleground system, Mobilization Points is suspended.",
@@ -14521,6 +14544,7 @@
         "type": "Defensive Shield",
         "destiny": 4,
         "icons": [
+          "Defensive Shield",
           "Episode I"
         ],
         "gametext": "Plays on table. Always Thinking With Your Stomach, Ice Storm, and Sandwhirl are canceled. Once per game, may take an Immediate Effect into hand from Reserve Deck; reshuffle. Unless opponent occupies a battleground system, Mobilization Points is suspended.",
@@ -14539,6 +14563,7 @@
         "type": "Defensive Shield",
         "destiny": 0,
         "icons": [
+          "Defensive Shield",
           "Episode I"
         ],
         "gametext": "Plays on table. Always Thinking With Your Stomach, Ice Storm, and Sandwhirl are canceled. Once per game, may /\\ an Immediate Effect. Unless opponent occupies a battleground system, Mobilization Points is suspended.",
@@ -14558,6 +14583,7 @@
         "uniqueness": "*",
         "destiny": 0,
         "icons": [
+          "Defensive Shield",
           "Episode I"
         ],
         "gametext": "Plays on table. Always Thinking With Your Stomach, Ice Storm, and Sandwhirl are canceled. Once per game, may take an Immediate Effect into hand from Reserve Deck; reshuffle. Unless opponent occupies a battleground system, Mobilization Points is suspended.",
@@ -19953,7 +19979,10 @@
         "type": "Defensive Shield",
         "uniqueness": "*",
         "destiny": 0,
-        "gametext": "Plays on table. For opponent to deploy a character, starship, or vehicle for free (except by that card's own game text), opponent must first use 2 Force."
+        "gametext": "Plays on table. For opponent to deploy a character, starship, or vehicle for free (except by that card's own game text), opponent must first use 2 Force.",
+        "icons": [
+          "Defensive Shield"
+        ]
       },
       "counterpart": "Imperial Detention",
       "legacy": false
@@ -21616,6 +21645,9 @@
         "uniqueness": "*",
         "destiny": 0,
         "gametext": "Plays on table. Cancels Responsibility Of Command and You Overestimate Their Chances. While Brangus Glee on table, once per turn you may search opponent's Lost Pile and place all docking bays found there out of play.",
+        "icons": [
+          "Defensive Shield"
+        ],
         "lore": "'You can go about your business.'"
       },
       "cancels": [
@@ -21635,6 +21667,7 @@
         "type": "Defensive Shield",
         "destiny": 0,
         "icons": [
+          "Defensive Shield",
           "Reflections III"
         ],
         "gametext": "Plays on table. Cancels A Dangerous Time, Bad Feeling Have I, Responsibility Of Command and You Overestimate Their Chances. Unless [Virtual] Epic Duel on table, Force loss from epic duels is reduced to 0 and characters about to be placed out of play by a duel are instead lost.",
@@ -29081,6 +29114,9 @@
         "uniqueness": "*",
         "destiny": 0,
         "gametext": "Plays on table. While you occupy a Renegade planet location, operatives are forfeit = 0, operatives do not add to Force drains and your Force drains may not be reduced. (Renegade planet is defined on the Objective card Imperial Occupation.)",
+        "icons": [
+          "Defensive Shield"
+        ],
         "lore": "The heroes of the Rebellion know that where there is life, there is hope."
       },
       "counterpart": "Leave Them To Me - Defensive Shield",
@@ -29097,6 +29133,7 @@
         "type": "Defensive Shield",
         "destiny": 0,
         "icons": [
+          "Defensive Shield",
           "Reflections III"
         ],
         "gametext": "Plays on table. Ounee Ta is canceled. At opponent's Ralltiir and Renegade Planet sites, your Rebels are deploy -2 and your Force drains may not be modified or canceled by opponent. Your game text at opponent's <>Swamp and <>Jungle is canceled. Your characters present at opponent's <>Forest are immune to attrition.",
@@ -29134,6 +29171,7 @@
         "type": "Defensive Shield",
         "destiny": 0,
         "icons": [
+          "Defensive Shield",
           "Reflections III"
         ],
         "gametext": "Plays on table. Ounee Ta is canceled. At opponent's Ralltiir and Renegade Planet sites, your Rebels are deploy -2 and your Force drains may not be modified or canceled by opponent. Your game text at opponent's <>Swamp and <>Jungle is canceled. Your characters present at opponent's <>Forest are immune to attrition.",
@@ -36648,6 +36686,7 @@
         "uniqueness": "*",
         "destiny": 0,
         "icons": [
+          "Defensive Shield",
           "Episode I"
         ],
         "gametext": "Plays on table. For opponent to steal a weapon from target character using a non-[Episode I] card, must first draw destiny. If destiny +1 > target's ability, weapon stolen. Otherwise, attempt fails and stealing card is placed out of play.",
@@ -36953,6 +36992,9 @@
         "uniqueness": "*",
         "destiny": 0,
         "gametext": "Plays on table. At each opponent's <> site, your Rebels are each deploy -2 and your Force generation is +1.",
+        "icons": [
+          "Defensive Shield"
+        ],
         "lore": "Jabba's decadent behavior makes him susceptible to deception. Leia and Lando exploited this weakness, posing as Jabba's kind of scum."
       },
       "canceledBy": [
@@ -36971,6 +37013,7 @@
         "type": "Defensive Shield",
         "destiny": 0,
         "icons": [
+          "Defensive Shield",
           "Reflections III"
         ],
         "gametext": "Plays on table. While you occupy a Renegade planet location, operatives are forfeit = 0, operatives do not add to Force drains and your Force drains may not be reduced. Sleens do not cancel Force icons. Cannot be canceled.",
@@ -36989,6 +37032,7 @@
         "type": "Defensive Shield",
         "destiny": 0,
         "icons": [
+          "Defensive Shield",
           "Reflections III"
         ],
         "gametext": "Plays on table. While you occupy a Renegade planet location, operatives are forfeit = 0, operatives do not add to Force drains and your Force drains may not be reduced. Sleens do not cancel Force icons. Cannot be canceled.",
@@ -38219,6 +38263,7 @@
         "uniqueness": "*",
         "destiny": 0,
         "icons": [
+          "Defensive Shield",
           "Episode I"
         ],
         "gametext": "Plays on any interior site. This location may not be targeted by Proton Bombs.",
@@ -38237,6 +38282,7 @@
         "type": "Defensive Shield",
         "destiny": 0,
         "icons": [
+          "Defensive Shield",
           "Episode I",
           "Reflections III"
         ],
@@ -38257,6 +38303,7 @@
         "uniqueness": "*",
         "destiny": 0,
         "icons": [
+          "Defensive Shield",
           "Episode I",
           "Reflections III"
         ],
@@ -46712,6 +46759,7 @@
         "type": "Defensive Shield",
         "destiny": 0,
         "icons": [
+          "Defensive Shield",
           "Episode I",
           "Reflections III"
         ],
@@ -46732,6 +46780,7 @@
         "uniqueness": "*",
         "destiny": 0,
         "icons": [
+          "Defensive Shield",
           "Episode I",
           "Reflections III"
         ],
@@ -51425,7 +51474,8 @@
         "type": "Defensive Shield",
         "destiny": 0,
         "icons": [
-          "Dagobah"
+          "Dagobah",
+          "Defensive Shield"
         ],
         "gametext": "Plays on table. It Can Wait may not be played. For opponent to deploy a card with ability for free, they must first use X Force, where X = 1/2 that card's printed deploy cost (round up). For opponent to deploy a card with ability for 0 Force, they must first use 1 Force. May not be canceled.",
         "lore": "Protocol droids are programmed to interface with a variety of computer technologies. Quick and precise interpretation can dramatically increase operational efficiency."
@@ -51443,7 +51493,10 @@
         "imageUrl": "https://res.starwarsccg.org/cards/Images-HT/starwars/ResetDS-Light/large/therepublicnolongerfunctions.gif?raw=true",
         "type": "Defensive Shield",
         "destiny": 0,
-        "gametext": "Plays on table. While you have 12 or fewer cards in hand, opponent may not remove cards from your hand (except with Monnok). Once per turn (even at start of turn), may target a [Coruscant] Political Effect; it is suspended for the remainder of the turn."
+        "gametext": "Plays on table. While you have 12 or fewer cards in hand, opponent may not remove cards from your hand (except with Monnok). Once per turn (even at start of turn), may target a [Coruscant] Political Effect; it is suspended for the remainder of the turn.",
+        "icons": [
+          "Defensive Shield"
+        ]
       },
       "legacy": false
     },
@@ -51676,6 +51729,7 @@
         "destiny": 0,
         "icons": [
           "Death Star II",
+          "Defensive Shield",
           "Reflections 3"
         ],
         "gametext": "Unless you have deployed a Skywalker this game, plays on Table. 'Luke' and 'Son of Vader' on opponent's (Death Star II) cards are treated as 'Leia'and 'Lady Vader,' respectively. Once during your turn, opponent may activate 1 Force.",
@@ -51694,6 +51748,7 @@
         "type": "Defensive Shield",
         "destiny": 0,
         "icons": [
+          "Defensive Shield",
           "Reflections III"
         ],
         "gametext": "Plays on Your Destiny unless Leia or Luke has been deployed this game (even as a captive). [Death Star II] Luke and We're The Bait are lost. Opponent's Objective and [Death Star II] Effects target Leia instead of Luke. Force loss from Take Your Father's Place is -1.",
@@ -52729,6 +52784,9 @@
         "type": "Defensive Shield",
         "destiny": 3,
         "gametext": "Plays on table. 'Three' on An Unusual Amount Of Fear is treated as 'Four'. You lose no Force to Boonta Eve Podrace. Opponent's retrieval from Boonta Eve Podrace may not be canceled. While you occupy three battlegrounds, Watto's Box is suspended.",
+        "icons": [
+          "Defensive Shield"
+        ],
         "lore": "Expert traffic controllers coordinate launches faster than automated launch systems. Rebel bases scramble fighters quickly during Imperial attacks."
       },
       "legacy": true
@@ -53262,6 +53320,9 @@
         "uniqueness": "*",
         "destiny": 0,
         "gametext": "Plays on table. While you occupy at least 3 battlegrounds or opponent occupies no battlegrounds, you lose no more than 2 Force from each Force drain or 'insert' card.",
+        "icons": [
+          "Defensive Shield"
+        ],
         "lore": "'Jabba! This is your last chance. Free us or die.'"
       },
       "counterpart": "Resistance - Defensive Shield",
@@ -54345,6 +54406,7 @@
         "type": "Defensive Shield",
         "destiny": 3,
         "icons": [
+          "Defensive Shield",
           "Special Edition"
         ],
         "gametext": "Plays on table. Whenever opponent excludes any character(s) from battle, they lose 2 Force. At end of opponent's turn, if you control two battlegrounds (a site and a system) and opponent deployed a card with ability and did not inititate a battle, may retrieve 1 Force.",
@@ -55469,6 +55531,9 @@
         "uniqueness": "*",
         "destiny": 0,
         "gametext": "Plays on table. Your Immediate Effects may play for free. Whenever opponent cancels your card with Sense or Alter, place that canceled card in Used Pile.",
+        "icons": [
+          "Defensive Shield"
+        ],
         "lore": "The guidance of experienced Jedi allowed Luke to confront Vader."
       },
       "counterpart": "Oppressive Enforcement - Defensive Shield",
@@ -56742,6 +56807,9 @@
         "type": "Defensive Shield",
         "destiny": 0,
         "gametext": "Plays on table.  Colo Claw Fish is canceled.  Opponent must first use X Force to deploy a non-unique card (except a Jawa or Tusken Raider) to a location, where X = the number of copies of that card at that location.  [Reflections III] lightsaber weapon destiny draws cannot be increased above their printed value.",
+        "icons": [
+          "Defensive Shield"
+        ],
         "lore": "Rebel sentries are stationed on raised sensor platforms. On watch for Imperial scouts and other hazards, they supplement data gathered by Yavin Base's main sensors."
       },
       "legacy": true
@@ -56757,7 +56825,10 @@
         "type": "Defensive Shield",
         "uniqueness": "*",
         "destiny": 0,
-        "gametext": "Plays on table. Colo Claw Fish is canceled. Opponent must first use X Force to deploy a non-unique card (except a Jawa or Tusken Raider) to a location, where X = the number of copies of that card at that location."
+        "gametext": "Plays on table. Colo Claw Fish is canceled. Opponent must first use X Force to deploy a non-unique card (except a Jawa or Tusken Raider) to a location, where X = the number of copies of that card at that location.",
+        "icons": [
+          "Defensive Shield"
+        ]
       },
       "cancels": [
         "Colo Claw Fish"
@@ -57531,6 +57602,9 @@
         "uniqueness": "*",
         "destiny": 0,
         "gametext": "Plays on table. Cancels Scanning Crew. If an 'insert' card was just inserted or revealed, it is canceled.",
+        "icons": [
+          "Defensive Shield"
+        ],
         "lore": "Luke knew that while the dark side was quicker and more seductive, eventually evil would turn on itself."
       },
       "counterpart": "You Cannot Hide Forever - Defensive Shield",
@@ -57617,6 +57691,9 @@
           "Death Star II"
         ],
         "gametext": "Plays on table. Scanning Crew is canceled. If an 'insert' card was just inserted or revealed, it is canceled. You lose no Force to Boonta Eve Podrace, and opponent's retrieval from Boonta Eve Podrace may not be canceled. While you occupy three battlegrounds, Watto's Box is suspended.",
+        "icons": [
+          "Defensive Shield"
+        ],
         "lore": "Luke knew that while the dark side was quicker and more seductive, eventually evil would turn on itself."
       },
       "legacy": true
@@ -57632,7 +57709,8 @@
         "type": "Defensive Shield",
         "destiny": 5,
         "icons": [
-          "Death Star II"
+          "Death Star II",
+          "Defensive Shield"
         ],
         "gametext": "Plays on table. Scanning Crew is canceled. If an 'insert' card was just inserted or revealed, it is canceled. You lose no Force to Boonta Eve Podrace. While you occupy three battlegrounds, Watto's Box is suspended.",
         "lore": "Luke knew that while the dark side was quicker and more seductive, eventually evil would turn on itself."
@@ -57650,6 +57728,7 @@
         "type": "Defensive Shield",
         "destiny": 0,
         "icons": [
+          "Defensive Shield",
           "Reflections III"
         ],
         "gametext": "Plays on table. Scanning Crew is canceled. If an 'insert' card was just inserted or revealed, it is canceled. You lose no Force to Boonta Eve Podrace, and opponent's retrieval from Boonta Eve Podrace may not be canceled. While you occupy three battlegrounds, Watto's Box is suspended.",
@@ -57669,6 +57748,7 @@
         "uniqueness": "*",
         "destiny": 0,
         "icons": [
+          "Defensive Shield",
           "Reflections III"
         ],
         "gametext": "Plays on table. Scanning Crew is canceled. If an 'insert' card was just inserted or revealed, it is canceled. You lose no Force to Boonta Eve Podrace. While you occupy three battlegrounds, Watto's Box is suspended.",
@@ -57704,6 +57784,9 @@
         "uniqueness": "*",
         "destiny": 0,
         "gametext": "Plays on table. Cancels A Dangerous Time. Each player may play only one card with 'sabacc' in title each turn. You may cancel an opponent's card with 'sabacc' in title by losing 1 Force from hand.",
+        "icons": [
+          "Defensive Shield"
+        ],
         "lore": "Han was not sure if Lando had forgiven him for winning the Millennium Falcon. As the old gamblers' saying about sabacc goes: 'Win the game, lose a friend.'"
       },
       "cancels": [
@@ -58079,7 +58162,8 @@
         "uniqueness": "*",
         "destiny": 0,
         "icons": [
-          "Reflections III"
+          "Reflections III",
+          "Defensive Shield"
         ],
         "gametext": "Plays on table. Cancels A Dangerous Time and Imperial Supply. Each player may play only one card with 'sabacc' in title each turn. You may cancel an opponent's card with 'sabacc' in title by losing 1 Force from hand.",
         "lore": "Han was not sure if Lando had forgiven him for winning the Millennium Falcon. As the old gamblers' saying about sabacc goes: 'Win the game, lose a friend.'"
@@ -58462,6 +58546,9 @@
         "uniqueness": "*",
         "destiny": 0,
         "gametext": "Plays on table. Opponent's Undercover spies are immune to Nevar Yalnal. Field Promotion is canceled if on Ozzel or opponent's [Maintenance] card. If Monnok just revealed your hand, you may place up to two cards from hand in your Used Pile.",
+        "icons": [
+          "Defensive Shield"
+        ],
         "lore": "'Lord Vader, the fleet has moved out of lightspeed and we're preparing to aah . . . ukh . . . uh . . . uuuuukkk!'"
       },
       "legacy": false

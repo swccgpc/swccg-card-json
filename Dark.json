@@ -911,6 +911,9 @@
         "uniqueness": "*",
         "destiny": 0,
         "gametext": "Plays on table. Cancels Don't Underestimate Our Chances. When opponent plays an Interrupt and has 3 smugglers on table, if that Interrupt is placed in Lost Pile, place it out of play. Ketwol may exchange a docking bay only once per game.",
+        "icons": [
+          "Defensive Shield"
+        ],
         "lore": "Imperial officers aboard the Death Star considered the Rebellion a minor threat."
       },
       "cancels": [
@@ -929,6 +932,7 @@
         "type": "Defensive Shield",
         "destiny": 0,
         "icons": [
+          "Defensive Shield",
           "Grabber",
           "Reflections III"
         ],
@@ -949,6 +953,7 @@
         "uniqueness": "*",
         "destiny": 0,
         "icons": [
+          "Defensive Shield",
           "Grabber",
           "Reflections III"
         ],
@@ -1094,7 +1099,8 @@
         "type": "Defensive Shield",
         "destiny": 0,
         "icons": [
-          "Cloud City"
+          "Cloud City",
+          "Defensive Shield"
         ],
         "gametext": "Plays on table.  Substituted battle destinies do not count against battle destiny limits.  If all your battle destinies were canceled (and not redrawn) use 1 for your total battle destiny instead.  Once per game, may play a Defensive Shield from under your Starting Effect.",
         "lore": "Careless abuse of the Force by a young Jedi trainee can have dire consequences. When hanging from the weather vane of Cloud City, Luke's balance was his only hope."
@@ -1807,6 +1813,7 @@
         "type": "Defensive Shield",
         "destiny": 5,
         "icons": [
+          "Defensive Shield",
           "Episode I",
           "Theed Palace"
         ],
@@ -2228,6 +2235,7 @@
         "uniqueness": "*",
         "destiny": 0,
         "icons": [
+          "Defensive Shield",
           "Grabber",
           "Episode I"
         ],
@@ -4518,6 +4526,9 @@
         "uniqueness": "*",
         "destiny": 0,
         "gametext": "Plays on table. Unless Battle Plan on table, for either player to initiate a Force drain, that player must first use 3 Force unless that player occupies a battleground site and a battleground system.",
+        "icons": [
+          "Defensive Shield"
+        ],
         "lore": "Administration of the Imperial installation on Endor includes coordination of troops on the ground and tight security provided by the Empire's space fleet."
       },
       "counterpart": "Battle Plan - Defensive Shield",
@@ -10350,6 +10361,9 @@
         "uniqueness": "*",
         "destiny": 0,
         "gametext": "Plays on table. While you occupy a battleground and opponent occupies less than two battlegrounds, cancel: Asteroid Sanctuary, opponent's Force drains at non-battleground locations, and opponent's Force retrieval.",
+        "icons": [
+          "Defensive Shield"
+        ],
         "lore": "'Chewie! Come here!'"
       },
       "cancels": [
@@ -12634,6 +12648,9 @@
         "uniqueness": "*",
         "destiny": 0,
         "gametext": "Plays on table. S-foils and Maneuvering Flaps are suspended where you have either a weapon present or a starship (or vehicle) with maneuver > 3 present.",
+        "icons": [
+          "Defensive Shield"
+        ],
         "lore": "Scout walker pilots are trained to set up a deadly heavy fire zone. This tactic can be disrupted by enemy weapons fire."
       },
       "legacy": false
@@ -14834,6 +14851,9 @@
         "type": "Defensive Shield",
         "destiny": 0,
         "gametext": "Plays on table. Colo Claw Fish is canceled. Opponent must first use X Force to deploy a non-unique card (except a Jawa) to a location, where X = the number of copies of that card at that location.",
+        "icons": [
+          "Defensive Shield"
+        ],
         "lore": "Death Star troopers on sentry duty observe and direct incoming starships and monitor other critical sites. They perform sensor scans for life forms and weapons."
       },
       "legacy": true
@@ -14850,6 +14870,9 @@
         "uniqueness": "*",
         "destiny": 0,
         "gametext": "Plays on table. Colo Claw Fish is canceled. Opponent must first use X Force to deploy a non-unique card (except a Jawa) to a location, where X = the number of copies of that card at that location.",
+        "icons": [
+          "Defensive Shield"
+        ],
         "lore": "Death Star troopers on sentry duty observe and direct incoming starships and monitor other critical sites. They perform sensor scans for life forms and weapons."
       },
       "counterpart": "Yavin Sentry (V)",
@@ -16714,6 +16737,7 @@
         "uniqueness": "*",
         "destiny": 0,
         "icons": [
+          "Defensive Shield",
           "Grabber"
         ],
         "gametext": "Plays on table. If opponent just retrieved Force using an Interrupt or Utinni Effect, you may place that card here. Opponent's Force retrieval is reduced by X, where X = number of cards here.",
@@ -16732,6 +16756,7 @@
         "type": "Defensive Shield",
         "destiny": 0,
         "icons": [
+          "Defensive Shield",
           "Reflections III",
           "Grabber"
         ],
@@ -16751,6 +16776,7 @@
         "type": "Defensive Shield",
         "destiny": 0,
         "icons": [
+          "Defensive Shield",
           "Reflections III",
           "Grabber"
         ],
@@ -20098,6 +20124,7 @@
         "uniqueness": "*",
         "destiny": 0,
         "icons": [
+          "Defensive Shield",
           "Episode I"
         ],
         "gametext": "Plays on table. Cancels Order To Engage and Scramble. Once per game you may take any Immediate Effect into hand from Reserve Deck; reshuffle. While opponent occupies no battleground systems, Staging Areas is suspended.",
@@ -20193,6 +20220,7 @@
         "type": "Defensive Shield",
         "destiny": 4,
         "icons": [
+          "Defensive Shield",
           "Episode I"
         ],
         "gametext": "Plays on table. Cancels Order To Engage and Scramble. Once per game, may take an Immediate Effect in to hand from Reserve Deck; reshuffle. While opponent occupies no battleground systems, Staging Areas is suspended. 'Missing' on Lost In The Wilderness is treated as 'landspeed = 0 for remainder of turn.'",
@@ -20211,6 +20239,7 @@
         "type": "Defensive Shield",
         "destiny": 0,
         "icons": [
+          "Defensive Shield",
           "Episode I"
         ],
         "gametext": "Plays on table. Ice Storm, Lost In The Wilderness, Order To Engage, Sandwhirl, and Scramble are canceled. Once per game, may take an Immediate Effect into hand from Reserve Deck; reshuffle. Unless opponent occupies a battleground system, Staging Areas is suspended.",
@@ -20229,6 +20258,7 @@
         "type": "Defensive Shield",
         "destiny": 0,
         "icons": [
+          "Defensive Shield",
           "Episode I"
         ],
         "gametext": "Plays on table. Ice Storm, Lost In The Wilderness, Order To Engage, Sandwhirl, and Scramble are canceled. Once per game, may /\\ an Immediate Effect. Unless opponent occupies a battleground system, Staging Areas is suspended.",
@@ -20248,6 +20278,7 @@
         "uniqueness": "*",
         "destiny": 0,
         "icons": [
+          "Defensive Shield",
           "Episode I"
         ],
         "gametext": "Plays on table. Ice Storm, Lost In The Wilderness, Order To Engage, Sandwhirl, and Scramble are canceled. Once per game, may take an Immediate Effect into hand from Reserve Deck; reshuffle. Unless opponent occupies a battleground system, Staging Areas is suspended.",
@@ -20641,6 +20672,7 @@
         "type": "Defensive Shield",
         "destiny": 3,
         "icons": [
+          "Defensive Shield",
           "Special Edition"
         ],
         "gametext": "Plays on table. If opponent moves from a location you occupy during your turn, they lose 2 Force. At end of opponent's turn, if you control two battlegrounds (a site and system) and opponent deployed a card with ability and did not initiate a battle, you may retrieve 1 Force.",
@@ -24829,6 +24861,9 @@
         "type": "Defensive Shield",
         "destiny": 5,
         "gametext": "Plays on table. Unless Deep Hatred on table, opponent may use only one combat card per turn. While opponent has two Jedi on Naboo, you lose no more than 2 Force to Force drains at opponent's Naboo sites. We'll Handle This may target only droids and spies.",
+        "icons": [
+          "Defensive Shield"
+        ],
         "lore": "Darth Vader ruthlessly used the Force to strike down enemies and soldiers who displeased him. He could choke victims from afar without touching them."
       },
       "legacy": true
@@ -24843,7 +24878,10 @@
         "imageUrl": "https://res.starwarsccg.org/cards/Images-HT/starwars/ResetDS-Dark/large/ifindyourlackoffaithdisturbing.gif?raw=true",
         "type": "Defensive Shield",
         "destiny": 5,
-        "gametext": "Plays on table. Goo Nee Tay is canceled. Unless Deep Hatred on table, opponent may use only one combat card per turn. We'll Handle This may target only Undercover spies and 5D6-RA-7."
+        "gametext": "Plays on table. Goo Nee Tay is canceled. Unless Deep Hatred on table, opponent may use only one combat card per turn. We'll Handle This may target only Undercover spies and 5D6-RA-7.",
+        "icons": [
+          "Defensive Shield"
+        ]
       },
       "counterpart": "Affect Mind (V) - Defensive Shield",
       "cancels": [
@@ -26316,6 +26354,7 @@
         "type": "Defensive Shield",
         "destiny": 0,
         "icons": [
+          "Defensive Shield",
           "Reflections III"
         ],
         "gametext": "Play on table. I'd Just As Soon Kiss A Wookiee may not be played. For opponent to deploy a card with ability for free, they must first use X Force, where X = 1/2 that card's printed deploy cost (round up). For opponent to deploy a card with ability for 0 Force, they must first use 1 Force.",
@@ -26334,6 +26373,7 @@
         "type": "Defensive Shield",
         "destiny": 0,
         "icons": [
+          "Defensive Shield",
           "Reflections III"
         ],
         "gametext": "Plays on table. For opponent to deploy a character, starship, or vehicle for free (except by that card's own game text), opponent must first use 2 Force."
@@ -31166,6 +31206,9 @@
         "uniqueness": "*",
         "destiny": 0,
         "gametext": "Plays on table. While you occupy a Subjugated planet location, operatives are forfeit = 0, operatives do not add to Force drains, and your Force drains may not be reduced. (Subjugated planet is defined on the Objective card Local Uprising.)",
+        "icons": [
+          "Defensive Shield"
+        ],
         "lore": "'I will deal with them myself.'"
       },
       "counterpart": "Let's Keep A Little Optimism Here - Defensive Shield",
@@ -31182,6 +31225,7 @@
         "type": "Defensive Shield",
         "destiny": 0,
         "icons": [
+          "Defensive Shield",
           "Reflections III"
         ],
         "gametext": "Plays on table. At opponent's Dantooine and Subjugated Planet sites, your Imperials are deploy -2 and your Force drains may not be modified or canceled by opponent. Your game text at opponent's <>Swamp and <>Jungle is canceled. Your characters present at opponent's <>Forest are immune to attrition.",
@@ -31200,6 +31244,7 @@
         "type": "Defensive Shield",
         "destiny": 0,
         "icons": [
+          "Defensive Shield",
           "Reflections III"
         ],
         "gametext": "Plays on table. At opponent's Dantooine and Subjugated Planet sites, your Imperials are deploy -2 and your Force drains may not be modified or canceled by opponent. Your game text at opponent's <>Swamp and <>Jungle is canceled. Your characters present at opponent's <>Forest are immune to attrition.",
@@ -36322,6 +36367,9 @@
         "uniqueness": "*",
         "destiny": 0,
         "gametext": "Plays on table. At opponent's <> site where opponent's creature present, you may deploy without presence or Force icons, and your Force generation there is +1.",
+        "icons": [
+          "Defensive Shield"
+        ],
         "lore": "Jabba's influence is not easily ignored. Neither are his voracious and vile appetites. Even Jedi soon learn this lesson."
       },
       "legacy": false
@@ -36337,6 +36385,7 @@
         "type": "Defensive Shield",
         "destiny": 0,
         "icons": [
+          "Defensive Shield",
           "Reflections III"
         ],
         "gametext": "Plays on table. While you occupy a Subjugated Planet location, operatives are forfeit = 0, operatives do not add to Force drains, and your Force drains may not be reduced. Nudjs do not cancel Force icons.",
@@ -36355,6 +36404,7 @@
         "type": "Defensive Shield",
         "destiny": 0,
         "icons": [
+          "Defensive Shield",
           "Reflections III"
         ],
         "gametext": "Plays on table. While you occupy a Subjugated Planet location, operatives are forfeit = 0, operatives do not add to Force drains, and your Force drains may not be reduced. Nudjs do not cancel Force icons.",
@@ -37575,6 +37625,9 @@
         "uniqueness": "*",
         "destiny": 0,
         "gametext": "Plays on table. Your Immediate Effects may play for free. Whenever opponent cancels your card with Sense or Alter, place that canceled card in Used Pile.",
+        "icons": [
+          "Defensive Shield"
+        ],
         "lore": "The Imperial fleet keeps a tight grip on the systems under its control. Abuses and excesses by local citizens are not tolerated."
       },
       "counterpart": "Wise Advice - Defensive Shield",
@@ -40366,6 +40419,9 @@
         "type": "Defensive Shield",
         "destiny": 3,
         "gametext": "Plays on table. 'Three' on Fear Is My Ally is treated as 'Four'. You lose no Force to Boonta Eve Podrace. Opponent's retrieval from Boonta Eve Podrace may not be canceled. While you occupy more battlegrounds than opponent, I Did It! is suspended.",
+        "icons": [
+          "Defensive Shield"
+        ],
         "lore": "The Death Star has many terminals coupled to the main reactor for power distribution throughout the immense space station."
       },
       "legacy": true
@@ -40763,6 +40819,9 @@
         "uniqueness": "*",
         "destiny": 0,
         "gametext": "Plays on table. While you occupy at least 3 battlegrounds or opponent occupies no battlegrounds, you lose no more than 2 Force from each Force drain or 'insert' card.",
+        "icons": [
+          "Defensive Shield"
+        ],
         "lore": "Oola had to choose between giving in to Jabba's constant advances or resisting him and inciting his wrath."
       },
       "counterpart": "Ultimatum - Defensive Shield",
@@ -42588,6 +42647,9 @@
         "uniqueness": "*",
         "destiny": 0,
         "gametext": "Plays on table. If opponent is about to retrieve X Force, opponent must first use X Force or that retrieval is canceled. (X is equal to the full amount of Force allowed to be retrieved, regardless of the number of cards in opponent's Lost Pile.)",
+        "icons": [
+          "Defensive Shield"
+        ],
         "lore": "Imperial computer systems are equipped with complex algorithms designed to prevent access by unauthorized users."
       },
       "counterpart": "Aim High - Defensive Shield",
@@ -49202,6 +49264,9 @@
         "uniqueness": "*",
         "destiny": 0,
         "gametext": "Plays on table. Sense and Alter are now Lost Interrupts. When any player makes a destiny draw for Sense or Alter, and that destiny draw is successful, that player loses 2 Force.",
+        "icons": [
+          "Defensive Shield"
+        ],
         "lore": "'Always with you what cannot be done.'"
       },
       "counterpart": "Do, Or Do Not - Defensive Shield",
@@ -53023,7 +53088,10 @@
         "type": "Defensive Shield",
         "uniqueness": "*",
         "destiny": 0,
-        "gametext": "Plays on table. While you have 12 or fewer cards in hand, opponent may not remove cards from your hand (except with Grimtaash). Once per turn (even at start of turn), may target a [Coruscant] Political Effect; it is suspended for the remainder of the turn."
+        "gametext": "Plays on table. While you have 12 or fewer cards in hand, opponent may not remove cards from your hand (except with Grimtaash). Once per turn (even at start of turn), may target a [Coruscant] Political Effect; it is suspended for the remainder of the turn.",
+        "icons": [
+          "Defensive Shield"
+        ]
       },
       "counterpart": "The Republic No Longer Functions",
       "legacy": false
@@ -53655,6 +53723,7 @@
         "uniqueness": "*",
         "destiny": 0,
         "icons": [
+          "Defensive Shield",
           "Episode I"
         ],
         "gametext": "Plays on table. For opponent to steal a weapon from target character using a non-[Episode I] card, must first draw destiny. If destiny +1 > target's ability, weapon is stolen. Otherwise, attempt fails and stealing card is placed out of play.",
@@ -53923,6 +53992,7 @@
         "uniqueness": "*",
         "destiny": 0,
         "icons": [
+          "Defensive Shield",
           "Episode I"
         ],
         "gametext": "Plays on table. Cancels Frozen Assets and Beggar. Each player may play only one card with 'sabacc' in title each turn. You may cancel an opponent's card with 'sabacc' in title by losing 1 Force from hand.",
@@ -53945,6 +54015,7 @@
         "type": "Defensive Shield",
         "destiny": 0,
         "icons": [
+          "Defensive Shield",
           "Episode I",
           "Reflections III"
         ],
@@ -54313,6 +54384,7 @@
         "uniqueness": "*",
         "destiny": 0,
         "icons": [
+          "Defensive Shield",
           "Episode I"
         ],
         "gametext": "Plays on table. While opponent has a non-unique alien or non-unique starfighter in battle, opponent may not draw more than two battle destiny.",
@@ -55033,6 +55105,9 @@
         "uniqueness": "*",
         "destiny": 0,
         "gametext": "Plays on table. If an 'insert' card was just inserted or revealed, it is canceled.",
+        "icons": [
+          "Defensive Shield"
+        ],
         "lore": "'Give yourself to the dark side. It is the only way you can save your friends.'"
       },
       "counterpart": "Your Insight Serves You Well - Defensive Shield",
@@ -55116,6 +55191,7 @@
         "type": "Defensive Shield",
         "destiny": 0,
         "icons": [
+          "Defensive Shield",
           "Reflections III"
         ],
         "gametext": "Plays on table. If an 'insert' card was just inserted or revealed, it is canceled. You lose no Force to Boonta Eve Podrace, and opponent's retrieval from Boonta Eve Podrace may not be canceled. While you occupy more battlegrounds than opponent, I Did It! is suspended.",
@@ -55134,6 +55210,7 @@
         "type": "Defensive Shield",
         "destiny": 0,
         "icons": [
+          "Defensive Shield",
           "Reflections III"
         ],
         "gametext": "Plays on table. If an 'insert' card was just inserted or revealed, it is canceled. You lose no Force to Boonta Eve Podrace. While you occupy more battlegrounds than opponent, I Did It! is suspended.",
@@ -55152,6 +55229,7 @@
         "type": "Defensive Shield",
         "destiny": 0,
         "icons": [
+          "Defensive Shield",
           "Reflections III"
         ],
         "gametext": "Plays on table. If an 'insert' card was just inserted or revealed, it is canceled. You lose no Force to Boonta Eve Podrace, and opponent's retrieval from Boonta Eve Podrace may not be canceled. While you occupy more battlegrounds than opponent, I Did It! is suspended.",
@@ -55171,6 +55249,7 @@
         "uniqueness": "*",
         "destiny": 0,
         "icons": [
+          "Defensive Shield",
           "Reflections III"
         ],
         "gametext": "Plays on table. If an 'insert' card was just inserted or revealed, it is canceled. You lose no Force to Boonta Eve Podrace. While you occupy more battlegrounds than opponent, I Did It! is suspended.",
@@ -55565,6 +55644,7 @@
         "uniqueness": "*",
         "destiny": 0,
         "icons": [
+          "Defensive Shield",
           "Episode I"
         ],
         "gametext": "Plays on table. Unless opponent occupies three battlegrounds, I Did It! is suspended. If Sebulba's Podracer on table, your Force loss from Boonta Eve Podrace is reduced by X, where X = number of battlegrounds you occupy.",
@@ -56418,6 +56498,9 @@
         "uniqueness": "*",
         "destiny": 0,
         "gametext": "Plays on table. Opponent's Undercover spies are immune to Double Agent. While a Jedi Test on table, Projection Of A Skywalker is canceled. If Grimtaash just revealed your hand, you may place up to two cards from hand in your Used Pile.",
+        "icons": [
+          "Defensive Shield"
+        ],
         "lore": "'That place is strong with the dark side of the Force. A domain of evil it is. In you must go.'"
       },
       "legacy": false
