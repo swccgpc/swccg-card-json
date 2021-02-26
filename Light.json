@@ -3959,7 +3959,8 @@
         "imageUrl": "https://res.starwarsccg.org/cards/Images-HT/starwars/ANewHope-Light/large/attackrun.gif?raw=true",
         "type": "Epic Event",
         "uniqueness": "*",
-        "destiny": "0"
+        "destiny": "0",
+        "gametext": "Deploy on Death Star: Trench. During your move phase, you may make an Attack Run as follows: Enter Trench: Move up to 3 of your starfighters into trench (for free). Dark Side may immediately follow with up to 3 TIEs (for free). Provide Cover: Identify your lead starfighter (Proton Torpedoes* required) and wingmen (if any). Turbolaser Batteries and TIEs with weapons may now target your starfighters (wingmen first, then lead if no wingmen remaining). Hit starfighters are immediately lost. It's Away!: Draw two destiny. Pull Up!: All starfighters now move to Death Star system (for free). If (total destiny + X + Y - Z) > 15, Death Star is 'blown away.' X = ability of lead pilot (or 3 if Targeting Computer aboard) just before Pull Up!. Y = total sites at largest Rebel Base (Yavin 4 or Hoth). Z = highest ability of opponent's TIE pilots in trench just before Pull Up!. *Your Proton Torpedoes are immune to Overload."
       },
       "combo": [
         "Attack Run + Great Shot, Kid!"
@@ -4687,7 +4688,8 @@
           "Permanent Weapon",
           "Warrior"
         ],
-        "gametext": "If about to be lost, may fire Baze's Cannon. Permanent weapon is •Baze's Cannon (may target a character for free; draw destiny;  add 1 if targeting a character of ability < 3; target hit, and it's forfeit = 0, if destiny +1 > defense value)."
+        "gametext": "If about to be lost, may fire Baze's Cannon. Permanent weapon is •Baze's Cannon (may target a character for free; draw destiny;  add 1 if targeting a character of ability < 3; target hit, and it's forfeit = 0, if destiny +1 > defense value).",
+        "lore": "Blank."
       },
       "legacy": false
     },
@@ -8771,7 +8773,8 @@
         "icons": [
           "Warrior"
         ],
-        "gametext": "If a battle was just inititaed here, may peek at the top card of any Reserve Desk; return it or place it on top of owner's Force Pile. If just lost, may take into hand from reserve deck; reshuffle or retrieve Baze. Once per game, you may re-circulate."
+        "gametext": "If a battle was just inititaed here, may peek at the top card of any Reserve Desk; return it or place it on top of owner's Force Pile. If just lost, may take into hand from reserve deck; reshuffle or retrieve Baze. Once per game, you may re-circulate.",
+        "lore": "Blank."
       },
       "legacy": false
     },
@@ -9160,7 +9163,8 @@
           "Episode I",
           "Clone Army"
         ],
-        "gametext": "Deploys free to same site as your [Clone Army]: general, leader, or Padawan. Once during battle, if firing a blaster, may cancel and redraw your just drawn weapon destiny. While with your clone, draws one battle destiny if unable to otherwise."
+        "gametext": "Deploys free to same site as your [Clone Army]: general, leader, or Padawan. Once during battle, if firing a blaster, may cancel and redraw your just drawn weapon destiny. While with your clone, draws one battle destiny if unable to otherwise.",
+        "lore": "Blank."
       },
       "legacy": false
     },
@@ -14568,7 +14572,7 @@
           "Defensive Shield",
           "Episode I"
         ],
-        "gametext": "Plays on table. Once per game, may take an Immediate Effect into hand from Reserve Deck; reshuffle. While opponent occupies no battleground systems, Mobilization Points is suspended. 'Missing' on Always Thinking With Your Stomach is treated as 'landspeed = 0 for remainder of turn.'",
+        "gametext": "Plays on table. Always Thinking With Your Stomach, Ice Storm, and Sandwhirl are canceled. Once per game, may take an Immediate Effect into hand from Reserve Deck; reshuffle. Unless opponent occupies a battleground system, Mobilization Points is suspended.",
         "lore": "The Jedi won't tolerate silly behavior for very long."
       },
       "pulls": [
@@ -24916,20 +24920,25 @@
         "deploy": "0",
         "forfeit": "0",
         "gametext": "Jabba's Prize is a Light Side card and does not count toward your deck limit. Reveal to opponent when deploying your Starting Effect. For remainder of game, you may not deploy [Maintenance] Falcon. {Deploys only at start of game if Jabba's Prize is at Security Tower (replaces opponent's Jabba's Prize imprisoned in Security Tower); otherwise place out of play.} May not be placed in Reserve Deck. Jabba's Prize is a persona of Corran Horn only while on table. If Jabba's Prize was just released or leaves table, place it out of play. While Jabba's Prize at Audience Chamber, opponent's battle destiny draws there are +1.",
-        "lore": "Blank."
+        "lore": "Blank.",
+        "extraText": [
+          "Carbon-Frozen"
+        ]
       },
       "back": {
         "title": "•Jabba's Prize/Jabba's Prize",
         "imageUrl": "https://res.starwarsccg.org/cards/Images-HT/starwars/Virtual0-Light/large/jabbasprizeback.gif?raw=true",
         "type": "Character",
         "subType": "Rebel",
-        "destiny": "7",
         "power": "0",
         "ability": "0",
         "deploy": "0",
         "forfeit": "0",
         "gametext": "Jabba's Prize is a Light Side card and does not count toward your deck limit. Reveal to opponent when deploying your Starting Effect. For remainder of game, you may not deploy [Maintenance] Falcon. {Deploys only at start of game if Jabba's Prize is at Security Tower (replaces opponent's Jabba's Prize imprisoned in Security Tower); otherwise place out of play.} May not be placed in Reserve Deck. Jabba's Prize is a persona of Corran Horn only while on table. If Jabba's Prize was just released or leaves table, place it out of play. While Jabba's Prize at Audience Chamber, opponent's battle destiny draws there are +1.",
-        "lore": "Blank."
+        "lore": "Blank.",
+        "extraText": [
+          "Carbon-Frozen"
+        ]
       },
       "legacy": false
     },
@@ -31991,7 +32000,8 @@
           "Episode VII",
           "Warrior"
         ],
-        "gametext": "May deploy -2 as a react to an [Episode VII] site. At the end of each turn, you must use 2 Force, lose 2 Force, or return Ematt to your hand."
+        "gametext": "May deploy -2 as a react to an [Episode VII] site. At the end of each turn, you must use 2 Force, lose 2 Force, or return Ematt to your hand.",
+        "lore": "Blank."
       },
       "legacy": false
     },
@@ -32191,7 +32201,8 @@
           "Episode VII",
           "Warrior"
         ],
-        "gametext": "If oppnent just looked at cards in their deck or pile, after replacing, you may peek at the top card of that deck or pile. At the start of your control phase, if the top card of your lost pile is a Resistance character or [Restistance] starship, opponent loses 1 Force."
+        "gametext": "If oppnent just looked at cards in their deck or pile, after replacing, you may peek at the top card of that deck or pile. At the start of your control phase, if the top card of your lost pile is a Resistance character or [Restistance] starship, opponent loses 1 Force.",
+        "lore": "Blank."
       },
       "legacy": false
     },
@@ -39246,7 +39257,8 @@
           "Rebel (starship)",
           "ship-docking capability"
         ],
-        "gametext": "Deploys -2 to a system opponent occupies (-4 if opponent's system). May add 6 pilots, 8 passengers, 3 starfighters, 3 vehicles, and 1 corvette. Permanent pilot provides ability of 2."
+        "gametext": "Deploys -2 to a system opponent occupies (-4 if opponent's system). May add 6 pilots, 8 passengers, 3 starfighters, 3 vehicles, and 1 corvette. Permanent pilot provides ability of 2.",
+        "lore": "Blank."
       },
       "pulledBy": [
         "Rebellions Are Built On Hope"
@@ -43597,7 +43609,7 @@
         "icons": [
           "Episode I"
         ],
-        "gametext": "Use 5 Force to reveal opponent's hand. If opponent has no duplicate cards there, place this Interrupt in Used Pile. Otherwise USED: place a card revealed in opponent's Used Pile,LOST: all cards opponent has two or more of are lost. (Immune to Sense.)",
+        "gametext": "Use 5 Force to reveal opponent's hand. If opponent has no duplicate cards there, place this Interrupt in Used Pile. Otherwise USED: place a card revealed in opponent's Used Pile, LOST: all cards opponent has two or more of are lost. (Immune to Sense.)",
         "lore": "Darth Maul was eager to make his presence known."
       },
       "counterpart": "Kill Them Immediately",
@@ -44251,7 +44263,8 @@
         "characteristics": [
           "Rebel (starship)"
         ],
-        "gametext": "May add 2 pilots and 4 passengers. May deploy with a pilot to a system without presence or Force icons. Spies deploy -1 aboard. Immune to attrition < 6 at opponent system (unless a Dark Jedi here)."
+        "gametext": "May add 2 pilots and 4 passengers. May deploy with a pilot to a system without presence or Force icons. Spies deploy -1 aboard. Immune to attrition < 6 at opponent system (unless a Dark Jedi here).",
+        "lore": "Blank."
       },
       "pulledBy": [
         "All Wings Report In & Darklighter Spin"
@@ -45190,7 +45203,9 @@
           "Planet"
         ],
         "gametext": "Light:  While Rogue One is piloted by a Rebel here, it is immune to attrition.  Dark:  Unless your Star Destroyer here (or your Imperial at a related location), Force drain -1 here.",
-        "parsec": "7"
+        "parsec": "7",
+        "lightSideIcons": 2,
+        "darkSideIcons": 1
       },
       "legacy": false
     },
@@ -45209,7 +45224,9 @@
           "Exterior",
           "Planet"
         ],
-        "gametext": "Light:  Your combat vehicles, scouts, and spies are each power +1 here. Force drain +1 here.  Dark:  Your combat vehicles and Imperial troopers are each forfeit +1 here."
+        "gametext": "Light:  Your combat vehicles, scouts, and spies are each power +1 here. Force drain +1 here.  Dark:  Your combat vehicles and Imperial troopers are each forfeit +1 here.",
+        "lightSideIcons": 2,
+        "darkSideIcons": 1
       },
       "legacy": false
     },
@@ -45229,7 +45246,9 @@
           "Planet",
           "Scomp Link"
         ],
-        "gametext": "Light:  While opponent occupies, Stardust (and any character it is on) may not move from here.  Dark:  All immunity to attrition (and Ephant Mon's game text) here is canceled."
+        "gametext": "Light:  While opponent occupies, Stardust (and any character it is on) may not move from here.  Dark:  All immunity to attrition (and Ephant Mon's game text) here is canceled.",
+        "lightSideIcons": 1,
+        "darkSideIcons": 1
       },
       "legacy": false
     },
@@ -45249,7 +45268,9 @@
           "Planet",
           "Scomp Link"
         ],
-        "gametext": "Light:  Your docking bay transit to or from here requires +1 Force (+4 Force if Shield Gate on table).  Dark:  Your docking bay transit from here requires 2 Force. Your combat vehicles deploy +1 here."
+        "gametext": "Light:  Your docking bay transit to or from here requires +1 Force (+4 Force if Shield Gate on table).  Dark:  Your docking bay transit from here requires 2 Force. Your combat vehicles deploy +1 here.",
+        "lightSideIcons": 1,
+        "darkSideIcons": 1
       },
       "legacy": false
     },
@@ -45270,7 +45291,9 @@
           "Planet",
           "Scomp Link"
         ],
-        "gametext": "Light:  During your move phase, may move free between here and any related site.  Dark:  If you initiate a Force drain here, may rotate this site. Immune to Expand the Empire."
+        "gametext": "Light:  During your move phase, may move free between here and any related site.  Dark:  If you initiate a Force drain here, may rotate this site. Immune to Expand the Empire.",
+        "lightSideIcons": 1,
+        "darkSideIcons": 1
       },
       "legacy": false
     },
@@ -49859,7 +49882,7 @@
         ],
         "lightSideIcons": 1,
         "darkSideIcons": 1,
-        "gametext": "Light:  -  Dark:  Total ability of 6 or more required for you to draw battle destiny here."
+        "gametext": "Light:  Blank.  Dark:  Total ability of 6 or more required for you to draw battle destiny here."
       },
       "pulledBy": [
         "A Weakness Can Be Found",
@@ -51066,7 +51089,7 @@
           "Resistance (starship)"
         ],
         "gametext": "May add 2 pilots and 2 passengers. Once per game, during your move phase, may make an additional move. While [Episode VII] Chewie, [Episode VII] Han, or Rey piloting manuver = 6 and immune to attrition < 5.",
-        "lore": "-"
+        "lore": "Blank."
       },
       "pulledBy": [
         "All Wings Report In & Darklighter Spin",
@@ -51103,18 +51126,19 @@
         "subType": "Starfighter: Heavily-Modified Light Freighter",
         "destiny": "0",
         "power": "3",
-        "maneuver": "5",
+        "maneuver": "4",
         "hyperspeed": "6",
         "landspeed": "2",
         "deploy": "0",
         "forfeit": "7",
         "icons": [
+          "Nav Computer",
           "Resistance",
           "Scomp Link",
           "Episode VII"
         ],
         "gametext": "May not be placed in Reserve Deck. If Falcon about to leave table, place it out of play. May add 2 pilots and 2 passengers. Has ship-docking capability. While [Episode VII] Han or Rey piloting, maneuver +2 and immune to attrition < 4 (< 6 if both). Once during your move phase, if at a site, may flip this card (even if unpiloted).May not be placed in Reserve Deck. If Falcon about to leave table, place it out of play. May add 2 pilots and 2 passengers. Immune to Trample and Unsalvageable, even if unpiloted. While Finn or Rey aboard, immune to attrition < 4 (< 6 if both). Once during your move phase, if piloted, may flip this card.",
-        "lore": "The Millennium Falcon's well-known reputation is favorable not only for its captain and first mate, but for the Alliance as well.Han's 'special modifications' for Millennium Falcon included security mechanisms, deflector shields, hull plating, faster hyperdrive and enhanced weapons. Enclosed."
+        "lore": "The Millennium Falcon's well-known reputation is favorable not only for its captain and first mate, but for the Alliance as well."
       },
       "back": {
         "title": "•The Falcon, Junkyard Garbage/•The Falcon, Junkyard Garbage",
@@ -51134,7 +51158,7 @@
           "Episode VII"
         ],
         "gametext": "May not be placed in Reserve Deck. If Falcon about to leave table, place it out of play. May add 2 pilots and 2 passengers. Has ship-docking capability. While [Episode VII] Han or Rey piloting, maneuver +2 and immune to attrition < 4 (< 6 if both). Once during your move phase, if at a site, may flip this card (even if unpiloted).May not be placed in Reserve Deck. If Falcon about to leave table, place it out of play. May add 2 pilots and 2 passengers. Immune to Trample and Unsalvageable, even if unpiloted. While Finn or Rey aboard, immune to attrition < 4 (< 6 if both). Once during your move phase, if piloted, may flip this card.",
-        "lore": "The Millennium Falcon's well-known reputation is favorable not only for its captain and first mate, but for the Alliance as well.Han's 'special modifications' for Millennium Falcon included security mechanisms, deflector shields, hull plating, faster hyperdrive and enhanced weapons. Enclosed."
+        "lore": "Han's 'special modifications' for Millennium Falcon included security mechanisms, deflector shields, hull plating, faster hyperdrive and enhanced weapons. Enclosed."
       },
       "legacy": false
     },
@@ -55130,7 +55154,7 @@
         "uniqueness": "*",
         "destiny": "5",
         "gametext": "Deploy on table. Whenever you lost Force (except from a Force drain or your card) during opponent's control phase, unless opponent occupies more battlegrounds that you, may reduce loss (to a minimum of 1) by the number of battlegrounds you occupy. (Immune to Alter.)",
-        "lore": "-"
+        "lore": "Blank."
       },
       "pulledBy": [
         "The Signal",
@@ -56592,6 +56616,8 @@
           "Exterior",
           "Planet"
         ],
+        "lightSideIcons": 2,
+        "darkSideIcons": 2,
         "gametext": "Light:  If Yavin 4 'blown away', Force loss is reduced by 4.  Dark:  If Yavin 4 system on table, Force drain -1 here."
       },
       "legacy": false
@@ -57838,7 +57864,7 @@
         "icons": [
           "Jabba's Palace"
         ],
-        "gametext": "Deploys free to (and power +2 at) a Cloud City, Jabba's Palace, or Maz's Palace location. Once per turn, if you just drew an alien (or [Independent] starship) for destiny, may take that card into hand to cancel and redraw that destiny.",
+        "gametext": "Deploys free to (and power +2 at) a Cloud City, Jabba's Palace, or Maz's Castle location. Once per turn, if you just drew an alien (or [Independent] starship) for destiny, may take that card into hand to cancel and redraw that destiny.",
         "lore": "Male Ugnaught. Left Cloud City after the Empire took control. Works for Hermi Odle, helping to supply him with various weaponry. Hopes to someday return to Cloud City."
       },
       "legacy": false
@@ -58114,9 +58140,10 @@
         "uniqueness": "*",
         "destiny": "0",
         "icons": [
+          "Reflections III",
           "Defensive Shield"
         ],
-        "gametext": "Plays on table. Cancels A Dangerous Time. Each player may play only one card with 'sabacc' in title each turn. You may cancel an opponent's card with 'sabacc' in title by losing 1 Force from hand.",
+        "gametext": "Plays on table. Cancels A Dangerous Time and Imperial Supply. Each player may play only one card with 'sabacc' in title each turn. You may cancel an opponent's card with 'sabacc' in title by losing 1 Force from hand.",
         "lore": "Han was not sure if Lando had forgiven him for winning the Millennium Falcon. As the old gamblers' saying about sabacc goes: 'Win the game, lose a friend.'"
       },
       "cancels": [
@@ -58808,6 +58835,64 @@
         "destiny": "5",
         "gametext": "Ewok weapon. Deploy on your warrior or Ewok. May 'throw' (place in Used Pile) to target a character. For remainder of turn, target is power -3 (and if Proxima, she cannot battle). If on a Corellian and a battle just initiated at same site, may 'throw' Rock.",
         "lore": "Blank"
+      },
+      "legacy": false
+    },
+    {
+      "id": 6848,
+      "side": "Light",
+      "rarity": "U1",
+      "set": "Virtual Premium Set",
+      "front": {
+        "title": "•Red 12",
+        "imageUrl": "https://res.starwarsccg.org/cards/Images-HT/starwars/VirtualPremium-Light/large/red12.gif?raw=true",
+        "type": "Starship",
+        "subType": "Starfighter: X-Wing",
+        "uniqueness": "*",
+        "destiny": "2",
+        "power": "3",
+        "maneuver": "4",
+        "hyperspeed": "5",
+        "deploy": "2",
+        "forfeit": "4",
+        "icons": [
+          "Nav Computer"
+        ],
+        "characteristics": [
+          "Rebel (starship)"
+        ],
+        "gametext": "May add 1 pilot. If Puck Naeco piloting, he may be placed in Used Pile instead of Lost Pile when he is forfeited. Immune to attrition < 4.",
+        "lore": "Blank."
+      },
+      "pulledBy": [
+        "All Wings Report In & Darklighter Spin"
+      ],
+      "matching": [
+        "Puck"
+      ],
+      "legacy": false
+    },
+    {
+      "id": 6849,
+      "side": "Light",
+      "rarity": "C2",
+      "set": "Virtual Premium Set",
+      "front": {
+        "title": "•Puck",
+        "imageUrl": "https://res.starwarsccg.org/cards/Images-HT/starwars/VirtualPremium-Light/large/puck.gif?raw=true",
+        "type": "Character",
+        "subType": "Rebel",
+        "destiny": null,
+        "power": "2",
+        "ability": "2",
+        "deploy": "2",
+        "forfeit": "4",
+        "icons": [
+          "Pilot",
+          "Warrior"
+        ],
+        "gametext": "Adds 2 to power of anything he pilots. When choosing the destiny value of this card, must use 3 Force to choose 7. May deploy as a 'react.' Your Rebel pilots aboard snub fighters here are forfeit +1.",
+        "lore": "Puck Naeco. Green and Red Squadron."
       },
       "legacy": false
     }
