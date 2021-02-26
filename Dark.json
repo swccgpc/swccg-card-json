@@ -56964,6 +56964,200 @@
         "lore": "Docking bay security officer. Leader. Honored for bravery aboard the Star Destroyer Thunderflare where he rescued five officers from the wreckage of a shuttle crash."
       },
       "legacy": false
+    },
+    {
+      "id": 6853,
+      "side": "Dark",
+      "rarity": "R",
+      "set": "First Anthology",
+      "front": {
+        "title": "•Boba Fett",
+        "imageUrl": "https://res.starwarsccg.org/cards/Images-HT/starwars/FirstAnthology-Dark/large/bobafett.gif?raw=true",
+        "type": "Character",
+        "subType": "Alien",
+        "uniqueness": "*",
+        "destiny": "1",
+        "power": "3",
+        "ability": "2",
+        "armor": "5",
+        "deploy": "5",
+        "forfeit": "4",
+        "icons": [
+          "Pilot",
+          "Warrior"
+        ],
+        "characteristics": [
+          "Black Sun agent",
+          "bounty hunter"
+        ],
+        "gametext": "Adds 2 to power and 1 to maneuver of anything he pilots. May deploy -1 as a 'react' to same site as a gangster or smuggler. When firing weapons, any 'hit' characters are forfeit = 0. May 'fly' (landspeed = 3). Immune to attrition < 3.",
+        "lore": "Infamous bounty hunter. Hired to help Jabba intimidate debtors and smugglers. Crack shot. Mandalorian armor and jet pack provide protection and flight capability."
+      },
+      "pulledBy": [
+        "Double Back",
+        "Double Back (V)"
+      ],
+      "combo": [
+        "Boba Fett + Lyn Me Free deployment of Boba Fett at her site.",
+        " Boba Fett + Res Luk Ra'auf Add two battle destinies if Boba Fett is defending a battle alone."
+      ],
+      "matching": [
+        "Slave I",
+        "Slave I",
+        "Symbol of Fear"
+      ],
+      "matchingWeapon": [
+        "Boba Fett's Blaster Rifle",
+        "Boba Fett's Blaster Rifle (V)"
+      ],
+      "legacy": false
+    },
+    {
+      "id": 6854,
+      "side": "Dark",
+      "rarity": "R",
+      "set": "First Anthology",
+      "front": {
+        "title": "•Death Star Assault Squadron",
+        "imageUrl": "https://res.starwarsccg.org/cards/Images-HT/starwars/FirstAnthology-Dark/large/deathstarassaultsquadron.gif?raw=true",
+        "type": "Starship",
+        "subType": "Squadron: 1 TIE Advanced x1 2 TIE/LNS",
+        "uniqueness": "*",
+        "destiny": "1",
+        "power": "3",
+        "maneuver": "3",
+        "deploy": "12",
+        "forfeit": "10",
+        "icons": [
+          "Vader",
+          "Pilot x2"
+        ],
+        "characteristics": [
+          "Imperial (starship)"
+        ],
+        "gametext": "Permanent pilots aboard are •Darth Vader, •DS-61-2 and •DS-61-3, who provide total ability of 10 and add 9 to total power of •Vader's Custom TIE, •Black 2 and •Black 3.",
+        "lore": "Notoriety gained during the assaults on Ralltiir and Mon Calamari makes this the most feared squadron in the Empire. Defended the Death Star during the Battle of Yavin.",
+        "extraText": [
+          "No Hyperdrive"
+        ]
+      },
+      "pulledBy": [
+        "Set Your Course For Alderaan/The Ultimate Power In The Universe"
+      ],
+      "legacy": false
+    },
+    {
+      "id": 6855,
+      "side": "Dark",
+      "rarity": "R",
+      "set": "First Anthology",
+      "front": {
+        "title": "•Jabba's Influence",
+        "imageUrl": "https://res.starwarsccg.org/cards/Images-HT/starwars/FirstAnthology-Dark/large/jabbasinfluence.gif?raw=true",
+        "type": "Effect",
+        "uniqueness": "*",
+        "destiny": "3",
+        "gametext": "Deploy on one of your gangsters or bounty hunters. Once during each of your control phases, if present with an opponent's smuggler or character of ability = 1, may use 3 Force. Opponent must use 5 Force or that character returns to opponent's hand.",
+        "lore": "Jabba makes offers one cannot refuse. Smugglers, thieves and competitors who do not acquiesce have been rumored to wake up with a bantha's head in their bed."
+      },
+      "pulledBy": [
+        "Desilijic Tattoo",
+        "Trophy Of A Bounty Hunter (V)",
+        "Twi'lek Advisor",
+        "We Must Accelerate Our Plans"
+      ],
+      "legacy": false
+    },
+    {
+      "id": 6859,
+      "side": "Dark",
+      "rarity": "R",
+      "set": "Second Anthology",
+      "front": {
+        "title": "•Flagship Operations",
+        "imageUrl": "https://res.starwarsccg.org/cards/Images-HT/starwars/SecondAnthology-Dark/large/flagshipoperations.gif?raw=true",
+        "type": "Effect",
+        "uniqueness": "*",
+        "destiny": "5",
+        "gametext": "Deploy on any Star Destroyer if at least 5 Executor sites on table. Your TIEs are deploy -1, forfeit +2 and destiny +2. At systems where you have a TIE, your Imperial capital starships are deploy -3 and your battle destiny draws are +1 each. (If on Executor, immune to Alter.)",
+        "lore": "'There's too many of them!'"
+      },
+      "pulledBy": [
+        "Twi'lek Advisor",
+        "We Must Accelerate Our Plans",
+        "You Cannot Hide Forever",
+        "You Cannot Hide Forever & Mobilization Points"
+      ],
+      "combo": [
+        "Flagship Operations + Flagship Executor"
+      ],
+      "legacy": false
+    },
+    {
+      "id": 6860,
+      "side": "Dark",
+      "rarity": "R",
+      "set": "Second Anthology",
+      "front": {
+        "title": "•Sarlacc",
+        "imageUrl": "https://res.starwarsccg.org/cards/Images-HT/starwars/SecondAnthology-Dark/large/sarlacc.gif?raw=true",
+        "type": "Creature",
+        "subType": "Ancient Desert",
+        "uniqueness": "*",
+        "destiny": "2",
+        "power": "*",
+        "deploy": "4",
+        "forfeit": "0",
+        "characteristics": [
+          "ferocious"
+        ],
+        "gametext": "* Ferocity = 4 + destiny. Habitat: Great Pit Of Carkoon. If Sarlacc eats a captive, may retrieve 1 Force for each of your aliens here. Anything eaten by Sarlacc is placed out of play.",
+        "lore": "Very patient predator in the Dune Sea. Tentacles can grab prey up to four meters away. Digests victims for 1000 years. Often fed prisoners by Jabba the Hutt.",
+        "extraText": [
+          "TENTACLES: 12"
+        ]
+      },
+      "legacy": false
+    },
+    {
+      "id": 6861,
+      "side": "Dark",
+      "rarity": "R",
+      "set": "Second Anthology",
+      "front": {
+        "title": "•Thunderflare",
+        "imageUrl": "https://res.starwarsccg.org/cards/Images-HT/starwars/SecondAnthology-Dark/large/thunderflare.gif?raw=true",
+        "type": "Starship",
+        "subType": "Capital: Imperial-Class Star Destroyer",
+        "uniqueness": "*",
+        "destiny": "1",
+        "power": "9",
+        "armor": "6",
+        "hyperspeed": "2",
+        "deploy": "7",
+        "forfeit": "7",
+        "icons": [
+          "Pilot",
+          "Nav Computer",
+          "Scomp Link"
+        ],
+        "characteristics": [
+          "Imperial (starship)",
+          "ship-docking capability"
+        ],
+        "gametext": "May add 6 pilots, 8 passengers, 2 vehicles and 4 TIEs. Has ship-docking capability. Permanent pilot aboard provides ability of 1. Turbolaser Batteries deploy and fire free here.",
+        "lore": "Overpowered Star Destroyer. Energy is transferred from hyperdrive to weapons. Patrol duties in the Core Worlds make it a common first assignment for junior officers."
+      },
+      "pulledBy": [
+        "Commander Nemet (V)",
+        "Kuat Drive Yards"
+      ],
+      "combo": [
+        "Thunderflare + Turbloaser Battery",
+        " Thunderflare + Heavy Turbloaser Battery",
+        " THunderflare + Imperial Helmsman Draw one battle destiny if not able to otherwise."
+      ],
+      "legacy": false
     }
   ]
 }

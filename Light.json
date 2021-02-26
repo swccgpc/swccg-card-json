@@ -45202,10 +45202,10 @@
         "icons": [
           "Planet"
         ],
-        "gametext": "Light:  While Rogue One is piloted by a Rebel here, it is immune to attrition.  Dark:  Unless your Star Destroyer here (or your Imperial at a related location), Force drain -1 here.",
-        "parsec": "7",
         "lightSideIcons": 2,
-        "darkSideIcons": 1
+        "darkSideIcons": 1,
+        "gametext": "Light:  While Rogue One is piloted by a Rebel here, it is immune to attrition.  Dark:  Unless your Star Destroyer here (or your Imperial at a related location), Force drain -1 here.",
+        "parsec": "7"
       },
       "legacy": false
     },
@@ -45224,9 +45224,9 @@
           "Exterior",
           "Planet"
         ],
-        "gametext": "Light:  Your combat vehicles, scouts, and spies are each power +1 here. Force drain +1 here.  Dark:  Your combat vehicles and Imperial troopers are each forfeit +1 here.",
         "lightSideIcons": 2,
-        "darkSideIcons": 1
+        "darkSideIcons": 1,
+        "gametext": "Light:  Your combat vehicles, scouts, and spies are each power +1 here. Force drain +1 here.  Dark:  Your combat vehicles and Imperial troopers are each forfeit +1 here."
       },
       "legacy": false
     },
@@ -45246,9 +45246,9 @@
           "Planet",
           "Scomp Link"
         ],
-        "gametext": "Light:  While opponent occupies, Stardust (and any character it is on) may not move from here.  Dark:  All immunity to attrition (and Ephant Mon's game text) here is canceled.",
         "lightSideIcons": 1,
-        "darkSideIcons": 1
+        "darkSideIcons": 1,
+        "gametext": "Light:  While opponent occupies, Stardust (and any character it is on) may not move from here.  Dark:  All immunity to attrition (and Ephant Mon's game text) here is canceled."
       },
       "legacy": false
     },
@@ -45268,9 +45268,9 @@
           "Planet",
           "Scomp Link"
         ],
-        "gametext": "Light:  Your docking bay transit to or from here requires +1 Force (+4 Force if Shield Gate on table).  Dark:  Your docking bay transit from here requires 2 Force. Your combat vehicles deploy +1 here.",
         "lightSideIcons": 1,
-        "darkSideIcons": 1
+        "darkSideIcons": 1,
+        "gametext": "Light:  Your docking bay transit to or from here requires +1 Force (+4 Force if Shield Gate on table).  Dark:  Your docking bay transit from here requires 2 Force. Your combat vehicles deploy +1 here."
       },
       "legacy": false
     },
@@ -45291,9 +45291,9 @@
           "Planet",
           "Scomp Link"
         ],
-        "gametext": "Light:  During your move phase, may move free between here and any related site.  Dark:  If you initiate a Force drain here, may rotate this site. Immune to Expand the Empire.",
         "lightSideIcons": 1,
-        "darkSideIcons": 1
+        "darkSideIcons": 1,
+        "gametext": "Light:  During your move phase, may move free between here and any related site.  Dark:  If you initiate a Force drain here, may rotate this site. Immune to Expand the Empire."
       },
       "legacy": false
     },
@@ -58882,7 +58882,6 @@
         "imageUrl": "https://res.starwarsccg.org/cards/Images-HT/starwars/VirtualPremium-Light/large/puck.gif?raw=true",
         "type": "Character",
         "subType": "Rebel",
-        "destiny": null,
         "power": "2",
         "ability": "2",
         "deploy": "2",
@@ -58894,6 +58893,210 @@
         "gametext": "Adds 2 to power of anything he pilots. When choosing the destiny value of this card, must use 3 Force to choose 7. May deploy as a 'react.' Your Rebel pilots aboard snub fighters here are forfeit +1.",
         "lore": "Puck Naeco. Green and Red Squadron."
       },
+      "legacy": false
+    },
+    {
+      "id": 6850,
+      "side": "Light",
+      "rarity": "R",
+      "set": "First Anthology",
+      "front": {
+        "title": "•Commander Wedge Antilles",
+        "imageUrl": "https://res.starwarsccg.org/cards/Images-HT/starwars/FirstAnthology-Light/large/commanderwedgeantilles.gif?raw=true",
+        "type": "Character",
+        "subType": "Rebel",
+        "uniqueness": "*",
+        "destiny": "3",
+        "power": "3",
+        "ability": "2",
+        "deploy": "3",
+        "forfeit": "6",
+        "icons": [
+          "Pilot",
+          "Warrior"
+        ],
+        "characteristics": [
+          "commander",
+          "leader",
+          "Corellian",
+          "Rogue Squadron pilot"
+        ],
+        "gametext": "Adds 3 to power of anything he pilots. When piloting Rogue 3, also adds 2 to maneuver and draws battle destiny if not able to otherwise. May use 2 Force to take one One More Pass into hand from Reserve Deck; reshuffle.",
+        "lore": "Promoted to commander for his heroism in the Battle of Yavin. Leader in charge of training new pilots assigned to Echo Base. Piloted Rogue 3 in the battle of Hoth."
+      },
+      "pulls": [
+        "One More Pass"
+      ],
+      "pulledBy": [
+        "Beldon's Eye (V)",
+        "Echo Base Garrison",
+        "Princess Organa",
+        "Yavin 4: Massassi War Room (V)"
+      ],
+      "matching": [
+        "Pulsar Skate",
+        "Red 2",
+        "Red Squadron 1",
+        "Rogue 3"
+      ],
+      "legacy": false
+    },
+    {
+      "id": 6851,
+      "side": "Light",
+      "rarity": "R",
+      "set": "First Anthology",
+      "front": {
+        "title": "•Hit And Run",
+        "imageUrl": "https://res.starwarsccg.org/cards/Images-HT/starwars/FirstAnthology-Light/large/hitandrun.gif?raw=true",
+        "type": "Interrupt",
+        "subType": "Lost",
+        "uniqueness": "*",
+        "destiny": "3",
+        "gametext": "Just after the weapons segment of a battle, you may move any or all of your starships there away. ('Hit' cards must still be lost.)",
+        "lore": "Many pilots for the Rebellion learned their skills using modified T- 47s and other airspeeders. Being able to weave in and out of combat has become second nature to them."
+      },
+      "legacy": false
+    },
+    {
+      "id": 6852,
+      "side": "Light",
+      "rarity": "R",
+      "set": "First Anthology",
+      "front": {
+        "title": "X-wing Assault Squadron",
+        "imageUrl": "https://res.starwarsccg.org/cards/Images-HT/starwars/FirstAnthology-Light/large/xwingassaultsquadron.gif?raw=true",
+        "type": "Starship",
+        "subType": "Squadron: X-Wing",
+        "destiny": "2",
+        "power": "9",
+        "maneuver": "4",
+        "hyperspeed": "5",
+        "deploy": "*",
+        "forfeit": "12",
+        "icons": [
+          "Pilot x3",
+          "Nav Computer x3",
+          "Scomp Link x3"
+        ],
+        "characteristics": [
+          "Rebel (starship)"
+        ],
+        "gametext": "*Replaces 3 X-wings at one location (X-wings go to Used Pile). Permanent pilots provide total ability of 3.",
+        "lore": "A squadron of X-wings ran interference for Y-wings during their assault on the Death Star. Keeping a tight formation dramatically increased the squadron's efficiency."
+      },
+      "legacy": false
+    },
+    {
+      "id": 6856,
+      "side": "Light",
+      "rarity": "R",
+      "set": "Second Anthology",
+      "front": {
+        "title": "Mon Calamari Star Cruiser",
+        "imageUrl": "https://res.starwarsccg.org/cards/Images-HT/starwars/SecondAnthology-Light/large/moncalamaristarcruiser.gif?raw=true",
+        "type": "Starship",
+        "subType": "Capital: Mon Calamari Star Cruiser",
+        "destiny": "1",
+        "power": "7",
+        "armor": "5",
+        "hyperspeed": "3",
+        "deploy": "8",
+        "forfeit": "9",
+        "icons": [
+          "Pilot",
+          "Nav Computer",
+          "Scomp Link"
+        ],
+        "characteristics": [
+          "Rebel (starship)",
+          "ship-docking capability"
+        ],
+        "gametext": "Deploys only at Mon Calamari or any Rebel Base. May add 5 pilots, 6 passengers, 1 vehicle and 3 starfighters. Has ship-docking capability. Permanent pilot aboard provides ability of 2.",
+        "lore": "Mon Cal MC80 cruiser. Originally a civilian ship. Converted to military use following the liberation of Mon Calamari from the Empire."
+      },
+      "combo": [
+        "Mon Calamari Star Cruiser + Staging Areas"
+      ],
+      "legacy": false
+    },
+    {
+      "id": 6857,
+      "side": "Light",
+      "rarity": "R",
+      "set": "Second Anthology",
+      "front": {
+        "title": "•Mon Mothma",
+        "imageUrl": "https://res.starwarsccg.org/cards/Images-HT/starwars/SecondAnthology-Light/large/monmothma.gif?raw=true",
+        "type": "Character",
+        "subType": "Rebel",
+        "uniqueness": "*",
+        "destiny": "1",
+        "power": "2",
+        "ability": "3",
+        "deploy": "5",
+        "forfeit": "8",
+        "characteristics": [
+          "leader",
+          "senator",
+          "female"
+        ],
+        "gametext": "While at your war room, subtracts 1 from each opponent's battle destiny at all system locations and adds 2 to forfeit of all non-unique rebels. During your deploy phase, may deploy one non-unique Rebel from Reserve Deck and reshuffle.",
+        "lore": "Native of Chandrila. Leader of the Alliance. A former member of the Imperial Senate where she was a formidable opponent of then-Senator Palpatine. Friend of Bail Organa.",
+        "extraText": [
+          "Force-Attuned"
+        ]
+      },
+      "pulls": [
+        "Corellia Operative",
+        "Dresselian Commando",
+        "Echo Base Trooper",
+        "Echo Base Trooper Officer",
+        "Endor Scout Trooper",
+        "Gray Squadron Y-wing Pilot",
+        "Green Squadron Pilot",
+        "Incom Engineer",
+        "Mon Calamari Admiral",
+        "Rebel Commander",
+        "Rebel Guard",
+        "Rebel Pilot",
+        "Rebel Scout",
+        "Rebel Squad Leader",
+        "Rebel Tech",
+        "Rebel Trooper",
+        "Rebel Trooper Recruit",
+        "Rogue Gunner",
+        "Tauntaun Handler",
+        "Yavin 4 Trooper"
+      ],
+      "pulledBy": [
+        "Might Of The Republic",
+        "Strike Planning",
+        "Yavin 4: Massassi War Room (V)"
+      ],
+      "combo": [
+        "Mon Mothma + Chandrila Mon Mothma deploys -2 at any Chandrila location."
+      ],
+      "legacy": false
+    },
+    {
+      "id": 6858,
+      "side": "Light",
+      "rarity": "R",
+      "set": "Second Anthology",
+      "front": {
+        "title": "•Rapid Deployment",
+        "imageUrl": "https://res.starwarsccg.org/cards/Images-HT/starwars/SecondAnthology-Light/large/rapiddeployment.gif?raw=true",
+        "type": "Interrupt",
+        "subType": "Lost",
+        "uniqueness": "*",
+        "destiny": "5",
+        "gametext": "At the beginning of your deploy phase, if you occupy an Endor or rebel base site, deploy up to 5 troopers there from Reserve Deck(those troopers deploy -1) and reshuffle. You may not deploy any other characters or starships this turn.",
+        "lore": "General Solo's strike team was made up of the Alliance's finest ground troops."
+      },
+      "pulls": [
+        "Up to 5 Troopers at deploy cost -1"
+      ],
       "legacy": false
     }
   ]
