@@ -1,217 +1,380 @@
 [
   {
-    "id": 1,
+    "id": "1",
     "name": "Premiere",
-    "gempName": "Premiere"
+    "gempName": "Premiere",
+    "abbr": "P",
+    "legacy": false
   },
   {
-    "id": 101,
+    "id": "101",
     "name": "Premiere Introductory Two Player Game",
-    "gempName": "Premiere 2-Player"
+    "gempName": "Premiere 2-Player",
+    "abbr": "P2P",
+    "legacy": false
   },
   {
-    "id": 102,
+    "id": "102",
     "name": "Jedi Pack",
-    "gempName": "Jedi Pack"
+    "gempName": "Jedi Pack",
+    "abbr": "J",
+    "legacy": false
   },
   {
-    "id": 103,
+    "id": "103",
     "name": "Rebel Leader Pack",
-    "gempName": "Rebel Leader"
+    "gempName": "Rebel Leader",
+    "abbr": "RLP",
+    "legacy": false
   },
   {
-    "id": 2,
+    "id": "2",
     "name": "A New Hope",
-    "gempName": "A New Hope"
+    "gempName": "A New Hope",
+    "abbr": "ANH",
+    "legacy": false
   },
   {
-    "id": 3,
+    "id": "3",
     "name": "Hoth",
-    "gempName": "Hoth"
+    "gempName": "Hoth",
+    "abbr": "H",
+    "legacy": false
   },
   {
-    "id": 104,
+    "id": "104",
     "name": "Empire Strikes Back Introductory Two Player Game",
-    "gempName": "ESB 2-Player"
+    "gempName": "ESB 2-Player",
+    "abbr": "ESB2P",
+    "legacy": false
   },
   {
-    "id": 4,
+    "id": "4",
     "name": "Dagobah",
-    "gempName": "Dagobah"
+    "gempName": "Dagobah",
+    "abbr": "DAG",
+    "legacy": false
   },
   {
-    "id": 105,
+    "id": "105",
     "name": "First Anthology",
-    "gempName": "1st Anthology"
+    "gempName": "1st Anthology",
+    "abbr": "1A",
+    "legacy": false
   },
   {
-    "id": 5,
+    "id": "5",
     "name": "Cloud City",
-    "gempName": "Cloud City"
+    "gempName": "Cloud City",
+    "abbr": "CC",
+    "legacy": false
   },
   {
-    "id": 6,
+    "id": "6",
     "name": "Jabba's Palace",
-    "gempName": "Jabba's Palace"
+    "gempName": "Jabba's Palace",
+    "abbr": "JP",
+    "legacy": false
   },
   {
-    "id": 106,
+    "id": "106",
     "name": "Official Tournament Sealed Deck",
-    "gempName": "Sealed Deck"
+    "gempName": "Sealed Deck",
+    "abbr": "OTSD",
+    "legacy": false
   },
   {
-    "id": 107,
+    "id": "107",
     "name": "Second Anthology",
-    "gempName": "2nd Anthology"
+    "gempName": "2nd Anthology",
+    "abbr": "2A",
+    "legacy": false
   },
   {
-    "id": 7,
+    "id": "7",
     "name": "Special Edition",
-    "gempName": "Special Edition"
+    "gempName": "Special Edition",
+    "abbr": "SE",
+    "legacy": false
   },
   {
-    "id": 108,
+    "id": "108",
     "name": "Enhanced Premiere",
-    "gempName": "Enhanced Premiere Pack"
+    "gempName": "Enhanced Premiere Pack",
+    "abbr": "EP",
+    "legacy": false
   },
   {
-    "id": 8,
+    "id": "8",
     "name": "Endor",
-    "gempName": "Endor"
+    "gempName": "Endor",
+    "abbr": "EDR",
+    "legacy": false
   },
   {
-    "id": 109,
+    "id": "109",
     "name": "Enhanced Cloud City",
-    "gempName": "Enhanced Cloud City"
+    "gempName": "Enhanced Cloud City",
+    "abbr": "ECC",
+    "legacy": false
   },
   {
-    "id": 110,
+    "id": "110",
     "name": "Enhanced Jabba's Palace",
-    "gempName": "Enhanced Jabba's Palace"
+    "gempName": "Enhanced Jabba's Palace",
+    "abbr": "EJP",
+    "legacy": false
   },
   {
-    "id": 111,
+    "id": "111",
     "name": "Third Anthology",
-    "gempName": "3rd Anthology"
+    "gempName": "3rd Anthology",
+    "abbr": "3A",
+    "legacy": false
   },
   {
-    "id": 9,
+    "id": "9",
     "name": "Death Star II",
-    "gempName": "Death Star II"
+    "gempName": "Death Star II",
+    "abbr": "DS2",
+    "legacy": false
   },
   {
-    "id": 112,
+    "id": "112",
     "name": "Jabba's Palace Sealed Deck",
-    "gempName": "Jabba's Palace Sealed Deck"
+    "gempName": "Jabba's Palace Sealed Deck",
+    "abbr": "JPSD",
+    "legacy": false
   },
   {
-    "id": 10,
+    "id": "10",
     "name": "Reflections II",
-    "gempName": "Reflections II"
+    "gempName": "Reflections II",
+    "abbr": "Ref2",
+    "legacy": false
   },
   {
-    "id": 11,
+    "id": "11",
     "name": "Tatooine",
-    "gempName": "Tatooine"
+    "gempName": "Tatooine",
+    "abbr": "TAT",
+    "legacy": false
   },
   {
-    "id": 12,
+    "id": "12",
     "name": "Coruscant",
-    "gempName": "Coruscant"
+    "gempName": "Coruscant",
+    "abbr": "COR",
+    "legacy": false
   },
   {
-    "id": 13,
+    "id": "13",
     "name": "Reflections III",
-    "gempName": "Reflections III"
+    "gempName": "Reflections III",
+    "abbr": "Ref3",
+    "legacy": false
   },
   {
-    "id": 14,
+    "id": "14",
     "name": "Theed Palace",
-    "gempName": "Theed Palace"
+    "gempName": "Theed Palace",
+    "abbr": "TP",
+    "legacy": false
   },
   {
-    "id": 200,
+    "id": "200",
     "name": "Virtual Set 0",
-    "gempName": "Set 0"
+    "gempName": "Set 0",
+    "abbr": "V0",
+    "legacy": false
   },
   {
-    "id": 201,
+    "id": "201",
     "name": "Virtual Set 1",
-    "gempName": "Set 1"
+    "gempName": "Set 1",
+    "abbr": "V1",
+    "legacy": false
   },
   {
-    "id": 202,
+    "id": "202",
     "name": "Virtual Set 2",
-    "gempName": "Set 2"
+    "gempName": "Set 2",
+    "abbr": "V2",
+    "legacy": false
   },
   {
-    "id": 203,
+    "id": "203",
     "name": "Virtual Set 3",
-    "gempName": "Set 3"
+    "gempName": "Set 3",
+    "abbr": "V3",
+    "legacy": false
   },
   {
-    "id": 204,
+    "id": "204",
     "name": "Virtual Set 4",
-    "gempName": "Set 4"
+    "gempName": "Set 4",
+    "abbr": "V4",
+    "legacy": false
   },
   {
-    "id": 205,
+    "id": "205",
     "name": "Virtual Set 5",
-    "gempName": "Set 5"
+    "gempName": "Set 5",
+    "abbr": "V5",
+    "legacy": false
   },
   {
-    "id": 206,
+    "id": "206",
     "name": "Virtual Set 6",
-    "gempName": "Set 6"
+    "gempName": "Set 6",
+    "abbr": "V6",
+    "legacy": false
   },
   {
-    "id": 207,
+    "id": "207",
     "name": "Virtual Set 7",
-    "gempName": "Set 7"
+    "gempName": "Set 7",
+    "abbr": "V7",
+    "legacy": false
   },
   {
-    "id": 208,
+    "id": "208",
     "name": "Virtual Set 8",
-    "gempName": "Set 8"
+    "gempName": "Set 8",
+    "abbr": "V8",
+    "legacy": false
   },
   {
-    "id": 209,
+    "id": "209",
     "name": "Virtual Set 9",
-    "gempName": "Set 9"
+    "gempName": "Set 9",
+    "abbr": "V9",
+    "legacy": false
   },
   {
-    "id": 210,
+    "id": "210",
     "name": "Virtual Set 10",
-    "gempName": "Set 10"
+    "gempName": "Set 10",
+    "abbr": "V10",
+    "legacy": false
   },
   {
-    "id": 211,
+    "id": "211",
     "name": "Virtual Set 11",
-    "gempName": "Set 11"
+    "gempName": "Set 11",
+    "abbr": "V11",
+    "legacy": false
   },
   {
-    "id": 212,
+    "id": "212",
     "name": "Virtual Set 12",
-    "gempName": "Set 12"
+    "gempName": "Set 12",
+    "abbr": "V12",
+    "legacy": false
   },
   {
-    "id": 213,
+    "id": "213",
     "name": "Virtual Set 13",
-    "gempName": "Set 13"
+    "gempName": "Set 13",
+    "abbr": "V13",
+    "legacy": false
   },
   {
-    "id": 301,
+    "id": "301",
     "name": "Demo Deck",
-    "gempName": "Virtual Premium Set"
+    "gempName": "Virtual Premium Set",
+    "abbr": "VPS",
+    "legacy": false
   },
   {
-    "id": 401,
+    "id": "401",
     "name": "Dream Cards",
-    "gempName": "Dream Cards"
+    "gempName": "Dream Cards",
+    "abbr": "DC",
+    "legacy": false
   },
   {
-    "id": 501,
+    "id": "501",
     "name": "Playtesting",
-    "gempName": "Playtesting"
+    "gempName": "Playtesting",
+    "abbr": "PT",
+    "legacy": false
+  },
+  {
+    "id": "200d",
+    "name": "Virtual Defensive Shields",
+    "gempName": "Set D",
+    "abbr": "VDS",
+    "legacy": false
+  },
+  {
+    "id": "1001",
+    "name": "Virtual Block 1",
+    "gempName": "Block 1",
+    "abbr": "VB1",
+    "legacy": true
+  },
+  {
+    "id": "1002",
+    "name": "Virtual Block 2",
+    "gempName": "Block 2",
+    "abbr": "VB2",
+    "legacy": true
+  },
+  {
+    "id": "1003",
+    "name": "Virtual Block 3",
+    "gempName": "Block 3",
+    "abbr": "VB3",
+    "legacy": true
+  },
+  {
+    "id": "1004",
+    "name": "Virtual Block 4",
+    "gempName": "Block 4",
+    "abbr": "VB4",
+    "legacy": true
+  },
+  {
+    "id": "1005",
+    "name": "Virtual Block 5",
+    "gempName": "Block 5",
+    "abbr": "VB5",
+    "legacy": true
+  },
+  {
+    "id": "1006",
+    "name": "Virtual Block 6",
+    "gempName": "Block 6",
+    "abbr": "VB6",
+    "legacy": true
+  },
+  {
+    "id": "1007",
+    "name": "Virtual Block 7",
+    "gempName": "Block 7",
+    "abbr": "VB7",
+    "legacy": true
+  },
+  {
+    "id": "1008",
+    "name": "Virtual Block 8",
+    "gempName": "Block 8",
+    "abbr": "VB8",
+    "legacy": true
+  },
+  {
+    "id": "1009",
+    "name": "Virtual Block 9",
+    "gempName": "Block 9",
+    "abbr": "VB9",
+    "legacy": true
+  },
+  {
+    "id": "1000d",
+    "name": "Virtual Block Shields",
+    "gempName": "Block D",
+    "abbr": "VBDS",
+    "legacy": true
   }
 ]
