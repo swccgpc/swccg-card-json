@@ -36,22 +36,28 @@ Basically anything you could want to search for, it should be in here.
 ## What Does It Look Like?
 Here's a sample of Darth Vader from the Premiere Set:
 ```
-{
+    {
       "id": 634,
+      "gempId": "1_168",
       "side": "Dark",
       "rarity": "R1",
-      "set": "Premiere",
+      "set": "1",
+      "printings": [
+        {
+          "set": "1"
+        }
+      ],
       "front": {
         "title": "•Darth Vader",
         "imageUrl": "https://res.starwarsccg.org/cards/Premiere-Dark/large/darthvader.gif",
         "type": "Character",
         "subType": "Imperial",
         "uniqueness": "*",
-        "destiny": 1,
-        "power": 6,
-        "ability": 6,
-        "deploy": 6,
-        "forfeit": 8,
+        "destiny": "1",
+        "power": "6",
+        "ability": "6",
+        "deploy": "6",
+        "forfeit": "8",
         "icons": [
           "Pilot",
           "Warrior"
@@ -82,8 +88,9 @@ Here's a sample of Darth Vader from the Premiere Set:
         "Darth Vader's Lightsaber",
         "Darth Vader's Lightsaber (V)",
         "Vader's Lightsaber"
-      ]
-}
+      ],
+      "legacy": false
+    }
 ```
 
 
