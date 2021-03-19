@@ -24384,14 +24384,14 @@
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual1-Dark/large/imperialentanglements.gif",
         "type": "Objective",
         "destiny": "0",
-        "gametext": "Imperial Entanglements:Deploy Tatooine system (with Devastator there) and a Tatooine battleground site.{For} remainder of game, you may not deploy Intensify The Forward Batteries, Sandwhirl, Jabba's Palace sites, non-Imperial characters, non-Imperial starships, or systems.{While} this side up, opponent loses no Force to Tatooine Occupation or your Force drains at Tatooine system. Once per turn, may deploy a Tatooine battleground site from Reserve Deck; reshuffle.{Flip} this card if you control three Tatooine sites and opponent controls fewer than three Tatooine sites.No One To Stop Us This Time:{While} this side up, once during your control phase, may peek at up to X cards from the top of your Reserve Deck, where X = number of Tatooine locations you occupy; take one into hand and shuffle your Reserve Deck. Once per turn, may deploy a Tatooine battleground site from Reserve Deck; reshuffle. Opponent's characters require +1 Force to move from Tatooine sites using their landspeed. During your draw phase, you may retrieve one trooper.{Flip} this card if opponent controls more Tatooine sites than you."
+        "gametext": "Imperial Entanglements: Deploy Tatooine system (with Devastator there) and a Tatooine battleground site.{For} remainder of game, you may not deploy Sandwhirl, Admiral's Orders, Jabba's Palace sites, non-Imperial characters, non-Imperial starships, or systems. {While} this side up, opponent loses no Force to Tatooine Occupation or your Force drains at Tatooine system. Once per turn, may deploy a Tatooine battleground site from Reserve Deck; reshuffle.{Flip} this card if you control three Tatooine sites and opponent controls fewer than three Tatooine sites. No One To Stop Us This Time: {While} this side up, once during your control phase, may peek at up to X cards from the top of your Reserve Deck, where X = number of Tatooine locations you occupy; take one into hand and shuffle your Reserve Deck. Once per turn, may deploy a Tatooine battleground site from Reserve Deck; reshuffle. Opponent's characters require +1 Force to move from Tatooine sites using their landspeed. During your draw phase, you may retrieve one trooper.{Flip} this card if opponent controls more Tatooine sites than you."
       },
       "back": {
         "title": "Imperial Entanglements / No One To Stop Us This Time",
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual1-Dark/large/noonetostopusthistime.gif",
         "type": "Objective",
         "destiny": "7",
-        "gametext": "Imperial Entanglements:Deploy Tatooine system (with Devastator there) and a Tatooine battleground site.{For} remainder of game, you may not deploy Intensify The Forward Batteries, Sandwhirl, Jabba's Palace sites, non-Imperial characters, non-Imperial starships, or systems.{While} this side up, opponent loses no Force to Tatooine Occupation or your Force drains at Tatooine system. Once per turn, may deploy a Tatooine battleground site from Reserve Deck; reshuffle.{Flip} this card if you control three Tatooine sites and opponent controls fewer than three Tatooine sites.No One To Stop Us This Time:{While} this side up, once during your control phase, may peek at up to X cards from the top of your Reserve Deck, where X = number of Tatooine locations you occupy; take one into hand and shuffle your Reserve Deck. Once per turn, may deploy a Tatooine battleground site from Reserve Deck; reshuffle. Opponent's characters require +1 Force to move from Tatooine sites using their landspeed. During your draw phase, you may retrieve one trooper.{Flip} this card if opponent controls more Tatooine sites than you."
+        "gametext": "Imperial Entanglements: Deploy Tatooine system (with Devastator there) and a Tatooine battleground site.{For} remainder of game, you may not deploy Sandwhirl, Admiral's Orders, Jabba's Palace sites, non-Imperial characters, non-Imperial starships, or systems. {While} this side up, opponent loses no Force to Tatooine Occupation or your Force drains at Tatooine system. Once per turn, may deploy a Tatooine battleground site from Reserve Deck; reshuffle.{Flip} this card if you control three Tatooine sites and opponent controls fewer than three Tatooine sites. No One To Stop Us This Time: {While} this side up, once during your control phase, may peek at up to X cards from the top of your Reserve Deck, where X = number of Tatooine locations you occupy; take one into hand and shuffle your Reserve Deck. Once per turn, may deploy a Tatooine battleground site from Reserve Deck; reshuffle. Opponent's characters require +1 Force to move from Tatooine sites using their landspeed. During your draw phase, you may retrieve one trooper.{Flip} this card if opponent controls more Tatooine sites than you."
       },
       "legacy": false
     },
@@ -24533,22 +24533,22 @@
         }
       ],
       "front": {
-        "title": "Imperial Justice (V)",
-        "imageUrl": "https://res.starwarsccg.org/cards/Virtual0-Dark/large/imperialjustice.gif",
+        "title": "Coarse And Rough And Irritating",
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual0-Dark/large/coarseandroughandirritating.gif",
         "type": "Effect",
         "destiny": "3",
         "icons": [
-          "A New Hope"
+          "Episode I"
         ],
-        "gametext": "Deploy on table; shuffle your Reserve Deck, peek at top three cards, and stack them face-up here. During battle, may take a card here into hand to prevent all battle destiny draws from being modified or canceled (each player may draw no more than one battle destiny). (Immune to Alter.)",
-        "lore": "'There's nothing you could have done Luke, had you been there. You'd have been killed too.'"
+        "gametext": "Deploy on table; shuffle your Reserve Deck, peek at top two cards, and stack them face-up here. During battle, may take a card here into hand to prevent all battle destiny draws from being modified or canceled (each player may draw no more than one battle destiny). [Immune to Alter.]",
+        "lore": "Tatooine's twin suns cause turbulent storms that strike with little or no warning. Strong winds whip rocks through the air with enormous force."
       },
       "pulledBy": [
         "Twi'lek Advisor",
         "We Must Accelerate Our Plans",
         "Surface Defense (V)"
       ],
-      "counterpart": "Evacuation Control (V)",
+      "counterpart": "I Don't Like Sand",
       "legacy": false
     },
     {
@@ -28204,7 +28204,7 @@
           "Episode I",
           "Coruscant"
         ],
-        "gametext": "If your character is about to be hit, use 1 Force (free if by a [Permanent Weapon] weapon) to prevent its forfeit from being reduced for remainder of turn. OR Cancel Disarmed. (Immune to Sense.) OR Cancel a 'react'. OR During your move phase, target any or all of your characters at one site to 'transport' (relocate) to an exterior or battleground site. Draw destiny. Use that much Force to 'transport,' or place Interrupt in Lost Pile."
+        "gametext": "If your character is about to be hit, use 1 Force (free if by a [Permanent Weapon] weapon); for remainder of turn, its forfeit may not be reduced and it may not be used to satisfy attrition. OR Cancel Disarmed. (Immune to Sense.) OR Cancel a 'react'. OR During your move phase, target any or all of your characters at one site to 'transport' (relocate) to an exterior or battleground site. Draw destiny. Use that much Force to 'transport,' or place Interrupt in Lost Pile."
       },
       "legacy": false
     },
@@ -32114,7 +32114,7 @@
         ],
         "lightSideIcons": 1,
         "darkSideIcons": 2,
-        "gametext": "Dark:  Once per turn, may use 1 Force to deploy a Mustafar site from Reserve Deck; reshuffle.  Light:  While Vader on table, unless Amidala at a Mustafar location, Force drain -1 here.",
+        "gametext": "Dark: While Anakin or Vader here, gains one [Dark Side] icon and one [Light Side] icon. Light: If Vader on table, unless Amidala at a Mustafar location, Force drain -1 here.",
         "parsec": "7"
       },
       "legacy": false
@@ -42182,7 +42182,7 @@
         "characteristics": [
           "Imperial (starship)"
         ],
-        "gametext": "May add 6 pilots, 8 passengers, 2 vehicles and 4 TIEs. Permanent pilot provides ability of 1.  If opponent's starship just moved from here, Stalker may follow it as a regular move (if within range).",
+        "gametext": "May add 6 pilots, 8 passengers, 2 vehicles, and 4 TIEs. Permanent pilot provides ability of 1. Once per game, may follow an opponent’s starship that just moved from here (if within range).",
         "lore": "Originally assigned to search the Outer Rim for new worlds to subjugate. Launched the probe droid that found Echo Base. Later reassigned to Death Squadron."
       },
       "pulledBy": [
@@ -52368,7 +52368,7 @@
           "leader",
           "general"
         ],
-        "gametext": "Adds 2 to power of anything he pilots. Hux is lost. While with a Resistance character, adds one battle destiny. While Emperor on table, attrition against opponent here is +1 for each First Order character here.",
+        "gametext": "Adds 2 to power of anything he pilots. Hux is forfeit -3. While with a Resistance character, adds one battle destiny. While Emperor on table, attrition against opponent here is +1 for each First Order character here (limit +3).",
         "lore": "Leader.",
         "extraText": [
           "Force-Attuned"
@@ -53527,14 +53527,14 @@
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual13-Dark/large/huntdownanddestroythejedi.gif",
         "type": "Objective",
         "destiny": "0",
-        "gametext": "Hunt Down And Destroy The Jedi: Deploy Vader's Castle and [Set 13] Visage Of The Emperor. {For} remainder of game, you may not deploy characters except bounty hunters, droids, and Imperials. Where you have an Inquisitor, your total battle destiny is +1 (+2 if with a 'Hatred' card). Inquisitors are destiny +2. {While} this side up, once per turn, may deploy a [Cloud City] or Malachor battleground site from Reserve Deck; reshuffle. {Flip} this card if Vader is at a battleground site unless Luke, a Jedi, or a Padawan at a battleground site. Their Fire Has Gone Out Of The Universe: {While} this side up, you lose no Force from Visage Of The Emperor. While Vader armed with a lightsaber, opponent's Force drain bonuses are canceled. {Flip} this card if Luke, a Jedi, or a Padawan at a battleground site; once per game, may take Vader and your cards on him into hand from a site you control."
+        "gametext": "Hunt Down And Destroy The Jedi: Deploy Vader's Castle, [Set 13] Visage Of The Emperor, and a [Cloud City] site with exactly one [Dark Side]. {For} remainder of game, you may not deploy characters except bounty hunters, droids, and Imperials. Where you have an Inquisitor, your total battle destiny is +1 (+2 if with a 'Hatred' card). Inquisitors are destiny +1. {While} this side up, once per turn, may deploy a [Cloud City] or Malachor battleground site from Reserve Deck; reshuffle. {Flip} this card if Vader is at a battleground site unless Luke, a Jedi, or a Padawan at a battleground site. Their Fire Has Gone Out Of The Universe: {While} this side up, you lose no Force from Visage Of The Emperor. While Vader armed with a lightsaber, opponent's Force drain bonuses are canceled. {Flip} this card if Vader not on table or if Luke, a Jedi, or a Padawan at a battleground site; once per game, may take Vader and your cards on him into hand from a site you control."
       },
       "back": {
         "title": "Hunt Down And Destroy The Jedi / Their Fire Has Gone Out Of The Universe (V)",
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual13-Dark/large/theirfirehasgoneoutoftheuniverse.gif",
         "type": "Objective",
         "destiny": "7",
-        "gametext": "Hunt Down And Destroy The Jedi: Deploy Vader's Castle and [Set 13] Visage Of The Emperor. {For} remainder of game, you may not deploy characters except bounty hunters, droids, and Imperials. Where you have an Inquisitor, your total battle destiny is +1 (+2 if with a 'Hatred' card). Inquisitors are destiny +2. {While} this side up, once per turn, may deploy a [Cloud City] or Malachor battleground site from Reserve Deck; reshuffle. {Flip} this card if Vader is at a battleground site unless Luke, a Jedi, or a Padawan at a battleground site. Their Fire Has Gone Out Of The Universe: {While} this side up, you lose no Force from Visage Of The Emperor. While Vader armed with a lightsaber, opponent's Force drain bonuses are canceled. {Flip} this card if Luke, a Jedi, or a Padawan at a battleground site; once per game, may take Vader and your cards on him into hand from a site you control."
+        "gametext": "Hunt Down And Destroy The Jedi: Deploy Vader's Castle, [Set 13] Visage Of The Emperor, and a [Cloud City] site with exactly one [Dark Side]. {For} remainder of game, you may not deploy characters except bounty hunters, droids, and Imperials. Where you have an Inquisitor, your total battle destiny is +1 (+2 if with a 'Hatred' card). Inquisitors are destiny +1. {While} this side up, once per turn, may deploy a [Cloud City] or Malachor battleground site from Reserve Deck; reshuffle. {Flip} this card if Vader is at a battleground site unless Luke, a Jedi, or a Padawan at a battleground site. Their Fire Has Gone Out Of The Universe: {While} this side up, you lose no Force from Visage Of The Emperor. While Vader armed with a lightsaber, opponent's Force drain bonuses are canceled. {Flip} this card if Vader not on table or if Luke, a Jedi, or a Padawan at a battleground site; once per game, may take Vader and your cards on him into hand from a site you control."
       },
       "legacy": false
     },
@@ -53595,6 +53595,291 @@
         "lore": "Docking bay security officer. Leader. Honored for bravery aboard the Star Destroyer Thunderflare where he rescued five officers from the wreckage of a shuttle crash."
       },
       "legacy": false
+    },
+    {
+      "id": 6850,
+      "side": "Dark",
+      "rarity": "U1",
+      "set": "Virtual Set 14",
+      "front": {
+        "title": "•Ochi",
+        "imageUrl": "https://res.starwarsccg.org/cards/Images-HT/starwars/Virtual14-Dark/large/ochi.gif?raw=true",
+        "type": "Character",
+        "subType": "Sith",
+        "uniqueness": "*",
+        "destiny": 2,
+        "power": 3,
+        "ability": 4,
+        "deploy": 4,
+        "forfeit": 5,
+        "icons": [
+          "Pilot",
+          "Warrior",
+          "Episode VII"
+        ],
+        "characteristics": [
+          "Assassin"
+        ],
+        "gametext": "Adds 2 to power of anything he pilots. While piloting Bestoon Legacy, it is immune to attrition < 5. While [Episode VII] Emperor on table, your total power here is +3. If opponent's character was just placed out of play, opponent loses 1 Force.",
+        "lore": "Assassin."
+      },
+      "legacy": false
+    },
+    {
+      "id": 6851,
+      "side": "Dark",
+      "rarity": "U1",
+      "set": "Virtual Set 14",
+      "front": {
+        "title": "•Palpatine, Emperor Returned",
+        "imageUrl": "https://res.starwarsccg.org/cards/Images-HT/starwars/Virtual14-Dark/large/palpatineemperorreturned.gif?raw=true",
+        "type": "Character",
+        "subType": "Dark Jedi Master/First Order",
+        "uniqueness": "*",
+        "destiny": 4,
+        "power": 2,
+        "ability": 7,
+        "deploy": 4,
+        "forfeit": 9,
+        "icons": [
+          "Episode VII"
+        ],
+        "characteristics": [
+          "Leader",
+		  "Dark Jedi Master"
+        ],
+        "gametext": "Never deploys or moves (even if carried) to a location with a [Light Side] icon. Once per turn, may draw bottom card of your Force Pile. Once per game, if about to be lost, may take him into hand. Immune to attrition.",
+        "lore": "Leader."
+      },
+      "legacy": false
+    },
+    {
+      "id": 6852,
+      "side": "Dark",
+      "rarity": "R",
+      "set": "Virtual Set 14",
+      "front": {
+        "title": "•The Client",
+        "imageUrl": "https://res.starwarsccg.org/cards/Images-HT/starwars/Virtual14-Dark/large/theclient.gif?raw=true",
+        "type": "Character",
+        "subType": "Imperial",
+        "uniqueness": "*",
+        "destiny": 5,
+        "power": 1,
+        "ability": 3,
+        "deploy": 1,
+        "forfeit": 2,
+        "gametext": "During your control phase, if present at a site and your bounty hunter occupies a battleground, opponent loses 1 Force. Once per game, if you just lost a bounty hunter anywhere, may take a bounty hunter into hand from Reserve Deck; reshuffle.",
+        "lore": "Blank"
+      },
+      "legacy": false
+    },	
+    {
+      "id": 6853,
+      "side": "Dark",
+      "rarity": "C1",
+      "set": "Virtual Set 14",
+      "front": {
+        "title": "•The Dead Speak!",
+        "imageUrl": "https://res.starwarsccg.org/cards/Images-HT/starwars/Virtual14-Dark/large/thedeadspeak.gif?raw=true",
+        "type": "Effect",
+        "uniqueness": "*",
+        "destiny": 4,
+        "icons": [
+          "Episode VII"
+        ],
+        "gametext": "If I Will Finish What You Started on table, deploy on table. May deploy Sith Throne from Reserve Deck; reshuffle. While [Episode VII] Emperor on Exegol, attrition against opponent is +2 at same location as Kylo, Pryde, or Rey. Your [Episode I] characters are lost. [Immune to Alter.]",
+        "lore": "Blank"
+      },
+      "legacy": false
+    },
+    {
+      "id": 6854,
+      "side": "Dark",
+      "rarity": "R",
+      "set": "Virtual Set 14",
+      "front": {
+        "title": "•The First Order Was Just The Beginning",
+        "imageUrl": "https://res.starwarsccg.org/cards/Images-HT/starwars/Virtual14-Dark/large/thefirstorderwasjustthebeginning.gif?raw=true",
+        "type": "Effect",
+        "uniqueness": "*",
+        "destiny": 4,
+        "icons": [
+          "Episode VII"
+        ],
+        "gametext": "Deploy on table. Your [Episode VII] troopers are forfeit +1. Once per turn, if [Episode VII] Emperor on table, may deploy Kijimi from Reserve Deck (reshuffle) or place any three cards out of play from your Lost Pile to deploy a non-unqiue [Episode VII] trooper from Lost Pile. [Immune to Alter.]",
+        "lore": "Blank"
+      },
+      "legacy": false
+    },	
+    {
+      "id": 6855,
+      "side": "Dark",
+      "rarity": "PM",
+      "set": "Virtual Set 14",
+      "front": {
+        "title": "Alter & Collateral Damage (V)",
+        "imageUrl": "https://res.starwarsccg.org/cards/Images-HT/starwars/Virtual14-Dark/large/altercollateraldamagev.gif?raw=true",
+        "type": "Interrupt",
+        "subType": "Used Or Lost",
+        "destiny": 4,
+        "gametext": "This Interrupt is immune to opponent's Objective and does not cause you to lose Force to Do, Or Do Not. USED: Cancel Sense. LOST: Target an Effect, Political Effect, or Utinni Effect, and one of your characters on table. Draw destiny. If destiny < character's ability, target Effect is canceled. OR If a battle was just initiated at a site where opponent has four or more characters, draw destiny. If destiny < number of opponent's characters at that site, opponent chooses one to be lost."
+      },
+        "canceledBy": [
+        "Control",
+        "Control & Tunnel Vision",
+        "Control (EP1)",
+        "Sense",
+        "Sense (EP1)"
+      ],
+      "cancels": [
+        "One Effect"
+      ],
+      "legacy": false
+    },	
+    {
+      "id": 6856,
+      "side": "Dark",
+      "rarity": "R",
+      "set": "Virtual Set 14",
+      "front": {
+        "title": "•Exegol: Sith Throne",
+        "imageUrl": "https://res.starwarsccg.org/cards/Images-HT/starwars/Virtual14-Dark/large/exegolsiththrone.gif?raw=true",
+        "type": "Location",
+        "subType": "Site",
+        "uniqueness": "*",
+        "destiny": 0,
+        "icons": [
+          "Underground",
+          "Interior",
+          "Planet",
+          "Episode VII"
+        ],
+        "lightSideIcons": 0,
+        "darkSideIcons": 2,
+        "gametext": "Dark: Once per game, may deploy [Episode VII] Emperor here from Reserve Deck; reshuffle.  Light: No Force drains here. [Light Side] icons are canceled here. Your characters deploy +2 here."
+      },
+      "legacy": false
+    },	
+    {
+      "id": 6857,
+      "side": "Dark",
+      "rarity": "C1",
+      "set": "Virtual Set 14",
+      "front": {
+        "title": "•Kijimi",
+        "imageUrl": "https://res.starwarsccg.org/cards/Images-HT/starwars/Virtual14-Dark/large/kijimi.gif?raw=true",
+        "type": "Location",
+        "subType": "System",
+        "uniqueness": "*",
+        "destiny": 0,
+        "icons": [
+          "Planet",
+          "Episode VII"
+        ],
+        "lightSideIcons": 1,
+        "darkSideIcons": 2,
+        "gametext": "Dark: If you control, your starships are hyperspeed +1 when moving from here.  Light: Poe and your smugglers may deploy here as a 'react.'",
+		"parsec": 6
+      },
+      "legacy": false
+    },		
+    {
+      "id": 6858,
+      "side": "Dark",
+      "rarity": "C2",
+      "set": "Virtual Set 14",
+      "front": {
+        "title": "•Bestoon Legacy",
+        "imageUrl": "https://res.starwarsccg.org/cards/Images-HT/starwars/Virtual14-Dark/large/bestoonlegacy.gif?raw=true",
+        "type": "Starship",
+        "subType": "Starfighter: WTK-85A Interstellar Transport",
+        "uniqueness": "*",
+        "destiny": 4,
+        "power": 3,
+        "maneuver": 4,
+        "hyperspeed": 5,
+        "deploy": 3,
+        "forfeit": 4,
+        "icons": [
+          "Nav Computer",
+          "Independent",
+          "Scomp Link",
+		  "Episode VII"
+        ],
+        "characteristics": [
+          "Independent (starship)"
+        ],
+        "gametext": "May add 2 pilots and 3 passengers. During your control phase, may peek at the top card of your Reserve Deck; may place it on Used Pile (if card is an assassin, may take it into hand).",
+        "lore": "Blank."
+      },	
+    {
+      "id": 6859,
+      "side": "Dark",
+      "rarity": "U",
+      "set": "Virtual Set 14",
+      "front": {
+        "title": "•Intimidator & •Persecutor",
+        "imageUrl": "https://res.starwarsccg.org/cards/Images-HT/starwars/Virtual14-Dark/large/intimidatorpersecutor.gif?raw=true",
+        "type": "Starship",
+        "subType": "Capital: 2 Imperial-Class Star Destroyers",
+        "uniqueness": "*",
+        "destiny": 1,
+        "power": 12,
+        "armor": 10,
+        "hyperspeed": 2,
+        "deploy": 11,
+        "forfeit": 12,
+        "icons": [
+          "Pilot x2",		
+          "Nav Computer",
+          "Scomp Link"
+        ],
+        "gametext": "Deploys -4 to Scarif or opponent's system. May add 4 pilots, 4 TIEs, and 2 vehicles. Permanent pilots provide total ability of 4. While at Scarif, subtracts 2 from attempts to 'blow away' Shield Gate.",
+        "lore": "Blank."
+      },	
+    {
+      "id": 6860,
+      "side": "Dark",
+      "rarity": "C",
+      "set": "Virtual Set 14",
+      "front": {
+        "title": "•Steadfast",
+        "imageUrl": "https://res.starwarsccg.org/cards/Images-HT/starwars/Virtual14-Dark/large/steadfast.gif?raw=true",
+        "type": "Starship",
+        "subType": "Capital: Resurgent-Class Star Destroyer",
+        "uniqueness": "*",
+        "destiny": 1,
+        "power": 9,
+        "armor": 6,
+        "hyperspeed": 3,
+        "deploy": 7,
+        "forfeit": 8,
+        "icons": [
+          "Pilot",		
+          "Nav Computer",
+          "Scomp Link",
+		  "First Order",
+		  "Episode VII"
+        ],
+        "gametext": "May add 6 pilots, 8 passengers, and 2 starfighters. Permanent pilot provides ability of 2. While alone at a battleground, adds Force icons to equalize them for both sides here. Immune to attrition < 4.",
+        "lore": "Blank."
+      },		
+    {
+      "id": 6861,
+      "side": "Dark",
+      "rarity": "U",
+      "set": "Virtual Set 14",
+      "front": {
+        "title": "•Darksaber",
+        "imageUrl": "https://res.starwarsccg.org/cards/Images-HT/starwars/Virtual14-Dark/large/darksaber.gif?raw=true",
+        "type": "Weapon",
+        "subType": "Character",
+        "destiny": 2,
+        "gametext": "Deploy on Gideon, [Set 13] Maul, or your Mandalorian. May add 1 to Force drain where present. May target a character. Draw destiny. Target hit, and its forfeit = 0, if destiny +2 > defense value. If just lost from table or hand, opponent may steal this weapon into hand.",
+        "lore": "Blank."
+      },
+      "legacy": true
     }
   ]
 }
