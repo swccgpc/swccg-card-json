@@ -55917,12 +55917,18 @@
     },
     {
       "id": 6862,
+	  "gempId": "214_16",
       "side": "Light",
       "rarity": "U",
-      "set": "Virtual Set 14",
+      "set": "214",
+      "printings": [
+        {
+          "set": "214"
+        }
+      ],
       "front": {
         "title": "•Beaumont Kin",
-        "imageUrl": "https://res.starwarsccg.org/cards/Images-HT/starwars/Virtual14-Light/large/beaumontkin.gif?raw=true",
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual14-Light/large/beaumontkin.gif?",
         "type": "Character",
         "subType": "Resistance",
         "uniqueness": "*",
@@ -55942,12 +55948,18 @@
     },	
     {
       "id": 6863,
+	  "gempId": "214_17",
       "side": "Light",
       "rarity": "C",
-      "set": "Virtual Set 14",
+      "set": "214",
+      "printings": [
+        {
+          "set": "214"
+        }
+      ],
       "front": {
         "title": "•Corporal Pao",
-        "imageUrl": "https://res.starwarsccg.org/cards/Images-HT/starwars/Virtual14-Light/large/corporalpao.gif?raw=true",
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual14-Light/large/corporalpao.gif?",
         "type": "Character",
         "subType": "Rebel",
         "uniqueness": "*",
@@ -55966,12 +55978,18 @@
     },	
     {
       "id": 6864,
+	  "gempId": "214_18",
       "side": "Light",
       "rarity": "U",
-      "set": "Virtual Set 14",
+      "set": "214",
+      "printings": [
+        {
+          "set": "214"
+        }
+      ],
       "front": {
         "title": "•Din Djarin",
-        "imageUrl": "https://res.starwarsccg.org/cards/Images-HT/starwars/Virtual14-Light/large/dindjarin.gif?raw=true",
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual14-Light/large/dindjarin.gif?",
         "type": "Character",
         "subType": "Alien",
         "uniqueness": "*",
@@ -55992,12 +56010,18 @@
     },	
     {
       "id": 6865,
+	  "gempId": "214_22",
       "side": "Light",
       "rarity": "U",
-      "set": "Virtual Set 14",
+      "set": "214",
+      "printings": [
+        {
+          "set": "214"
+        }
+      ],
       "front": {
         "title": "•Rey, All Of The Jedi",
-        "imageUrl": "https://res.starwarsccg.org/cards/Images-HT/starwars/Virtual14-Light/large/reyallofthejedi.gif?raw=true",
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual14-Light/large/reyallofthejedi.gif?",
         "type": "Character",
         "subType": "Resistance",
         "uniqueness": "*",
@@ -56021,12 +56045,18 @@
     },		
     {
       "id": 6866,
+	  "gempId": "214_20",
       "side": "Light",
       "rarity": "U",
-      "set": "Virtual Set 14",
+      "set": "214",
+      "printings": [
+        {
+          "set": "214"
+        }
+      ],
       "front": {
         "title": "Our Only Hope (V)",
-        "imageUrl": "https://res.starwarsccg.org/cards/Images-HT/starwars/Virtual14-Light/large/ouronlyhopev.gif?raw=true",
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual14-Light/large/ouronlyhopev.gif?",
         "type": "Interrupt",
         "subType": "Used",
         "destiny": 4,
@@ -56036,12 +56066,18 @@
     },	
     {
       "id": 6867,
+	  "gempId": "214_13",
       "side": "Light",
       "rarity": "PM",
-      "set": "Virtual Set 14",
+      "set": "214",
+      "printings": [
+        {
+          "set": "214"
+        }
+      ],
       "front": {
         "title": "Alter & Friendly Fire (V)",
-        "imageUrl": "https://res.starwarsccg.org/cards/Images-HT/starwars/Virtual14-Light/large/alterfriendlyfirev.gif?raw=true",
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual14-Light/large/alterfriendlyfirev.gif?",
         "type": "Interrupt",
         "subType": "Used Or Lost",
         "destiny": 4,
@@ -56061,12 +56097,13 @@
     },		
    {
       "id": 6868,
+	  "gempId": "214_19",
       "side": "Light",
       "rarity": "R",
       "set": "Endor",
       "front": {
         "title": "•Endor: Chief Chirpa's Hut (V)",
-        "imageUrl": "https://res.starwarsccg.org/cards/Images-HT/starwars/Virtual14-Light/large/endorchiefchirpashutv.gif?raw=true",
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual14-Light/large/endorchiefchirpashutv.gif?",
         "type": "Location",
         "subType": "Site",
         "uniqueness": "*",
@@ -56088,12 +56125,18 @@
 	
     {
       "id": 6869,
+	  "gempId": "214_14",
       "side": "Light",
       "rarity": "C2",
-      "set": "Virtual Set 14",
+      "set": "214",
+      "printings": [
+        {
+          "set": "214"
+        }
+      ],
       "front": {
         "title": "ARC-170 Starfighter",
-        "imageUrl": "https://res.starwarsccg.org/cards/Images-HT/starwars/Virtual14-Light/large/arc170starfighter.gif?raw=true",
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual14-Light/large/arc170starfighter.gif?",
         "type": "Starship",
         "subType": "Starfighter: Reconnaissance Fighter",
         "uniqueness": "",
@@ -56117,12 +56160,18 @@
 	
     {
       "id": 6870,
+	  "gempId": "215_1",
       "side": "Light",
       "rarity": "U",
-      "set": "Virtual Set 15",
+      "set": "215",
+      "printings": [
+        {
+          "set": "215"
+        }
+      ],
       "front": {
         "title": "•Odd Ball's Torrent Starfighter",
-        "imageUrl": "https://res.starwarsccg.org/cards/Images-HT/starwars/Virtual15-Light/large/oddballstorrentstarfighter.gif?raw=true",
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual15-Light/large/oddballstorrentstarfighter.gif?",
         "type": "Starship",
         "subType": "Starfighter: V-19 Torrent Starfighter",
         "uniqueness": "*",
@@ -56145,12 +56194,18 @@
 	
     {
       "id": 6871,
+	  "gempId": "214_21",
       "side": "Light",
       "rarity": "U",
-      "set": "Virtual Set 14",
+      "set": "214",
+      "printings": [
+        {
+          "set": "214"
+        }
+      ],
       "front": {
         "title": "•Plo Koon's Jedi Starfighter",
-        "imageUrl": "https://res.starwarsccg.org/cards/Images-HT/starwars/Virtual14-Light/large/plokoonsjedistarfighter.gif?raw=true",
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual14-Light/large/plokoonsjedistarfighter.gif?",
         "type": "Starship",
         "subType": "Starfighter: Jedi Interceptor",
         "uniqueness": "*",
@@ -56172,12 +56227,18 @@
       },	
     {
       "id": 6872,
+	  "gempId": "214_15",
       "side": "Light",
       "rarity": "U",
-      "set": "Virtual Set 14",
+      "set": "214",
+      "printings": [
+        {
+          "set": "214"
+        }
+      ],
       "front": {
         "title": "•Ahsoka's Shoto Lightsaber",
-        "imageUrl": "https://res.starwarsccg.org/cards/Images-HT/starwars/Virtual14-Light/large/ahsokasshotolightsaber.gif?raw=true",
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual14-Light/large/ahsokasshotolightsaber.gif?",
         "type": "Weapon",
         "subType": "Character",
         "destiny": 2,
