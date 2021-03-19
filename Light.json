@@ -55538,37 +55538,6 @@
       "legacy": false
     },
     {
-      "id": 6835,
-      "gempId": "213_48",
-      "side": "Light",
-      "rarity": "R",
-      "set": "213",
-      "printings": [
-        {
-          "set": "213"
-        }
-      ],
-      "front": {
-        "title": "Twilight Is Upon Me (V)",
-        "imageUrl": "https://res.starwarsccg.org/cards/Virtual13-Light/large/twilightisuponme.gif",
-        "type": "Effect",
-        "uniqueness": "*",
-        "destiny": "5",
-        "gametext": "If He Is The Chosen One on table, deploy on table. You may not deploy [Episode I] sites. While Luke with Prophecy Of The Force, your Force generation is +1 and opponent's Force generation is -1. May deploy Yoda's Hut from Reserve Deck; reshuffle. (Immune to Alter.)",
-        "lore": "When a Jedi dies, the spirit spreads through the Force and touches the living."
-      },
-      "pulls": [
-        "Yoda's Hut"
-      ],
-      "pulledBy": [
-        "The Signal",
-        "We Wish To Board At Once",
-        "Your Insight Serves You Well",
-        "Your Insight Serves You Well & Staging Areas"
-      ],
-      "legacy": false
-    },
-    {
       "id": 6836,
       "gempId": "213_47",
       "side": "Light",
@@ -55642,28 +55611,6 @@
       "pulledBy": [
         "Twilight Is Upon Me"
       ],
-      "legacy": false
-    },
-    {
-      "id": 6839,
-      "gempId": "213_52",
-      "side": "Light",
-      "rarity": "R",
-      "set": "213",
-      "printings": [
-        {
-          "set": "213"
-        }
-      ],
-      "front": {
-        "title": "Help Me Obi-Wan Kenobi & Quite A Mercenary",
-        "imageUrl": "https://res.starwarsccg.org/cards/Virtual13-Light/large/helpmeobiwankenobi&quiteamercenary.gif",
-        "type": "Interrupt",
-        "subType": "Used or Lost",
-        "destiny": "4",
-        "gametext": "If opponent's Audience Chamber on table, opponent loses 1 Force when you play this Interrupt. USED: Cancel Elis Helrot or Stunning Leader. [Immune to Sense.] OR Cancel a smuggler's game text for remainder of turn. LOST: During your move phase, 'break cover' of an Undercover spy. OR During battle, target an opponent's character of ability < 2 with your Jedi or smuggler; target is excluded from battle.",
-        "lore": "Blank"
-      },
       "legacy": false
     },
     {
