@@ -55917,15 +55917,13 @@
     },
     {
       "id": 6862,
-	  "gempId": "214_16",
+      "gempId": "214_16",
       "side": "Light",
       "rarity": "U",
       "set": "214",
-      "printings": [
-        {
-          "set": "214"
-        }
-      ],
+      "printings": [{
+        "set": "214"
+      }],
       "front": {
         "title": "•Beaumont Kin",
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual14-Light/large/beaumontkin.gif",
@@ -55945,18 +55943,16 @@
         "lore": "Blank"
       },
       "legacy": false
-    },	
+    },
     {
       "id": 6863,
-	  "gempId": "214_17",
+      "gempId": "214_17",
       "side": "Light",
       "rarity": "C",
       "set": "214",
-      "printings": [
-        {
-          "set": "214"
-        }
-      ],
+      "printings": [{
+        "set": "214"
+      }],
       "front": {
         "title": "•Corporal Pao",
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual14-Light/large/corporalpao.gif",
@@ -55975,18 +55971,16 @@
         "lore": "Drabatan trooper."
       },
       "legacy": false
-    },	
+    },
     {
       "id": 6864,
-	  "gempId": "214_18",
+      "gempId": "214_18",
       "side": "Light",
       "rarity": "U",
       "set": "214",
-      "printings": [
-        {
-          "set": "214"
-        }
-      ],
+      "printings": [{
+        "set": "214"
+      }],
       "front": {
         "title": "•Din Djarin",
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual14-Light/large/dindjarin.gif",
@@ -56001,24 +55995,22 @@
         "forfeit": "6",
         "icons": [
           "Pilot",
-		  "Warrior x2"
+          "Warrior x2"
         ],
         "gametext": "Adds 2 to power of anything he pilots. While with an alien, adds one battle destiny. Once per turn, may target opponent’s non-'hit' character here. If Din on table when target lost this turn, choose: retrieve 1 Force or place target in Used Pile to retrieve 2 Force.",
         "lore": "Mandalorian."
       },
       "legacy": false
-    },	
+    },
     {
       "id": 6865,
-	  "gempId": "214_22",
+      "gempId": "214_22",
       "side": "Light",
       "rarity": "U",
       "set": "214",
-      "printings": [
-        {
-          "set": "214"
-        }
-      ],
+      "printings": [{
+        "set": "214"
+      }],
       "front": {
         "title": "•Rey, All Of The Jedi",
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual14-Light/large/reyallofthejedi.gif",
@@ -56042,18 +56034,16 @@
         ]
       },
       "legacy": false
-    },		
+    },
     {
       "id": 6866,
-	  "gempId": "214_20",
+      "gempId": "214_20",
       "side": "Light",
       "rarity": "U",
       "set": "214",
-      "printings": [
-        {
-          "set": "214"
-        }
-      ],
+      "printings": [{
+        "set": "214"
+      }],
       "front": {
         "title": "Our Only Hope (V)",
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual14-Light/large/ouronlyhope.gif",
@@ -56063,18 +56053,16 @@
         "gametext": "Relocate Prophecy Of The Force to a site. OR If He Is The Chosen One or He Will Bring Balance on table, take Yoda's Hut or a Death Star II site into hand from Reserve Deck; reshuffle."
       },
       "legacy": false
-    },	
+    },
     {
       "id": 6867,
-	  "gempId": "214_13",
+      "gempId": "214_13",
       "side": "Light",
       "rarity": "PM",
       "set": "214",
-      "printings": [
-        {
-          "set": "214"
-        }
-      ],
+      "printings": [{
+        "set": "214"
+      }],
       "front": {
         "title": "Alter & Friendly Fire (V)",
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual14-Light/large/alterfriendlyfire.gif",
@@ -56083,7 +56071,7 @@
         "destiny": "4",
         "gametext": "This Interrupt is immune to opponent's Objective and does not cause you to lose Force to There Is No Try. USED: Cancel Sense. LOST: Target an Effect, Political Effect, or Utinni Effect, and one of your characters on table. Draw destiny. If destiny < character's ability, target Effect is canceled. OR If a battle was just initiated at a site where opponent has four or more characters, draw destiny. If destiny < number of opponent's characters at that site, opponent chooses one to be lost."
       },
-        "canceledBy": [
+      "canceledBy": [
         "Control",
         "Control & Set For Stun",
         "Control (EP1)",
@@ -56094,10 +56082,10 @@
         "One Effect"
       ],
       "legacy": false
-    },		
-   {
+    },
+    {
       "id": 6868,
-	  "gempId": "214_19",
+      "gempId": "214_19",
       "side": "Light",
       "rarity": "R",
       "set": "Endor",
@@ -56113,28 +56101,23 @@
           "Planet"
         ],
         "lightSideIcons": 2,
-        "darkSideIcons": 0
-,
+        "darkSideIcons": 0,
         "gametext": "Light: You may not generate more than 2 Force at non-battlegrounds. Ewoks deploy -2 here.  Dark: Force generation here may not be prevented by Objectives."
       },
       "pulledBy": [
         "Wuta"
       ],
       "legacy": false
-    },	
-	
-	
+    },
     {
       "id": 6869,
-	  "gempId": "214_14",
+      "gempId": "214_14",
       "side": "Light",
       "rarity": "C2",
       "set": "214",
-      "printings": [
-        {
-          "set": "214"
-        }
-      ],
+      "printings": [{
+        "set": "214"
+      }],
       "front": {
         "title": "ARC-170 Starfighter",
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual14-Light/large/arc170starfighter.gif",
@@ -56147,28 +56130,26 @@
         "deploy": "3",
         "forfeit": "6",
         "icons": [
-          "Pilot",		
+          "Pilot",
           "Nav Computer",
           "Scomp Link",
-		  "Republic",
-		  "Episode I",
-		  "Clone Army"
+          "Republic",
+          "Episode I",
+          "Clone Army"
         ],
         "gametext": "May add 1 pilot or passenger. Permanent pilot provides ability of 2. Opponent may not 'react' to or from here. During battle, if about to be lost before the damage segment, lost at end of battle instead.",
         "lore": "Blank."
-      },	
-	
+      }
+    },
     {
       "id": 6870,
-	  "gempId": "215_1",
+      "gempId": "215_1",
       "side": "Light",
       "rarity": "U",
       "set": "215",
-      "printings": [
-        {
-          "set": "215"
-        }
-      ],
+      "printings": [{
+        "set": "215"
+      }],
       "front": {
         "title": "•Odd Ball's Torrent Starfighter",
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual15-Light/large/oddballstorrentstarfighter.gif",
@@ -56184,25 +56165,23 @@
         "icons": [
           "Nav Computer",
           "Scomp Link",
-		  "Republic",
-		  "Episode I",
-		  "Clone Army"
+          "Republic",
+          "Episode I",
+          "Clone Army"
         ],
         "gametext": "May add 1 clone pilot. Odd Ball deploys -1 aboard. While Odd Ball piloting, power and hyperspeed +1, and adds one destiny to total power. Immune to attrition < 3 (< 5 while Odd Ball piloting).",
         "lore": "Blank."
-      },	
-	
+      }
+    },
     {
       "id": 6871,
-	  "gempId": "214_21",
+      "gempId": "214_21",
       "side": "Light",
       "rarity": "U",
       "set": "214",
-      "printings": [
-        {
-          "set": "214"
-        }
-      ],
+      "printings": [{
+        "set": "214"
+      }],
       "front": {
         "title": "•Plo Koon's Jedi Starfighter",
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual14-Light/large/plokoonsjedistarfighter.gif",
@@ -56218,24 +56197,23 @@
         "icons": [
           "Nav Computer",
           "Scomp Link",
-		  "Republic",
-		  "Episode I",
-		  "Clone Army"
+          "Republic",
+          "Episode I",
+          "Clone Army"
         ],
         "gametext": "May add 1 Jedi pilot. *Maneuver = pilot's ability. While Plo piloting, power +2, immune to attrition < 3, and once per turn, may cancel and redraw your weapon or battle destiny just drawn here.",
         "lore": "Blank."
-      },	
+      }
+    },
     {
       "id": 6872,
-	  "gempId": "214_15",
+      "gempId": "214_15",
       "side": "Light",
       "rarity": "U",
       "set": "214",
-      "printings": [
-        {
-          "set": "214"
-        }
-      ],
+      "printings": [{
+        "set": "214"
+      }],
       "front": {
         "title": "•Ahsoka's Shoto Lightsaber",
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual14-Light/large/ahsokasshotolightsaber.gif",

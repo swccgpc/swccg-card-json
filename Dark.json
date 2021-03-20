@@ -53598,22 +53598,20 @@
     },
     {
       "id": 6850,
-	  "gempId": "214_7",
+      "gempId": "214_7",
       "side": "Dark",
       "rarity": "U1",
       "set": "214",
-      "printings": [
-        {
-          "set": "214"
-        }
-      ],
+      "printings": [{
+        "set": "214"
+      }],
       "front": {
         "title": "•Ochi",
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual14-Dark/large/ochi.gif",
         "type": "Character",
         "subType": "Sith",
         "uniqueness": "*",
-        "destiny": "0"
+        "destiny": "0",
         "power": "3",
         "ability": "4",
         "deploy": "4",
@@ -53630,18 +53628,16 @@
         "lore": "Assassin."
       },
       "legacy": false
-    },
+    }, 
     {
       "id": 6851,
-	  "gempId": "214_8",
+      "gempId": "214_8",
       "side": "Dark",
       "rarity": "U1",
       "set": "214",
-      "printings": [
-        {
-          "set": "214"
-        }
-      ],
+      "printings": [{
+        "set": "214"
+      }],
       "front": {
         "title": "•Palpatine, Emperor Returned",
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual14-Dark/large/palpatineemperorreturned.gif",
@@ -53658,24 +53654,22 @@
         ],
         "characteristics": [
           "Leader",
-		  "Dark Jedi Master"
+          "Dark Jedi Master"
         ],
         "gametext": "Never deploys or moves (even if carried) to a location with a [Light Side] icon. Once per turn, may draw bottom card of your Force Pile. Once per game, if about to be lost, may take him into hand. Immune to attrition.",
         "lore": "Leader."
       },
       "legacy": false
-    },
+    }, 
     {
       "id": 6852,
-	  "gempId": "214_10",
+      "gempId": "214_10",
       "side": "Dark",
       "rarity": "R",
       "set": "214",
-      "printings": [
-        {
-          "set": "214"
-        }
-      ],
+      "printings": [{
+        "set": "214"
+      }],
       "front": {
         "title": "•The Client",
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual14-Dark/large/theclient.gif",
@@ -53691,18 +53685,16 @@
         "lore": "Blank"
       },
       "legacy": false
-    },	
+    }, 
     {
       "id": 6853,
-	  "gempId": "214_11",
+      "gempId": "214_11",
       "side": "Dark",
       "rarity": "C1",
       "set": "214",
-      "printings": [
-        {
-          "set": "214"
-        }
-      ],
+      "printings": [{
+        "set": "214"
+      }],
       "front": {
         "title": "•The Dead Speak!",
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual14-Dark/large/thedeadspeak.gif",
@@ -53716,18 +53708,16 @@
         "lore": "Blank"
       },
       "legacy": false
-    },
+    }, 
     {
       "id": 6854,
-	  "gempId": "214_12",
+      "gempId": "214_12",
       "side": "Dark",
       "rarity": "R",
       "set": "214",
-      "printings": [
-        {
-          "set": "214"
-        }
-      ],
+      "printings": [{
+        "set": "214"
+      }],
       "front": {
         "title": "•The First Order Was Just The Beginning",
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual14-Dark/large/thefirstorderwasjustthebeginning.gif",
@@ -53741,18 +53731,16 @@
         "lore": "Blank"
       },
       "legacy": false
-    },	
+    }, 
     {
       "id": 6855,
-	  "gempId": "214_1",
+      "gempId": "214_1",
       "side": "Dark",
       "rarity": "PM",
       "set": "214",
-      "printings": [
-        {
-          "set": "214"
-        }
-      ],
+      "printings": [{
+        "set": "214"
+      }],
       "front": {
         "title": "Alter & Collateral Damage (V)",
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual14-Dark/large/altercollateraldamage.gif",
@@ -53761,7 +53749,7 @@
         "destiny": "4",
         "gametext": "This Interrupt is immune to opponent's Objective and does not cause you to lose Force to Do, Or Do Not. USED: Cancel Sense. LOST: Target an Effect, Political Effect, or Utinni Effect, and one of your characters on table. Draw destiny. If destiny < character's ability, target Effect is canceled. OR If a battle was just initiated at a site where opponent has four or more characters, draw destiny. If destiny < number of opponent's characters at that site, opponent chooses one to be lost."
       },
-        "canceledBy": [
+      "canceledBy": [
         "Control",
         "Control & Tunnel Vision",
         "Control (EP1)",
@@ -53772,18 +53760,16 @@
         "One Effect"
       ],
       "legacy": false
-    },	
+    }, 
     {
       "id": 6856,
-	  "gempId": "214_4",
+      "gempId": "214_4",
       "side": "Dark",
       "rarity": "R",
       "set": "214",
-      "printings": [
-        {
-          "set": "214"
-        }
-      ],
+      "printings": [{
+        "set": "214"
+      }],
       "front": {
         "title": "•Exegol: Sith Throne",
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual14-Dark/large/exegolsiththrone.gif",
@@ -53802,21 +53788,19 @@
         "gametext": "Dark: Once per game, may deploy [Episode VII] Emperor here from Reserve Deck; reshuffle.  Light: No Force drains here. [Light Side] icons are canceled here. Your characters deploy +2 here."
       },
       "legacy": false
-    },	
+    }, 
     {
       "id": 6857,
-	  "gempId": "214_6",
+      "gempId": "214_6",
       "side": "Dark",
       "rarity": "C1",
       "set": "214",
-      "printings": [
-        {
-          "set": "214"
-        }
-      ],
+      "printings": [{
+        "set": "214"
+      }],
       "front": {
         "title": "•Kijimi",
-        "imageUrl": "https://res.starwarsccg.org/cards/Virtual14-Dark/large/kijimi.gif",
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual14-Dark/large/kijimids.gif",
         "type": "Location",
         "subType": "System",
         "uniqueness": "*",
@@ -53828,21 +53812,19 @@
         "lightSideIcons": 1,
         "darkSideIcons": 2,
         "gametext": "Dark: If you control, your starships are hyperspeed +1 when moving from here.  Light: Poe and your smugglers may deploy here as a 'react.'",
-		"parsec": 6
+        "parsec": 6
       },
       "legacy": false
-    },		
+    }, 
     {
       "id": 6858,
-	  "gempId": "214_2",
+      "gempId": "214_2",
       "side": "Dark",
       "rarity": "C2",
       "set": "214",
-      "printings": [
-        {
-          "set": "214"
-        }
-      ],
+      "printings": [{
+        "set": "214"
+      }],
       "front": {
         "title": "•Bestoon Legacy",
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual14-Dark/large/bestoonlegacy.gif",
@@ -53859,25 +53841,24 @@
           "Nav Computer",
           "Independent",
           "Scomp Link",
-		  "Episode VII"
+          "Episode VII"
         ],
         "characteristics": [
           "Independent (starship)"
         ],
         "gametext": "May add 2 pilots and 3 passengers. During your control phase, may peek at the top card of your Reserve Deck; may place it on Used Pile (if card is an assassin, may take it into hand).",
         "lore": "Blank."
-      },	
+      }
+    }, 
     {
       "id": 6859,
-	  "gempId": "214_5",
+      "gempId": "214_5",
       "side": "Dark",
       "rarity": "U",
       "set": "214",
-      "printings": [
-        {
-          "set": "214"
-        }
-      ],
+      "printings": [{
+        "set": "214"
+      }],
       "front": {
         "title": "•Intimidator & •Persecutor",
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual14-Dark/large/intimidatorpersecutor.gif",
@@ -53891,24 +53872,23 @@
         "deploy": "11",
         "forfeit": "12",
         "icons": [
-          "Pilot x2",		
+          "Pilot x2",
           "Nav Computer",
           "Scomp Link"
         ],
         "gametext": "Deploys -4 to Scarif or opponent's system. May add 4 pilots, 4 TIEs, and 2 vehicles. Permanent pilots provide total ability of 4. While at Scarif, subtracts 2 from attempts to 'blow away' Shield Gate.",
         "lore": "Blank."
-      },	
+      }
+    }, 
     {
       "id": 6860,
-	  "gempId": "214_9",
+      "gempId": "214_9",
       "side": "Dark",
       "rarity": "C",
       "set": "214",
-      "printings": [
-        {
-          "set": "214"
-        }
-      ],
+      "printings": [{
+        "set": "214"
+      }],
       "front": {
         "title": "•Steadfast",
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual14-Dark/large/steadfast.gif",
@@ -53922,26 +53902,25 @@
         "deploy": "7",
         "forfeit": "8",
         "icons": [
-          "Pilot",		
+          "Pilot",
           "Nav Computer",
           "Scomp Link",
-		  "First Order",
-		  "Episode VII"
+          "First Order",
+          "Episode VII"
         ],
         "gametext": "May add 6 pilots, 8 passengers, and 2 starfighters. Permanent pilot provides ability of 2. While alone at a battleground, adds Force icons to equalize them for both sides here. Immune to attrition < 4.",
         "lore": "Blank."
-      },		
+      }
+    }, 
     {
       "id": 6861,
-	  "gempId": "214_3",
+      "gempId": "214_3",
       "side": "Dark",
       "rarity": "U",
       "set": "214",
-      "printings": [
-        {
-          "set": "214"
-        }
-      ],
+      "printings": [{
+        "set": "214"
+      }],
       "front": {
         "title": "•Darksaber",
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual14-Dark/large/darksaber.gif",
