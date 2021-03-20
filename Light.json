@@ -120,7 +120,7 @@
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual9-Light/large/abraveresistance.gif",
         "type": "Effect",
         "destiny": "5",
-        "gametext": "If your [Episode VII] location on table, deploy on table. Your Force generation is +1 at Jakku battlegrounds you occupy. During your deploy phase, may place a Resistance character from hand on top of Used Pile to take a Resistance character of equal or lesser ability into hand from Reserve Deck; reshuffle. (Immune to Alter.)",
+        "gametext": "If Jakku on table, deploy on table. Your Force generation is +1 at Jakku battlegrounds you occupy. During your deploy phase, may place a Resistance character from hand on top of Used Pile to take a Resistance character of equal or lesser ability into hand from Reserve Deck; reshuffle. (Immune to Alter.)",
         "lore": "Blank."
       },
       "legacy": false
@@ -15797,22 +15797,22 @@
         }
       ],
       "front": {
-        "title": "Evacuation Control (V)",
-        "imageUrl": "https://res.starwarsccg.org/cards/Virtual0-Light/large/evacuationcontrol.gif",
+        "title": "I Don't Like Sand",
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual0-Light/large/idontlikesand.gif",
         "type": "Effect",
         "destiny": "3",
         "icons": [
-          "Hoth"
+          "Episode I"
         ],
-        "gametext": "Deploy on table; shuffle your Reserve Deck, peek at top three cards, and stack them face-up here. During battle, may take a card here into hand to prevent all battle destiny draws from being modified or canceled (each player may draw no more than one battle destiny). (Immune to Alter.)",
-        "lore": "'Give the evacuation code signal...and get to your transports!'"
+        "gametext": "Deploy on table; shuffle your Reserve Deck, peek at top two cards, and stack them face-up here. During battle, may take a card here into hand to prevent all battle destiny draws from being modified or canceled (each player may draw no more than one battle destiny). [Immune to Alter.]",
+        "lore": ""
       },
       "pulledBy": [
         "Don't Tread On Me (V)",
         "The Signal",
         "We Wish To Board At Once"
       ],
-      "counterpart": "Imperial Justice (V)",
+      "counterpart": "Coarse And Rough And Irritating",
       "legacy": false
     },
     {
@@ -20511,14 +20511,14 @@
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual8-Light/large/heisthechosenone.gif",
         "type": "Objective",
         "destiny": "0",
-        "gametext": "He Is The Chosen One:Deploy Jedi Council Chamber (with Prophecy Of The Force there), Ewok Village, and I Feel The Conflict.{For} remainder of game, you may not deploy [Episode I] Jedi (except Yoda) or [Episode I] padawans. Luke may not be captured by Bring Him Before Me unless there are 2 or more cards stacked on Insignificant Rebellion during any move phase.{While} this side up, you may initiate battles for free.{Flip} this card if Luke (or a Jedi) at a battleground site and opponent has no characters of ability > 4 at battleground sites.He Will Bring Balance:{While} this side up, once during your control phase, may peek at up to X cards from the top of your Reserve Deck, where X = number of battlegrounds you occupy; take one into hand and shuffle your Reserve Deck. During your draw phase, may retrieve any one card; opponent may stack a card from hand on I Feel The Conflict to place that out of play instead.{Flip} this card (unless Vader crossed over) if opponent's character of ability > 4 at a battleground site or you do not have Luke (or a Jedi) at a battleground site."
+        "gametext": "He Is The Chosen One: Deploy Jedi Council Chamber (with Prophecy Of The Force there), Ewok Village, and I Feel The Conflict. {For} remainder of game, you may not deploy [Episode I] or [Episode VII] characters or locations (except Obi-Wan and Yoda). Luke may not be captured by Bring Him Before Me unless there are two cards stacked on Insignificant Rebellion during any move phase. {While} this side up, you may initiate battles for free. {Flip} this card if Luke or a Jedi at a battleground site (unless an opponent's character of ability > 4 is). He Will Bring Balance: {While} this side up, once during your control phase, may peek at up to X cards from the top of your Reserve Deck, where X = number of battlegrounds you occupy; take one into hand and shuffle your Reserve Deck. During your draw phase, may retrieve any one card; opponent may stack a card from hand on I Feel The Conflict to place that out of play instead.{Flip} this card (unless Vader crossed over) if opponent's character of ability > 4 at a battleground site or you do not have Luke (or a Jedi) at a battleground site."
       },
       "back": {
         "title": "He Is The Chosen One / He Will Bring Balance",
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual8-Light/large/hewillbringbalance.gif",
         "type": "Objective",
         "destiny": "7",
-        "gametext": "He Is The Chosen One:Deploy Jedi Council Chamber (with Prophecy Of The Force there), Ewok Village, and I Feel The Conflict.{For} remainder of game, you may not deploy [Episode I] Jedi (except Yoda) or [Episode I] padawans. Luke may not be captured by Bring Him Before Me unless there are 2 or more cards stacked on Insignificant Rebellion during any move phase.{While} this side up, you may initiate battles for free.{Flip} this card if Luke (or a Jedi) at a battleground site and opponent has no characters of ability > 4 at battleground sites.He Will Bring Balance:{While} this side up, once during your control phase, may peek at up to X cards from the top of your Reserve Deck, where X = number of battlegrounds you occupy; take one into hand and shuffle your Reserve Deck. During your draw phase, may retrieve any one card; opponent may stack a card from hand on I Feel The Conflict to place that out of play instead.{Flip} this card (unless Vader crossed over) if opponent's character of ability > 4 at a battleground site or you do not have Luke (or a Jedi) at a battleground site."
+        "gametext": "He Is The Chosen One: Deploy Jedi Council Chamber (with Prophecy Of The Force there), Ewok Village, and I Feel The Conflict. {For} remainder of game, you may not deploy [Episode I] or [Episode VII] characters or locations (except Obi-Wan and Yoda). Luke may not be captured by Bring Him Before Me unless there are two cards stacked on Insignificant Rebellion during any move phase. {While} this side up, you may initiate battles for free. {Flip} this card if Luke or a Jedi at a battleground site (unless an opponent's character of ability > 4 is). He Will Bring Balance: {While} this side up, once during your control phase, may peek at up to X cards from the top of your Reserve Deck, where X = number of battlegrounds you occupy; take one into hand and shuffle your Reserve Deck. During your draw phase, may retrieve any one card; opponent may stack a card from hand on I Feel The Conflict to place that out of play instead.{Flip} this card (unless Vader crossed over) if opponent's character of ability > 4 at a battleground site or you do not have Luke (or a Jedi) at a battleground site."
       },
       "legacy": false
     },
@@ -34132,7 +34132,7 @@
           "Coruscant",
           "Episode I"
         ],
-        "gametext": "If your character is about to be hit, use 1 Force (free if by a [Permanent Weapon] weapon) to prevent its forfeit from being reduced  (and character is immune to Dr. Evazan) for remainder of turn. OR Cancel Disarmed. (Immune to Sense.) OR Cancel a 'react'. OR During your move phase, target any or all of your characters at one site to 'transport' (relocate) to an exterior or battleground site. Draw destiny. Use that much Force to 'transport,' or place Interrupt in Lost Pile."
+        "gametext": "If your character is about to be hit, use 1 Force (free if by a [Permanent Weapon] weapon); for remainder of turn, its forfeit may not be reduced, it may not be used to satisfy attrition, and it is immune to Dr. Evazan. OR Cancel Disarmed. [Immune to Sense.] OR Cancel a 'react.' OR During your move phase, target any or all of your characters at one site to 'transport' (relocate) to an exterior or battleground site. Draw destiny. Use that much Force to 'transport,' or place Interrupt in Lost Pile."
       },
       "legacy": false
     },
@@ -40722,7 +40722,7 @@
         "icons": [
           "Cloud City"
         ],
-        "gametext": "USED: Peek at the top 3 cards of your Reserve Deck and take one into hand; reshuffle. OR Cancel a just drawn destiny targeting the ability or defense value of your non-Undercover character of ability < 5 at a system or mobile location.  LOST: Cancel Close Call.",
+        "gametext": "USED: At a system or Bespin location, choose: Cancel a just drawn destiny targeting the ability or defense value of your non-Undercover character of ability < 5. OR During battle, draw one battle destiny if unable to otherwise. LOST: Cancel Close Call.",
         "lore": "'I know where Luke is.'"
       },
       "legacy": false
@@ -48427,7 +48427,7 @@
         "icons": [
           "Episode VII"
         ],
-        "gametext": "The Galaxy May Need A Legend:Deploy Ahch-To system and any [Episode VII] battleground.{For} remainder of game, you may not Force drain on Ahch-To. You may not deploy [Episode I] locations or non-[Episode VII] Luke. Once per game, may take any one card into hand from Force Pile; reshuffle. Luke deploys only to Ahch-To.{While} this side up, once per turn, may use 1 Force to deploy an Ahch-To location or [Episode VII] battleground from Reserve Deck; reshuffle.{May flip} this card if Luke on Ahch-To and a battle was just initiated involving a Resistance character.We Need Luke Skywalker:{Immediately} place Luke out of play (ignore [Death Star II] objective restrictions, if any). For remainder of battle, opponent may not fire weapons.{While} this side up, opponent's immunity to attrition is limited to < 5. Your Force drains are +1 where you have two unique (•) Resistance characters. Once during your turn, may peek at the top card of your Force Pile and Reserve Deck; place both cards (in any order) on top of one of those piles. Once per turn during battle involving two Resistance characters, may cancel an opponent's just drawn destiny to cause a re-draw."
+        "gametext": "The Galaxy May Need A Legend: Deploy Ahch-To system and any [Episode VII] battleground. {For} remainder of game, Luke deploys only to Ahch-To. You may not Force drain on Ahch-To. You may not deploy [Episode I] locations or non-[Episode VII] Luke. You may not deploy Jedi while a Jedi on table. Once per game, may take any one card into hand from Force Pile; reshuffle. {While} this side up, once per turn, may use 1 Force to deploy an Ahch-To location or [Episode VII] battleground from Reserve Deck; reshuffle. {May flip} this card if Luke on Ahch-To and a battle was just initiated involving a Resistance character. We Need Luke Skywalker: {Immediately} place Luke out of play (ignore [Death Star II] objective restrictions, if any). For remainder of battle, opponent may not fire weapons. {While} this side up, opponent's immunity to attrition is limited to < 5. Once during your turn, may peek at the top card of your Force Pile and Reserve Deck; place both cards (in any order) on top of one of those piles. Where you have two unique (•) Resistance characters: once per turn, if you just Force drained, opponent loses 1 Force; and once per turn during battle, may cancel an opponent's just drawn destiny to cause a re-draw."
       },
       "back": {
         "title": "The Galaxy May Need A Legend / We Need Luke Skywalker",
@@ -48437,7 +48437,7 @@
         "icons": [
           "Episode VII"
         ],
-        "gametext": "The Galaxy May Need A Legend:Deploy Ahch-To system and any [Episode VII] battleground.{For} remainder of game, you may not Force drain on Ahch-To. You may not deploy [Episode I] locations or non-[Episode VII] Luke. Once per game, may take any one card into hand from Force Pile; reshuffle. Luke deploys only to Ahch-To.{While} this side up, once per turn, may use 1 Force to deploy an Ahch-To location or [Episode VII] battleground from Reserve Deck; reshuffle.May {flip} this card if Luke on Ahch-To and a battle was just initiated involving a Resistance character.We Need Luke Skywalker:{Immediately} place Luke out of play (ignore [Death Star II] objective restrictions, if any). For remainder of battle, opponent may not fire weapons.{While} this side up, opponent's immunity to attrition is limited to < 5. Your Force drains are +1 where you have two unique (•) Resistance characters. Once during your turn, may peek at the top card of your Force Pile and Reserve Deck; place both cards (in any order) on top of one of those piles. Once per turn during battle involving two Resistance characters, may cancel an opponent's just drawn destiny to cause a re-draw."
+        "gametext": "The Galaxy May Need A Legend: Deploy Ahch-To system and any [Episode VII] battleground. {For} remainder of game, Luke deploys only to Ahch-To. You may not Force drain on Ahch-To. You may not deploy [Episode I] locations or non-[Episode VII] Luke. You may not deploy Jedi while a Jedi on table. Once per game, may take any one card into hand from Force Pile; reshuffle. {While} this side up, once per turn, may use 1 Force to deploy an Ahch-To location or [Episode VII] battleground from Reserve Deck; reshuffle. {May flip} this card if Luke on Ahch-To and a battle was just initiated involving a Resistance character. We Need Luke Skywalker: {Immediately} place Luke out of play (ignore [Death Star II] objective restrictions, if any). For remainder of battle, opponent may not fire weapons. {While} this side up, opponent's immunity to attrition is limited to < 5. Once during your turn, may peek at the top card of your Force Pile and Reserve Deck; place both cards (in any order) on top of one of those piles. Where you have two unique (•) Resistance characters: once per turn, if you just Force drained, opponent loses 1 Force; and once per turn during battle, may cancel an opponent's just drawn destiny to cause a re-draw."
       },
       "legacy": false
     },
@@ -49939,7 +49939,7 @@
         "characteristics": [
           "female"
         ],
-        "gametext": "Adds 2 to power of anything she pilots. Your total battle destiny here is +1 (+2 if piloting a transport). Once per turn, if a battle just ended, may 'rescue' (retrieve from Lost Pile OR stack on [Set 0] Evacuation Control) a Rebel of ability < 3 forfeited from same location this turn.",
+        "gametext": "Adds 2 to power of anything she pilots. Your total battle destiny here is +1 (+2 if piloting a transport). Once per turn, if a battle just ended here, may 'rescue' (retrieve from Lost Pile) a Rebel of ability < 3 forfeited from same location this turn.",
         "lore": "Chief Controller at Echo Command. Responsible for communicating orders to the troops. Personally gives firing orders to Ion Cannon Control."
       },
       "conceptBy": "(Original concept by Camden Yanaga)",
@@ -55075,7 +55075,7 @@
         "icons": [
           "A New Hope"
         ],
-        "gametext": "USED: Cancel Elis Helrot. (Immune to Sense) OR Cancel a smuggler's game text for remainder of turn. OR Take [Reflections II] Chewie or Mercenary Armor into hand from Reserve Deck; reshuffle.  LOST: During your move phase, 'break cover' of an Undercover spy.",
+        "gametext": "USED: Cancel Elis Helrot or Stunning Leader. (Immune to Sense) OR Cancel a smuggler's game text for remainder of turn. OR Take Mercenary Armor or [Reflections II] Chewie into hand from Reserve Deck; reshuffle.  LOST: During your move phase, 'break cover' of an Undercover spy.",
         "lore": "Smugglers and other rogues frequent spaceports along trade routes. 'Your friend is quite a mercenary. I wonder if he really cares about anything, or anybody.'."
       },
       "legacy": false
@@ -55467,7 +55467,7 @@
         "characteristics": [
           "Jedi Council member"
         ],
-        "gametext": "Power +3 while defending a battle (or while exactly two Jedi on table). Once per game, during your move phase, may relocate to a battleground site as a regular move. Immune to attrition.",
+        "gametext": "Power +3 while defending a battle (or while exactly two Jedi on table). Once per game, during your move phase, may relocate to an [Episode I] battleground site as a regular move. Immune to attrition.",
         "lore": "Jedi Council Member. 'More to say have you?'",
         "extraText": [
           "Jedi Master"
@@ -55538,37 +55538,6 @@
       "legacy": false
     },
     {
-      "id": 6835,
-      "gempId": "213_48",
-      "side": "Light",
-      "rarity": "R",
-      "set": "213",
-      "printings": [
-        {
-          "set": "213"
-        }
-      ],
-      "front": {
-        "title": "Twilight Is Upon Me (V)",
-        "imageUrl": "https://res.starwarsccg.org/cards/Virtual13-Light/large/twilightisuponme.gif",
-        "type": "Effect",
-        "uniqueness": "*",
-        "destiny": "5",
-        "gametext": "If He Is The Chosen One on table, deploy on table. You may not deploy [Episode I] sites. While Luke with Prophecy Of The Force, your Force generation is +1 and opponent's Force generation is -1. May deploy Yoda's Hut from Reserve Deck; reshuffle. (Immune to Alter.)",
-        "lore": "When a Jedi dies, the spirit spreads through the Force and touches the living."
-      },
-      "pulls": [
-        "Yoda's Hut"
-      ],
-      "pulledBy": [
-        "The Signal",
-        "We Wish To Board At Once",
-        "Your Insight Serves You Well",
-        "Your Insight Serves You Well & Staging Areas"
-      ],
-      "legacy": false
-    },
-    {
       "id": 6836,
       "gempId": "213_47",
       "side": "Light",
@@ -55630,40 +55599,18 @@
         }
       ],
       "front": {
-        "title": "•Anakin Skywalker",
+        "title": "•Anakin Skywalker (V)",
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual13-Light/large/anakinskywalker.gif",
         "type": "Interrupt",
         "subType": "Used or Lost",
         "uniqueness": "*",
         "destiny": "4",
-        "gametext": "If I Feel The Conflict on table: USED: Take a Death Star II site into hand from Reserve Deck; reshuffle. OR Relocate Prophecy Of The Force to a site. LOST: During battle at a site, if Luke armed with [Death Star II] Luke's Lightsaber, choose: Add one destiny to attrition. OR Cancel the game text of a character of ability < 4.",
+        "gametext": "USED: Unless Twilight Is Upon Me on table, take [Cloud City] or [Endor] Leia or [Dagobah] Luke into hand from Reserve Deck; reshuffle. LOST: During a battle at a site involving [Endor] Leia or [Dagobah] or [Death Star II] Luke, choose: Add one destiny to attrition. OR Cancel the game text of a character of ability < 4.",
         "lore": "'You were right about me. Tell your sister ... you were right.'"
       },
       "pulledBy": [
         "Twilight Is Upon Me"
       ],
-      "legacy": false
-    },
-    {
-      "id": 6839,
-      "gempId": "213_52",
-      "side": "Light",
-      "rarity": "R",
-      "set": "213",
-      "printings": [
-        {
-          "set": "213"
-        }
-      ],
-      "front": {
-        "title": "Help Me Obi-Wan Kenobi & Quite A Mercenary",
-        "imageUrl": "https://res.starwarsccg.org/cards/Virtual13-Light/large/helpmeobiwankenobi&quiteamercenary.gif",
-        "type": "Interrupt",
-        "subType": "Used or Lost",
-        "destiny": "4",
-        "gametext": "If opponent's Audience Chamber on table, opponent loses 1 Force when you play this Interrupt. USED: Cancel Elis Helrot or Stunning Leader. [Immune to Sense.] OR Cancel a smuggler's game text for remainder of turn. LOST: During your move phase, 'break cover' of an Undercover spy. OR During battle, target an opponent's character of ability < 2 with your Jedi or smuggler; target is excluded from battle.",
-        "lore": "Blank"
-      },
       "legacy": false
     },
     {
@@ -55965,6 +55912,316 @@
         ],
         "gametext": "Adds 2 to power of anything he pilots. When choosing the destiny value of this card, must use 3 Force to choose 7. May deploy as a 'react.' Your Rebel pilots aboard snub fighters here are forfeit +1.",
         "lore": "Puck Naeco. Green and Red Squadron."
+      },
+      "legacy": false
+    },
+    {
+      "id": 6862,
+      "gempId": "214_16",
+      "side": "Light",
+      "rarity": "U",
+      "set": "214",
+      "printings": [{
+        "set": "214"
+      }],
+      "front": {
+        "title": "•Beaumont Kin",
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual14-Light/large/beaumontkin.gif",
+        "type": "Character",
+        "subType": "Resistance",
+        "uniqueness": "*",
+        "destiny": "3",
+        "power": "3",
+        "ability": "2",
+        "deploy": "2",
+        "forfeit": "4",
+        "icons": [
+          "Warrior",
+          "Episode VII"
+        ],
+        "gametext": "At same and related locations, deploy cost of opponent's characters may not be modified. If you have ten cards in Lost Pile, Force drain +1 here. Once during battle, may add Beaumont’s power to another character present; Beaumont is 'hit.'",
+        "lore": "Blank"
+      },
+      "legacy": false
+    },
+    {
+      "id": 6863,
+      "gempId": "214_17",
+      "side": "Light",
+      "rarity": "C",
+      "set": "214",
+      "printings": [{
+        "set": "214"
+      }],
+      "front": {
+        "title": "•Corporal Pao",
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual14-Light/large/corporalpao.gif",
+        "type": "Character",
+        "subType": "Rebel",
+        "uniqueness": "*",
+        "destiny": "2",
+        "power": "2",
+        "ability": "2",
+        "deploy": "2",
+        "forfeit": "3",
+        "icons": [
+          "Warrior"
+        ],
+        "gametext": "Power +1 while with Melshi or Sefla. During battle, may add X (limit 3) to a just drawn battle destiny, where X = number of your spies out of play. If just lost from a site, may draw cards from Reserve Deck until you have up to six cards in hand.",
+        "lore": "Drabatan trooper."
+      },
+      "legacy": false
+    },
+    {
+      "id": 6864,
+      "gempId": "214_18",
+      "side": "Light",
+      "rarity": "U",
+      "set": "214",
+      "printings": [{
+        "set": "214"
+      }],
+      "front": {
+        "title": "•Din Djarin",
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual14-Light/large/dindjarin.gif",
+        "type": "Character",
+        "subType": "Alien",
+        "uniqueness": "*",
+        "destiny": "1",
+        "power": "4",
+        "ability": "3",
+        "armor": "5",
+        "deploy": "3",
+        "forfeit": "6",
+        "icons": [
+          "Pilot",
+          "Warrior x2"
+        ],
+        "gametext": "Adds 2 to power of anything he pilots. While with an alien, adds one battle destiny. Once per turn, may target opponent’s non-'hit' character here. If Din on table when target lost this turn, choose: retrieve 1 Force or place target in Used Pile to retrieve 2 Force.",
+        "lore": "Mandalorian."
+      },
+      "legacy": false
+    },
+    {
+      "id": 6865,
+      "gempId": "214_22",
+      "side": "Light",
+      "rarity": "U",
+      "set": "214",
+      "printings": [{
+        "set": "214"
+      }],
+      "front": {
+        "title": "•Rey, All Of The Jedi",
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual14-Light/large/reyallofthejedi.gif",
+        "type": "Character",
+        "subType": "Resistance",
+        "uniqueness": "*",
+        "destiny": "1",
+        "power": "6",
+        "ability": "6",
+        "deploy": "6",
+        "forfeit": "8",
+        "icons": [
+          "Pilot",
+          "Warrior",
+          "Episode VII"
+        ],
+        "gametext": "Once during your control phase, may search your Lost Pile and choose two cards; opponent places one out of play (retrieve the other). Once per game, may deploy a lightsaber on Rey from Reserve Deck; reshuffle. Immune to attrition < 5.",
+        "lore": "Female.",
+        "extraText": [
+          "Jedi Knight"
+        ]
+      },
+      "legacy": false
+    },
+    {
+      "id": 6866,
+      "gempId": "214_20",
+      "side": "Light",
+      "rarity": "U",
+      "set": "214",
+      "printings": [{
+        "set": "214"
+      }],
+      "front": {
+        "title": "Our Only Hope (V)",
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual14-Light/large/ouronlyhope.gif",
+        "type": "Interrupt",
+        "subType": "Used",
+        "destiny": "4",
+        "gametext": "Relocate Prophecy Of The Force to a site. OR If He Is The Chosen One or He Will Bring Balance on table, take Yoda's Hut or a Death Star II site into hand from Reserve Deck; reshuffle."
+      },
+      "legacy": false
+    },
+    {
+      "id": 6867,
+      "gempId": "214_13",
+      "side": "Light",
+      "rarity": "PM",
+      "set": "214",
+      "printings": [{
+        "set": "214"
+      }],
+      "front": {
+        "title": "Alter & Friendly Fire (V)",
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual14-Light/large/alterfriendlyfire.gif",
+        "type": "Interrupt",
+        "subType": "Used Or Lost",
+        "destiny": "4",
+        "gametext": "This Interrupt is immune to opponent's Objective and does not cause you to lose Force to There Is No Try. USED: Cancel Sense. LOST: Target an Effect, Political Effect, or Utinni Effect, and one of your characters on table. Draw destiny. If destiny < character's ability, target Effect is canceled. OR If a battle was just initiated at a site where opponent has four or more characters, draw destiny. If destiny < number of opponent's characters at that site, opponent chooses one to be lost."
+      },
+      "canceledBy": [
+        "Control",
+        "Control & Set For Stun",
+        "Control (EP1)",
+        "Sense",
+        "Sense (EP1)"
+      ],
+      "cancels": [
+        "One Effect"
+      ],
+      "legacy": false
+    },
+    {
+      "id": 6868,
+      "gempId": "214_19",
+      "side": "Light",
+      "rarity": "R",
+      "set": "Endor",
+      "front": {
+        "title": "•Endor: Chief Chirpa's Hut (V)",
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual14-Light/large/endorchiefchirpashut.gif",
+        "type": "Location",
+        "subType": "Site",
+        "uniqueness": "*",
+        "destiny": "0",
+        "icons": [
+          "Interior",
+          "Planet"
+        ],
+        "lightSideIcons": 2,
+        "darkSideIcons": 0,
+        "gametext": "Light: You may not generate more than 2 Force at non-battlegrounds. Ewoks deploy -2 here.  Dark: Force generation here may not be prevented by Objectives."
+      },
+      "pulledBy": [
+        "Wuta"
+      ],
+      "legacy": false
+    },
+    {
+      "id": 6869,
+      "gempId": "214_14",
+      "side": "Light",
+      "rarity": "C2",
+      "set": "214",
+      "printings": [{
+        "set": "214"
+      }],
+      "front": {
+        "title": "ARC-170 Starfighter",
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual14-Light/large/arc170starfighter.gif",
+        "type": "Starship",
+        "subType": "Starfighter: Reconnaissance Fighter",
+        "destiny": "3",
+        "power": "3",
+        "maneuver": "4",
+        "hyperspeed": "4",
+        "deploy": "3",
+        "forfeit": "6",
+        "icons": [
+          "Pilot",
+          "Nav Computer",
+          "Scomp Link",
+          "Republic",
+          "Episode I",
+          "Clone Army"
+        ],
+        "gametext": "May add 1 pilot or passenger. Permanent pilot provides ability of 2. Opponent may not 'react' to or from here. During battle, if about to be lost before the damage segment, lost at end of battle instead.",
+        "lore": "Blank."
+      }
+    },
+    {
+      "id": 6870,
+      "gempId": "215_1",
+      "side": "Light",
+      "rarity": "U",
+      "set": "215",
+      "printings": [{
+        "set": "215"
+      }],
+      "front": {
+        "title": "•Odd Ball's Torrent Starfighter",
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual15-Light/large/oddballstorrentstarfighter.gif",
+        "type": "Starship",
+        "subType": "Starfighter: V-19 Torrent Starfighter",
+        "uniqueness": "*",
+        "destiny": "3",
+        "power": "1",
+        "maneuver": "3",
+        "hyperspeed": "3",
+        "deploy": "1",
+        "forfeit": "3",
+        "icons": [
+          "Nav Computer",
+          "Scomp Link",
+          "Republic",
+          "Episode I",
+          "Clone Army"
+        ],
+        "gametext": "May add 1 clone pilot. Odd Ball deploys -1 aboard. While Odd Ball piloting, power and hyperspeed +1, and adds one destiny to total power. Immune to attrition < 3 (< 5 while Odd Ball piloting).",
+        "lore": "Blank."
+      }
+    },
+    {
+      "id": 6871,
+      "gempId": "214_21",
+      "side": "Light",
+      "rarity": "U",
+      "set": "214",
+      "printings": [{
+        "set": "214"
+      }],
+      "front": {
+        "title": "•Plo Koon's Jedi Starfighter",
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual14-Light/large/plokoonsjedistarfighter.gif",
+        "type": "Starship",
+        "subType": "Starfighter: Jedi Interceptor",
+        "uniqueness": "*",
+        "destiny": "2",
+        "power": "2",
+        "maneuver": "*",
+        "hyperspeed": "6",
+        "deploy": "2",
+        "forfeit": "5",
+        "icons": [
+          "Nav Computer",
+          "Scomp Link",
+          "Republic",
+          "Episode I",
+          "Clone Army"
+        ],
+        "gametext": "May add 1 Jedi pilot. *Maneuver = pilot's ability. While Plo piloting, power +2, immune to attrition < 3, and once per turn, may cancel and redraw your weapon or battle destiny just drawn here.",
+        "lore": "Blank."
+      }
+    },
+    {
+      "id": 6872,
+      "gempId": "214_15",
+      "side": "Light",
+      "rarity": "U",
+      "set": "214",
+      "printings": [{
+        "set": "214"
+      }],
+      "front": {
+        "title": "•Ahsoka's Shoto Lightsaber",
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual14-Light/large/ahsokasshotolightsaber.gif",
+        "type": "Weapon",
+        "subType": "Character",
+        "destiny": "2",
+        "gametext": "Deploy on Ahsoka or a non-[Episode I] Padawan. May target a character or creature for free. Draw two destiny. Target hit, and may not be used to satisfy attrition, if total destiny > defense value (if hit target is an Inquisitor, opponent also loses 1 Force).",
+        "lore": "Blank."
       },
       "legacy": false
     }
