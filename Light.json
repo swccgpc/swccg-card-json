@@ -1214,6 +1214,9 @@
       "set": "200d",
       "printings": [
         {
+          "set": "200"
+        },
+        {
           "set": "200d"
         }
       ],
@@ -13565,6 +13568,9 @@
       "set": "200d",
       "printings": [
         {
+          "set": "200"
+        },
+        {
           "set": "200d"
         }
       ],
@@ -13589,6 +13595,9 @@
       "rarity": "PM",
       "set": "200d",
       "printings": [
+        {
+          "set": "200"
+        },
         {
           "set": "200d"
         }
@@ -18922,6 +18931,9 @@
       "rarity": "R",
       "set": "200d",
       "printings": [
+        {
+          "set": "200"
+        },
         {
           "set": "200d"
         }
@@ -35956,6 +35968,9 @@
       "set": "200d",
       "printings": [
         {
+          "set": "203"
+        },
+        {
           "set": "200d"
         }
       ],
@@ -43927,6 +43942,9 @@
       "set": "200d",
       "printings": [
         {
+          "set": "200"
+        },
+        {
           "set": "200d"
         }
       ],
@@ -48638,6 +48656,9 @@
       "set": "200d",
       "printings": [
         {
+          "set": "200"
+        },
+        {
           "set": "200d"
         }
       ],
@@ -48859,6 +48880,9 @@
       "rarity": "PM",
       "set": "200d",
       "printings": [
+        {
+          "set": "209"
+        },
         {
           "set": "200d"
         }
@@ -53701,6 +53725,9 @@
       "set": "200d",
       "printings": [
         {
+          "set": "200"
+        },
+        {
           "set": "200d"
         }
       ],
@@ -54560,6 +54587,9 @@
       "set": "200d",
       "printings": [
         {
+          "set": "200"
+        },
+        {
           "set": "200d"
         }
       ],
@@ -54584,6 +54614,9 @@
       "rarity": "PM",
       "set": "200d",
       "printings": [
+        {
+          "set": "200"
+        },
         {
           "set": "200d"
         }
@@ -55033,6 +55066,9 @@
       "rarity": "PM",
       "set": "200d",
       "printings": [
+        {
+          "set": "301"
+        },
         {
           "set": "200d"
         }
@@ -55490,6 +55526,9 @@
       "set": "200d",
       "printings": [
         {
+          "set": "213"
+        },
+        {
           "set": "200d"
         }
       ],
@@ -55921,9 +55960,11 @@
       "side": "Light",
       "rarity": "U",
       "set": "214",
-      "printings": [{
-        "set": "214"
-      }],
+      "printings": [
+        {
+          "set": "214"
+        }
+      ],
       "front": {
         "title": "•Beaumont Kin",
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual14-Light/large/beaumontkin.gif",
@@ -55950,9 +55991,11 @@
       "side": "Light",
       "rarity": "C",
       "set": "214",
-      "printings": [{
-        "set": "214"
-      }],
+      "printings": [
+        {
+          "set": "214"
+        }
+      ],
       "front": {
         "title": "•Corporal Pao",
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual14-Light/large/corporalpao.gif",
@@ -55978,9 +56021,11 @@
       "side": "Light",
       "rarity": "U",
       "set": "214",
-      "printings": [{
-        "set": "214"
-      }],
+      "printings": [
+        {
+          "set": "214"
+        }
+      ],
       "front": {
         "title": "•Din Djarin",
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual14-Light/large/dindjarin.gif",
@@ -56008,9 +56053,11 @@
       "side": "Light",
       "rarity": "U",
       "set": "214",
-      "printings": [{
-        "set": "214"
-      }],
+      "printings": [
+        {
+          "set": "214"
+        }
+      ],
       "front": {
         "title": "•Rey, All Of The Jedi",
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual14-Light/large/reyallofthejedi.gif",
@@ -56041,9 +56088,11 @@
       "side": "Light",
       "rarity": "U",
       "set": "214",
-      "printings": [{
-        "set": "214"
-      }],
+      "printings": [
+        {
+          "set": "214"
+        }
+      ],
       "front": {
         "title": "Our Only Hope (V)",
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual14-Light/large/ouronlyhope.gif",
@@ -56060,9 +56109,11 @@
       "side": "Light",
       "rarity": "PM",
       "set": "214",
-      "printings": [{
-        "set": "214"
-      }],
+      "printings": [
+        {
+          "set": "214"
+        }
+      ],
       "front": {
         "title": "Alter & Friendly Fire (V)",
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual14-Light/large/alterfriendlyfire.gif",
@@ -56088,7 +56139,12 @@
       "gempId": "214_19",
       "side": "Light",
       "rarity": "R",
-      "set": "Endor",
+      "set": "214",
+      "printings": [
+        {
+          "set": "214"
+        }
+      ],
       "front": {
         "title": "•Endor: Chief Chirpa's Hut (V)",
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual14-Light/large/endorchiefchirpashut.gif",
@@ -56115,9 +56171,11 @@
       "side": "Light",
       "rarity": "C2",
       "set": "214",
-      "printings": [{
-        "set": "214"
-      }],
+      "printings": [
+        {
+          "set": "214"
+        }
+      ],
       "front": {
         "title": "ARC-170 Starfighter",
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual14-Light/large/arc170starfighter.gif",
@@ -56139,7 +56197,8 @@
         ],
         "gametext": "May add 1 pilot or passenger. Permanent pilot provides ability of 2. Opponent may not 'react' to or from here. During battle, if about to be lost before the damage segment, lost at end of battle instead.",
         "lore": "Blank."
-      }
+      },
+      "legacy": false
     },
     {
       "id": 6870,
@@ -56147,9 +56206,11 @@
       "side": "Light",
       "rarity": "U",
       "set": "215",
-      "printings": [{
-        "set": "215"
-      }],
+      "printings": [
+        {
+          "set": "215"
+        }
+      ],
       "front": {
         "title": "•Odd Ball's Torrent Starfighter",
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual15-Light/large/oddballstorrentstarfighter.gif",
@@ -56171,7 +56232,8 @@
         ],
         "gametext": "May add 1 clone pilot. Odd Ball deploys -1 aboard. While Odd Ball piloting, power and hyperspeed +1, and adds one destiny to total power. Immune to attrition < 3 (< 5 while Odd Ball piloting).",
         "lore": "Blank."
-      }
+      },
+      "legacy": false
     },
     {
       "id": 6871,
@@ -56179,9 +56241,11 @@
       "side": "Light",
       "rarity": "U",
       "set": "214",
-      "printings": [{
-        "set": "214"
-      }],
+      "printings": [
+        {
+          "set": "214"
+        }
+      ],
       "front": {
         "title": "•Plo Koon's Jedi Starfighter",
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual14-Light/large/plokoonsjedistarfighter.gif",
@@ -56203,7 +56267,8 @@
         ],
         "gametext": "May add 1 Jedi pilot. *Maneuver = pilot's ability. While Plo piloting, power +2, immune to attrition < 3, and once per turn, may cancel and redraw your weapon or battle destiny just drawn here.",
         "lore": "Blank."
-      }
+      },
+      "legacy": false
     },
     {
       "id": 6872,
@@ -56211,9 +56276,11 @@
       "side": "Light",
       "rarity": "U",
       "set": "214",
-      "printings": [{
-        "set": "214"
-      }],
+      "printings": [
+        {
+          "set": "214"
+        }
+      ],
       "front": {
         "title": "•Ahsoka's Shoto Lightsaber",
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual14-Light/large/ahsokasshotolightsaber.gif",

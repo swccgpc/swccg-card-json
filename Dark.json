@@ -842,6 +842,9 @@
       "set": "200d",
       "printings": [
         {
+          "set": "200"
+        },
+        {
           "set": "200d"
         }
       ],
@@ -13771,6 +13774,9 @@
       "set": "200d",
       "printings": [
         {
+          "set": "200"
+        },
+        {
           "set": "200d"
         }
       ],
@@ -18892,6 +18898,9 @@
       "set": "200d",
       "printings": [
         {
+          "set": "200"
+        },
+        {
           "set": "200d"
         }
       ],
@@ -18916,6 +18925,9 @@
       "rarity": "PM",
       "set": "200d",
       "printings": [
+        {
+          "set": "200"
+        },
         {
           "set": "200d"
         }
@@ -23000,6 +23012,9 @@
       "set": "200d",
       "printings": [
         {
+          "set": "200"
+        },
+        {
           "set": "200d"
         }
       ],
@@ -24299,6 +24314,9 @@
       "rarity": "C",
       "set": "200d",
       "printings": [
+        {
+          "set": "200"
+        },
         {
           "set": "200d"
         }
@@ -49655,6 +49673,9 @@
       "set": "200d",
       "printings": [
         {
+          "set": "200"
+        },
+        {
           "set": "200d"
         }
       ],
@@ -51631,6 +51652,9 @@
       "set": "200d",
       "printings": [
         {
+          "set": "200"
+        },
+        {
           "set": "200d"
         }
       ],
@@ -51655,6 +51679,9 @@
       "rarity": "PM",
       "set": "200d",
       "printings": [
+        {
+          "set": "200"
+        },
         {
           "set": "200d"
         }
@@ -53022,6 +53049,9 @@
       "set": "200d",
       "printings": [
         {
+          "set": "213"
+        },
+        {
           "set": "200d"
         }
       ],
@@ -53640,9 +53670,11 @@
       "side": "Dark",
       "rarity": "U1",
       "set": "214",
-      "printings": [{
-        "set": "214"
-      }],
+      "printings": [
+        {
+          "set": "214"
+        }
+      ],
       "front": {
         "title": "•Ochi",
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual14-Dark/large/ochi.gif",
@@ -53666,16 +53698,18 @@
         "lore": "Assassin."
       },
       "legacy": false
-    }, 
+    },
     {
       "id": 6851,
       "gempId": "214_8",
       "side": "Dark",
       "rarity": "U1",
       "set": "214",
-      "printings": [{
-        "set": "214"
-      }],
+      "printings": [
+        {
+          "set": "214"
+        }
+      ],
       "front": {
         "title": "•Palpatine, Emperor Returned",
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual14-Dark/large/palpatineemperorreturned.gif",
@@ -53698,16 +53732,18 @@
         "lore": "Leader."
       },
       "legacy": false
-    }, 
+    },
     {
       "id": 6852,
       "gempId": "214_10",
       "side": "Dark",
       "rarity": "R",
       "set": "214",
-      "printings": [{
-        "set": "214"
-      }],
+      "printings": [
+        {
+          "set": "214"
+        }
+      ],
       "front": {
         "title": "•The Client",
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual14-Dark/large/theclient.gif",
@@ -53723,16 +53759,18 @@
         "lore": "Blank"
       },
       "legacy": false
-    }, 
+    },
     {
       "id": 6853,
       "gempId": "214_11",
       "side": "Dark",
       "rarity": "C1",
       "set": "214",
-      "printings": [{
-        "set": "214"
-      }],
+      "printings": [
+        {
+          "set": "214"
+        }
+      ],
       "front": {
         "title": "•The Dead Speak!",
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual14-Dark/large/thedeadspeak.gif",
@@ -53746,16 +53784,18 @@
         "lore": "Blank"
       },
       "legacy": false
-    }, 
+    },
     {
       "id": 6854,
       "gempId": "214_12",
       "side": "Dark",
       "rarity": "R",
       "set": "214",
-      "printings": [{
-        "set": "214"
-      }],
+      "printings": [
+        {
+          "set": "214"
+        }
+      ],
       "front": {
         "title": "•The First Order Was Just The Beginning",
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual14-Dark/large/thefirstorderwasjustthebeginning.gif",
@@ -53769,16 +53809,18 @@
         "lore": "Blank"
       },
       "legacy": false
-    }, 
+    },
     {
       "id": 6855,
       "gempId": "214_1",
       "side": "Dark",
       "rarity": "PM",
       "set": "214",
-      "printings": [{
-        "set": "214"
-      }],
+      "printings": [
+        {
+          "set": "214"
+        }
+      ],
       "front": {
         "title": "Alter & Collateral Damage (V)",
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual14-Dark/large/altercollateraldamage.gif",
@@ -53798,16 +53840,18 @@
         "One Effect"
       ],
       "legacy": false
-    }, 
+    },
     {
       "id": 6856,
       "gempId": "214_4",
       "side": "Dark",
       "rarity": "R",
       "set": "214",
-      "printings": [{
-        "set": "214"
-      }],
+      "printings": [
+        {
+          "set": "214"
+        }
+      ],
       "front": {
         "title": "•Exegol: Sith Throne",
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual14-Dark/large/exegolsiththrone.gif",
@@ -53826,16 +53870,18 @@
         "gametext": "Dark: Once per game, may deploy [Episode VII] Emperor here from Reserve Deck; reshuffle.  Light: No Force drains here. [Light Side] icons are canceled here. Your characters deploy +2 here."
       },
       "legacy": false
-    }, 
+    },
     {
       "id": 6857,
       "gempId": "214_6",
       "side": "Dark",
       "rarity": "C1",
       "set": "214",
-      "printings": [{
-        "set": "214"
-      }],
+      "printings": [
+        {
+          "set": "214"
+        }
+      ],
       "front": {
         "title": "•Kijimi",
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual14-Dark/large/kijimids.gif",
@@ -53850,19 +53896,21 @@
         "lightSideIcons": 1,
         "darkSideIcons": 2,
         "gametext": "Dark: If you control, your starships are hyperspeed +1 when moving from here.  Light: Poe and your smugglers may deploy here as a 'react.'",
-        "parsec": 6
+        "parsec": "6"
       },
       "legacy": false
-    }, 
+    },
     {
       "id": 6858,
       "gempId": "214_2",
       "side": "Dark",
       "rarity": "C2",
       "set": "214",
-      "printings": [{
-        "set": "214"
-      }],
+      "printings": [
+        {
+          "set": "214"
+        }
+      ],
       "front": {
         "title": "•Bestoon Legacy",
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual14-Dark/large/bestoonlegacy.gif",
@@ -53886,17 +53934,20 @@
         ],
         "gametext": "May add 2 pilots and 3 passengers. During your control phase, may peek at the top card of your Reserve Deck; may place it on Used Pile (if card is an assassin, may take it into hand).",
         "lore": "Blank."
-      }
-    }, 
+      },
+      "legacy": false
+    },
     {
       "id": 6859,
       "gempId": "214_5",
       "side": "Dark",
       "rarity": "U",
       "set": "214",
-      "printings": [{
-        "set": "214"
-      }],
+      "printings": [
+        {
+          "set": "214"
+        }
+      ],
       "front": {
         "title": "•Intimidator & •Persecutor",
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual14-Dark/large/intimidatorpersecutor.gif",
@@ -53916,17 +53967,20 @@
         ],
         "gametext": "Deploys -4 to Scarif or opponent's system. May add 4 pilots, 4 TIEs, and 2 vehicles. Permanent pilots provide total ability of 4. While at Scarif, subtracts 2 from attempts to 'blow away' Shield Gate.",
         "lore": "Blank."
-      }
-    }, 
+      },
+      "legacy": false
+    },
     {
       "id": 6860,
       "gempId": "214_9",
       "side": "Dark",
       "rarity": "C",
       "set": "214",
-      "printings": [{
-        "set": "214"
-      }],
+      "printings": [
+        {
+          "set": "214"
+        }
+      ],
       "front": {
         "title": "•Steadfast",
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual14-Dark/large/steadfast.gif",
@@ -53948,17 +54002,20 @@
         ],
         "gametext": "May add 6 pilots, 8 passengers, and 2 starfighters. Permanent pilot provides ability of 2. While alone at a battleground, adds Force icons to equalize them for both sides here. Immune to attrition < 4.",
         "lore": "Blank."
-      }
-    }, 
+      },
+      "legacy": false
+    },
     {
       "id": 6861,
       "gempId": "214_3",
       "side": "Dark",
       "rarity": "U",
       "set": "214",
-      "printings": [{
-        "set": "214"
-      }],
+      "printings": [
+        {
+          "set": "214"
+        }
+      ],
       "front": {
         "title": "•Darksaber",
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual14-Dark/large/darksaber.gif",
