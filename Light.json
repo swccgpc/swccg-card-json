@@ -18947,7 +18947,8 @@
         "icons": [
           "Defensive Shield"
         ],
-        "gametext": "Plays on table. For opponent to deploy a character, starship, or vehicle for free (except by that card's own game text), opponent must first use 2 Force."
+        "gametext": "Plays on table. For opponent to deploy a character, starship, or vehicle for free (except by that card's own game text), opponent must first use 2 Force.",
+        "lore": "Blank."
       },
       "counterpart": "Imperial Detention",
       "legacy": false
@@ -48670,7 +48671,8 @@
         "icons": [
           "Defensive Shield"
         ],
-        "gametext": "Plays on table. While you have 12 or fewer cards in hand, opponent may not remove cards from your hand (except with Monnok). Once per turn (even at start of turn), may target a [Coruscant] Political Effect; it is suspended for the remainder of the turn."
+        "gametext": "Plays on table. While you have 12 or fewer cards in hand, opponent may not remove cards from your hand (except with Monnok). Once per turn (even at start of turn), may target a [Coruscant] Political Effect; it is suspended for the remainder of the turn.",
+        "lore": "Blank."
       },
       "legacy": false
     },
@@ -53740,7 +53742,8 @@
         "icons": [
           "Defensive Shield"
         ],
-        "gametext": "Plays on table. Colo Claw Fish is canceled. Opponent must first use X Force to deploy a non-unique card (except a Jawa or Tusken Raider) to a location, where X = the number of copies of that card at that location."
+        "gametext": "Plays on table. Colo Claw Fish is canceled. Opponent must first use X Force to deploy a non-unique card (except a Jawa or Tusken Raider) to a location, where X = the number of copies of that card at that location.",
+        "lore": "Blank."
       },
       "cancels": [
         "Colo Claw Fish"
