@@ -52402,8 +52402,46 @@
         "forfeit": "5",
         "icons": [
           "Warrior",
-          "Episode I",
-          "Permanent Weapon"
+          "Permanent Weapon",
+          "Episode I"
+        ],
+        "characteristics": [
+          "bounty hunter",
+          "assassin"
+        ],
+        "gametext": "Permanent weapon is •Aurra Sing's Blaster Rifle (may target a character for free; if targeting a Jedi, draw two destiny, otherwise draw destiny; target hit, and its forfeit = 0, if total destiny +1 > defense value).",
+        "lore": "Bounty hunter. Assassin.",
+        "extraText": [
+          "Force-Sensitive"
+        ]
+      },
+      "legacy": false
+    },
+    {
+      "id": 6862,
+      "gempId": "212_3",
+      "side": "Dark",
+      "rarity": "R",
+      "set": "212",
+      "printings": [
+        {
+          "set": "212"
+        }
+      ],
+      "front": {
+        "title": "•Aurra Sing With Blaster Rifle (AI)",
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual12-Dark/large/aurrasingwithblasterrifleai.gif",
+        "type": "Character",
+        "subType": "Alien",
+        "destiny": "2",
+        "power": "4",
+        "ability": "4",
+        "deploy": "4",
+        "forfeit": "5",
+        "icons": [
+          "Warrior",
+          "Permanent Weapon",
+          "Episode I"
         ],
         "characteristics": [
           "bounty hunter",
