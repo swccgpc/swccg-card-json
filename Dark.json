@@ -731,7 +731,7 @@
         "subType": "Used Or Lost",
         "uniqueness": "*",
         "destiny": "4",
-        "gametext": "USED: Take Lobot into hand from Reserve Deck; reshuffle.  LOST: If your Lando is in a battle at a Cloud City site, add two battle destiny. OR If Han and your Lando are involved in the same battle, cancelone opponent's battle destiny just after it is revealed.",
+        "gametext": "USED: Take Lobot into hand from Reserve Deck; reshuffle.  LOST: If your Lando is in a battle at a Cloud City site, add two battle destiny. OR If Han and your Lando are involved in the same battle, cancel one opponent's battle destiny just after it is revealed.",
         "lore": "'I got my own problems.'"
       },
       "pulls": [
@@ -5827,7 +5827,7 @@
           "Trade Federation (starship)"
         ],
         "gametext": "Unless Fondor on table, may deploy -3 as a 'react.' May add 3 pilots and 4 passengers. Permanent pilot provides ability of 2.",
-        "lore": "These heavily modifed battleships are used to control and direct the Trade Federation's automated army. Easily identified by its array of sensors and antennae."
+        "lore": "These heavily modified battleships are used to control and direct the Trade Federation's automated army. Easily identified by its array of sensors and antennae."
       },
       "counterpart": "Spiral",
       "legacy": false
@@ -5883,7 +5883,7 @@
         "type": "Effect",
         "uniqueness": "*",
         "destiny": "2",
-        "gametext": "Deploy on your side of table. During a battle, you may place out of playfrom hand a copy of any unique (•) card participating in that battle to reduce attrition against you by that card's forfeit value. (Immune to Alter while you occupy a battleground.)",
+        "gametext": "Deploy on your side of table. During a battle, you may place out of play from hand a copy of any unique (•) card participating in that battle to reduce attrition against you by that card's forfeit value. (Immune to Alter while you occupy a battleground.)",
         "lore": "Vader was nearly killed when Han damaged his TIE fighter during a surprise attack in the Death Star trench."
       },
       "pulledBy": [
@@ -7388,7 +7388,7 @@
           "Imperial (starship)",
           "bomber"
         ],
-        "gametext": "Permanent pilot is *Jonus, who provides ability of 2. This starship's missile weapon destiny draws are +1. If at a system you control, your total power at related sistes is +1.",
+        "gametext": "Permanent pilot is *Jonus, who provides ability of 2. This starship's missile weapon destiny draws are +1. If at a system you control, your total power at related sites is +1.",
         "lore": "TIE bomber repaired after being struck by an asteroid in the Anoat system. Stationed aboard second Death Star battle station.",
         "extraText": [
           "No Hyperdrive"
@@ -9193,7 +9193,7 @@
           "leader",
           "scout"
         ],
-        "gametext": "While at an exterior planet site, power +2, immune to attrition < 3 and draws one battle destiny if not able to otherwise. When present with a Scomplink, cancels Surpise Assault at a related site where you have a spy or scout.",
+        "gametext": "While at an exterior planet site, power +2, immune to attrition < 3 and draws one battle destiny if not able to otherwise. When present with a Scomplink, cancels Surprise Assault at a related site where you have a spy or scout.",
         "lore": "Scout. Special forces leader. Convinced superiors that wilderness survival and recon training are necessary for militia dominance, despite technological superiority."
       },
       "pulledBy": [
@@ -9507,7 +9507,7 @@
         "uniqueness": "*",
         "destiny": "5",
         "gametext": "Deploy on table. During your deploy phase, you may reveal one unpiloted starfighter from hand to takes its matching pilot character from Reserve Deck (or vice versa) and deploy both simultaneously; reshuffle. (Immune to Alter.)",
-        "lore": "Being stationed at Endor during the construction of the second Dearth Star allowes Imperial pilots time to train in the latest starfighter combat techniques."
+        "lore": "Being stationed at Endor during the construction of the second Dearth Star allows Imperial pilots time to train in the latest starfighter combat techniques."
       },
       "pulledBy": [
         "Desperate Counter",
@@ -9540,7 +9540,7 @@
           "Death Star II"
         ],
         "gametext": "Deploy on table.  Tallon Roll is canceled.  Once per turn, may reveal an unpiloted starfighter from hand to take its matching pilot character into hand from Reserve Deck (or vice versa) and deploy both simultaneously; reshuffle.  Your unique (•) TIEs (except Scythe Squadron TIEs) at systems may use 1 Force to relocate (as a regular move) to a system within 3 parsecs. (Immune to Alter.)",
-        "lore": "Being stationed at Endor during the construction of the second Dearth Star allowes Imperial pilots time to train in the latest starfighter combat techniques."
+        "lore": "Being stationed at Endor during the construction of the second Dearth Star allows Imperial pilots time to train in the latest starfighter combat techniques."
       },
       "pulledBy": [
         "Desperate Counter",
@@ -12716,7 +12716,7 @@
           "Trade Federation"
         ],
         "gametext": "While no other characters present, if opponent just lost a Jedi from table, may lose 1 Force to place that Jedi out of play. While on Coruscant, may use 1 Force to add one battle destiny in a battle your Neimoidian is in. Immune to attrition.",
-        "lore": "Mysterious Sith Master who is manipulating the Trade Federation for his own nefarious ends. Shrouded in mystery, his identity and aganda remain unclear.",
+        "lore": "Mysterious Sith Master who is manipulating the Trade Federation for his own nefarious ends. Shrouded in mystery, his identity and agenda remain unclear.",
         "extraText": [
           "Dark Jedi Master"
         ]
@@ -12756,7 +12756,7 @@
           "Episode I"
         ],
         "gametext": "While no other characters present, if opponent just lost a Jedi from table, may lose 1 Force to place that Jedi out of play. While on Coruscant, may use 1 Force to add one battle destiny in a battle your Neimoidian is in. Immune to attrition.",
-        "lore": "Mysterious Sith Master who is manipulating the Trade Federation for his own nefarious ends. Shrouded in mystery, his identity and aganda remain unclear.",
+        "lore": "Mysterious Sith Master who is manipulating the Trade Federation for his own nefarious ends. Shrouded in mystery, his identity and agenda remain unclear.",
         "extraText": [
           "Dark Jedi Master"
         ]
@@ -14501,7 +14501,7 @@
           "assassin"
         ],
         "gametext": "Adds 2 to power of anything he pilots. Power +1 for each opponent's character present. While present, may reduce Han's forfeit to zero.",
-        "lore": "Corellian bounty hunter. Assassin trained by the Empire. Has reflexenhancing cyber implants. Gravely injured during a swoop race in the crystal swamp of Agrilat. Blames Han Solo."
+        "lore": "Corellian bounty hunter. Assassin trained by the Empire. Has reflex-enhancing cyber implants. Gravely injured during a swoop race in the crystal swamp of Agrilat. Blames Han Solo."
       },
       "pulledBy": [
         "Double Back",
@@ -14553,7 +14553,7 @@
           "assassin"
         ],
         "gametext": "Adds 2 to power of anything he pilots. Characters about to be 'hit' by Dengar may be captured instead. If Dengar is about to be 'hit' while escorting a captive, captive is hit instead. If Dengar just seized a Rebel or a smuggler, opponent loses 1 Force (2 if Han).",
-        "lore": "Corellian bounty hunter. Assassin trained by the Empire. Has reflexenhancing cyber implants. Gravely injured during a swoop race in the crystal swamp of Agrilat. Blames Han Solo."
+        "lore": "Corellian bounty hunter. Assassin trained by the Empire. Has reflex-enhancing cyber implants. Gravely injured during a swoop race in the crystal swamp of Agrilat. Blames Han Solo."
       },
       "pulledBy": [
         "Double Back",
@@ -15190,7 +15190,7 @@
           "Trade Federation (starship)"
         ],
         "gametext": "Deploys -1 to same location as your battleship. While with another droid starfighter at a system, opponent may not draw more than one battle destiny here.",
-        "lore": "1308 was one of several droids who aralyzed the N-1 starfighter during the Trade Federation's occupation of Naboo. Was unable to calculate the 'human factor' inside the N-1.",
+        "lore": "1308 was one of several droids who analyzed the N-1 starfighter during the Trade Federation's occupation of Naboo. Was unable to calculate the 'human factor' inside the N-1.",
         "extraText": [
           "No Hyperdrive"
         ]
@@ -15825,7 +15825,7 @@
           "laser cannon"
         ],
         "gametext": "Use 4 Force to deploy on Jabba's Sail Barge or your sandcrawler; it is power +3 and immune to attrition < 5. If your warrior aboard here, may target a vehicle using 2 Force. Draw destiny. Target hit if destiny +2 > defense value.",
-        "lore": "Similar power output to the Atgar P-tower. Equipped with a hydrolic coolant system. Effective in dealing with raiding swoop gangs."
+        "lore": "Similar power output to the Atgar P-tower. Equipped with a hydraulic coolant system. Effective in dealing with raiding swoop gangs."
       },
       "pulledBy": [
         "Vizam (when with Advosze)"
@@ -16788,7 +16788,7 @@
         "deploy": "2",
         "forfeit": "3",
         "gametext": "Total power at same site is +1 for each of your alien/Imperial pairs present. Once during every turn, may use 1 Force to 'insult' one opponent's droid present (except R2-D2), canceling that droid's game text for remainder of turn.",
-        "lore": "Brought to Cloud City by the Empire. Facilitates Imperial-to-alien cummunication. Relayed carbonite chamber modifiation instructions to Ugloste. Arrogant. Rude. Vulgar.",
+        "lore": "Brought to Cloud City by the Empire. Facilitates Imperial-to-alien communication. Relayed carbonite chamber modification instructions to Ugloste. Arrogant. Rude. Vulgar.",
         "extraText": [
           "Protocol Droid"
         ]
@@ -23950,7 +23950,7 @@
         "uniqueness": "*",
         "destiny": "4",
         "gametext": "Deploy on your side of table. Each of your non-unique Imperials armed with a non-unique blaster is forfeit +2, adds 1 to his total weapon destiny and, where present, cumulatively adds 1 to total battle destiny. (Immune to Alter while your non-unique blaster is on table.)",
-        "lore": "Graduates of the Empire's military academies train to fire standardissue weapons efficiently."
+        "lore": "Graduates of the Empire's military academies train to fire standard-issue weapons efficiently."
       },
       "pulledBy": [
         "Twi'lek Advisor",
@@ -25515,7 +25515,7 @@
         "gametext": "When at Detention Block Corridor, adds X to your Force drains there, where X = the number of captives present. Immune to Restraining Bolt.",
         "lore": "Floating prisoner interrogation droid. Uses probes and needles to dispense truth drugs and perform 'surgery.' Sensors determine subject's pain threshold and truthfulness.",
         "extraText": [
-          "Interogator Droid"
+          "Interrogator Droid"
         ]
       },
       "pulledBy": [
@@ -33901,7 +33901,7 @@
           "Imperial (starship)"
         ],
         "gametext": "Deploy -1 and power +3 at any cloud sector. Permanent pilot aboard provides ability of 2.",
-        "lore": "TIE fighter modified for upper atmosphere maneuvers. Pilot nicknamed 'Winged Gundark' due to the number of kills earned in highaltitude battles.",
+        "lore": "TIE fighter modified for upper atmosphere maneuvers. Pilot nicknamed 'Winged Gundark' due to the number of kills earned in high-altitude battles.",
         "extraText": [
           "No Hyperdrive"
         ]
@@ -40795,7 +40795,7 @@
           "Episode I"
         ],
         "gametext": "May add 1 pilot. May move as a 'react'. When piloted by a battle droid, vehicle and pilot are immune to attrition < 4. Pilot's power = 0. If lost, character aboard may 'jump off' (disembark).",
-        "lore": "STAPs are used by infantry battle droids to provide a variety of rangebased advantages on the battlefield."
+        "lore": "STAPs are used by infantry battle droids to provide a variety of range-based advantages on the battlefield."
       },
       "pulledBy": [
         "Battle Deployment",
@@ -43241,7 +43241,7 @@
         ],
         "lightSideIcons": 1,
         "darkSideIcons": 1,
-        "gametext": "Dark:  Once during each of your deploy phases, may deploy onecreature here from Reserve Deck; reshuffle. May not deploy to Bespin, Coruscant, Hoth, Kessel or Tatooine.  Light:  To initiate battle here, you must use +3 Force. You may not 'react' to or from here. May not deploy to Bespin, Coruscant, Hoth, Kessel or Tatooine."
+        "gametext": "Dark:  Once during each of your deploy phases, may deploy one creature here from Reserve Deck; reshuffle. May not deploy to Bespin, Coruscant, Hoth, Kessel or Tatooine.  Light:  To initiate battle here, you must use +3 Force. You may not 'react' to or from here. May not deploy to Bespin, Coruscant, Hoth, Kessel or Tatooine."
       },
       "pulls": [
         "One creature",
@@ -43274,7 +43274,7 @@
         "type": "Effect",
         "destiny": "4",
         "gametext": "Deploy on your non-thief to give that character thief skill. Once during each of your control phases, may target one device at same site. Draw destiny. If destiny < target's destiny number, it is stolen. OR Deploy on a weapon to prevent theft. (Immune to Alter.)",
-        "lore": "Petty criminals throughout the galaxy often earn extra money by teaching their trade to intiates. Thievery has become more popular as the Empire tightens its grip."
+        "lore": "Petty criminals throughout the galaxy often earn extra money by teaching their trade to initiates. Thievery has become more popular as the Empire tightens its grip."
       },
       "pulledBy": [
         "Twi'lek Advisor",
@@ -45599,7 +45599,7 @@
           "Imperial (starship)"
         ],
         "gametext": "Deploys -2 to Coruscant or Death Star II. May deploy as a 'react'. Permanent pilots provide total ability of 3. Power +3 at Coruscant or when Emperor is at same or related location.",
-        "lore": "Eliete pilots sworn to defend the Emperor to the death. Assigned older TIEs due to their years of experience with them. Stationed at Coruscant but always travel with the Emperor.",
+        "lore": "Elite pilots sworn to defend the Emperor to the death. Assigned older TIEs due to their years of experience with them. Stationed at Coruscant but always travel with the Emperor.",
         "extraText": [
           "No Hyperdrive"
         ]
@@ -47336,7 +47336,7 @@
           "ship-docking capability"
         ],
         "gametext": "May add 4 pilots, 4 passengers, 2 vehicles, and 4 starfighters. Has ship-docking capability. Permanent pilot provides ability of 2. While a droid starfighter here, adds one battle destiny.",
-        "lore": "These heavily modifed battleships are used to control and direct the Trade Federation's automated army. Easily identified by its array of sensors and antennae."
+        "lore": "These heavily modified battleships are used to control and direct the Trade Federation's automated army. Easily identified by its array of sensors and antennae."
       },
       "combo": [
         "Federation Droid Control Ship + Neimodian Pilot + Tey How + Droid Starfighter Power 12 plus 2 battle destiny. Add a few more pilots and/or ships to maintain control of a system while Tey How reduces your Force loss to drains at systems within 2 parsecs.",
@@ -48036,14 +48036,14 @@
         "imageUrl": "https://res.starwarsccg.org/cards/DemoDeck-Dark/large/twinsunsoftatooine.gif",
         "type": "Objective",
         "destiny": "0",
-        "gametext": "Twin Suns Of Tatooine:Deploy Tatooine system and a non-Jabba's Palace Tatooine battleground site. {For} remainder of game, you may not deploy Jabba's Palace sites or Sandwhirl. {While} this side up, once per turn, may use 1 Force to deploy a Tatooine battleground site from Reserve Deck; reshuffle. {Flip} this card if you control two Tatooine battleground sites (at least one with a Dark Jedi) and occupy Tatooine system, and opponent controls no Tatooine sites.Well Trained In The Jedi Arts:{While} this side up, once per game,may deploy Tatooine Occupation from Reserve Deck; reshuffle. Once during your control phase, may peek at the top two cards of your Reserve Deck; take one into hand and shuffle Reserve Deck. For opponent to move a character or vehicle from same site as your Dark Jedi requires +1 Force. {Flip} this card if opponent controls more Tatooine sites than you."
+        "gametext": "Twin Suns Of Tatooine:Deploy Tatooine system and a non-Jabba's Palace Tatooine battleground site. {For} remainder of game, you may not deploy Jabba's Palace sites or Sandwhirl. {While} this side up, once per turn, may use 1 Force to deploy a Tatooine battleground site from Reserve Deck; reshuffle. {Flip} this card if you control two Tatooine battleground sites (at least one with a Dark Jedi) and occupy Tatooine system, and opponent controls no Tatooine sites.Well Trained In The Jedi Arts:{While} this side up, once per game, may deploy Tatooine Occupation from Reserve Deck; reshuffle. Once during your control phase, may peek at the top two cards of your Reserve Deck; take one into hand and shuffle Reserve Deck. For opponent to move a character or vehicle from same site as your Dark Jedi requires +1 Force. {Flip} this card if opponent controls more Tatooine sites than you."
       },
       "back": {
         "title": "Twin Suns Of Tatooine / Well Trained In The Jedi Arts",
         "imageUrl": "https://res.starwarsccg.org/cards/DemoDeck-Dark/large/welltrainedinthejediarts.gif",
         "type": "Objective",
         "destiny": "7",
-        "gametext": "Twin Suns Of Tatooine:Deploy Tatooine system and a non-Jabba's Palace Tatooine battleground site. {For} remainder of game, you may not deploy Jabba's Palace sites or Sandwhirl. {While} this side up, once per turn, may use 1 Force to deploy a Tatooine battleground site from Reserve Deck; reshuffle. {Flip} this card if you control two Tatooine battleground sites (at least one with a Dark Jedi) and occupy Tatooine system, and opponent controls no Tatooine sites.Well Trained In The Jedi Arts:{While} this side up, once per game,may deploy Tatooine Occupation from Reserve Deck; reshuffle. Once during your control phase, may peek at the top two cards of your Reserve Deck; take one into hand and shuffle Reserve Deck. For opponent to move a character or vehicle from same site as your Dark Jedi requires +1 Force. {Flip} this card if opponent controls more Tatooine sites than you."
+        "gametext": "Twin Suns Of Tatooine:Deploy Tatooine system and a non-Jabba's Palace Tatooine battleground site. {For} remainder of game, you may not deploy Jabba's Palace sites or Sandwhirl. {While} this side up, once per turn, may use 1 Force to deploy a Tatooine battleground site from Reserve Deck; reshuffle. {Flip} this card if you control two Tatooine battleground sites (at least one with a Dark Jedi) and occupy Tatooine system, and opponent controls no Tatooine sites.Well Trained In The Jedi Arts:{While} this side up, once per game, may deploy Tatooine Occupation from Reserve Deck; reshuffle. Once during your control phase, may peek at the top two cards of your Reserve Deck; take one into hand and shuffle Reserve Deck. For opponent to move a character or vehicle from same site as your Dark Jedi requires +1 Force. {Flip} this card if opponent controls more Tatooine sites than you."
       },
       "legacy": false
     },
@@ -49515,7 +49515,7 @@
           "Independent (starship)"
         ],
         "gametext": "Permanent Pilot provides 1 ability. May add Xizor as pilot (suspends permanent pilot). Xizor deploys -3 aboard. When Xizor piloting, adds one battle destiny and immune to attrition < 5.",
-        "lore": "Prototype designed by MandalMotors to Prince Xizor's exacting specifications. Contains four seperate power generators to power advanced flight controls and engines."
+        "lore": "Prototype designed by MandalMotors to Prince Xizor's exacting specifications. Contains four separate power generators to power advanced flight controls and engines."
       },
       "matching": [
         "Prince Xizor"
@@ -53808,7 +53808,7 @@
         "icons": [
           "Episode VII"
         ],
-        "gametext": "Deploy on table. Your [Episode VII] troopers are forfeit +1. Once per turn, if [Episode VII] Emperor on table, may deploy Kijimi from Reserve Deck (reshuffle) or place any three cards out of play from your Lost Pile to deploy a non-unqiue [Episode VII] trooper from Lost Pile. [Immune to Alter.]",
+        "gametext": "Deploy on table. Your [Episode VII] troopers are forfeit +1. Once per turn, if [Episode VII] Emperor on table, may deploy Kijimi from Reserve Deck (reshuffle) or place any three cards out of play from your Lost Pile to deploy a non-unique [Episode VII] trooper from Lost Pile. [Immune to Alter.]",
         "lore": "Blank"
       },
       "legacy": false
