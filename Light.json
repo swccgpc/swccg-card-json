@@ -3978,7 +3978,7 @@
           "bomber"
         ],
         "gametext": "* Replaces 3 B-Wings at one location (B-wings go to Used Pile). Permanent pilots provide total ability of 3. Each of its weapon destiny draws is +1.",
-        "lore": "Utilizes dense formations on attack mission to concentrate firepower. This tactic is particulary effective in defeating deflector shields."
+        "lore": "Utilizes dense formations on attack mission to concentrate firepower. This tactic is particularly effective in defeating deflector shields."
       },
       "legacy": false
     },
@@ -5009,7 +5009,7 @@
           "blaster"
         ],
         "gametext": "Use 1 Force to deploy on your warrior. May target a character, creature or vehicle using 1 Force. Draw destiny. Target hit if destiny > defense value.",
-        "lore": "A Merr-Sonn Model 44 blaster pistol. Uses power packs and highenergy blaster gases to shoot bolts of explosive coherent light energy."
+        "lore": "A Merr-Sonn Model 44 blaster pistol. Uses power packs and high-energy blaster gases to shoot bolts of explosive coherent light energy."
       },
       "pulledBy": [
         "Portable Scanner"
@@ -6016,7 +6016,7 @@
           "Republic (starship)"
         ],
         "gametext": "Deploys -1 to Naboo. May add 1 pilot. While Ric piloting, immune to attrition < 4 and draws one battle destiny if unable to otherwise.",
-        "lore": "Ric Olie's starfighter at the battle of Naboo. Conrtol configuration modified by Ric himself."
+        "lore": "Ric Olie's starfighter at the battle of Naboo. Control configuration modified by Ric himself."
       },
       "pulledBy": [
         "All Wings Report In & Darklighter Spin",
@@ -7928,7 +7928,7 @@
           "smuggler",
           "Wookiee"
         ],
-        "gametext": "Deploys -1 to Falcon. While 'hit,' draws one battle destiny if unable to otherwise. Permanent weapon is •Chewbacca's Bowcaster (may target a charater or vehicle for free; draw two destiny; target hit, and its forfeit = 0, if total destiny > defense value).",
+        "gametext": "Deploys -1 to Falcon. While 'hit,' draws one battle destiny if unable to otherwise. Permanent weapon is •Chewbacca's Bowcaster (may target a character or vehicle for free; draw two destiny; target hit, and its forfeit = 0, if total destiny > defense value).",
         "lore": "Wookiee smuggler."
       },
       "pulledBy": [
@@ -8116,7 +8116,7 @@
         "icons": [
           "Warrior"
         ],
-        "gametext": "If a battle was just inititaed here, may peek at the top card of any Reserve Desk; return it or place it on top of owner's Force Pile. If just lost, may take into hand from reserve deck; reshuffle or retrieve Baze. Once per game, you may re-circulate.",
+        "gametext": "If a battle was just initiated here, may peek at the top card of any Reserve Desk; return it or place it on top of owner's Force Pile. If just lost, may take into hand from reserve deck; reshuffle or retrieve Baze. Once per game, you may re-circulate.",
         "lore": "Blank."
       },
       "legacy": false
@@ -10009,7 +10009,7 @@
         "characteristics": [
           "missile"
         ],
-        "gametext": "Use 1 Force to deploy on your bomber, A-wing, freighter, or transport. May target a starship for free. Draw destiny. Add 1 if targetting a starfighter or squadron. Target hit if total destiny > defense value.",
+        "gametext": "Use 1 Force to deploy on your bomber, A-wing, freighter, or transport. May target a starship for free. Draw destiny. Add 1 if targeting a starfighter or squadron. Target hit if total destiny > defense value.",
         "lore": "Used by veteran smugglers. Defend transports from maneuverable TIE fighters. Frequently used to arm Rebellion transports and freighters."
       },
       "pulledBy": [
@@ -10668,7 +10668,7 @@
           "Corellian"
         ],
         "gametext": "Reduces X by 3 on Docking And Repair Facilities when a Star Cruiser is held there. When he is at a docking bay where you have just deployed a starfighter, once per turn you may retrieve 1 Force.",
-        "lore": "Corellian dock mechanic. Defected to the Alliance with General Madine. Manages staff of 75 starfighter and 12 star cuiser mechanics in Home One's rear quadrant.",
+        "lore": "Corellian dock mechanic. Defected to the Alliance with General Madine. Manages staff of 75 starfighter and 12 star cruiser mechanics in Home One's rear quadrant.",
         "extraText": [
           "Force-Attuned"
         ]
@@ -11340,7 +11340,7 @@
           "hologram"
         ],
         "gametext": "If you have a leader at your war room, peek at the top card of opponent's Reserve Deck. You may place it on bottom of that Reserve Deck.",
-        "lore": "Hologram technology allows effecient communication of complex intelligence during war room briefings."
+        "lore": "Hologram technology allows efficient communication of complex intelligence during war room briefings."
       },
       "pulledBy": [
         "Holoprojector"
@@ -12588,7 +12588,7 @@
           "ship-docking capability"
         ],
         "gametext": "May add 5 pilots, 6 passengers, 1 vehicle and 3 starfighters. Has ship-docking capability. Permanent pilot aboard provides ability of 2. Each of it's weapon destiny draws are +2. Capital starships it hits are power -5.",
-        "lore": "Fleet rear guard. Weapon batteries hard-wired to central targeting processor. Coordinates vicious crossfire against enemy captial starships."
+        "lore": "Fleet rear guard. Weapon batteries hard-wired to central targeting processor. Coordinates vicious crossfire against enemy capital starships."
       },
       "legacy": false
     },
@@ -12713,7 +12713,7 @@
           "female"
         ],
         "gametext": "Deploys only to Jedi Council Chamber. While at Jedi Council Chamber, immune to attrition and once per turn may use 1 Force to peek at the top card of any Reserve Deck and place that card on top of owner's Reserve Deck or Used Pile.",
-        "lore": "Chalactan Jedi Master who was rescued by Mace Windu from space pirates when she was six months old. Jedi Council member who is reknowned for her insights.",
+        "lore": "Chalactan Jedi Master who was rescued by Mace Windu from space pirates when she was six months old. Jedi Council member who is renowned for her insights.",
         "extraText": [
           "Jedi Master"
         ]
@@ -12760,7 +12760,7 @@
           "female"
         ],
         "gametext": "If at least two [Light Side] icons here, once during your control phase may draw top card of Reserve Deck. If at least two [Dark Side] icons here, may forfeit in place of your hit non-Jedi character present with Depa (forfeit = 0), restoring that character to normal.",
-        "lore": "Chalactan Jedi Master who was rescued by Mace Windu from space pirates when she was six months old. Jedi Council member who is reknowned for her insights.",
+        "lore": "Chalactan Jedi Master who was rescued by Mace Windu from space pirates when she was six months old. Jedi Council member who is renowned for her insights.",
         "extraText": [
           "Jedi Master"
         ]
@@ -12905,7 +12905,7 @@
         ],
         "lightSideIcons": 1,
         "darkSideIcons": 1,
-        "gametext": "Light:  Your Jawas may deploy here. Sandwhirl here moves only if on Tatooine. May not be deployed to Bespin, Coruscant, Dagobah, Hoth, Kessel or Naboo.  Dark:  Eash of your battle destiny draws is -1 here. Sandwhirl here moves only if on Tatooine. May not be deployed to Bespin, Coruscant, Dagobah, Hoth, Kessel or Naboo."
+        "gametext": "Light:  Your Jawas may deploy here. Sandwhirl here moves only if on Tatooine. May not be deployed to Bespin, Coruscant, Dagobah, Hoth, Kessel or Naboo.  Dark:  Each of your battle destiny draws is -1 here. Sandwhirl here moves only if on Tatooine. May not be deployed to Bespin, Coruscant, Dagobah, Hoth, Kessel or Naboo."
       },
       "pulledBy": [
         "Kirdo III"
@@ -13249,7 +13249,7 @@
         "subType": "Character",
         "destiny": "4",
         "gametext": "Use 2 Force to deploy on your warrior (1 on your non-unique warrior). May target a character or creature using 2 Force (for free if on your non-unique warrior). Draw Destiny. Target lost if destiny > defense value.",
-        "lore": "llegal weapon easily purchased by Rebel suppliers on the black market. Rechargeable energy packs make it a cost-effective weapon."
+        "lore": "Illegal weapon easily purchased by Rebel suppliers on the black market. Rechargeable energy packs make it a cost-effective weapon."
       },
       "pulledBy": [
         "Portable Scanner"
@@ -14226,7 +14226,7 @@
           "Pilot",
           "Warrior"
         ],
-        "gametext": "Adds 2 to power of anything he pilots (3 if Gold 1). While piloting a Y-Wing, for each Y-wing you have in a battle, attrition against opponent is +1 and attrition against your is -1. Y-wing pilots are fofeit +1 here.",
+        "gametext": "Adds 2 to power of anything he pilots (3 if Gold 1). While piloting a Y-Wing, for each Y-wing you have in a battle, attrition against opponent is +1 and attrition against your is -1. Y-wing pilots are forfeit +1 here.",
         "lore": "Jon 'Dutch' Vander. Gold Squadron leader at Battle of Yavin. Prefers Y-wing fighters. Previously led squadron at Renforra Base. Emblem of Specter Squadron on his helmet."
       },
       "legacy": false
@@ -15543,7 +15543,7 @@
         "characteristics": [
           "proton torpedoes"
         ],
-        "gametext": "Deploy on your X-wing, Y-wing or B-wing. May target a starship for 1 Force. Add 1 if targetting a capital starship. Otherwise, subtract 1. Target hit if total destiny > defense value.",
+        "gametext": "Deploy on your X-wing, Y-wing or B-wing. May target a starship for 1 Force. Add 1 if targeting a capital starship. Otherwise, subtract 1. Target hit if total destiny > defense value.",
         "lore": "Often modified by Rebel technicians. Heavy warhead provides increased armor penetration. Decreased maneuverability and effectiveness against starfighters."
       },
       "pulledBy": [
@@ -16607,7 +16607,7 @@
         "type": "Device",
         "destiny": "5",
         "gametext": "Deploy on your astromech droid. Cancels an 'exploding' Program Trap here. Any starship it is aboard is immune to Lateral Damage and ion cannons. If deployed on R2-D2, may lose Fire Extinguisher to cancel a battle just initiated where present at a site.",
-        "lore": "Among the various special devices on droids like R2 units are gasbased fire extinguishers. Effective against electrical fires and can cause confusion during battle."
+        "lore": "Among the various special devices on droids like R2 units are gas-based fire extinguishers. Effective against electrical fires and can cause confusion during battle."
       },
       "pulledBy": [
         "Corporal Beezer",
@@ -17836,7 +17836,7 @@
           "Gungan"
         ],
         "gametext": "Once per game may take Brisky Morning Munchen into hand from Reserve Deck; reshuffle. Once per battle, may use 1 Force to target an opponent's droid present. Both players draw destiny. If your destiny + 1 > opponent's destiny, target lost.",
-        "lore": "After uniting the Gungans and the Noboo, Boss Nass promoted Jar Jar Binks to General. He's still a bit clumsy.",
+        "lore": "After uniting the Gungans and the Naboo, Boss Nass promoted Jar Jar Binks to General. He's still a bit clumsy.",
         "extraText": [
           "Force-Attuned"
         ]
@@ -17886,7 +17886,7 @@
           "Episode I"
         ],
         "gametext": "Once per game may take Brisky Morning Munchen into hand from Reserve Deck; reshuffle. Once per battle, may use 1 Force to target an opponent's droid present. Both players draw destiny. If your destiny + 1 > opponent's destiny, target lost.",
-        "lore": "After uniting the Gungans and the Noboo, Boss Nass promoted Jar Jar Binks to General. He's still a bit clumsy.",
+        "lore": "After uniting the Gungans and the Naboo, Boss Nass promoted Jar Jar Binks to General. He's still a bit clumsy.",
         "extraText": [
           "Force-Attuned"
         ]
@@ -19719,7 +19719,7 @@
         "icons": [
           "Episode I"
         ],
-        "gametext": "Deploy on an exterior site. While your Fambaa here: your characters here may not be targeted by weapons, oponent's battle destiny draws here are -1, and characters must use +1 Force when moving to or from here using their landspeed.",
+        "gametext": "Deploy on an exterior site. While your Fambaa here: your characters here may not be targeted by weapons, opponent's battle destiny draws here are -1, and characters must use +1 Force when moving to or from here using their landspeed.",
         "lore": "Gungan energy shields can only be passed through by slow-moving objects. This allowed the Gungans to neutralize the threat posed by longrange tank weapons."
       },
       "pulledBy": [
@@ -19764,7 +19764,7 @@
           "leader",
           "Gungan"
         ],
-        "gametext": "Deploys -1 to Naboo. Your Gungans at same site are firfeit +2. While in a battle, if you just drew a Gungan for battle destiny you may take that card into hand.",
+        "gametext": "Deploys -1 to Naboo. Your Gungans at same site are forfeit +2. While in a battle, if you just drew a Gungan for battle destiny you may take that card into hand.",
         "lore": "Many Gungans spend years studying the art of war in the depths of Otoh Gunga. Only at the Battle of Naboo were these Gungans able to exercise that knowledge. Leader."
       },
       "pulledBy": [
@@ -20112,7 +20112,7 @@
           "Rebel (starship)"
         ],
         "gametext": "Permanent pilots are •Han and •Chewie: provide ability of 5, add one battle destiny, and add 5 to power. Immune to attrition < 6, Come With Me, and Lateral Damage. End of your turn: Use 3 Force to maintain OR Place out of play.",
-        "lore": "Although tempermental, this trusty hunk of junk always seems to perform for its proud owner and his Wookie co-pilot when needed the most."
+        "lore": "Although temperamental, this trusty hunk of junk always seems to perform for its proud owner and his Wookie co-pilot when needed the most."
       },
       "pulledBy": [
         "Han's Back",
@@ -20157,7 +20157,7 @@
           "Rebel (starship)"
         ],
         "gametext": "May add 2 passengers. Permanent pilots are •Han and •Chewie, who provide total ability of 5. While in battle, adds one destiny to total power. Immune to Come With Me, Life Debt, and attrition < 5.",
-        "lore": "Although tempermental, this trusty hunk of junk always seems to perform for its proud owner and his Wookie co-pilot when needed the most."
+        "lore": "Although temperamental, this trusty hunk of junk always seems to perform for its proud owner and his Wookie co-pilot when needed the most."
       },
       "pulledBy": [
         "Han's Back",
@@ -20711,7 +20711,7 @@
         "characteristics": [
           "hologram"
         ],
-        "gametext": "During battle, target an opponent's characterof ability of < 2 present with your Jedi;  target is excluded from battle. OR Cancel a 'react'. OR If Obi-Wan is at a battleground site, and your Rebel of Republic character (or Leia) is in battle at another location, add one battle destiny.",
+        "gametext": "During battle, target an opponent's character of ability of < 2 present with your Jedi;  target is excluded from battle. OR Cancel a 'react'. OR If Obi-Wan is at a battleground site, and your Rebel of Republic character (or Leia) is in battle at another location, add one battle destiny.",
         "lore": "Leia sent a hologram plea, 'General Kenobi, years ago you served my father in the Clone Wars. Now he begs you to help him in his struggle against the Empire.'"
       },
       "pulledBy": [
@@ -26316,7 +26316,7 @@
         "characteristics": [
           "Independent (starship)"
         ],
-        "gametext": "May add 1 pilot and 2 passengers. Permanent pilot is •Lando, who provides ability of 3 and adds 3 to power. May not be piloted by Han unless he won a hand of sabbac this game. Immune to attrition < 5.",
+        "gametext": "May add 1 pilot and 2 passengers. Permanent pilot is •Lando, who provides ability of 3 and adds 3 to power. May not be piloted by Han unless he won a hand of sabacc this game. Immune to attrition < 5.",
         "lore": "Heavily modified Corellian YT-1300 freighter. 'She's the fastest hunk of junk in the galaxy.'"
       },
       "pulledBy": [
@@ -27540,7 +27540,7 @@
           "ship-docking capability"
         ],
         "gametext": "May add 5 pilots, 6 passengers, 1 vehicle, and 3 starfighters. Has ship-docking capability. Permanent pilot provides ability of 2. May go to Used Pile instead of Lost Pile when forfeited (unless 'hit').",
-        "lore": "Winged star cruiser. Military transport for techinical units. Afforced special care by the Alliance's top engineers."
+        "lore": "Winged star cruiser. Military transport for technical units. Afforced special care by the Alliance's top engineers."
       },
       "legacy": false
     },
@@ -27971,7 +27971,7 @@
         "icons": [
           "Pilot"
         ],
-        "gametext": "Adds 2 to power of anything he pilots. When at a system, sector or docking bay, once during each of your deploy phases, may subtact 2 from deploy cost of your unique (•) Y-wing deploying there.",
+        "gametext": "Adds 2 to power of anything he pilots. When at a system, sector or docking bay, once during each of your deploy phases, may subtract 2 from deploy cost of your unique (•) Y-wing deploying there.",
         "lore": "One of only four attackers who survived the raid on the Imperial Academy at Carida. Gray Squadron pilot."
       },
       "matching": [
@@ -30639,8 +30639,8 @@
           "Rebel (starship)",
           "ship-docking capability"
         ],
-        "gametext": "Deploys -4 to same system as any non-unique Star Cuiser. May add 3 pilots, 4 passengers and 1 vehicle. Has ship docking capability. Permanent pilot provides ability of 1. Cannot be 'hit' by missiles.",
-        "lore": "Frequently escorts Mon Calamari star crusiers. Personally assigned by Ackbar to main Rebel fleet. Advanced scanners continuosly disrupt target acquistion signals."
+        "gametext": "Deploys -4 to same system as any non-unique Star Cruiser. May add 3 pilots, 4 passengers and 1 vehicle. Has ship docking capability. Permanent pilot provides ability of 1. Cannot be 'hit' by missiles.",
+        "lore": "Frequently escorts Mon Calamari star cruisers. Personally assigned by Ackbar to main Rebel fleet. Advanced scanners continuously disrupt target acquisition signals."
       },
       "legacy": false
     },
@@ -30677,7 +30677,7 @@
           "ship-docking capability"
         ],
         "gametext": "Deploys -2 to same system as any Star Cruiser. May add 3 pilots and 4 passengers. Permanent pilot provides ability of 2. Weapon destinies targeting your starships here are -2.",
-        "lore": "Frequently escorts Mon Calamari star crusiers. Personally assigned by Ackbar to main Rebel fleet. Advanced scanners continuosly disrupt target acquistion signals."
+        "lore": "Frequently escorts Mon Calamari star cruisers. Personally assigned by Ackbar to main Rebel fleet. Advanced scanners continuously disrupt target acquisition signals."
       },
       "conceptBy": "(Original concept by Jonathan Wilkerson)",
       "legacy": false
@@ -33164,7 +33164,7 @@
           "Rebel (starship)",
           "ship-docking capability"
         ],
-        "gametext": "May add 4 pilots, 4 passangers, and 2 starfighters. Has ship-docking capability. Permanent pilot provides ability of 1. Turbolaser batteries and laser cannons may deploy aboard for free.",
+        "gametext": "May add 4 pilots, 4 passengers, and 2 starfighters. Has ship-docking capability. Permanent pilot provides ability of 1. Turbolaser batteries and laser cannons may deploy aboard for free.",
         "lore": "Product of Imperial Kuat Drive Yards. Several captured by Alliance. Imperial crews promptly defected. Can be outfitted for a variety of missions requiring mid-size capital starships."
       },
       "legacy": false
@@ -38958,7 +38958,7 @@
         "subType": "Used",
         "uniqueness": "*",
         "destiny": "4",
-        "gametext": "Each of your admirals and generals is foreit +1 for remainder of turn. OR If your admiral is in battle at a system (or your general, except Obi-Wan, is in battle at a site), you may either add one battle destiny or prevent opponent from drawing more that one battle destiny.",
+        "gametext": "Each of your admirals and generals is forfeit +1 for remainder of turn. OR If your admiral is in battle at a system (or your general, except Obi-Wan, is in battle at a site), you may either add one battle destiny or prevent opponent from drawing more that one battle destiny.",
         "lore": "In times of greatest need, the Rebellion relies on the brilliant leadership provided by commanders fighting for freedom."
       },
       "counterpart": "Imperial Command",
@@ -41430,7 +41430,7 @@
           "enclosed"
         ],
         "gametext": "May add 2 pilots or passengers. Immune to attrition < 3 if Zev piloting. May add 2 to search party destiny draw if all pilots aboard are part of that search party.",
-        "lore": "Enclosed. First snowspeeder to be successfully adapted to Hoth's environment. Piloted by Zev Senesca. Led team in search of Captian Solo and Commander Skywalker."
+        "lore": "Enclosed. First snowspeeder to be successfully adapted to Hoth's environment. Piloted by Zev Senesca. Led team in search of Captain Solo and Commander Skywalker."
       },
       "pulledBy": [
         "Combined Fleet Action",
@@ -45899,7 +45899,7 @@
         "subType": "Lost",
         "destiny": "4",
         "gametext": "If Lobot and your Lando are in a battle together, cancel one opponent's destiny draw immediately after it is revealed OR use 4 Force to cancel Daruk Deal.",
-        "lore": "After working together for a long time, Lando and Lobot developed a speechless form of commnication."
+        "lore": "After working together for a long time, Lando and Lobot developed a speechless form of communication."
       },
       "cancels": [
         "One opponent's destiny draw",
@@ -48117,7 +48117,7 @@
         "subType": "Lost",
         "destiny": "3",
         "gametext": "Use 1 Force during opponent's control phase if you have a droid on the table and were drained of at least 5 Force. Draw destiny. That number of cards are randomly selected and retrieved from your Lost Pile.",
-        "lore": "Reference to 'One Who Creates,' used by droids in an almostreligious way. C-3PO used phrase upon getting a much-needed cleansing oil bath."
+        "lore": "Reference to 'One Who Creates,' used by droids in an almost religious way. C-3PO used phrase upon getting a much-needed cleansing oil bath."
       },
       "canceledBy": [
         "Shut Him Up Or Shut Him Down"
@@ -48264,7 +48264,7 @@
         "characteristics": [
           "Resistance (starship)"
         ],
-        "gametext": "May add 2 pilots and 2 passengers. Once per game, during your move phase, may make an additional move. While [Episode VII] Chewie, [Episode VII] Han, or Rey piloting manuver = 6 and immune to attrition < 5.",
+        "gametext": "May add 2 pilots and 2 passengers. Once per game, during your move phase, may make an additional move. While [Episode VII] Chewie, [Episode VII] Han, or Rey piloting maneuver = 6 and immune to attrition < 5.",
         "lore": "Blank."
       },
       "pulledBy": [
@@ -48363,7 +48363,7 @@
         "uniqueness": "*",
         "destiny": "4",
         "gametext": "Deploy on any system (except Hoth). Target a Medium Transport at a Hoth site. When reached by target: Retrieve X Force, where X = twice the number of passengers. Relocate Utinni Effect to Hoth system. Your total power is +2 in battles at Hoth sites.",
-        "lore": "'When you've gotten past the energy shield, proceed directly to the rendevouz point. Understood? Good luck!'"
+        "lore": "'When you've gotten past the energy shield, proceed directly to the rendesvouz point. Understood? Good luck!'"
       },
       "pulledBy": [
         "The Signal",
@@ -48866,7 +48866,7 @@
           "leader",
           "Jawa"
         ],
-        "gametext": "Deploys only on Tatooine. When in a battle with at least two of your other Jawas, adds one battle destiny. When your total batle destiny at Thedit's site is greater than opponent's total battle destiny, Thedit reduces attrition against you by 3.",
+        "gametext": "Deploys only on Tatooine. When in a battle with at least two of your other Jawas, adds one battle destiny. When your total battle destiny at Thedit's site is greater than opponent's total battle destiny, Thedit reduces attrition against you by 3.",
         "lore": "Organizes perimeter patrols for Kalit's territory. Inspiring leader. Keeps a watchful eye for krayt dragons, Tusken Raiders, and Wittin's bandits."
       },
       "pulledBy": [
@@ -48899,7 +48899,7 @@
           "Reflections III"
         ],
         "gametext": "Plays on Your Destiny unless Leia or Luke has been deployed this game (even as a captive). [Death Star II] Luke and We're The Bait are lost. Opponent's Objective and [Death Star II] Effects target Leia instead of Luke. Force loss from Take Your Father's Place is -1.",
-        "lore": "Princess Leia Organa. Alderaanian senator. Targeted by Vader for capture and interrotgation. The Datk Lord of the Sith wanted her alive."
+        "lore": "Princess Leia Organa. Alderaanian senator. Targeted by Vader for capture and interrogation. The Datk Lord of the Sith wanted her alive."
       },
       "legacy": false
     },
@@ -51653,7 +51653,7 @@
           "Rogue Squadron pilot"
         ],
         "gametext": "Adds 3 to power of anything he pilots.  When piloting, draws one battle destiny if not able to otherwise (if Red 2, also adds 2 to maneuver).  When in battle with another Red or Rogue squadron pilot, once per battle may cancel one battle destiny just drawn.",
-        "lore": "Corellian commander and leader of Rogue Squadron. Chose to have Rogue Squadron relaim the designation 'Red Squadron' at the battle of Endor.",
+        "lore": "Corellian commander and leader of Rogue Squadron. Chose to have Rogue Squadron reclaim the designation 'Red Squadron' at the battle of Endor.",
         "extraText": [
           "Force-Attuned"
         ]
