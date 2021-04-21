@@ -23228,7 +23228,10 @@
         "uniqueness": "*",
         "destiny": "4",
         "gametext": "Deploy on table. Vader is lost. Once per turn, may stack an Interrupt from hand face up here to cancel a just drawn weapon destiny at Kylo's site. Kylo is power +1 for each card here. Once per game, may deploy a lightsaber from Reserve Deck; reshuffle. (Immune to Alter.)",
-        "lore": "Blank."
+        "lore": "Blank.",
+        "icons": [
+          "Episode VII"
+        ],
       },
       "pulls": [
         "Dark Jedi Lightsaber",
