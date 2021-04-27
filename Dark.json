@@ -12812,7 +12812,7 @@
         "Darth Vader's Lightsaber (V)",
         "Vader's Lightsaber"
       ],
-	  "rulings": [
+      "rulings": [
         "This card is a Black Squadron pilot."
       ],
       "legacy": false
@@ -39829,6 +39829,10 @@
       "pulledBy": [
         "Aratech Corporation (V)",
         "Blizzard 4"
+      ],
+	  "rulings": [
+        "Barich's action only works if attrition exists.",
+        "Barich's action is played in the power segment after attrition destinies are drawn."
       ],
       "legacy": false
     },
