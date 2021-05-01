@@ -367,6 +367,9 @@
       "pulledBy": [
         "Dagobah: Training Area"
       ],
+      "rulings": [
+        "Character keeps power +1 after becoming a Jedi."
+      ],
       "legacy": false
     },
     {
@@ -432,6 +435,15 @@
         "Fear",
         "Aggression",
         "Never Tell Me The Odds"
+      ],
+	  "rulings": [
+        "Owner searches Reserve Deck before announcing what they will take.",
+		"Owner may choose any of these options to take into hand:",
+        "1 Echo site",
+        "2 Echo sites",
+        "1 Echo Effect",
+        "1 Echo site and 1 Echo Effect",
+        "1 planet system with 2 Light icons"
       ],
       "legacy": false
     },
@@ -520,6 +532,9 @@
         "The Signal",
         "We Wish To Board At Once"
       ],
+	  "rulings": [
+        "Only refers to Padme Naberrie, not other Amidala cards."
+      ],
       "legacy": false
     },
     {
@@ -555,6 +570,10 @@
       "combo": [
         "A Step Backward + Losing Track",
         "A Step Backward + Qui-Gon Jinn"
+      ],
+	  "rulings": [
+        "May be played as long as at least one Podracer card has a race destiny.",
+        "May not remove a race destiny stacked on the Arena."
       ],
       "legacy": false
     },
@@ -683,6 +702,9 @@
         "We Wish To Board At Once"
       ],
       "counterpart": "Enter The Bureaucrat",
+	  "rulings": [
+        "Can only place itself from table into Used Pile, not any other card."
+      ],
       "legacy": false
     },
     {
@@ -897,6 +919,9 @@
         "Your Insight Serves You Well - Defensive Shield",
         "Your Insight Serves You Well (V) - Defensive Shield"
       ],
+      "rulings": [
+        "If face up in Reserve Deck for any reason, it is active (not part of Life Force)."
+      ],
       "legacy": false
     },
     {
@@ -1081,6 +1106,13 @@
           "Force-Attuned"
         ]
       },
+      "matching": [
+        "Rogue One"
+      ],
+      "rulings": [
+        "Is not a Rogue Squadron pilot.",
+		"Still becomes a Rogue Squadron pilot while piloting a Rogue starship or vehicle."
+      ],
       "legacy": false
     },
     {
@@ -6492,6 +6524,9 @@
       "canceledBy": [
         "Commander Praji cancels game text"
       ],
+	  "rulings": [
+        "A character may not be used in multiple pairs."
+      ],
       "legacy": false
     },
     {
@@ -7566,6 +7601,9 @@
         "We Wish To Board At Once"
       ],
       "counterpart": "Abyss",
+	  "rulings": [
+        "Result will trigger successfully even if character has no immunity to attrition to lose."
+      ],
       "legacy": false
     },
     {
@@ -9369,7 +9407,7 @@
       "pulls": [
         "Chewie's AT-ST",
         "Cloud Car",
-        "Dash In Rogue 10 (V)",
+        "Dash In Rogue 12",
         "Rebel Snowspeeder",
         "Rogue 1",
         "Rogue 2",
@@ -9576,7 +9614,7 @@
         "Rogue 2",
         "Rogue 3",
         "Rogue 4",
-        "Dash In Rogue 10",
+        "Dash In Rogue 12",
         "Sandspeeder",
         "Snowspeeder"
       ],
@@ -12013,7 +12051,7 @@
         }
       ],
       "front": {
-        "title": "•Dash in Rogue 10",
+        "title": "•Dash in Rogue 12",
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual1-Light/large/dashinrogue12.gif",
         "type": "Vehicle",
         "subType": "Combat: T-47 Snowspeeder",
@@ -21936,6 +21974,12 @@
         "Those Rebels Won't Escape Us",
         "Unsalvageable",
         "Tarkin's Orders"
+      ],
+      "rulings": [
+        "The movement is not free.",
+        "LS may play Hyper Escape with 0 Force saved.",
+        "LS must attempt to move each one of their ships and vehicles away.",
+        "Ships/vehicles might be left behind due to Gravity Shadow, Imperial Barrier, not enough Force to move everything, etc."
       ],
       "legacy": false
     },
@@ -31925,6 +31969,9 @@
       "cancels": [
         "Capital Support"
       ],
+      "rulings": [
+        "Even with Home One: War Room text, Home One deploys for 12-3=9."
+      ],
       "legacy": false
     },
     {
@@ -36206,6 +36253,12 @@
         "We Wish To Board At Once"
       ],
       "counterpart": "Start Your Engines!",
+      "rulings": [
+        "If player is to draw multiple race destiny, this replaces any one draw.",
+		"The destiny from hand is not a substituted destiny.",
+		"The destiny from hand is not 'just drawn'."
+		"If not stacked, the destiny from hand still goes to Used Pile."
+      ],
       "legacy": false
     },
     {
@@ -48875,6 +48928,10 @@
       "pulledBy": [
         "Aved Luun",
         "Princess Organa to deploy to same location"
+      ],
+	  "rulings": [
+        "This card is a Jawa.",
+        "May serve as a Jawa Rep for Agents In The Court."
       ],
       "legacy": false
     },
