@@ -286,6 +286,9 @@
       "matchingWeapon": [
         "4-LOM's Concussion Rifle"
       ],
+	  "rulings": [
+        "A character may not be used in multiple pairs."
+      ],
       "legacy": false
     },
     {
@@ -832,6 +835,9 @@
       "cancels": [
         "Don't Underestimate Our Chances"
       ],
+	  "rulings": [
+        "After this is played, Ketwol may perform one more exchange, even if Ketwol had performed exchanges previously."
+      ],
       "legacy": false
     },
     {
@@ -934,6 +940,10 @@
       "pulledBy": [
         "Vizam (when with Advosze)"
       ],
+	  "rulings": [
+        "May not deploy or move to same location as another Advosze.",
+		"If 2 Advosze are somehow at the same location, owner chooses one to be lost."
+      ],
       "legacy": false
     },
     {
@@ -993,6 +1003,9 @@
       "counterpart": "Chasm",
       "combo": [
         "Abyss + Scanning Crew Beware of Shocking Information."
+      ],
+	  "rulings": [
+        "Result will trigger successfully even if character has no immunity to attrition to lose."
       ],
       "legacy": false
     },
@@ -4821,6 +4834,9 @@
       "matching": [
         "DS-61-4",
         "Reserve Pilot"
+      ],
+      "rulings": [
+        "When using the react text to deploy for free, the pilot is also free."
       ],
       "legacy": false
     },
@@ -9073,6 +9089,10 @@
       "cancels": [
         "Surprise Assault",
         "Mantellian Savrip"
+      ],
+	  "rulings": [
+        "Works against cards that say 'just lost' or 'just forfeited'",
+        "Example: Works against Old Ben, but not Ben Kenobi"
       ],
       "legacy": false
     },
@@ -17968,6 +17988,9 @@
         "We Must Accelerate Our Plans"
       ],
       "counterpart": "A Vergence In The Force",
+	  "rulings": [
+        "Can only place itself from table into Used Pile, not any other card."
+      ],
       "legacy": false
     },
     {
@@ -24388,6 +24411,9 @@
         "Twi'lek Advisor",
         "We Must Accelerate Our Plans"
       ],
+      "rulings": [
+        "Mara Jade (for example) does not make this card lost."
+      ],
       "legacy": false
     },
     {
@@ -24415,6 +24441,9 @@
         "destiny": "7",
         "gametext": "Imperial Entanglements:Deploy Tatooine system (with Devastator there) and a Tatooine battleground site.{For} remainder of game, you may not deploy Sandwhirl, Admiral's Orders, Jabba's Palace sites, non-Imperial characters, non-Imperial starships, or systems.{While} this side up, opponent loses no Force to Tatooine Occupation or your Force drains at Tatooine system. Once per turn, may deploy a Tatooine battleground site from Reserve Deck; reshuffle.{Flip} this card if you control three Tatooine sites and opponent controls fewer than three Tatooine sites. No One To Stop Us This Time: {While} this side up, once during your control phase, may peek at up to X cards from the top of your Reserve Deck, where X = number of Tatooine locations you occupy; take one into hand and shuffle your Reserve Deck. Once per turn, may deploy a Tatooine battleground site from Reserve Deck; reshuffle. Opponent's characters require +1 Force to move from Tatooine sites using their landspeed. During your draw phase, you may retrieve one trooper.{Flip} this card if opponent controls more Tatooine sites than you."
       },
+	  "rulings": [
+        "You may deploy (for example) Mara Jade."
+      ],
       "legacy": false
     },
     {
@@ -24948,6 +24977,9 @@
       "combo": [
         "In Range + any Star Destroyer + Tractor Beam",
         "In Range + Our First Catch of the Day"
+      ],
+      "rulings": [
+        "A starship captured and stolen mid-battle with In Range becomes inactive that battle."
       ],
       "legacy": false
     },
@@ -33604,6 +33636,9 @@
       "canceledBy": [
         "Inconsequential Barriers"
       ],
+      "rulings": [
+        "Does not work if (for example) Mara Jade at a Jabba's Palace site."
+      ],
       "legacy": false
     },
     {
@@ -37789,6 +37824,9 @@
         "Your Insight Serves You Well - Defensive Shield",
         "Your Insight Serves You Well (V) - Defensive Shield"
       ],
+	  "rulings": [
+        "If face up in Reserve Deck for any reason, it is active (not part of Life Force)."
+      ],
       "legacy": false
     },
     {
@@ -38520,6 +38558,9 @@
       "matching": [
         "DS-181-4"
       ],
+      "rulings": [
+        "When using the react text to deploy for free, the pilot is also free."
+      ],
       "legacy": false
     },
     {
@@ -39088,6 +39129,10 @@
         "Jabba's Palace: Audience Chamber (Dark Side) Light Side text for 4 Force",
         "Jabba's Palace: Audience Chamber Light Side",
         "Force retrieval is canceled by You've Got A Lot Of Guts Coming Here while Han at a battleground"
+      ],
+      "rulings": [
+        "Works while (for example) Mara Jade on table.",
+        "Works while (for example) Darth Vader piloting an Independent starship."
       ],
       "legacy": false
     },
@@ -52412,6 +52457,9 @@
       "pulledBy": [
         "Imperial Command"
       ],
+      "rulings": [
+        "The limit of +3 is only a limit on how much Pryde can add, not other cards."
+      ],
       "legacy": false
     },
     {
@@ -53791,6 +53839,9 @@
         "gametext": "If I Will Finish What You Started on table, deploy on table. May deploy Sith Throne from Reserve Deck; reshuffle. While [Episode VII] Emperor on Exegol, attrition against opponent is +2 at same location as Kylo, Pryde, or Rey. Your [Episode I] characters are lost. (Immune to Alter.)",
         "lore": "Blank"
       },
+	  "rulings": [
+          "You may play (for example) Prepared Defenses to deploy I Will Finish What You Started, followed by The Dead Speak!"
+      ],
       "legacy": false
     },
     {
