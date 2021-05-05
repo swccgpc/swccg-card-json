@@ -1573,6 +1573,10 @@
       "combo": [
         "Aim High + Leia With Blaster Rifle + Han With Heavy Blaster Pistol Power 12 if they both do fire their weapon and two battle destinies."
       ],
+	  "rulings": [
+        "Dark has the option to decline and cancel the retrieval.",
+        "The amount of Force used ('X') equals the retrieval amount initiated, even if the Lost pile has fewer than X cards."
+      ],
       "legacy": false
     },
     {
@@ -1599,6 +1603,10 @@
         "lore": "The destruction of a command vehicle negatively impacts Imperial battle efficiency."
       },
       "counterpart": "Secret Plans - Defensive Shield",
+	  "rulings": [
+        "Dark has the option to decline and cancel the retrieval.",
+        "The amount of Force used ('X') equals the retrieval amount initiated, even if the Lost pile has fewer than X cards."
+      ],
       "legacy": false
     },
     {
@@ -1904,6 +1912,9 @@
         "Our Blockade Is Perfectly Legal",
         "This Is Outrageous!"
       ],
+	  "rulings": [
+        "Cannot cancel an Immediate Effect, Mobile Effect, or Starting Effect."
+      ],
       "legacy": false
     },
     {
@@ -1945,6 +1956,12 @@
         "Sense (EP1)",
         "Sense & Uncertain Is The Future"
       ],
+	  "rulings": [
+        "Cannot cancel an Immediate Effect, Mobile Effect, Political Effect, or Starting Effect.",
+        "The first function requires targeting a specific character with ability for the comparison.",
+        "Can be played as a top-level action.",
+        "Can be played as a response to the deployment of an Effect or Utinni Effect. If successful, the target has no result."
+      ],
       "legacy": false
     },
     {
@@ -1981,6 +1998,12 @@
       "cancels": [
         "One Effect"
       ],
+	  "rulings": [
+        "Cannot cancel an Immediate Effect, Mobile Effect, Political Effect, Starting Effect, or Utinni Effect.",
+        "Can be played as a top-level action.",
+        "Can be played as a response to the deployment of an Effect. If successful, the target has no result.",
+        "A successful draw on either function causes Force loss to Do, Or Do Not or There Is No Try."
+      ],
       "legacy": false
     },
     {
@@ -2007,6 +2030,14 @@
         "gametext": "USED: Cancel Sense.  LOST: Target an Effect, Political Effect, or Utinni Effect, and one of your characters on table.  Draw destiny.  If destiny < character's ability, target Effect is canceled (you lose no Force to There Is No Try). (Immune to opponent's Objective.)",
         "lore": "A user of the Force can alter the environment to affect the minds of others. 'The Force can have a strong influence on the weak-minded.'"
       },
+	  "rulings": [
+        "Cannot cancel an Immediate Effect, Mobile Effect, or Starting Effect.",
+        "Can be played as a top-level action.",
+        "Can be played as a response to the deployment of an Effect, Political Effect, or Utinni Effect. If successful, the target has no result.",
+        "'Immune to opponent's Objective' only works while initiating/playing it.",
+        "It is protected from (for example) both sides of Hunt Down And Destroy The Jedi.",
+        "It is not protected from (for example) In Complete Control or I Will Make It Legal." 
+      ],
       "legacy": false
     },
     {
@@ -2029,6 +2060,14 @@
         "gametext": "USED: Cancel Sense.  LOST: Target an Effect, Political Effect, or Utinni Effect, and one of your characters on table.  Draw destiny.  If destiny < character's ability, target Effect is canceled (you lose no Force to There Is No Try). (Immune to opponent's Objective.)",
         "lore": "A user of the Force can alter the environment to affect the minds of others. 'The Force can have a strong influence on the weak-minded.'"
       },
+	  "rulings": [
+        "Cannot cancel an Immediate Effect, Mobile Effect, or Starting Effect.",
+        "Can be played as a top-level action.",
+        "Can be played as a response to the deployment of an Effect, Political Effect, or Utinni Effect. If successful, the target has no result.",
+        "'Immune to opponent's Objective' only works while initiating/playing it.",
+        "It is protected from (for example) both sides of Hunt Down And Destroy The Jedi.",
+        "It is not protected from (for example) In Complete Control or I Will Make It Legal." 
+      ],
       "legacy": false
     },
     {
@@ -2081,6 +2120,10 @@
         "gametext": "During your turn, target a site where your total power is more than double opponent's total power. Unless opponent has a Dark Jedi or character weapon there, place each opponent character, vehicle and starship there (and cards on them) in owner's Used Pile.",
         "lore": "'Well done. Hold them in the security tower, and keep it quiet. Move.'"
       },
+	  "rulings": [
+        "Cannot be played where opponent has no power total (no active cards with power).",
+        "If successfully played, sends away inactive targets such as undercover spies and missing characters."
+      ],
       "legacy": false
     },
     {
@@ -2202,6 +2245,9 @@
       },
       "pulledBy": [
         "Twilight Is Upon Me"
+      ],
+	  "rulings": [
+        "Only works if Luke is about to go to Lost Pile, not if Luke is about to go out of play."
       ],
       "legacy": false
     },
@@ -2396,6 +2442,10 @@
       "pulls": [
         "I Did It!"
       ],
+	  "rulings": [
+        "When drawing 2 race destiny, Light decides to stack after each draw, and may stack both.",
+        "When drawing 3 race destiny and choosing 2, draw all 3 first, then choose exactly 2 to stack."
+      ],
       "legacy": false
     },
     {
@@ -2481,6 +2531,9 @@
         "lore": "'The dark side of the Force are they. Easily they flow, quick to join you in a fight.'"
       },
       "counterpart": "Knowledge And Defense (V)",
+	  "rulings": [
+        "Cannot be canceled by Projective Telepathy."
+      ],
       "legacy": false
     },
     {
@@ -2713,6 +2766,10 @@
         "A Rebel of ability < 3 (except an admiral) aboard your starship"
       ],
       "counterpart": "I Can't Shake Him! (V)",
+	  "rulings": [
+        "First function affects all opponent's weapons, not a specific target weapon.",
+        "First function may be played even if opponent currently has no weapons on table."
+      ],
       "legacy": false
     },
     {
@@ -2873,6 +2930,9 @@
         "gametext": "USED: Target your [Episode I] Jedi defending a battle. Target is immune to attrition for rest of turn (unless Dark Jedi present).  LOST: In a battle you lost, place a Jedi Council Member you just forfeited in Used Pile to cancel all battle damage and attrition against you.",
         "lore": "'I'm not going in there with two Jedi!'"
       },
+	  "rulings": [
+        "The Used function may be played with a Dark Jedi present, but the target Jedi will not gain immunity to attrition."
+      ],
       "legacy": false
     },
     {
@@ -3108,8 +3168,7 @@
         "Hero Of A Thousand Devices"
       ],
       "pulledBy": [
-        "Artoo",
-        "Come Back At Once!",
+        "Artoo, Come Back At Once!",
         "Seeking An Audience",
         "Seeking An Audience (V)"
       ],
@@ -3166,8 +3225,7 @@
         "I've Got A Bad Feeling About This"
       ],
       "pulledBy": [
-        "Artoo",
-        "Come Back At Once!",
+        "Artoo, Come Back At Once!",
         "Beldon's Eye (V)",
         "Seeking An Audience",
         "Seeking An Audience (V)",
@@ -3184,6 +3242,9 @@
       ],
       "cancels": [
         "Bad Feeling Have I (suspended)"
+      ],
+	  "rulings": [
+        "With this game text active, a droid piloting a starship may be battled."
       ],
       "legacy": false
     },
@@ -3222,8 +3283,7 @@
         ]
       },
       "pulledBy": [
-        "Artoo",
-        "Come Back At Once!",
+        "Artoo, Come Back At Once!",
         "Seeking An Audience",
         "Seeking An Audience (V)"
       ],
@@ -3303,6 +3363,10 @@
         "R2-D2 (Artoo-Detoo) (V)",
         "R2-D2",
         "Subversive Droid (V)"
+      ],
+	  "rulings": [
+        "The Lost function is a top-level action.",
+        "The Lost function may be played to try to retrieve R2-D2 even if R2-D2 is not in the Lost Pile."
       ],
       "legacy": false
     },
@@ -4082,6 +4146,9 @@
       ],
       "canceledBy": [
         "Shut Him Up Or Shut Him Down"
+      ],
+	  "rulings": [
+        "A character in Bacta Tank with an asterisk deploy cost is treated as 0 deploy cost."
       ],
       "legacy": false
     },
@@ -20818,8 +20885,7 @@
       ],
       "pulledBy": [
         "Artoo",
-        "Artoo",
-        "Come Back At Once!",
+        "Artoo, Come Back At Once!",
         "The Signal",
         "We Wish To Board At Once",
         "Wokling (V)"
@@ -23130,6 +23196,10 @@
         "We Wish To Board At Once"
       ],
       "counterpart": "Imperial Arrest Order & Secret Plans",
+	  "rulings": [
+        "Dark has the option to decline and cancel the retrieval.",
+        "The amount of Force used ('X') equals the retrieval amount initiated, even if the Lost pile has fewer than X cards."
+      ],
       "legacy": false
     },
     {
@@ -36256,7 +36326,7 @@
       "rulings": [
         "If player is to draw multiple race destiny, this replaces any one draw.",
 		"The destiny from hand is not a substituted destiny.",
-		"The destiny from hand is not 'just drawn'."
+		"The destiny from hand is not 'just drawn'.",
 		"If not stacked, the destiny from hand still goes to Used Pile."
       ],
       "legacy": false
@@ -38028,8 +38098,7 @@
         ]
       },
       "pulledBy": [
-        "Artoo",
-        "Come Back At Once!",
+        "Artoo, Come Back At Once!",
         "Seeking An Audience",
         "Seeking An Audience (V)",
         "Were You Looking For Me?"
@@ -38073,8 +38142,7 @@
         ]
       },
       "pulledBy": [
-        "Artoo",
-        "Come Back At Once!",
+        "Artoo, Come Back At Once!",
         "Seeking An Audience",
         "Seeking An Audience (V)"
       ],
@@ -38121,8 +38189,7 @@
         ]
       },
       "pulledBy": [
-        "Artoo",
-        "Come Back At Once!",
+        "Artoo, Come Back At Once!",
         "Seeking An Audience",
         "Seeking An Audience (V)"
       ],
@@ -55713,6 +55780,9 @@
       "pulledBy": [
         "Twilight Is Upon Me"
       ],
+	  "rulings": [
+        "May be played even if Vader has crossed and has taken on the card title Anakin Skywalker."
+      ],
       "legacy": false
     },
     {
@@ -56195,6 +56265,14 @@
       ],
       "cancels": [
         "One Effect"
+      ],
+	  "rulings": [
+        "Cannot cancel an Immediate Effect, Mobile Effect, or Starting Effect.",
+        "Can be played as a top-level action.",
+        "Can be played as a response to the deployment of an Effect, Political Effect, or Utinni Effect. If successful, the target has no result.",
+        "'Immune to opponent's Objective' only works while initiating/playing it.",
+        "It is protected from (for example) both sides of Hunt Down And Destroy The Jedi.",
+        "It is not protected from (for example) In Complete Control or I Will Make It Legal." 
       ],
       "legacy": false
     },
