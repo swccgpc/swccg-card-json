@@ -2669,6 +2669,9 @@
         "gametext": "During battle, lose an Imperial leader piloting your Star Destroyer. For remainder of turn, that Star Destroyer draws 2 battle destiny if unable to otherwise, is immune to attrition, and its power may not be increased by Imperial pilots aboard (except Vader).",
         "lore": "'I shall assume full responsibility for losing them and apologize to Lord Vader.' Needa discovered that Vader was only slightly more forgiving than the Emperor."
       },
+	  "rulings": [
+        "Losing an Imperial leader is an initiation cost."
+      ],
       "legacy": false
     },
     {
@@ -3564,6 +3567,10 @@
       "pulledBy": [
         "Double Back"
       ],
+	  "rulings": [
+        "Never gains characteristics from using 'mindscan'.",
+        "'Mindscan' text that refers to Bane as 'she' or 'her' works, but he remains a male character."
+      ],
       "legacy": false
     },
     {
@@ -4282,6 +4289,10 @@
       ],
       "canceledBy": [
         "Alternatives To Fighting"
+      ],
+	  "rulings": [
+        "Besieged is canceled if Dark steals the starship.",
+        "The starship being a stolen starship currently owned by Light, does not cause Besieged to be canceled."
       ],
       "legacy": false
     },
@@ -5147,6 +5158,10 @@
         "Twi'lek Advisor",
         "We Must Accelerate Our Plans"
       ],
+	  "rulings": [
+        "Weapons on Blaster Rack are inactive.",
+        "Placing a weapon on Blaster Rack is a top-level action."
+      ],
       "legacy": false
     },
     {
@@ -5957,6 +5972,9 @@
         "Twi'lek Advisor",
         "We Must Accelerate Our Plans"
       ],
+	  "rulings": [
+        "Uses the forfeit value of the card from your hand, including global modifiers."
+      ],
       "legacy": false
     },
     {
@@ -6009,6 +6027,9 @@
       "matchingWeapon": [
         "Boba Fett's Blaster Rifle",
         "Boba Fett's Blaster Rifle (V)"
+      ],
+	  "rulings": [
+        "Forfeit increase applies to Bounty-type cards while transferring captives to a prison."
       ],
       "legacy": false
     },
@@ -6530,6 +6551,9 @@
         "gametext": "Deploy on Podrace Arena. Once per game, either player may initiate a Podrace: During your control phase, each player may draw one race destiny. Each player may place any drawn race destiny on their Podracer (or on Podrace Arena if they have none) or in their Used Pile. During any move phase, winner is any player with a race total > 24 and greater than opponent's highest race total. Winner retrieves 6 Force and loser loses 6 Force. Place all race destiny cards in owner's Used Piles and all Podracers are lost."
       },
       "counterpart": "Boonta Eve Podrace",
+	  "rulings": [
+        "Winner of podrace is determined automatically during any move phase."
+      ],
       "legacy": false
     },
     {
@@ -6806,6 +6830,10 @@
       "matching": [
         "Hound's Tooth"
       ],
+	  "rulings": [
+        "Counts as 'targeting a character with a weapon' and so is countered by (for example) Blaster Deflection.",
+        "May not target inactive cards or owner's cards."
+      ],
       "legacy": false
     },
     {
@@ -6838,6 +6866,10 @@
         "Bossk",
         "Bossk (V)"
       ],
+	  "rulings": [
+        "Counts as 'targeting a character with a weapon' and so is countered by e.g. Blaster Deflection.",
+        "May not target inactive cards or owner's cards."
+      ],
       "legacy": false
     },
     {
@@ -6868,6 +6900,9 @@
         "Bounty + Boba Fett (CC) Add five to the number of cards retrieved.",
         "Bounty + Corporal Vandolay Makes We Have A Prisoner a Used Interrupt, and lets you pull a prison from Reserve Deck.",
         "Bounty + Carbon-Freezing"
+      ],
+	  "rulings": [
+        "Only completes if the captive is imprisoned by the original seizing bounty hunter card."
       ],
       "legacy": false
     },
@@ -7024,6 +7059,10 @@
         "destiny": "7",
         "gametext": "Bring Him Before Me:Deploy Throne Room, Insignificant Rebellion and Your Destiny.{For} remainder of game, Scanning Crew may not be played. Opponent's cards that place a character out of play may not target Luke. You may deploy Emperor (deploy -2) from Reserve Deck; reshuffle. Opponent may deploy Luke from Reserve Deck (deploy -2; reshuffle) or Lost Pile. If Luke is present with Vader and Vader is not escorting a captive, Luke is captured and seized by Vader. Vader may not transfer Luke.{Flip} this card if Luke captured.Take Your Father's Place:{While} this side up, lose 1 Force at end of each of your turns. Once during each of your turns, when Vader, Luke (even as a non-frozen captive) and Emperor are all present at your Throne Room, you may initiate a Luke/Vader duel: Each player draws two destiny. Add ability. Highest total wins. If Vader wins, opponent loses 3 Force. If Luke wins, shuffle Reserve Deck and draw destiny; if destiny > 12, Luke crosses to Dark Side, totally depleting opponent's Life Force.{Flip} if Luke neither present with Vader nor a captive."
       },
+	  "rulings": [
+        "The 'deploy -2' text only applies while deploying using this objective.",
+        "If Vader is aboard an open vehicle without capacity for Luke, Vader automatically disembarks to seize Luke."
+      ],
       "legacy": false
     },
     {
@@ -7420,6 +7459,10 @@
       "matching": [
         "Scimitar 2"
       ],
+	  "rulings": [
+        "Text to satisfy all battle damage and attrition requires that Jonus was piloting a TIE/sa.",
+        "Text to satisfy all battle damage and attrition requires either battle damage or attrition. It does not require both."
+      ],
       "legacy": false
     },
     {
@@ -7584,6 +7627,9 @@
       ],
       "matching": [
         "Avenger"
+      ],
+	  "rulings": [
+        "Characters hit by weapons may be forfeited before forfeiting Needa."
       ],
       "legacy": false
     },
@@ -12420,6 +12466,9 @@
       "pulledBy": [
         "Herat"
       ],
+	  "rulings": [
+        "Restraining bolt can be deployed to a different location."
+      ],
       "legacy": false
     },
     {
@@ -15526,6 +15575,9 @@
       ],
       "combo": [
         "Djas Puhr + Res Luk Ra'auf"
+      ],
+	  "rulings": [
+        "This card is not an assassin."
       ],
       "legacy": false
     },

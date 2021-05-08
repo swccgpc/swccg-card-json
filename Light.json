@@ -1889,8 +1889,7 @@
         "lore": "The Force can be used to affect the things around a Jedi. 'Always remember, your focus determines your reality."
       },
       "pulledBy": [
-        "Yoda",
-        "Master Of The Force"
+        "Yoda, Master Of The Force"
       ],
       "counterpart": "Alter (EP1)",
       "canceledBy": [
@@ -1938,8 +1937,7 @@
         "lore": "A user of the Force can alter the environment to affect the minds of others. 'The Force can have a strong influence on the weak-minded.'"
       },
       "pulledBy": [
-        "Yoda",
-        "Master Of The Force"
+        "Yoda, Master Of The Force"
       ],
       "counterpart": "Alter",
       "canceledBy": [
@@ -1984,8 +1982,7 @@
         "gametext": "USED: Target your highest-ability character and one Effect. Draw destiny. If destiny < ability of target character, cancel target Effect.  LOST: If a battle was just initiated at a site where opponent has at least two characters and one weapon, draw destiny. If destiny is < number of opponent's characters at that site, opponent chooses one to be lost."
       },
       "pulledBy": [
-        "Yoda",
-        "Master Of The Force"
+        "Yoda, Master Of The Force"
       ],
       "counterpart": "Alter & Collateral Damage",
       "canceledBy": [
@@ -4532,10 +4529,13 @@
       ],
       "canceledBy": [
         "Televan Koreyy",
-        "We'll Let Fate-a Decide",
-        "Huh? - Defensive Shield",
-        "We'll Let Fate-a Decide",
-        "Huh? (V) - Defensive Shield"
+        "We'll Let Fate-a Decide, Huh? - Defensive Shield",
+        "We'll Let Fate-a Decide, Huh? (V) - Defensive Shield"
+      ],
+	  "rulings": [
+        "Beggar only goes lost at end of turn.",
+        "Beggar can make itself go lost even if inactive.",
+        "Dark and Light each having to use 1 Force when Light deploys a Jawa does not count against Beggar."
       ],
       "legacy": false
     },
@@ -4732,6 +4732,9 @@
         "gametext": "Each player must immediately activate 2 Force. Also, you may activate 1 additional Force for each Beru Lars, Owen Lars or Hydroponics Station on table.",
         "lore": "Moisture farmers grow enough food to sustain Tatooine's population. Beru Lars has devised many dishes using herbs and roots naturally found in Tatooine's desert."
       },
+	  "rulings": [
+        "Activating Force is the result, not part of initiation."
+      ],
       "legacy": false
     },
     {
@@ -5001,6 +5004,9 @@
       "cancels": [
         "Disarmed"
       ],
+	  "rulings": [
+        "Adds 1 to total weapon destiny, not to each draw."
+      ],
       "legacy": false
     },
     {
@@ -5140,6 +5146,9 @@
       "counterpart": "Force Field",
       "cancels": [
         "An attempt to use a character weapon to target your character of ability > 4"
+      ],
+	  "rulings": [
+        "Can only re-target to opponent's character present with the original target."
       ],
       "legacy": false
     },
@@ -5606,6 +5615,11 @@
       "cancels": [
         "Opponent's Jabba's Palace game text where present"
       ],
+	  "rulings": [
+        "Equalizes Force icons after all other icon modifications are applied.",
+        "May not deploy to or move aboard any vehicle or starship.",
+        "Only cancels the Dark game text of the location named Tatooine: Jabba's Palace."
+      ],
       "legacy": false
     },
     {
@@ -5668,6 +5682,9 @@
         "Boonta Eve Podrace + Neck And Neck",
         "Boonta Eve Podrace + Tatooine: Podracer Bay",
         "Boonta Eve Podrace + I Did It!"
+      ],
+	  "rulings": [
+        "Winner of podrace is determined automatically during any move phase."
       ],
       "legacy": false
     },
@@ -6081,6 +6098,14 @@
       "combo": [
         "Brainiac + Mantellian Savrip Brainiac's forfeit is equal to the total number of cards in your opponent's hand, so he may often be sacrificed to the Mantellian Savrip to cover all battle damage and attrtion against you."
       ],
+	  "rulings": [
+        "Counts as a card in hand for determining value Y.",
+        "Is not an astromech.",
+        "Cannot occupy astromech capacity slot.",
+        "Square root of a negative number uses his minimum power of 1.",
+        "Square root must take the positive root.",
+        "Do not round unless required to do something that requires a whole number, in which case round to nearest whole number."
+      ],
       "legacy": false
     },
     {
@@ -6342,6 +6367,9 @@
         "Take This!",
         "Whoooo!"
       ],
+	  "rulings": [
+        "May not attempt to blow away Blockade Flagship unless its starship card is on table."
+      ],
       "legacy": false
     },
     {
@@ -6594,6 +6622,9 @@
 	  "rulings": [
         "A character may not be used in multiple pairs."
       ],
+	  "rulings": [
+        "A character may not be used in multiple pairs."
+      ],
       "legacy": false
     },
     {
@@ -6666,6 +6697,9 @@
       },
       "pulledBy": [
         "General Crix Madine"
+      ],
+	  "rulings": [
+        "Light's vehicle moves for free as long as it is headed in Cal's direction when it starts to move."
       ],
       "legacy": false
     },
@@ -10151,8 +10185,7 @@
       "pulledBy": [
         "Either Way",
         "You Win (V)",
-        "Yoda",
-        "Master Of The Force"
+        "Yoda, Master Of The Force"
       ],
       "counterpart": "Control (EP1)",
       "cancels": [
@@ -10192,8 +10225,7 @@
       "pulledBy": [
         "Either Way",
         "You Win (V)",
-        "Yoda",
-        "Master Of The Force"
+        "Yoda, Master Of The Force"
       ],
       "counterpart": "Control",
       "cancels": [
@@ -10235,8 +10267,7 @@
       "pulledBy": [
         "Either Way",
         "You Win (V)",
-        "Yoda",
-        "Master Of The Force"
+        "Yoda, Master Of The Force"
       ],
       "cancels": [
         "Alter",
@@ -11205,12 +11236,9 @@
         "gametext": "Light:  [Episode I] Yoda may deploy here from Reserve Deck; reshuffle. Immune to Revolution.  Dark:  Non-unique lightsaber Force drain bonuses everywhere are canceled."
       },
       "pulls": [
-        "Yoda",
-        "Keeper Of The Peace",
-        "Yoda",
-        "Master Of The Force",
-        "Yoda",
-        "Senior Council Member"
+        "Yoda, Keeper Of The Peace",
+        "Yoda, Master Of The Force",
+        "Yoda, Senior Council Member"
       ],
       "pulledBy": [
         "Speak With The Jedi Council"
@@ -13877,8 +13905,7 @@
       "counterpart": "You Overestimate Their Chances",
       "canceledBy": [
         "A Useless Gesture - Defensive Shield",
-        "We'll Let Fate-a Decide",
-        "Huh? (V) - Defensive Shield"
+        "We'll Let Fate-a Decide, Huh? (V) - Defensive Shield"
       ],
       "legacy": false
     },
@@ -17323,10 +17350,8 @@
       "canceledBy": [
         "Main Course",
         "Televan Koreyy",
-        "We'll Let Fate-a Decide",
-        "Huh? - Defensive Shield",
-        "We'll Let Fate-a Decide",
-        "Huh? (V) - Defensive Shield"
+        "We'll Let Fate-a Decide, Huh? - Defensive Shield",
+        "We'll Let Fate-a Decide, Huh? (V) - Defensive Shield"
       ],
       "legacy": false
     },
@@ -33425,6 +33450,9 @@
         "The Signal",
         "We Wish To Board At Once"
       ],
+	  "rulings": [
+        "Uses the forfeit value of the card from your hand, including global modifiers."
+      ],
       "legacy": false
     },
     {
@@ -42126,8 +42154,7 @@
       "canceledBy": [
         "A New Secret Base",
         "Crossfire (suspended)",
-        "We'll Let Fate-a Decide",
-        "Huh? (V) (suspended)"
+        "We'll Let Fate-a Decide, Huh? (V) (suspended)"
       ],
       "legacy": false
     },
@@ -43419,8 +43446,7 @@
         "lore": "Yoda calls upon the Force often to try and foresee what destiny has in store."
       },
       "pulledBy": [
-        "Yoda",
-        "Master Of The Force"
+        "Yoda, Master Of The Force"
       ],
       "counterpart": "Sense (EP1)",
       "canceledBy": [
@@ -43463,8 +43489,7 @@
         "lore": "Users of the Force can sense impending danger by feeling the way the Force flows in others. Cataclysmic events can be sensed (as when Obi- Wan felt Alderaan's destruction)."
       },
       "pulledBy": [
-        "Yoda",
-        "Master Of The Force"
+        "Yoda, Master Of The Force"
       ],
       "counterpart": "Sense",
       "canceledBy": [
@@ -43506,8 +43531,7 @@
         "gametext": "USED: Target your highest-ability character and one just-played Interrupt. Draw destiny. If destiny < ability of target character, cancel target Interrupt.  LOST: Use 3 Force. Each player places hand onto Reserve Deck (if possible), then places Used Pile onto Reserve Deck; reshuffle. Each player then draws cards from Reserve Deck equal to the number of cards just placed from hand onto Reserve Deck (if any)."
       },
       "pulledBy": [
-        "Yoda",
-        "Master Of The Force"
+        "Yoda, Master Of The Force"
       ],
       "counterpart": "Sense & Uncertain Is The Future",
       "canceledBy": [
@@ -44699,6 +44723,9 @@
         "Sorry About The Mess + Millennium Falcon or Corellian Corvette + Quad Laser Cannon",
         "Sorry About The Mess + Han Solo + Han's Heavy Blaster Pistol"
       ],
+	  "rulings": [
+        "Han, Chewie, And The Falcon gets the +1 bonus for Han firing."
+      ],
       "legacy": false
     },
     {
@@ -45039,10 +45066,8 @@
         "Master Of The Order (V)",
         "Plo Koon",
         "Plo Koon (V)",
-        "Yoda",
-        "Master Of The Force",
-        "Yoda",
-        "Senior Council Member"
+        "Yoda, Master Of The Force",
+        "Yoda, Senior Council Member"
       ],
       "pulledBy": [
         "Coruscant: Jedi Archives (V)"
@@ -47299,6 +47324,9 @@
         "Diplomatic Mission To Alderaan",
         "Mindful Of The Future",
         "Yarna d'al' Gargan (V)"
+      ],
+	  "rulings": [
+        "When Light deploys Tatooine: Jabba's Palace, Light may choose to cause its force loss before the game text is canceled."
       ],
       "legacy": false
     },
@@ -54212,10 +54240,8 @@
       },
       "pulls": [
         "Yoda",
-        "Yoda",
-        "Master Of The Force",
-        "Yoda",
-        "Senior Council Member"
+        "Yoda, Master Of The Force",
+        "Yoda, Senior Council Member"
       ],
       "legacy": false
     },
@@ -55645,6 +55671,11 @@
         "Tatooine: City Outskirts",
         "Yoda",
         "You Seek Yoda"
+      ],
+	  "rulings": [
+        "Yoda's relocation is free.",
+        "'Two jedi' counts himself.",
+        "Relocating does not allow Yoda to embark or disembark."
       ],
       "legacy": false
     },
