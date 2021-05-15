@@ -1,0 +1,37 @@
+---
+
+##
+## Remote Repo API URL:
+## https://api.github.com/repos/:owner/:repo/dispatches
+##
+## event_type: This will be received in the workflow event payload as the action field.
+##
+
+name: Remote Dispatch Action Initiator
+
+on:
+  push: 
+    branches: 
+      - main
+
+jobs:
+  ping-pong:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Dispatch initiating scomp repository event
+        run: |+
+          curl -X POST https://api.github.com/repos/swccgpc/swccg-scomp/dispatches \
+          -H 'Accept: application/vnd.github.everest-preview+json' \
+          -u ${{ secrets.ACCESS_TOKEN }} \
+          --data '{"event_type": "get-latest-cardlist", "client_payload": { "repository": "'"$GITHUB_REPOSITORY"'" }}'
+
+
+
+
+
+
+
+
+
+
+
