@@ -7860,6 +7860,12 @@
         "destiny": "7",
         "gametext": "Carbon Chamber Testing:Deploy Carbonite Chamber, Carbonite Chamber Console and Security Tower with a Rebel (opponent's choice) from opponent's Reserve Deck (if possible) imprisoned there.{While} this side up, once during each of your deploy phases, you may deploy from Reserve Deck one Audience Chamber, Docking Bay 94 or East Platform; reshuffle. You may not play Dark Deal.{Flip} this card if you move a frozen captive to Audience Chamber (or if no Rebel was in opponent's Reserve Deck at start of game).My Favorite Decoration:{While} this side up, your aliens and starships are immune to attrition < 4 and, once during each of your control phases, you may retrieve 1 Force. While you have a frozen captive at Audience Chamber, Scum And Villainy is immune to Alter and during your deploy phase, you may deploy Scum And Villainy from Reserve Deck; reshuffle.{Place} out of play if there are no frozen captives on table (unless no Rebel was in opponent's Reserve Deck at start of game)."
       },
+	  "rulings": [
+        "The Rebel deployed at start of game ignores location deployment restrictions, but not other restrictions.",
+        "Prisoner 2187 and TK-422 cannot be the targeted Rebel.",
+        "If Light is playing an Objective that starts a character on table, that character cannot be the targeted Rebel.",
+        "If no Rebel can be deployed, Dark may verify and Dark follows the 'if no Rebel was in opponent's Reserve Deck' instructions."
+      ],
       "legacy": false
     },
     {
@@ -8081,6 +8087,9 @@
         "gametext": "If Tarkin and a Rebel with ability > 2 are involved in the same battle, you may add one battle destiny (add two destiny if Rebel is Leia).",
         "lore": "'You're far too trusting. Dantooine is too remote to make an effective demonstration. But don't worry...We will deal with your Rebel friends soon enough.'"
       },
+	  "rulings": [
+        "Can only target Leia if she is a Rebel with ability > 2."
+      ],
       "legacy": false
     },
     {
@@ -8204,6 +8213,10 @@
       ],
       "combo": [
         "Chief Retwin + Defel(s)"
+      ],
+	  "rulings": [
+        "May not target devices/weapons deployed on a character, vehicle, or starship (even if at a site).",
+        "May target (for example) Seekers, Vaporator, or Medium Repeating Blaster Cannon."
       ],
       "legacy": false
     },
@@ -9275,6 +9288,11 @@
       "cancels": [
         "Opee Sea Killer"
       ],
+	  "rulings": [
+        "After exchanging, the new destiny card is 'just drawn'.",
+        "After exchanging, the new destiny is not 'substituted'. It may be modified/canceled/reset and counts towards limits.",
+        "All modifiers transfer from the old destiny card to the new one."
+      ],
       "legacy": false
     },
     {
@@ -9476,6 +9494,9 @@
       "pulledBy": [
         "Blizzard 4"
       ],
+	  "rulings": [
+        "Only gains power +1 even if with multiple characters listed."
+      ],
       "legacy": false
     },
     {
@@ -9572,6 +9593,11 @@
         "lore": "Imperial troops prepared for quick deployment to seize valuable terrain."
       },
       "counterpart": "Careful Planning",
+	  "rulings": [
+        "If deploying two generic sites, they must be battlegrounds.",
+        "The site(s) deployed must be related to the owner's starting location and must be battlegrounds immediately upon deploying.",
+        "The site(s) may be deployed even if the starting location was converted, or failed to convert an opponent's starting location."
+      ],
       "legacy": false
     },
     {
@@ -9600,6 +9626,10 @@
       },
       "conceptBy": "(Original concept by Kevin Brownell - Illinois States 2004)",
       "counterpart": "Careful Planning (V)",
+	  "rulings": [
+        "The site's battleground status is checked immediately upon deploying.",
+        "The site may be deployed even if the starting location was converted, or failed to convert an opponent's starting location."
+      ],
       "legacy": false
     },
     {
@@ -10508,6 +10538,11 @@
       "cancels": [
         "A (non-Immune to Sense) Interrupt (during battle)"
       ],
+	  "rulings": [
+        "May only cancel one Interrupt per battle.",
+        "Only check if the currently played Interrupt function is immune to Sense. If not, it may be canceled."
+      ],
+
       "legacy": false
     },
     {
@@ -24859,6 +24894,12 @@
         "Blizzard 4"
       ],
       "counterpart": "Rebel Squad Leader",
+	  "rulings": [
+        "This card is a trooper.",
+        "When about to move, may target other troopers/guards to move with him.",
+        "Does not permit the other troopers/guards to perform a move they are not otherwise able to make.",
+        "Suspends the 'cannot move' text on Imperial Trooper Guards at same site."
+      ],
       "legacy": false
     },
     {
@@ -27023,6 +27064,10 @@
       "pulledBy": [
         "Double Back",
         "Coruscant: Imperial City (V)"
+      ],
+	  "rulings": [
+        "May cancel any opponent's battle destiny except the first one.",
+        "If firing a repeating rifle or blaster, only the first shot is free and +2."
       ],
       "legacy": false
     },
@@ -43384,6 +43429,9 @@
         "Surprise + Death Mark Since many decks play with Han and Chewie, you can retarget the Death Mark to whoever happens to be farther away at the time.",
         "Surprise + Death Squadron The only thing that weakens this otherwise pretty good card is that the Rebellion tends to stay away from it. Well, with Surprise, you can bring the Squadron to them."
       ],
+	  "rulings": [
+        "In order to relocate an Effect, it must be able to deploy on the new location at the time of playing this Interrupt (but ignore uniqueness rules)."
+      ],
       "legacy": false
     },
     {
@@ -47292,8 +47340,14 @@
         "Tonnika Sisters + Nevar Yalnal"
       ],
       "canceledBy": [
-        "If Vul Tazaene present with Tonnika Sisters",
-        "Vul and Tonnika Sisters are lost"
+        "If Vul Tazaene present with Tonnika Sisters, Vul and Tonnika Sisters are lost"
+      ],
+	  "rulings": [
+        "This is a combo card.",
+        "Can only steal cards that can be carried by characters, not (for example) Proton Torpedoes.",
+        "Can steal (or destroy) Han's Toolkit from a character, vehicle, or starship.",
+        "The weapons/devices must be present, but Tonnika Sisters do not need to be present.",
+        "May steal/destroy up to two weapons or up to two devices, but not one of each."
       ],
       "legacy": false
     },
@@ -53856,7 +53910,7 @@
         "type": "Character",
         "subType": "Sith",
         "uniqueness": "*",
-        "destiny": "0",
+        "destiny": "2",
         "power": "3",
         "ability": "4",
         "deploy": "4",

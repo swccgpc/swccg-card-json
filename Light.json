@@ -3214,8 +3214,7 @@
       },
       "pulls": [
         "One card with 'Bad Feeling' in title",
-        "Artoo",
-        "I Have A Bad Feeling About This",
+        "Artoo, I Have A Bad Feeling About This",
         "I Have A Bad Feeling About This",
         "I Have A Really Bad Feeling About This",
         "I Have A Very Bad Feeling About This",
@@ -7419,6 +7418,11 @@
       "cancels": [
         "Force drain bonus from IT-O (Eyetee-Oh)"
       ],
+	  "rulings": [
+        "Other characters at the site participate in the battle if they normally would.",
+        "Light must choose at least one captive to participate, but may choose more.",
+        "The battle ends immediately if either side has no presence, but the participating captives provide presence if applicable."
+      ],
       "legacy": false
     },
     {
@@ -7482,6 +7486,11 @@
       "combo": [
         "Careful Planning  + Yavin 4: Massassi Throne Room + 2 generic sites A very popular deck (TRM) that typically starts with <>Farm and <>Swamp. The <>Farm helps with your activation and the <> Swamp lets you pull Nudjs out of your deck to absorb the Dark Side icons to slow their game early. You end up activating 5 Force and giving your opponent none - and you go first in game."
       ],
+	  "rulings": [
+        "If deploying two generic sites, they must be battlegrounds.",
+        "The site(s) deployed must be related to the owner's starting location and must be battlegrounds immediately upon deploying.",
+        "The site(s) may be deployed even if the starting location was converted, or failed to convert an opponent's starting location."
+      ],
       "legacy": false
     },
     {
@@ -7510,6 +7519,10 @@
       },
       "conceptBy": "(Original concept by Kevin Brownell - Illinois States 2004)",
       "counterpart": "Combat Readiness (V)",
+	  "rulings": [
+        "The site's battleground status is checked immediately upon deploying.",
+        "The site may be deployed even if the starting location was converted, or failed to convert an opponent's starting location."
+      ],
       "legacy": false
     },
     {
@@ -8505,6 +8518,10 @@
         "gametext": "Your other clones present are each forfeit +1. Once during battle with your clone, may cancel and redraw your just drawn battle destiny. When moving with a 'squad' of up to three other clones, they all move simultaneously for 1 Force.",
         "lore": "Clone trooper."
       },
+	  "rulings": [
+        "When he is about to move, may target other clones to move with him.",
+        "Does not permit the other clones to perform a move they are not otherwise able to make."
+      ],
       "legacy": false
     },
     {
@@ -8589,6 +8606,9 @@
         "We Wish To Board At Once",
         "Your Insight Serves You Well",
         "Your Insight Serves You Well & Staging Areas"
+      ],
+	  "rulings": [
+        "The Z-95 itself must have presence, such as via a permanent pilot or character aboard."
       ],
       "legacy": false
     },
@@ -9339,6 +9359,11 @@
       "cancels": [
         "Opee Sea Killer"
       ],
+	  "rulings": [
+        "After exchanging, the new destiny card is 'just drawn'.",
+        "After exchanging, the new destiny is not 'substituted'. It may be modified/canceled/reset and counts towards limits.",
+        "All modifiers transfer from the old destiny card to the new one."
+      ],
       "legacy": false
     },
     {
@@ -9457,6 +9482,9 @@
       ],
       "matching": [
         "Gray Squadron 1"
+      ],
+	  "rulings": [
+        "May only cancel and redraw a battle destiny if he is participating in the battle."
       ],
       "legacy": false
     },
@@ -9987,6 +10015,9 @@
         "Red Squadron 1",
         "Rogue 3"
       ],
+	  "rulings": [
+        "May cancel any opponent's battle destiny except the first one."
+      ],
       "legacy": false
     },
     {
@@ -10044,6 +10075,10 @@
       ],
       "canceledBy": [
         "Point Man"
+      ],
+	  "rulings": [
+        "Stack the 8 Force directly on Commence Recharging.",
+        "The X Force needed by Commence Primary Ignition must also still be paid as usual."
       ],
       "legacy": false
     },
@@ -22215,6 +22250,9 @@
         "Artoo & Threepio"
       ],
       "counterpart": "Surprise",
+	  "rulings": [
+        "In order to relocate an Effect, it must be able to deploy on the new location at the time of playing this Interrupt (but ignore uniqueness rules)."
+      ],
       "legacy": false
     },
     {
@@ -39365,6 +39403,12 @@
         "Yavin 4: Massassi War Room (V)"
       ],
       "counterpart": "Imperial Squad Leader",
+	  "rulings": [
+        "This card is a trooper.",
+        "When about to move, may target other troopers/guards to move with him.",
+        "Does not permit the other troopers/guards to perform a move they are not otherwise able to make.",
+        "Suspends the 'cannot move' text on Rebel Guards at same site."
+      ],
       "legacy": false
     },
     {
@@ -40498,6 +40542,9 @@
         "gametext": "May add 4 pilots and 4 passengers. Has ship-docking capability. Permanent pilot provides ability of 1. Your medical droids and Bacta Tank 'patients' may deploy aboard for free.",
         "lore": "Nebulon-B frigate used as a mobile medical facility. Extra cargo space and weapon batteries have been modified to allow for more armor and more recovery areas."
       },
+	  "rulings": [
+        "Characters using the deployment text must still obey any deployment restrictions."
+      ],
       "legacy": false
     },
     {
@@ -40800,6 +40847,9 @@
       "canceledBy": [
         "Boring Conversation Anyway",
         "Point Man"
+      ],
+	  "rulings": [
+        "Vader cannot be the targeted Imperial."
       ],
       "legacy": false
     },
@@ -51212,6 +51262,9 @@
         "Sunsdown & Too Cold For Speeders",
         "Too Cold For Speeders"
       ],
+	  "rulings": [
+        "The initial retrieval amount created by this card will not be greater than 3."
+      ],
       "legacy": false
     },
     {
@@ -55894,7 +55947,7 @@
         }
       ],
       "front": {
-        "title": "•Corellia",
+        "title": "•Corellia (V)",
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual13-Light/large/corellia.gif",
         "type": "Location",
         "subType": "System",
