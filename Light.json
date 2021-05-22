@@ -1912,7 +1912,9 @@
         "This Is Outrageous!"
       ],
 	  "rulings": [
-        "Cannot cancel an Immediate Effect, Mobile Effect, or Starting Effect."
+        "Cannot cancel an Immediate Effect, Mobile Effect, or Starting Effect.",
+        "Can be played as a top-level action.",
+        "Can be played as a response to the attempted deployment of an Effect or Utinni Effect. If successful, the target has no result."
       ],
       "legacy": false
     },
@@ -1958,7 +1960,7 @@
         "Cannot cancel an Immediate Effect, Mobile Effect, Political Effect, or Starting Effect.",
         "The first function requires targeting a specific character with ability for the comparison.",
         "Can be played as a top-level action.",
-        "Can be played as a response to the deployment of an Effect or Utinni Effect. If successful, the target has no result."
+        "Can be played as a response to the attempted deployment of an Effect or Utinni Effect. If successful, the target has no result."
       ],
       "legacy": false
     },
@@ -1998,7 +2000,7 @@
 	  "rulings": [
         "Cannot cancel an Immediate Effect, Mobile Effect, Political Effect, Starting Effect, or Utinni Effect.",
         "Can be played as a top-level action.",
-        "Can be played as a response to the deployment of an Effect. If successful, the target has no result.",
+        "Can be played as a response to the attempted deployment of an Effect. If successful, the target has no result.",
         "A successful draw on either function causes Force loss to Do, Or Do Not or There Is No Try."
       ],
       "legacy": false
@@ -2030,7 +2032,7 @@
 	  "rulings": [
         "Cannot cancel an Immediate Effect, Mobile Effect, or Starting Effect.",
         "Can be played as a top-level action.",
-        "Can be played as a response to the deployment of an Effect, Political Effect, or Utinni Effect. If successful, the target has no result.",
+        "Can be played as a response to the attempted deployment of an Effect, Political Effect, or Utinni Effect. If successful, the target has no result.",
         "'Immune to opponent's Objective' only works while initiating/playing it.",
         "It is protected from (for example) both sides of Hunt Down And Destroy The Jedi.",
         "It is not protected from (for example) In Complete Control or I Will Make It Legal." 
@@ -2060,7 +2062,7 @@
 	  "rulings": [
         "Cannot cancel an Immediate Effect, Mobile Effect, or Starting Effect.",
         "Can be played as a top-level action.",
-        "Can be played as a response to the deployment of an Effect, Political Effect, or Utinni Effect. If successful, the target has no result.",
+        "Can be played as a response to the attempted deployment of an Effect, Political Effect, or Utinni Effect. If successful, the target has no result.",
         "'Immune to opponent's Objective' only works while initiating/playing it.",
         "It is protected from (for example) both sides of Hunt Down And Destroy The Jedi.",
         "It is not protected from (for example) In Complete Control or I Will Make It Legal." 
@@ -10235,6 +10237,11 @@
         "One Mobile Effect",
         "One Force drain"
       ],
+	  "rulings": [
+        "Can be played as a top-level action.",
+        "Can be played as a response to the attempted deployment of an Immediate or Mobile Effect, preventing any result.",
+        "Can be played as a response to the completed deployment of an Immediate or Mobile Effect, after it has any automatic results."
+      ],
       "legacy": false
     },
     {
@@ -10274,6 +10281,10 @@
         "One Immediate Effect",
         "One Mobile Effect",
         "One Force drain"
+      ],
+	  "rulings": [
+        "Can be played as a top-level action.",
+        "Can be played as a response to the attempted deployment of an Immediate or Mobile Effect, preventing any result."
       ],
       "legacy": false
     },
@@ -10315,6 +10326,10 @@
         "One Immediate Effect",
         "One Mobile Effect",
         "One Force drain"
+      ],
+	  "rulings": [
+        "Can be played as a top-level action.",
+        "Can be played as a response to the attempted deployment of an Immediate or Mobile Effect, preventing any result."
       ],
       "legacy": false
     },
@@ -10652,6 +10667,9 @@
       ],
       "pulledBy": [
         "General Crix Madine"
+      ],
+	  "rulings": [
+        "The device may deploy on (for example) a character at the location."
       ],
       "legacy": false
     },
@@ -11396,6 +11414,9 @@
       "combo": [
         "Covert Landing + Luminous"
       ],
+	  "rulings": [
+        "The USED function works even if the shuttle (or shuttle vehicle) is landed or unpiloted."
+      ],
       "legacy": false
     },
     {
@@ -11483,6 +11504,11 @@
       "combo": [
         "Credits Will Do Fine + I Feel The Conflict + Draw Their Fire",
         "Credits Will Do Fine + Master Qui-Gon (V)"
+      ],
+	  "rulings": [
+        "If a player loses Force from hand to stack here, it is first revealed to both players.",
+        "If a player loses Force from Life Force to stack here, it is not revealed.",
+        "Text referring to cards stacked 'on'/'under'/'beneath' this Effect all means the same thing."
       ],
       "legacy": false
     },
@@ -11649,6 +11675,9 @@
         "Lobot (V)",
         "Portable Scanner"
       ],
+	  "rulings": [
+        "If stolen, place the previous owner's cards underneath in the owner's Used Pile."
+      ],
       "legacy": false
     },
     {
@@ -11811,6 +11840,11 @@
       },
       "pulledBy": [
         "Dagobah"
+      ],
+	  "rulings": [
+        "Starfighters with permanent pilots may deploy here.",
+        "Unpiloted starfighters may deploy here empty.",
+        "Unpiloted starfighters may deploy here simultaneously with a pilot character only if that character was already permitted to deploy to Dagobah."
       ],
       "legacy": false
     },
@@ -12041,6 +12075,11 @@
         "destiny": "7",
         "gametext": "Dantooine Base Operations:Deploy Dantooine system.{While} this side up, once during each of your deploy phases, may deploy from Reserve Deck to Dantooine one site or non-unique Rebel; reshuffle. At Dantooine locations, each Imperial is deploy +2.{Flip} this card if Rebels control at least three Dantooine sites and opponent controls no Dantooine locations.{Place} out of play if Dantooine is 'blown away.'More Dangerous Than You Realize:{While} this side up, opponent's Force drains are -1. At Dantooine locations, each Imperial is deploy +2. Your squadrons may deploy to Dantooine (deploy cost = squadron's power -3), are immune to attrition < 4 and may draw one battle destiny if not able to otherwise. Your Force drains are +1 at systems where you have a squadron present.{Flip} this card if opponent controls at least two Dantooine locations.{Place} out of play if Dantooine is 'blown away.'"
       },
+	  "rulings": [
+        "The word 'squadron' here refers only to squadron-class starship cards, not (for example) 'Red Squadron 7'.",
+        "Squadron deploy cost considers global modifiers to power like S-foils.",
+        "Squadron deploy cost may not be directly modified, such as by Haven."
+      ],
       "legacy": false
     },
     {
@@ -13879,7 +13918,6 @@
         "imageUrl": "https://res.starwarsccg.org/cards/SpecialEdition-Light/large/donttreadonme.gif",
         "type": "Interrupt",
         "subType": "Used Or Starting",
-        "uniqueness": "*",
         "destiny": "5",
         "gametext": "USED: Add 1 to your just-drawn weapon destiny.  STARTING: If you have deployed a battleground, deploy Ultimatum, Scrambled Transmission and/or Do, Or Do Not from Reserve Deck. Place Interrupt in Reserve Deck.",
         "lore": "Han did not take kindly to Jabba's posturing."
@@ -15732,7 +15770,7 @@
         }
       ],
       "front": {
-        "title": "Ensign Chad Hilse",
+        "title": "•Ensign Chad Hilse",
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual5-Light/large/ensignchadhilse.gif",
         "type": "Character",
         "subType": "Rebel",
@@ -17049,6 +17087,10 @@
         "We Wish To Board At Once"
       ],
       "counterpart": "Dark Forces",
+	  "rulings": [
+        "The player playing Sense or Alter must then immediately choose a new target character if possible. If not possible, the Sense or Alter fails.",
+        "If Alter is played in response to the attempted deployment of this Effect, this Effect's game text may not be used yet."
+      ],
       "legacy": false
     },
     {
@@ -20874,7 +20916,6 @@
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual7-Light/large/helpmeobiwankenobi.gif",
         "type": "Interrupt",
         "subType": "Lost",
-        "uniqueness": "*",
         "destiny": "3",
         "characteristics": [
           "hologram"
@@ -20909,6 +20950,12 @@
         "lore": "C-3PO had been through enough battles that many of the Rebels in the strike team considered him a good luck charm. That isn't what Han considers him."
       },
       "counterpart": "Counterattack",
+	  "rulings": [
+        "Allows cards to participate in another battle and fire weapons again.",
+        "Does not allow cards to 'react' a second time in one turn.",
+        "The player who played this Interrupt initiated the battle and by default gets first action of each segment.",
+        "A card excluded from the previous battle is not necessarily excluded from the new battle."
+      ],
       "legacy": false
     },
     {
@@ -22224,6 +22271,11 @@
         "We Wish To Board At Once"
       ],
       "counterpart": "Insignificant Rebellion",
+	  "rulings": [
+        "If a player loses Force from hand to stack here, it is first revealed to both players.",
+        "If a player loses Force from Life Force to stack here, it is not revealed.",
+        "Text referring to cards stacked 'on'/'under'/'beneath' this Effect all means the same thing."
+      ],
       "legacy": false
     },
     {
@@ -33599,7 +33651,7 @@
         }
       ],
       "front": {
-        "title": "No Giben Up, General Jar Jar!",
+        "title": "•No Giben Up, General Jar Jar!",
         "imageUrl": "https://res.starwarsccg.org/cards/TheedPalace-Light/large/nogibenupgeneraljarjar.gif",
         "type": "Interrupt",
         "subType": "Lost",
@@ -34573,7 +34625,7 @@
         }
       ],
       "front": {
-        "title": "Old Times",
+        "title": "•Old Times",
         "imageUrl": "https://res.starwarsccg.org/cards/SpecialEdition-Light/large/oldtimes.gif",
         "type": "Interrupt",
         "subType": "Used",
@@ -35778,6 +35830,11 @@
       "counterpart": "Emergency Deployment",
       "canceledBy": [
         "Boring Conversation Anyway"
+      ],
+	  "rulings": [
+        "When this interrupt begins its result, the total power and the number of destiny draws are 'locked in' and will not change.",
+        "Do not draw destinies for characters inside starships or enclosed vehicles.",
+        "This is not a 'battle' and cards may not be forfeited."
       ],
       "legacy": false
     },
@@ -39141,7 +39198,7 @@
         }
       ],
       "front": {
-        "title": "Rebel Leadership",
+        "title": "•Rebel Leadership",
         "imageUrl": "https://res.starwarsccg.org/cards/DeathStarII-Light/large/rebelleadership.gif",
         "type": "Interrupt",
         "subType": "Used",
@@ -39165,7 +39222,7 @@
         }
       ],
       "front": {
-        "title": "Rebel Leadership (V)",
+        "title": "•Rebel Leadership (V)",
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual3-Light/large/rebelleadership.gif",
         "type": "Interrupt",
         "subType": "Used",
@@ -43039,7 +43096,6 @@
         "title": "Secure Route",
         "imageUrl": "https://res.starwarsccg.org/cards/Coruscant-Light/large/secureroute.gif",
         "type": "Effect",
-        "uniqueness": "*",
         "destiny": "4",
         "icons": [
           "Episode I"
@@ -45294,7 +45350,7 @@
         }
       ],
       "front": {
-        "title": "Staging Areas",
+        "title": "•Staging Areas",
         "imageUrl": "https://res.starwarsccg.org/cards/DeathStarII-Light/large/stagingareas.gif",
         "type": "Effect",
         "uniqueness": "*",
@@ -50430,7 +50486,7 @@
         }
       ],
       "front": {
-        "title": "Twilight Is Upon Me",
+        "title": "•Twilight Is Upon Me",
         "imageUrl": "https://res.starwarsccg.org/cards/DeathStarII-Light/large/twilightisuponme.gif",
         "type": "Effect",
         "uniqueness": "*",
@@ -56353,7 +56409,7 @@
 	  "rulings": [
         "Cannot cancel an Immediate Effect, Mobile Effect, or Starting Effect.",
         "Can be played as a top-level action.",
-        "Can be played as a response to the deployment of an Effect, Political Effect, or Utinni Effect. If successful, the target has no result.",
+        "Can be played as a response to the attempted deployment of an Effect, Political Effect, or Utinni Effect. If successful, the target has no result.",
         "'Immune to opponent's Objective' only works while initiating/playing it.",
         "It is protected from (for example) both sides of Hunt Down And Destroy The Jedi.",
         "It is not protected from (for example) In Complete Control or I Will Make It Legal." 

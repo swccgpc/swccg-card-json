@@ -2111,7 +2111,9 @@
         "The Gravest Of Circumstances"
       ],
 	  "rulings": [
-        "Cannot cancel an Immediate Effect, Mobile Effect, or Starting Effect."
+        "Cannot cancel an Immediate Effect, Mobile Effect, or Starting Effect.",
+        "Can be played as a top-level action.",
+        "Can be played as a response to the attempted deployment of an Effect or Utinni Effect. If successful, the target has no result."
       ],
       "legacy": false
     },
@@ -2157,7 +2159,7 @@
         "Cannot cancel an Immediate Effect, Mobile Effect, Political Effect, or Starting Effect.",
         "The first function requires targeting a specific character with ability for the comparison.",
         "Can be played as a top-level action.",
-        "Can be played as a response to the deployment of an Effect or Utinni Effect. If successful, the target has no result."
+        "Can be played as a response to the attempted deployment of an Effect or Utinni Effect. If successful, the target has no result."
       ],
       "legacy": false
     },
@@ -2197,7 +2199,7 @@
 	  "rulings": [
         "Cannot cancel an Immediate Effect, Mobile Effect, Political Effect, Starting Effect, or Utinni Effect.",
         "Can be played as a top-level action.",
-        "Can be played as a response to the deployment of an Effect. If successful, the target has no result.",
+        "Can be played as a response to the attempted deployment of an Effect. If successful, the target has no result.",
         "A successful draw on either function causes Force loss to Do, Or Do Not or There Is No Try."
       ],
       "legacy": false
@@ -2229,7 +2231,7 @@
 	  "rulings": [
         "Cannot cancel an Immediate Effect, Mobile Effect, or Starting Effect.",
         "Can be played as a top-level action.",
-        "Can be played as a response to the deployment of an Effect, Political Effect, or Utinni Effect. If successful, the target has no result.",
+        "Can be played as a response to the attempted deployment of an Effect, Political Effect, or Utinni Effect. If successful, the target has no result.",
         "'Immune to opponent's Objective' only works while initiating/playing it.",
         "It is protected from (for example) both sides of Mind What You Have Learned.",
         "It is not protected from (for example) Sanity And Compassion." 
@@ -2259,7 +2261,7 @@
 	  "rulings": [
         "Cannot cancel an Immediate Effect, Mobile Effect, or Starting Effect.",
         "Can be played as a top-level action.",
-        "Can be played as a response to the deployment of an Effect, Political Effect, or Utinni Effect. If successful, the target has no result.",
+        "Can be played as a response to the attempted deployment of an Effect, Political Effect, or Utinni Effect. If successful, the target has no result.",
         "'Immune to opponent's Objective' only works while initiating/playing it.",
         "It is protected from (for example) both sides of Mind What You Have Learned.",
         "It is not protected from (for example) Sanity And Compassion." 
@@ -10584,6 +10586,11 @@
         "One Mobile Effect",
         "One Force drain"
       ],
+	  "rulings": [
+        "Can be played as a top-level action.",
+        "Can be played as a response to the attempted deployment of an Immediate or Mobile Effect, preventing any result.",
+        "Can be played as a response to the completed deployment of an Immediate or Mobile Effect, after it has any automatic results."
+      ],
       "legacy": false
     },
     {
@@ -10620,6 +10627,10 @@
         "One Immediate Effect",
         "One Mobile Effect",
         "One Force drain"
+      ],
+	  "rulings": [
+        "Can be played as a top-level action.",
+        "Can be played as a response to the attempted deployment of an Immediate or Mobile Effect, preventing any result."
       ],
       "legacy": false
     },
@@ -10661,6 +10672,10 @@
         "One Immediate Effect",
         "One Mobile Effect",
         "One Force drain"
+      ],
+	  "rulings": [
+        "Can be played as a top-level action.",
+        "Can be played as a response to the attempted deployment of an Immediate or Mobile Effect, preventing any result."
       ],
       "legacy": false
     },
@@ -11657,11 +11672,14 @@
         "Force Lightning or Force Push"
       ],
       "pulledBy": [
-        "Sith Fury (V)",
-        "Evil Is Everywhere"
+        "Always Two There Are",
+        "Sith Fury (V)"
       ],
       "matchingWeapon": [
         "Dooku's Lightsaber"
+      ],
+	  "rulings": [
+        "When using this text, treat all instances of the word 'Emperor' on Force Lightning as 'Dooku' instead."
       ],
       "legacy": false
     },
@@ -11699,6 +11717,11 @@
       ],
       "cancels": [
         "A Force drain at one location"
+      ],
+	  "rulings": [
+        "When this interrupt begins its result, the total power and the number of destiny draws are 'locked in' and will not change.",
+        "Do not draw destinies for characters inside starships or enclosed vehicles.",
+        "This is not a 'battle' and cards may not be forfeited."
       ],
       "legacy": false
     },
@@ -11753,6 +11776,12 @@
         "lore": "The Imperial forces on Endor quickly responded to the Rebel intrusion. Commander Igar had a plan in place to deal with such a commando force of Rebels."
       },
       "counterpart": "Here We Go Again",
+	  "rulings": [
+        "Allows cards to participate in another battle and fire weapons again.",
+        "Does not allow cards to 'react' a second time in one turn.",
+        "The player who played this Interrupt initiated the battle and by default gets first action of each segment.",
+        "A card excluded from the previous battle is not necessarily excluded from the new battle."
+      ],
       "legacy": false
     },
     {
@@ -11780,6 +11809,9 @@
         "destiny": "7",
         "gametext": "Court Of The Vile Gangster:Deploy Audience Chamber, Great Pit Of Carkoon and Dungeon.{While} this side up, once during each of your deploy phases, may deploy one docking bay or [Independent Starship] starship from Reserve Deck; reshuffle. Bounty Hunters are forfeit +2 and immune to Goo Nee Tay. You may not play Scanning Crew. Each player loses 1 Force at end of each of their deploy phases unless that player has a non-droid character at a Tatooine battleground site.{Flip} this card if you have two captives (or a captive of ability > 2) at any Jabba's Palace site(s).I Shall Enjoy Watching You Die:{While} this side up, once during each of your deploy phases, may deploy Sarlacc, Rancor or Rancor Pit from Reserve Deck; reshuffle. Captives targeted by trap door are immediately relocated to Rancor Pit (do not draw destiny) and Trap Door may not be canceled. Opponent loses Force equal to forfeit value of each opponent's character eaten by a Rancor or Sarlacc (place that character out of play).{Flip} this card if you have no captives at Tatooine sites and opponent has no character at same site as Rancor."
       },
+	  "rulings": [
+        "A frozen captive (such as from Profit) counts as an ability = 0 captive towards the Flip condition."
+      ],
       "legacy": false
     },
     {
@@ -12014,6 +12046,10 @@
           "Force-Attuned"
         ]
       },
+	  "rulings": [
+        "Only gets bonus power from characters if Dannik used his 'eat the soup' text on them.",
+        "If Dannik leaves table and a new Dannik enters play, the previous bonus power is retained."
+      ],
       "legacy": false
     },
     {
@@ -12211,6 +12247,10 @@
         "We Must Accelerate Our Plans"
       ],
       "counterpart": "For Luck",
+	  "rulings": [
+        "The player playing Sense or Alter must then immediately choose a new target character if possible. If not possible, the Sense or Alter fails.",
+        "If Alter is played in response to the attempted deployment of this Effect, this Effect's game text may not be used yet."
+      ],
       "legacy": false
     },
     {
@@ -12236,6 +12276,11 @@
       "pulledBy": [
         "Twi'lek Advisor",
         "We Must Accelerate Our Plans"
+      ],
+	  "rulings": [
+        "Characters introduced to this site after Dark Hours begins its result are not targeted.",
+        "If Dark fails to draw destiny (empty Reserve Deck), Light chooses the outcome.",
+        "A character affected by multiple copies of Dark Hours remains asleep until all copies leave table."
       ],
       "legacy": false
     },
@@ -13673,8 +13718,7 @@
         "lore": "Most gunners in the Imperial Navy once aspired to be TIE pilots, but lacked sufficient skills to fly starfighters. A few were assigned to the Death Star to man the main artillery."
       },
       "pulls": [
-        "Superlaser",
-        "Superlaser Mark II"
+        "Superlaser"
       ],
       "pulledBy": [
         "Set Your Course For Alderaan/The Ultimate Power In The Universe"
@@ -14413,7 +14457,7 @@
         }
       ],
       "front": {
-        "title": "Deep Hatred",
+        "title": "•Deep Hatred",
         "imageUrl": "https://res.starwarsccg.org/cards/ReflectionsIII-Dark/large/deephatred.gif",
         "type": "Epic Event",
         "uniqueness": "*",
@@ -15936,7 +15980,6 @@
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual8-Dark/large/doubleback.gif",
         "type": "Interrupt",
         "subType": "Used or Lost",
-        "uniqueness": "*",
         "destiny": "3",
         "gametext": "USED: Take 4-LOM, non-[Maintenance] Boba Fett, Danz Borin, or Dengar into hand from Reserve Deck; reshuffle.  LOST: During your move phase, your bounty hunter (or [Independent] starship they are piloting) may make an additional move. OR Move your bounty hunter as a 'react'.",
         "lore": "Having lost sight of Boba Fett, Luke was surprised by his sudden reappearance."
@@ -15972,7 +16015,7 @@
         }
       ],
       "front": {
-        "title": "•Double Laser Cannon",
+        "title": "Double Laser Cannon",
         "imageUrl": "https://res.starwarsccg.org/cards/JabbasPalace-Dark/large/doublelasercannon.gif",
         "type": "Weapon",
         "subType": "Vehicle",
@@ -16001,7 +16044,7 @@
         }
       ],
       "front": {
-        "title": "Double-Crossing, No-Good Swindler",
+        "title": "•Double-Crossing, No-Good Swindler",
         "imageUrl": "https://res.starwarsccg.org/cards/CloudCity-Dark/large/doublecrossingnogoodswindler.gif",
         "type": "Interrupt",
         "subType": "Lost",
@@ -16031,6 +16074,7 @@
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual11-Dark/large/dqar.gif",
         "type": "Location",
         "subType": "System",
+        "uniqueness": "*",
         "destiny": "0",
         "icons": [
           "Planet",
@@ -16170,6 +16214,7 @@
         "imageUrl": "https://res.starwarsccg.org/cards/SpecialEdition-Dark/large/drevazanssawedoffblaster.gif",
         "type": "Weapon",
         "subType": "Character",
+        "uniqueness": "*",
         "destiny": "2",
         "characteristics": [
           "blaster"
@@ -18849,7 +18894,6 @@
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual4-Dark/large/f11dblasterrifle.gif",
         "type": "Weapon",
         "subType": "Character",
-        "uniqueness": "*",
         "destiny": "2",
         "icons": [
           "Episode VII"
@@ -22744,7 +22788,6 @@
         "imageUrl": "https://res.starwarsccg.org/cards/CloudCity-Dark/large/humanshield.gif",
         "type": "Interrupt",
         "subType": "Used Or Lost",
-        "uniqueness": "*",
         "destiny": "5",
         "gametext": "USED: If an opponent's weapon is about to 'hit' an Imperial present with a captive being escorted, the captive is 'hit' instead.  LOST: During the damage segment of a battle at a site, you may forfeit any captives present (once per battle per captive).",
         "lore": "A shining example of Imperial honor and bravery."
@@ -25332,6 +25375,11 @@
         "You Cannot Hide Forever & Mobilization Points"
       ],
       "counterpart": "I Feel The Conflict",
+	  "rulings": [
+        "If a player loses Force from hand to stack here, it is first revealed to both players.",
+        "If a player loses Force from Life Force to stack here, it is not revealed.",
+        "Text referring to cards stacked 'on'/'under'/'beneath' this Effect all means the same thing."
+      ],
       "legacy": false
     },
     {
@@ -38979,7 +39027,7 @@
         }
       ],
       "front": {
-        "title": "Savage Opress",
+        "title": "•Savage Opress",
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual7-Dark/large/savageopress.gif",
         "type": "Character",
         "subType": "Sith",
@@ -39805,7 +39853,6 @@
         "title": "Senate Hovercam",
         "imageUrl": "https://res.starwarsccg.org/cards/TheedPalace-Dark/large/senatehovercam.gif",
         "type": "Effect",
-        "uniqueness": "*",
         "destiny": "3",
         "icons": [
           "Episode I"
@@ -43235,7 +43282,7 @@
         }
       ],
       "front": {
-        "title": "Superlaser Mark II",
+        "title": "•Superlaser Mark II",
         "imageUrl": "https://res.starwarsccg.org/cards/DeathStarII-Dark/large/superlasermarkii.gif",
         "type": "Weapon",
         "subType": "Death Star II",
@@ -43245,7 +43292,6 @@
         "lore": "The redesign of the Death Star called for improved defenses against Rebel starships. The superlaser redesign, while not able to target snub fighters, can devastate capital starships."
       },
       "pulledBy": [
-        "Death Star Gunner",
         "Moff Jerjerrod"
       ],
       "legacy": false
@@ -43298,7 +43344,6 @@
         "imageUrl": "https://res.starwarsccg.org/cards/SpecialEdition-Dark/large/surfacedefense.gif",
         "type": "Interrupt",
         "subType": "Used Or Starting",
-        "uniqueness": "*",
         "destiny": "5",
         "gametext": "USED: Add 1 to your just-drawn weapon destiny.  STARTING: If you have deployed a battleground, deploy Resistance, Secret Plans and/or There Is No Try from Reserve Deck. Place Interrupt in Reserve Deck.",
         "lore": "'The battle station is heavily shielded and carries a firepower greater than half the starfleet.'"
@@ -47583,7 +47628,6 @@
         "imageUrl": "https://res.starwarsccg.org/cards/TheedPalace-Dark/large/tradefederationlandingcraft.gif",
         "type": "Starship",
         "subType": "Capital: Trade Federation Landing Craft",
-        "uniqueness": "*",
         "destiny": "2",
         "power": "2",
         "armor": "4",
@@ -54074,7 +54118,7 @@
 	  "rulings": [
         "Cannot cancel an Immediate Effect, Mobile Effect, or Starting Effect.",
         "Can be played as a top-level action.",
-        "Can be played as a response to the deployment of an Effect, Political Effect, or Utinni Effect. If successful, the target has no result.",
+        "Can be played as a response to the attempted deployment of an Effect, Political Effect, or Utinni Effect. If successful, the target has no result.",
         "'Immune to opponent's Objective' only works while initiating/playing it.",
         "It is protected from (for example) both sides of Mind What You Have Learned.",
         "It is not protected from (for example) Sanity And Compassion." 
