@@ -70,7 +70,8 @@ jobs:
           git config --local user.name "github-actions[bot]"
           git add -A *.json ; true
           git commit -m "Updating card json files to latest" -a ; true
-          GIT_SSH_COMMAND="ssh -i swccg-card-json.pem -o StrictHostKeyChecking=no -o UserKnownHostsFile=/dev/null" git push
+          export GIT_SSH_COMMAND="ssh -i ../swccg-card-json.pem -o StrictHostKeyChecking=no -o UserKnownHostsFile=/dev/null"
+          GIT_SSH_COMMAND="ssh -i ../swccg-card-json.pem -o StrictHostKeyChecking=no -o UserKnownHostsFile=/dev/null" git push
           rm ../swccg-card-json.pem
 
 
