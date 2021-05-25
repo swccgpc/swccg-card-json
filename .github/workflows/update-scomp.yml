@@ -35,14 +35,23 @@ jobs:
       - name: Commit json files
         run: |
           echo
+          echo
+          echo "ls"
+          ls -al
+          echo
+          echo "git: [$(which git)]"
+          echo
           echo "should be in /home/runner/work/swccg-card-json: [$(pwd)]"
           echo
           echo "${{ secrets.SWCCG_CARD_JSON }}" > swccg-card-json.pem
+          chmod 0600 swccg-card-json.pem
           echo "swccg-card-json.pem info:"
           ls -al swccg-card-json.pem
           echo
+          echo "Setting GIT_SSH_COMMAND"
+          export GIT_SSH_COMMAND="ssh -i swccg-card-json.pem -o StrictHostKeyChecking=no -o UserKnownHostsFile=/dev/null"
           echo "git pull swccg-scomp"
-          GIT_SSH_COMMAND="ssh -i swccg-card-json.pem -o StrictHostKeyChecking=no -o UserKnownHostsFile=/dev/null" git pull git@github.com:swccgpc/swccg-scomp.git
+          git pull git@github.com:swccgpc/swccg-scomp.git swccg-scomp
           echo
           echo "ls"
           ls -al
