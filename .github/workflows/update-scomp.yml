@@ -41,7 +41,7 @@ jobs:
           echo
           echo "git: [$(which git)]: $(git --version)"
           echo
-          cd /home/runner/work/swccg-card-json
+          #cd /home/runner/work/swccg-card-json
           echo "should be in /home/runner/work/swccg-card-json: [$(pwd)]"
           echo
           echo "${{ secrets.SWCCG_CARD_JSON }}" > swccg-card-json.pem
