@@ -23,22 +23,24 @@ jobs:
       #    echo "${{ secrets.SWCCG_CARD_JSON }}" > swccg-card-json.pem
       #    ls swccg-card-json.pem
 
-      - uses: actions/checkout@main
-        with:
-          repository: "git@github.com:swccgpc/swccg-scomp.git"
-          ssh-key: "${{ secrets.SWCCG_CARD_JSON }}"
-          ssh-strict: false
-          persist-credentials: false
-          fetch-depth: 0 # otherwise, you will failed to push refs to dest repo
-          path: swccg-scomp
+      #- uses: actions/checkout@main
+      #  with:
+      #    repository: "git@github.com:swccgpc/swccg-scomp.git"
+      #    ssh-key: "${{ secrets.SWCCG_CARD_JSON }}"
+      #    ssh-strict: false
+      #    persist-credentials: false
+      #    fetch-depth: 0 # otherwise, you will failed to push refs to dest repo
+      #    path: swccg-scomp
 
-      - name: Commit files
+      - name: Commit json files
         run: |
           echo
           pwd
           echo
           echo "${{ secrets.SWCCG_CARD_JSON }}" > swccg-card-json.pem
           ls swccg-card-json.pem
+          echo
+          GIT_SSH_COMMAND="ssh -i swccg-card-json.pem -o StrictHostKeyChecking=no -o UserKnownHostsFile=/dev/null" git pull git@github.com:swccgpc/swccg-scomp.git
           echo
           ls -al
           echo
@@ -53,14 +55,15 @@ jobs:
           git config --local user.name "github-actions[bot]"
           git add -A *.json ; true
           git commit -m "Updating card json files to latest" -a ; true
-          GIT_SSH_COMMAND="ssh -i ../swccg-card-json.pem" git push
+          GIT_SSH_COMMAND="ssh -i swccg-card-json.pem -o StrictHostKeyChecking=no -o UserKnownHostsFile=/dev/null" git push
+          rm swccg-card-json.pem
 
 
-      - name: Push changes
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: ${{ github.ref }}
+      #- name: Push changes
+      #  uses: ad-m/github-push-action@master
+      #  with:
+      #    github_token: ${{ secrets.GITHUB_TOKEN }}
+      #    branch: ${{ github.ref }}
 
 
 
