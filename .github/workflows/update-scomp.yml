@@ -1,13 +1,6 @@
 ---
 
-##
-## Remote Repo API URL:
-## https://api.github.com/repos/:owner/:repo/dispatches
-##
-## event_type: This will be received in the workflow event payload as the action field.
-##
-
-name: Remote Dispatch Action Initiator
+name: Update Scomp
 
 on:
   push: 
@@ -15,15 +8,47 @@ on:
       - main
 
 jobs:
-  ping-pong:
-    runs-on: ubuntu-latest
+  update-scomp:
+    runs-on: "ubuntu-latest"
     steps:
-      - name: Dispatch initiating scomp repository event
-        run: |+
-          curl -X POST https://api.github.com/repos/swccgpc/swccg-scomp/dispatches \
-          -H 'Accept: application/vnd.github.everest-preview+json' \
-          -u ${{ secrets.ACCESS_TOKEN }} \
-          --data '{"event_type": "get-latest-cardlist", "client_payload": { "repository": "'"$GITHUB_REPOSITORY"'" }}'
+      - uses: actions/checkout@main
+        with:
+          persist-credentials: false # otherwise, the token used is the GITHUB_TOKEN, instead of your personal token
+          fetch-depth: 1
+          path: swccg-card-json
+
+
+      - name: Create ssh key
+        run: |
+          echo "${{ secrets.SWCCG_CARD_JSON }}" > swccg-card-json.pem
+
+      - uses: actions/checkout@main
+        with:
+          repository: "git@github.com:swccgpc/swccg-scomp.git"
+          ssh-key: "swccg-card-json.pem"
+          ssh-strict: false
+          persist-credentials: false
+          fetch-depth: 0 # otherwise, you will failed to push refs to dest repo
+          path: swccg-scomp
+
+      - name: Commit files
+        run: |
+          echo
+          ls -al
+          echo
+          ls swccg-scomp
+          echo
+          ls swccg-card-json
+          echo
+          cp swccg-card-json/*.json swccg-scomp/
+          cd swccg-scomp
+          pwd
+          git config --local user.email "devon+github-actions[bot]@hubner.org"
+          git config --local user.name "github-actions[bot]"
+          git add -A *.json ; true
+          git commit -m "Updating card json files to latest" -a ; true
+          git push
+
 
 
 
