@@ -12509,6 +12509,9 @@
         "We Must Accelerate Our Plans",
         "Execution Arena (Pit) (V)"
       ],
+      "rulings": [
+        "If on a vehicle site, characters there may be attacked despite being 'aboard a vehicle'."
+      ],
       "legacy": false
     },
     {
@@ -12644,6 +12647,10 @@
       "matchingWeapon": [
         "Maul's Double-Bladed Lightsaber",
         "Maul's Lightsaber"
+      ],
+      "rulings": [
+        "The loser of the duel is the character with the lower total.",
+        "If the duel totals are tied, there is no winner and no loser."
       ],
       "legacy": false
     },
@@ -13687,6 +13694,11 @@
       "pulledBy": [
         "Set Your Course For Alderaan/The Ultimate Power In The Universe"
       ],
+      "rulings": [
+        "Deploys -6 at Star Destroyer: Launch Bay.",
+        "May be taken into hand from table by Hunt Down And Destroy The Jedi.",
+        "Vader provides 6 ability. DS-61-2 and DS-61-3 each provide 2 ability."
+      ],
       "legacy": false
     },
     {
@@ -13962,6 +13974,10 @@
         "Twi'lek Advisor",
         "We Must Accelerate Our Plans"
       ],
+      "rulings": [
+        "Increases the typical '4 ability' requirement for drawing battle destiny.",
+        "Also increases any special requirements such as on Prince Xizor."
+      ],
       "legacy": false
     },
     {
@@ -13993,6 +14009,9 @@
       "counterpart": "Yavin Sentry (V)",
       "cancels": [
         "Colo Claw Fish"
+      ],
+      "rulings": [
+        "This separate cost must be paid even if the card being deployed is free."
       ],
       "legacy": false
     },
@@ -14499,6 +14518,9 @@
       },
       "combo": [
         "Defel(s) + Sunsdown + Chief Retwin"
+      ],
+      "rulings": [
+        "Each Defel can cause 1 Force loss per turn."
       ],
       "legacy": false
     },
@@ -15120,6 +15142,9 @@
         "You Cannot Hide Forever",
         "You Cannot Hide Forever & Mobilization Points"
       ],
+      "rulings": [
+        "May deploy both Combat Response and Imperial Arrest Order in the same turn (as 2 separate actions)."
+      ],
       "legacy": false
     },
     {
@@ -15515,6 +15540,9 @@
         "lore": "Snowspeeders move much faster than AT-AT cannons can track, but if approaching on a poor attack vector, the snowspeeder is at the mercy of the well-trained AT-AT gunner."
       },
       "counterpart": "Lucky Shot",
+      "rulings": [
+        "Works with Vehicle Mine."
+      ],
       "legacy": false
     },
     {
@@ -15583,6 +15611,10 @@
       ],
       "canceledBy": [
         "Bionic Hand"
+      ],
+      "rulings": [
+        "Character loses all weapons, including permanent weapons.",
+        "If Disarmed is removed, any permanent weapon(s) are restored."
       ],
       "legacy": false
     },
@@ -15727,6 +15759,12 @@
         "Twi'lek Advisor",
         "We Must Accelerate Our Plans"
       ],
+      "rulings": [
+        "Reducing retrieval reduces X on Secret Plans.",
+        "Retrieving a specific card can be reduced from 1 card retrieved to 0.",
+        "Code Clearance can stack an Interrupt before This Place Can Be A Little Rough can place it out of play.",
+        "Outrider places Utinni Effects out of play before Code Clearance can stack."
+      ],
       "legacy": false
     },
     {
@@ -15753,6 +15791,12 @@
         "gametext": "Plays on table. If opponent just retrieved Force using an Interrupt or Utinni Effect, you may place that card here. Opponent's Force retrieval is reduced by X, where X = number of cards here.",
         "lore": "Imperial officers are always on the lookout for Rebel espionage."
       },
+      "rulings": [
+        "Reducing retrieval reduces X on Secret Plans.",
+        "Retrieving a specific card can be reduced from 1 card retrieved to 0.",
+        "Code Clearance can stack an Interrupt before This Place Can Be A Little Rough can place it out of play.",
+        "Outrider places Utinni Effects out of play before Code Clearance can stack."
+      ],
       "legacy": false
     },
     {
@@ -15961,6 +16005,10 @@
       ],
       "canceledBy": [
         "Put That Down"
+      ],
+      "rulings": [
+        "The first function of this Interrupt does not require a bounty hunter in Lost Pile to initiate.",
+        "Both functions of this Interrupt are top level actions."
       ],
       "legacy": false
     },
@@ -16294,6 +16342,10 @@
       "counterpart": "Rebel Fleet",
       "combo": [
         "Dreaded Imperial Starfleet + Sienar Fleet Systems + Commander Brandei + TIE's with matching pilots."
+      ],
+      "rulings": [
+        "A card with asterisk deploy cost is treated as X = 0.",
+        "However if any deploy cost is defined (even by another card), use the defined cost for X."
       ],
       "legacy": false
     },
@@ -16966,6 +17018,9 @@
       "cancels": [
         "Game text of a character"
       ],
+      "rulings": [
+        "Once initiated, the battle will continue even if presence and/or spies are introduced to the battle."
+      ],
       "legacy": false
     },
     {
@@ -17025,6 +17080,12 @@
         "gametext": "Deploy on any site. May be moved with two warriors for 1 additional Force. Your warrior present may target a starfighter (use 5 as defense value), character, creature or vehicle using 2 Force. Draw destiny. Target hit if destiny +1 > defense value.",
         "lore": "Massive infantry weapon powerful enough to damage even starfighters."
       },
+      "rulings": [
+        "Moving the E-web Blaster does not permit those carrying it to make an extra move.",
+        "Normal movement costs apply to the characters moving the E-web Blaster.",
+        "The characters moving the E-web Blaster move with it, using landspeed, simultaneously.",
+        "This weapon is a blaster."
+      ],
       "legacy": false
     },
     {
@@ -17167,6 +17228,11 @@
         "EV-9D9"
       ],
       "counterpart": "EG-4 (Eegee-Four)",
+      "rulings": [
+        "Doubles total power at a location, including modifiers.",
+        "Does not double any power destiny / battle destiny draws.",
+        "Does not double attrition."
+      ],
       "legacy": false
     },
     {
@@ -21515,6 +21581,9 @@
       "pulledBy": [
         "Blizzard 4",
         "The Empire's Back"
+      ],
+      "rulings": [
+        "If he adds a battle destiny, he can no longer draw one battle destiny if unable to otherwise that battle."
       ],
       "legacy": false
     },
@@ -32062,6 +32131,10 @@
       ],
       "canceledBy": [
         "Swing-And-A-Miss"
+      ],
+      "rulings": [
+        "Character loses all weapons, including permanent weapons.",
+        "If Mostly Armless is removed, any permanent weapon(s) are restored."
       ],
       "legacy": false
     },
@@ -42908,6 +42981,9 @@
         "lore": "Standard-issue Imperial equipment with full survival and encampment gear, plus ammunition and food for an extended deployment. Makes each trooper self-sufficient."
       },
       "counterpart": "Echo Trooper Backpack",
+      "rulings": [
+        "Does not allow the character to use weapons/devices that they cannot use otherwise."
+      ],
       "legacy": false
     },
     {
@@ -43349,6 +43425,9 @@
         "lore": "'The battle station is heavily shielded and carries a firepower greater than half the starfleet.'"
       },
       "counterpart": "Don't Tread On Me",
+      "rulings": [
+        "May be played even if the battleground has been converted."
+      ],
       "legacy": false
     },
     {
@@ -43446,6 +43525,11 @@
         "You Cannot Hide Forever & Mobilization Points"
       ],
       "counterpart": "Don't Tread On Me (V)",
+      "rulings": [
+        "Must draw at least 8 cards into opening hand.",
+        "May draw additional cards one at a time and review each one before deciding to draw again or not.",
+        "Effect cannot have any deploy cost listed in its game text."
+      ],
       "legacy": false
     },
     {
@@ -52070,6 +52154,9 @@
       "canceledBy": [
         "He Can Go About His Business - Defensive Shield",
         "He Can Go About His Business (V) - Defensive Shield"
+      ],
+      "rulings": [
+        "This Interrupt does not triple attrition."
       ],
       "legacy": false
     },

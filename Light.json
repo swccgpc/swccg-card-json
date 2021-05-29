@@ -13380,6 +13380,10 @@
       "combo": [
         "Disarmed + Rebel Barrier"
       ],
+      "rulings": [
+        "Character loses all weapons, including permanent weapons.",
+        "If Disarmed is removed, any permanent weapon(s) are restored."
+      ],
       "legacy": false
     },
     {
@@ -13591,6 +13595,10 @@
       "combo": [
         "Docking And Repair Facilities + Corporal Marmor Corporal Marmor reduces X by 3 on Docking And Repair Facilities when a Star Cruiser is held there."
       ],
+      "rulings": [
+        "A card with asterisk deploy cost is treated as X = 0.",
+        "However if any deploy cost is defined (even on another card such as More Dangerous Than You Realize), use the defined cost for X."
+      ],
       "legacy": false
     },
     {
@@ -13648,6 +13656,10 @@
         "gametext": "For each other musician at same site, the ability required to draw battle destiny here increases by 1 for both players.",
         "lore": "Male Bith musician. Plays Fizz (Dorenian Beshniquel) in Figrin D'an's band. Frustrated by sentients, especially humans, he prefers to work with droids."
       },
+      "rulings": [
+        "Increases the typical '4 ability' requirement for drawing battle destiny.",
+        "Also increases any special requirements such as on A Jedi's Strength."
+      ],
       "legacy": false
     },
     {
@@ -13923,6 +13935,9 @@
         "lore": "Han did not take kindly to Jabba's posturing."
       },
       "counterpart": "Surface Defense",
+      "rulings": [
+        "May be played even if the battleground has been converted."
+      ],
       "legacy": false
     },
     {
@@ -13953,6 +13968,11 @@
         "Any [Immune to Alter] effect that deploys for free on table (or your side of table)"
       ],
       "counterpart": "Surface Defense (V)",
+      "rulings": [
+        "Must draw at least 8 cards into opening hand.",
+        "May draw additional cards one at a time and review each one before deciding to draw again or not.",
+        "Effect cannot have any deploy cost listed in its game text."
+      ],
       "legacy": false
     },
     {
@@ -13979,6 +13999,9 @@
       "canceledBy": [
         "A Useless Gesture - Defensive Shield",
         "We'll Let Fate-a Decide, Huh? (V) - Defensive Shield"
+      ],
+      "rulings": [
+        "This Interrupt does not triple attrition."
       ],
       "legacy": false
     },
@@ -14671,6 +14694,9 @@
         "Portable Scanner"
       ],
       "counterpart": "Stormtrooper Backpack",
+      "rulings": [
+        "Does not allow the character to use weapons/devices that they cannot use otherwise."
+      ],
       "legacy": false
     },
     {
@@ -14753,6 +14779,11 @@
       "counterpart": "EG-6 (Eegee-Six)",
       "combo": [
         "EG-4 (Eegee-Four) + Off The Edge + Cloud City: Incinerator"
+      ],
+      "rulings": [
+        "Doubles total power at a location, including modifiers.",
+        "Does not double any power destiny / battle destiny draws.",
+        "Does not double attrition."
       ],
       "legacy": false
     },
@@ -18227,6 +18258,10 @@
       ],
       "combo": [
         "General McQuarrie + Hoth Sentry"
+      ],
+      "rulings": [
+        "Increases the typical '4 ability' requirement for drawing battle destiny.",
+        "Also increases any special requirements such as on A Jedi's Strength."
       ],
       "legacy": false
     },
@@ -24914,6 +24949,9 @@
           "Force-Attuned"
         ]
       },
+      "rulings": [
+        "Text to 'draw one battle destiny if unable to otherwise' does not work while Jyn is Undercover."
+      ],
       "legacy": false
     },
     {
@@ -28942,6 +28980,9 @@
         "lore": "AT-ATs are nearly impervious to infantry fire, but occasionally a blaster bolt hits between the plating. It's one shot in a million, but such odds are a familiar to the Rebellion."
       },
       "counterpart": "Direct Hit",
+      "rulings": [
+        "Works with Vehicle Mine."
+      ],
       "legacy": false
     },
     {
@@ -29477,6 +29518,9 @@
         "Corporal Beezer",
         "Hero Of A Thousand Devices",
         "Portable Scanner"
+      ],
+      "rulings": [
+        "Does not allow the character to use devices that they cannot use otherwise."
       ],
       "legacy": false
     },
@@ -31402,6 +31446,12 @@
       "pulledBy": [
         "Captain Yutani",
         "Portable Scanner"
+      ],
+      "rulings": [
+        "Moving this cannon does not permit those carrying it to make an extra move.",
+        "Normal movement costs apply to the characters moving this cannon.",
+        "The characters moving this cannon move with it, using landspeed, simultaneously.",
+        "This weapon is a blaster."
       ],
       "legacy": false
     },
@@ -37529,6 +37579,9 @@
         "Portable Scanner",
         "Rapid Fire"
       ],
+      "rulings": [
+        "This weapon is NOT a blaster."
+      ],
       "legacy": false
     },
     {
@@ -39003,7 +39056,7 @@
         "subType": "Used",
         "uniqueness": "**",
         "destiny": "7",
-        "gametext": "During your control phase, if you have a weapon (except a lightsaber, or [Permanent Weapon]) at a battleground you control, opponent loses one Force. OR If you just used a weapon (except a lightsaber, or [Permanent Weapon]) to hit a character or starship, opponent loses one Force. (Immune to Sense.)",
+        "gametext": "During your control phase, if you have a weapon (except a lightsaber, or [Permanent Weapon]) at a battleground you control, opponent loses one Force. OR If you just used a weapon (except a lightsaber, or [Permanent Weapon]) to 'hit' a character or starship, opponent loses one Force. (Immune to Sense.)",
         "lore": "The Rebel Alliance utilizes every piece of equipment, ammunition and personnel it can muster."
       },
       "counterpart": "Imperial Artillery",
@@ -53981,6 +54034,10 @@
       "combo": [
         "Yavin Sentry + Grondorn Muse"
       ],
+      "rulings": [
+        "Increases the typical '4 ability' requirement for drawing battle destiny.",
+        "Also increases any special requirements such as on A Jedi's Strength."
+      ],
       "legacy": false
     },
     {
@@ -54011,6 +54068,9 @@
       },
       "cancels": [
         "Colo Claw Fish"
+      ],
+      "rulings": [
+        "This separate cost must be paid even if the card being deployed is free."
       ],
       "legacy": false
     },
