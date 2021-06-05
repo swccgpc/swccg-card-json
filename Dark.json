@@ -17280,6 +17280,11 @@
         "It's A Hit!",
         "Quite A Mercenary makes all characters transported by Elis Helrot lost"
       ],
+      "rulings": [
+        "The destiny draw and cost are paid during initiation, and then responses (e.g. Sense) may take place.",
+        "If retargeted by I Have A Bad Feeling About This, it must EITHER select new characters to be transported OR select a new destination site.",
+        "If using I Have A Bad Feeling About This to choose new characters, the new characters may be at the same origin site or a different origin site, but it cannot include any of the original characters."
+      ],
       "legacy": false
     },
     {
@@ -17402,6 +17407,12 @@
       "counterpart": "Panic",
       "canceledBy": [
         "Light Maneuvers"
+      ],
+      "rulings": [
+        "Does not circumvent any deployment rules such as requiring presence or Force icons, Dagobah rules, etc.",
+        "All cards revealed but not deployed are lost.",
+        "If Blizzard 4 shuffles the Reserve Deck, any remaining revealed cards are un-revealed and shuffled in, ending the action.",
+        "If the player somehow activates or loses Force from Reserve Deck while the top card is revealed, it is un-revealed and then activated/lost normally."
       ],
       "legacy": false
     },
@@ -17904,6 +17915,9 @@
       "combo": [
         "Endor: Bunker + Major Hewex"
       ],
+      "rulings": [
+        "Light can only move to this site if they are at the Back Door when they are initiating their movement."
+      ],
       "legacy": false
     },
     {
@@ -18282,6 +18296,10 @@
         "Ephant Mon + Jabba The Hutt (V) Ephant Mon works perfect with Jabba The Hutt (V), who needs a leader to protect him from targeting of weapons.",
         "Ephant Mon + any Jabba"
       ],
+      "rulings": [
+        "May be forfeited to satisfy all remaining attrition even if there is no battle damage, and vice versa.",
+        "If prevented from being used to satisfy attrition (e.g. Crack Shot), his text may still satisfy all remaining battle damage, but not attrition."
+      ],
       "legacy": false
     },
     {
@@ -18555,6 +18573,12 @@
         "gametext": "Unless Tarkin is aboard, save all characters, weapons and devices aboard any just-lost capital starship. Relocate them to any one planet site or one of your capital starships.",
         "lore": "Escape pods are on many starships allowing those in peril to flee, an act considered cowardly by Imperial officers. 'We've analyzed their attack, sir, and there is a danger.'"
       },
+      "rulings": [
+        "May not relocate opponent's cards.",
+        "May not relocate weapons and devices deployed directly upon a starship or vehicle (e.g. Deflector Shield Generators or Turbolaser Battery).",
+        "If relocating to a capital starship, it must have capacity for everything and all of the cards must be allowed to exist there.",
+        "If relocating to a capital starship, it must be to the starship card itself, not a starship site."
+      ],
       "legacy": false
     },
     {
@@ -18918,6 +18942,13 @@
       ],
       "canceledBy": [
         "Uh-oh!"
+      ],
+      "rulings": [
+        "Does not expand card titles, marker numbers, icons, or anything else besides game text.",
+        "Does not allow docking bay transit to occur to or from a non-docking bay site.",
+        "Two identical modifiers stack, for example 'Force drain +1 here. Force drain +1 here.' will work to add 2 to Force drains there.",
+        "While game text is canceled or suspended at one site, it is not expanded to adjacent sites.",
+        "Expanding the Tatooine: Podrace Arena game text to adjacent sites makes those sites non-battlegrounds while any race total > 0."
       ],
       "legacy": false
     },
@@ -19366,6 +19397,11 @@
       ],
       "canceledBy": [
         "Game text is canceled by Freon Drevan"
+      ],
+      "rulings": [
+        "Resets the cost of initiating battle, cannot be further modified by cards like Wars Not Make One Great.",
+        "Anything allowing battle to be initiated for free ignores this cost.",
+        "If inside a starship or enclosed vehicle, the number of Force icons present with Trevagg is 0."
       ],
       "legacy": false
     },
@@ -20143,6 +20179,9 @@
       "pulledBy": [
         "Emperor Palpatine"
       ],
+      "rulings": [
+        "May not target a frozen captive."
+      ],
       "legacy": false
     },
     {
@@ -20195,6 +20234,9 @@
         "gametext": "Target opponent's Jedi with at least one combat card present with your Dark Jedi. Reveal one of target's combat cards (random selection). If revealed card's destiny > 4, place it on top of opponent's Reserve Deck. Otherwise, lose 1 Force. (Immune to Sense.)",
         "lore": "A fully-trained Sith warrior has more weapons at his disposal than just a lightsaber."
       },
+      "rulings": [
+        "If the revealed card is destiny 4 or less, it is un-revealed and placed back under the Jedi."
+      ],
       "legacy": false
     },
     {
@@ -20246,6 +20288,11 @@
       "pulledBy": [
         "Twi'lek Advisor",
         "We Must Accelerate Our Plans"
+      ],
+      "rulings": [
+        "The targeted starfighter may not move (or be carried) to any system, asteroid sector, or Death Star II sector.",
+        "The targeted starfighter may not move (or be carried) to any cloud sector of higher altitude.",
+        "The targeted starfighter may not move (or be carried) to any site except the site where Forced Landing is deployed."
       ],
       "legacy": false
     },
@@ -20475,6 +20522,9 @@
         "gametext": "Use 2 Force. Draw Destiny. If destiny < number of Stormtroopers on the table, all opponent's movement is blocked for the remainder of this turn (except for smugglers and the starships they are aboard).",
         "lore": "Imperial stormtroopers adopt strict security measures. Excellent communications and sheer numbers can hinder Rebel movement across entire territories."
       },
+      "rulings": [
+        "The phrase 'movement is blocked' means the cards cannot move."
+      ],
       "legacy": false
     },
     {
@@ -21538,6 +21588,10 @@
       ],
       "cancels": [
         "One opponent's destiny just drawn when in battle with Vader"
+      ],
+      "rulings": [
+        "May cancel any type of destiny such as battle destiny, weapon destiny, Sense destiny, etc.",
+        "May cancel a duel destiny (if the duel takes place during a battle where Tarkin is with Vader)."
       ],
       "legacy": false
     },
@@ -25238,6 +25292,7 @@
         "In Range + Our First Catch of the Day"
       ],
       "rulings": [
+        "This Interrupt targets a specific starship (e.g. for the purposes of Han's Toolkit).",
         "A starship captured and stolen mid-battle with In Range becomes inactive that battle."
       ],
       "legacy": false
@@ -28503,6 +28558,11 @@
         "Rayno Vaca"
       ],
       "counterpart": "Odin Nesloor",
+      "rulings": [
+        "The destiny draw and cost are paid during initiation, and then responses (e.g. Sense) may take place.",
+        "If retargeted by I Have A Bad Feeling About This, it must EITHER select new characters to be transported OR select a new destination site.",
+        "If using I Have A Bad Feeling About This to choose new characters, the new characters may be at the same origin site or a different origin site, but it cannot include any of the original characters."
+      ],
       "legacy": false
     },
     {
@@ -28528,6 +28588,11 @@
         ],
         "gametext": "If your character is about to be hit, use 1 Force (free if by a [Permanent Weapon] weapon); for remainder of turn, its forfeit may not be reduced and it may not be used to satisfy attrition. OR Cancel Disarmed. (Immune to Sense.) OR Cancel a 'react'. OR During your move phase, target any or all of your characters at one site to 'transport' (relocate) to an exterior or battleground site. Draw destiny. Use that much Force to 'transport,' or place Interrupt in Lost Pile."
       },
+      "rulings": [
+        "The destiny draw and cost are paid during initiation, and then responses (e.g. Sense) may take place.",
+        "If retargeted by I Have A Bad Feeling About This, it must EITHER select new characters to be transported OR select a new destination site.",
+        "If using I Have A Bad Feeling About This to choose new characters, the new characters may be at the same origin site or a different origin site, but it cannot include any of the original characters."
+      ],
       "legacy": false
     },
     {
@@ -52373,6 +52438,12 @@
         "We Must Accelerate Our Plans"
       ],
       "counterpart": "Eyes In The Dark",
+      "rulings": [
+        "Cards lost from Life Force should not be revealed to either player.",
+        "Cards lost from hand or table should be shown to both players before being placed face-down in Lost Pile.",
+        "Anything that enables searching the Lost Pile to take or retrieve a card still works normally.",
+        "Baragwin may repeatedly check the top card of Lost Pile to see if it is an eligible target for retrieval (unless his action has already retrieved that turn)."
+      ],
       "legacy": false
     },
     {
@@ -53426,6 +53497,9 @@
         "gametext": "Plays on table. Opponent's Undercover spies are immune to Double Agent. While a Jedi Test on table, Projection Of A Skywalker is canceled. If Grimtaash just revealed your hand, you may place up to two cards from hand in your Used Pile.",
         "lore": "'That place is strong with the dark side of the Force. A domain of evil it is. In you must go.'"
       },
+      "rulings": [
+        "Once the Jedi Test #5 (It Is The Future You See) attempt has begun, deploying Failure At The Cave will not prevent that test from completing as scheduled."
+      ],
       "legacy": false
     },
     {
