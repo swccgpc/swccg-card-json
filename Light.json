@@ -15933,6 +15933,10 @@
         "gametext": "Save all characters, weapons, and devices aboard any just-lost capital starship. Relocate them to any planet site.",
         "lore": "Capital starships have emergency escape pods. Equipped with food, water, flares, medpacs, hunting blaster and tracking beacon (R2-D2 deactivated this one's beacon)."
       },
+      "rulings": [
+        "May not relocate opponent's cards.",
+        "May not relocate weapons and devices deployed directly upon a starship or vehicle (e.g. Rectenna or Heavy Turbolaser Battery)."
+      ],
       "legacy": false
     },
     {
@@ -16473,6 +16477,12 @@
         "We Wish To Board At Once"
       ],
       "counterpart": "Your Eyes Can Deceive You",
+      "rulings": [
+        "Cards lost from Life Force should not be revealed to either player.",
+        "Cards lost from hand or table should be shown to both players before being placed face-down in Lost Pile.",
+        "Anything that enables searching the Lost Pile to take or retrieve a card still works normally.",
+        "Baragwin may repeatedly check the top card of Lost Pile to see if it is an eligible target for retrieval (unless his action has already retrieved that turn)."
+      ],
       "legacy": false
     },
     {
@@ -16639,6 +16649,9 @@
       "pulls": [
         "Weather Vane"
       ],
+      "rulings": [
+        "The character needs to have been lost from the battle (or duel) on Cloud City."
+      ],
       "legacy": false
     },
     {
@@ -16742,6 +16755,9 @@
       ],
       "pulledBy": [
         "I Must Be Allowed To Speak (V)"
+      ],
+      "rulings": [
+        "Hydroponics Station and Vaporator may deploy here even if it's not on Tatooine (only when using this site to deploy them from Reserve Deck)."
       ],
       "legacy": false
     },
@@ -17458,6 +17474,10 @@
         "We'll Let Fate-a Decide, Huh? - Defensive Shield",
         "We'll Let Fate-a Decide, Huh? (V) - Defensive Shield"
       ],
+      "rulings": [
+        "The Force Pile cards below Frozen Assets may not be drawn, peeked at, shuffled, taken into hand, stacked, moved, or reordered.",
+        "The Force Pile cards below Frozen Assets may be lost if they are the topmost Force Pile cards (ignoring Frozen Assets itself)."
+      ],
       "legacy": false
     },
     {
@@ -18008,6 +18028,10 @@
       "cancels": [
         "Wrong Turn"
       ],
+      "rulings": [
+        "This text increases (or doubles) X on Rebel Planners.",
+        "This text does not increase (or double) the deploy cost or destiny number on Rebel Planners."
+      ],
       "legacy": false
     },
     {
@@ -18428,6 +18452,9 @@
       ],
       "combo": [
         "General Walex Blissex + A-wing"
+      ],
+      "rulings": [
+        "Deploying to a Home One site counts as deploying to a Star Cruiser only if Home One is on table."
       ],
       "legacy": false
     },
@@ -19021,6 +19048,12 @@
         "gametext": "May add 1 pilot or passenger. Permanent pilot aboard is •Dutch, who provides ability of 2, adds 2 to power and may draw one battle destiny if not able to otherwise.",
         "lore": "At the Battle of Yavin, Dutch led his squadron of outdated but reliable Y-wings in the first wave of the assault against the Death Star."
       },
+      "rulings": [
+        "An opponent with no Force remaining may use 'Draws if unable to otherwise' text to draw battle destiny.",
+        "'Draws if unable to otherwise' text does not permit an opponent with Force remaining to avoid paying.",
+        "An opponent with 1 Force available and 'Draws 2 battle destiny if unable to otherwise' can draw both by paying for the first draw and making the second draw without paying.",
+        "An opponent with sufficient Force may still choose to pay for some battle destiny draws and not pay for others (the ones not paid for are prevented)."
+      ],
       "legacy": false
     },
     {
@@ -27246,6 +27279,9 @@
         ]
       },
       "conceptBy": "(Original concept by Hayes Hunter)",
+      "rulings": [
+        "If she adds a destiny to total power or attrition, she can no longer draw one battle destiny if unable to otherwise that battle."
+      ],
       "legacy": false
     },
     {
@@ -33141,6 +33177,11 @@
         "Tarkin's Orders",
         "Those Rebels Won't Escape Us"
       ],
+      "rulings": [
+        "The destiny draw and cost are paid during initiation, and then responses (e.g. Sense) may take place.",
+        "If retargeted by Surprise, it must EITHER select new characters to be transported OR select a new destination site.",
+        "If using Surprise to choose new characters, the new characters may be at the same origin site or a different origin site, but it cannot include any of the original characters."
+      ],
       "legacy": false
     },
     {
@@ -34407,6 +34448,11 @@
         "lore": "Odin's family mysteriously disappeared during a hyperspace jump. He scours the galaxy for information on them, and his best lead has brought him to Tatooine."
       },
       "counterpart": "Lana Dobreed",
+      "rulings": [
+        "The destiny draw and cost are paid during initiation, and then responses (e.g. Sense) may take place.",
+        "If retargeted by Surprise, it must EITHER select new characters to be transported OR select a new destination site.",
+        "If using Surprise to choose new characters, the new characters may be at the same origin site or a different origin site, but it cannot include any of the original characters."
+      ],
       "legacy": false
     },
     {
@@ -34432,6 +34478,11 @@
         ],
         "gametext": "If your character is about to be hit, use 1 Force (free if by a [Permanent Weapon] weapon); for remainder of turn, its forfeit may not be reduced, it may not be used to satisfy attrition, and it is immune to Dr. Evazan. OR Cancel Disarmed. (Immune to Sense.) OR Cancel a 'react.' OR During your move phase, target any or all of your characters at one site to 'transport' (relocate) to an exterior or battleground site. Draw destiny. Use that much Force to 'transport,' or place Interrupt in Lost Pile."
       },
+      "rulings": [
+        "The destiny draw and cost are paid during initiation, and then responses (e.g. Sense) may take place.",
+        "If retargeted by Surprise, it must EITHER select new characters to be transported OR select a new destination site.",
+        "If using Surprise to choose new characters, the new characters may be at the same origin site or a different origin site, but it cannot include any of the original characters."
+      ],
       "legacy": false
     },
     {
@@ -35879,9 +35930,10 @@
         "Boring Conversation Anyway"
       ],
       "rulings": [
-        "When this interrupt begins its result, the total power and the number of destiny draws are 'locked in' and will not change.",
-        "Do not draw destinies for characters inside starships or enclosed vehicles.",
-        "This is not a 'battle' and cards may not be forfeited."
+        "Does not circumvent any deployment rules such as requiring presence or Force icons, Dagobah rules, etc.",
+        "All cards revealed but not deployed are lost.",
+        "If the player somehow shuffles the Reserve Deck, any remaining revealed cards are un-revealed and shuffled in, ending the action.",
+        "If the player somehow activates or loses Force from Reserve Deck while the top card is revealed, it is un-revealed and then activated/lost normally."
       ],
       "legacy": false
     },
@@ -46145,6 +46197,11 @@
       ],
       "cancels": [
         "Surprise Assault may not be played when The Way Of Things on table"
+      ],
+      "rulings": [
+        "When this interrupt begins its result, the total power and the number of destiny draws are 'locked in' and will not change.",
+        "Do not draw destinies for characters inside starships or enclosed vehicles.",
+        "This is not a 'battle' and cards may not be forfeited."
       ],
       "legacy": false
     },
