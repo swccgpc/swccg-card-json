@@ -13713,7 +13713,7 @@
         "At Peace",
         "Descent Into The Dark",
         "Disarming Creature",
-        "\\Energy Walls",
+        "Energy Walls",
         "Grappling Hook",
         "Heroic Sacrifice",
         "I Can't Believe He's Gone",
@@ -13838,7 +13838,7 @@
         "At Peace",
         "Descent Into The Dark",
         "Disarming Creature",
-        "\\Energy Walls",
+        "Energy Walls",
         "Grappling Hook",
         "Heroic Sacrifice",
         "I Can't Believe He's Gone",
@@ -18674,7 +18674,7 @@
       "pulls": [
         "Any lightsaber",
         "Anakin's Lightsaber",
-        "Anakin's Lightsaber (V)\\",
+        "Anakin's Lightsaber (V)",
         "Jedi Lightsaber",
         "Luke's Lightsaber",
         "Obi-Wan's Lightsaber",
@@ -19357,6 +19357,9 @@
         "We Wish To Board At Once"
       ],
       "counterpart": "Tentacle",
+      "rulings": [
+        "Once this grabs an Interrupt, it immediately prevents any further copies of the same name from being played that turn."
+      ],
       "legacy": false
     },
     {
@@ -19589,6 +19592,10 @@
       },
       "pulledBy": [
         "Dagobah: Training Area"
+      ],
+      "rulings": [
+        "May be used to deploy an apprentice to Dagobah (ignoring Dagobah rules).",
+        "If I'd Just As Soon Kiss A Wookiee returns either Great Warrior or the apprentice deployed by Great Warrior, both cards are returned to hand together."
       ],
       "legacy": false
     },
@@ -19867,6 +19874,9 @@
       ],
       "cancels": [
         "Molator"
+      ],
+      "rulings": [
+        "The Used function still has its result even if the opponent plays any response(s) that reduces their hand size below 13 cards."
       ],
       "legacy": false
     },
@@ -20293,6 +20303,11 @@
       ],
       "cancels": [
         "Your just drawn destiny to cause a re-draw"
+      ],
+      "rulings": [
+        "May cancel and redraw any type of destiny drawn by Light Side, such as battle destiny, weapon destiny, Sense destiny, etc.",
+        "May cancel and redraw a Light Side duel destiny (if the duel takes place during a battle Han is participating in).",
+        "You may not cancel and redraw a destiny that has already been canceled."
       ],
       "legacy": false
     },
@@ -33814,10 +33829,11 @@
         }
       ],
       "front": {
-        "title": "NOOOOOOOOOOOO!",
+        "title": "•NOOOOOOOOOOOO!",
         "imageUrl": "https://res.starwarsccg.org/cards/CloudCity-Light/large/noooooooooooo.gif",
         "type": "Interrupt",
         "subType": "Used Or Lost",
+        "uniqueness": "*",
         "destiny": "5",
         "gametext": "USED: If you just answered 'no' to a Hypo question, opponent loses 3 Force.  LOST: Cancel Why Didn't You Tell Me? or I Am Your Father. OR If Luke is about to cross to the Dark Side, he is lost instead.",
         "lore": "Sometimes, the truth isn't very pretty."
@@ -41076,6 +41092,10 @@
         "gametext": "USED: If you have a character on Weather Vane, place that character on your Used Pile.  LOST: Deploy one or more vehicles, starfighters and pilots (at normal use of the Force) as a 'react' to a cloud sector.",
         "lore": "'I know where Luke is.'"
       },
+      "rulings": [
+        "The first function works against Gravity Shadow only if Gravity Shadow was targeting a pilot character (not a permanent pilot).",
+        "The second function plays during the weapons segment, scheduling the 'battle destiny if unable to otherwise' for later."
+      ],
       "legacy": false
     },
     {
@@ -44226,6 +44246,9 @@
       ],
       "cancels": [
         "Scomp links"
+      ],
+      "rulings": [
+        "The third Used function still has its result even if the opponent plays any response(s) that reduces their hand size below 13 cards."
       ],
       "legacy": false
     },
@@ -49185,7 +49208,7 @@
         }
       ],
       "front": {
-        "title": "The Way Of Things",
+        "title": "•The Way Of Things",
         "imageUrl": "https://res.starwarsccg.org/cards/DeathStarII-Light/large/thewayofthings.gif",
         "type": "Effect",
         "uniqueness": "*",
@@ -51236,6 +51259,10 @@
         "gametext": "Adds 2 to power of any capital starship she pilots. During battle, if piloting a capital starship, may place it and Holdo out of play to add X to your total battle destiny, where X is that starship's armor + hyperspeed.",
         "lore": "Female leader."
       },
+      "rulings": [
+        "This character is an Admiral.",
+        "Any other cards aboard the capital starship are lost (not placed out of play)."
+      ],
       "legacy": false
     },
     {
@@ -55815,6 +55842,9 @@
           "Force-Attuned"
         ]
       },
+      "rulings": [
+        "Only causes Han to add a battle destiny if Beckett goes out of play using his own text."
+      ],
       "legacy": false
     },
     {
@@ -56482,10 +56512,11 @@
         }
       ],
       "front": {
-        "title": "Our Only Hope (V)",
+        "title": "•Our Only Hope (V)",
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual14-Light/large/ouronlyhope.gif",
         "type": "Interrupt",
         "subType": "Used",
+        "uniqueness": "*",
         "destiny": "4",
         "gametext": "Relocate Prophecy Of The Force to a site. OR If He Is The Chosen One or He Will Bring Balance on table, take Yoda's Hut or a Death Star II site into hand from Reserve Deck; reshuffle."
       },
