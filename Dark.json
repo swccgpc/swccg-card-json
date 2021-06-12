@@ -2416,9 +2416,10 @@
         }
       ],
       "front": {
-        "title": "An Inkling Of Its Destructive Potential",
+        "title": "•An Inkling Of Its Destructive Potential",
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual9-Dark/large/aninklingofitsdestructivepotential.gif",
         "type": "Effect",
+        "uniqueness": "*",
         "destiny": "4",
         "gametext": "Deploy on table. Once per game, may take a [Set 9] Epic Event into hand from Reserve Deck; reshuffle. During your deploy phase, if Krennic on Death Star, may flip Set Your Course For Alderaan (flip back at end of turn)(Immune to Alter.)",
         "lore": "Blank."
@@ -10331,7 +10332,7 @@
         }
       ],
       "front": {
-        "title": "•Commence Primary Ignition (V)",
+        "title": "Commence Primary Ignition (V)",
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual9-Dark/large/commenceprimaryignition.gif",
         "type": "Epic Event",
         "destiny": "0",
@@ -17003,10 +17004,11 @@
         }
       ],
       "front": {
-        "title": "E Chu Ta",
+        "title": "•E Chu Ta",
         "imageUrl": "https://res.starwarsccg.org/cards/CloudCity-Dark/large/echuta.gif",
         "type": "Interrupt",
         "subType": "Used",
+        "uniqueness": "*",
         "destiny": "3",
         "gametext": "One of your protocol droids 'insults' one character present, canceling that character's game text for remainder of turn. OR During your battle phase, initiate a battle where both players have droids (but no presence or spies). Both sides add one battle destiny.",
         "lore": "'How rude!'"
@@ -18633,6 +18635,9 @@
       ],
       "cancels": [
         "Revolution"
+      ],
+      "rulings": [
+        "The second Used function still has its result even if the opponent plays any response(s) that reduces their hand size below 13 cards."
       ],
       "legacy": false
     },
@@ -20277,10 +20282,11 @@
         }
       ],
       "front": {
-        "title": "Forced Landing",
+        "title": "•Forced Landing",
         "imageUrl": "https://res.starwarsccg.org/cards/CloudCity-Dark/large/forcedlanding.gif",
         "type": "Effect",
         "subType": "Utinni",
+        "uniqueness": "*",
         "destiny": "5",
         "gametext": "Deploy on a docking bay. Target an opponent's starfighter at the related system or a related cloud sector. Target may not move away from Utinni Effect. Utinni Effect canceled when reached by target.",
         "lore": "'You will not deviate from your present course. . . Permission granted to land on platform three-two-seven.'"
@@ -20430,7 +20436,7 @@
         }
       ],
       "front": {
-        "title": "Frostbite",
+        "title": "•Frostbite",
         "imageUrl": "https://res.starwarsccg.org/cards/Hoth-Dark/large/frostbite.gif",
         "type": "Effect",
         "uniqueness": "*",
@@ -21683,6 +21689,12 @@
         "gametext": "If opponent's starship has just begun to move through hyperspace, draw destiny. If destiny > pilot's ability, starship must return to original location and may not move this turn. If destiny = pilot's ability, starship is lost.",
         "lore": "'Traveling through hyperspace ain't like dustin' crops, boy!' Gravitational phenomena cast shadows in hyperspace, posing a serious threat to lightspeed navigation."
       },
+      "rulings": [
+        "Can be played as a response to any hyperspace movement, including (for example) Hyper Escape.",
+        "Targets both the starship and the highest ability pilot (either a permanent pilot or a character who is piloting).",
+        "If multiple permanent pilots and/or character pilots are tied for highest ability, Dark chooses one to target.",
+        "For Han, Chewie, And The Falcon, targets Han's 3 ability."
+      ],
       "legacy": false
     },
     {
@@ -25463,6 +25475,7 @@
         "title": "•Insidious Prisoner",
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual11-Dark/large/insidiousprisoner.gif",
         "type": "Epic Event",
+        "uniqueness": "*",
         "destiny": "0",
         "icons": [
           "Episode I"
@@ -25892,7 +25905,7 @@
         }
       ],
       "front": {
-        "title": "It's An Older Code",
+        "title": "•It's An Older Code",
         "imageUrl": "https://res.starwarsccg.org/cards/Endor-Dark/large/itsanoldercode.gif",
         "type": "Interrupt",
         "subType": "Used Or Lost",
@@ -30845,7 +30858,6 @@
         "imageUrl": "https://res.starwarsccg.org/cards/SpecialEdition-Dark/large/makurth.gif",
         "type": "Character",
         "subType": "Alien",
-        "uniqueness": "*",
         "destiny": "2",
         "power": "2",
         "ability": "1",
@@ -32096,6 +32108,9 @@
       "combo": [
         "Monnok + Trinto Duaba",
         "Monnok + Scanning Crew"
+      ],
+      "rulings": [
+        "The Used function still has its result even if the opponent plays any response(s) that reduces their hand size below 13 cards."
       ],
       "legacy": false
     },
@@ -45651,6 +45666,9 @@
         "We Must Accelerate Our Plans"
       ],
       "counterpart": "Grappling Hook",
+      "rulings": [
+        "Once this grabs an Interrupt, it immediately prevents any further copies of the same name from being played that turn."
+      ],
       "legacy": false
     },
     {
@@ -49538,7 +49556,6 @@
       ],
       "pulledBy": [
         "Blizzard 4",
-        "Endor Shield (V)",
         "Imperial Command"
       ],
       "legacy": false
