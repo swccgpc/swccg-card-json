@@ -12413,7 +12413,6 @@
         "deploy": "5",
         "forfeit": "8",
         "icons": [
-          "Pilot",
           "Warrior",
           "Endor"
         ],
@@ -12423,15 +12422,12 @@
           "scout",
           "female"
         ],
-        "gametext": "If in hand, may place her under Reserve Deck. May be targeted instead of Luke by Mind What You Have Learned (that card then targets Leia instead of Luke for remainder of game). May deploy Reflection from Reserve Deck; reshuffle. Immune to attrition < 4.",
+        "gametext": "While at an Endor site, adds one [Light Side] icon here. During battle, may target one opponent's character present. Draw destiny. If destiny > ability, target is power -2 and its game text is canceled. Your scouts here are immune to Sniper, You Are Beaten, and attrition < 4.",
         "lore": "Scout. Leader. Made friends with Wicket. Negotiated an alliance with the Ewoks. Leia found out the truth about her father from Luke in the Ewok village.",
         "extraText": [
           "Force-Sensitive"
         ]
       },
-      "pulls": [
-        "Reflection"
-      ],
       "pulledBy": [
         "I Know",
         "Leia's Back",
@@ -12442,6 +12438,10 @@
         "Anakin's Lightsaber",
         "Leia's Blaster Rifle",
         "Leia's Sporting Blaster"
+      ],
+      "rulings": [
+        "The immunity she grants to scouts applies to herself.",
+        "'Immune to Sniper' prevents the control phase sniping function and prevents the place in Lost Pile function of the combo card. It does not prevent the 3 being added to weapon destiny function of the combo card."
       ],
       "legacy": false
     },
@@ -49559,15 +49559,19 @@
         "title": "•They're Tracking Us (V)",
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual7-Light/large/theyretrackingus.gif",
         "type": "Interrupt",
-        "subType": "Used",
+        "subType": "Used Or Lost",
         "uniqueness": "*",
         "destiny": "4",
-        "gametext": "Cancel Program Trap; droid it was deployed on may taken into owner's hand (Immune to Sense.) OR Add or subtract 1 from opponent's just drawn destiny. OR Activate 1 Force.",
+        "gametext": "USED: Add or subtract 1 from opponent's just drawn destiny. OR Activate 1 Force. LOST: Cancel Close Call, Gravity Shadow, Overwhelmed, or They've Shut Down The Main Reactor. (Immune to Sense.)",
         "lore": "'Not this ship, sister.'"
       },
       "counterpart": "A Dark Time For The Rebellion (V)",
       "cancels": [
-        "Program Trap"
+        "Close Call",
+        "Close Call (V)",
+        "Gravity Shadow",
+        "Overwhelmed",
+        "They've Shut Down The Main Reactor"
       ],
       "legacy": false
     },
@@ -56717,6 +56721,746 @@
         "gametext": "Deploy on Ahsoka or a non-[Episode I] Padawan. May target a character or creature for free. Draw two destiny. Target hit, and may not be used to satisfy attrition, if total destiny > defense value (if hit target is an Inquisitor, opponent also loses 1 Force).",
         "lore": "Blank."
       },
+      "legacy": false
+    },
+    {
+      "id": 6876,
+      "gempId": "215_2",
+      "side": "Light",
+      "rarity": "U2",
+      "set": "215",
+      "printings": [
+        {
+          "set": "215"
+        }
+      ],
+      "front": {
+        "title": "•A Power Loss",
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual15-Light/large/apowerloss.gif",
+        "type": "Epic Event",
+        "uniqueness": "*",
+        "destiny": "0",
+        "gametext": "Deploy on Central Core. Leia may not modify Force drains. Once per game, opponent may stack up to two cards from hand face-down here. Allow The Ship To Leave: If you just won a battle at a Death Star site (or initiated a Force drain here), place a card stacked here in owner’s Lost Pile. That Old Man Did It!: If you occupy this site and another Death Star site while no cards stacked here, power 'shut down' (place this card out of play; your movement between Death Star locations is free this turn)."
+      },
+      "rulings": [
+        "Causes all forms of movement between two Death Star locations to be free.",
+        "When using Nabrun Leids for free, draw destiny but do not pay any cost.",
+        "After placing this card out of play, it is possible for Light to deploy a 2nd copy of this card on Central Core later in the game."
+      ],
+      "legacy": false
+    },
+    {
+      "id": 6877,
+      "gempId": "215_3",
+      "side": "Light",
+      "rarity": "R1",
+      "set": "215",
+      "printings": [
+        {
+          "set": "215"
+        }
+      ],
+      "front": {
+        "title": "•C-3PO (See-Threepio) (V)",
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual15-Light/large/c3po.gif",
+        "type": "Character",
+        "subType": "Droid",
+        "uniqueness": "*",
+        "destiny": "3",
+        "power": "1",
+        "deploy": "2",
+        "forfeit": "4",
+        "gametext": "Once per turn, may place a card from hand on Used Pile to activate 1 Force (or to take [A New Hope] R2-D2 into hand from Reserve Deck; reshuffle). During your control phase, if with a Rebel at an interior mobile battleground, opponent loses 1 Force.",
+        "lore": "Cybot Galactica 3PO human-cyborg relations droid. Fluent in over six million forms of communication. 112 years old. Has never been memorywiped... as far as he knows.",
+        "extraText": [
+          "Protocol Droid"
+        ]
+      },
+      "pulledBy": [
+        "Seeking An Audience",
+        "Seeking An Audience (V)",
+        "Were You Looking For Me?"
+      ],
+      "canceledBy": [
+        "Commander Praji cancels game text"
+      ],
+      "rulings": [
+        "The Force loss is a mandatory action initiated by Light. If not initiated, it occurs automatically at end of control phase. "
+      ],
+      "legacy": false
+    },
+    {
+      "id": 6878,
+      "gempId": "215_4",
+      "side": "Light",
+      "rarity": "C",
+      "set": "215",
+      "printings": [
+        {
+          "set": "215"
+        }
+      ],
+      "front": {
+        "title": "•Cal Kestis",
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual15-Light/large/calkestis.gif",
+        "type": "Character",
+        "subType": "Rebel/Republic",
+        "uniqueness": "*",
+        "destiny": "2",
+        "power": "4",
+        "ability": "4",
+        "deploy": "4",
+        "forfeit": "5",
+        "icons": [
+          "Warrior"
+        ],
+        "characteristics": [
+          "padawan"
+        ],
+        "gametext": "Once per game, if you are about to draw a card for battle destiny here, may instead use Cal Kestis's ability number. During opponent's draw phase, may place one card from your hand under Reserve Deck; reshuffle and draw top card of Reserve Deck.",
+        "lore": "Padawan.",
+        "extraText": [
+          "Force-Sensitive"
+        ]
+      },
+      "rulings": [
+        "Cal Kestis' substituted battle destiny draw cannot be canceled, modified, or reset.",
+        "Cal Kestis' substituted battle destiny draw does not count towards limits (such as on Guri), but can only be used before such a limit has been reached.",
+        "Cal Kestis may place a card under an empty Reserve Deck (normally you will just draw it again).",
+        "Cards mentioning 'Cal' refer to Cal Alder. To refer to this character, cards will say 'Cal Kestis' instead."
+      ],
+      "legacy": false
+    },
+    {
+      "id": 6879,
+      "gempId": "215_5",
+      "side": "Light",
+      "rarity": "R1",
+      "set": "215",
+      "printings": [
+        {
+          "set": "215"
+        }
+      ],
+      "front": {
+        "title": "•Cell 2187 (V)",
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual15-Light/large/cell2187.gif",
+        "type": "Effect",
+        "uniqueness": "*",
+        "destiny": "5",
+        "gametext": "If Leia imprisoned, deploy on table. [Set 8] Luke is a spy and stormtrooper. Han, Leia, and Luke are immune to Nevar Yalnal and Put All Sections On Alert. Once per turn, may deploy a Death Star site from Reserve Deck; reshuffle. Immune to This Is Some Rescue! Immune to Alter.",
+        "lore": "'Aren't you a little short for a stormtrooper?'"
+      },
+      "pulledBy": [
+        "The Signal",
+        "We Wish To Board At Once"
+      ],
+      "rulings": [
+        "This causes [Set 8] Luke to be a trooper."
+      ],
+      "legacy": false
+    },
+    {
+      "id": 6880,
+      "gempId": "215_6",
+      "side": "Light",
+      "rarity": "C",
+      "set": "215",
+      "printings": [
+        {
+          "set": "215"
+        }
+      ],
+      "front": {
+        "title": "•Death Star: Central Core",
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual15-Light/large/deathstarcentralcore.gif",
+        "type": "Location",
+        "subType": "Site",
+        "uniqueness": "*",
+        "destiny": "0",
+        "icons": [
+          "Interior",
+          "Mobile",
+          "Scomp Link"
+        ],
+        "lightSideIcons": 2,
+        "darkSideIcons": 1,
+        "gametext": "Light:  If A Power Loss 'shut down' this game, Force drain +1 here and Death Star Tractor Beam lost.  Dark:  If you occupy, opponent must first use 1 Force to move a character from here."
+      },
+      "pulledBy": [
+        "Mindful Of The Future"
+      ],
+      "counterpart": "Death Star: Central Core",
+      "rulings": [
+        "For Dark's text, pay the additional cost even if the movement is free.",
+        "For group movement (e.g. Nabrun Leids) pay 1 per character.",
+        "Pay the additional cost when movement costs are normally paid."
+      ],
+      "legacy": false
+    },
+    {
+      "id": 6881,
+      "gempId": "215_7",
+      "side": "Light",
+      "rarity": "C",
+      "set": "215",
+      "printings": [
+        {
+          "set": "215"
+        }
+      ],
+      "front": {
+        "title": "•Death Star: Detention Block Corridor (V)",
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual15-Light/large/deathstardetentionblockcorridor.gif",
+        "type": "Location",
+        "subType": "Site",
+        "uniqueness": "*",
+        "destiny": "0",
+        "icons": [
+          "Interior",
+          "Mobile",
+          "Scomp Link"
+        ],
+        "lightSideIcons": 0,
+        "darkSideIcons": 1,
+        "characteristics": [
+          "prison"
+        ],
+        "gametext": "Light:  If you control with a spy, may use 2 Force to release Leia here (retrieve 1 Force).  Dark:  If Leia is about to be lost from a Death Star site, imprison her here instead (even if inactive)."
+      },
+      "counterpart": "Death Star: Detention Block Corridor",
+      "rulings": [
+        "When Dark's text imprisons Leia from another site, she is placed here but it is not considered movement. It is not blocked by e.g. You Are Beaten.",
+        "When Dark's text imprisons Leia here, she is restored to normal (no longer hit or forfeit = 0, etc).",
+        "Dark's text does not prevent an 'all cards situation', e.g. Program Trap will make Leia go to Lost Pile."
+      ],
+      "legacy": false
+    },
+    {
+      "id": 6882,
+      "gempId": "215_8",
+      "side": "Light",
+      "rarity": "C2",
+      "set": "215",
+      "printings": [
+        {
+          "set": "215"
+        }
+      ],
+      "front": {
+        "title": "•Death Star: Hangar 327",
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual15-Light/large/deathstarhangar327.gif",
+        "type": "Location",
+        "subType": "Site",
+        "uniqueness": "*",
+        "destiny": "0",
+        "icons": [
+          "Interior",
+          "Mobile",
+          "Scomp Link"
+        ],
+        "lightSideIcons": 2,
+        "darkSideIcons": 2,
+        "gametext": "Light:  While Obi-Wan alone here, he is immune to attrition.  Dark:  While Obi-Wan alone here, Vader may not Force drain on Death Star."
+      },
+      "pulledBy": [
+        "Cell 2187 (V)",
+        "Mindful Of The Future"
+      ],
+      "rulings": [
+        "Obi-Wan is 'alone' here if Light has no other characters or cards with ability here."
+      ],
+      "legacy": false
+    },
+    {
+      "id": 6883,
+      "gempId": "215_9",
+      "side": "Light",
+      "rarity": "U1",
+      "set": "215",
+      "printings": [
+        {
+          "set": "215"
+        }
+      ],
+      "front": {
+        "title": "•Death Star: Trash Compactor (V)",
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual15-Light/large/deathstartrashcompactor.gif",
+        "type": "Location",
+        "subType": "Site",
+        "uniqueness": "*",
+        "destiny": "0",
+        "icons": [
+          "Interior",
+          "Mobile",
+          "Scomp Link"
+        ],
+        "lightSideIcons": 0,
+        "darkSideIcons": 0,
+        "gametext": "Light:  During your move phase, you may move to here for free from any Death Star site.  Dark:  Unless you control an adjacent site, We're All Gonna Be A Lot Thinner! is canceled."
+      },
+      "rulings": [
+        "Light's text is a regular move.",
+        "Each character moving via Light's text is a separate top-level action."
+      ],
+      "legacy": false
+    },
+    {
+      "id": 6884,
+      "gempId": "215_10",
+      "side": "Light",
+      "rarity": "F",
+      "set": "215",
+      "printings": [
+        {
+          "set": "215"
+        }
+      ],
+      "front": {
+        "title": "•For The Republic!",
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual15-Light/large/fortherepublic.gif",
+        "type": "Interrupt",
+        "subType": "Used Or Lost",
+        "uniqueness": "*",
+        "destiny": "5",
+        "icons": [
+          "Episode I"
+        ],
+        "gametext": "USED: Deploy Cloning Cylinders for free from hand (or Reserve Deck; reshuffle). LOST: If a battle was just initiated at a site, each of your clones present is power +1 (+2 and immune to attrition if a Jedi there) for remainder of turn.",
+        "lore": "Blank."
+      },
+      "rulings": [
+        "You must choose one search location (hand or Reserve Deck) when initiating this action.",
+        "Only check if a Jedi is there when initiating this Interrupt. Removing the Jedi after that point does not remove the bonus."
+      ],
+      "legacy": false
+    },
+    {
+      "id": 6885,
+      "gempId": "215_11",
+      "side": "Light",
+      "rarity": "C",
+      "set": "215",
+      "printings": [
+        {
+          "set": "215"
+        }
+      ],
+      "front": {
+        "title": "•Han Solo, Optimistic General",
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual15-Light/large/hansolooptimisticgeneral.gif",
+        "type": "Character",
+        "subType": "Rebel",
+        "uniqueness": "*",
+        "destiny": "1",
+        "power": "4",
+        "ability": "3",
+        "deploy": "4",
+        "forfeit": "6",
+        "icons": [
+          "Endor",
+          "Pilot",
+          "Warrior"
+        ],
+        "characteristics": [
+          "Corellian",
+          "general",
+          "leader",
+          "scout"
+        ],
+        "gametext": "May be targeted instead of a Resistance character by I Want That Map. Adds 3 to power of anything he pilots. [Endor] scouts are destiny +1. Cancels Kylo's game text here. During battle with Chewie or [Endor] Leia, may add one destiny to total power.",
+        "lore": "Leader. Scout.",
+        "extraText": [
+          "Force-Attuned"
+        ]
+      },
+      "pulledBy": [
+        "We'll Find Han"
+      ],
+      "matchingWeapon": [
+        "Han's Heavy Blaster Pistol"
+      ],
+      "cancels": [
+        "Kylo's game text at same location"
+      ],
+      "rulings": [
+        "If chosen as a Resistance Agent via I Want That Map, Han does not become a Resistance character.",
+        "Destiny to total power is drawn before battle destiny."
+      ],
+      "legacy": false
+    },
+    {
+      "id": 6886,
+      "gempId": "212_12",
+      "side": "Light",
+      "rarity": "U",
+      "set": "215",
+      "printings": [
+        {
+          "set": "215"
+        }
+      ],
+      "front": {
+        "title": "•Jannah",
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual15-Light/large/jannah.gif",
+        "type": "Character",
+        "subType": "Resistance",
+        "uniqueness": "*",
+        "destiny": "2",
+        "power": "3",
+        "ability": "3",
+        "deploy": "3",
+        "forfeit": "5",
+        "icons": [
+          "Warrior"
+        ],
+        "characteristics": [
+          "female",
+          "stormtrooper"
+        ],
+        "gametext": "Other Resistance characters of destiny = 2 (and Finn) are power +1 at same and adjacent sites. During battle, if opponent has more than four characters here, may exclude one opponent's character of ability < 4 from battle.",
+        "lore": "Female stormtrooper.",
+        "extraText": [
+          "Force-Attuned"
+        ]
+      },
+      "pulledBy": [
+        "A Brave Resistance",
+        "Leia's Resistance Transport"
+      ],
+      "legacy": false
+    },
+    {
+      "id": 6887,
+      "gempId": "215_13",
+      "side": "Light",
+      "rarity": "C",
+      "set": "215",
+      "printings": [
+        {
+          "set": "215"
+        }
+      ],
+      "front": {
+        "title": "•Kashyyyk: Forest Depths",
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual15-Light/large/kashyyykforestdepths.gif",
+        "type": "Location",
+        "subType": "Site",
+        "uniqueness": "*",
+        "destiny": "0",
+        "icons": [
+          "Exterior",
+          "Planet",
+          "Episode I"
+        ],
+        "lightSideIcons": 2,
+        "darkSideIcons": 1,
+        "gametext": "Light:  While you control, Wookiees are destiny +1.  Dark:  No starships or vehicles here."
+      },
+      "pulledBy": [
+        "Kashyyyk Operative",
+        "Kashyyyk: Kachirho",
+        "Let The Wookiee Win (V)"
+      ],
+      "rulings": [
+        "'No starships or vehicles' applies to both players.",
+        "Dark Side Wookiees such as Snoova also receive the destiny +1 bonus."
+      ],
+      "legacy": false
+    },
+    {
+      "id": 6888,
+      "gempId": "215_14",
+      "side": "Light",
+      "rarity": "U",
+      "set": "215",
+      "printings": [
+        {
+          "set": "215"
+        }
+      ],
+      "front": {
+        "title": "•Kashyyyk: Kachirho",
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual15-Light/large/kashyyykkachirho.gif",
+        "type": "Location",
+        "subType": "Site",
+        "uniqueness": "*",
+        "destiny": "0",
+        "icons": [
+          "Exterior",
+          "Planet",
+          "Episode I"
+        ],
+        "lightSideIcons": 2,
+        "darkSideIcons": 1,
+        "gametext": "Light:  Once per turn, if you occupy with a Wookiee, may deploy a Kashyyyk location from Reserve Deck; reshuffle.  Dark:  Total ability of 6 or more required for you to draw battle destiny here."
+      },
+      "pulls": [
+        "Kashyyyk",
+        "Kashyyyk: Forest Depths"
+      ],
+      "pulledBy": [
+        "Kashyyyk Operative",
+        "Let The Wookiee Win (V)"
+      ],
+      "rulings": [
+        "If Dark has less than 6 ability, cards that 'add a battle destiny' won't work, but cards that 'draw if unable to otherwise' will work."
+      ],
+      "legacy": false
+    },
+    {
+      "id": 6889,
+      "gempId": "215_15",
+      "side": "Light",
+      "rarity": "C",
+      "set": "215",
+      "printings": [
+        {
+          "set": "215"
+        }
+      ],
+      "front": {
+        "title": "•Larma D'Acy",
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual15-Light/large/larmadacy.gif",
+        "type": "Character",
+        "subType": "Resistance",
+        "uniqueness": "*",
+        "destiny": "2",
+        "power": "3",
+        "ability": "3",
+        "deploy": "3",
+        "forfeit": "5",
+        "icons": [
+          "Pilot"
+        ],
+        "characteristics": [
+          "commander",
+          "female",
+          "leader"
+        ],
+        "gametext": "Finn and Poe are power +1 here. During your control phase, if with an opponent's spy, opponent loses 1 Force (2 if spy is Undercover). While Leia present at a battleground site, Their Fire Has Gone Out Of The Universe flips and may not flip back.",
+        "lore": "Female commander. Leader.",
+        "extraText": [
+          "Force-Attuned"
+        ]
+      },
+      "pulledBy": [
+        "A Brave Resistance",
+        "Leia's Resistance Transport"
+      ],
+      "rulings": [
+        "The Force loss is a mandatory action initiated by Light. If not initiated, it occurs automatically at end of control phase. "
+      ],
+      "legacy": false
+    },
+    {
+      "id": 6890,
+      "gempId": "215_16",
+      "side": "Light",
+      "rarity": "R1",
+      "set": "215",
+      "printings": [
+        {
+          "set": "215"
+        }
+      ],
+      "front": {
+        "title": "•Let The Wookiee Win (V)",
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual15-Light/large/letthewookiewin.gif",
+        "type": "Interrupt",
+        "subType": "Used Or Starting",
+        "uniqueness": "*",
+        "destiny": "5",
+        "icons": [
+          "Episode I"
+        ],
+        "gametext": "USED: Subtract 2 from a just drawn destiny targeting your Wookiee's ability or defense value. STARTING: If your starting location had exactly two [Light Side], deploy a Kashyyyk location and three Effects that are always immune to Alter. Place Interrupt in Reserve Deck.",
+        "lore": "'It's not wise to upset a Wookiee.' 'But sir, nobody worries about upsetting a droid.' 'That's cause a droid don't pull people's arms out of their sockets when they lose.'"
+      },
+      "rulings": [
+        "Works when starting Hoth: Main Power Generators (V).",
+        "Does not work with Objectives.",
+        "May not deploy fewer than three Effects."
+      ],
+      "legacy": false
+    },
+    {
+      "id": 6891,
+      "gempId": "215_17",
+      "side": "Light",
+      "rarity": "R",
+      "set": "215",
+      "printings": [
+        {
+          "set": "215"
+        }
+      ],
+      "front": {
+        "title": "Rescue The Princess / Sometimes I Amaze Even Myself (V)",
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual15-Light/large/rescuetheprincess.gif",
+        "type": "Objective",
+        "destiny": "0",
+        "gametext": "Rescue The Princess:Deploy Central Core, A Power Loss, Detention Block Corridor (with Prisoner 2187 imprisoned there), and Trash Compactor.{For} remainder of game, Path Of Least Resistance is canceled. Your Death Star sites generate +1 Force for you and are immune to Set Your Course For Alderaan. Death Star sites may not be converted. You may not deploy Luke of ability > 4 or [Episode I] (or [Episode VII]) Jedi.{Flip} this card if Leia is present at a Death Star site and A Power Loss has been ‘shut down’ this game.Sometimes I Amaze Even Myself:{For} remainder of game, I Can't Believe He's Gone may only add power in battles involving Leia or Luke.{While} this side up, for opponent to initiate a Force drain, opponent must use +1 Force. Whenever you 'hit' a character with a blaster, opponent loses 1 Force. May place Obi-Wan out of play from a Death Star site to cancel a battle just initiated anywhere on Death Star. During opponent's draw phase, if opponent did not initiate a battle this turn, may retrieve 1 Force.{Flip} this card if Leia is not at a Death Star site."
+      },
+      "back": {
+        "title": "Rescue The Princess / Sometimes I Amaze Even Myself (V)",
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual15-Light/large/sometimesiamazeevenmyself.gif",
+        "type": "Objective",
+        "destiny": "7",
+        "gametext": "Rescue The Princess:Deploy Central Core, A Power Loss, Detention Block Corridor (with Prisoner 2187 imprisoned there), and Trash Compactor.{For} remainder of game, Path Of Least Resistance is canceled. Your Force generation is +1 at your Death Star sites. Your Death Star sites are immune to Set Your Course For Alderaan. Death Star sites may not be converted. Jedi (except Obi-Wan) are lost.{Flip} this card if Leia is present at a Death Star site and A Power Loss has been ‘shut down’ this game.Sometimes I Amaze Even Myself:{For} remainder of game, I Can't Believe He's Gone may only add power in battles involving Leia or Luke.{While} this side up, for opponent to initiate a Force drain, opponent must use +1 Force. Whenever you 'hit' a character with a blaster, opponent loses 1 Force. May place Obi-Wan out of play from a Death Star site to cancel a battle just initiated anywhere on Death Star. During opponent's draw phase, if opponent did not initiate a battle this turn, may retrieve 1 Force.{Flip} this card if Leia is not at a Death Star site."
+      },
+      "rulings": [
+        "At Death Star sites that are 'immune to SYCFA', Dark Side's Force drains and battle damage are not canceled by SYCFA.",
+        "Excluding Leia from battle will not flip the objective back to the 0 side.",
+        "Capturing and siezing Leia (such as with IG-88 With Riot Gun) will flip the objective back to the 0 side."
+      ],
+      "legacy": false
+    },
+    {
+      "id": 6892,
+      "gempId": "215_18",
+      "side": "Light",
+      "rarity": "C",
+      "set": "215",
+      "printings": [
+        {
+          "set": "215"
+        }
+      ],
+      "front": {
+        "title": "•Slight Weapons Malfunction (V)",
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual15-Light/large/slightweaponsmalfunction.gif",
+        "type": "Interrupt",
+        "subType": "Used",
+        "uniqueness": "*",
+        "destiny": "4",
+        "gametext": "Take a Rebel stormtrooper into hand from Reserve Deck; reshuffle. OR Cancel a weapon destiny targeting a stormtrooper (or Chewie). OR If a stormtrooper just fired a weapon (except a lightsaber) during battle, add one battle destiny.",
+        "lore": "Han was gifted in the art of understatement."
+      },
+      "rulings": [
+        "The 'stormtrooper' could belong to either player."
+      ],
+      "legacy": false
+    },
+    {
+      "id": 6893,
+      "gempId": "215_19",
+      "side": "Light",
+      "rarity": "C1",
+      "set": "215",
+      "printings": [
+        {
+          "set": "215"
+        }
+      ],
+      "front": {
+        "title": "Stolen Stormtrooper Blaster Rifle",
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual15-Light/large/stolenstormtrooperblasterrifle.gif",
+        "type": "Weapon",
+        "subType": "Character",
+        "destiny": "3",
+        "characteristics": [
+          "blaster rifle",
+          "blaster",
+          "rifle"
+        ],
+        "gametext": "Deploy on your Rebel or stormtrooper. May target a character, creature, or vehicle for free. Draw destiny. Add 1 if targeting a vehicle. Target hit if total destiny +1 > defense value. If hit by Chewie or a stormtrooper, target may not be used to satisfy attrition.",
+        "lore": "BlasTech E-11 blaster rifle. Standard issue for Imperial forces. So numerous that many have been stolen by Rebels. Extendable stock. Carries energy for 100 shots."
+      },
+      "pulledBy": [
+        "Portable Scanner"
+      ],
+      "rulings": [
+        "Both of the +1 bonuses on this card modify the weapon destiny total, not the individual destiny draw."
+      ],
+      "legacy": false
+    },
+    {
+      "id": 6894,
+      "gempId": "215_20",
+      "side": "Light",
+      "rarity": "R",
+      "set": "215",
+      "printings": [
+        {
+          "set": "215"
+        }
+      ],
+      "front": {
+        "title": "•TK-422 (V)",
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual15-Light/large/tk422.gif",
+        "type": "Character",
+        "subType": "Rebel",
+        "uniqueness": "*",
+        "destiny": "1",
+        "power": "3",
+        "ability": "3",
+        "armor": "5",
+        "deploy": "3",
+        "forfeit": "6",
+        "icons": [
+          "Pilot",
+          "Warrior"
+        ],
+        "characteristics": [
+          "smuggler",
+          "spy",
+          "Corellian",
+          "stormtrooper",
+          "trooper"
+        ],
+        "gametext": "Adds 3 to power of anything he pilots. Stormtrooper. Deploys only if Cell 2187 on table. Han's weapon destiny draws are +1 for each trooper here. While with a stormtrooper (or armed with a blaster), adds one battle destiny. Cancels Trooper Assault here.",
+        "lore": "Corellian smuggler. Spy. Han stole the armor and identity of an enemy soldier that boarded the Millennium Falcon. Bluffed his way into the detention area."
+      },
+      "pulledBy": [
+        "We'll Find Han"
+      ],
+      "combo": [
+        "TK-422 + Sabotage (V)",
+        "TK-422 + Double Agent"
+      ],
+      "matchingWeapon": [
+        "Han's Heavy Blaster Pistol"
+      ],
+      "cancels": [
+        "Trooper Assault at same location"
+      ],
+      "rulings": [
+        "Counts himself as a trooper for the weapon destiny +1 bonus.",
+        "Game text referring to troopers/stormtroopers counts characters on both sides."
+      ],
+      "legacy": false
+    },
+    {
+      "id": 6895,
+      "gempId": "215_21",
+      "side": "Light",
+      "rarity": "C",
+      "set": "215",
+      "printings": [
+        {
+          "set": "215"
+        }
+      ],
+      "front": {
+        "title": "•Uncivilized Blaster",
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual15-Light/large/uncivilizedblaster.gif",
+        "type": "Weapon",
+        "subType": "Character",
+        "destiny": "3",
+        "characteristics": [
+          "blaster"
+        ],
+        "gametext": "Deploy on your warrior. May target a character, creature, or vehicle for free. Draw destiny. Target hit if destiny +2 > defense value. If hit by Corran, Kanan, or Obi-Wan, target may not be used to satisfy attrition, and opponent loses 1 Force.",
+        "lore": "Blank."
+      },
+      "pulledBy": [
+        "Portable Scanner"
+      ],
+      "rulings": [
+        "Text such as Theed Palace Generator Core prevents the Force loss.",
+        "The bonus text only applies if the actual target is hit, not (for example) the captive of Dengar (V)."
+      ],
       "legacy": false
     }
   ]
