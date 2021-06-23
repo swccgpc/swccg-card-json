@@ -1541,7 +1541,7 @@
         "lore": "Typical of male Advosze, Bom Vimdin despises those of his own species. Pessimistic and territorial, he is a lone smuggler who prefers to work for corrupt officials."
       },
       "pulledBy": [
-        "Elis in Hinthra (V)",
+        "Elis in Hinthra",
         "Murttoc Yine"
       ],
       "legacy": false
@@ -3641,7 +3641,7 @@
         ]
       },
       "pulledBy": [
-        "Elis in Hinthra (V)",
+        "Elis in Hinthra",
         "Murttoc Yine"
       ],
       "counterpart": "Ellorrs Madak, Pilot Instructor",
@@ -16198,7 +16198,7 @@
         "lore": "Thug. Smuggler. Twisted 'doctor'. Disfigured by blaster. Has death sentence in over 12 systems. Notorious partner of Ponda Baba. Aliases: Dr. Cornelius and Rooboo."
       },
       "pulledBy": [
-        "Elis in Hinthra (V)",
+        "Elis in Hinthra",
         "Murttoc Yine"
       ],
       "combo": [
@@ -16241,7 +16241,7 @@
         "lore": "Smugglers who met each other in the Corellian system. Gained the rights to Han Solo's old smuggling routes from Jabba the Hutt. They don't like you either."
       },
       "pulledBy": [
-        "Elis in Hinthra (V)",
+        "Elis in Hinthra",
         "Murttoc Yine"
       ],
       "legacy": false
@@ -17321,17 +17321,14 @@
         "characteristics": [
           "Independent (starship)"
         ],
-        "gametext": "May add 1 pilot and 3 passengers. Permanent pilot is •Elis, who provides ability of 2. Once per game, may deploy a smuggler aboard from Reserve Deck; reshuffle. While at opponent's system, adds one [Light Side]. Immune to attrition <5.",
+        "gametext": "May add 1 pilot and 3 passengers. Permanent pilot is •Elis, who provides ability of 2. Once per game, may use 1 Force to deploy a smuggler aboard from Reserve Deck; reshuffle. Immune to attrition < 5.",
         "lore": "Blank."
       },
       "pulls": [
         "Advosze",
-        "Baniss Keeg",
-        "Pilot Instructor",
-        "Dr",
-        "Evazan",
-        "Dr",
-        "Evazan & Ponda Baba",
+        "Baniss Keeg, Pilot Instructor",
+        "Dr. Evazan",
+        "Dr. Evazan & Ponda Baba",
         "Ephant Mon",
         "Gela Yeens",
         "Mercenary Pilot",
@@ -17341,6 +17338,7 @@
         "Pote Snitkin",
         "Pote Snitkin (V)",
         "Ree-Yees",
+        "Ree-Yees (V)",
         "Thul Fain",
         "Velken Tezeri (V)",
         "Wooof",
@@ -18290,7 +18288,7 @@
         ]
       },
       "pulledBy": [
-        "Elis in Hinthra (V)",
+        "Elis in Hinthra",
         "Murttoc Yine",
         "Power Of The Hutt"
       ],
@@ -20906,7 +20904,7 @@
         "lore": "Bad-tempered smuggler. Makes a few credits more helping Jabba collect debts. Highly regarded for his uncanny anticipation in battle. Searching for Debnoli."
       },
       "pulledBy": [
-        "Elis in Hinthra (V)",
+        "Elis in Hinthra",
         "Murttoc Yine"
       ],
       "legacy": false
@@ -26699,9 +26697,31 @@
           "Permanent Pilot",
           "Scomp Link"
         ],
-        "gametext": "May add 1 alien pilot and 6 passengers. Permanent pilot provides ability of 2. When deployed, you may deploy an alien leader aboard for free from Reserve Deck; reshuffle. Immune to attrition < 5.",
+        "gametext": "May add 1 alien pilot and 6 passengers. Permanent pilot provides ability of 2. When deployed, you may deploy an alien leader aboard from Reserve Deck; reshuffle. Immune to attrition < 5.",
         "lore": "Flying fortress of Jabba Desilijic Tiure. Reaches speeds of 800 kph in atmosphere. The crime lord installed hidden gunports as an unpleasant surprise for would-be pirates."
       },
+      "pulls": [
+        "Aemon Gremm With Percussive Cannon",
+        "Bala-Tik",
+        "Bib Fortuna",
+        "Chall Bekan",
+        "Dryden Vos",
+        "Ephant Mon",
+        "Hondo Ohnaka",
+        "Jabba",
+        "Jabba Desilijic Tiure",
+        "Jabba The Hutt",
+        "Jabba The Hutt (V)",
+        "Lady Proxima",
+        "Mighty Jabba",
+        "Mitth'raw'nuruodo",
+        "Nebit",
+        "Prince Xizor",
+        "Sidon Ithano",
+        "Televan Koreyy",
+        "URoRRuR'R'R",
+        "Wittin"
+      ],
       "legacy": false
     },
     {
@@ -31610,7 +31630,7 @@
         "lore": "Smugglers. Candidates who resent authority often abandon Imperial academies to sell their piloting skills to criminals. Will work for any high paying crime syndicate."
       },
       "pulledBy": [
-        "Elis in Hinthra (V)",
+        "Elis in Hinthra",
         "Murttoc Yine"
       ],
       "legacy": false
@@ -35409,7 +35429,7 @@
         "lore": "Smugglers and scouts employed by the ISB. Search the far reaches of the galaxy for Rebel activity and habitable worlds. Know all the smugglers' best hiding places."
       },
       "pulledBy": [
-        "Elis in Hinthra (V)",
+        "Elis in Hinthra",
         "Murttoc Yine"
       ],
       "legacy": false
@@ -36085,7 +36105,7 @@
         "lore": "A male Quara (or fingered Aqualish). Thug, smuggler and partner of Dr. Evazan. Has a poor quality cybernetic arm replacement."
       },
       "pulledBy": [
-        "Elis in Hinthra (V)",
+        "Elis in Hinthra",
         "Murttoc Yine"
       ],
       "combo": [
@@ -36123,12 +36143,12 @@
         "characteristics": [
           "smuggler"
         ],
-        "gametext": "Adds 2 to power of anything he pilots.  Game text of non-Jedi Luke (or a lightsaber he is using) may not target aliens here.  During battle, if with a smuggler, may add a destiny to attrition (+2 if with your smuggler) or make that smuggler forfeit = 0.",
+        "gametext": "Adds 2 to power of anything he pilots.  Game text of non-Jedi Luke (or a lightsaber he is using) may not target aliens here.  During battle, if with a smuggler, may add a destiny to attrition or make that smuggler forfeit = 0.",
         "lore": "A male Quara (or fingered Aqualish). Thug, smuggler and partner of Dr. Evazan. Has a poor quality cybernetic arm replacement."
       },
       "conceptBy": "(Original concept by Mike Raveling - Minnesota States 2008)",
       "pulledBy": [
-        "Elis in Hinthra (V)",
+        "Elis in Hinthra",
         "Murttoc Yine"
       ],
       "legacy": false
@@ -36221,7 +36241,7 @@
         "lore": "Skrilling smuggler. Supplied Jabba's henchmen with weapons when he was Hermi Odle's predecessor. An excellent driver."
       },
       "pulledBy": [
-        "Elis in Hinthra (V)",
+        "Elis in Hinthra",
         "Murttoc Yine"
       ],
       "legacy": false
@@ -46945,7 +46965,7 @@
         "lore": "Gambler who bets on how long the Rancor's victims will last. Formerly an Imperial pilot who worked with Lieutenant Tanbris. Now a smuggler for Jabba."
       },
       "pulledBy": [
-        "Elis in Hinthra (V)",
+        "Elis in Hinthra",
         "Murttoc Yine"
       ],
       "legacy": false
@@ -49647,7 +49667,7 @@
         "lore": "Assigned by Jabba to work with Hermi Odle. Former technician for the Empire. Developed a method to remotely control seekers. Plotting to kill Jabba."
       },
       "pulledBy": [
-        "Elis in Hinthra (V)",
+        "Elis in Hinthra",
         "Murttoc Yine"
       ],
       "legacy": false
@@ -51707,7 +51727,7 @@
         "lore": "Corellian gambler with an addiction to Podrace betting. Has lost most of his belongings to Gardulla. Still operates as a smuggler of black market weaponry."
       },
       "pulledBy": [
-        "Elis in Hinthra (V)",
+        "Elis in Hinthra",
         "Murttoc Yine"
       ],
       "legacy": false
@@ -54230,7 +54250,7 @@
         "icons": [
           "Episode VII"
         ],
-        "gametext": "If I Will Finish What You Started on table, deploy on table. May deploy Sith Throne from Reserve Deck; reshuffle. While [Episode VII] Emperor on Exegol, attrition against opponent is +2 at same location as Kylo, Pryde, or Rey. Your [Episode I] characters are lost. (Immune to Alter.)",
+        "gametext": "If I Will Finish What You Started on table, deploy on table. While [Episode VII] Emperor on Exegol, attrition against opponent is +2 at same location as Kylo, Rey, or Snoke and, once per game, may deploy an [Episode VII] battleground system from Reserve Deck; reshuffle. (Immune to Alter.)",
         "lore": "Blank"
       },
       "rulings": [
@@ -54486,6 +54506,236 @@
         "gametext": "Deploy on Gideon, [Set 13] Maul, or your Mandalorian. May add 1 to Force drain where present. May target a character. Draw destiny. Target hit, and its forfeit = 0, if destiny +2 > defense value. If just lost from table or hand, opponent may steal this weapon into hand.",
         "lore": "Blank."
       },
+      "legacy": false
+    },
+    {
+      "id": 6896,
+      "gempId": "215_22",
+      "side": "Dark",
+      "rarity": "XR",
+      "set": "215",
+      "printings": [
+        {
+          "set": "215"
+        }
+      ],
+      "front": {
+        "title": "•Admiral Piett (V)",
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual15-Dark/large/admiralpiett.gif",
+        "type": "Character",
+        "subType": "Imperial",
+        "uniqueness": "*",
+        "destiny": "1",
+        "power": "3",
+        "ability": "3",
+        "deploy": "4",
+        "forfeit": "6",
+        "icons": [
+          "Pilot",
+          "Warrior"
+        ],
+        "characteristics": [
+          "admiral",
+          "leader"
+        ],
+        "gametext": "While piloting Executor, adds 3 to power. Deploys -1 for each of your starship sites on table. Landing Claw may not attach here. Once per game, if piloting Executor, may take Emperor's Orders into hand from Reserve Deck; reshuffle.",
+        "lore": "Veteran of the Imperial military machine. Leader of the Imperial fleet at Endor. Skilled at political maneuvering and appeasing his powerful superiors.",
+        "extraText": [
+          "Force-Attuned"
+        ]
+      },
+      "pulls": [
+        "Emperor's Orders"
+      ],
+      "pulledBy": [
+        "Blizzard 4",
+        "Imperial Command"
+      ],
+      "cancels": [
+        "Prevents Landing Claw from attaching"
+      ],
+      "combo": [
+        "Admiral Piett at a system + Imperial Command"
+      ],
+      "matching": [
+        "Executor",
+        "Flagship Executor"
+      ],
+      "rulings": [
+        "Does not cause an already attached Landing Claw to detach."
+      ],
+      "legacy": false
+    },
+    {
+      "id": 6897,
+      "gempId": "215_23",
+      "side": "Dark",
+      "rarity": "C3",
+      "set": "215",
+      "printings": [
+        {
+          "set": "215"
+        }
+      ],
+      "front": {
+        "title": "•Blizzard 8",
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual15-Dark/large/blizzard8.gif",
+        "type": "Vehicle",
+        "subType": "Combat: AT-AT",
+        "destiny": "1",
+        "power": "6",
+        "armor": "6",
+        "landspeed": "1",
+        "deploy": "7",
+        "forfeit": "7",
+        "icons": [
+          "Pilot",
+          "Scomp Link"
+        ],
+        "gametext": "May add 1 pilot and 8 passengers. Permanent pilot provides ability of 2. Draws one battle destiny if unable to otherwise. Immune to attrition < 4.",
+        "lore": "Enclosed. Death Squadron."
+      },
+      "pulledBy": [
+        "Battle Deployment",
+        "Death Squadron Assignment",
+        "Prepare For A Surface Attack",
+        "Walker Garrison"
+      ],
+      "legacy": false
+    },
+    {
+      "id": 6898,
+      "gempId": "215_24",
+      "side": "Dark",
+      "rarity": "R1",
+      "set": "215",
+      "printings": [
+        {
+          "set": "215"
+        }
+      ],
+      "front": {
+        "title": "•Dannik Jerriko",
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual15-Dark/large/dannikjerriko.gif",
+        "type": "Character",
+        "subType": "Alien",
+        "uniqueness": "*",
+        "destiny": "2",
+        "power": "3",
+        "ability": "3",
+        "deploy": "3",
+        "forfeit": "5",
+        "icons": [
+          "Warrior"
+        ],
+        "characteristics": [
+          "assassin"
+        ],
+        "gametext": "Opponent's characters just lost from here may not be removed from Lost Pile (except to be placed out of play). While present at a site and armed with a blaster, adds one battle destiny. Cards hit by Dannik are power and forfeit -2.",
+        "lore": "Anzati assassin. Cheek-folds hide proboscises which allow him to 'eat the soup' (consume the life Force) of his victims. Smokes t'bac. Currently working for Jabba.",
+        "extraText": [
+          "Force-Attuned"
+        ]
+      },
+      "rulings": [
+        "Only prevents characters being removed from lost pile while they are in a 'just lost' state."
+      ],
+      "legacy": false
+    },
+    {
+      "id": 6899,
+      "gempId": "215_25",
+      "side": "Dark",
+      "rarity": "C",
+      "set": "215",
+      "printings": [
+        {
+          "set": "215"
+        }
+      ],
+      "front": {
+        "title": "•Emperor's Orders",
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual15-Dark/large/emperorsorders.gif",
+        "type": "Epic Event",
+        "uniqueness": "*",
+        "destiny": "0",
+        "gametext": "If you did not deploy an Objective, deploy on Executor. We're Not Going To Attack?: Your squadrons are destiny = 0. You may not deploy squadrons or non-Imperial starships. Unless you occupy a battleground site, Dreaded Imperial Starfleet is suspended. The Alliance Will Die...: Flagship Operations does not require any Executor sites on table to deploy. ...As Will Your Friends: At battleground systems where you have a piloted capital starship and a piloted TIE, your Force drains = 2. At sites related to systems you control, during battle may add one destiny to total power. If just lost, lose 3 Force."
+      },
+      "rulings": [
+        "When Force drains = 2, they cannot be modified, but the Force loss could be modified by (for example) It Could Be Worse."
+      ],
+      "legacy": false
+    },
+    {
+      "id": 6900,
+      "gempId": "215_26",
+      "side": "Dark",
+      "rarity": "C",
+      "set": "215",
+      "printings": [
+        {
+          "set": "215"
+        }
+      ],
+      "front": {
+        "title": "•Ruhk",
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual15-Dark/large/rukh.gif",
+        "type": "Character",
+        "subType": "Alien",
+        "uniqueness": "*",
+        "destiny": "2",
+        "power": "4",
+        "ability": "2",
+        "deploy": "3",
+        "forfeit": "4",
+        "icons": [
+          "Warrior"
+        ],
+        "characteristics": [
+          "Noghri",
+          "assassin",
+          "bodyguard",
+          "guard"
+        ],
+        "gametext": "While armed with a blaster, your assassins and leaders here are immune to Blaster Proficiency and Clash Of Sabers and, if Shadow Collective just flipped, may peek at top two cards of your Reserve Deck and take one into hand.",
+        "lore": "Noghri assassin and bodyguard."
+      },
+      "rulings": [
+        "When Shadow Collective flips, the response on You Know Who I Answer To and the response on Rukh may be performed in either order.",
+        "All bodyguards are also guards.",
+        "'Immune to Blaster Proficiency' prevents the control phase sniping function and prevents the place in Lost Pile function. It does not prevent 3 being added to weapon destiny."
+      ],
+      "legacy": false
+    },
+    {
+      "id": 6901,
+      "gempId": "215_27",
+      "side": "Dark",
+      "rarity": "C2",
+      "set": "215",
+      "printings": [
+        {
+          "set": "215"
+        }
+      ],
+      "front": {
+        "title": "•Ubrikkian Industries",
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual15-Dark/large/ubrikkianindustries.gif",
+        "type": "Effect",
+        "uniqueness": "*",
+        "destiny": "4",
+        "gametext": "Deploy on table. During your deploy phase, may reveal an alien with 'vehicle' in game text from hand to take a transport vehicle into hand (or vice versa) and deploy both simultaneously. Your drivers are immune to Clash Of Sabers. Immune to Alter.",
+        "lore": "Blank."
+      },
+      "pulledBy": [
+        "Twi'lek Advisor",
+        "We Must Accelerate Our Plans"
+      ],
+      "rulings": [
+        "The 'vice versa' function still requires the alien (not the transport vehicle) to have the word 'vehicle' in game text.",
+        "The alien must deploy aboard the transport vehicle.",
+        "If the deployment is not possible, return the card taken from Reserve Deck back to that deck and reshuffle."
+      ],
       "legacy": false
     }
   ]
