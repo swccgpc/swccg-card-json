@@ -286,7 +286,7 @@
       "matchingWeapon": [
         "4-LOM's Concussion Rifle"
       ],
-	  "rulings": [
+      "rulings": [
         "A character may not be used in multiple pairs."
       ],
       "legacy": false
@@ -835,7 +835,7 @@
       "cancels": [
         "Don't Underestimate Our Chances"
       ],
-	  "rulings": [
+      "rulings": [
         "After this is played, Ketwol may perform one more exchange, even if Ketwol had performed exchanges previously."
       ],
       "legacy": false
@@ -940,9 +940,9 @@
       "pulledBy": [
         "Vizam (when with Advosze)"
       ],
-	  "rulings": [
+      "rulings": [
         "May not deploy or move to same location as another Advosze.",
-		"If 2 Advosze are somehow at the same location, owner chooses one to be lost."
+        "If 2 Advosze are somehow at the same location, owner chooses one to be lost."
       ],
       "legacy": false
     },
@@ -1004,7 +1004,7 @@
       "combo": [
         "Abyss + Scanning Crew Beware of Shocking Information."
       ],
-	  "rulings": [
+      "rulings": [
         "Result will trigger successfully even if character has no immunity to attrition to lose."
       ],
       "legacy": false
@@ -1541,7 +1541,7 @@
         "lore": "Typical of male Advosze, Bom Vimdin despises those of his own species. Pessimistic and territorial, he is a lone smuggler who prefers to work for corrupt officials."
       },
       "pulledBy": [
-        "Elis in Hinthra (V)",
+        "Elis in Hinthra",
         "Murttoc Yine"
       ],
       "legacy": false
@@ -1676,7 +1676,7 @@
         "destiny": "7",
         "gametext": "Agents of Black Sun:Deploy Imperial City (With Xizor there) and Coruscant system.{For} remainder of game, your aliens with 'Black Sun' in lore, bounty hunters, and information brokers are Black Sun Agents. You may not deploy cards with ability except Black Sun Agents, Emperor, or Independent starships. During your control phase, each of your bounty hunters may make a regular move to an adjacent site where there is a bounty. Scanning Crew may not be played.{Flip} this card if Xizor is at a battleground site and Luke is not at a battleground site.Vengeance of the Dark Prince:{While} this side up, once per turn, may place a card from hand in Used Pile to peek at cards in your Force Pile. Once during each of your battle phases, may peek at top X cards of any Reserve Deck, where X= number of locations you occupy. For each Black Sun Agent in battle, attrition against opponent is +1. During your control phase, opponent loses 1 Force for each battleground location occupied by Xizor or Emperor.{Flip} this card if Luke is at a battleground site or if Xizor not on table."
       },
-	  "rulings": [
+      "rulings": [
         "All of Dark's bounty hunters and information brokers become Black Sun agents, even if they are not aliens.",
         "Characters with the 3-word phrase 'Black Sun agent' in lore are always Black Sun agents, even without this objective."
       ],
@@ -1995,7 +1995,7 @@
         "Twi'lek Advisor",
         "We Must Accelerate Our Plans"
       ],
-	  "rulings": [
+      "rulings": [
         "Requires the bounty hunter be present, but does not require the target character to be present.",
         "The target character applies their forfeit value, but does not leave table. Cards on the target character remain.",
         "The target character cannot be targeted as 'just lost' or 'just forfeited.'",
@@ -2110,8 +2110,10 @@
         "Plea To The Court",
         "The Gravest Of Circumstances"
       ],
-	  "rulings": [
-        "Cannot cancel an Immediate Effect, Mobile Effect, or Starting Effect."
+      "rulings": [
+        "Cannot cancel an Immediate Effect, Mobile Effect, or Starting Effect.",
+        "Can be played as a top-level action.",
+        "Can be played as a response to the attempted deployment of an Effect or Utinni Effect. If successful, the target has no result."
       ],
       "legacy": false
     },
@@ -2153,11 +2155,11 @@
         "Sense (EP1)",
         "Sense & Recoil In Fear"
       ],
-	  "rulings": [
+      "rulings": [
         "Cannot cancel an Immediate Effect, Mobile Effect, Political Effect, or Starting Effect.",
         "The first function requires targeting a specific character with ability for the comparison.",
         "Can be played as a top-level action.",
-        "Can be played as a response to the deployment of an Effect or Utinni Effect. If successful, the target has no result."
+        "Can be played as a response to the attempted deployment of an Effect or Utinni Effect. If successful, the target has no result."
       ],
       "legacy": false
     },
@@ -2194,10 +2196,10 @@
       "cancels": [
         "One Effect"
       ],
-	  "rulings": [
+      "rulings": [
         "Cannot cancel an Immediate Effect, Mobile Effect, Political Effect, Starting Effect, or Utinni Effect.",
         "Can be played as a top-level action.",
-        "Can be played as a response to the deployment of an Effect. If successful, the target has no result.",
+        "Can be played as a response to the attempted deployment of an Effect. If successful, the target has no result.",
         "A successful draw on either function causes Force loss to Do, Or Do Not or There Is No Try."
       ],
       "legacy": false
@@ -2226,13 +2228,13 @@
         "gametext": "USED: Cancel Sense.  LOST: Target an Effect, Political Effect, or Utinni Effect, and one of your characters on table. Draw destiny. If destiny < character's ability, target Effect is canceled (you lose no Force to Do, Or Do Not). (Immune to opponent's Objective.)",
         "lore": "A user of the Force can subjugate the will of others or alter the environment at a distance, as when Vader 'disciplines' those whose lack of faith disturbs him."
       },
-	  "rulings": [
+      "rulings": [
         "Cannot cancel an Immediate Effect, Mobile Effect, or Starting Effect.",
         "Can be played as a top-level action.",
-        "Can be played as a response to the deployment of an Effect, Political Effect, or Utinni Effect. If successful, the target has no result.",
+        "Can be played as a response to the attempted deployment of an Effect, Political Effect, or Utinni Effect. If successful, the target has no result.",
         "'Immune to opponent's Objective' only works while initiating/playing it.",
         "It is protected from (for example) both sides of Mind What You Have Learned.",
-        "It is not protected from (for example) Sanity And Compassion." 
+        "It is not protected from (for example) Sanity And Compassion."
       ],
       "legacy": false
     },
@@ -2256,13 +2258,13 @@
         "gametext": "USED: Cancel Sense.  LOST: Target an Effect, Political Effect, or Utinni Effect, and one of your characters on table. Draw destiny. If destiny < character's ability, target Effect is canceled (you lose no Force to Do, Or Do Not). (Immune to opponent's Objective.)",
         "lore": "A user of the Force can subjugate the will of others or alter the environment at a distance, as when Vader 'disciplines' those whose lack of faith disturbs him."
       },
-	  "rulings": [
+      "rulings": [
         "Cannot cancel an Immediate Effect, Mobile Effect, or Starting Effect.",
         "Can be played as a top-level action.",
-        "Can be played as a response to the deployment of an Effect, Political Effect, or Utinni Effect. If successful, the target has no result.",
+        "Can be played as a response to the attempted deployment of an Effect, Political Effect, or Utinni Effect. If successful, the target has no result.",
         "'Immune to opponent's Objective' only works while initiating/playing it.",
         "It is protected from (for example) both sides of Mind What You Have Learned.",
-        "It is not protected from (for example) Sanity And Compassion." 
+        "It is not protected from (for example) Sanity And Compassion."
       ],
       "legacy": false
     },
@@ -2414,9 +2416,10 @@
         }
       ],
       "front": {
-        "title": "An Inkling Of Its Destructive Potential",
+        "title": "•An Inkling Of Its Destructive Potential",
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual9-Dark/large/aninklingofitsdestructivepotential.gif",
         "type": "Effect",
+        "uniqueness": "*",
         "destiny": "4",
         "gametext": "Deploy on table. Once per game, may take a [Set 9] Epic Event into hand from Reserve Deck; reshuffle. During your deploy phase, if Krennic on Death Star, may flip Set Your Course For Alderaan (flip back at end of turn)(Immune to Alter.)",
         "lore": "Blank."
@@ -2454,7 +2457,7 @@
         "Kuat Drive Yards (V)"
       ],
       "counterpart": "Anoat",
-	  "rulings": [
+      "rulings": [
         "Starships using the 'react' text may only move between Anoat and the nearest related asteroid sector (in either direction)."
       ],
       "legacy": false
@@ -2669,7 +2672,7 @@
         "gametext": "During battle, lose an Imperial leader piloting your Star Destroyer. For remainder of turn, that Star Destroyer draws 2 battle destiny if unable to otherwise, is immune to attrition, and its power may not be increased by Imperial pilots aboard (except Vader).",
         "lore": "'I shall assume full responsibility for losing them and apologize to Lord Vader.' Needa discovered that Vader was only slightly more forgiving than the Emperor."
       },
-	  "rulings": [
+      "rulings": [
         "Losing an Imperial leader is an initiation cost."
       ],
       "legacy": false
@@ -2815,7 +2818,7 @@
         "Mara Jade's Lightsaber",
         "Mara Jade's Lightsaber (V)"
       ],
-	  "rulings": [
+      "rulings": [
         "If Arica breaks cover at Luke's site and There Is Good In Him on table, Luke is captured before Arica fires her weapon."
       ],
       "legacy": false
@@ -3267,7 +3270,7 @@
       "matchingWeapon": [
         "Aurra Sing's Blaster Rifle"
       ],
-	  "rulings": [
+      "rulings": [
         "Stolen lightsabers cannot be transferred to Aurra (unless they are actually capable of deploying on her)."
       ],
       "legacy": false
@@ -3567,7 +3570,7 @@
       "pulledBy": [
         "Double Back"
       ],
-	  "rulings": [
+      "rulings": [
         "Never gains characteristics from using 'mindscan'.",
         "'Mindscan' text that refers to Bane as 'she' or 'her' works, but he remains a male character."
       ],
@@ -3638,7 +3641,7 @@
         ]
       },
       "pulledBy": [
-        "Elis in Hinthra (V)",
+        "Elis in Hinthra",
         "Murttoc Yine"
       ],
       "counterpart": "Ellorrs Madak, Pilot Instructor",
@@ -4290,7 +4293,7 @@
       "canceledBy": [
         "Alternatives To Fighting"
       ],
-	  "rulings": [
+      "rulings": [
         "Besieged is canceled if Dark steals the starship.",
         "The starship being a stolen starship currently owned by Light, does not cause Besieged to be canceled."
       ],
@@ -5158,7 +5161,7 @@
         "Twi'lek Advisor",
         "We Must Accelerate Our Plans"
       ],
-	  "rulings": [
+      "rulings": [
         "Weapons on Blaster Rack are inactive.",
         "Placing a weapon on Blaster Rack is a top-level action."
       ],
@@ -5972,7 +5975,7 @@
         "Twi'lek Advisor",
         "We Must Accelerate Our Plans"
       ],
-	  "rulings": [
+      "rulings": [
         "Uses the forfeit value of the card from your hand, including global modifiers."
       ],
       "legacy": false
@@ -6028,7 +6031,7 @@
         "Boba Fett's Blaster Rifle",
         "Boba Fett's Blaster Rifle (V)"
       ],
-	  "rulings": [
+      "rulings": [
         "Forfeit increase applies to Bounty-type cards while transferring captives to a prison."
       ],
       "legacy": false
@@ -6551,7 +6554,7 @@
         "gametext": "Deploy on Podrace Arena. Once per game, either player may initiate a Podrace: During your control phase, each player may draw one race destiny. Each player may place any drawn race destiny on their Podracer (or on Podrace Arena if they have none) or in their Used Pile. During any move phase, winner is any player with a race total > 24 and greater than opponent's highest race total. Winner retrieves 6 Force and loser loses 6 Force. Place all race destiny cards in owner's Used Piles and all Podracers are lost."
       },
       "counterpart": "Boonta Eve Podrace",
-	  "rulings": [
+      "rulings": [
         "Winner of podrace is determined automatically during any move phase."
       ],
       "legacy": false
@@ -6830,7 +6833,7 @@
       "matching": [
         "Hound's Tooth"
       ],
-	  "rulings": [
+      "rulings": [
         "Counts as 'targeting a character with a weapon' and so is countered by (for example) Blaster Deflection.",
         "May not target inactive cards or owner's cards."
       ],
@@ -6866,7 +6869,7 @@
         "Bossk",
         "Bossk (V)"
       ],
-	  "rulings": [
+      "rulings": [
         "Counts as 'targeting a character with a weapon' and so is countered by e.g. Blaster Deflection.",
         "May not target inactive cards or owner's cards."
       ],
@@ -6901,7 +6904,7 @@
         "Bounty + Corporal Vandolay Makes We Have A Prisoner a Used Interrupt, and lets you pull a prison from Reserve Deck.",
         "Bounty + Carbon-Freezing"
       ],
-	  "rulings": [
+      "rulings": [
         "Only completes if the captive is imprisoned by the original seizing bounty hunter card."
       ],
       "legacy": false
@@ -7059,7 +7062,7 @@
         "destiny": "7",
         "gametext": "Bring Him Before Me:Deploy Throne Room, Insignificant Rebellion and Your Destiny.{For} remainder of game, Scanning Crew may not be played. Opponent's cards that place a character out of play may not target Luke. You may deploy Emperor (deploy -2) from Reserve Deck; reshuffle. Opponent may deploy Luke from Reserve Deck (deploy -2; reshuffle) or Lost Pile. If Luke is present with Vader and Vader is not escorting a captive, Luke is captured and seized by Vader. Vader may not transfer Luke.{Flip} this card if Luke captured.Take Your Father's Place:{While} this side up, lose 1 Force at end of each of your turns. Once during each of your turns, when Vader, Luke (even as a non-frozen captive) and Emperor are all present at your Throne Room, you may initiate a Luke/Vader duel: Each player draws two destiny. Add ability. Highest total wins. If Vader wins, opponent loses 3 Force. If Luke wins, shuffle Reserve Deck and draw destiny; if destiny > 12, Luke crosses to Dark Side, totally depleting opponent's Life Force.{Flip} if Luke neither present with Vader nor a captive."
       },
-	  "rulings": [
+      "rulings": [
         "The 'deploy -2' text only applies while deploying using this objective.",
         "If Vader is aboard an open vehicle without capacity for Luke, Vader automatically disembarks to seize Luke."
       ],
@@ -7459,7 +7462,7 @@
       "matching": [
         "Scimitar 2"
       ],
-	  "rulings": [
+      "rulings": [
         "Text to satisfy all battle damage and attrition requires that Jonus was piloting a TIE/sa.",
         "Text to satisfy all battle damage and attrition requires either battle damage or attrition. It does not require both."
       ],
@@ -7628,7 +7631,7 @@
       "matching": [
         "Avenger"
       ],
-	  "rulings": [
+      "rulings": [
         "Characters hit by weapons may be forfeited before forfeiting Needa."
       ],
       "legacy": false
@@ -7860,6 +7863,12 @@
         "destiny": "7",
         "gametext": "Carbon Chamber Testing:Deploy Carbonite Chamber, Carbonite Chamber Console and Security Tower with a Rebel (opponent's choice) from opponent's Reserve Deck (if possible) imprisoned there.{While} this side up, once during each of your deploy phases, you may deploy from Reserve Deck one Audience Chamber, Docking Bay 94 or East Platform; reshuffle. You may not play Dark Deal.{Flip} this card if you move a frozen captive to Audience Chamber (or if no Rebel was in opponent's Reserve Deck at start of game).My Favorite Decoration:{While} this side up, your aliens and starships are immune to attrition < 4 and, once during each of your control phases, you may retrieve 1 Force. While you have a frozen captive at Audience Chamber, Scum And Villainy is immune to Alter and during your deploy phase, you may deploy Scum And Villainy from Reserve Deck; reshuffle.{Place} out of play if there are no frozen captives on table (unless no Rebel was in opponent's Reserve Deck at start of game)."
       },
+      "rulings": [
+        "The Rebel deployed at start of game ignores location deployment restrictions, but not other restrictions.",
+        "Prisoner 2187 and TK-422 cannot be the targeted Rebel.",
+        "If Light is playing an Objective that starts a character on table, that character cannot be the targeted Rebel.",
+        "If no Rebel can be deployed, Dark may verify and Dark follows the 'if no Rebel was in opponent's Reserve Deck' instructions."
+      ],
       "legacy": false
     },
     {
@@ -8081,6 +8090,9 @@
         "gametext": "If Tarkin and a Rebel with ability > 2 are involved in the same battle, you may add one battle destiny (add two destiny if Rebel is Leia).",
         "lore": "'You're far too trusting. Dantooine is too remote to make an effective demonstration. But don't worry...We will deal with your Rebel friends soon enough.'"
       },
+      "rulings": [
+        "Can only target Leia if she is a Rebel with ability > 2."
+      ],
       "legacy": false
     },
     {
@@ -8204,6 +8216,10 @@
       ],
       "combo": [
         "Chief Retwin + Defel(s)"
+      ],
+      "rulings": [
+        "May not target devices/weapons deployed on a character, vehicle, or starship (even if at a site).",
+        "May target (for example) Seekers, Vaporator, or Medium Repeating Blaster Cannon."
       ],
       "legacy": false
     },
@@ -9187,7 +9203,7 @@
         "Surprise Assault",
         "Mantellian Savrip"
       ],
-	  "rulings": [
+      "rulings": [
         "Works against cards that say 'just lost' or 'just forfeited'",
         "Example: Works against Old Ben, but not Ben Kenobi"
       ],
@@ -9274,6 +9290,11 @@
       ],
       "cancels": [
         "Opee Sea Killer"
+      ],
+      "rulings": [
+        "After exchanging, the new destiny card is 'just drawn'.",
+        "After exchanging, the new destiny is not 'substituted'. It may be modified/canceled/reset and counts towards limits.",
+        "All modifiers transfer from the old destiny card to the new one."
       ],
       "legacy": false
     },
@@ -9476,6 +9497,9 @@
       "pulledBy": [
         "Blizzard 4"
       ],
+      "rulings": [
+        "Only gains power +1 even if with multiple characters listed."
+      ],
       "legacy": false
     },
     {
@@ -9572,6 +9596,11 @@
         "lore": "Imperial troops prepared for quick deployment to seize valuable terrain."
       },
       "counterpart": "Careful Planning",
+      "rulings": [
+        "If deploying two generic sites, they must be battlegrounds.",
+        "The site(s) deployed must be related to the owner's starting location and must be battlegrounds immediately upon deploying.",
+        "The site(s) may be deployed even if the starting location was converted, or failed to convert an opponent's starting location."
+      ],
       "legacy": false
     },
     {
@@ -9600,6 +9629,10 @@
       },
       "conceptBy": "(Original concept by Kevin Brownell - Illinois States 2004)",
       "counterpart": "Careful Planning (V)",
+      "rulings": [
+        "The site's battleground status is checked immediately upon deploying.",
+        "The site may be deployed even if the starting location was converted, or failed to convert an opponent's starting location."
+      ],
       "legacy": false
     },
     {
@@ -10299,7 +10332,7 @@
         }
       ],
       "front": {
-        "title": "•Commence Primary Ignition (V)",
+        "title": "Commence Primary Ignition (V)",
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual9-Dark/large/commenceprimaryignition.gif",
         "type": "Epic Event",
         "destiny": "0",
@@ -10508,6 +10541,10 @@
       "cancels": [
         "A (non-Immune to Sense) Interrupt (during battle)"
       ],
+      "rulings": [
+        "May only cancel one Interrupt per battle.",
+        "Only check if the currently played Interrupt function is immune to Sense. If not, it may be canceled."
+      ],
       "legacy": false
     },
     {
@@ -10549,6 +10586,11 @@
         "One Mobile Effect",
         "One Force drain"
       ],
+      "rulings": [
+        "Can be played as a top-level action.",
+        "Can be played as a response to the attempted deployment of an Immediate or Mobile Effect, preventing any result.",
+        "Can be played as a response to the completed deployment of an Immediate or Mobile Effect, after it has any automatic results."
+      ],
       "legacy": false
     },
     {
@@ -10585,6 +10627,10 @@
         "One Immediate Effect",
         "One Mobile Effect",
         "One Force drain"
+      ],
+      "rulings": [
+        "Can be played as a top-level action.",
+        "Can be played as a response to the attempted deployment of an Immediate or Mobile Effect, preventing any result."
       ],
       "legacy": false
     },
@@ -10626,6 +10672,10 @@
         "One Immediate Effect",
         "One Mobile Effect",
         "One Force drain"
+      ],
+      "rulings": [
+        "Can be played as a top-level action.",
+        "Can be played as a response to the attempted deployment of an Immediate or Mobile Effect, preventing any result."
       ],
       "legacy": false
     },
@@ -11622,11 +11672,14 @@
         "Force Lightning or Force Push"
       ],
       "pulledBy": [
-        "Sith Fury (V)",
-        "Evil Is Everywhere"
+        "Always Two There Are",
+        "Sith Fury (V)"
       ],
       "matchingWeapon": [
         "Dooku's Lightsaber"
+      ],
+      "rulings": [
+        "When using this text, treat all instances of the word 'Emperor' on Force Lightning as 'Dooku' instead."
       ],
       "legacy": false
     },
@@ -11664,6 +11717,11 @@
       ],
       "cancels": [
         "A Force drain at one location"
+      ],
+      "rulings": [
+        "When this interrupt begins its result, the total power and the number of destiny draws are 'locked in' and will not change.",
+        "Do not draw destinies for characters inside starships or enclosed vehicles.",
+        "This is not a 'battle' and cards may not be forfeited."
       ],
       "legacy": false
     },
@@ -11718,6 +11776,12 @@
         "lore": "The Imperial forces on Endor quickly responded to the Rebel intrusion. Commander Igar had a plan in place to deal with such a commando force of Rebels."
       },
       "counterpart": "Here We Go Again",
+      "rulings": [
+        "Allows cards to participate in another battle and fire weapons again.",
+        "Does not allow cards to 'react' a second time in one turn.",
+        "The player who played this Interrupt initiated the battle and by default gets first action of each segment.",
+        "A card excluded from the previous battle is not necessarily excluded from the new battle."
+      ],
       "legacy": false
     },
     {
@@ -11745,6 +11809,9 @@
         "destiny": "7",
         "gametext": "Court Of The Vile Gangster:Deploy Audience Chamber, Great Pit Of Carkoon and Dungeon.{While} this side up, once during each of your deploy phases, may deploy one docking bay or [Independent Starship] starship from Reserve Deck; reshuffle. Bounty Hunters are forfeit +2 and immune to Goo Nee Tay. You may not play Scanning Crew. Each player loses 1 Force at end of each of their deploy phases unless that player has a non-droid character at a Tatooine battleground site.{Flip} this card if you have two captives (or a captive of ability > 2) at any Jabba's Palace site(s).I Shall Enjoy Watching You Die:{While} this side up, once during each of your deploy phases, may deploy Sarlacc, Rancor or Rancor Pit from Reserve Deck; reshuffle. Captives targeted by trap door are immediately relocated to Rancor Pit (do not draw destiny) and Trap Door may not be canceled. Opponent loses Force equal to forfeit value of each opponent's character eaten by a Rancor or Sarlacc (place that character out of play).{Flip} this card if you have no captives at Tatooine sites and opponent has no character at same site as Rancor."
       },
+      "rulings": [
+        "A frozen captive (such as from Profit) counts as an ability = 0 captive towards the Flip condition."
+      ],
       "legacy": false
     },
     {
@@ -11979,6 +12046,10 @@
           "Force-Attuned"
         ]
       },
+      "rulings": [
+        "Only gets bonus power from characters if Dannik used his 'eat the soup' text on them.",
+        "If Dannik leaves table and a new Dannik enters play, the previous bonus power is retained."
+      ],
       "legacy": false
     },
     {
@@ -12176,6 +12247,10 @@
         "We Must Accelerate Our Plans"
       ],
       "counterpart": "For Luck",
+      "rulings": [
+        "The player playing Sense or Alter must then immediately choose a new target character if possible. If not possible, the Sense or Alter fails.",
+        "If Alter is played in response to the attempted deployment of this Effect, this Effect's game text may not be used yet."
+      ],
       "legacy": false
     },
     {
@@ -12201,6 +12276,11 @@
       "pulledBy": [
         "Twi'lek Advisor",
         "We Must Accelerate Our Plans"
+      ],
+      "rulings": [
+        "Characters introduced to this site after Dark Hours begins its result are not targeted.",
+        "If Dark fails to draw destiny (empty Reserve Deck), Light chooses the outcome.",
+        "A character affected by multiple copies of Dark Hours remains asleep until all copies leave table."
       ],
       "legacy": false
     },
@@ -12429,6 +12509,9 @@
         "We Must Accelerate Our Plans",
         "Execution Arena (Pit) (V)"
       ],
+      "rulings": [
+        "If on a vehicle site, characters there may be attacked despite being 'aboard a vehicle'."
+      ],
       "legacy": false
     },
     {
@@ -12466,7 +12549,7 @@
       "pulledBy": [
         "Herat"
       ],
-	  "rulings": [
+      "rulings": [
         "Restraining bolt can be deployed to a different location."
       ],
       "legacy": false
@@ -12564,6 +12647,10 @@
       "matchingWeapon": [
         "Maul's Double-Bladed Lightsaber",
         "Maul's Lightsaber"
+      ],
+      "rulings": [
+        "The loser of the duel is the character with the lower total.",
+        "If the duel totals are tied, there is no winner and no loser."
       ],
       "legacy": false
     },
@@ -13607,6 +13694,11 @@
       "pulledBy": [
         "Set Your Course For Alderaan/The Ultimate Power In The Universe"
       ],
+      "rulings": [
+        "Deploys -6 at Star Destroyer: Launch Bay.",
+        "May be taken into hand from table by Hunt Down And Destroy The Jedi.",
+        "Vader provides 6 ability. DS-61-2 and DS-61-3 each provide 2 ability."
+      ],
       "legacy": false
     },
     {
@@ -13638,8 +13730,7 @@
         "lore": "Most gunners in the Imperial Navy once aspired to be TIE pilots, but lacked sufficient skills to fly starfighters. A few were assigned to the Death Star to man the main artillery."
       },
       "pulls": [
-        "Superlaser",
-        "Superlaser Mark II"
+        "Superlaser"
       ],
       "pulledBy": [
         "Set Your Course For Alderaan/The Ultimate Power In The Universe"
@@ -13883,6 +13974,10 @@
         "Twi'lek Advisor",
         "We Must Accelerate Our Plans"
       ],
+      "rulings": [
+        "Increases the typical '4 ability' requirement for drawing battle destiny.",
+        "Also increases any special requirements such as on Prince Xizor."
+      ],
       "legacy": false
     },
     {
@@ -13914,6 +14009,9 @@
       "counterpart": "Yavin Sentry (V)",
       "cancels": [
         "Colo Claw Fish"
+      ],
+      "rulings": [
+        "This separate cost must be paid even if the card being deployed is free."
       ],
       "legacy": false
     },
@@ -14378,7 +14476,7 @@
         }
       ],
       "front": {
-        "title": "Deep Hatred",
+        "title": "•Deep Hatred",
         "imageUrl": "https://res.starwarsccg.org/cards/ReflectionsIII-Dark/large/deephatred.gif",
         "type": "Epic Event",
         "uniqueness": "*",
@@ -14420,6 +14518,9 @@
       },
       "combo": [
         "Defel(s) + Sunsdown + Chief Retwin"
+      ],
+      "rulings": [
+        "Each Defel can cause 1 Force loss per turn."
       ],
       "legacy": false
     },
@@ -15041,6 +15142,9 @@
         "You Cannot Hide Forever",
         "You Cannot Hide Forever & Mobilization Points"
       ],
+      "rulings": [
+        "May deploy both Combat Response and Imperial Arrest Order in the same turn (as 2 separate actions)."
+      ],
       "legacy": false
     },
     {
@@ -15436,6 +15540,9 @@
         "lore": "Snowspeeders move much faster than AT-AT cannons can track, but if approaching on a poor attack vector, the snowspeeder is at the mercy of the well-trained AT-AT gunner."
       },
       "counterpart": "Lucky Shot",
+      "rulings": [
+        "Works with Vehicle Mine."
+      ],
       "legacy": false
     },
     {
@@ -15504,6 +15611,10 @@
       ],
       "canceledBy": [
         "Bionic Hand"
+      ],
+      "rulings": [
+        "Character loses all weapons, including permanent weapons.",
+        "If Disarmed is removed, any permanent weapon(s) are restored."
       ],
       "legacy": false
     },
@@ -15576,7 +15687,7 @@
       "combo": [
         "Djas Puhr + Res Luk Ra'auf"
       ],
-	  "rulings": [
+      "rulings": [
         "This card is not an assassin."
       ],
       "legacy": false
@@ -15648,6 +15759,12 @@
         "Twi'lek Advisor",
         "We Must Accelerate Our Plans"
       ],
+      "rulings": [
+        "Reducing retrieval reduces X on Secret Plans.",
+        "Retrieving a specific card can be reduced from 1 card retrieved to 0.",
+        "Code Clearance can stack an Interrupt before This Place Can Be A Little Rough can place it out of play.",
+        "Outrider places Utinni Effects out of play before Code Clearance can stack."
+      ],
       "legacy": false
     },
     {
@@ -15674,6 +15791,12 @@
         "gametext": "Plays on table. If opponent just retrieved Force using an Interrupt or Utinni Effect, you may place that card here. Opponent's Force retrieval is reduced by X, where X = number of cards here.",
         "lore": "Imperial officers are always on the lookout for Rebel espionage."
       },
+      "rulings": [
+        "Reducing retrieval reduces X on Secret Plans.",
+        "Retrieving a specific card can be reduced from 1 card retrieved to 0.",
+        "Code Clearance can stack an Interrupt before This Place Can Be A Little Rough can place it out of play.",
+        "Outrider places Utinni Effects out of play before Code Clearance can stack."
+      ],
       "legacy": false
     },
     {
@@ -15883,6 +16006,10 @@
       "canceledBy": [
         "Put That Down"
       ],
+      "rulings": [
+        "The first function of this Interrupt does not require a bounty hunter in Lost Pile to initiate.",
+        "Both functions of this Interrupt are top level actions."
+      ],
       "legacy": false
     },
     {
@@ -15901,7 +16028,6 @@
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual8-Dark/large/doubleback.gif",
         "type": "Interrupt",
         "subType": "Used or Lost",
-        "uniqueness": "*",
         "destiny": "3",
         "gametext": "USED: Take 4-LOM, non-[Maintenance] Boba Fett, Danz Borin, or Dengar into hand from Reserve Deck; reshuffle.  LOST: During your move phase, your bounty hunter (or [Independent] starship they are piloting) may make an additional move. OR Move your bounty hunter as a 'react'.",
         "lore": "Having lost sight of Boba Fett, Luke was surprised by his sudden reappearance."
@@ -15937,7 +16063,7 @@
         }
       ],
       "front": {
-        "title": "•Double Laser Cannon",
+        "title": "Double Laser Cannon",
         "imageUrl": "https://res.starwarsccg.org/cards/JabbasPalace-Dark/large/doublelasercannon.gif",
         "type": "Weapon",
         "subType": "Vehicle",
@@ -15966,7 +16092,7 @@
         }
       ],
       "front": {
-        "title": "Double-Crossing, No-Good Swindler",
+        "title": "•Double-Crossing, No-Good Swindler",
         "imageUrl": "https://res.starwarsccg.org/cards/CloudCity-Dark/large/doublecrossingnogoodswindler.gif",
         "type": "Interrupt",
         "subType": "Lost",
@@ -15996,6 +16122,7 @@
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual11-Dark/large/dqar.gif",
         "type": "Location",
         "subType": "System",
+        "uniqueness": "*",
         "destiny": "0",
         "icons": [
           "Planet",
@@ -16071,7 +16198,7 @@
         "lore": "Thug. Smuggler. Twisted 'doctor'. Disfigured by blaster. Has death sentence in over 12 systems. Notorious partner of Ponda Baba. Aliases: Dr. Cornelius and Rooboo."
       },
       "pulledBy": [
-        "Elis in Hinthra (V)",
+        "Elis in Hinthra",
         "Murttoc Yine"
       ],
       "combo": [
@@ -16114,7 +16241,7 @@
         "lore": "Smugglers who met each other in the Corellian system. Gained the rights to Han Solo's old smuggling routes from Jabba the Hutt. They don't like you either."
       },
       "pulledBy": [
-        "Elis in Hinthra (V)",
+        "Elis in Hinthra",
         "Murttoc Yine"
       ],
       "legacy": false
@@ -16135,6 +16262,7 @@
         "imageUrl": "https://res.starwarsccg.org/cards/SpecialEdition-Dark/large/drevazanssawedoffblaster.gif",
         "type": "Weapon",
         "subType": "Character",
+        "uniqueness": "*",
         "destiny": "2",
         "characteristics": [
           "blaster"
@@ -16214,6 +16342,10 @@
       "counterpart": "Rebel Fleet",
       "combo": [
         "Dreaded Imperial Starfleet + Sienar Fleet Systems + Commander Brandei + TIE's with matching pilots."
+      ],
+      "rulings": [
+        "A card with asterisk deploy cost is treated as X = 0.",
+        "However if any deploy cost is defined (even by another card), use the defined cost for X."
       ],
       "legacy": false
     },
@@ -16872,10 +17004,11 @@
         }
       ],
       "front": {
-        "title": "E Chu Ta",
+        "title": "•E Chu Ta",
         "imageUrl": "https://res.starwarsccg.org/cards/CloudCity-Dark/large/echuta.gif",
         "type": "Interrupt",
         "subType": "Used",
+        "uniqueness": "*",
         "destiny": "3",
         "gametext": "One of your protocol droids 'insults' one character present, canceling that character's game text for remainder of turn. OR During your battle phase, initiate a battle where both players have droids (but no presence or spies). Both sides add one battle destiny.",
         "lore": "'How rude!'"
@@ -16885,6 +17018,9 @@
       ],
       "cancels": [
         "Game text of a character"
+      ],
+      "rulings": [
+        "Once initiated, the battle will continue even if presence and/or spies are introduced to the battle."
       ],
       "legacy": false
     },
@@ -16945,6 +17081,12 @@
         "gametext": "Deploy on any site. May be moved with two warriors for 1 additional Force. Your warrior present may target a starfighter (use 5 as defense value), character, creature or vehicle using 2 Force. Draw destiny. Target hit if destiny +1 > defense value.",
         "lore": "Massive infantry weapon powerful enough to damage even starfighters."
       },
+      "rulings": [
+        "Moving the E-web Blaster does not permit those carrying it to make an extra move.",
+        "Normal movement costs apply to the characters moving the E-web Blaster.",
+        "The characters moving the E-web Blaster move with it, using landspeed, simultaneously.",
+        "This weapon is a blaster."
+      ],
       "legacy": false
     },
     {
@@ -17087,6 +17229,11 @@
         "EV-9D9"
       ],
       "counterpart": "EG-4 (Eegee-Four)",
+      "rulings": [
+        "Doubles total power at a location, including modifiers.",
+        "Does not double any power destiny / battle destiny draws.",
+        "Does not double attrition."
+      ],
       "legacy": false
     },
     {
@@ -17135,6 +17282,11 @@
         "It's A Hit!",
         "Quite A Mercenary makes all characters transported by Elis Helrot lost"
       ],
+      "rulings": [
+        "The destiny draw and cost are paid during initiation, and then responses (e.g. Sense) may take place.",
+        "If retargeted by I Have A Bad Feeling About This, it must EITHER select new characters to be transported OR select a new destination site.",
+        "If using I Have A Bad Feeling About This to choose new characters, the new characters may be at the same origin site or a different origin site, but it cannot include any of the original characters."
+      ],
       "legacy": false
     },
     {
@@ -17169,17 +17321,14 @@
         "characteristics": [
           "Independent (starship)"
         ],
-        "gametext": "May add 1 pilot and 3 passengers. Permanent pilot is •Elis, who provides ability of 2. Once per game, may deploy a smuggler aboard from Reserve Deck; reshuffle. While at opponent's system, adds one [Light Side]. Immune to attrition <5.",
+        "gametext": "May add 1 pilot and 3 passengers. Permanent pilot is •Elis, who provides ability of 2. Once per game, may use 1 Force to deploy a smuggler aboard from Reserve Deck; reshuffle. Immune to attrition < 5.",
         "lore": "Blank."
       },
       "pulls": [
         "Advosze",
-        "Baniss Keeg",
-        "Pilot Instructor",
-        "Dr",
-        "Evazan",
-        "Dr",
-        "Evazan & Ponda Baba",
+        "Baniss Keeg, Pilot Instructor",
+        "Dr. Evazan",
+        "Dr. Evazan & Ponda Baba",
         "Ephant Mon",
         "Gela Yeens",
         "Mercenary Pilot",
@@ -17189,6 +17338,7 @@
         "Pote Snitkin",
         "Pote Snitkin (V)",
         "Ree-Yees",
+        "Ree-Yees (V)",
         "Thul Fain",
         "Velken Tezeri (V)",
         "Wooof",
@@ -17257,6 +17407,12 @@
       "counterpart": "Panic",
       "canceledBy": [
         "Light Maneuvers"
+      ],
+      "rulings": [
+        "Does not circumvent any deployment rules such as requiring presence or Force icons, Dagobah rules, etc.",
+        "All cards revealed but not deployed are lost.",
+        "If Blizzard 4 shuffles the Reserve Deck, any remaining revealed cards are un-revealed and shuffled in, ending the action.",
+        "If the player somehow activates or loses Force from Reserve Deck while the top card is revealed, it is un-revealed and then activated/lost normally."
       ],
       "legacy": false
     },
@@ -17759,6 +17915,9 @@
       "combo": [
         "Endor: Bunker + Major Hewex"
       ],
+      "rulings": [
+        "Light can only move to this site if they are at the Back Door when they are initiating their movement."
+      ],
       "legacy": false
     },
     {
@@ -18091,7 +18250,7 @@
         "We Must Accelerate Our Plans"
       ],
       "counterpart": "A Vergence In The Force",
-	  "rulings": [
+      "rulings": [
         "Can only place itself from table into Used Pile, not any other card."
       ],
       "legacy": false
@@ -18129,13 +18288,17 @@
         ]
       },
       "pulledBy": [
-        "Elis in Hinthra (V)",
+        "Elis in Hinthra",
         "Murttoc Yine",
         "Power Of The Hutt"
       ],
       "combo": [
         "Ephant Mon + Jabba The Hutt (V) Ephant Mon works perfect with Jabba The Hutt (V), who needs a leader to protect him from targeting of weapons.",
         "Ephant Mon + any Jabba"
+      ],
+      "rulings": [
+        "May be forfeited to satisfy all remaining attrition even if there is no battle damage, and vice versa.",
+        "If prevented from being used to satisfy attrition (e.g. Crack Shot), his text may still satisfy all remaining battle damage, but not attrition."
       ],
       "legacy": false
     },
@@ -18410,6 +18573,12 @@
         "gametext": "Unless Tarkin is aboard, save all characters, weapons and devices aboard any just-lost capital starship. Relocate them to any one planet site or one of your capital starships.",
         "lore": "Escape pods are on many starships allowing those in peril to flee, an act considered cowardly by Imperial officers. 'We've analyzed their attack, sir, and there is a danger.'"
       },
+      "rulings": [
+        "May not relocate opponent's cards.",
+        "May not relocate weapons and devices deployed directly upon a starship or vehicle (e.g. Deflector Shield Generators or Turbolaser Battery).",
+        "If relocating to a capital starship, it must have capacity for everything and all of the cards must be allowed to exist there.",
+        "If relocating to a capital starship, it must be to the starship card itself, not a starship site."
+      ],
       "legacy": false
     },
     {
@@ -18464,6 +18633,9 @@
       ],
       "cancels": [
         "Revolution"
+      ],
+      "rulings": [
+        "The second Used function still has its result even if the opponent plays any response(s) that reduces their hand size below 13 cards."
       ],
       "legacy": false
     },
@@ -18774,6 +18946,13 @@
       "canceledBy": [
         "Uh-oh!"
       ],
+      "rulings": [
+        "Does not expand card titles, marker numbers, icons, or anything else besides game text.",
+        "Does not allow docking bay transit to occur to or from a non-docking bay site.",
+        "Two identical modifiers stack, for example 'Force drain +1 here. Force drain +1 here.' will work to add 2 to Force drains there.",
+        "While game text is canceled or suspended at one site, it is not expanded to adjacent sites.",
+        "Expanding the Tatooine: Podrace Arena game text to adjacent sites makes those sites non-battlegrounds while any race total > 0."
+      ],
       "legacy": false
     },
     {
@@ -18814,7 +18993,6 @@
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual4-Dark/large/f11dblasterrifle.gif",
         "type": "Weapon",
         "subType": "Character",
-        "uniqueness": "*",
         "destiny": "2",
         "icons": [
           "Episode VII"
@@ -19222,6 +19400,11 @@
       ],
       "canceledBy": [
         "Game text is canceled by Freon Drevan"
+      ],
+      "rulings": [
+        "Resets the cost of initiating battle, cannot be further modified by cards like Wars Not Make One Great.",
+        "Anything allowing battle to be initiated for free ignores this cost.",
+        "If inside a starship or enclosed vehicle, the number of Force icons present with Trevagg is 0."
       ],
       "legacy": false
     },
@@ -19999,6 +20182,9 @@
       "pulledBy": [
         "Emperor Palpatine"
       ],
+      "rulings": [
+        "May not target a frozen captive."
+      ],
       "legacy": false
     },
     {
@@ -20051,6 +20237,9 @@
         "gametext": "Target opponent's Jedi with at least one combat card present with your Dark Jedi. Reveal one of target's combat cards (random selection). If revealed card's destiny > 4, place it on top of opponent's Reserve Deck. Otherwise, lose 1 Force. (Immune to Sense.)",
         "lore": "A fully-trained Sith warrior has more weapons at his disposal than just a lightsaber."
       },
+      "rulings": [
+        "If the revealed card is destiny 4 or less, it is un-revealed and placed back under the Jedi."
+      ],
       "legacy": false
     },
     {
@@ -20091,10 +20280,11 @@
         }
       ],
       "front": {
-        "title": "Forced Landing",
+        "title": "•Forced Landing",
         "imageUrl": "https://res.starwarsccg.org/cards/CloudCity-Dark/large/forcedlanding.gif",
         "type": "Effect",
         "subType": "Utinni",
+        "uniqueness": "*",
         "destiny": "5",
         "gametext": "Deploy on a docking bay. Target an opponent's starfighter at the related system or a related cloud sector. Target may not move away from Utinni Effect. Utinni Effect canceled when reached by target.",
         "lore": "'You will not deviate from your present course. . . Permission granted to land on platform three-two-seven.'"
@@ -20102,6 +20292,11 @@
       "pulledBy": [
         "Twi'lek Advisor",
         "We Must Accelerate Our Plans"
+      ],
+      "rulings": [
+        "The targeted starfighter may not move (or be carried) to any system, asteroid sector, or Death Star II sector.",
+        "The targeted starfighter may not move (or be carried) to any cloud sector of higher altitude.",
+        "The targeted starfighter may not move (or be carried) to any site except the site where Forced Landing is deployed."
       ],
       "legacy": false
     },
@@ -20239,7 +20434,7 @@
         }
       ],
       "front": {
-        "title": "Frostbite",
+        "title": "•Frostbite",
         "imageUrl": "https://res.starwarsccg.org/cards/Hoth-Dark/large/frostbite.gif",
         "type": "Effect",
         "uniqueness": "*",
@@ -20331,6 +20526,9 @@
         "gametext": "Use 2 Force. Draw Destiny. If destiny < number of Stormtroopers on the table, all opponent's movement is blocked for the remainder of this turn (except for smugglers and the starships they are aboard).",
         "lore": "Imperial stormtroopers adopt strict security measures. Excellent communications and sheer numbers can hinder Rebel movement across entire territories."
       },
+      "rulings": [
+        "The phrase 'movement is blocked' means the cards cannot move."
+      ],
       "legacy": false
     },
     {
@@ -20706,7 +20904,7 @@
         "lore": "Bad-tempered smuggler. Makes a few credits more helping Jabba collect debts. Highly regarded for his uncanny anticipation in battle. Searching for Debnoli."
       },
       "pulledBy": [
-        "Elis in Hinthra (V)",
+        "Elis in Hinthra",
         "Murttoc Yine"
       ],
       "legacy": false
@@ -21395,6 +21593,10 @@
       "cancels": [
         "One opponent's destiny just drawn when in battle with Vader"
       ],
+      "rulings": [
+        "May cancel any type of destiny such as battle destiny, weapon destiny, Sense destiny, etc.",
+        "May cancel a duel destiny (if the duel takes place during a battle where Tarkin is with Vader)."
+      ],
       "legacy": false
     },
     {
@@ -21436,6 +21638,9 @@
       "pulledBy": [
         "Blizzard 4",
         "The Empire's Back"
+      ],
+      "rulings": [
+        "If he adds a battle destiny, he can no longer draw one battle destiny if unable to otherwise that battle."
       ],
       "legacy": false
     },
@@ -21482,6 +21687,12 @@
         "gametext": "If opponent's starship has just begun to move through hyperspace, draw destiny. If destiny > pilot's ability, starship must return to original location and may not move this turn. If destiny = pilot's ability, starship is lost.",
         "lore": "'Traveling through hyperspace ain't like dustin' crops, boy!' Gravitational phenomena cast shadows in hyperspace, posing a serious threat to lightspeed navigation."
       },
+      "rulings": [
+        "Can be played as a response to any hyperspace movement, including (for example) Hyper Escape.",
+        "Targets both the starship and the highest ability pilot (either a permanent pilot or a character who is piloting).",
+        "If multiple permanent pilots and/or character pilots are tied for highest ability, Dark chooses one to target.",
+        "For Han, Chewie, And The Falcon, targets Han's 3 ability."
+      ],
       "legacy": false
     },
     {
@@ -22709,7 +22920,6 @@
         "imageUrl": "https://res.starwarsccg.org/cards/CloudCity-Dark/large/humanshield.gif",
         "type": "Interrupt",
         "subType": "Used Or Lost",
-        "uniqueness": "*",
         "destiny": "5",
         "gametext": "USED: If an opponent's weapon is about to 'hit' an Imperial present with a captive being escorted, the captive is 'hit' instead.  LOST: During the damage segment of a battle at a site, you may forfeit any captives present (once per battle per captive).",
         "lore": "A shining example of Imperial honor and bravery."
@@ -23356,11 +23566,11 @@
         "type": "Effect",
         "uniqueness": "*",
         "destiny": "4",
-        "gametext": "Deploy on table. Vader is lost. Once per turn, may stack an Interrupt from hand face up here to cancel a just drawn weapon destiny at Kylo's site. Kylo is power +1 for each card here. Once per game, may deploy a lightsaber from Reserve Deck; reshuffle. (Immune to Alter.)",
-        "lore": "Blank.",
         "icons": [
           "Episode VII"
-        ]
+        ],
+        "gametext": "Deploy on table. Vader is lost. Once per turn, may stack an Interrupt from hand face up here to cancel a just drawn weapon destiny at Kylo's site. Kylo is power +1 for each card here. Once per game, may deploy a lightsaber from Reserve Deck; reshuffle. (Immune to Alter.)",
+        "lore": "Blank."
       },
       "pulls": [
         "Dark Jedi Lightsaber",
@@ -24178,7 +24388,7 @@
         "We Must Accelerate Our Plans"
       ],
       "counterpart": "Insurrection & Aim High",
-	  "rulings": [
+      "rulings": [
         "Light has the option to decline and cancel the retrieval.",
         "The amount of Force used ('X') equals the retrieval amount initiated, even if the Lost pile has fewer than X cards."
       ],
@@ -24548,7 +24758,7 @@
         "destiny": "7",
         "gametext": "Imperial Entanglements:Deploy Tatooine system (with Devastator there) and a Tatooine battleground site.{For} remainder of game, you may not deploy Sandwhirl, Admiral's Orders, Jabba's Palace sites, non-Imperial characters, non-Imperial starships, or systems.{While} this side up, opponent loses no Force to Tatooine Occupation or your Force drains at Tatooine system. Once per turn, may deploy a Tatooine battleground site from Reserve Deck; reshuffle.{Flip} this card if you control three Tatooine sites and opponent controls fewer than three Tatooine sites. No One To Stop Us This Time: {While} this side up, once during your control phase, may peek at up to X cards from the top of your Reserve Deck, where X = number of Tatooine locations you occupy; take one into hand and shuffle your Reserve Deck. Once per turn, may deploy a Tatooine battleground site from Reserve Deck; reshuffle. Opponent's characters require +1 Force to move from Tatooine sites using their landspeed. During your draw phase, you may retrieve one trooper.{Flip} this card if opponent controls more Tatooine sites than you."
       },
-	  "rulings": [
+      "rulings": [
         "You may deploy (for example) Mara Jade."
       ],
       "legacy": false
@@ -24859,6 +25069,12 @@
         "Blizzard 4"
       ],
       "counterpart": "Rebel Squad Leader",
+      "rulings": [
+        "This card is a trooper.",
+        "When about to move, may target other troopers/guards to move with him.",
+        "Does not permit the other troopers/guards to perform a move they are not otherwise able to make.",
+        "Suspends the 'cannot move' text on Imperial Trooper Guards at same site."
+      ],
       "legacy": false
     },
     {
@@ -25086,6 +25302,7 @@
         "In Range + Our First Catch of the Day"
       ],
       "rulings": [
+        "This Interrupt targets a specific starship (e.g. for the purposes of Han's Toolkit).",
         "A starship captured and stolen mid-battle with In Range becomes inactive that battle."
       ],
       "legacy": false
@@ -25256,6 +25473,7 @@
         "title": "•Insidious Prisoner",
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual11-Dark/large/insidiousprisoner.gif",
         "type": "Epic Event",
+        "uniqueness": "*",
         "destiny": "0",
         "icons": [
           "Episode I"
@@ -25291,6 +25509,11 @@
         "You Cannot Hide Forever & Mobilization Points"
       ],
       "counterpart": "I Feel The Conflict",
+      "rulings": [
+        "If a player loses Force from hand to stack here, it is first revealed to both players.",
+        "If a player loses Force from Life Force to stack here, it is not revealed.",
+        "Text referring to cards stacked 'on'/'under'/'beneath' this Effect all means the same thing."
+      ],
       "legacy": false
     },
     {
@@ -25680,7 +25903,7 @@
         }
       ],
       "front": {
-        "title": "It's An Older Code",
+        "title": "•It's An Older Code",
         "imageUrl": "https://res.starwarsccg.org/cards/Endor-Dark/large/itsanoldercode.gif",
         "type": "Interrupt",
         "subType": "Used Or Lost",
@@ -26474,9 +26697,31 @@
           "Permanent Pilot",
           "Scomp Link"
         ],
-        "gametext": "May add 1 alien pilot and 6 passengers. Permanent pilot provides ability of 2. When deployed, you may deploy an alien leader aboard for free from Reserve Deck; reshuffle. Immune to attrition < 5.",
+        "gametext": "May add 1 alien pilot and 6 passengers. Permanent pilot provides ability of 2. When deployed, you may deploy an alien leader aboard from Reserve Deck; reshuffle. Immune to attrition < 5.",
         "lore": "Flying fortress of Jabba Desilijic Tiure. Reaches speeds of 800 kph in atmosphere. The crime lord installed hidden gunports as an unpleasant surprise for would-be pirates."
       },
+      "pulls": [
+        "Aemon Gremm With Percussive Cannon",
+        "Bala-Tik",
+        "Bib Fortuna",
+        "Chall Bekan",
+        "Dryden Vos",
+        "Ephant Mon",
+        "Hondo Ohnaka",
+        "Jabba",
+        "Jabba Desilijic Tiure",
+        "Jabba The Hutt",
+        "Jabba The Hutt (V)",
+        "Lady Proxima",
+        "Mighty Jabba",
+        "Mitth'raw'nuruodo",
+        "Nebit",
+        "Prince Xizor",
+        "Sidon Ithano",
+        "Televan Koreyy",
+        "URoRRuR'R'R",
+        "Wittin"
+      ],
       "legacy": false
     },
     {
@@ -26652,7 +26897,7 @@
       "legacy": false
     },
     {
-      "id": 5183,
+      "id": 6873,
       "gempId": "204_53",
       "side": "Dark",
       "rarity": "U2",
@@ -27023,6 +27268,10 @@
       "pulledBy": [
         "Double Back",
         "Coruscant: Imperial City (V)"
+      ],
+      "rulings": [
+        "May cancel any opponent's battle destiny except the first one.",
+        "If firing a repeating rifle or blaster, only the first shot is free and +2."
       ],
       "legacy": false
     },
@@ -28342,6 +28591,11 @@
         "Rayno Vaca"
       ],
       "counterpart": "Odin Nesloor",
+      "rulings": [
+        "The destiny draw and cost are paid during initiation, and then responses (e.g. Sense) may take place.",
+        "If retargeted by I Have A Bad Feeling About This, it must EITHER select new characters to be transported OR select a new destination site.",
+        "If using I Have A Bad Feeling About This to choose new characters, the new characters may be at the same origin site or a different origin site, but it cannot include any of the original characters."
+      ],
       "legacy": false
     },
     {
@@ -28367,6 +28621,11 @@
         ],
         "gametext": "If your character is about to be hit, use 1 Force (free if by a [Permanent Weapon] weapon); for remainder of turn, its forfeit may not be reduced and it may not be used to satisfy attrition. OR Cancel Disarmed. (Immune to Sense.) OR Cancel a 'react'. OR During your move phase, target any or all of your characters at one site to 'transport' (relocate) to an exterior or battleground site. Draw destiny. Use that much Force to 'transport,' or place Interrupt in Lost Pile."
       },
+      "rulings": [
+        "The destiny draw and cost are paid during initiation, and then responses (e.g. Sense) may take place.",
+        "If retargeted by I Have A Bad Feeling About This, it must EITHER select new characters to be transported OR select a new destination site.",
+        "If using I Have A Bad Feeling About This to choose new characters, the new characters may be at the same origin site or a different origin site, but it cannot include any of the original characters."
+      ],
       "legacy": false
     },
     {
@@ -30619,7 +30878,6 @@
         "imageUrl": "https://res.starwarsccg.org/cards/SpecialEdition-Dark/large/makurth.gif",
         "type": "Character",
         "subType": "Alien",
-        "uniqueness": "*",
         "destiny": "2",
         "power": "2",
         "ability": "1",
@@ -31372,7 +31630,7 @@
         "lore": "Smugglers. Candidates who resent authority often abandon Imperial academies to sell their piloting skills to criminals. Will work for any high paying crime syndicate."
       },
       "pulledBy": [
-        "Elis in Hinthra (V)",
+        "Elis in Hinthra",
         "Murttoc Yine"
       ],
       "legacy": false
@@ -31871,6 +32129,9 @@
         "Monnok + Trinto Duaba",
         "Monnok + Scanning Crew"
       ],
+      "rulings": [
+        "The Used function still has its result even if the opponent plays any response(s) that reduces their hand size below 13 cards."
+      ],
       "legacy": false
     },
     {
@@ -31969,6 +32230,10 @@
       ],
       "canceledBy": [
         "Swing-And-A-Miss"
+      ],
+      "rulings": [
+        "Character loses all weapons, including permanent weapons.",
+        "If Mostly Armless is removed, any permanent weapon(s) are restored."
       ],
       "legacy": false
     },
@@ -35164,7 +35429,7 @@
         "lore": "Smugglers and scouts employed by the ISB. Search the far reaches of the galaxy for Rebel activity and habitable worlds. Know all the smugglers' best hiding places."
       },
       "pulledBy": [
-        "Elis in Hinthra (V)",
+        "Elis in Hinthra",
         "Murttoc Yine"
       ],
       "legacy": false
@@ -35312,7 +35577,7 @@
         "gametext": "During your deploy phase, target a system where your total power is more than double opponent's total power and opponent has no Jedi or starship weapon. Place all opponent's starships there (and cards on them) in owner's Used Pile.",
         "lore": "When the Empire amasses its fleet, the only option for the Alliance is retreat."
       },
-	  "rulings": [
+      "rulings": [
         "Cannot be played where opponent has no power total (no active cards with power).",
         "If successfully played, sends away inactive targets such as a starship utilizing Landing Claw."
       ],
@@ -35840,7 +36105,7 @@
         "lore": "A male Quara (or fingered Aqualish). Thug, smuggler and partner of Dr. Evazan. Has a poor quality cybernetic arm replacement."
       },
       "pulledBy": [
-        "Elis in Hinthra (V)",
+        "Elis in Hinthra",
         "Murttoc Yine"
       ],
       "combo": [
@@ -35878,12 +36143,12 @@
         "characteristics": [
           "smuggler"
         ],
-        "gametext": "Adds 2 to power of anything he pilots.  Game text of non-Jedi Luke (or a lightsaber he is using) may not target aliens here.  During battle, if with a smuggler, may add a destiny to attrition (+2 if with your smuggler) or make that smuggler forfeit = 0.",
+        "gametext": "Adds 2 to power of anything he pilots.  Game text of non-Jedi Luke (or a lightsaber he is using) may not target aliens here.  During battle, if with a smuggler, may add a destiny to attrition or make that smuggler forfeit = 0.",
         "lore": "A male Quara (or fingered Aqualish). Thug, smuggler and partner of Dr. Evazan. Has a poor quality cybernetic arm replacement."
       },
       "conceptBy": "(Original concept by Mike Raveling - Minnesota States 2008)",
       "pulledBy": [
-        "Elis in Hinthra (V)",
+        "Elis in Hinthra",
         "Murttoc Yine"
       ],
       "legacy": false
@@ -35976,7 +36241,7 @@
         "lore": "Skrilling smuggler. Supplied Jabba's henchmen with weapons when he was Hermi Odle's predecessor. An excellent driver."
       },
       "pulledBy": [
-        "Elis in Hinthra (V)",
+        "Elis in Hinthra",
         "Murttoc Yine"
       ],
       "legacy": false
@@ -37935,7 +38200,7 @@
         "Your Insight Serves You Well - Defensive Shield",
         "Your Insight Serves You Well (V) - Defensive Shield"
       ],
-	  "rulings": [
+      "rulings": [
         "If face up in Reserve Deck for any reason, it is active (not part of Life Force)."
       ],
       "legacy": false
@@ -38934,7 +39199,7 @@
         }
       ],
       "front": {
-        "title": "Savage Opress",
+        "title": "•Savage Opress",
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual7-Dark/large/savageopress.gif",
         "type": "Character",
         "subType": "Sith",
@@ -39573,7 +39838,7 @@
         "lore": "Imperial computer systems are equipped with complex algorithms designed to prevent access by unauthorized users."
       },
       "counterpart": "Aim High - Defensive Shield",
-	  "rulings": [
+      "rulings": [
         "Light has the option to decline and cancel the retrieval.",
         "The amount of Force used ('X') equals the retrieval amount initiated, even if the Lost pile has fewer than X cards."
       ],
@@ -39608,7 +39873,7 @@
         "We Must Accelerate Our Plans"
       ],
       "counterpart": "Aim High",
-	  "rulings": [
+      "rulings": [
         "Light has the option to decline and cancel the retrieval.",
         "The amount of Force used ('X') equals the retrieval amount initiated, even if the Lost pile has fewer than X cards."
       ],
@@ -39760,7 +40025,6 @@
         "title": "Senate Hovercam",
         "imageUrl": "https://res.starwarsccg.org/cards/TheedPalace-Dark/large/senatehovercam.gif",
         "type": "Effect",
-        "uniqueness": "*",
         "destiny": "3",
         "icons": [
           "Episode I"
@@ -39994,7 +40258,7 @@
         "Aratech Corporation (V)",
         "Blizzard 4"
       ],
-	  "rulings": [
+      "rulings": [
         "Barich's action only works if attrition exists.",
         "Barich's action is played in the power segment after attrition destinies are drawn."
       ],
@@ -42816,6 +43080,9 @@
         "lore": "Standard-issue Imperial equipment with full survival and encampment gear, plus ammunition and food for an extended deployment. Makes each trooper self-sufficient."
       },
       "counterpart": "Echo Trooper Backpack",
+      "rulings": [
+        "Does not allow the character to use weapons/devices that they cannot use otherwise."
+      ],
       "legacy": false
     },
     {
@@ -43190,7 +43457,7 @@
         }
       ],
       "front": {
-        "title": "Superlaser Mark II",
+        "title": "•Superlaser Mark II",
         "imageUrl": "https://res.starwarsccg.org/cards/DeathStarII-Dark/large/superlasermarkii.gif",
         "type": "Weapon",
         "subType": "Death Star II",
@@ -43200,7 +43467,6 @@
         "lore": "The redesign of the Death Star called for improved defenses against Rebel starships. The superlaser redesign, while not able to target snub fighters, can devastate capital starships."
       },
       "pulledBy": [
-        "Death Star Gunner",
         "Moff Jerjerrod"
       ],
       "legacy": false
@@ -43253,12 +43519,14 @@
         "imageUrl": "https://res.starwarsccg.org/cards/SpecialEdition-Dark/large/surfacedefense.gif",
         "type": "Interrupt",
         "subType": "Used Or Starting",
-        "uniqueness": "*",
         "destiny": "5",
         "gametext": "USED: Add 1 to your just-drawn weapon destiny.  STARTING: If you have deployed a battleground, deploy Resistance, Secret Plans and/or There Is No Try from Reserve Deck. Place Interrupt in Reserve Deck.",
         "lore": "'The battle station is heavily shielded and carries a firepower greater than half the starfleet.'"
       },
       "counterpart": "Don't Tread On Me",
+      "rulings": [
+        "May be played even if the battleground has been converted."
+      ],
       "legacy": false
     },
     {
@@ -43356,6 +43624,11 @@
         "You Cannot Hide Forever & Mobilization Points"
       ],
       "counterpart": "Don't Tread On Me (V)",
+      "rulings": [
+        "Must draw at least 8 cards into opening hand.",
+        "May draw additional cards one at a time and review each one before deciding to draw again or not.",
+        "Effect cannot have any deploy cost listed in its game text."
+      ],
       "legacy": false
     },
     {
@@ -43383,6 +43656,9 @@
         "Surprise + Dark Waters The little known ability of Dark Waters to reduce Force drains makes it a fairly powerful card, especially if it can be used to follow your opponent's drains.",
         "Surprise + Death Mark Since many decks play with Han and Chewie, you can retarget the Death Mark to whoever happens to be farther away at the time.",
         "Surprise + Death Squadron The only thing that weakens this otherwise pretty good card is that the Rebellion tends to stay away from it. Well, with Surprise, you can bring the Squadron to them."
+      ],
+      "rulings": [
+        "In order to relocate an Effect, it must be able to deploy on the new location at the time of playing this Interrupt (but ignore uniqueness rules)."
       ],
       "legacy": false
     },
@@ -45410,6 +45686,9 @@
         "We Must Accelerate Our Plans"
       ],
       "counterpart": "Grappling Hook",
+      "rulings": [
+        "Once this grabs an Interrupt, it immediately prevents any further copies of the same name from being played that turn."
+      ],
       "legacy": false
     },
     {
@@ -46686,7 +46965,7 @@
         "lore": "Gambler who bets on how long the Rancor's victims will last. Formerly an Imperial pilot who worked with Lieutenant Tanbris. Now a smuggler for Jabba."
       },
       "pulledBy": [
-        "Elis in Hinthra (V)",
+        "Elis in Hinthra",
         "Murttoc Yine"
       ],
       "legacy": false
@@ -47292,8 +47571,14 @@
         "Tonnika Sisters + Nevar Yalnal"
       ],
       "canceledBy": [
-        "If Vul Tazaene present with Tonnika Sisters",
-        "Vul and Tonnika Sisters are lost"
+        "If Vul Tazaene present with Tonnika Sisters, Vul and Tonnika Sisters are lost"
+      ],
+      "rulings": [
+        "This is a combo card.",
+        "Can only steal cards that can be carried by characters, not (for example) Proton Torpedoes.",
+        "Can steal (or destroy) Han's Toolkit from a character, vehicle, or starship.",
+        "The weapons/devices must be present, but Tonnika Sisters do not need to be present.",
+        "May steal/destroy up to two weapons or up to two devices, but not one of each."
       ],
       "legacy": false
     },
@@ -47529,7 +47814,6 @@
         "imageUrl": "https://res.starwarsccg.org/cards/TheedPalace-Dark/large/tradefederationlandingcraft.gif",
         "type": "Starship",
         "subType": "Capital: Trade Federation Landing Craft",
-        "uniqueness": "*",
         "destiny": "2",
         "power": "2",
         "armor": "4",
@@ -49292,7 +49576,6 @@
       ],
       "pulledBy": [
         "Blizzard 4",
-        "Endor Shield (V)",
         "Imperial Command"
       ],
       "legacy": false
@@ -49384,7 +49667,7 @@
         "lore": "Assigned by Jabba to work with Hermi Odle. Former technician for the Empire. Developed a method to remotely control seekers. Plotting to kill Jabba."
       },
       "pulledBy": [
-        "Elis in Hinthra (V)",
+        "Elis in Hinthra",
         "Murttoc Yine"
       ],
       "legacy": false
@@ -51444,7 +51727,7 @@
         "lore": "Corellian gambler with an addiction to Podrace betting. Has lost most of his belongings to Gardulla. Still operates as a smuggler of black market weaponry."
       },
       "pulledBy": [
-        "Elis in Hinthra (V)",
+        "Elis in Hinthra",
         "Murttoc Yine"
       ],
       "legacy": false
@@ -51973,6 +52256,9 @@
         "He Can Go About His Business - Defensive Shield",
         "He Can Go About His Business (V) - Defensive Shield"
       ],
+      "rulings": [
+        "This Interrupt does not triple attrition."
+      ],
       "legacy": false
     },
     {
@@ -52189,6 +52475,12 @@
         "We Must Accelerate Our Plans"
       ],
       "counterpart": "Eyes In The Dark",
+      "rulings": [
+        "Cards lost from Life Force should not be revealed to either player.",
+        "Cards lost from hand or table should be shown to both players before being placed face-down in Lost Pile.",
+        "Anything that enables searching the Lost Pile to take or retrieve a card still works normally.",
+        "Baragwin may repeatedly check the top card of Lost Pile to see if it is an eligible target for retrieval (unless his action has already retrieved that turn)."
+      ],
       "legacy": false
     },
     {
@@ -52620,7 +52912,7 @@
       "legacy": false
     },
     {
-      "id": 6862,
+      "id": 6874,
       "gempId": "212_3",
       "side": "Dark",
       "rarity": "R",
@@ -53242,6 +53534,9 @@
         "gametext": "Plays on table. Opponent's Undercover spies are immune to Double Agent. While a Jedi Test on table, Projection Of A Skywalker is canceled. If Grimtaash just revealed your hand, you may place up to two cards from hand in your Used Pile.",
         "lore": "'That place is strong with the dark side of the Force. A domain of evil it is. In you must go.'"
       },
+      "rulings": [
+        "Once the Jedi Test #5 (It Is The Future You See) attempt has begun, deploying Failure At The Cave will not prevent that test from completing as scheduled."
+      ],
       "legacy": false
     },
     {
@@ -53809,7 +54104,7 @@
       "legacy": false
     },
     {
-      "id": 6823,
+      "id": 6875,
       "gempId": "301_6",
       "side": "Dark",
       "rarity": "U1",
@@ -53856,7 +54151,7 @@
         "type": "Character",
         "subType": "Sith",
         "uniqueness": "*",
-        "destiny": "0",
+        "destiny": "2",
         "power": "3",
         "ability": "4",
         "deploy": "4",
@@ -53955,11 +54250,11 @@
         "icons": [
           "Episode VII"
         ],
-        "gametext": "If I Will Finish What You Started on table, deploy on table. May deploy Sith Throne from Reserve Deck; reshuffle. While [Episode VII] Emperor on Exegol, attrition against opponent is +2 at same location as Kylo, Pryde, or Rey. Your [Episode I] characters are lost. (Immune to Alter.)",
+        "gametext": "If I Will Finish What You Started on table, deploy on table. While [Episode VII] Emperor on Exegol, attrition against opponent is +2 at same location as Kylo, Rey, or Snoke and, once per game, may deploy an [Episode VII] battleground system from Reserve Deck; reshuffle. (Immune to Alter.)",
         "lore": "Blank"
       },
-	  "rulings": [
-          "You may play (for example) Prepared Defenses to deploy I Will Finish What You Started, followed by The Dead Speak!"
+      "rulings": [
+        "You may play (for example) Prepared Defenses to deploy I Will Finish What You Started, followed by The Dead Speak!"
       ],
       "legacy": false
     },
@@ -54017,13 +54312,13 @@
       "cancels": [
         "One Effect"
       ],
-	  "rulings": [
+      "rulings": [
         "Cannot cancel an Immediate Effect, Mobile Effect, or Starting Effect.",
         "Can be played as a top-level action.",
-        "Can be played as a response to the deployment of an Effect, Political Effect, or Utinni Effect. If successful, the target has no result.",
+        "Can be played as a response to the attempted deployment of an Effect, Political Effect, or Utinni Effect. If successful, the target has no result.",
         "'Immune to opponent's Objective' only works while initiating/playing it.",
         "It is protected from (for example) both sides of Mind What You Have Learned.",
-        "It is not protected from (for example) Sanity And Compassion." 
+        "It is not protected from (for example) Sanity And Compassion."
       ],
       "legacy": false
     },
@@ -54211,6 +54506,236 @@
         "gametext": "Deploy on Gideon, [Set 13] Maul, or your Mandalorian. May add 1 to Force drain where present. May target a character. Draw destiny. Target hit, and its forfeit = 0, if destiny +2 > defense value. If just lost from table or hand, opponent may steal this weapon into hand.",
         "lore": "Blank."
       },
+      "legacy": false
+    },
+    {
+      "id": 6896,
+      "gempId": "215_22",
+      "side": "Dark",
+      "rarity": "XR",
+      "set": "215",
+      "printings": [
+        {
+          "set": "215"
+        }
+      ],
+      "front": {
+        "title": "•Admiral Piett (V)",
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual15-Dark/large/admiralpiett.gif",
+        "type": "Character",
+        "subType": "Imperial",
+        "uniqueness": "*",
+        "destiny": "1",
+        "power": "3",
+        "ability": "3",
+        "deploy": "4",
+        "forfeit": "6",
+        "icons": [
+          "Pilot",
+          "Warrior"
+        ],
+        "characteristics": [
+          "admiral",
+          "leader"
+        ],
+        "gametext": "While piloting Executor, adds 3 to power. Deploys -1 for each of your starship sites on table. Landing Claw may not attach here. Once per game, if piloting Executor, may take Emperor's Orders into hand from Reserve Deck; reshuffle.",
+        "lore": "Veteran of the Imperial military machine. Leader of the Imperial fleet at Endor. Skilled at political maneuvering and appeasing his powerful superiors.",
+        "extraText": [
+          "Force-Attuned"
+        ]
+      },
+      "pulls": [
+        "Emperor's Orders"
+      ],
+      "pulledBy": [
+        "Blizzard 4",
+        "Imperial Command"
+      ],
+      "cancels": [
+        "Prevents Landing Claw from attaching"
+      ],
+      "combo": [
+        "Admiral Piett at a system + Imperial Command"
+      ],
+      "matching": [
+        "Executor",
+        "Flagship Executor"
+      ],
+      "rulings": [
+        "Does not cause an already attached Landing Claw to detach."
+      ],
+      "legacy": false
+    },
+    {
+      "id": 6897,
+      "gempId": "215_23",
+      "side": "Dark",
+      "rarity": "C3",
+      "set": "215",
+      "printings": [
+        {
+          "set": "215"
+        }
+      ],
+      "front": {
+        "title": "•Blizzard 8",
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual15-Dark/large/blizzard8.gif",
+        "type": "Vehicle",
+        "subType": "Combat: AT-AT",
+        "destiny": "1",
+        "power": "6",
+        "armor": "6",
+        "landspeed": "1",
+        "deploy": "7",
+        "forfeit": "7",
+        "icons": [
+          "Pilot",
+          "Scomp Link"
+        ],
+        "gametext": "May add 1 pilot and 8 passengers. Permanent pilot provides ability of 2. Draws one battle destiny if unable to otherwise. Immune to attrition < 4.",
+        "lore": "Enclosed. Death Squadron."
+      },
+      "pulledBy": [
+        "Battle Deployment",
+        "Death Squadron Assignment",
+        "Prepare For A Surface Attack",
+        "Walker Garrison"
+      ],
+      "legacy": false
+    },
+    {
+      "id": 6898,
+      "gempId": "215_24",
+      "side": "Dark",
+      "rarity": "R1",
+      "set": "215",
+      "printings": [
+        {
+          "set": "215"
+        }
+      ],
+      "front": {
+        "title": "•Dannik Jerriko",
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual15-Dark/large/dannikjerriko.gif",
+        "type": "Character",
+        "subType": "Alien",
+        "uniqueness": "*",
+        "destiny": "2",
+        "power": "3",
+        "ability": "3",
+        "deploy": "3",
+        "forfeit": "5",
+        "icons": [
+          "Warrior"
+        ],
+        "characteristics": [
+          "assassin"
+        ],
+        "gametext": "Opponent's characters just lost from here may not be removed from Lost Pile (except to be placed out of play). While present at a site and armed with a blaster, adds one battle destiny. Cards hit by Dannik are power and forfeit -2.",
+        "lore": "Anzati assassin. Cheek-folds hide proboscises which allow him to 'eat the soup' (consume the life Force) of his victims. Smokes t'bac. Currently working for Jabba.",
+        "extraText": [
+          "Force-Attuned"
+        ]
+      },
+      "rulings": [
+        "Only prevents characters being removed from lost pile while they are in a 'just lost' state."
+      ],
+      "legacy": false
+    },
+    {
+      "id": 6899,
+      "gempId": "215_25",
+      "side": "Dark",
+      "rarity": "C",
+      "set": "215",
+      "printings": [
+        {
+          "set": "215"
+        }
+      ],
+      "front": {
+        "title": "•Emperor's Orders",
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual15-Dark/large/emperorsorders.gif",
+        "type": "Epic Event",
+        "uniqueness": "*",
+        "destiny": "0",
+        "gametext": "If you did not deploy an Objective, deploy on Executor. We're Not Going To Attack?: Your squadrons are destiny = 0. You may not deploy squadrons or non-Imperial starships. Unless you occupy a battleground site, Dreaded Imperial Starfleet is suspended. The Alliance Will Die...: Flagship Operations does not require any Executor sites on table to deploy. ...As Will Your Friends: At battleground systems where you have a piloted capital starship and a piloted TIE, your Force drains = 2. At sites related to systems you control, during battle may add one destiny to total power. If just lost, lose 3 Force."
+      },
+      "rulings": [
+        "When Force drains = 2, they cannot be modified, but the Force loss could be modified by (for example) It Could Be Worse."
+      ],
+      "legacy": false
+    },
+    {
+      "id": 6900,
+      "gempId": "215_26",
+      "side": "Dark",
+      "rarity": "C",
+      "set": "215",
+      "printings": [
+        {
+          "set": "215"
+        }
+      ],
+      "front": {
+        "title": "•Ruhk",
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual15-Dark/large/rukh.gif",
+        "type": "Character",
+        "subType": "Alien",
+        "uniqueness": "*",
+        "destiny": "2",
+        "power": "4",
+        "ability": "2",
+        "deploy": "3",
+        "forfeit": "4",
+        "icons": [
+          "Warrior"
+        ],
+        "characteristics": [
+          "Noghri",
+          "assassin",
+          "bodyguard",
+          "guard"
+        ],
+        "gametext": "While armed with a blaster, your assassins and leaders here are immune to Blaster Proficiency and Clash Of Sabers and, if Shadow Collective just flipped, may peek at top two cards of your Reserve Deck and take one into hand.",
+        "lore": "Noghri assassin and bodyguard."
+      },
+      "rulings": [
+        "When Shadow Collective flips, the response on You Know Who I Answer To and the response on Rukh may be performed in either order.",
+        "All bodyguards are also guards.",
+        "'Immune to Blaster Proficiency' prevents the control phase sniping function and prevents the place in Lost Pile function. It does not prevent 3 being added to weapon destiny."
+      ],
+      "legacy": false
+    },
+    {
+      "id": 6901,
+      "gempId": "215_27",
+      "side": "Dark",
+      "rarity": "C2",
+      "set": "215",
+      "printings": [
+        {
+          "set": "215"
+        }
+      ],
+      "front": {
+        "title": "•Ubrikkian Industries",
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual15-Dark/large/ubrikkianindustries.gif",
+        "type": "Effect",
+        "uniqueness": "*",
+        "destiny": "4",
+        "gametext": "Deploy on table. During your deploy phase, may reveal an alien with 'vehicle' in game text from hand to take a transport vehicle into hand (or vice versa) and deploy both simultaneously. Your drivers are immune to Clash Of Sabers. Immune to Alter.",
+        "lore": "Blank."
+      },
+      "pulledBy": [
+        "Twi'lek Advisor",
+        "We Must Accelerate Our Plans"
+      ],
+      "rulings": [
+        "The 'vice versa' function still requires the alien (not the transport vehicle) to have the word 'vehicle' in game text.",
+        "The alien must deploy aboard the transport vehicle.",
+        "If the deployment is not possible, return the card taken from Reserve Deck back to that deck and reshuffle."
+      ],
       "legacy": false
     }
   ]
