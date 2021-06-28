@@ -975,7 +975,11 @@
         "Ability, Ability, Ability + Location, Location, Location + Monnok",
         "Ability, Ability, Ability + Bad Feeling Have I, Astromech Shortage + Wrong Turn"
       ],
-      "legacy": false
+      "legacy": false,
+      "abbr": [
+        "Ability x3",
+        "AAA"
+      ]
     },
     {
       "id": 48,
@@ -1173,7 +1177,10 @@
         "Emperor Palpatine",
         "The Emperor"
       ],
-      "legacy": false
+      "legacy": false,
+      "abbr": [
+        "ATMD"
+      ]
     },
     {
       "id": 56,
@@ -1929,7 +1936,10 @@
         "TIE Vanguard"
       ],
       "counterpart": "Organized Attack",
-      "legacy": false
+      "legacy": false,
+      "abbr": [
+        "APTW"
+      ]
     },
     {
       "id": 87,
@@ -3494,7 +3504,10 @@
         "Artoo & Threepio (suspends Bad Feeling Have I)",
         "He Can Go About His Business (V) - Defensive Shield"
       ],
-      "legacy": false
+      "legacy": false,
+      "abbr": [
+        "BFHI"
+      ]
     },
     {
       "id": 6112,
@@ -5629,7 +5642,10 @@
         "Blizzard Scout 1 + Admiral Motti + Snowtroopers (at other locations).",
         "Blizzard Scout 1 + Trample Trample opponent's undercover spies."
       ],
-      "legacy": false
+      "legacy": false,
+      "abbr": [
+        "Chicken Walker"
+      ]
     },
     {
       "id": 273,
@@ -5673,7 +5689,10 @@
       "combo": [
         "Blizzard Scout 1 (V) + Trample"
       ],
-      "legacy": false
+      "legacy": false,
+      "abbr": [
+        "Chicken Walker"
+      ]
     },
     {
       "id": 274,
@@ -5915,7 +5934,11 @@
         "lore": "These heavily modified battleships are used to control and direct the Trade Federation's automated army. Easily identified by its array of sensors and antennae."
       },
       "counterpart": "Spiral",
-      "legacy": false
+      "legacy": false,
+      "abbr": [
+        "BSS",
+        "Evil Spiral"
+      ]
     },
     {
       "id": 280,
@@ -6034,7 +6057,10 @@
       "rulings": [
         "Forfeit increase applies to Bounty-type cards while transferring captives to a prison."
       ],
-      "legacy": false
+      "legacy": false,
+      "abbr": [
+        "Capture Fett"
+      ]
     },
     {
       "id": 286,
@@ -6089,7 +6115,10 @@
         "Boba Fett's Blaster Rifle",
         "Boba Fett's Blaster Rifle (V)"
       ],
-      "legacy": false
+      "legacy": false,
+      "abbr": [
+        "Capture Fett"
+      ]
     },
     {
       "id": 6138,
@@ -6318,7 +6347,13 @@
       "cancels": [
         "Mace Windu (V) prevents Fetts from adding battle destiny draws at same location"
       ],
-      "legacy": false
+      "legacy": false,
+      "abbr": [
+        "BFBH",
+        "Broken Fett",
+        "Boba Fett",
+        "BH"
+      ]
     },
     {
       "id": 293,
@@ -6753,7 +6788,10 @@
         "gametext": "May add 6 passengers and 1 vehicle. Permanent pilot is •Bossk, who provides ability of 2, adds 2 to power and adds one battle destiny. Deploys and moves like a starfighter. Has ship-docking capability.",
         "lore": "Bossk once said of his ship, 'Greeezeg out nikek!'"
       },
-      "legacy": false
+      "legacy": false,
+      "abbr": [
+        "Bossk in Bus"
+      ]
     },
     {
       "id": 4056,
@@ -7928,7 +7966,10 @@
         "Ugloste",
         "Ugnaught"
       ],
-      "legacy": false
+      "legacy": false,
+      "abbr": [
+        "CCC"
+      ]
     },
     {
       "id": 6163,
@@ -8564,7 +8605,10 @@
         "Endor Celebration",
         "Free Ride & Endor Celebration"
       ],
-      "legacy": false
+      "legacy": false,
+      "abbr": [
+        "CCO"
+      ]
     },
     {
       "id": 432,
@@ -9296,7 +9340,10 @@
         "After exchanging, the new destiny is not 'substituted'. It may be modified/canceled/reset and counts towards limits.",
         "All modifiers transfer from the old destiny card to the new one."
       ],
-      "legacy": false
+      "legacy": false,
+      "abbr": [
+        "CCF"
+      ]
     },
     {
       "id": 472,
@@ -9633,7 +9680,10 @@
         "The site's battleground status is checked immediately upon deploying.",
         "The site may be deployed even if the starting location was converted, or failed to convert an opponent's starting location."
       ],
-      "legacy": false
+      "legacy": false,
+      "abbr": [
+        "CR (V)"
+      ]
     },
     {
       "id": 482,
@@ -10318,7 +10368,10 @@
       "canceledBy": [
         "Planetary Defenses (V) - Defensive Shield (unless Death Star: Docking Bay 327 on table)"
       ],
-      "legacy": false
+      "legacy": false,
+      "abbr": [
+        "CPI"
+      ]
     },
     {
       "id": 6187,
@@ -10341,7 +10394,10 @@
         ],
         "gametext": "Once per game, deploy on Death Star; it is hyperspeed = 2. Superlaser may not target planet systems. Once during your control phase, may fire Superlaser as follows: Prepare Single Reactor Ignition: If Death Star orbiting Jedha or Scarif, target your related unique (•) battleground site, even if converted (regardless of objective restrictions). Fire!: Draw destiny. It's Beautiful: If destiny + X > 8, site is 'blown away' and opponent loses 3 Force. X = number of Death Star sites on table."
       },
-      "legacy": false
+      "legacy": false,
+      "abbr": [
+        "CPI"
+      ]
     },
     {
       "id": 510,
@@ -12219,7 +12275,10 @@
       "canceledBy": [
         "Surreptitious Glance"
       ],
-      "legacy": false
+      "legacy": false,
+      "abbr": [
+        "DD"
+      ]
     },
     {
       "id": 617,
@@ -12652,7 +12711,10 @@
         "The loser of the duel is the character with the lower total.",
         "If the duel totals are tied, there is no winner and no loser."
       ],
-      "legacy": false
+      "legacy": false,
+      "abbr": [
+        "Tat Maul"
+      ]
     },
     {
       "id": 6219,
@@ -13022,7 +13084,11 @@
       "rulings": [
         "This card is a Black Squadron pilot."
       ],
-      "legacy": false
+      "legacy": false,
+      "abbr": [
+        "Math Vader",
+        "Space Vader"
+      ]
     },
     {
       "id": 635,
@@ -13076,7 +13142,10 @@
         "Darth Vader's Lightsaber (V)",
         "Vader's Lightsaber"
       ],
-      "legacy": false
+      "legacy": false,
+      "abbr": [
+        "Space Vader"
+      ]
     },
     {
       "id": 636,
@@ -13185,7 +13254,12 @@
         "Darth Vader's Lightsaber (V)",
         "Vader's Lightsaber"
       ],
-      "legacy": false
+      "legacy": false,
+      "abbr": [
+        "DVDLOTS",
+        "DLOTS",
+        "Choke Vader"
+      ]
     },
     {
       "id": 5184,
@@ -13651,7 +13725,11 @@
         "Set Your Course For Alderaan/The Ultimate Power In The Universe"
       ],
       "counterpart": "Death Star",
-      "legacy": false
+      "legacy": false,
+      "abbr": [
+        "DS",
+        "D*"
+      ]
     },
     {
       "id": 656,
@@ -13762,7 +13840,11 @@
         "darkSideIcons": 2,
         "gametext": "Dark:  X = parsec of current position. Must deploy orbiting Endor. Death Star II locations are immune to revolution. Opponent's Force Drains +3 here unless That Thing's Operational on table.  Light:  -"
       },
-      "legacy": false
+      "legacy": false,
+      "abbr": [
+        "DSII",
+        "D*2"
+      ]
     },
     {
       "id": 659,
@@ -16206,7 +16288,10 @@
         "Dr. Evazan + Dannik Jerriko + any character weapon",
         "Dr. Evazan + Ponda Baba"
       ],
-      "legacy": false
+      "legacy": false,
+      "abbr": [
+        "Dr. E"
+      ]
     },
     {
       "id": 769,
@@ -16244,7 +16329,10 @@
         "Elis in Hinthra",
         "Murttoc Yine"
       ],
-      "legacy": false
+      "legacy": false,
+      "abbr": [
+        "Dr. E & PB"
+      ]
     },
     {
       "id": 770,
@@ -16347,7 +16435,10 @@
         "A card with asterisk deploy cost is treated as X = 0.",
         "However if any deploy cost is defined (even by another card), use the defined cost for X."
       ],
-      "legacy": false
+      "legacy": false,
+      "abbr": [
+        "DIS"
+      ]
     },
     {
       "id": 775,
@@ -17287,7 +17378,10 @@
         "If retargeted by I Have A Bad Feeling About This, it must EITHER select new characters to be transported OR select a new destination site.",
         "If using I Have A Bad Feeling About This to choose new characters, the new characters may be at the same origin site or a different origin site, but it cannot include any of the original characters."
       ],
-      "legacy": false
+      "legacy": false,
+      "abbr": [
+        "EH"
+      ]
     },
     {
       "id": 4058,
@@ -18321,7 +18415,10 @@
         "destiny": "0",
         "gametext": "Deploy on your side of table. The Circle Is Now Complete or Vader's Obsession may be played to initiate an epic duel as follows: If Vader is present with specified target, each player draws two destiny (add 1 to each destiny draw if using a lightsaber). Add character's ability. If Vader loses, place him out of play. You lose 6 Force (9 if dueling Luke). If Obi-Wan loses, place him out of play. Opponent loses 9 Force. If Luke loses, opponent must choose: Cross Luke to the Dark Side and lose X Force, Where X = Luke's ability. OR Lose Luke and lose triple X Force."
       },
-      "legacy": false
+      "legacy": false,
+      "abbr": [
+        "ED"
+      ]
     },
     {
       "id": 880,
@@ -19329,7 +19426,10 @@
         "We Must Accelerate Our Plans"
       ],
       "counterpart": "An Unusual Amount Of Fear",
-      "legacy": false
+      "legacy": false,
+      "abbr": [
+        "FIMA"
+      ]
     },
     {
       "id": 932,
@@ -19357,7 +19457,10 @@
       "combo": [
         "Fear Will Keep Them In Line + Lieutenant Venka"
       ],
-      "legacy": false
+      "legacy": false,
+      "abbr": [
+        "FWKTIL"
+      ]
     },
     {
       "id": 934,
@@ -21597,7 +21700,10 @@
         "May cancel any type of destiny such as battle destiny, weapon destiny, Sense destiny, etc.",
         "May cancel a duel destiny (if the duel takes place during a battle where Tarkin is with Vader)."
       ],
-      "legacy": false
+      "legacy": false,
+      "abbr": [
+        "GMT"
+      ]
     },
     {
       "id": 4026,
@@ -23427,7 +23533,10 @@
         "Hold Together (V)",
         "The Force Is Strong With This One (V)"
       ],
-      "legacy": false
+      "legacy": false,
+      "abbr": [
+        "IHYN"
+      ]
     },
     {
       "id": 6371,
@@ -23687,7 +23796,10 @@
         "Protector",
         "Who's Scruffy-Looking?"
       ],
-      "legacy": false
+      "legacy": false,
+      "abbr": [
+        "IJASKAW"
+      ]
     },
     {
       "id": 1243,
@@ -24343,7 +24455,10 @@
         "You Cannot Hide Forever & Mobilization Points"
       ],
       "counterpart": "Insurrection",
-      "legacy": false
+      "legacy": false,
+      "abbr": [
+        "IAO"
+      ]
     },
     {
       "id": 1259,
@@ -24392,7 +24507,10 @@
         "Light has the option to decline and cancel the retrieval.",
         "The amount of Force used ('X') equals the retrieval amount initiated, even if the Lost pile has fewer than X cards."
       ],
-      "legacy": false
+      "legacy": false,
+      "abbr": [
+        "IAO&SP"
+      ]
     },
     {
       "id": 1260,
@@ -25274,7 +25392,10 @@
       "combo": [
         "Imperial-Class Star Destroyer + Imperial Helmsman Draw one battle destiny if not able to otherwise."
       ],
-      "legacy": false
+      "legacy": false,
+      "abbr": [
+        "ICSD"
+      ]
     },
     {
       "id": 1295,
@@ -25514,7 +25635,10 @@
         "If a player loses Force from Life Force to stack here, it is not revealed.",
         "Text referring to cards stacked 'on'/'under'/'beneath' this Effect all means the same thing."
       ],
-      "legacy": false
+      "legacy": false,
+      "abbr": [
+        "IR"
+      ]
     },
     {
       "id": 1319,
@@ -28093,7 +28217,10 @@
       "canceledBy": [
         "Taym Dren-garen cancels any result of Krayt Dragon Bones when on Tatooine"
       ],
-      "legacy": false
+      "legacy": false,
+      "abbr": [
+        "KDB"
+      ]
     },
     {
       "id": 6470,
@@ -28201,7 +28328,10 @@
         "Twi'lek Advisor",
         "We Must Accelerate Our Plans"
       ],
-      "legacy": false
+      "legacy": false,
+      "abbr": [
+        "KDY"
+      ]
     },
     {
       "id": 1459,
@@ -28263,7 +28393,10 @@
       "cancels": [
         "We're In Attack Position Now"
       ],
-      "legacy": false
+      "legacy": false,
+      "abbr": [
+        "KDY (V)"
+      ]
     },
     {
       "id": 5097,
@@ -29888,7 +30021,10 @@
         "Twi'lek Advisor",
         "We Must Accelerate Our Plans"
       ],
-      "legacy": false
+      "legacy": false,
+      "abbr": [
+        "LLL"
+      ]
     },
     {
       "id": 1576,
@@ -31309,7 +31445,10 @@
         "Mantellian Savrip",
         "Opponent's Force drain at a holosite"
       ],
-      "legacy": false
+      "legacy": false,
+      "abbr": [
+        "MM"
+      ]
     },
     {
       "id": 1654,
@@ -31353,7 +31492,10 @@
         "Mantellian Savrip",
         "Opponent's force drain at a holosite"
       ],
-      "legacy": false
+      "legacy": false,
+      "abbr": [
+        "MM Combo"
+      ]
     },
     {
       "id": 1655,
@@ -31923,7 +32065,10 @@
       "cancels": [
         "Establish Control (V)"
       ],
-      "legacy": false
+      "legacy": false,
+      "abbr": [
+        "Mob Points"
+      ]
     },
     {
       "id": 1685,
@@ -36504,7 +36649,10 @@
       "canceledBy": [
         "Clash Of Sabers"
       ],
-      "legacy": false
+      "legacy": false,
+      "abbr": [
+        "POTF"
+      ]
     },
     {
       "id": 1940,
@@ -39085,7 +39233,10 @@
       "cancels": [
         "Colo Claw Fish"
       ],
-      "legacy": false
+      "legacy": false,
+      "abbr": [
+        "SAM"
+      ]
     },
     {
       "id": 2169,
@@ -39510,7 +39661,11 @@
         "Works while (for example) Mara Jade on table.",
         "Works while (for example) Darth Vader piloting an Independent starship."
       ],
-      "legacy": false
+      "legacy": false,
+      "abbr": [
+        "S&V",
+        "Scum"
+      ]
     },
     {
       "id": 2190,
@@ -39660,7 +39815,11 @@
         "You Cannot Hide Forever & Mobilization Points"
       ],
       "counterpart": "I Hope She's All Right",
-      "legacy": false
+      "legacy": false,
+      "abbr": [
+        "SD",
+        "S&D"
+      ]
     },
     {
       "id": 2194,
@@ -40942,7 +41101,10 @@
         "Twi'lek Advisor",
         "We Must Accelerate Our Plans"
       ],
-      "legacy": false
+      "legacy": false,
+      "abbr": [
+        "SITD"
+      ]
     },
     {
       "id": 2262,
@@ -41044,7 +41206,10 @@
       "combo": [
         "Sienar Fleet Systems + Commander Brandei + Dreaded Imperial Starfleet + TIE's with matching pilots."
       ],
-      "legacy": false
+      "legacy": false,
+      "abbr": [
+        "SFS"
+      ]
     },
     {
       "id": 2265,
@@ -42428,7 +42593,10 @@
       "combo": [
         "Squabbling Delegates + Orn Free Taa + Motion Supported All the high destiny you'll ever need!"
       ],
-      "legacy": false
+      "legacy": false,
+      "abbr": [
+        "Squabble"
+      ]
     },
     {
       "id": 2335,
@@ -44035,7 +44203,10 @@
         "destiny": "0",
         "gametext": "During your control phase, fire your AT-AT Cannon (if within range of the Main Power Generators) as follows: Prepare To Target The Main Generator: Draw destiny. Maximum Firepower!: If (destiny + X + Y) > 8, Main Power Generators site is 'blown away' and this card is lost. Otherwise, this card is used. X = ability of one of your AT-AT's pilots. Y = total Hoth sites you control."
       },
-      "legacy": false
+      "legacy": false,
+      "abbr": [
+        "TTMG"
+      ]
     },
     {
       "id": 2424,
@@ -44133,7 +44304,10 @@
         "gametext": "Deploy on Death Star. During your control phase, for each battleground system controlled by your Star Destroyer within 2 parsecs of Death Star, opponent loses 1 Force. Canceled if opponent controls this system.",
         "lore": "'The regional governors now have direct control over their territories. Fear will keep the local systems in line. Fear of this battle station.'"
       },
-      "legacy": false
+      "legacy": false,
+      "abbr": [
+        "FWKTIL (V)"
+      ]
     },
     {
       "id": 2427,
@@ -44852,7 +45026,10 @@
         "Neimoidian Advisor"
       ],
       "counterpart": "Tatooine: Mos Eisley",
-      "legacy": false
+      "legacy": false,
+      "abbr": [
+        "TME"
+      ]
     },
     {
       "id": 2467,
@@ -45754,7 +45931,10 @@
       "pulledBy": [
         "Death Star II: Reactor Core"
       ],
-      "legacy": false
+      "legacy": false,
+      "abbr": [
+        "TTO"
+      ]
     },
     {
       "id": 2511,
@@ -45801,7 +45981,10 @@
       "combo": [
         "The Circle Is Now Complete + Lord Vader + any lightsaber No destiny draw, bye-bye any power 6 Obi Wan (Team Stephenville favorite) (Lord Helmet)"
       ],
-      "legacy": false
+      "legacy": false,
+      "abbr": [
+        "TCINC"
+      ]
     },
     {
       "id": 2518,
@@ -46215,7 +46398,10 @@
       "cancels": [
         "Specter Of The Supreme Leader"
       ],
-      "legacy": false
+      "legacy": false,
+      "abbr": [
+        "TPM"
+      ]
     },
     {
       "id": 6695,
@@ -46344,7 +46530,10 @@
         "Twi'lek Advisor",
         "We Must Accelerate Our Plans"
       ],
-      "legacy": false
+      "legacy": false,
+      "abbr": [
+        "TINT"
+      ]
     },
     {
       "id": 2552,
@@ -46370,7 +46559,10 @@
         "lore": "'Always with you what cannot be done.'"
       },
       "counterpart": "Do, Or Do Not - Defensive Shield",
-      "legacy": false
+      "legacy": false,
+      "abbr": [
+        "TINT"
+      ]
     },
     {
       "id": 2553,
@@ -46395,7 +46587,10 @@
         "Twi'lek Advisor",
         "We Must Accelerate Our Plans"
       ],
-      "legacy": false
+      "legacy": false,
+      "abbr": [
+        "TINT/OE"
+      ]
     },
     {
       "id": 2554,
@@ -46464,7 +46659,10 @@
         "We Must Accelerate Our Plans"
       ],
       "counterpart": "What're You Tryin' To Push On Us?",
-      "legacy": false
+      "legacy": false,
+      "abbr": [
+        "TBHTP"
+      ]
     },
     {
       "id": 2556,
@@ -46516,7 +46714,10 @@
         "Twi'lek Advisor",
         "We Must Accelerate Our Plans"
       ],
-      "legacy": false
+      "legacy": false,
+      "abbr": [
+        "TMNALTC"
+      ]
     },
     {
       "id": 2559,
@@ -49818,7 +50019,10 @@
       "combo": [
         "Victory-Class Star Destroyer + Imperial Helmsman Draw one battle destiny if not able to otherwise."
       ],
-      "legacy": false
+      "legacy": false,
+      "abbr": [
+        "VSD"
+      ]
     },
     {
       "id": 2716,
@@ -50568,7 +50772,11 @@
         "We Must Accelerate Our Plans"
       ],
       "counterpart": "We Wish To Board At Once",
-      "legacy": false
+      "legacy": false,
+      "abbr": [
+        "WMAOP",
+        "Accelerate"
+      ]
     },
     {
       "id": 2756,
@@ -51270,7 +51478,10 @@
         "Twi'lek Advisor",
         "We Must Accelerate Our Plans"
       ],
-      "legacy": false
+      "legacy": false,
+      "abbr": [
+        "WTOAOT"
+      ]
     },
     {
       "id": 2813,
@@ -51297,7 +51508,10 @@
         "lore": "Darth Sidious' command was merciless and direct. He left no room for misinterpretation."
       },
       "counterpart": "Another Pathetic Lifeform - Defensive Shield",
-      "legacy": false
+      "legacy": false,
+      "abbr": [
+        "WTOAOT"
+      ]
     },
     {
       "id": 2817,
@@ -51998,7 +52212,10 @@
         "You Cannot Hide Forever & Mobilization Points"
       ],
       "counterpart": "Your Insight Serves You Well",
-      "legacy": false
+      "legacy": false,
+      "abbr": [
+        "YCHF"
+      ]
     },
     {
       "id": 2878,
@@ -52024,7 +52241,10 @@
         "lore": "'Give yourself to the dark side. It is the only way you can save your friends.'"
       },
       "counterpart": "Your Insight Serves You Well - Defensive Shield",
-      "legacy": false
+      "legacy": false,
+      "abbr": [
+        "YCHF"
+      ]
     },
     {
       "id": 2879,
@@ -52097,7 +52317,11 @@
       "cancels": [
         "Establish Control (V)"
       ],
-      "legacy": false
+      "legacy": false,
+      "abbr": [
+        "YCHF&MP",
+        "Mobilization Points Combo"
+      ]
     },
     {
       "id": 6771,
@@ -52229,7 +52453,10 @@
         "Twi'lek Advisor",
         "We Must Accelerate Our Plans"
       ],
-      "legacy": false
+      "legacy": false,
+      "abbr": [
+        "YMSYL"
+      ]
     },
     {
       "id": 2884,
@@ -52752,7 +52979,10 @@
         "Zuckuss In Mist Hunter + 4-LOM With Concussion Rifle Two battle destinies.",
         "Zuckuss In Mist Hunter + 4-LOM With Concussion Rifle + Boba Fett, Bounty Hunter Four battle destinies."
       ],
-      "legacy": false
+      "legacy": false,
+      "abbr": [
+        "ZiMH"
+      ]
     },
     {
       "id": 2915,

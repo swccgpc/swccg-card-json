@@ -2219,7 +2219,10 @@
         "We Wish To Board At Once"
       ],
       "counterpart": "Fear Is My Ally",
-      "legacy": false
+      "legacy": false,
+      "abbr": [
+        "AUAOF"
+      ]
     },
     {
       "id": 108,
@@ -2503,7 +2506,10 @@
         "Your Insight Serves You Well - Defensive Shield",
         "Your Insight Serves You Well (V) - Defensive Shield"
       ],
-      "legacy": false
+      "legacy": false,
+      "abbr": [
+        "AFA"
+      ]
     },
     {
       "id": 4080,
@@ -2533,7 +2539,10 @@
       "rulings": [
         "Cannot be canceled by Projective Telepathy."
       ],
-      "legacy": false
+      "legacy": false,
+      "abbr": [
+        "AFA (V)"
+      ]
     },
     {
       "id": 113,
@@ -4148,7 +4157,10 @@
       "rulings": [
         "A character in Bacta Tank with an asterisk deploy cost is treated as 0 deploy cost."
       ],
-      "legacy": false
+      "legacy": false,
+      "abbr": [
+        "Tank"
+      ]
     },
     {
       "id": 5089,
@@ -7522,7 +7534,10 @@
         "The site's battleground status is checked immediately upon deploying.",
         "The site may be deployed even if the starting location was converted, or failed to convert an opponent's starting location."
       ],
-      "legacy": false
+      "legacy": false,
+      "abbr": [
+        "CP (V)"
+      ]
     },
     {
       "id": 5215,
@@ -8148,7 +8163,10 @@
       "matchingWeapon": [
         "Chewbacca's Bowcaster"
       ],
-      "legacy": false
+      "legacy": false,
+      "abbr": [
+        "Angry Chewie"
+      ]
     },
     {
       "id": 404,
@@ -8350,7 +8368,10 @@
         "We Wish To Board At Once"
       ],
       "counterpart": "Ability, Ability, Ability",
-      "legacy": false
+      "legacy": false,
+      "abbr": [
+        "CD"
+      ]
     },
     {
       "id": 416,
@@ -9363,7 +9384,10 @@
         "After exchanging, the new destiny is not 'substituted'. It may be modified/canceled/reset and counts towards limits.",
         "All modifiers transfer from the old destiny card to the new one."
       ],
-      "legacy": false
+      "legacy": false,
+      "abbr": [
+        "CCF"
+      ]
     },
     {
       "id": 471,
@@ -9685,7 +9709,10 @@
         "Luke's Hunting Rifle (V)",
         "Luke's Lightsaber"
       ],
-      "legacy": false
+      "legacy": false,
+      "abbr": [
+        "Frozen Farmboy"
+      ]
     },
     {
       "id": 499,
@@ -10506,7 +10533,10 @@
         "We Wish To Board At Once",
         "Wokling (V)"
       ],
-      "legacy": false
+      "legacy": false,
+      "abbr": [
+        "CEC"
+      ]
     },
     {
       "id": 532,
@@ -11297,7 +11327,10 @@
         "Coruscant: Jedi Council Chamber + Plead My Case To The Senate Objective",
         "Coruscant: Jedi Council Chamber + Speak With The Jedi Council"
       ],
-      "legacy": false
+      "legacy": false,
+      "abbr": [
+        "JCC"
+      ]
     },
     {
       "id": 5003,
@@ -12388,7 +12421,10 @@
         "Leia's Blaster Rifle",
         "Leia's Sporting Blaster"
       ],
-      "legacy": false
+      "legacy": false,
+      "abbr": [
+        "DoS"
+      ]
     },
     {
       "id": 4067,
@@ -12499,7 +12535,11 @@
         "gametext": "Light:  Deploy if Death Star Plans completed and and Death Star system not on table. If 'blown away,' Dark Side loses 8 Force.  Dark:  X = parsec of current position (starts at 0). Immune to Revolution. You may move Death Star (hyperspeed = 1)."
       },
       "counterpart": "Death Star",
-      "legacy": false
+      "legacy": false,
+      "abbr": [
+        "DS",
+        "D*"
+      ]
     },
     {
       "id": 664,
@@ -13512,7 +13552,10 @@
         "The Signal",
         "We Wish To Board At Once"
       ],
-      "legacy": false
+      "legacy": false,
+      "abbr": [
+        "DDN"
+      ]
     },
     {
       "id": 746,
@@ -13538,7 +13581,10 @@
         "lore": "A Jedi may choose to intervene in the natural course of events, but must accept responsibility for the consequences."
       },
       "counterpart": "There Is No Try - Defensive Shield",
-      "legacy": false
+      "legacy": false,
+      "abbr": [
+        "DDN"
+      ]
     },
     {
       "id": 747,
@@ -14529,7 +14575,10 @@
         "Echo Base Operations + Echo Base Command Center + any Droid + How Did We Get Into This Mess?",
         "Echo Base Operations + Kessel + 3 Y-wings + Y-wing Assault Squadron"
       ],
-      "legacy": false
+      "legacy": false,
+      "abbr": [
+        "EBO"
+      ]
     },
     {
       "id": 806,
@@ -20412,7 +20461,11 @@
       "rulings": [
         "Gravity Shadow targets Han's 3 ability."
       ],
-      "legacy": false
+      "legacy": false,
+      "abbr": [
+        "HCATF",
+        "HCF"
+      ]
     },
     {
       "id": 5131,
@@ -20457,7 +20510,11 @@
       "combo": [
         "Han, Chewie, And The Falcon + Punch It! Adds two destinies in a defending battle."
       ],
-      "legacy": false
+      "legacy": false,
+      "abbr": [
+        "HCATF (V)",
+        "HCF (V)"
+      ]
     },
     {
       "id": 1102,
@@ -21584,7 +21641,10 @@
       "canceledBy": [
         "Suspended by Tikkes while he is in a senate majority"
       ],
-      "legacy": false
+      "legacy": false,
+      "abbr": [
+        "HoTJ"
+      ]
     },
     {
       "id": 1157,
@@ -22145,7 +22205,10 @@
       "canceledBy": [
         "Shut Him Up Or Shut Him Down"
       ],
-      "legacy": false
+      "legacy": false,
+      "abbr": [
+        "HDWGITM"
+      ]
     },
     {
       "id": 1189,
@@ -22324,7 +22387,10 @@
       "pulls": [
         "We Don't Need Their Scum"
       ],
-      "legacy": false
+      "legacy": false,
+      "abbr": [
+        "IDNTSE"
+      ]
     },
     {
       "id": 1207,
@@ -22541,7 +22607,10 @@
         "We Wish To Board At Once",
         "Wokling (V)"
       ],
-      "legacy": false
+      "legacy": false,
+      "abbr": [
+        "IMBATS"
+      ]
     },
     {
       "id": 1219,
@@ -22575,7 +22644,10 @@
         "The Signal",
         "We Wish To Board At Once"
       ],
-      "legacy": false
+      "legacy": false,
+      "abbr": [
+        "IMBATS (V)"
+      ]
     },
     {
       "id": 5598,
@@ -22686,7 +22758,10 @@
         "Your Insight Serves You Well",
         "Your Insight Serves You Well & Staging Areas"
       ],
-      "legacy": false
+      "legacy": false,
+      "abbr": [
+        "IWWTF"
+      ]
     },
     {
       "id": 1241,
@@ -22922,7 +22997,10 @@
         "Your Insight Serves You Well",
         "Your Insight Serves You Well & Staging Areas"
       ],
-      "legacy": false
+      "legacy": false,
+      "abbr": [
+        "IWYT"
+      ]
     },
     {
       "id": 1261,
@@ -23560,7 +23638,10 @@
         "Ommni Box & It's Worse",
         "Tarkin's Orders"
       ],
-      "legacy": false
+      "legacy": false,
+      "abbr": [
+        "ICBW"
+      ]
     },
     {
       "id": 1332,
@@ -23583,7 +23664,10 @@
       "pulledBy": [
         "Dagobah: Training Area"
       ],
-      "legacy": false
+      "legacy": false,
+      "abbr": [
+        "IITFYS"
+      ]
     },
     {
       "id": 1339,
@@ -25656,7 +25740,10 @@
         "The Signal",
         "We Wish To Board At Once"
       ],
-      "legacy": false
+      "legacy": false,
+      "abbr": [
+        "KTEOF"
+      ]
     },
     {
       "id": 1425,
@@ -26366,7 +26453,10 @@
       "combo": [
         "Krayt Dragon Howl + any Obi-Wan persona"
       ],
-      "legacy": false
+      "legacy": false,
+      "abbr": [
+        "KDH"
+      ]
     },
     {
       "id": 5660,
@@ -26597,7 +26687,11 @@
       "matchingWeapon": [
         "Lando's Blaster Rifle"
       ],
-      "legacy": false
+      "legacy": false,
+      "abbr": [
+        "Screaming Lando",
+        "Pissed Lando"
+      ]
     },
     {
       "id": 1469,
@@ -27409,7 +27503,11 @@
       "cancels": [
         "A Force drain at a related site (twice per game)"
       ],
-      "legacy": false
+      "legacy": false,
+      "abbr": [
+        "Leia",
+        "RP"
+      ]
     },
     {
       "id": 1500,
@@ -28448,7 +28546,10 @@
       "combo": [
         "Lift Tube Escape + Lift Tube + Dune Sea Sabacc Lift Tube and Lift Tube Escape can be tracked pretty easily for perfect Sabacc. (Indiana Jones Jedi Knight)"
       ],
-      "legacy": false
+      "legacy": false,
+      "abbr": [
+        "LTE"
+      ]
     },
     {
       "id": 1550,
@@ -29127,7 +29228,10 @@
         "Luke's Hunting Rifle (V)",
         "Luke's Lightsaber"
       ],
-      "legacy": false
+      "legacy": false,
+      "abbr": [
+        "Farmboy Luke"
+      ]
     },
     {
       "id": 1594,
@@ -29183,7 +29287,10 @@
         "Luke's Hunting Rifle (V)",
         "Luke's Lightsaber"
       ],
-      "legacy": false
+      "legacy": false,
+      "abbr": [
+        "Farmboy Luke"
+      ]
     },
     {
       "id": 1595,
@@ -29240,7 +29347,10 @@
         "Luke's Hunting Rifle (V)",
         "Luke's Lightsaber"
       ],
-      "legacy": false
+      "legacy": false,
+      "abbr": [
+        "LSJK"
+      ]
     },
     {
       "id": 1596,
@@ -29297,7 +29407,10 @@
       "cancels": [
         "Immunity to attrition of any vehicle at same site"
       ],
-      "legacy": false
+      "legacy": false,
+      "abbr": [
+        "LSRS"
+      ]
     },
     {
       "id": 1597,
@@ -29353,7 +29466,10 @@
         "Luke's Hunting Rifle (V)",
         "Luke's Lightsaber"
       ],
-      "legacy": false
+      "legacy": false,
+      "abbr": [
+        "LSRS (V)"
+      ]
     },
     {
       "id": 5703,
@@ -31208,7 +31324,10 @@
         "Qui-Gon Jinn's Lightsaber",
         "Qui-Gon's Lightsaber"
       ],
-      "legacy": false
+      "legacy": false,
+      "abbr": [
+        "Booker (V)"
+      ]
     },
     {
       "id": 5732,
@@ -33197,7 +33316,10 @@
         "If retargeted by Surprise, it must EITHER select new characters to be transported OR select a new destination site.",
         "If using Surprise to choose new characters, the new characters may be at the same origin site or a different origin site, but it cannot include any of the original characters."
       ],
-      "legacy": false
+      "legacy": false,
+      "abbr": [
+        "NL"
+      ]
     },
     {
       "id": 1752,
@@ -33566,7 +33688,10 @@
         "Your Insight Serves You Well - Defensive Shield",
         "Your Insight Serves You Well (V) - Defensive Shield"
       ],
-      "legacy": false
+      "legacy": false,
+      "abbr": [
+        "NTMTO"
+      ]
     },
     {
       "id": 1769,
@@ -33790,7 +33915,10 @@
       "pulledBy": [
         "Admiral Ackbar"
       ],
-      "legacy": false
+      "legacy": false,
+      "abbr": [
+        "NQA"
+      ]
     },
     {
       "id": 1794,
@@ -34019,7 +34147,10 @@
       "matchingWeapon": [
         "Obi-Wan's Lightsaber"
       ],
-      "legacy": false
+      "legacy": false,
+      "abbr": [
+        "Juice Obi"
+      ]
     },
     {
       "id": 1805,
@@ -34067,7 +34198,10 @@
         "Obi-Wan's Lightsaber (EP1)",
         "Qui-Gon's Lightsaber"
       ],
-      "legacy": false
+      "legacy": false,
+      "abbr": [
+        "Obi-Wan JK"
+      ]
     },
     {
       "id": 1806,
@@ -34528,7 +34662,10 @@
       "canceledBy": [
         "Heart Of The Chasm"
       ],
-      "legacy": false
+      "legacy": false,
+      "abbr": [
+        "OTE"
+      ]
     },
     {
       "id": 1822,
@@ -34797,7 +34934,10 @@
       "canceledBy": [
         "Retract The Bridge"
       ],
-      "legacy": false
+      "legacy": false,
+      "abbr": [
+        "OTE"
+      ]
     },
     {
       "id": 1836,
@@ -35300,7 +35440,11 @@
         "The Phantom Menace",
         "Visage Of The Emperor"
       ],
-      "legacy": false
+      "legacy": false,
+      "abbr": [
+        "OOC Combo",
+        "OOC&TT"
+      ]
     },
     {
       "id": 1874,
@@ -35325,7 +35469,10 @@
       "canceledBy": [
         "Take Evasive Action"
       ],
-      "legacy": false
+      "legacy": false,
+      "abbr": [
+        "OON"
+      ]
     },
     {
       "id": 1875,
@@ -35845,7 +35992,11 @@
       "matchingWeapon": [
         "Panaka's Blaster"
       ],
-      "legacy": false
+      "legacy": false,
+      "abbr": [
+        "Panaka",
+        "POTQ"
+      ]
     },
     {
       "id": 5792,
@@ -37292,7 +37443,10 @@
       "combo": [
         "Projection Of A Skywalker + a holosite"
       ],
-      "legacy": false
+      "legacy": false,
+      "abbr": [
+        "POAS"
+      ]
     },
     {
       "id": 5227,
@@ -40869,7 +41023,10 @@
       "cancels": [
         "Launching The Assault"
       ],
-      "legacy": false
+      "legacy": false,
+      "abbr": [
+        "RP"
+      ]
     },
     {
       "id": 2084,
@@ -42762,7 +42919,10 @@
       "cancels": [
         "Colo Claw Fish"
       ],
-      "legacy": false
+      "legacy": false,
+      "abbr": [
+        "SAM"
+      ]
     },
     {
       "id": 2168,
@@ -44896,7 +45056,11 @@
         "Luke's Hunting Rifle (V)",
         "Luke's Lightsaber"
       ],
-      "legacy": false
+      "legacy": false,
+      "abbr": [
+        "SOS",
+        "Muddy Farmboy"
+      ]
     },
     {
       "id": 2307,
@@ -44957,7 +45121,10 @@
       "rulings": [
         "Han, Chewie, And The Falcon gets the +1 bonus for Han firing."
       ],
-      "legacy": false
+      "legacy": false,
+      "abbr": [
+        "SATM"
+      ]
     },
     {
       "id": 2309,
@@ -44990,7 +45157,11 @@
         "Cease Fire!",
         "Imbalance & Kintan Strider (V)"
       ],
-      "legacy": false
+      "legacy": false,
+      "abbr": [
+        "SATM&BP",
+        "SATM Combo"
+      ]
     },
     {
       "id": 2310,
@@ -45437,7 +45608,10 @@
         "Your Insight Serves You Well & Staging Areas"
       ],
       "counterpart": "Combat Response",
-      "legacy": false
+      "legacy": false,
+      "abbr": [
+        "Squassins"
+      ]
     },
     {
       "id": 5922,
@@ -47862,7 +48036,10 @@
         "Tatooine: Mos Eisley + Spaceport Speeders Once you're there movement is free, so you don't need the speeder anymore. Why not sell it for 2 or 3 destiny worth of force?",
         "Fun Combo: Everybody likes bar games. Toss down a Holoboard and play a little Dejarik while throwing back a little Blue Milk in the Cantina."
       ],
-      "legacy": false
+      "legacy": false,
+      "abbr": [
+        "TME"
+      ]
     },
     {
       "id": 2468,
@@ -49825,7 +50002,11 @@
       "canceledBy": [
         "Commander Praji cancels game text"
       ],
-      "legacy": false
+      "legacy": false,
+      "abbr": [
+        "Naked Threepio",
+        "Threepio WHPS"
+      ]
     },
     {
       "id": 5976,
@@ -50606,7 +50787,10 @@
         "The Signal",
         "We Wish To Board At Once"
       ],
-      "legacy": false
+      "legacy": false,
+      "abbr": [
+        "TBM"
+      ]
     },
     {
       "id": 2653,
@@ -52576,7 +52760,10 @@
         "We Wish To Board At Once"
       ],
       "counterpart": "There'll Be Hell To Pay",
-      "legacy": false
+      "legacy": false,
+      "abbr": [
+        "WYTTPOU"
+      ]
     },
     {
       "id": 6021,
@@ -54388,7 +54575,11 @@
       "combo": [
         "Yoda, Master Of The Force + Are You Brain Dead?! Yoda, Master Of The Force + Encampment Deploy regardless of location deployment restrictions."
       ],
-      "legacy": false
+      "legacy": false,
+      "abbr": [
+        "Yoda",
+        "MOTF"
+      ]
     },
     {
       "id": 2870,
@@ -54888,7 +55079,10 @@
         "720 To 1",
         "Scanning Crew"
       ],
-      "legacy": false
+      "legacy": false,
+      "abbr": [
+        "YISYW"
+      ]
     },
     {
       "id": 2899,
@@ -54929,7 +55123,10 @@
         "Never Tell Me The Odds",
         "Restricted Access"
       ],
-      "legacy": false
+      "legacy": false,
+      "abbr": [
+        "YISYW"
+      ]
     },
     {
       "id": 2900,
