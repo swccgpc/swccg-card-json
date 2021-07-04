@@ -1489,7 +1489,7 @@
           "Warrior x2"
         ],
         "characteristics": [
-          "Togrutan",
+          "Togruta",
           "female"
         ],
         "gametext": "Subtracts 1 from opponent's battle destiny draws here. During any deploy phase, if a Padawan or a Sith character at an adjacent site, Ahsoka may move to that site (using landspeed) as a regular move. Immune to [Permanent Weapon] weapons and attrition < 5.",
@@ -13294,7 +13294,7 @@
         "characteristics": [
           "female"
         ],
-        "gametext": "If present where an opponent's character just fired a weapon, may use 1 Force to utilize Dice's poison stinger (once per turn). Target that character and draw destiny. If destiny = ability, target is 'hit'.",
+        "gametext": "If present where an opponent's character just fired a weapon, may use 1 Force to utilize Dice's poison stinger (once per turn). Target that character and draw destiny. If destiny = ability, target is 'hit.'",
         "lore": "Female companion of Lak Sivrak. A Florn lamproid. Dangerous predator with a poison stinger. Rumored to have mysterious time-shifting attunement to the Force.",
         "extraText": [
           "Force-Attuned"
@@ -19397,8 +19397,7 @@
         "Don't Do That Again - Defensive Shield",
         "Don't Do That Again (V) - Defensive Shield",
         "Harc Seff (V)",
-        "Hear Me Baby",
-        "Hold Together (V)",
+        "Hear Me Baby, Hold Together (V)",
         "Oh",
         "He's Not Dead",
         "Not Yet (V)",
@@ -20510,6 +20509,9 @@
       "combo": [
         "Han, Chewie, And The Falcon + Punch It! Adds two destinies in a defending battle."
       ],
+      "rulings": [
+        "Gravity Shadow targets Han's 3 ability."
+      ],
       "legacy": false,
       "abbr": [
         "HCATF (V)",
@@ -20552,6 +20554,10 @@
       ],
       "canceledBy": [
         "Furry Fury"
+      ],
+      "rulings": [
+        "The first function of this Interrupt does not require Han in Lost Pile to initiate.",
+        "Both functions of this Interrupt are top level actions."
       ],
       "legacy": false
     },
@@ -20670,7 +20676,7 @@
         "type": "Device",
         "uniqueness": "*",
         "destiny": "4",
-        "gametext": "Use 1 Force to deploy on one of you characters, vehicles or starships (free on Falcon or Han). While aboard a vehicle or starship, you may use 1 Force to cancel any Interrupt or Effect of any kind (except those immune to Alter or Control) which targets that vehicle or starship.",
+        "gametext": "Use 1 Force to deploy on one of your characters, vehicles or starships (free on Falcon or Han). While aboard a vehicle or starship, you may use 1 Force to cancel any Interrupt or Effect of any kind (except those immune to Alter or Control) which targets that vehicle or starship.",
         "lore": "Experienced pilots keep a well equipped toolkit. Horizontal boosters, alluvial dampers and hydrospanners aid in performing high-tech repairs aboard starships."
       },
       "pulledBy": [
@@ -20683,6 +20689,12 @@
       ],
       "cancels": [
         "Any Interrupt or Effect of any kind which targets this vehicle or starship"
+      ],
+      "rulings": [
+        "May be used as a top-level action targeting an Effect on table.",
+        "May be used in response to a just-played Effect or Interrupt.",
+        "Can be used in response to Overwhelmed (during the response window, to cancel the entire Interrupt).",
+        "Cannot be used during the result of Overwhelmed."
       ],
       "legacy": false
     },
@@ -20927,6 +20939,11 @@
         "lore": "At the Battle of Endor, Rebel starships fought to defend key capital starships, such as the Redemption."
       },
       "counterpart": "Prepared Defenses",
+      "rulings": [
+        "The Effects must be unconditionally immune to Alter according to their own game text (ignore other cards).",
+        "May deploy Staging Areas even if Fanfare is on table.",
+        "Deploy and resolve each Effect one at a time."
+      ],
       "legacy": false
     },
     {
@@ -20949,6 +20966,9 @@
         "gametext": "If opponent just targeted your starship with a starship weapon, subtract 2 from each of that weapon's destiny draws.",
         "lore": "Smuggler and Rebel starships use black market armor plating and deflector shields to withstand enemy fire. Expensive but life-saving modifications."
       },
+      "rulings": [
+        "If played against a repeating weapon, all repeated firings (even against another target) are also affected."
+      ],
       "legacy": false
     },
     {
@@ -21120,9 +21140,6 @@
         "Fire Extinguisher",
         "Hidden Compartment",
         "Holoprojector",
-        "Lando's Wrist Comlink",
-        "Luke's Backpack",
-        "Motivator (V)",
         "R2 Sensor Array",
         "Restraining Bolt",
         "Retractable Arm"
@@ -21133,6 +21150,11 @@
         "The Signal",
         "We Wish To Board At Once",
         "Wokling (V)"
+      ],
+      "rulings": [
+        "Cannot forfeit opponent's devices.",
+        "Can only take a device that specifically mentions deploying on a 'droid'.",
+        "Example: Cannot take Lando's Wrist Comlink or Rebel Flight Suit."
       ],
       "legacy": false
     },
@@ -21252,6 +21274,12 @@
         "destiny": "7",
         "gametext": "Hidden Base:Deploy Rendezvous Point. Place a planet system (with a parsec number from 1 to 8) from outside your deck face down on your side of table (not in play); that card indicates the planet where your 'Hidden Base' is located.{While} this side up, once during each of your deploy phases, may deploy one system from Reserve Deck; reshuffle. Opponent loses no more than 1 Force from each of your Force drains at systems and sectors.{Flip} this card any time after you have deployed five battleground systems and your 'Hidden Base' system.Systems Will Slip Through Your Fingers:{While} this side up, to draw a card from Force Pile, opponent must first use 1 Force. For each battleground system you control, you may cancel one opponent's Force drain (limit twice per turn). You may not deploy any systems. At each system opponent occupies during any deploy phase, opponent may 'probe' there by placing one card from hand face down beneath that system.{Place} out of play if 'Hidden Base' system is 'probed.' Dark side places 'probe' cards in Used Pile (and may retrieve 1 Force for each Probe Droid used to 'probe')."
       },
+      "rulings": [
+        "If the Hidden Base is a battleground system, it counts towards the 5 battleground systems needed to flip.",
+        "The Hidden Base marker from outside the deck matches the system on table if they have the same card title (even if they are from different sets).",
+        "Systems deployed by Light count towards flipping even if subsequently converted or blown away.",
+        "While on the 7-side, all blown away systems are considered to have been probed (even systems blown away earlier in the game)."
+      ],
       "legacy": false
     },
     {
@@ -21306,6 +21334,9 @@
       "pulledBy": [
         "The Signal",
         "We Wish To Board At Once"
+      ],
+      "rulings": [
+        "Does not work with Beggar to take cards from opponent's Force Pile."
       ],
       "legacy": false
     },
@@ -23498,6 +23529,9 @@
       "canceledBy": [
         "Blast Door Controls",
         "Imperial Code Cylinder"
+      ],
+      "rulings": [
+        "The movement is unlimited and is not restricted by landspeed."
       ],
       "legacy": false
     },
@@ -31391,10 +31425,13 @@
           "musician"
         ],
         "gametext": "Power +2 on Hoth. If at same site as another of you musicians, you may play Bith Shuffle to cancel a Force drain at an adjacent site. While at Audience Chamber, all your other musicians are deploy -1 and forfeit +3.",
-        "lore": "Ortolan musician and gambler. Leader of The Max Rebo Band. Signed a lifetime contract to Jabba in exchange for unlimited food."
+        "lore": "Ortolan musician and gambler. Head of The Max Rebo Band. Signed a lifetime contract to Jabba in exchange for unlimited food."
       },
       "combo": [
         "Max Rebo vs. Walker Garrison - If played correctly, Max can be the centerpiece of a deck which has to play against AT-AT's a lot. With his Power bonus, he becomes a reasonably potent character, and with his Force drain cancelling game text, he can stop at least one of the massive drains pumped out by Walker Garrison.  Max Rebo + Audience Chamber in a Jess-based deck - The musician deck is ready to rock as Max's deploy bonus decreases the already low deploy cost of the musicians, and Jess's text is made more useful."
+      ],
+      "rulings": [
+        "This card is not a leader. A common online 'misprint' incorrectly says leader in lore, but physical copies do not."
       ],
       "legacy": false
     },
@@ -45635,6 +45672,11 @@
         "gametext": "Deploy on table. During your deploy phase, may reveal one unpiloted Red or Rogue squadron starfighter (or vehicle) from hand to take its matching pilot character (or vice versa) from Reserve Deck and deploy both simultaneously; reshuffle. (Immune to Alter.)",
         "lore": "Rebel starfighter squadrons take great pride in their proficiency and dedication. Alliance pilots train relentlessly until man and machine function as one."
       },
+      "rulings": [
+        "The 'vice versa' function still requires the starfighter/vehicle (not the pilot) to be Red or Rogue squadron.",
+        "The pilot must deploy aboard the starfighter/vehicle.",
+        "If the deployment is not possible, return the card taken from Reserve Deck back to that deck and reshuffle."
+      ],
       "legacy": false
     },
     {
@@ -56979,7 +57021,8 @@
         "Were You Looking For Me?"
       ],
       "canceledBy": [
-        "Commander Praji cancels game text"
+        "Commander Praji cancels game text",
+		"Restraining Bolt cancels game text"
       ],
       "rulings": [
         "The Force loss is a mandatory action initiated by Light. If not initiated, it occurs automatically at end of control phase. "
@@ -57053,7 +57096,8 @@
         "We Wish To Board At Once"
       ],
       "rulings": [
-        "This causes [Set 8] Luke to be a trooper."
+        "This causes [Set 8] Luke to be a spy, stormtrooper, and trooper in all card states.",
+		"For example, [Set 8] Luke can be taken into hand by Ambush (V)."
       ],
       "legacy": false
     },
@@ -57227,7 +57271,7 @@
         "lore": "Blank."
       },
       "rulings": [
-        "You must choose one search location (hand or Reserve Deck) when initiating this action.",
+        "You must choose one search area (hand or Reserve Deck) when initiating this action.",
         "Only check if a Jedi is there when initiating this Interrupt. Removing the Jedi after that point does not remove the bonus."
       ],
       "legacy": false
@@ -57508,8 +57552,9 @@
       },
       "rulings": [
         "At Death Star sites that are 'immune to SYCFA', Dark Side's Force drains and battle damage are not canceled by SYCFA.",
-        "Excluding Leia from battle will not flip the objective back to the 0 side.",
-        "Capturing and siezing Leia (such as with IG-88 With Riot Gun) will flip the objective back to the 0 side."
+        "Excluding Leia from battle will not flip the objective back to the 0-side.",
+        "Capturing and siezing Leia (such as with IG-88 With Riot Gun) will flip the objective back to the 0-side.",
+		"On the 7-side, Leia's Blaster Rifle creates competing automatic actions. The player whose turn it is chooses whether the 1 Force loss or the character being lost happens first. If the character is lost first, the 1 Force loss does not occur."
       ],
       "legacy": false
     },
