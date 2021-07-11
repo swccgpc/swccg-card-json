@@ -11587,7 +11587,7 @@
         "gametext": "Dark:  Once per game, may deploy a character with 'Black Sun' in lore here from Reserve Deck; reshuffle.  Light:  Force drain +1 here."
       },
       "pulls": [
-        "A character with \"Black Sun\" in lore"
+        "A character with 'Black Sun' in lore"
       ],
       "legacy": false
     },
@@ -17561,6 +17561,9 @@
         "Emperor Palpatine + Janus Greejatus",
         "Emperor Palpatine + Overseeing It Personally"
       ],
+      "rulings": [
+        "Must be present at a location (not inside a starship or enclosed vehicle) to subtract 3 from attempts to cross Vader.  Vader does not need to be present at the location."
+      ],
       "legacy": false
     },
     {
@@ -21016,6 +21019,9 @@
         "Elis in Hinthra",
         "Murttoc Yine"
       ],
+      "rulings": [
+        "Does not subtract 1 from Thermal Detonator weapon destiny draws."
+      ],
       "legacy": false
     },
     {
@@ -21434,7 +21440,7 @@
       "counterpart": "Houjix",
       "combo": [
         "Ghhhk + Imperial Holotable + Mosep Mosep should be one of the prime force drain members, as the loss will come straight from the Light Side Reserve Deck.",
-        "Ghhhk + Sunsdown + Defel Defel under \"night time conditions\" fits the theme of this deck perfectly, as he can avoid combat, thus saving the use of the Ghhhk, and still be there for the counter attack."
+        "Ghhhk + Sunsdown + Defel Defel under 'night time conditions' fits the theme of this deck perfectly, as he can avoid combat, thus saving the use of the Ghhhk, and still be there for the counter attack."
       ],
       "cancels": [
         "All remaining battle damage if you just forfeited all cards that participated in a battle you lost",
@@ -22429,6 +22435,9 @@
         "Twi'lek Advisor",
         "We Must Accelerate Our Plans"
       ],
+      "rulings": [
+        "This card is canceled if the missing character is no longer missing (found, captured, leaves table, etc)."
+      ],
       "legacy": false
     },
     {
@@ -23050,6 +23059,11 @@
       "pulledBy": [
         "Lieutenant Sheckil"
       ],
+      "rulings": [
+        "For the Used function, any weapon results that would have affected the Imperial affect the captive instead.",
+        "Weapon results that don't affect a specific character (such as Force loss) do not change.",
+        "For the Lost function, captives forfeit values are affected by global modifiers (e.g. Insurrection) and modifiers that affect captives (e.g. Lieutenant Sheckil)."
+      ],
       "legacy": false
     },
     {
@@ -23077,6 +23091,10 @@
         "destiny": "7",
         "gametext": "Hunt Down And Destroy The Jedi:Deploy Holotheatre and Visage Of The Emperor. May deploy Meditation Chamber and/or Epic Duel.{While} this side up, during your move phase, may use 4 Force to take Vader into hand from a location you control (cards on him go to owner's Used Pile). Add 4 to each player's destiny draw for Sense and Alter.{Flip} this card if Vader is at a battleground site and no Light Jedi or Luke is at a battleground site.{Place} out of play if you play Scanning Crew, initiate a non-Epic duel or Force drain at an Executor site.Their Fire Has Gone Out Of The Universe:{While} this side up, opponent cannot initiate battles or Force drains where opponent has a Jedi or Skywalker. You lose no Force from Visage Of The Emperor. While Vader at Meditation Chamber, subtract 2 from each of opponent's battle destiny draws. Opponent may not play Sense or Alter.{Flip} this card if opponent has Luke or a Jedi at a battleground site or if Vader is not on table.{Place} out of play if you play Scanning Crew, initiate a non-Epic duel or Force drain at an Executor site."
       },
+      "rulings": [
+        "Dark does not lose 2 Force to deploy Visage Of The Emperor at the start of the game.",
+        "Dark does not lose 2 Force to deploy Visage Of The Emperor when this Objective is on the 7 side."
+      ],
       "legacy": false
     },
     {
@@ -23434,6 +23452,10 @@
         "An Imperial of ability < 3 (except an admiral) aboard your starship"
       ],
       "counterpart": "Antilles Maneuver (V)",
+      "rulings": [
+        "First function affects all opponent's weapons, not a specific target weapon.",
+        "First function may be played even if opponent currently has no weapons on table."
+      ],
       "legacy": false
     },
     {
@@ -23787,6 +23809,10 @@
       "canceledBy": [
         "Fanfare (V)"
       ],
+      "rulings": [
+        "Will deploy and move to/from Wampa Cave like any other marker site. Does not cause characters at Wampa Cave to go missing.",
+        "May be canceled during the response step, such as by Control, in which case it will be canceled without making any characters missing."
+      ],
       "legacy": false
     },
     {
@@ -23816,6 +23842,12 @@
         "Hold Together (V)",
         "Protector",
         "Who's Scruffy-Looking?"
+      ],
+      "rulings": [
+        "The target does deploy briefly, triggering any automatic actions (such as Objective flips) first.",
+        "The target card is placed in owner's hand, even if it was being deployed from Reserve Deck or somewhere else.",
+        "If two cards were being deployed simultaneously, such as via Squadron Assignments, both cards are equally affected (both placed in hand and may deploy free next turn).",
+        "If the target card is unique, that unique card/persona cannot deploy again this turn."
       ],
       "legacy": false,
       "abbr": [
@@ -24841,6 +24873,10 @@
         "Twi'lek Advisor",
         "We Must Accelerate Our Plans"
       ],
+      "rulings": [
+        "Triggers if Dark controls the location at any point during their Control Phase.",
+        "Of course it un-triggers if Dark Force drains there."
+      ],
       "legacy": false
     },
     {
@@ -25026,6 +25062,10 @@
         "Force generation at one location",
         "Makes a location immune to Revolution"
       ],
+      "rulings": [
+        "When initiating deployment, Dark declares which function they are using on this card.",
+        "Once deployed, only that chosen function operates until the card leaves table."
+      ],
       "legacy": false
     },
     {
@@ -25083,6 +25123,10 @@
         "destiny": "7",
         "gametext": "Imperial Occupation:Deploy any planet system and one <> site to that system. This system is the Renegade planet.{While} this side up, once during each of your deploy phases, you may deploy one <> site to the Renegade planet from Reserve Deck; reshuffle.{Flip} this card if your matching operatives control at least three battleground sites related to the Renegade planet.Imperial Control:{While} this side up, opponent's Force drains are -1. You may retrieve 1 Force whenever you deploy a matching operative to the Renegade planet. Your matching operatives on that planet are each forfeit +2 and, when at same site as a Rebel, are each power +2. When you have at least one matching operative in a battle on the Renegade planet, you may add one battle destiny.{Flip} this card if you do not occupy at least two battleground sites related to the Renegade planet."
       },
+      "rulings": [
+        "The <> site deployed at start of game must be capable of deploying to that system.",
+        "If a <> site says it may not deploy to a Renegade planet, it may not be deployed by this Objective at start of game."
+      ],
       "legacy": false
     },
     {
@@ -33828,6 +33872,10 @@
       "counterpart": "I Have A Very Bad Feeling About This",
       "cancels": [
         "A battle opponent has just reacted to"
+      ],
+      "rulings": [
+        "First function is played as a response to opponent's just deployed fourth character (or fifth, sixth, etc).",
+        "This Interrupt may be played even if the unique card Ng'ok War Beast is on table."
       ],
       "legacy": false
     },
@@ -43858,7 +43906,13 @@
         "Surprise + Death Squadron The only thing that weakens this otherwise pretty good card is that the Rebellion tends to stay away from it. Well, with Surprise, you can bring the Squadron to them."
       ],
       "rulings": [
-        "In order to relocate an Effect, it must be able to deploy on the new location at the time of playing this Interrupt (but ignore uniqueness rules)."
+        "May be played as a response to a just-initiated Interrupt or Utinni Effect, or as a top-level action targeting a Utinni Effect already on table.",
+        "When retargeting Nabrun Leids, choose either a new group of characters or a new destination site (not both).",
+        "When choosing a new group of characters for Nabrun Leids, may not include any of the original characters.",
+        "When choosing a new group of characters for Nabrun Leids, they may be a group at a different origin site.",
+        "May not retarget something that isn't chosen until the result step, such as a card being taken into hand from Reserve Deck by e.g. The Signal.",
+        "In order to relocate an Effect, it must be able to deploy on the new location at the time of playing this Interrupt (but ignore uniqueness rules).",
+        "This only relocates a regular Effect, not other types such as Immediate Effect, Mobile Effect, Utinni Effect, etc."
       ],
       "legacy": false
     },
@@ -46719,6 +46773,9 @@
       },
       "pulledBy": [
         "Jabba's Through With You"
+      ],
+      "rulings": [
+        "'Collecting a bounty' refers to retrieval on bounty Effects that occur when imprisoning a captive."
       ],
       "legacy": false
     },
@@ -51872,6 +51929,9 @@
         "Control",
         "Control & Tunnel Vision"
       ],
+      "rulings": [
+        "The Force retrieval is not considered to be 'collecting a bounty' such as for Thermal Detonator."
+      ],
       "legacy": false
     },
     {
@@ -54943,7 +55003,7 @@
         }
       ],
       "front": {
-        "title": "•Ruhk",
+        "title": "•Rukh",
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual15-Dark/large/rukh.gif",
         "type": "Character",
         "subType": "Alien",

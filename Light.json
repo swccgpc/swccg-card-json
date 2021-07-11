@@ -2910,7 +2910,7 @@
         "lore": "Representative from the Moisture Farmers of Tatooine (local 253). Pays Jabba for protection from Sand People."
       },
       "combo": [
-        "Ardon \"Vapor\" Crell + Owen Lars & Beru Lars + Vaporator + Hydroponics Station"
+        "Ardon 'Vapor' Crell + Owen Lars & Beru Lars + Vaporator + Hydroponics Station"
       ],
       "legacy": false
     },
@@ -6976,8 +6976,7 @@
         "Gold Squadron 1",
         "Millennium Falcon",
         "The Falcon",
-        "The Falcon",
-        "Junkyard Garbage"
+        "The Falcon, Junkyard Garbage"
       ],
       "matchingWeapon": [
         "Han's Heavy Blaster Pistol",
@@ -7780,8 +7779,7 @@
         "Lando In Millennium Falcon",
         "Millennium Falcon",
         "The Falcon",
-        "The Falcon",
-        "Junkyard Garbage"
+        "The Falcon, Junkyard Garbage"
       ],
       "matchingWeapon": [
         "Chewbacca's Bowcaster"
@@ -7885,11 +7883,13 @@
         "Lando In Millennium Falcon",
         "Millennium Falcon",
         "The Falcon",
-        "The Falcon",
-        "Junkyard Garbage"
+        "The Falcon, Junkyard Garbage"
       ],
       "matchingWeapon": [
         "Chewbacca's Bowcaster"
+      ],
+      "rulings": [
+        "If Leia is inactive (such as being an imprisoned or an escorted captive) then Chewie won't deploy -3."
       ],
       "legacy": false
     },
@@ -8007,8 +8007,7 @@
         "Lando In Millennium Falcon",
         "Millennium Falcon",
         "The Falcon",
-        "The Falcon",
-        "Junkyard Garbage"
+        "The Falcon, Junkyard Garbage"
       ],
       "matchingWeapon": [
         "Chewbacca's Bowcaster"
@@ -8109,8 +8108,7 @@
         "Lando In Millennium Falcon",
         "Millennium Falcon",
         "The Falcon",
-        "The Falcon",
-        "Junkyard Garbage"
+        "The Falcon, Junkyard Garbage"
       ],
       "legacy": false
     },
@@ -16275,7 +16273,7 @@
         "Sound The Attack"
       ],
       "combo": [
-        "Ewok Glider + Wicket + Ewok Spear This combo can exclude one opponent from battle, make another opponent power 0 and make a third opponent \"hit\"."
+        "Ewok Glider + Wicket + Ewok Spear This combo can exclude one opponent from battle, make another opponent power 0 and make a third opponent 'hit'."
       ],
       "legacy": false
     },
@@ -18387,8 +18385,7 @@
         "Gold Squadron 1",
         "Millennium Falcon",
         "The Falcon",
-        "The Falcon",
-        "Junkyard Garbage",
+        "The Falcon, Junkyard Garbage",
         "Tydirium"
       ],
       "matchingWeapon": [
@@ -21849,6 +21846,10 @@
       "combo": [
         "Hoth Sentry + General McQuarrie"
       ],
+      "rulings": [
+        "Increases the typical '4 ability' requirement for drawing battle destiny.",
+        "Also increases any special requirements such as on A Jedi's Strength."
+      ],
       "legacy": false
     },
     {
@@ -22067,6 +22068,9 @@
         "darkSideIcons": 0,
         "gametext": "Light:  'Hoth Energy Shield Rules' in effect. Your artillery weapons here are powered.  Dark:  'Hoth Energy Shield Rules' in effect. If 'blown away,' Light Side loses 8 Force."
       },
+      "rulings": [
+        "When you deploy this location (even at start of game), if there is no 4th, 5th, or 6th marker site on table already, you must immediately deploy the 4th marker from Reserve Deck. If it is not found there, Main Power Generators does not deploy."
+      ],
       "legacy": false
     },
     {
@@ -22392,6 +22396,10 @@
       "combo": [
         "I Did It! + Draw Their Fire If your opponent wants to be able to use any Interrupt in a battle you initiate, they will have to lose 2 Force each turn (provided you meet the conditions on I Did It!). (Psychobabble)"
       ],
+      "rulings": [
+        "A Force Pile can be placed onto a Used Pile even if one or both piles are empty.",
+        "Light can only place their own copy of Boonta Eve Podrace out of play, not the opponent's copy."
+      ],
       "legacy": false
     },
     {
@@ -22480,7 +22488,13 @@
       ],
       "counterpart": "Surprise",
       "rulings": [
-        "In order to relocate an Effect, it must be able to deploy on the new location at the time of playing this Interrupt (but ignore uniqueness rules)."
+        "May be played as a response to a just-initiated Interrupt or Utinni Effect, or as a top-level action targeting a Utinni Effect already on table.",
+        "When retargeting Elis Helrot, choose either a new group of characters or a new destination site (not both).",
+        "When choosing a new group of characters for Elis Helrot, may not include any of the original characters.",
+        "When choosing a new group of characters for Elis Helrot, they may be a group at a different origin site.",
+        "May not retarget something that isn't chosen until the result step, such as a card being taken into hand from Reserve Deck by e.g. Twi'lek Advisor.",
+        "In order to relocate an Effect, it must be able to deploy on the new location at the time of playing this Interrupt (but ignore uniqueness rules).",
+        "This only relocates a regular Effect, not other types such as Immediate Effect, Mobile Effect, Utinni Effect, etc."
       ],
       "legacy": false
     },
@@ -22536,6 +22550,9 @@
       "counterpart": "Ng'ok",
       "cancels": [
         "A battle if opponent just 'reacted' to that battle"
+      ],
+      "rulings": [
+        "First function is played as a response to opponent's just deployed fourth character (or fifth, sixth, etc)."
       ],
       "legacy": false
     },
@@ -22674,6 +22691,9 @@
         "Don't Tread On Me (V)",
         "The Signal",
         "We Wish To Board At Once"
+      ],
+      "rulings": [
+        "Playing (for example) two different Leias with different card titles does not allow Light to search their Used Pile with each Leia."
       ],
       "legacy": false,
       "abbr": [
@@ -22822,6 +22842,10 @@
       "counterpart": "Ice Storm",
       "canceledBy": [
         "Fanfare (V)"
+      ],
+      "rulings": [
+        "Will deploy and move to/from Wampa Cave like any other marker site. Does not cause characters at Wampa Cave to go missing.",
+        "May be canceled during the response step, such as by Control, in which case it will be canceled without making any characters missing."
       ],
       "legacy": false
     },
@@ -23644,6 +23668,12 @@
       "counterpart": "I'd Just As Soon Kiss A Wookiee",
       "canceledBy": [
         "Cold Feet (V)"
+      ],
+      "rulings": [
+        "The target does deploy briefly, triggering any automatic actions (such as Objective flips) first.",
+        "The target card is placed in owner's hand, even if it was being deployed from Reserve Deck or somewhere else.",
+        "If two cards were being deployed simultaneously, such as via Combat Response, both cards are equally affected (both placed in hand and may deploy free next turn).",
+        "If the target card is unique, that unique card/persona cannot deploy again this turn."
       ],
       "legacy": false
     },
@@ -26599,8 +26629,7 @@
         "Gold Squadron 1",
         "Millennium Falcon",
         "The Falcon",
-        "The Falcon",
-        "Junkyard Garbage"
+        "The Falcon, Junkyard Garbage"
       ],
       "matchingWeapon": [
         "Lando's Blaster Rifle"
@@ -26715,8 +26744,7 @@
         "Gold Squadron 1",
         "Millennium Falcon",
         "The Falcon",
-        "The Falcon",
-        "Junkyard Garbage"
+        "The Falcon, Junkyard Garbage"
       ],
       "matchingWeapon": [
         "Lando's Blaster Rifle"
@@ -28876,6 +28904,10 @@
         "destiny": "7",
         "gametext": "Local Uprising:Deploy any planet system and one <> site to that system. This system is the Subjugated planet.{While} this side up, once during each of your deploy phases, you may deploy one <> site to the Subjugated planet from Reserve Deck; reshuffle.{Flip} this card if your matching operatives control at least three battleground sites related to the Subjugated planet.Liberation:{While} this side up, opponent's Force drains are -1. You may retrieve 1 Force whenever you deploy a matching operative to the Subjugated planet. Your matching operatives on that planet are each forfeit +2 and, when at the same site as an Imperial or AT-AT, are each power +2. When you have at least one matching operative in a battle on the Subjugated planet, you may add one battle destiny.{Flip} this card if you do not occupy at least two battleground sites related to the Subjugated planet."
       },
+      "rulings": [
+        "The <> site deployed at start of game must be capable of deploying to that system.",
+        "If a <> site says it may not deploy to a Subjugated planet, it may not be deployed by this Objective at start of game."
+      ],
       "legacy": false
     },
     {
@@ -41611,8 +41643,7 @@
         "Jakku: Rey's Encampment"
       ],
       "matching": [
-        "The Falcon",
-        "Junkyard Garbage"
+        "The Falcon, Junkyard Garbage"
       ],
       "legacy": false
     },
@@ -44924,8 +44955,7 @@
       "matching": [
         "Millennium Falcon",
         "The Falcon",
-        "The Falcon",
-        "Junkyard Garbage"
+        "The Falcon, Junkyard Garbage"
       ],
       "matchingWeapon": [
         "Han's Heavy Blaster Pistol",
@@ -48666,7 +48696,7 @@
       ],
       "combo": [
         "Tendau Bendon + Plea To The Court Cancel a Force drain and protect your characters from weapons!",
-        "Tendau Bendon + Yoda Stew The perfect late-game combo. Stew on his turn to place 4 you want in Force Pile. Bendon on your control phase to move the rest of your hand into Used. Now you are good shape \"differentially\", and you can draw back the 1-4 you actually want!"
+        "Tendau Bendon + Yoda Stew The perfect late-game combo. Stew on his turn to place 4 you want in Force Pile. Bendon on your control phase to move the rest of your hand into Used. Now you are good shape 'differentially', and you can draw back the 1-4 you actually want!"
       ],
       "legacy": false
     },
@@ -49123,7 +49153,7 @@
       "combo": [
         "The Gravest of Circumstances + Sanity And Compassion + draw Horoxx Ryyder Horox is a destiny 3, +3 for a flipped Senators objective, +3 if you can drop a senator from hand on the Political Effect. Congratulations, you just drew a 9 for destiny.",
         "The Gravest of Circumstances + Taxation Agenda there + I Did It! Your Senators/Podracing deck is now a nasty inflicting direct damage/choke combo. The opponent's choices are basically: lose 2 on his turn, use 1 on your turn OR save no Force on his turn and lose 1 on your turn. (Joh) Yowza!",
-        "Anecdote: All effects and the objective were playtested initially, and then the agenda's and secondary texts were added later for the second phase of playtest. Political Effects only became \"Political Effects\" at this time."
+        "Anecdote: All effects and the objective were playtested initially, and then the agenda's and secondary texts were added later for the second phase of playtest. Political Effects only became 'Political Effects' at this time."
       ],
       "canceledBy": [
         "Alter (EP1)"
@@ -49511,6 +49541,9 @@
         "gametext": "Plays on Your Destiny unless Leia or Luke has been deployed this game (even as a captive). [Death Star II] Luke and We're The Bait are lost. Opponent's Objective and [Death Star II] Effects target Leia instead of Luke. Force loss from Take Your Father's Place is -1.",
         "lore": "Princess Leia Organa. Alderaanian senator. Targeted by Vader for capture and interrogation. The Datk Lord of the Sith wanted her alive."
       },
+      "rulings": [
+        "If the card Luke Skywalker, The Emperor's Prize was successfully deployed at the start of the game, There Is Another may not be played that game."
+      ],
       "legacy": false
     },
     {
@@ -55888,8 +55921,7 @@
         "Lando In Millennium Falcon",
         "Millennium Falcon",
         "The Falcon",
-        "The Falcon",
-        "Junkyard Garbage"
+        "The Falcon, Junkyard Garbage"
       ],
       "matchingWeapon": [
         "Chewbacca's Bowcaster"
