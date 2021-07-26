@@ -2370,8 +2370,7 @@
         "General Leia Organa",
         "Leia (V)",
         "Leia With Blaster Rifle",
-        "Leia",
-        "Rebel Princess",
+        "Leia, Rebel Princess",
         "Luke Skywalker",
         "Luke Skywalker (V)",
         "Luke Skywalker",
@@ -3901,7 +3900,6 @@
       "pulls": [
         "Aved Luun",
         "Het Nkik",
-        "Het Nkik (V)",
         "Jawa",
         "Jawa (EP1)",
         "Kalit",
@@ -8477,6 +8475,9 @@
       ],
       "cancels": [
         "Presence Of The Force"
+      ],
+      "rulings": [
+        "Works with a character with a permanent lightsaber weapon (even if their game text has been canceled)."
       ],
       "legacy": false
     },
@@ -15036,6 +15037,9 @@
         "Wokling (V)"
       ],
       "counterpart": "Baniss Keeg",
+      "rulings": [
+        "If canceled while character is piloting, character moves to a passenger slot if available, otherwise character is placed in Used Pile."
+      ],
       "legacy": false
     },
     {
@@ -17996,7 +18000,7 @@
         "Corporal Kensaric",
         "Corporal Midge",
         "Dresselian Commando",
-        "Ellors Madak",
+        "Ellorrs Madak",
         "Pilot Instructor",
         "Endor Commando Team",
         "Endor Scout Trooper",
@@ -21244,6 +21248,12 @@
         "Aved Luun",
         "General Crix Madine to deploy to same location"
       ],
+      "rulings": [
+        "Opponent's use of Force to deploy this card is mandatory.",
+        "May not be deployed if either player cannot pay.",
+        "Anything that modifies or resets the deploy cost affects the cost for both players.",
+        "If game text is canceled, the asterisk is treated as an unmodifiable zero."
+      ],
       "legacy": false
     },
     {
@@ -22614,8 +22624,7 @@
         "Leia (V)",
         "Leia Organa",
         "Leia With Blaster Rifle",
-        "Leia",
-        "Rebel Princess",
+        "Leia, Rebel Princess",
         "Princess Leia",
         "Princess Leia (V)",
         "Princess Organa",
@@ -23440,6 +23449,9 @@
       "combo": [
         "Insertion Planning + Rebel Strike Team / Garrison Destroyed"
       ],
+      "rulings": [
+        "Second function may target a vehicle moving 'through' your scout's site. If the driver is removed, the vehicle halts at that site."
+      ],
       "legacy": false
     },
     {
@@ -23727,6 +23739,9 @@
       },
       "pulledBy": [
         "Dagobah: Training Area"
+      ],
+      "rulings": [
+        "If a card says to 'shuffle Reserve Deck and draw destiny' then Light should shuffle normally first, and may then substitute the draw with the card stacked here."
       ],
       "legacy": false,
       "abbr": [
@@ -24131,7 +24146,7 @@
         }
       ],
       "front": {
-        "title": "•Jabba's Prize/Jabba's Prize",
+        "title": "•Jabba's Prize/Jabba's Prize (V)",
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual0-Light/large/jabbasprizefront.gif",
         "type": "Character",
         "subType": "Rebel",
@@ -24147,7 +24162,7 @@
         ]
       },
       "back": {
-        "title": "•Jabba's Prize/Jabba's Prize",
+        "title": "•Jabba's Prize/Jabba's Prize (V)",
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual0-Light/large/jabbasprizeback.gif",
         "type": "Character",
         "subType": "Rebel",
@@ -24161,6 +24176,10 @@
           "Carbon-Frozen"
         ]
       },
+      "rulings": [
+        "If Light includes this card, they must reveal it when it is time to deploy their Starting Effect and must then follow the instructions.",
+        "If Light plays You Can Either Profit By This... and Dark plays Carbon Chamber Testing with Jabba's Prize, Jabba's Prize (V) will start in the Security Tower and Light will have their Han card start at Audience Chamber."
+      ],
       "legacy": false
     },
     {
@@ -24519,6 +24538,12 @@
         "Nar Shaddaa Wind Chimes & Out Of Somewhere"
       ],
       "counterpart": "Jawa (EP1)",
+      "rulings": [
+        "Opponent's use of Force to deploy this card is mandatory.",
+        "May not be deployed if either player cannot pay.",
+        "Anything that modifies or resets the deploy cost affects the cost for both players.",
+        "If game text is canceled, the asterisk is treated as an unmodifiable zero."
+      ],
       "legacy": false
     },
     {
@@ -24556,6 +24581,12 @@
         "Nar Shaddaa Wind Chimes & Out Of Somewhere"
       ],
       "counterpart": "Jawa",
+      "rulings": [
+        "Opponent's use of Force to deploy this card is mandatory.",
+        "May not be deployed if either player cannot pay.",
+        "Anything that modifies or resets the deploy cost affects the cost for both players.",
+        "If game text is canceled, the asterisk is treated as an unmodifiable zero."
+      ],
       "legacy": false
     },
     {
@@ -27565,10 +27596,13 @@
       "cancels": [
         "A Force drain at a related site (twice per game)"
       ],
+      "rulings": [
+        "Mara Jade is an alien (not a non-alien).",
+        "If a non-alien is excluded and this causes Leia's text to make Light control the site, the excluded character is still active for the purposes of Objective flip conditions (e.g. Imperial Entanglements) and for the purposes of preventing cards like Search And Destroy from leaving table."
+      ],
       "legacy": false,
       "abbr": [
-        "Leia",
-        "RP"
+        "Leia RP"
       ]
     },
     {
@@ -27601,8 +27635,7 @@
         "Leia Organa",
         "Leia Organa (V)",
         "Leia With Blaster Rifle",
-        "Leia",
-        "Rebel Princess",
+        "Leia, Rebel Princess",
         "Princess Leia",
         "Princess Leia (V)",
         "Princess Leia Organa",
@@ -27645,8 +27678,7 @@
         "Daughter Of Skywalker",
         "Daughter Of Skywalker (V)",
         "Leia Organa",
-        "Leia",
-        "Rebel Princess",
+        "Leia, Rebel Princess",
         "Princess Leia",
         "Princess Leia (V)",
         "Princess Leia Organa",
@@ -27689,8 +27721,7 @@
         "Daughter Of Skywalker",
         "Daughter Of Skywalker (V)",
         "Leia Organa",
-        "Leia",
-        "Rebel Princess",
+        "Leia, Rebel Princess",
         "Princess Leia",
         "Princess Leia (V)",
         "Princess Leia Organa",
@@ -39637,6 +39668,9 @@
         "Pucumir Thryss (to same Cloud City site)"
       ],
       "counterpart": "Imperial Pilot",
+      "rulings": [
+        "Two copies of this card piloting the same starship only increases the starship's power by 2, not 4."
+      ],
       "legacy": false
     },
     {
@@ -39788,7 +39822,8 @@
           "Warrior"
         ],
         "characteristics": [
-          "leader",
+          "guard",
+		  "leader",
           "trooper"
         ],
         "gametext": "Adds 1 to forfeit of your other troopers and Rebel Guards at same site. When moving with a 'squad' of exactly three other troopers and/or Rebel Guards, all four move for 1 Force. Rebel Guards at same site may move.",
@@ -45268,7 +45303,6 @@
         "Ewok Sentry",
         "Geezum",
         "Het Nkik",
-        "Het Nkik (V)",
         "Joh Yowza",
         "Kabe",
         "Ketwol",
@@ -46290,6 +46324,10 @@
       "counterpart": "Inconsequential Losses",
       "canceledBy": [
         "Walker Sighting (V)"
+      ],
+      "rulings": [
+        "A character/starship/vehicle may only forfeit a weapon that is deployed directly on itself.",
+        "Causes all of your forfeited weapons go to Used Pile, even if not forfeited via this Effect (e.g. artillery weapons being forfeited normally)."
       ],
       "legacy": false
     },

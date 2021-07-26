@@ -3613,6 +3613,9 @@
         "We Must Accelerate Our Plans"
       ],
       "counterpart": "Ellorrs Madak",
+      "rulings": [
+        "If canceled while character is piloting, character moves to a passenger slot if available, otherwise character is placed in Used Pile."
+      ],
       "legacy": false
     },
     {
@@ -8350,6 +8353,9 @@
         "Chokk + Gamall Wironicc Power 11 while defending a battle and they double the weapons protection for your characters.",
         "Chokk + Mighty Jabba + Ephant Mon"
       ],
+      "rulings": [
+        "Chokk's last sentence applies only to Dark's characters who are at the same site as Chokk and are present at that site. Chokk himself could be in a starship or enclosed vehicle."
+      ],
       "legacy": false
     },
     {
@@ -12717,6 +12723,9 @@
         "The loser of the duel is the character with the lower total.",
         "If the duel totals are tied, there is no winner and no loser."
       ],
+      "rulings": [
+        "If a character of ability > 3 is excluded and this causes Maul's text to make Dark control the location, the excluded character is still active for the purposes of Objective flip conditions (e.g. Quiet Mining Colony) and for the purposes of preventing cards like Haven from leaving table."
+      ],
       "legacy": false,
       "abbr": [
         "Tat Maul"
@@ -13436,6 +13445,12 @@
       },
       "pulledBy": [
         "Herat"
+      ],
+      "rulings": [
+        "Opponent's use of Force to deploy this card is mandatory.",
+        "May not be deployed if either player cannot pay.",
+        "Anything that modifies or resets the deploy cost affects the cost for both players.",
+        "If game text is canceled, the asterisk is treated as an unmodifiable zero."
       ],
       "legacy": false
     },
@@ -14576,6 +14591,9 @@
       },
       "pulledBy": [
         "Dark Rage"
+      ],
+      "rulings": [
+        "Works with a character with a permanent lightsaber weapon (even if their game text has been canceled)."
       ],
       "legacy": false
     },
@@ -16986,7 +17004,7 @@
           "Pilot",
           "Death Star II"
         ],
-        "gametext": "Adds 2 to power of anything he pilots, 3 when piloting Black 5.  While piloting Black 5, it is maneuver +1 and he draws one battle destiny if not able to otherwise.  If at opponent's system, instead of Force draining here, may take any card into hand from Force Pile; reshuffle.",
+        "gametext": "Adds 2 to power of anything he pilots, 3 when piloting Black 5.  While piloting Black 5, it is maneuver +1 and he draws one battle destiny if not able to otherwise.  If at opponent's system, instead of Force draining here, may take any one card into hand from Force Pile; reshuffle.",
         "lore": "-"
       },
       "matching": [
@@ -23062,6 +23080,7 @@
       "rulings": [
         "For the Used function, any weapon results that would have affected the Imperial affect the captive instead.",
         "Weapon results that don't affect a specific character (such as Force loss) do not change.",
+		"A hit captive is immediately lost (even during battle).",
         "For the Lost function, captives forfeit values are affected by global modifiers (e.g. Insurrection) and modifiers that affect captives (e.g. Lieutenant Sheckil)."
       ],
       "legacy": false
@@ -23306,6 +23325,12 @@
       ],
       "canceledBy": [
         "Blue Milk"
+      ],
+      "rulings": [
+        "The requirement of being with a captive applies to both the yes-no question option and the add 1 to Force drain option.",
+        "Does not work with frozen captives.",
+        "May only choose one option each turn.",
+        "If stolen by Light, neither option may be used."
       ],
       "legacy": false
     },
@@ -25157,6 +25182,9 @@
         "lore": "Among the Empire's best pilots. Loyal and fearless. Use superior numbers to overwhelm opponents. Trained under combat conditions. Wear sealed, high-gravity flight suits."
       },
       "counterpart": "Rebel Pilot",
+      "rulings": [
+        "Two copies of this card piloting the same starship only increases the starship's power by 2, not 4."
+      ],
       "legacy": false
     },
     {
@@ -25520,6 +25548,10 @@
         "You Cannot Hide Forever & Mobilization Points"
       ],
       "counterpart": "Superficial Damage",
+      "rulings": [
+        "A character/starship/vehicle may only forfeit a weapon that is deployed directly on itself.",
+        "Causes all of your forfeited weapons go to Used Pile, even if not forfeited via this Effect (e.g. artillery weapons being forfeited normally)."
+      ],
       "legacy": false
     },
     {
@@ -25819,6 +25851,10 @@
         ],
         "gametext": "Invasion:Deploy Naboo system with Blockade Flagship there, swamp, and Droid Racks.{For} remainder of game, you may not deploy cards with ability except [Trade Federation] starships and characters with 'Trade Federation' in lore. Civil Disorder is canceled.{While} this side up, once during your deploy phase may deploy a Naboo site from Reserve Deck; reshuffle. Opponent's Force icons at Naboo system are canceled.{Flip} this card if you control Theed Palace Throne Room (with a Neimoidian there) and Naboo system.In Complete Control:{While} this side up, you lose no more than 2 Force to any Force drain. Your battle droids deploy -1. If you have two [Presence] droids with different card titles (or a [Presence] droid and a Neimoidian) in battle at a site, draw two battle destiny if unable to otherwise. Your droid starfighters are immune to attrition < 3. If opponent just drew an Interrupt for battle destiny, once per battle you may place that card out of play.{Flip} this card if opponent controls Naboo system or Theed Palace Throne Room."
       },
+      "rulings": [
+        "While 0-side is up, Naboo is a non-battleground in all states. For example, it may not be deployed by cards that deploy a battleground and it does not count towards the five battleground systems for Hidden Base.",
+        "As an exception, Naboo is considered a battleground during the 'start of game' when being checked by cards such as Careful Planning (V)."
+      ],
       "legacy": false
     },
     {
@@ -26078,6 +26114,10 @@
       "canceledBy": [
         "Force drain bonus is canceled by Captive Fury"
       ],
+      "rulings": [
+        "Does not count frozen captives.",
+        "If stolen by Light, its Force drain bonus does not work."
+      ],
       "legacy": false
     },
     {
@@ -26132,6 +26172,10 @@
       "cancels": [
         "It Could Be Worse"
       ],
+      "rulings": [
+        "Increases the original Force loss amount, for example a Force drain of 1 could be increased to a drain of 6, then finally the damage capped to 2 by Ultimatum.",
+        "Responses to the original Force loss are no longer possible, for example a Force drain that has been increased can no longer be canceled by Control."
+      ],
       "legacy": false
     },
     {
@@ -26181,6 +26225,10 @@
       ],
       "combo": [
         "I've lost Artoo! + Lateral Damage (NateA)"
+      ],
+      "rulings": [
+        "If this Effect is canceled, the nav computer it removed (if any) is restored.",
+        "If this Effect is canceled, the added astromech capacity is removed. If this results in insufficient capacity, astromech owner moves it to a passenger slot (if available), otherwise place astromech in Used Pile."
       ],
       "legacy": false
     },
@@ -26705,6 +26753,11 @@
         "gametext": "{Deploys only at start of game if Carbon Chamber Testing is on table to Security Tower, frozen and imprisoned, (instead of a Rebel from opponent's Reserve Deck). If You Can Either Profit By This... is on table, opponent does not deploy Han at start of game (relocate Jabba's Prize to Audience Chamber, flip Carbon Chamber Testing, and you may not move or transfer Jabba's Prize)}. May not be placed in Reserve Deck. Jabba's Prize is a persona of Han only while on table. If Jabba's Prize leaves table, place it out of play. May not be targeted by We're The Bait or Someone Who Loves You. While Jabba's Prize is at Audience Chamber, Jabba is power +3, defense value +3, and adds 3 to his immunity to attrition. If Jabba's Prize was just released, opponent may replace it with any Han from hand, Used Pile, or Reserve Deck; reshuffle (if not replaced, place Jabba's Prize out of play).",
         "lore": "Han Solo was frozen in carbonite to test the process Vader planned to use on Luke. When Boba Fett delivered Han to Jabba, the vile gangster called him his 'favorite decoration.'"
       },
+      "rulings": [
+        "Must be used with Carbon Chamber Testing and the instructions must be followed at the start of game.",
+        "Despite being a captive, all of this card's text is applicable whenever appropriate.",
+        "If freed while You Can Either Profit By This... on table, Light flips that objective first, then retrieves 10 Force for the 0 power Han, and then finally may replace Jabba's Prize with a Han card."
+      ],
       "legacy": false
     },
     {
@@ -27238,6 +27291,12 @@
         "Herat to deploy to same location"
       ],
       "counterpart": "Jawa (EP1)",
+      "rulings": [
+        "Opponent's use of Force to deploy this card is mandatory.",
+        "May not be deployed if either player cannot pay.",
+        "Anything that modifies or resets the deploy cost affects the cost for both players.",
+        "If game text is canceled, the asterisk is treated as an unmodifiable zero."
+      ],
       "legacy": false
     },
     {
@@ -27272,6 +27331,12 @@
         "Herat to deploy to same location"
       ],
       "counterpart": "Jawa",
+      "rulings": [
+        "Opponent's use of Force to deploy this card is mandatory.",
+        "May not be deployed if either player cannot pay.",
+        "Anything that modifies or resets the deploy cost affects the cost for both players.",
+        "If game text is canceled, the asterisk is treated as an unmodifiable zero."
+      ],
       "legacy": false
     },
     {
@@ -44390,10 +44455,11 @@
         "gametext": "Deploy on Death Star. During your control phase, for each battleground system controlled by your Star Destroyer within 2 parsecs of Death Star, opponent loses 1 Force. Canceled if opponent controls this system.",
         "lore": "'The regional governors now have direct control over their territories. Fear will keep the local systems in line. Fear of this battle station.'"
       },
-      "legacy": false,
-      "abbr": [
-        "FWKTIL (V)"
-      ]
+      "rulings": [
+        "If there are (for example) 2 applicable systems, this card initiates a single instance of 2 Force loss (not '1 and 1').",
+        "This mandatory action may be initiated by Dark as a top-level action. If both players pass consecutively during Dark's control phase and this hasn't been initiated yet, it initiates itself as an automatic action."
+      ],
+      "legacy": false
     },
     {
       "id": 2427,
@@ -52239,6 +52305,9 @@
       "cancels": [
         "Uncontrollable Fury"
       ],
+      "rulings": [
+        "Works with a character with a permanent lightsaber weapon (even if their game text has been canceled)."
+      ],
       "legacy": false
     },
     {
@@ -53472,6 +53541,12 @@
           "Teras Kasi 5"
         ]
       },
+      "rulings": [
+        "Prevents Dodge (and other 'move away' cards) moving a character to or from his site as a 'react.'",
+        "Prevents Sandspeeder (and other 'move to' cards) moving to or from his site as a 'react.'",
+        "Prevents (for example) Snivvian deploying to his site as a 'react.'",
+        "Immunity to attrition is determined only at the start of the Damage Segment and does not change if Qi'ra is subsequently forfeited."
+      ],
       "legacy": false
     },
     {
@@ -54988,6 +55063,9 @@
       },
       "rulings": [
         "When Force drains = 2, they cannot be modified, but the Force loss could be modified by (for example) It Could Be Worse."
+      ],
+      "rulings": [
+        "May only deploy on the Executor starship card (not on an Executor site)."
       ],
       "legacy": false
     },
