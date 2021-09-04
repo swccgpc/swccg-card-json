@@ -1,0 +1,49 @@
+---
+
+name: Cleanup
+
+on: 
+  push: 
+    branches: 
+      - main
+    paths:
+      - '*.json'
+
+jobs:
+  dewit: 
+    runs-on: "ubuntu-latest"
+
+    steps:
+      ## https://github.com/actions/checkout
+      - uses: actions/checkout@v2
+        with:
+          persist-credentials: false # otherwise, the token used is the GITHUB_TOKEN, instead of your personal token
+          fetch-depth: 0 # otherwise, you will failed to push refs to dest repo
+          path: cleanup
+
+      - name: Fix SmartQuotes
+        run: |
+          echo "PWD: $(pwd)"
+          if [ $(basename $(pwd)) != "cleanup" ]; then
+            cd cleanup
+          fi
+          for JSON in $(ls *.json); do
+            sed -i "s/’/'/g" $JSON
+            sed -i 's/[”“]/"/g' $JSON
+          done
+
+
+      - name: Commit files
+        run: |
+          git config --local user.email "devon+github-actions[bot]@hubner.org"
+          git config --local user.name "github-actions[bot]"
+          git add -A *.json ; true
+          git commit -m "Fixing SmartQuotes" -a ; true
+
+
+      ## https://github.com/ad-m/github-push-action
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }}

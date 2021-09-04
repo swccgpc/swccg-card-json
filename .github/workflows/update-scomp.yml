@@ -18,20 +18,6 @@ jobs:
           path: swccg-card-json
 
 
-      #- name: Create ssh key
-      #  run: |
-      #    echo "${{ secrets.SWCCG_CARD_JSON }}" > swccg-card-json.pem
-      #    ls swccg-card-json.pem
-
-      #- uses: actions/checkout@main
-      #  with:
-      #    repository: "git@github.com:swccgpc/swccg-scomp.git"
-      #    ssh-key: "${{ secrets.SWCCG_CARD_JSON }}"
-      #    ssh-strict: false
-      #    persist-credentials: false
-      #    fetch-depth: 0 # otherwise, you will failed to push refs to dest repo
-      #    path: swccg-scomp
-
       - name: Commit json files
         run: |
           echo
@@ -41,7 +27,6 @@ jobs:
           echo
           echo "git: [$(which git)]: $(git --version)"
           echo
-          #cd /home/runner/work/swccg-card-json
           echo "should be in /home/runner/work/swccg-card-json: [$(pwd)]"
           echo
           echo "${{ secrets.SWCCG_CARD_JSON }}" > swccg-card-json.pem
@@ -75,11 +60,6 @@ jobs:
           rm ../swccg-card-json.pem
 
 
-      #- name: Push changes
-      #  uses: ad-m/github-push-action@master
-      #  with:
-      #    github_token: ${{ secrets.GITHUB_TOKEN }}
-      #    branch: ${{ github.ref }}
 
 
 
