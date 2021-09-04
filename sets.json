@@ -294,7 +294,7 @@
     "cycle_code": "full",
     "date_release": "0000-00-00",
     "position": -99,
-    "size": -99
+    "size": 152
   },
   {
     "id": "201",
@@ -305,7 +305,7 @@
     "cycle_code": "full",
     "date_release": "0000-00-00",
     "position": -99,
-    "size": -99
+    "size": 47
   },
   {
     "id": "202",
@@ -316,7 +316,7 @@
     "cycle_code": "full",
     "date_release": "0000-00-00",
     "position": -99,
-    "size": -99
+    "size": 17
   },
   {
     "id": "203",
@@ -327,7 +327,7 @@
     "cycle_code": "full",
     "date_release": "0000-00-00",
     "position": -99,
-    "size": -99
+    "size": 41
   },
   {
     "id": "204",
@@ -338,7 +338,7 @@
     "cycle_code": "full",
     "date_release": "0000-00-00",
     "position": -99,
-    "size": -99
+    "size": 64
   },
   {
     "id": "205",
@@ -349,7 +349,7 @@
     "cycle_code": "full",
     "date_release": "0000-00-00",
     "position": -99,
-    "size": -99
+    "size": 27
   },
   {
     "id": "206",
@@ -360,7 +360,7 @@
     "cycle_code": "full",
     "date_release": "0000-00-00",
     "position": -99,
-    "size": -99
+    "size": 17
   },
   {
     "id": "207",
@@ -371,7 +371,7 @@
     "cycle_code": "full",
     "date_release": "0000-00-00",
     "position": -99,
-    "size": -99
+    "size": 32
   },
   {
     "id": "208",
@@ -382,7 +382,7 @@
     "cycle_code": "full",
     "date_release": "0000-00-00",
     "position": -99,
-    "size": -99
+    "size": 64
   },
   {
     "id": "209",
@@ -393,7 +393,7 @@
     "cycle_code": "full",
     "date_release": "0000-00-00",
     "position": -99,
-    "size": -99
+    "size": 56
   },
   {
     "id": "210",
@@ -402,9 +402,9 @@
     "abbr": "V10",
     "legacy": false,
     "cycle_code": "full",
-    "date_release": "0000-00-00",
+    "date_release": "2019-01-09",
     "position": -99,
-    "size": -99
+    "size": 44
   },
   {
     "id": "211",
@@ -413,9 +413,9 @@
     "abbr": "V11",
     "legacy": false,
     "cycle_code": "full",
-    "date_release": "0000-00-00",
+    "date_release": "2019-01-11",
     "position": -99,
-    "size": -99
+    "size": 65
   },
   {
     "id": "212",
@@ -424,9 +424,9 @@
     "abbr": "V12",
     "legacy": false,
     "cycle_code": "full",
-    "date_release": "0000-00-00",
+    "date_release": "2021-01-01",
     "position": -99,
-    "size": -99
+    "size": 9
   },
   {
     "id": "213",
@@ -435,9 +435,9 @@
     "abbr": "V13",
     "legacy": false,
     "cycle_code": "full",
-    "date_release": "0000-00-00",
+    "date_release": "2020-12-18",
     "position": -99,
-    "size": -99
+    "size": 63
   },
   {
     "id": "214",
@@ -446,9 +446,9 @@
     "abbr": "V14",
     "legacy": false,
     "cycle_code": "full",
-    "date_release": "0000-00-00",
+    "date_release": "2021-03-18",
     "position": -99,
-    "size": -99
+    "size": 24
   },
   {
     "id": "215",
@@ -457,9 +457,20 @@
     "abbr": "V15",
     "legacy": false,
     "cycle_code": "full",
-    "date_release": "0000-00-00",
+    "date_release": "2021-06-21",
     "position": -99,
-    "size": -99
+    "size": 30
+  },
+  {
+    "id": "216",
+    "name": "Virtual Set 16",
+    "gempName": "Set 16",
+    "abbr": "V16",
+    "legacy": false,
+    "cycle_code": "full",
+    "date_release": "2021-09-03",
+    "position": -99,
+    "size": 53
   },
   {
     "id": "301",
@@ -470,7 +481,7 @@
     "cycle_code": "full",
     "date_release": "0000-00-00",
     "position": -99,
-    "size": -99
+    "size": 8
   },
   {
     "id": "401",
