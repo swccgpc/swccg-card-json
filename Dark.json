@@ -12721,9 +12721,7 @@
       ],
       "rulings": [
         "The loser of the duel is the character with the lower total.",
-        "If the duel totals are tied, there is no winner and no loser."
-      ],
-      "rulings": [
+        "If the duel totals are tied, there is no winner and no loser.",
         "If a character of ability > 3 is excluded and this causes Maul's text to make Dark control the location, the excluded character is still active for the purposes of Objective flip conditions (e.g. Quiet Mining Colony) and for the purposes of preventing cards like Haven from leaving table."
       ],
       "legacy": false,
@@ -14737,10 +14735,6 @@
         "gametext": "Use 3 Force to deploy on any Star Destroyer. Adds 2 to armor. If starship has immunity to attrition, also adds 2 to immunity.",
         "lore": "Located atop the superstructure of a Star Destroyer, the generator towers create an energy shield which repels solid objects and weapons fire."
       },
-      "pulledBy": [
-        "Tatooine: Imperial Vanguard Camp (V)",
-        "Warrant Officer M'Kae (V)"
-      ],
       "legacy": false
     },
     {
@@ -41988,7 +41982,7 @@
         "subType": "Used",
         "uniqueness": "*",
         "destiny": "3",
-        "gametext": "Relocate a card from the top of any Deck or Pile to the bottom (without looking). OR if you have a droid at a Scomp link on Cloud City, cancel Into The Ventilation Shaft, Lefty. OR use 3 Force to cause a character at Weather vane to be lost.",
+        "gametext": "Relocate a card from the top of any Deck or Pile to the bottom (without looking). OR if you have a droid at a Scomp link on Cloud City, cancel Into The Ventilation Shaft, Lefty. OR use 3 Force to cause a character at Weather Vane to be lost.",
         "lore": "Luke got the shaft."
       },
       "legacy": false
@@ -55140,6 +55134,709 @@
         "If the deployment is not possible, return the card taken from Reserve Deck back to that deck and reshuffle."
       ],
       "legacy": false
+    },
+	{
+      "id": 6903,
+      "gempId": "216_1",
+      "side": "Dark",
+      "rarity": "C",
+      "set": "216",
+      "printings": [
+        {
+          "set": "216"
+        }
+      ],
+      "front": {
+        "title": "•A Sith Legend",
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual16-Dark/large/asithlegend.gif",
+        "type": "Interrupt",
+        "subType": "Lost",
+        "uniqueness": "*",
+        "destiny": "2",
+        "icons": [
+          "Episode I"
+        ],
+        "gametext": "Reveal a lightsaber from hand to take a matching Dark Jedi or Sith into hand from Reserve Deck (or vice versa); reshuffle. OR Once per game, cancel the game text of an opponent's non-Jedi character present with your Dark Jedi or Inquisitor for remainder of turn.",
+        "lore": "At his peak, no one could stand up to the Dark Lord of the Sith. His superior tactics devastated those who opposed him."
+      },
+      "legacy": false
+    },
+    {
+      "id": 6904,
+      "gempId": "216_2",
+      "side": "Dark",
+      "rarity": "U",
+      "set": "216",
+      "printings": [
+        {
+          "set": "216"
+        }
+      ],
+      "front": {
+        "title": "<>Alien Mob",
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual16-Dark/large/alienmob.gif",
+        "type": "Character",
+        "subType": "Alien",
+        "uniqueness": "<>",
+        "destiny": "2",
+        "power": "4",
+        "ability": "2",
+        "deploy": "4",
+        "forfeit": "5",
+        "icons": [
+          "Warrior x3"
+        ],
+        "gametext": "This card has your Rep's species. When deployed, may retrieve a Rep or place a Rep stacked on your Objective in Used Pile. Once per turn, if Fearless And Inventive on table and you just retrieved Force, may place top card of Used Pile on Force Pile.",
+        "lore": "Blank."
+      },
+      "pulledBy": [
+        "Abyssin Ornament",
+        "Abyssin Ornament & Wounded Wookiee",
+        "Chall Bekan",
+        "Jabba's Palace: Audience Chamber",
+        "Oo-ta Goo-ta, Solo? (V)"
+      ],
+      "rulings": [
+        "Rep is defined by My Kind Of Scum.",
+        "This card has the Rep's species in all card states, including while in hand, Reserve Deck, etc.",
+        "This card has the Rep's species even while its gametext is canceled."
+      ],
+      "legacy": false
+    },
+    {
+      "id": 6905,
+      "gempId": "216_3",
+      "side": "Dark",
+      "rarity": "R",
+      "set": "216",
+      "printings": [
+        {
+          "set": "216"
+        }
+      ],
+      "front": {
+        "title": "•Avenger (V)",
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual16-Dark/large/avenger.gif",
+        "type": "Starship",
+        "subType": "Capital: Imperial-Class Star Destroyer",
+        "uniqueness": "*",
+        "destiny": "1",
+        "power": "6",
+        "armor": "7",
+        "hyperspeed": "3",
+        "deploy": "8",
+        "forfeit": "9",
+        "icons": [
+          "Pilot",
+          "Nav Computer",
+          "Scomp Link"
+        ],
+        "characteristics": [
+          "Imperial (starship)",
+          "ship-docking capability"
+        ],
+        "gametext": "May add 4 pilots, 4 passengers, 2 vehicles, and 4 TIEs. Permanent pilot provides ability of 2. Once per game, may deploy a captain (or Imperial with armor) aboard (deploy -2) from Reserve Deck; reshuffle.",
+        "lore": "Key starship used to subjugate Outer Rim worlds. Reassigned to Death Squadron under the command of Captain Needa. Communications ship at the Battle of Endor."
+      },
+      "pulledBy": [
+        "Commander Nemet (V)",
+        "Kuat Drive Yards"
+      ],
+      "pulls": [
+        "Any captain",
+        "Death Trooper",
+		"Stormtrooper Garrison",
+		"Stormtrooper Patrol"
+      ],
+      "matching": [
+        "Captain Needa",
+        "Commander Nemet (V)"
+      ],
+      "legacy": false
+    },
+    {
+      "id": 6906,
+      "gempId": "216_4",
+      "side": "Dark",
+      "rarity": "U",
+      "set": "216",
+      "printings": [
+        {
+          "set": "216"
+        }
+      ],
+      "front": {
+        "title": "•Coruscant: The Works",
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual16-Dark/large/coruscanttheworks.gif",
+        "type": "Location",
+        "subType": "Site",
+        "uniqueness": "*",
+        "destiny": "0",
+        "icons": [
+          "Exterior",
+          "Planet",
+          "Episode I"
+        ],
+        "lightSideIcons": 0,
+        "darkSideIcons": 2,
+        "gametext": "Dark:  May deploy non-[Theed Palace] Sidious here from Reserve Deck; reshuffle.  Light:  If opponent's [Special Edition] objective on table, gains one [Light Side] icon and Force drain +2 here."
+      },
+      "legacy": false
+    },
+    {
+      "id": 6907,
+      "gempId": "216_99",
+      "side": "Dark",
+      "rarity": "R",
+      "set": "216",
+      "printings": [
+        {
+          "set": "216"
+        }
+      ],
+      "front": {
+        "title": "•Crossfire (V)",
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual16-Dark/large/crossfirev.gif",
+        "type": "Defensive Shield",
+        "uniqueness": "*",
+        "destiny": "0",
+        "icons": [
+          "Defensive Shield",
+          "Reflections III"
+        ],
+        "gametext": "Plays on table. S-foils and Maneuvering Flaps are suspended where you have either a weapon present or a starship (or vehicle) with maneuver > 3 present. Your Force generation at opponent's Endor system may not be canceled unless opponent's [Endor] objective on table.",
+        "lore": "Scout walker pilots are trained to set up a deadly heavy fire zone. This tactic can be disrupted by enemy weapons fire."
+      },
+      "legacy": false
+    },
+    {
+      "id": 6908,
+      "gempId": "216_5",
+      "side": "Dark",
+      "rarity": "PM",
+      "set": "216",
+      "printings": [
+        {
+          "set": "216"
+        }
+      ],
+      "front": {
+        "title": "•Crossfire (V)",
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual16-Dark/large/crossfire.gif",
+        "type": "Defensive Shield",
+        "uniqueness": "*",
+        "destiny": "0",
+        "icons": [
+          "Defensive Shield",
+          "Reflections III"
+        ],
+        "gametext": "Plays on table. S-foils and Maneuvering Flaps are suspended where you have either a weapon present or a starship (or vehicle) with maneuver > 3 present. Your Force generation at opponent's Endor system may not be canceled unless opponent's [Endor] objective on table.",
+        "lore": "Scout walker pilots are trained to set up a deadly heavy fire zone. This tactic can be disrupted by enemy weapons fire."
+      },
+      "legacy": false
+    },
+    {
+      "id": 6909,
+      "gempId": "216_6",
+      "side": "Dark",
+      "rarity": "C",
+      "set": "216",
+      "printings": [
+        {
+          "set": "216"
+        }
+      ],
+      "front": {
+        "title": "•Darth Vader, Betrayer Of The Jedi",
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual16-Dark/large/darthvaderbetrayerofthejedi.gif",
+        "type": "Character",
+        "subType": "Sith",
+        "uniqueness": "*",
+        "destiny": "1",
+        "power": "6",
+        "ability": "6",
+        "deploy": "6",
+        "forfeit": "8",
+        "icons": [
+          "Pilot",
+          "Warrior",
+          "Episode I"
+        ],
+        "characteristics": [
+          "leader"
+        ],
+        "gametext": "Adds 3 to power of anything he pilots. During battle, if a lightsaber swung by Vader just 'hit' a character, character's game text is canceled (and if Amidala, she is immediately lost). While on Coruscant, adds one [Dark Side] icon here. Immune to [Set 3] Amidala and attrition < 5.",
+        "lore": "Leader.",
+        "extraText": [
+          "Dark Jedi"
+        ]
+      },
+      "pulledBy": [
+        "Sith Fury (V)",
+        "Mustafar: Vader's Castle",
+        "Vaneé"
+      ],
+      "matching": [
+        "Vader's Custom TIE",
+        "Vader's Custom TIE (V)",
+        "Vader's Personal Shuttle",
+        "Vader's Personal Shuttle (V)"
+      ],
+      "matchingWeapon": [
+        "Darth Vader's Lightsaber",
+        "Darth Vader's Lightsaber (V)",
+        "Vader's Lightsaber"
+      ],
+      "rulings": [
+        "If Amidala is prevented from being made immediately lost by K'lor'slug (V), her gametext is still canceled."
+      ],
+      "legacy": false
+    },
+    {
+      "id": 6910,
+      "gempId": "216_7",
+      "side": "Dark",
+      "rarity": "R2",
+      "set": "216",
+      "printings": [
+        {
+          "set": "216"
+        }
+      ],
+      "front": {
+        "title": "•Death Star (V)",
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual16-Dark/large/deathstar.gif",
+        "type": "Location",
+        "subType": "System",
+        "uniqueness": "*",
+        "destiny": "0",
+        "icons": [
+          "Mobile"
+        ],
+        "lightSideIcons": 0,
+        "darkSideIcons": 2,
+        "gametext": "Dark:  X = parsec of current position (starts at 4). Deploys only if On The Verge Of Greatness on table. Hyperspeed = 2. Starships may move between Death Star and system it orbits as a 'react.'  Light:  -"
+      },
+      "pulledBy": [
+        "On The Verge Of Greatness/Taking Control Of The Weapon"
+      ],
+      "counterpart": "Death Star",
+	  "rulings": [
+        "Both players may use the 'react' text on this card."
+      ],
+      "legacy": false,
+      "abbr": [
+        "DS",
+        "D*"
+      ]
+    },
+    {
+      "id": 6911,
+      "gempId": "216_8",
+      "side": "Dark",
+      "rarity": "R1",
+      "set": "216",
+      "printings": [
+        {
+          "set": "216"
+        }
+      ],
+      "front": {
+        "title": "•Devastator (V)",
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual16-Dark/large/devastator.gif",
+        "type": "Starship",
+        "subType": "Capital: Imperial-Class Star Destroyer",
+        "uniqueness": "*",
+        "destiny": "1",
+        "power": "9",
+        "armor": "6",
+        "hyperspeed": "3",
+        "deploy": "8",
+        "forfeit": "9",
+        "icons": [
+          "Pilot",
+          "Nav Computer",
+          "Scomp Link"
+        ],
+        "characteristics": [
+          "Imperial (starship)",
+          "ship-docking capability"
+        ],
+        "gametext": "May add 6 pilots, 8 passengers, 2 vehicles, and 4 TIEs. Permanent pilot provides ability of 2. Vader deploys -2 aboard. May deploy -4 as a 'react' to Scarif or same location as Tantive IV.",
+        "lore": "Supported the devastating subjugation of Ralltiir. While under the command of Darth Vader, chased and captured the traitor Princess Leia Organa aboard the consular ship Tantive IV."
+      },
+      "pulledBy": [
+        "Commander Nemet (V)",
+        "Kuat Drive Yards"
+      ],
+      "matching": [
+        "Commander Praji",
+        "All versions of Vader with a pilot icon"
+      ],
+      "legacy": false
+    },
+    {
+      "id": 6912,
+      "gempId": "216_9",
+      "side": "Dark",
+      "rarity": "C",
+      "set": "216",
+      "printings": [
+        {
+          "set": "216"
+        }
+      ],
+      "front": {
+        "title": "•Mustafar: Private Platform (Docking Bay)",
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual16-Dark/large/mustafarprivateplatformdockingbay.gif",
+        "type": "Location",
+        "subType": "Site",
+        "uniqueness": "*",
+        "destiny": "0",
+        "icons": [
+          "Interior",
+          "Exterior",
+          "Planet",
+          "Scomp Link"
+        ],
+        "lightSideIcons": 0,
+        "darkSideIcons": 1,
+        "gametext": "Dark:  Once per turn, may deploy a starfighter with 'Vader' in title here from Reserve Deck; reshuffle.  Light:  Your docking bay transit to or from here requires +4 Force (+6 Force if Vader or Vanee here)."
+      },
+      "pulls": [
+        "Vader's Custom TIE",
+        "Vader's Custom TIE (V)",
+        "Vader's Personal Shuttle",
+        "Vader's Personal Shuttle (V)"
+      ],
+      "pulledBy": [
+        "Begin Landing Your Troops",
+        "Death Star: Docking Control Room 327",
+        "Imperial Arrest Order",
+        "Imperial Arrest Order & Secret Plans"
+      ],
+      "rulings": [
+        "Dark may use Docking Bay transit from here for 0 Force (this cost can still be modified by other cards)."
+      ],
+      "legacy": false
+    },
+    {
+      "id": 6913,
+      "gempId": "216_10",
+      "side": "Dark",
+      "rarity": "U",
+      "set": "216",
+      "printings": [
+        {
+          "set": "216"
+        }
+      ],
+      "front": {
+        "title": "•Naboo",
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual16-Dark/large/naboo.gif",
+        "type": "Location",
+        "subType": "System",
+        "uniqueness": "*",
+        "destiny": "0",
+        "icons": [
+          "Planet",
+          "Episode I"
+        ],
+        "lightSideIcons": 2,
+        "darkSideIcons": 2,
+        "gametext": "Dark:  If you control with a [Trade Federation] starship, your Force generation is +1 here.  Light:  If opponent controls and In Complete Control on table, your characters and vehicles deploy +1 to Naboo sites.",
+        "parsec": "5"
+      },
+      "pulledBy": [
+        "Commander Merrejk",
+        "Invasion/In Complete Control",
+        "Kuat Drive Yards (V)"
+      ],
+      "counterpart": "Naboo",
+      "legacy": false
+    },
+    {
+      "id": 6914,
+      "gempId": "216_11",
+      "side": "Dark",
+      "rarity": "U",
+      "set": "216",
+      "printings": [
+        {
+          "set": "216"
+        }
+      ],
+      "front": {
+        "title": "On The Verge Of Greatness / Taking Control Of The Weapon",
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual16-Dark/large/onthevergeofgreatness.gif",
+        "type": "Objective",
+        "destiny": "0",
+        "gametext": "On The Verge Of Greatness: Deploy [Set 16] Death Star and Scarif systems, Citadel Tower, Commence Primary Ignition, and Shield Gate. {For} remainder of game, you may not deploy characters of ability > 4 (except Vader). Vader is power +2 and he (or a Star Destroyer he is piloting) may make a regular move to a battle just initiated. {While} this side up, once per turn, may deploy a site (or Imperial trooper) to Scarif from Reserve Deck; reshuffle. {Flip} this card if Krennic or Tarkin on Scarif and Death Star orbiting Scarif. Taking Control Of The Weapon: {While} this side up, your Force generation is +2 for each 'blown away' Scarif site. Tarkin Doctrine is immune to Alter and, when it initiates Force loss, may take any one card into hand from Force Pile. Once per turn, if opponent's character just lost from your site, may place it out of play unless opponent loses 1 Force. Tarkin adds 3 to total of Commence Primary Ignition. {Flip} this card if you have no leaders on Scarif. {Place} this card out of play if Shield Gate not on table or if Death Star has been 'blown away.'"
+      },
+      "back": {
+        "title": "On The Verge Of Greatness / Taking Control Of The Weapon",
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual16-Dark/large/takingcontroloftheweapon.gif",
+        "type": "Objective",
+        "destiny": "7",
+        "gametext": "On The Verge Of Greatness: Deploy [Set 16] Death Star and Scarif systems, Citadel Tower, Commence Primary Ignition, and Shield Gate. {For} remainder of game, you may not deploy characters of ability > 4 (except Vader). Vader is power +2 and he (or a Star Destroyer he is piloting) may make a regular move to a battle just initiated. {While} this side up, once per turn, may deploy a site (or Imperial trooper) to Scarif from Reserve Deck; reshuffle. {Flip} this card if Krennic or Tarkin on Scarif and Death Star orbiting Scarif. Taking Control Of The Weapon: {While} this side up, your Force generation is +2 for each 'blown away' Scarif site. Tarkin Doctrine is immune to Alter and, when it initiates Force loss, may take any one card into hand from Force Pile. Once per turn, if opponent's character just lost from your site, may place it out of play unless opponent loses 1 Force. Tarkin adds 3 to total of Commence Primary Ignition. {Flip} this card if you have no leaders on Scarif. {Place} this card out of play if Shield Gate not on table or if Death Star has been 'blown away.'"
+      },
+      "rulings": [
+        "Even if Tarkin Doctrine causes multiple Force loss, it only initiates Force loss once per turn."
+      ],
+      "legacy": false
+    },
+    {
+      "id": 6915,
+      "gempId": "216_12",
+      "side": "Dark",
+      "rarity": "U",
+      "set": "216",
+      "printings": [
+        {
+          "set": "216"
+        }
+      ],
+      "front": {
+        "title": "•Projective Telepathy (V)",
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual16-Dark/large/projectivetelepathy.gif",
+        "type": "Interrupt",
+        "subType": "Used",
+        "uniqueness": "*",
+        "destiny": "3",
+        "gametext": "If drawn for destiny, may take into hand. Draw top card of Force Pile. OR During opponent's control phase, target a location. Total ability of 7 or more required for opponent to draw battle destiny there for remainder of turn.",
+        "lore": "'Luke.' 'Father.' 'Son, come with me.'"
+      },
+      "rulings": [
+        "If the total ability 7 requirement is not met, even cards that add battle destinies will not enable Light to draw battle destiny.",
+        "Cards that draw if unable to otherwise will enable Light to draw battle destiny."
+      ],
+      "legacy": false
+    },
+    {
+      "id": 6916,
+      "gempId": "216_13",
+      "side": "Dark",
+      "rarity": "C2",
+      "set": "216",
+      "printings": [
+        {
+          "set": "216"
+        }
+      ],
+      "front": {
+        "title": "•Scarif",
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual16-Dark/large/scarif.gif",
+        "type": "Location",
+        "subType": "System",
+        "uniqueness": "*",
+        "destiny": "0",
+        "icons": [
+          "Planet"
+        ],
+        "lightSideIcons": 1,
+        "darkSideIcons": 2,
+        "gametext": "Dark:  While Shield Gate here, opponent's non-spy characters deploy +1 to Scarif sites.  Light:  While Profundity here, add 2 to attempts to 'blow away' Shield Gate.",
+        "parsec": "7"
+      },
+      "pulledBy": [
+        "Commander Merrejk",
+        "Kuat Drive Yards (V)",
+        "On The Verge Of Greatness/Taking Control Of The Weapon"
+      ],
+      "counterpart": "Scarif",
+      "legacy": false
+    },
+    {
+      "id": 6917,
+      "gempId": "216_14",
+      "side": "Dark",
+      "rarity": "C",
+      "set": "216",
+      "printings": [
+        {
+          "set": "216"
+        }
+      ],
+      "front": {
+        "title": "•Scarif: Beach",
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual16-Dark/large/scarifbeach.gif",
+        "type": "Location",
+        "subType": "Site",
+        "uniqueness": "*",
+        "destiny": "0",
+        "icons": [
+          "Exterior",
+          "Planet"
+        ],
+        "lightSideIcons": 2,
+        "darkSideIcons": 2,
+        "gametext": "Dark:  Krennic and death troopers are power +1 here.  Light:  Your combat vehicles and spies are forfeit +1 here."
+      },
+      "pulledBy": [
+        "Neimoidian Advisor",
+        "On The Verge Of Greatness"
+      ],
+      "counterpart": "Scarif: Beach",
+      "legacy": false
+    },
+    {
+      "id": 6918,
+      "gempId": "216_15",
+      "side": "Dark",
+      "rarity": "U2",
+      "set": "216",
+      "printings": [
+        {
+          "set": "216"
+        }
+      ],
+      "front": {
+        "title": "•Scarif: Citadel Tower",
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual16-Dark/large/scarifcitadeltower.gif",
+        "type": "Location",
+        "subType": "Site",
+        "uniqueness": "*",
+        "destiny": "0",
+        "icons": [
+          "Interior",
+          "Planet",
+          "Scomp Link"
+        ],
+        "lightSideIcons": 1,
+        "darkSideIcons": 1,
+        "gametext": "Dark:  If a player just Force drained here, they may raise a converted Scarif location to the top.  Light:  Unless your spy here, total ability of 6 or more required for you to draw battle destiny here."
+      },
+      "pulledBy": [
+        "Neimoidian Advisor",
+        "On The Verge Of Greatness"
+      ],
+      "legacy": false
+    },
+    {
+      "id": 6919,
+      "gempId": "216_16",
+      "side": "Dark",
+      "rarity": "U",
+      "set": "216",
+      "printings": [
+        {
+          "set": "216"
+        }
+      ],
+      "front": {
+        "title": "•Scarif: Command Center",
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual16-Dark/large/scarifcommandcenter.gif",
+        "type": "Location",
+        "subType": "Site",
+        "uniqueness": "*",
+        "destiny": "0",
+        "icons": [
+          "Interior",
+          "Planet",
+          "Scomp Link"
+        ],
+        "lightSideIcons": 1,
+        "darkSideIcons": 2,
+        "gametext": "Dark:  If an Imperial leader here, add one destiny to your [Set 9] Epic Event total targeting a Scarif site.  Light:  If Shield Gate on table, opponent's Force drains here are +1."
+      },
+      "pulledBy": [
+        "Neimoidian Advisor",
+        "On The Verge Of Greatness"
+      ],
+      "legacy": false
+    },
+    {
+      "id": 6920,
+      "gempId": "216_17",
+      "side": "Dark",
+      "rarity": "C",
+      "set": "216",
+      "printings": [
+        {
+          "set": "216"
+        }
+      ],
+      "front": {
+        "title": "•Scarif: Landing Pad Five (Docking Bay)",
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual16-Dark/large/scariflandingpadfivedockingbay.gif",
+        "type": "Location",
+        "subType": "Site",
+        "uniqueness": "*",
+        "destiny": "0",
+        "icons": [
+          "Exterior",
+          "Planet",
+          "Scomp Link"
+        ],
+        "lightSideIcons": 0,
+        "darkSideIcons": 1,
+        "gametext": "Dark:  Your docking bay transit from here requires 1 Force (free if an Imperial leader here).  Light:  Your docking bay transit from here requires 3 Force (7 if Shield Gate on table)."
+      },
+      "pulledBy": [
+        "Begin Landing Your Troops",
+        "Death Star: Docking Control Room 327",
+        "Imperial Arrest Order",
+        "Imperial Arrest Order & Secret Plans",
+        "On The Verge Of Greatness"
+      ],
+      "counterpart": "Scarif: Landing Pad Nine",
+      "legacy": false
+    },
+    {
+      "id": 6921,
+      "gempId": "216_18",
+      "side": "Dark",
+      "rarity": "U2",
+      "set": "216",
+      "printings": [
+        {
+          "set": "216"
+        }
+      ],
+      "front": {
+        "title": "•Shield Gate",
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual16-Dark/large/shieldgate.gif",
+        "type": "Device",
+        "uniqueness": "*",
+        "destiny": "0",
+        "gametext": "Deploy on Scarif system. If a starship was just lost from here or opponent just Force drained here, opponent may draw destiny. Add 1 for each Scarif location opponent occupies. If total destiny > 8, Shield Gate 'blown away' (place out of play).",
+        "lore": "Blank."
+      },
+      "pulledBy": [
+        "Death Star Reactor Terminal",
+        "On The Verge Of Greatness"
+      ],
+      "rulings": [
+        "If blown away, no Shield Gate may be deployed again for remainder of game."
+      ],
+      "legacy": false
+    },
+    {
+      "id": 6922,
+      "gempId": "216_19",
+      "side": "Dark",
+      "rarity": "R2",
+      "set": "216",
+      "printings": [
+        {
+          "set": "216"
+        }
+      ],
+      "front": {
+        "title": "•Superlaser",
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual16-Dark/large/superlaser.gif",
+        "type": "Weapon",
+        "subType": "Death Star",
+        "uniqueness": "*",
+        "destiny": "3",
+        "gametext": "Deploy on Death Star. May not target planet systems (except Alderaan). Commence Primary Ignition may not be canceled. May target a capital starship at Death Star system, or at a system it orbits, for free. Draw destiny. Target hit if destiny +2 > defense value.",
+        "lore": "The Death Star has more firepower than the combined might of the entire Imperial fleet. Enormous generators power the devastating planet-destroying weapon."
+      },
+      "pulledBy": [
+        "Death Star Gunner",
+        "Operational As Planned (V)"
+      ],
+      "legacy": false
     }
-  ]
+  ]  
 }
