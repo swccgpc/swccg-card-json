@@ -16003,11 +16003,11 @@
       ],
       "front": {
         "title": "Escape Pod & We're Doomed",
-        "imageUrl": "https://res.starwarsccg.org/cards/Virtual4-Light/large/escapepodweredoomed.gif",
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual4-Light/hires/escapepodweredoomed.png",
         "type": "Interrupt",
         "subType": "Used",
         "destiny": "5",
-        "gametext": "Use 1 Force to take a dejarik into hand from Reserve Deck; reshuffle. OR For remainder of turn, you lose no Force to Cloud City Occupation, Rebel Base Occupation, Tatooine Occupation, That Thing's Operational, or You May Start Your Landing.",
+        "gametext": "Use 1 Force to take a dejarik into hand from Reserve Deck; reshuffle. OR For remainder of turn, you lose no Force to Cloud City Occupation, Rebel Base Occupation, Tatooine Occupation, That Thing's Operational, You May Start Your Landing, or You'll Be Dead!.",
         "lore": "Blank."
       },
       "pulls": [
@@ -19262,14 +19262,14 @@
       ],
       "front": {
         "title": "•Goldenrod",
-        "imageUrl": "https://res.starwarsccg.org/cards/ResetDS-Light/large/goldenrod.gif",
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual0-Light/large/goldenrod.gif",
         "type": "Defensive Shield",
         "uniqueness": "*",
         "destiny": "0",
         "icons": [
           "Defensive Shield"
         ],
-        "gametext": "Plays on table. For opponent to deploy a character, starship, or vehicle for free (except by that card's own game text), opponent must first use 2 Force.",
+        "gametext": "Plays on table. For opponent to deploy a character, starship, or vehicle for free (except by that card's own game text), opponent must first use 2 Force. They Must Never Again Leave This City is suspended during opponent's first turn.",
         "lore": "Blank."
       },
       "counterpart": "Imperial Detention",
@@ -57772,6 +57772,1068 @@
       "rulings": [
         "Text such as Theed Palace Generator Core prevents the Force loss.",
         "The bonus text only applies if the actual target is hit, not (for example) the captive of Dengar (V)."
+      ],
+      "legacy": false
+    },
+    {
+      "id": 6923,
+      "gempId": "216_20",
+      "side": "Light",
+      "rarity": "U",
+      "set": "216",
+      "printings": [
+        {
+          "set": "216"
+        }
+      ],
+      "front": {
+        "title": "<>Alien Rabble",
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual16-Light/large/alienrabble.gif",
+        "type": "Character",
+        "subType": "Alien",
+        "uniqueness": "<>",
+        "destiny": "2",
+        "power": "4",
+        "ability": "2",
+        "deploy": "4",
+        "forfeit": "5",
+        "icons": [
+          "Warrior x3"
+        ],
+        "gametext": "This card has your Rep's species. When deployed, may retrieve a Rep or place a Rep stacked on your Objective in Used Pile. Once per turn, if No Love For The Empire on table and you just retrieved Force, may place top card of Used Pile on Force Pile.",
+        "lore": "Blank."
+      },
+      "pulledBy": [
+        "Arleil Schous",
+        "Nar Shaddaa Wind Chimes",
+        "Nar Shaddaa Wind Chimes & Out Of Somewhere"
+      ],
+      "rulings": [
+        "Rep is defined by Agents In The Court.",
+        "This card has the Rep's species in all card states, including while in hand, Reserve Deck, etc.",
+        "This card has the Rep's species even while its gametext is canceled."
+      ],
+      "legacy": false
+    },
+    {
+      "id": 6924,
+      "gempId": "216_21",
+      "side": "Light",
+      "rarity": "C2",
+      "set": "216",
+      "printings": [
+        {
+          "set": "216"
+        }
+      ],
+      "front": {
+        "title": "•Anakin Skywalker, Jedi Knight",
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual16-Light/large/anakinskywalkerjediknight.gif",
+        "type": "Character",
+        "subType": "Republic",
+        "uniqueness": "*",
+        "destiny": "1",
+        "power": "7",
+        "ability": "6",
+        "deploy": "8",
+        "forfeit": "8",
+        "icons": [
+          "Pilot",
+          "Warrior",
+          "Episode I",
+          "Clone Army"
+        ],
+        "characteristics": [
+          "Jedi Council member"
+        ],
+        "gametext": "Adds 3 to power of anything he pilots. While armed with a lightsaber, adds 2 to his defense value. During battle, may lose 2 Force to add one battle destiny. Immune to attrition < 6.",
+        "lore": "Jedi Council member",
+        "extraText": [
+          "Jedi Knight"
+        ]
+      },
+      "matchingWeapon": [
+        "Anakin's Lightsaber"
+      ],
+      "legacy": false
+    },
+    {
+      "id": 6925,
+      "gempId": "216_22",
+      "side": "Light",
+      "rarity": "R2",
+      "set": "216",
+      "printings": [
+        {
+          "set": "216"
+        }
+      ],
+      "front": {
+        "title": "Bowcaster (V)",
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual16-Light/large/bowcaster.gif",
+        "type": "Weapon",
+        "subType": "Character",
+        "destiny": "2",
+        "gametext": "Deploy on your Wookiee. If Wookiee is non-unique, adds 1 to power. May target a character or vehicle for free. Draw destiny. Add 1 for each Kashyyyk location you control. Target hit and is power -3 if total destiny > defense value.",
+        "lore": "Hand-crafted weapon of choice among Wookiees. Fires explosive 'quarrels' (which look like blaster bolts). Requires great strength to use. Extra ammo carried on bandoleers."
+      },
+      "pulledBy": [
+        "Portable Scanner"
+      ],
+      "legacy": false
+    },
+    {
+      "id": 6926,
+      "gempId": "216_23",
+      "side": "Light",
+      "rarity": "R",
+      "set": "216",
+      "printings": [
+        {
+          "set": "216"
+        }
+      ],
+      "front": {
+        "title": "•Chewbacca, Defender Of Kashyyyk",
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual16-Light/large/chewbaccadefenderofkashyyyk.gif",
+        "type": "Character",
+        "subType": "Alien/Republic",
+        "uniqueness": "*",
+        "destiny": "1",
+        "power": "6",
+        "ability": "2",
+        "deploy": "4",
+        "forfeit": "7",
+        "icons": [
+          "Pilot",
+          "Warrior",
+          "Endor",
+          "Episode I"
+        ],
+        "characteristics": [
+          "scout",
+          "Wookiee"
+        ],
+        "gametext": "Adds 2 to power of anything he pilots. Your total power here is +1 for each opponent's character present. During battle, if all your ability here is provided by Yoda, smugglers, and/or Wookiees, may add one destiny to total power.",
+        "lore": "Wookiee scout. Volunteered for Han's Endor strike team. Keeps his distance, but doesn't look like he's keeping his distance. Always thinks with his stomach.",
+        "extraText": [
+          "Roar 4"
+        ]
+      },
+      "pulledBy": [
+        "General Crix Madine",
+        "Life Debt",
+        "Seeking An Audience (V)",
+        "Wookiee Guide (V)",
+        "Wookiee Roar"
+      ],
+      "matching": [
+        "Chewie's AT-ST",
+        "Millennium Falcon"
+      ],
+      "matchingWeapon": [
+        "Chewbacca's Bowcaster"
+      ],
+      "legacy": false
+    },
+    {
+      "id": 6927,
+      "gempId": "216_24",
+      "side": "Light",
+      "rarity": "U",
+      "set": "216",
+      "printings": [
+        {
+          "set": "216"
+        }
+      ],
+      "front": {
+        "title": "•Communing",
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual16-Light/large/communing.gif",
+        "type": "Epic Event",
+        "uniqueness": "*",
+        "destiny": "0",
+        "icons": [
+          "Episode I"
+        ],
+        "gametext": "Deploy on table (only at start of game). You may not deploy Jedi with 'communing' in game text. One With The Force: If a Jedi is about to be lost (or placed out of play) from table, may stack that card here. The Living Force: Jedi stacked here are 'communing' and are considered out of play. Your total Force generation is +1 for each Jedi 'communing.' The Cosmic Force: Once per turn, may peek at the top X cards of your Force Pile or Lost Pile, where X = the number of Jedi 'communing'; may move one of those cards to the bottom of that pile."
+      },
+      "rulings": [
+        "May only deploy on table if instructed to do so, such as via I Am Part Of The Living Force.",
+        "A Jedi stacked on Communing is considered out of play, but has not been 'just placed out of play' such as for I Can't Believe He's Gone."
+      ],
+      "legacy": false
+    },
+    {
+      "id": 6928,
+      "gempId": "216_25",
+      "side": "Light",
+      "rarity": "U",
+      "set": "216",
+      "printings": [
+        {
+          "set": "216"
+        }
+      ],
+      "front": {
+        "title": "•Coruscant: Jedi Temple Meditation Room",
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual16-Light/large/coruscantjeditemplemeditationroom.gif",
+        "type": "Location",
+        "subType": "Site",
+        "uniqueness": "*",
+        "destiny": "0",
+        "icons": [
+          "Interior",
+          "Planet",
+          "Episode I"
+        ],
+        "lightSideIcons": 2,
+        "darkSideIcons": 0,
+        "gametext": "Light:  If Qui-Gon 'communing,' may deploy Theed Palace Generator from Reserve Deck; reshuffle.  Dark:  While Qui-Gon 'communing,' no Force drains here."
+      },
+      "rulings": [
+        "Light may not attempt to deploy Theed Palace Generator if it is already on table.",
+        "Light may only attempt to deploy Theed Palace Generator once per turn (during their own deploy phase)."
+      ],
+      "legacy": false
+    },
+    {
+      "id": 6929,
+      "gempId": "216_26",
+      "side": "Light",
+      "rarity": "R",
+      "set": "216",
+      "printings": [
+        {
+          "set": "216"
+        }
+      ],
+      "front": {
+        "title": "•Dagobah: Yoda's Hut (V)",
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual16-Light/large/dagobahyodashut.gif",
+        "type": "Location",
+        "subType": "Site",
+        "uniqueness": "*",
+        "destiny": "0",
+        "icons": [
+          "Dagobah",
+          "Exterior",
+          "Planet"
+        ],
+        "lightSideIcons": 2,
+        "darkSideIcons": 0,
+        "gametext": "Light:  If Yoda here or [Set 16] Yoda 'communing,' once per turn, may subtract 2 from attrition against you.  Dark:  If Yoda here or [Set 16] Yoda 'communing,' Broken Concentration is canceled."
+      },
+      "rulings": [
+        "Declare attrition subtraction during the power segment, after all battle destinies and attrition destinies have been drawn by both players."
+      ],
+      "legacy": false
+    },
+    {
+      "id": 6930,
+      "gempId": "216_27",
+      "side": "Light",
+      "rarity": "C2",
+      "set": "216",
+      "printings": [
+        {
+          "set": "216"
+        }
+      ],
+      "front": {
+        "title": "•Figrin D'an & •The Modal Nodes",
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual16-Light/large/figrindanthemodalnodes.gif",
+        "type": "Character",
+        "subType": "Alien",
+        "uniqueness": "*",
+        "destiny": "3",
+        "power": "4",
+        "ability": "2",
+        "deploy": "4",
+        "forfeit": "6",
+        "characteristics": [
+          "Bith",
+          "musician"
+        ],
+        "gametext": "Power +2 at an antechamber, bar, cantina, or night club. Draws one battle destiny if unable to otherwise. During your control phase, if you have alien characters of five different species on table, may retrieve 1 Force. Once per game, may re-circulate.",
+        "lore": "Bith musicians. Figrin D'an, Doikk Na'ts, Ickabel G'ont, Nalan Cheel, and Tedn Dahai.",
+        "extraText": [
+          "Rhythm 4"
+        ]
+      },
+      "rulings": [
+        "This is a character combo card. It functions as one character, one alien, one musician, etc.",
+        "This card contains all 5 of the unique personas listed in the lore box."
+      ],
+      "legacy": false
+    },
+    {
+      "id": 6931,
+      "gempId": "216_28",
+      "side": "Light",
+      "rarity": "R",
+      "set": "216",
+      "printings": [
+        {
+          "set": "216"
+        }
+      ],
+      "front": {
+        "title": "•Free Ride & •Endor Celebration (V)",
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual16-Light/large/freerideendorcelebration.gif",
+        "type": "Interrupt",
+        "subType": "Used",
+        "uniqueness": "*",
+        "destiny": "5",
+        "icons": [
+          "Coruscant"
+        ],
+        "gametext": "Cancel Cloud City Occupation, Rebel Base Occupation, or Tatooine Occupation. (Immune to Sense.) OR During your turn, target opponent's spy (or unpiloted combat vehicle) at a site you control; target is lost. OR Cancel an attempt to deploy or move a combat vehicle as a 'react.' OR Cancel a 'react' to or from same site as Leia or Luke."
+      },
+      "pulledBy": [
+        "Paploo",
+        "Yotts Orren"
+      ],
+      "cancels": [
+        "Cloud City Occupation",
+        "Rebel Base Occupation",
+        "Tatooine Occupation",
+        "Reacts involving a combat vehicle",
+        "Reacts to or from same site as Leia or Luke"
+      ],
+      "rulings": [
+        "This may target an Undercover spy."
+      ],
+      "legacy": false
+    },
+    {
+      "id": 6932,
+      "gempId": "216_29",
+      "side": "Light",
+      "rarity": "U",
+      "set": "216",
+      "printings": [
+        {
+          "set": "216"
+        }
+      ],
+      "front": {
+        "title": "•Grogu",
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual16-Light/large/grogu.gif",
+        "type": "Character",
+        "subType": "Alien",
+        "uniqueness": "*",
+        "destiny": "2",
+        "power": "2",
+        "ability": "4",
+        "deploy": "4",
+        "forfeit": "6",
+        "gametext": "While defending a battle, Interrupts may not be played unless they are [Immune to Sense]. Opponent may not target Grogu with weapons unless each of your Mandalorians and non-[Episode I] Jedi present are 'hit.' Immune to attrition < 3.",
+        "lore": "Blank.",
+        "extraText": [
+          "Force-Sensitive"
+        ]
+      },
+      "rulings": [
+        "If an Interrupt is partially immune to Sense, only the immune functions may be played."
+      ],
+      "legacy": false
+    },
+    {
+      "id": 6933,
+      "gempId": "216_30",
+      "side": "Light",
+      "rarity": "C2",
+      "set": "216",
+      "printings": [
+        {
+          "set": "216"
+        }
+      ],
+      "front": {
+        "title": "•••Heavy Infantry Mandalorian",
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual16-Light/large/heavyinfantrymandalorian.gif",
+        "type": "Character",
+        "subType": "Alien",
+        "uniqueness": "***",
+        "destiny": "3",
+        "power": "3",
+        "ability": "2",
+        "armor": "4",
+        "deploy": "3",
+        "forfeit": "4",
+        "icons": [
+          "Warrior",
+          "Permanent Weapon"
+        ],
+        "characteristics": [
+          "Mandalorian"
+        ],
+        "gametext": "May 'fly' (landspeed = 3). May move as a 'react.' Permanent weapon is Flamethrower (may target a character or creature for free; draw destiny; target hit if destiny +1 > defense value).",
+        "lore": "Blank."
+      },
+      "rulings": [
+        "This card's text allows it to move to a battle as a react, not away from a battle as a react."
+      ],
+      "legacy": false
+    },
+    {
+      "id": 6934,
+      "gempId": "216_31",
+      "side": "Light",
+      "rarity": "C",
+      "set": "216",
+      "printings": [
+        {
+          "set": "216"
+        }
+      ],
+      "front": {
+        "title": "•Jedi Holocron",
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual16-Light/large/jediholocron.gif",
+        "type": "Device",
+        "uniqueness": "*",
+        "destiny": "2",
+        "gametext": "Deploy on your character of ability > 4. While present: adds 1 to training destiny draws and Force drains here; the first Force lost to a Force drain here is stacked here face down; opponent’s ability required to draw battle destiny here is +1 for each card stacked here.",
+        "lore": "Blank."
+      },
+      "pulledBy": [
+        "Corporal Beezer",
+        "Force Levitation",
+        "Portable Scanner"
+      ],
+      "rulings": [
+        "If a player loses Force from hand to stack here, it is first revealed to both players.",
+        "If a player loses Force from Life Force to stack here, it is not revealed.",
+        "Increases the typical '4 ability' requirement for drawing battle destiny.",
+        "Also increases any special requirements such as on A Jedi's Strength.",
+		"A training destiny draw is 'at' the location of the apprentice."
+      ],
+      "legacy": false
+    },
+    {
+      "id": 6935,
+      "gempId": "216_32",
+      "side": "Light",
+      "rarity": "U",
+      "set": "216",
+      "printings": [
+        {
+          "set": "216"
+        }
+      ],
+      "front": {
+        "title": "•Kashyyyk: Sacred Falls (Forest)",
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual16-Light/large/kashyyyksacredfallsforest.gif",
+        "type": "Location",
+        "subType": "Site",
+        "uniqueness": "*",
+        "destiny": "0",
+        "icons": [
+          "Exterior",
+          "Planet",
+          "Episode I"
+        ],
+        "lightSideIcons": 2,
+        "darkSideIcons": 1,
+        "gametext": "Light:  Your Wookiees move from here for free when using landspeed.  Dark:  While opponent occupies with a Wookiee, your Force generation here is canceled."
+      },
+      "rulings": [
+        "Dark's text does not cancel the icon, so Light can still Force drain and Dark can still deploy."
+      ],
+      "legacy": false
+    },
+    {
+      "id": 6936,
+      "gempId": "216_33",
+      "side": "Light",
+      "rarity": "C",
+      "set": "216",
+      "printings": [
+        {
+          "set": "216"
+        }
+      ],
+      "front": {
+        "title": "•Kashyyyk: Work Settlement #121",
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual16-Light/large/kashyyykworksettlement121.gif",
+        "type": "Location",
+        "subType": "Site",
+        "uniqueness": "*",
+        "destiny": "0",
+        "icons": [
+          "Exterior",
+          "Planet",
+          "Episode I"
+        ],
+        "lightSideIcons": 2,
+        "darkSideIcons": 2,
+        "gametext": "Light:  While you occupy, your Wookiees at Kashyyyk sites are forfeit +1.  Dark:  While you control, opponent's Wookiees at Kashyyyk sites are power -1."
+      },
+      "legacy": false
+    },
+    {
+      "id": 6937,
+      "gempId": "216_34",
+      "side": "Light",
+      "rarity": "R",
+      "set": "216",
+      "printings": [
+        {
+          "set": "216"
+        }
+      ],
+      "front": {
+        "title": "•Ketwol (V)",
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual16-Light/large/ketwol.gif",
+        "type": "Character",
+        "subType": "Alien",
+        "uniqueness": "*",
+        "destiny": "3",
+        "power": "2",
+        "ability": "2",
+        "deploy": "2",
+        "forfeit": "3",
+        "icons": [
+          "Pilot",
+          "Special Edition"
+        ],
+        "characteristics": [
+          "Pacithhip",
+          "scout"
+        ],
+        "gametext": "Adds 2 to power of anything he pilots. Your docking bay transit is free when moving to or from same site. If piloting a freighter or starfighter, may lose 1 Force to cancel an attempt by opponent to target that starship to be captured, 'hit,' or lost.",
+        "lore": "Pacithhip scout. From an unknown system on the Outer Rim. Spends most of his time talking to pilots and travelers at local docking bays."
+      },
+      "pulledBy": [
+        "General Crix Madine",
+        "Soth Petikkin (when at a Jabba's Palace site you control)"
+      ],
+      "legacy": false
+    },
+    {
+      "id": 6938,
+      "gempId": "216_35",
+      "side": "Light",
+      "rarity": "R",
+      "set": "216",
+      "printings": [
+        {
+          "set": "216"
+        }
+      ],
+      "front": {
+        "title": "•Lando, Hero Of The Rebellion",
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual16-Light/large/landoherooftherebellion.gif",
+        "type": "Character",
+        "subType": "Rebel/Resistance",
+        "uniqueness": "*",
+        "destiny": "3",
+        "power": "2",
+        "ability": "3",
+        "deploy": "3",
+        "forfeit": "5",
+        "icons": [
+          "Pilot",
+          "Warrior"
+        ],
+        "characteristics": [
+          "leader",
+          "Resistance Agent"
+        ],
+        "gametext": "Adds one destiny to total power with Chewie or Jannah (or while piloting). During your turn, may reveal the top three cards of your Reserve Deck, take one starship with a deploy cost < 6 into hand (if possible), and shuffle your Reserve Deck.",
+        "lore": "Leader. Resistance Agent.",
+        "extraText": [
+          "Force-Attuned"
+        ]
+      },
+      "matching": [
+        "Gold Squadron 1",
+        "Millennium Falcon"
+      ],
+      "matchingWeapon": [
+        "Lando's Blaster Rifle"
+      ],
+      "legacy": false
+    },
+    {
+      "id": 6939,
+      "gempId": "216_36",
+      "side": "Light",
+      "rarity": "R",
+      "set": "216",
+      "printings": [
+        {
+          "set": "216"
+        }
+      ],
+      "front": {
+        "title": "•Master Kenobi",
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual16-Light/large/masterkenobi.gif",
+        "type": "Character",
+        "subType": "Rebel",
+        "uniqueness": "*",
+        "destiny": "1",
+        "power": "5",
+        "ability": "6",
+        "deploy": "5",
+        "forfeit": "9",
+        "icons": [
+          "Warrior"
+        ],
+        "gametext": "While 'communing': You may not deploy Jedi (except Yoda) or [Permanent Weapon] cards; if a Rebel in battle, may use 1 Force to add 3 to your total power (5 if Luke); once per turn, may deploy a battleground that is related to a location on table from Reserve Deck; reshuffle.",
+        "lore": "'Luminous beings are we, not this crude matter.' The inner consciousness of a Jedi can transcend even death.",
+        "extraText": [
+          "Jedi Knight"
+        ]
+      },
+      "matchingWeapon": [
+        "Obi-Wan's Lightsaber",
+        "Uncivilized Blaster"
+      ],
+      "legacy": false
+    },
+    {
+      "id": 6940,
+      "gempId": "216_37",
+      "side": "Light",
+      "rarity": "U",
+      "set": "216",
+      "printings": [
+        {
+          "set": "216"
+        }
+      ],
+      "front": {
+        "title": "•Master Qui-Gon Jinn, An Old Friend",
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual16-Light/large/masterquigonjinnanoldfriend.gif",
+        "type": "Character",
+        "subType": "Jedi Master",
+        "uniqueness": "*",
+        "destiny": "1",
+        "power": "6",
+        "ability": "7",
+        "deploy": "7",
+        "forfeit": "8",
+        "icons": [
+          "Warrior",
+          "Episode I"
+        ],
+        "gametext": "While 'communing': You may not deploy Rebels; Jedi Council members are destiny +1; your total power in battles is +1 for each Jedi 'communing'; once per turn, may place a card from hand on Used Pile to draw top card of Force Pile.",
+        "lore": "Blank.",
+        "extraText": [
+          "Jedi Master"
+        ]
+      },
+      "matchingWeapon": [
+        "Qui-Gon Jinn's Lightsaber",
+        "Qui-Gon's Lightsaber"
+      ],
+      "legacy": false
+    },
+    {
+      "id": 6941,
+      "gempId": "216_38",
+      "side": "Light",
+      "rarity": "C",
+      "set": "216",
+      "printings": [
+        {
+          "set": "216"
+        }
+      ],
+      "front": {
+        "title": "•Master Yoda",
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual16-Light/large/masteryoda.gif",
+        "type": "Character",
+        "subType": "Jedi Master",
+        "uniqueness": "*",
+        "destiny": "1",
+        "power": "2",
+        "ability": "7",
+        "deploy": "5",
+        "forfeit": "9",
+        "gametext": "While 'communing': You may not deploy Jedi Knights or [Maintenance] cards; [Dagobah] Luke is deploy -1 and power and defense value +1; once per turn, may deploy a battleground with two [Dark Side] from Reserve Deck; reshuffle; once per game, may retrieve 1 Force.",
+        "lore": "Blank.",
+        "extraText": [
+          "Jedi Master"
+        ]
+      },
+      "legacy": false
+    },
+    {
+      "id": 6942,
+      "gempId": "216_39",
+      "side": "Light",
+      "rarity": "U1",
+      "set": "216",
+      "printings": [
+        {
+          "set": "216"
+        }
+      ],
+      "front": {
+        "title": "•I Am Part Of The Living Force",
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual16-Light/large/iampartofthelivingforce.gif",
+        "type": "Interrupt",
+        "subType": "Starting",
+        "uniqueness": "*",
+        "destiny": "5",
+        "icons": [
+          "Episode I"
+        ],
+        "gametext": "If your starting location had 'communing' in game text, deploy Communing and stack a Jedi with 'communing' in game text on it. Deploy up to three Effects that deploy on table and are always immune to Alter. Place Interrupt in Lost Pile.",
+        "lore": "Blank."
+      },
+      "legacy": false
+    },
+    {
+      "id": 6943,
+      "gempId": "216_40",
+      "side": "Light",
+      "rarity": "U1",
+      "set": "216",
+      "printings": [
+        {
+          "set": "216"
+        }
+      ],
+      "front": {
+        "title": "••Offworld Jawas",
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual16-Light/large/offworldjawas.gif",
+        "type": "Character",
+        "subType": "Alien",
+        "uniqueness": "**",
+        "destiny": "3",
+        "power": "3",
+        "ability": "2",
+        "deploy": "4",
+        "forfeit": "4",
+        "icons": [
+          "Warrior x3"
+        ],
+        "characteristics": [
+          "Jawa",
+          "scavenger",
+          "thief"
+        ],
+        "gametext": "Draws one battle destiny if unable to otherwise. If you just verified opponent's Reserve Deck, may use 1 Force to search that Reserve Deck and place one device, weapon, or unpiloted starship there in Lost Pile; reshuffle. If none there, opponent loses 1 Force.",
+        "lore": "Jawa. Scavenger. Thief."
+      },
+      "pulledBy": [
+        "Aved Luun"
+      ],
+      "legacy": false
+    },
+    {
+      "id": 6944,
+      "gempId": "216_41",
+      "side": "Light",
+      "rarity": "U",
+      "set": "216",
+      "printings": [
+        {
+          "set": "216"
+        }
+      ],
+      "front": {
+        "title": "•Paige Tico",
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual16-Light/large/paigetico.gif",
+        "type": "Character",
+        "subType": "Resistance",
+        "uniqueness": "*",
+        "destiny": "3",
+        "power": "2",
+        "ability": "2",
+        "deploy": "2",
+        "forfeit": "5",
+        "icons": [
+          "Episode VII"
+        ],
+        "characteristics": [
+          "female",
+          "gunner"
+        ],
+        "gametext": "Adds 1 to weapon destiny draws and defense value of anything she is aboard as a passenger. While out of play, adds 1 to your total power where you have a Resistance character of ability = 2. If just lost, may place her out of play.",
+        "lore": "Female gunner."
+      },
+      "rulings": [
+        "To place her out of play using her game text, she must be lost from an active or inactive state on table - not from hand or Life Force."
+      ],
+      "legacy": false
+    },
+    {
+      "id": 6945,
+      "gempId": "216_42",
+      "side": "Light",
+      "rarity": "U",
+      "set": "216",
+      "printings": [
+        {
+          "set": "216"
+        }
+      ],
+      "front": {
+        "title": "•Tarfful",
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual16-Light/large/tarfful.gif",
+        "type": "Character",
+        "subType": "Alien/Republic",
+        "uniqueness": "*",
+        "destiny": "3",
+        "power": "6",
+        "ability": "2",
+        "deploy": "4",
+        "forfeit": "5",
+        "icons": [
+          "Warrior",
+          "Episode I"
+        ],
+        "characteristics": [
+          "leader",
+          "Wookiee"
+        ],
+        "gametext": "If a battle was just initiated at same site, may name an Interrupt; for remainder of battle, Interrupts with that title may not be played unless they are [Immune to Sense]. Once per game, if Yoda about to be lost, may place him in owner's hand instead.",
+        "lore": "Wookiee leader.",
+        "extraText": [
+          "Roar 4"
+        ]
+      },
+      "pulledBy": [
+        "Wookiee Guide (V)"
+      ],
+      "rulings": [
+        "If the chosen Interrupt is partially immune to Sense, only the immune functions may be played."
+      ],
+      "legacy": false
+    },
+    {
+      "id": 6946,
+      "gempId": "216_43",
+      "side": "Light",
+      "rarity": "R1",
+      "set": "216",
+      "printings": [
+        {
+          "set": "216"
+        }
+      ],
+      "front": {
+        "title": "•Tatooine: Obi-Wan's Hut (V)",
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual16-Light/large/tatooineobiwanshut.gif",
+        "type": "Location",
+        "subType": "Site",
+        "uniqueness": "*",
+        "destiny": "0",
+        "icons": [
+          "Exterior",
+          "Planet"
+        ],
+        "lightSideIcons": 2,
+        "darkSideIcons": 0,
+        "gametext": "Light:  If Obi-Wan 'communing,' once per turn, may subtract 2 from a just drawn [Permanent Weapon] weapon destiny.  Dark:  While Obi-Wan 'communing,' no Force drains here."
+      },
+      "legacy": false
+    },
+    {
+      "id": 6947,
+      "gempId": "216_44",
+      "side": "Light",
+      "rarity": "C",
+      "set": "216",
+      "printings": [
+        {
+          "set": "216"
+        }
+      ],
+      "front": {
+        "title": "•This Is Where The Fun Begins",
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual16-Light/large/thisiswherethefunbegins.gif",
+        "type": "Interrupt",
+        "subType": "Used",
+        "uniqueness": "*",
+        "destiny": "4",
+        "icons": [
+          "Episode I"
+        ],
+        "gametext": "If a battle was just initiated, each of your [Republic] starfighters present is power +1 and immune to attrition for remainder of turn. OR If Anakin and Obi-Wan are in a battle together, cancel one opponent's destiny just drawn (except a battle destiny).",
+        "lore": "Blank."
+      },
+      "rulings": [
+        "The first function only affects piloted Republic starfighters (landed starfighters are not piloted).",
+        "To play the first function of this Interrupt, Light must be able to target at least one piloted Republic starfighter in the battle."
+      ],
+      "legacy": false
+    },
+    {
+      "id": 6948,
+      "gempId": "216_45",
+      "side": "Light",
+      "rarity": "C",
+      "set": "216",
+      "printings": [
+        {
+          "set": "216"
+        }
+      ],
+      "front": {
+        "title": "•Wookiee Guide",
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual16-Light/large/wookieeguide.gif",
+        "type": "Interrupt",
+        "subType": "Used",
+        "uniqueness": "*",
+        "destiny": "4",
+        "icons": [
+          "Episode I"
+        ],
+        "gametext": "If opponent just initiated battle at an Endor or Kashyyyk site (or any forest), move your non-unique Wookiee there as a 'react.' OR deploy a Wookiee to a Kashyyyk site from Reserve Deck; reshuffle. OR Activate 1 Force for each Kashyyyk location you occupy.",
+        "lore": "Chewie felt right at home in the forests of Endor, which closely resemble the environment on his homeworld of Kashyyyk."
+      },
+      "pulls": [
+        "Any Wookiee character"
+      ],
+      "legacy": false
+    },
+    {
+      "id": 6949,
+      "gempId": "216_46",
+      "side": "Light",
+      "rarity": "C1",
+      "set": "216",
+      "printings": [
+        {
+          "set": "216"
+        }
+      ],
+      "front": {
+        "title": "•Wookiee Homestead",
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual16-Light/large/wookieehomestead.gif",
+        "type": "Effect",
+        "uniqueness": "*",
+        "destiny": "0",
+        "icons": [
+          "Episode I"
+        ],
+        "gametext": "Deploy on Kachirho. Your Wookiees deploy -1. If you have two Wookiees in battle, draw one battle destiny if unable to otherwise. While your Wookiee alone here, [Dark Side] icons here are canceled. (Immune to Alter.)",
+        "lore": "Blank."
+      },
+      "pulledBy": [
+        "Careful Planning (V)",
+        "The Signal",
+        "We Wish To Board At Once",
+        "Wokling (V)"
+      ],
+      "legacy": false
+    },
+    {
+      "id": 6950,
+      "gempId": "216_47",
+      "side": "Light",
+      "rarity": "R1",
+      "set": "216",
+      "printings": [
+        {
+          "set": "216"
+        }
+      ],
+      "front": {
+        "title": "•Wookiee Roar (V)",
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual16-Light/large/wookieeroar.gif",
+        "type": "Interrupt",
+        "subType": "Used",
+        "uniqueness": "*",
+        "destiny": "3",
+        "icons": [
+          "A New Hope",
+          "Episode I"
+        ],
+        "gametext": "When drawn for destiny, once per turn, choose one of your Wookiees to be power +1 for remainder of turn. If a battle was just initiated involving your Wookiee, add one destiny to total power. OR Cancel an attempt by opponent to target your Wookiee to be lost or captured.",
+        "lore": "'GHRRRRAARRRRHG!'"
+      },
+      "rulings": [
+        "Plays against Hidden Weapons during the response step, preventing the Hidden Weapons destiny from being drawn.",
+        "Only cancels the attempt, so for example Hidden Weapons still goes to Used Pile.",
+        "Using the first sentence of this card's text when drawn for destiny is not considered to be 'playing' the Interrupt."
+      ],
+      "legacy": false
+    },
+    {
+      "id": 6951,
+      "gempId": "216_48",
+      "side": "Light",
+      "rarity": "F",
+      "set": "216",
+      "printings": [
+        {
+          "set": "216"
+        }
+      ],
+      "front": {
+        "title": "•••Wookiee Warrior",
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual16-Light/large/wookieewarrior.gif",
+        "type": "Character",
+        "subType": "Alien",
+        "uniqueness": "***",
+        "destiny": "2",
+        "power": "2",
+        "ability": "2",
+        "deploy": "4",
+        "forfeit": "4",
+        "icons": [
+          "Warrior",
+          "Episode I"
+        ],
+        "characteristics": [
+          "Wookiee"
+        ],
+        "gametext": "During battle at a site, may add one destiny to total power. Once during battle, unless 'hit,' may lose this character to restore your 'hit' character here to normal.",
+        "lore": "Blank.",
+        "extraText": [
+          "Roar 4"
+        ]
+      },
+      "pulledBy": [
+        "Wookiee Guide (V)"
+      ],
+      "legacy": false
+    },
+    {
+      "id": 6952,
+      "gempId": "216_49",
+      "side": "Light",
+      "rarity": "U",
+      "set": "216",
+      "printings": [
+        {
+          "set": "216"
+        }
+      ],
+      "front": {
+        "title": "•Yarua",
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual16-Light/large/yarua.gif",
+        "type": "Character",
+        "subType": "Republic",
+        "uniqueness": "*",
+        "destiny": "2",
+        "power": "5",
+        "ability": "2",
+        "politics": "2",
+        "deploy": "4",
+        "forfeit": "4",
+        "icons": [
+          "Coruscant",
+          "Episode I",
+          "Warrior"
+        ],
+        "characteristics": [
+          "senator",
+          "Wookiee"
+        ],
+        "gametext": "If drawn for destiny, each of your Wookiees is power +1 for remainder of turn. Agenda: taxation. At Kashyyyk sites where you have two Wookiees present and your total power > 10, your Force drains are +1.",
+        "lore": "Kashyyyk's senior Wookiee senator. Believes that a thorough taxation plan will assist funding of other worthwhile Republic programs. Despises the corruption around him."
+      },
+      "pulledBy": [
+        "Might Of The Republic",
+        "Wookiee Guide (V)"
       ],
       "legacy": false
     }
