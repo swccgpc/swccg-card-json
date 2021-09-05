@@ -47,14 +47,16 @@ jobs:
           ls DiscordCardLinker
           echo
           echo "copy json files to DiscordCardLinker"
-          cp swccg-card-json/*.json DiscordCardLinker/
+          # cp swccg-card-json/*.json DiscordCardLinker/
+          cd DiscordCardLinker/
+          rm -f {Dark,Light,sets}.json ; true
+          python3 make_cards_tsv.py
           echo "commit json files to DiscordCardLinker repo"
-          cd DiscordCardLinker
           echo "should be in DiscordCardLinker: [$(pwd)]"
           git config --local user.email "devon+github-actions[bot]@hubner.org"
           git config --local user.name "github-actions[bot]"
-          git add -A *.json ; true
-          git commit -m "Updating card json files to latest" -a ; true
+          git add -A ./DiscordCardLinker/cards.tsv ; true
+          git commit -m "Updating cards.tsv to latest" -a ; true
           export GIT_SSH_COMMAND="ssh -i ../swccg-card-json-discordcardlinker.pem -o StrictHostKeyChecking=no -o UserKnownHostsFile=/dev/null"
           GIT_SSH_COMMAND="ssh -i ../swccg-card-json-discordcardlinker.pem -o StrictHostKeyChecking=no -o UserKnownHostsFile=/dev/null" git push
           rm ../swccg-card-json-discordcardlinker.pem
