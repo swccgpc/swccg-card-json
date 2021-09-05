@@ -1,0 +1,71 @@
+---
+
+name: Update DiscordCardLinker
+
+on:
+  push: 
+    branches: 
+      - main
+
+jobs:
+  update-scomp:
+    runs-on: "ubuntu-latest"
+    steps:
+      - uses: actions/checkout@main
+        with:
+          persist-credentials: false # otherwise, the token used is the GITHUB_TOKEN, instead of your personal token
+          fetch-depth: 1
+          path: swccg-card-json
+
+
+      - name: Commit json files
+        run: |
+          echo
+          echo
+          echo "ls"
+          ls -al
+          echo
+          echo "git: [$(which git)]: $(git --version)"
+          echo
+          echo "should be in /home/runner/work/swccg-card-json: [$(pwd)]"
+          echo
+          echo "${{ secrets.SWCCG_CARD_JSON_DISCORDCARDLINKER }}" > swccg-card-json-discordcardlinker.pem
+          chmod 0600 swccg-card-json.pem
+          echo "swccg-card-json.pem info:"
+          ls -al swccg-card-json.pem
+          echo
+          echo "Setting GIT_SSH_COMMAND"
+          export GIT_SSH_COMMAND="ssh -i swccg-card-json-discordcardlinker.pem -o StrictHostKeyChecking=no -o UserKnownHostsFile=/dev/null"
+          echo "git clone DiscordCardLinker"
+          git clone git@github.com:swccgpc/DiscordCardLinker.git DiscordCardLinker
+          echo
+          echo "ls"
+          ls -al
+          echo
+          ls DiscordCardLinker
+          echo
+          ls DiscordCardLinker
+          echo
+          echo "copy json files to DiscordCardLinker"
+          cp swccg-card-json/*.json DiscordCardLinker/
+          echo "commit json files to DiscordCardLinker repo"
+          cd DiscordCardLinker
+          echo "should be in DiscordCardLinker: [$(pwd)]"
+          git config --local user.email "devon+github-actions[bot]@hubner.org"
+          git config --local user.name "github-actions[bot]"
+          git add -A *.json ; true
+          git commit -m "Updating card json files to latest" -a ; true
+          export GIT_SSH_COMMAND="ssh -i ../swccg-card-json-discordcardlinker.pem -o StrictHostKeyChecking=no -o UserKnownHostsFile=/dev/null"
+          GIT_SSH_COMMAND="ssh -i ../swccg-card-json-discordcardlinker.pem -o StrictHostKeyChecking=no -o UserKnownHostsFile=/dev/null" git push
+          rm ../swccg-card-json-discordcardlinker.pem
+
+
+
+
+
+
+
+
+
+
+
