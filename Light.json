@@ -59,7 +59,7 @@
         ]
       },
       "pulledBy": [
-        "I've Got A Bad Feeling About"
+        "I've Got A Bad Feeling About..."
       ],
       "counterpart": "2X-7KPR (Tooex)",
       "combo": [
@@ -13418,7 +13418,9 @@
       ],
       "rulings": [
         "Character loses all weapons, including permanent weapons.",
-        "If Disarmed is removed, any permanent weapon(s) are restored."
+        "If Disarmed is removed, any permanent weapon(s) are restored.",
+        "During persona replacement, for power comparison purposes, reduces the power of only the on-table character card, not the new version.",
+        "During persona replacement, transfers to the new version of the character."
       ],
       "legacy": false
     },
@@ -14915,6 +14917,9 @@
         "We Wish To Board At Once"
       ],
       "counterpart": "Come With Me",
+      "rulings": [
+        "If this card removes a unique permanent pilot, that persona's uniqueness still applies (e.g. if played on Gold Leader In Gold 1, the character Dutch still cannot be deployed)."
+      ],
       "legacy": false
     },
     {
@@ -16019,6 +16024,9 @@
       ],
       "pulledBy": [
         "Hopping Mad"
+      ],
+      "rulings": [
+        "Insert cards prevent a player from counting their Reserve Deck, but a judge may be called to state whether We're Doomed is a legal play or not."
       ],
       "legacy": false
     },
@@ -24005,6 +24013,9 @@
       },
       "pulledBy": [
         "Artoo & Threepio"
+      ],
+      "rulings": [
+        "To triple the damage, Han must be present at the battle location, which is only possible at a site."
       ],
       "legacy": false
     },
@@ -36197,6 +36208,7 @@
         "Boring Conversation Anyway"
       ],
       "rulings": [
+        "The revealed cards may be deployed in any order.",
         "Does not circumvent any deployment rules such as requiring presence or Force icons, Dagobah rules, etc.",
         "All cards revealed but not deployed are lost.",
         "If the player somehow shuffles the Reserve Deck, any remaining revealed cards are un-revealed and shuffled in, ending the action.",
@@ -39823,7 +39835,7 @@
         ],
         "characteristics": [
           "guard",
-		  "leader",
+          "leader",
           "trooper"
         ],
         "gametext": "Adds 1 to forfeit of your other troopers and Rebel Guards at same site. When moving with a 'squad' of exactly three other troopers and/or Rebel Guards, all four move for 1 Force. Rebel Guards at same site may move.",
@@ -50473,6 +50485,9 @@
         "Throw Me Another Charge"
       ],
       "counterpart": "Timer Mine",
+      "rulings": [
+        "Timer Mines are not allowed to use docking bay transit."
+      ],
       "legacy": false
     },
     {
@@ -57092,7 +57107,7 @@
       ],
       "canceledBy": [
         "Commander Praji cancels game text",
-		"Restraining Bolt cancels game text"
+        "Restraining Bolt cancels game text"
       ],
       "rulings": [
         "The Force loss is a mandatory action initiated by Light. If not initiated, it occurs automatically at end of control phase. "
@@ -57167,7 +57182,7 @@
       ],
       "rulings": [
         "This causes [Set 8] Luke to be a spy, stormtrooper, and trooper in all card states.",
-		"For example, [Set 8] Luke can be taken into hand by Ambush (V)."
+        "For example, [Set 8] Luke can be taken into hand by Ambush (V)."
       ],
       "legacy": false
     },
@@ -57241,8 +57256,9 @@
       },
       "counterpart": "Death Star: Detention Block Corridor",
       "rulings": [
+        "When Dark's text imprisons Leia, she is restored to normal (no longer hit or forfeit = 0, etc).",
+        "When Dark's text imprisons Leia, any weapons and other cards on Leia remain on her.",
         "When Dark's text imprisons Leia from another site, she is placed here but it is not considered movement. It is not blocked by e.g. You Are Beaten.",
-        "When Dark's text imprisons Leia here, she is restored to normal (no longer hit or forfeit = 0, etc).",
         "Dark's text does not prevent an 'all cards situation', e.g. Program Trap will make Leia go to Lost Pile."
       ],
       "legacy": false
@@ -57624,7 +57640,7 @@
         "At Death Star sites that are 'immune to SYCFA', Dark Side's Force drains and battle damage are not canceled by SYCFA.",
         "Excluding Leia from battle will not flip the objective back to the 0-side.",
         "Capturing and siezing Leia (such as with IG-88 With Riot Gun) will flip the objective back to the 0-side.",
-		"On the 7-side, Leia's Blaster Rifle creates competing automatic actions. The player whose turn it is chooses whether the 1 Force loss or the character being lost happens first. If the character is lost first, the 1 Force loss does not occur."
+        "On the 7-side, Leia's Blaster Rifle creates competing automatic actions. The player whose turn it is chooses whether the 1 Force loss or the character being lost happens first. If the character is lost first, the 1 Force loss does not occur."
       ],
       "legacy": false
     },
@@ -57811,7 +57827,8 @@
       "rulings": [
         "Rep is defined by Agents In The Court.",
         "This card has the Rep's species in all card states, including while in hand, Reserve Deck, etc.",
-        "This card has the Rep's species even while its gametext is canceled."
+        "This card has the Rep's species even while its gametext is canceled.",
+        "When retrieving multiple Force, the once per turn action may respond to any one individual unit of retrieved Force."
       ],
       "legacy": false
     },
@@ -57960,7 +57977,8 @@
       },
       "rulings": [
         "May only deploy on table if instructed to do so, such as via I Am Part Of The Living Force.",
-        "A Jedi stacked on Communing is considered out of play, but has not been 'just placed out of play' such as for I Can't Believe He's Gone."
+        "A Jedi stacked on Communing is considered out of play, but has not been 'just placed out of play' such as for I Can't Believe He's Gone.",
+        "The objective Bring Him Before Me prevents Luke from being stacked on Communing."
       ],
       "legacy": false
     },
@@ -58207,7 +58225,7 @@
         "If a player loses Force from Life Force to stack here, it is not revealed.",
         "Increases the typical '4 ability' requirement for drawing battle destiny.",
         "Also increases any special requirements such as on A Jedi's Strength.",
-		"A training destiny draw is 'at' the location of the apprentice."
+        "A training destiny draw is 'at' the location of the apprentice."
       ],
       "legacy": false
     },
@@ -58391,6 +58409,9 @@
         "Obi-Wan's Lightsaber",
         "Uncivilized Blaster"
       ],
+      "rulings": [
+        "You may not persona replace a character if the new version would violate this card's deployment restrictions."
+      ],
       "legacy": false
     },
     {
@@ -58429,6 +58450,9 @@
         "Qui-Gon Jinn's Lightsaber",
         "Qui-Gon's Lightsaber"
       ],
+      "rulings": [
+        "You may not persona replace a character if the new version would violate this card's deployment restrictions."
+      ],
       "legacy": false
     },
     {
@@ -58459,6 +58483,9 @@
           "Jedi Master"
         ]
       },
+      "rulings": [
+        "You may not persona replace a character if the new version would violate this card's deployment restrictions."
+      ],
       "legacy": false
     },
     {
@@ -58676,7 +58703,7 @@
         }
       ],
       "front": {
-        "title": "•Wookiee Guide",
+        "title": "•Wookiee Guide (V)",
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual16-Light/large/wookieeguide.gif",
         "type": "Interrupt",
         "subType": "Used",
@@ -58794,6 +58821,9 @@
       "pulledBy": [
         "Wookiee Guide (V)"
       ],
+      "rulings": [
+        "If K'lor'slug (V) is on table, attempting to use this card's text to lose itself will fail to restore the 'hit' character to normal, but will still cause Wookiee Warrior to be lost at end of battle per K'lor'slug (and if forfeited, forfeit for 0)."
+      ],
       "legacy": false
     },
     {
@@ -58808,7 +58838,7 @@
         }
       ],
       "front": {
-        "title": "•Yarua",
+        "title": "•Yarua (V)",
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual16-Light/large/yarua.gif",
         "type": "Character",
         "subType": "Republic",
