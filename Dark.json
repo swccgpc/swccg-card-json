@@ -197,6 +197,9 @@
       "combo": [
         "3B3-21 + Daultay Dofine"
       ],
+      "rulings": [
+        "The revealed cards may be deployed in any order."
+      ],
       "legacy": false
     },
     {
@@ -806,6 +809,9 @@
       },
       "cancels": [
         "Sense"
+      ],
+      "rulings": [
+        "The Lost function may cancel the targeting of Booma (provided Dark chooses an alien target)."
       ],
       "legacy": false
     },
@@ -5551,12 +5557,9 @@
         "Lieutenant Venka",
         "Lieutenant Watts",
         "Lord Vader",
-        "Lt",
-        "Pol Treidum",
-        "Lt",
-        "Pol Treidum (V)",
-        "Lt",
-        "Shann Childsen",
+        "Lt. Pol Treidum",
+        "Lt. Pol Treidum (V)",
+        "Lt. Shann Childsen",
         "Maarek Stele",
         "The Emperor's Reach",
         "Major Hewex",
@@ -9835,6 +9838,9 @@
         "We Must Accelerate Our Plans"
       ],
       "counterpart": "Eject! Eject!",
+      "rulings": [
+        "If this card removes a unique permanent pilot, that persona's uniqueness still applies (e.g. if played on Gold Leader In Gold 1, the character Dutch still cannot be deployed)."
+      ],
       "legacy": false
     },
     {
@@ -15714,7 +15720,9 @@
       ],
       "rulings": [
         "Character loses all weapons, including permanent weapons.",
-        "If Disarmed is removed, any permanent weapon(s) are restored."
+        "If Disarmed is removed, any permanent weapon(s) are restored.",
+        "During persona replacement, for power comparison purposes, reduces the power of only the on-table character card, not the new version.",
+        "During persona replacement, transfers to the new version of the character."
       ],
       "legacy": false
     },
@@ -16095,8 +16103,6 @@
         "IG-88",
         "IG-88 (V)",
         "IG-88 With Riot Gun",
-        "IG-88",
-        "Renegade Droid (V)",
         "Jodo Kast",
         "Jodo Kast (V)",
         "Ree-Yees",
@@ -17521,6 +17527,7 @@
         "Light Maneuvers"
       ],
       "rulings": [
+        "The revealed cards may be deployed in any order.",
         "Does not circumvent any deployment rules such as requiring presence or Force icons, Dagobah rules, etc.",
         "All cards revealed but not deployed are lost.",
         "If Blizzard 4 shuffles the Reserve Deck, any remaining revealed cards are un-revealed and shuffled in, ending the action.",
@@ -21540,6 +21547,9 @@
         "gametext": "If opponent just initiated a battle at an exterior site with double your total power, reveal top 3 cards of your Reserve Deck. If any of those cards are scouts or speeder bikes, deploy them for free to that battle (replace others on top of Reserve Deck in same order).",
         "lore": "When confronted with enemy troops, biker scouts are instructed to immediately call for reinforcements."
       },
+      "rulings": [
+        "The revealed cards may be deployed in any order."
+      ],
       "legacy": false
     },
     {
@@ -22139,7 +22149,8 @@
         "We Must Accelerate Our Plans"
       ],
       "rulings": [
-        "Both functions deploy only on a character card (not on a permanent pilot)."
+        "Both functions deploy only on a character card (not on a permanent pilot).",
+        "Per errata, this card is unique (•)."
       ],
       "legacy": false
     },
@@ -23074,7 +23085,7 @@
       "rulings": [
         "For the Used function, any weapon results that would have affected the Imperial affect the captive instead.",
         "Weapon results that don't affect a specific character (such as Force loss) do not change.",
-		"A hit captive is immediately lost (even during battle).",
+        "A hit captive is immediately lost (even during battle).",
         "For the Lost function, captives forfeit values are affected by global modifiers (e.g. Insurrection) and modifiers that affect captives (e.g. Lieutenant Sheckil)."
       ],
       "legacy": false
@@ -23980,8 +23991,6 @@
       "matching": [
         "IG-88",
         "IG-88 (V)",
-        "IG-88",
-        "Renegade Droid (V)",
         "IG-88 With Riot Gun"
       ],
       "legacy": false
@@ -24083,6 +24092,10 @@
       "matchingWeapon": [
         "IG-88's Neural Inhibitor",
         "IG-88's Pulse Cannon"
+      ],
+      "rulings": [
+        "A destiny targets IG-88 (V) if it is used in comparison with a number on the IG-88 (V) card, such as his armor.",
+        "The destiny drawn for the weapon Booma does not target IG-88 (V)."
       ],
       "legacy": false
     },
@@ -24196,8 +24209,7 @@
       "matchingWeapon": [
         "IG-88",
         "IG-88 (V)",
-        "IG-88",
-        "Renegade Droid (V)"
+        "IG-88 With Riot Gun"
       ],
       "legacy": false
     },
@@ -24233,8 +24245,7 @@
       "matchingWeapon": [
         "IG-88",
         "IG-88 (V)",
-        "IG-88",
-        "Renegade Droid (V)"
+        "IG-88 With Riot Gun"
       ],
       "legacy": false
     },
@@ -26396,6 +26407,9 @@
         "Bib Fortuna (EP1) is power 12 when Jabba uses 1 Force to double power.",
         "Jabba The Hutt (V) + 4-LOM With Concussion Rifle 4-LOM adds one battle destiny with Jabba.",
         "Jabba The Hutt (V) + Boelo Cancel one opponent's battle destiny."
+      ],
+      "rulings": [
+        "While with a Dark alien leader, may not use Weapon Levitation."
       ],
       "legacy": false
     },
@@ -30594,6 +30608,9 @@
         "lore": "Gantry officer charged with maintaining magnetic field, atmosphere and security in Death Star docking bay. After mission on Ralltiir, paranoid about infiltration by Rebel spies."
       },
       "conceptBy": "(Original concept by Ryan Jellison and Blake Huffman)",
+      "rulings": [
+        "If deployed by a Used Interrupt, Treidum draws a card after using Force to pay his deploy cost, but before placing that Interrupt in Used Pile."
+      ],
       "legacy": false
     },
     {
@@ -34287,7 +34304,8 @@
         "Inconsequential Barriers"
       ],
       "rulings": [
-        "Does not work if (for example) Mara Jade at a Jabba's Palace site."
+        "Does not work if (for example) Mara Jade at a Jabba's Palace site.",
+        "If (for example) Luke is returned to hand, Light may not deploy any Luke persona card again that turn."
       ],
       "legacy": false
     },
@@ -46920,6 +46938,9 @@
         "gametext": "Deploy on table. Once per turn, may deploy Maul's Lightsaber from Reserve Deck; reshuffle. At start of opponent's control phase, may relocate Maul to same site as a Jedi. May place this Effect out of play to deploy Maul's Lightsaber from Lost Pile. (Immune to Alter.)",
         "lore": "'At last we will reveal ourselves to the Jedi.'"
       },
+      "rulings": [
+        "This may deploy Maul's Double-Bladed Lightsaber."
+      ],
       "legacy": false
     },
     {
@@ -47878,6 +47899,9 @@
         "lore": "A timer-activated explosive device designed to be placed by a mining droid. Originally used in ore and spice mines for demolition. Altered for military use."
       },
       "counterpart": "Timer Mine",
+      "rulings": [
+        "Timer Mines are not allowed to use docking bay transit."
+      ],
       "legacy": false
     },
     {
@@ -55135,7 +55159,7 @@
       ],
       "legacy": false
     },
-	{
+    {
       "id": 6903,
       "gempId": "216_1",
       "side": "Dark",
@@ -55199,7 +55223,8 @@
       "rulings": [
         "Rep is defined by My Kind Of Scum.",
         "This card has the Rep's species in all card states, including while in hand, Reserve Deck, etc.",
-        "This card has the Rep's species even while its gametext is canceled."
+        "This card has the Rep's species even while its gametext is canceled.",
+        "When retrieving multiple Force, the once per turn action may respond to any one individual unit of retrieved Force."
       ],
       "legacy": false
     },
@@ -55245,8 +55270,8 @@
       "pulls": [
         "Any captain",
         "Death Trooper",
-		"Stormtrooper Garrison",
-		"Stormtrooper Patrol"
+        "Stormtrooper Garrison",
+        "Stormtrooper Patrol"
       ],
       "matching": [
         "Captain Needa",
@@ -55285,17 +55310,20 @@
     },
     {
       "id": 6907,
-      "gempId": "216_99",
+      "gempId": "216_5",
       "side": "Dark",
       "rarity": "R",
-      "set": "216",
+      "set": "200d",
       "printings": [
         {
-          "set": "216"
+          "set": "200"
+        },
+        {
+          "set": "200d"
         }
       ],
       "front": {
-        "title": "•Crossfire (V)",
+        "title": "•Crossfire (Endor) (V)",
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual16-Dark/large/crossfirev.gif",
         "type": "Defensive Shield",
         "uniqueness": "*",
@@ -55314,10 +55342,13 @@
       "gempId": "216_5",
       "side": "Dark",
       "rarity": "PM",
-      "set": "216",
+      "set": "200d",
       "printings": [
         {
-          "set": "216"
+          "set": "200"
+        },
+        {
+          "set": "200d"
         }
       ],
       "front": {
@@ -55388,7 +55419,8 @@
         "Vader's Lightsaber"
       ],
       "rulings": [
-        "If Amidala is prevented from being made immediately lost by K'lor'slug (V), her gametext is still canceled."
+        "If Amidala is prevented from being made immediately lost by K'lor'slug (V), her gametext is still canceled.",
+        "Even if persona replacing a Vader whose gametext is already being canceled by Amidala, this card's game text will not be canceled by Amidala."
       ],
       "legacy": false
     },
@@ -55421,7 +55453,7 @@
         "On The Verge Of Greatness/Taking Control Of The Weapon"
       ],
       "counterpart": "Death Star",
-	  "rulings": [
+      "rulings": [
         "Both players may use the 'react' text on this card."
       ],
       "legacy": false,
@@ -55532,7 +55564,7 @@
         }
       ],
       "front": {
-        "title": "•Naboo",
+        "title": "•Naboo (V)",
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual16-Dark/large/naboo.gif",
         "type": "Location",
         "subType": "System",
@@ -55581,6 +55613,8 @@
         "gametext": "On The Verge Of Greatness: Deploy [Set 16] Death Star and Scarif systems, Citadel Tower, Commence Primary Ignition, and Shield Gate. {For} remainder of game, you may not deploy characters of ability > 4 (except Vader). Vader is power +2 and he (or a Star Destroyer he is piloting) may make a regular move to a battle just initiated. {While} this side up, once per turn, may deploy a site (or Imperial trooper) to Scarif from Reserve Deck; reshuffle. {Flip} this card if Krennic or Tarkin on Scarif and Death Star orbiting Scarif. Taking Control Of The Weapon: {While} this side up, your Force generation is +2 for each 'blown away' Scarif site. Tarkin Doctrine is immune to Alter and, when it initiates Force loss, may take any one card into hand from Force Pile. Once per turn, if opponent's character just lost from your site, may place it out of play unless opponent loses 1 Force. Tarkin adds 3 to total of Commence Primary Ignition. {Flip} this card if you have no leaders on Scarif. {Place} this card out of play if Shield Gate not on table or if Death Star has been 'blown away.'"
       },
       "rulings": [
+        "Vader can make any type of regular move into battle. Examples include landspeed, shuttling (up or down) and docking bay transit.",
+        "Vader cannot use the text on Vader's Castle to move into battle, nor any other site that specifies that it only works during move phase.",
         "Even if Tarkin Doctrine causes multiple Force loss, it only initiates Force loss once per turn."
       ],
       "legacy": false
@@ -55823,7 +55857,7 @@
         }
       ],
       "front": {
-        "title": "•Superlaser",
+        "title": "•Superlaser (V)",
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual16-Dark/large/superlaser.gif",
         "type": "Weapon",
         "subType": "Death Star",
