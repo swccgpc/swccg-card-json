@@ -277,7 +277,7 @@
           "thief"
         ],
         "gametext": "Total power at same site is +1 for each of your alien/droid pairs present. Once during each battle, if present with Zuckuss, may use 1 Force to search any Used Pile and move 1 character there to the Lost Pile. May initiate battle and be battled.",
-        "lore": "Information Broker. Thief. Overrode and reprogrammed its own selfgoverning software. Convinced Jabba the Hut to upgrade its armor and weaponry. Became a bounty hunter.",
+        "lore": "Information Broker. Thief. Overrode and reprogrammed its own self-governing software. Convinced Jabba the Hut to upgrade its armor and weaponry. Became a bounty hunter.",
         "extraText": [
           "Protocol Droid"
         ]
@@ -10185,7 +10185,7 @@
           "spy"
         ],
         "gametext": "Adds 2 to power of anything he pilots. When he is present with a Scomp link, once during each of your deploy phases, you may deploy one battleground system from Reserve Deck; reshuffle.",
-        "lore": "Elite Imperial scout and spy. Often poses as a freighter captain making runs to the Outer Rim. Monitors activites of Rebels and other criminals."
+        "lore": "Elite Imperial scout and spy. Often poses as a freighter captain making runs to the Outer Rim. Monitors activities of Rebels and other criminals."
       },
       "pulls": [
         "Anoat",
@@ -11905,7 +11905,7 @@
         "subType": "Used",
         "destiny": "4",
         "gametext": "If you have a piloted AT-AT present at a site, target opponent's non-creature vehicle present at same or adjacent exterior site. Draw destiny. If AT-AT has a vehicle weapon, add 1 to destiny draw. Target 'crashes' if total destiny > 3.",
-        "lore": "AT-AT weapons are rarely quick enough to score a direct hit on a fastmoving snowspeeder. They are more likely to wing a craft, causing a forced landing."
+        "lore": "AT-AT weapons are rarely quick enough to score a direct hit on a fast-moving snowspeeder. They are more likely to wing a craft, causing a forced landing."
       },
       "legacy": false
     },
@@ -12381,7 +12381,7 @@
           "lightsaber"
         ],
         "gametext": "Use X Force to deploy on your warrior where X = (7 - warrior's ability). May add 1 to Force drain where present. May target a character or creature using X Force. Draw two destiny. Target hit if total destiny > defense value.",
-        "lore": "Multifaceted jewels focus light into a deadly blade. Projects a meterlong beam of pure energy. A lightsaber is constructed personally by a Jedi as a part of training."
+        "lore": "Multifaceted jewels focus light into a deadly blade. Projects a meter-long beam of pure energy. A lightsaber is constructed personally by a Jedi as a part of training."
       },
       "pulledBy": [
         "I Will Finish What You Started",
@@ -12411,7 +12411,7 @@
         "subType": "Character",
         "destiny": "2",
         "gametext": "Deploy on Aurra, Grievous, or your warrior of ability > 4. May add 1 to Force drain where present. May target a character or creature for free. Draw two destiny. Target hit, and may not be used to satisfy attrition, if total destiny > defense value.",
-        "lore": "Multifaceted jewels focus light into a deadly blade. Projects a meterlong beam of pure energy. A lightsaber is constructed personally by a Jedi as a part of training."
+        "lore": "Multifaceted jewels focus light into a deadly blade. Projects a meter-long beam of pure energy. A lightsaber is constructed personally by a Jedi as a part of training."
       },
       "legacy": false
     },
@@ -25483,7 +25483,7 @@
           "Imperial (starship)",
           "ship-docking capability"
         ],
-        "gametext": "May add 6 pilots, 8 passengers, 2 vehicles and 4 TIEs. Has shipdocking capability. Permanent pilot aboard provides ability of 1.",
+        "gametext": "May add 6 pilots, 8 passengers, 2 vehicles and 4 TIEs. Has ship-docking capability. Permanent pilot aboard provides ability of 1.",
         "lore": "Mainstay of Imperial Navy. 1.6 kilometers long. Has hangars and facilities for TIE fighter squadrons, shuttles, drop-ships and combat vehicles such as AT-ATs and AT-ATs."
       },
       "pulledBy": [
@@ -34538,7 +34538,7 @@
         "imageUrl": "https://res.starwarsccg.org/cards/Premiere-Dark/large/observationholocam.gif",
         "type": "Device",
         "destiny": "3",
-        "gametext": "Deploy on a site. Adds 1 to the total weapon destiny of each of your automated weapons at same and adjacent sites. During battle, may add the power of one of your characters at an adajcent site you control to your total.",
+        "gametext": "Deploy on a site. Adds 1 to the total weapon destiny of each of your automated weapons at same and adjacent sites. During battle, may add the power of one of your characters at an adjacent site you control to your total.",
         "lore": "Remote surveillance viewers with droid controllers supplement security. Can activate alarms and automated weapons when needed, bringing help to endangered locations."
       },
       "legacy": false
@@ -37088,7 +37088,7 @@
         "uniqueness": "*",
         "destiny": "4",
         "gametext": "Use 2 Force to deploy on an opponent's droid (except R2-D2 and C- 3PO), 1 on your droid. When either player draws a destiny matching the number of characters at same site, droid 'explodes' (all characters present are lost).",
-        "lore": "Imperial slicers imbed a secret command in a droid's primary performance banks. A predetermined trigger causes a power overload, destroying the droid and anything nearby."
+        "lore": "Imperial slicers embed a secret command in a droid's primary performance banks. A predetermined trigger causes a power overload, destroying the droid and anything nearby."
       },
       "pulledBy": [
         "Twi'lek Advisor",
@@ -37182,7 +37182,7 @@
         "subType": "Starship",
         "destiny": "1",
         "gametext": "Deploy on a bomber: When present during a Force drain, may target a related interior site. Draw destiny. Site 'collapsed' if destiny > 4. OR May fire in a Bombing Run battle. Draw destiny. All characters, starships and vehicles with that destiny number at same site are lost.",
-        "lore": "Proton-scattering energy warheads. Especially effective against rayand energy-shielded targets. Ineffective against particle deflector."
+        "lore": "Proton-scattering energy warheads. Especially effective against ray and energy-shielded targets. Ineffective against particle deflector."
       },
       "pulledBy": [
         "I Can't Shake Him!",
@@ -37971,7 +37971,7 @@
         "characteristics": [
           "musician"
         ],
-        "gametext": "Where present, adds X to Force opponent must use to initiate battle, where X = number of musicians present. May target one non-droid character resent in battle. Draw destiny. If destiny > defense balue, target is power = 0 this battle.",
+        "gametext": "Where present, adds X to Force opponent must use to initiate battle, where X = number of musicians present. May target one non-droid character resent in battle. Draw destiny. If destiny > defense value, target is power = 0 this battle.",
         "lore": "Shawda Ubb musician from Manpha. Plays growdi. Real name Rapotwanalantonee. When cornered in a fight, he can spit a paralyzing poison."
       },
       "pulledBy": [
@@ -38477,7 +38477,7 @@
         "imageUrl": "https://res.starwarsccg.org/cards/Premiere-Dark/large/restrainingbolt.gif",
         "type": "Device",
         "destiny": "6",
-        "gametext": "Deploy on any droid at any site. Droid cannot move and cannot utilize its 'game text.' During your deploy phase, Restraining Bolt may be transfered (for free) to another droid at same site.",
+        "gametext": "Deploy on any droid at any site. Droid cannot move and cannot utilize its 'game text.' During your deploy phase, Restraining Bolt may be transferred (for free) to another droid at same site.",
         "lore": "Affixed to droid's special recessed socket by using a fusion welder. Bolts can override a droid's circuits, freezing it in place if the droid tries to disobey orders."
       },
       "counterpart": "Restraining Bolt",
@@ -39899,7 +39899,7 @@
         "characteristics": [
           "Imperial (starship)"
         ],
-        "gametext": "May add 1 pilot. Hebsly deploys -2 aboard. Once during each of your move phases, may fire one starship weapon aboard ('hit' targes are lost). Immune to attrition < 4 when Hebsly piloting.",
+        "gametext": "May add 1 pilot. Hebsly deploys -2 aboard. Once during each of your move phases, may fire one starship weapon aboard ('hit' targets are lost). Immune to attrition < 4 when Hebsly piloting.",
         "lore": "Heavily modified TIE/ln. Cannons upgraded to destroy small asteroids while serving in Anoat system. P-w702 maneuvering jets added by Death Star technicians.",
         "extraText": [
           "No Hyperdrive"
@@ -43775,7 +43775,7 @@
         "uniqueness": "*",
         "destiny": "3",
         "gametext": "Deploy on Death Star system at parsec 0. May target a capital starship at Death Star system, or at a system it orbits, using 4 Force. Draw two destiny. Target hit if total destiny > defense value.",
-        "lore": "The Death Star has more firepower than the combined might the entire Imperial fleet. Enormous generators power the devastating planetdestroying weapon."
+        "lore": "The Death Star has more firepower than the combined might the entire Imperial fleet. Enormous generators power the devastating planet-destroying weapon."
       },
       "pulledBy": [
         "Death Star Gunner"
