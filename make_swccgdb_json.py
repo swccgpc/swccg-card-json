@@ -206,6 +206,8 @@ def parse_json_file(json_file="Light.json"):
   global set_output_json_files
   global release_sets
 
+  found_shields = list()
+
   print("Parsing %s" % json_file)
   with open(json_file) as json_data:
     side_json = json.load(json_data)
@@ -249,8 +251,51 @@ def parse_json_file(json_file="Light.json"):
       gempid                   = card["gempId"].split("_")
       side                     = card["side"].lower().capitalize()
       setcode                  = release_sets[card["set"]]["abbr"]
-      collecting               = release_sets[card["set"]]["abbr"]+card["rarity"]+gempid[1]
       cardname                 = get_val(card['front'], 'title')
+      ## Generate a collecting code like they have with MTG.
+      ## The collecting code is basically: ReleaseAbbr+Rarity+CardID
+      ## The interesting part is that we have 3 different levels of "Unlimited" cards: U, U1, and U2.
+      ## If you take the Card ID 14 and the rarity code of U, you get: U14
+      ## If you take the Card ID 4 and the rarity code U1, you get: U14
+      ##   •Lt. Poldin Lehuse            V11U14  V11 U1  4
+      ##   •Trade Federation Tactics (V) V11U14  V11 U  14
+      ## Ensure that the card ID is always 3 numbers:
+      ##   •Lt. Poldin Lehuse        V11U1004  V11 U1  4
+      ##   •Trade Federation Tactics (V) V11U014   V11 U 14
+      collecting               = release_sets[card["set"]]["abbr"]+card["rarity"]+("000"+gempid[1])[-3:]
+      #if (str(gempid[0]) == '211') and (str(gempid[1]) == '4'):
+      #  collecting = release_sets[card["set"]]["abbr"]+card["rarity"]+"0"+gempid[1]
+      if "(AI)" in cardname:
+        collecting = collecting + "AI"
+      if "(OAI)" in cardname:
+        collecting = collecting + "OAI"
+
+      ## VDSPM026  VDS PM  ['200', '26'] •Don't Do That Again (Tatooine) (V) 5492
+      ## VDSPM026  VDS PM  ['200', '26'] •Don't Do That Again (V)  4404
+      ##
+      ## VDSPM032  VDS PM  ['200', '32'] •Your Insight Serves You Well (Death Star II) (V) 6048
+      ## VDSPM032  VDS PM  ['200', '32'] •Your Insight Serves You Well (V) 4407
+      ##
+      ## VDSPM095  VDS PM  ['200', '95'] •Fanfare (Tatooine) (V) 6293
+      ## VDSPM095  VDS PM  ['200', '95'] •Fanfare (V)  4402
+      ##
+      ## VDSPM005  VDS PM  ['301', '5']  •Your Ship? (V) 6787
+      ## VDSPM005  VDS PM  ['216', '5']  •Crossfire (V)  6908
+
+      if release_sets[card["set"]]["abbr"] == "VDS":
+        found_shields.append(collecting)
+
+      if (
+           (str(gempid[0]) == '211') and ((str(gempid[1]) == '4') or (str(gempid[1]) == '14')) or
+           (collecting in ["V3C027", "VDSPM026", "VDSPM032", "VDSPM095", "VDSPM005"])
+           #((release_sets[card["set"]]["abbr"] == "VDS") and (card["rarity"] == "PM"))
+         ):
+        print(collecting + "\t" +
+              release_sets[card["set"]]["abbr"] + "\t" + 
+              card["rarity"] + "\t" + 
+              str(gempid) + "\t" + 
+              cardname + "\t" + str(cardid))
+
       imageurl                 = get_val(card['front'], 'imageUrl')
       grouping                 = get_val(card, 'side')
       cardtype                 = get_val(card['front'], 'type')
@@ -376,168 +421,182 @@ def parse_json_file(json_file="Light.json"):
       cardnamev                = get_val(card['front'], "title")
       uniquenessv              = get_val(card['front'], "uniqueness")
 
+      
+      ##
+      ## Some times there are TWO copies of the same defensive shield in the database.
+      ## There can be TWO copies when a new VIRTUAL Defensive Shield is created
+      ## from an effect AND a shield.
+      ## For example: "Your Insight Serves You Well"
+      ##   * In DeathStarII it was an EFFECT
+      ##   * In Reflections3 it was a DEFENSIVE shield
+      ##   * A VIRTUAL DEFENSIVE SHIELD C-Slip (Cover-All slip) was released for the EFFECT Version.
+      ##   * A VIRTUAL DEFENSIVE SHIELD V-Slip (half slip) was released for the DEFENSIVE SHIELD Version.
+      ## Since the ID's, stats, and images are the same,
+      ## then there is no need to import the card twice.
+      ##
+      if collecting not in found_shields:
 
-      cur.execute('''
-      INSERT INTO SWD
-        (id,cardname,grouping,cardtype,subtype,modeltype,expansion,rarity,uniqueness,characteristics,destiny,power,ferocity,creaturedefensevalue,creaturedefensevaluename,objectivefront,objectiveback,objectivefrontname,objectivebackname,deploy,forfeit,armor,ability,hyperspeed,landspeed,politics,maneuver,forceaptitude,lore,gametext,jeditestnumber,lightsideicons,darksideicons,lightsidetext,darksidetext,parsec,icons,planet,space,mobile,interior,exterior,underground,creature,vehicle,starship,underwater,pilot,warrior,astromech,permanentweapon,selectivecreature,independent,scomplink,droid,tradefederation,republic,episode1,information,abbreviation,pulls,ispulled,counterpart,combo,matching,matchingweapon,rules,cancels,iscanceledby,inventory,needs,expansionv,influence,grabber,errata,cardnamev,uniquenessv)
-      VALUES(
-         %i,  -- cardid
-        "%s", -- cardname,
-        "%s", -- grouping,
-        "%s", -- cardtype,
-        "%s", -- subtype,
-        "%s", -- modeltype,
-        "%s", -- expansion,
-        "%s", -- rarity,
-        "%s", -- uniqueness,
-        "%s", -- characteristics,
-        "%s", -- destiny,
-        "%s", -- power,
-        "%s", -- ferocity,
-        "%s", -- creaturedefensevalue,
-        "%s", -- creaturedefensevaluename,
-        "%s", -- objectivefront,
-        "%s", -- objectiveback,
-        "%s", -- objectivefrontname,
-        "%s", -- objectivebackname,
-        "%s", -- deploy,
-        "%s", -- forfeit,
-        "%s", -- armor,
-        "%s", -- ability,
-        "%s", -- hyperspeed,
-        "%s", -- landspeed,
-        "%s", -- politics,
-        "%s", -- maneuver,
-        "%s", -- forceaptitude,
-        "%s", -- lore,
-        "%s", -- gametext,
-        "%s", -- jeditestnumber,
-        "%s", -- lightsideicons,
-        "%s", -- darksideicons,
-        "%s", -- lightsidetext,
-        "%s", -- darksidetext,
-        "%s", -- parsec,
-        "%s", -- icons,
-        "%s", -- planet,
-        "%s", -- space,
-        "%s", -- mobile,
-        "%s", -- interior,
-        "%s", -- exterior,
-        "%s", -- underground,
-        "%s", -- creature,
-        "%s", -- vehicle,
-        "%s", -- starship,
-        "%s", -- underwater,
-        "%s", -- pilot,
-        "%s", -- warrior,
-        "%s", -- astromech,
-        "%s", -- permanentweapon,
-        "%s", -- selectivecreature,
-        "%s", -- independent,
-        "%s", -- scomplink,
-        "%s", -- droid,
-        "%s", -- tradefederation,
-        "%s", -- republic,
-        "%s", -- episode1,
-        "%s", -- information,
-        "%s", -- abbreviation,
-        "%s", -- pulls,
-        "%s", -- ispulled,
-        "%s", -- counterpart,
-        "%s", -- combo,
-        "%s", -- matching,
-        "%s", -- matchingweapon,
-        "%s", -- rules,
-        "%s", -- cancels,
-        "%s", -- iscanceledby,
-         %i,  -- inventory, -- int
-         %i,  -- needs,     -- int
-        "%s", -- expansionv,
-        "%s", -- influence,
-        "%s", -- grabber,
-        "%s", -- errata,
-        "%s", -- cardnamev,
-        "%s"  -- uniquenessv
-      );
-      ''' % (cardid,cardname,grouping,cardtype,subtype,modeltype,expansion,rarity,uniqueness,characteristics,destiny,power,ferocity,creaturedefensevalue,creaturedefensevaluename,objectivefront,objectiveback,objectivefrontname,objectivebackname,deploy,forfeit,armor,ability,hyperspeed,landspeed,politics,maneuver,forceaptitude,lore,gametext,jeditestnumber,lightsideicons,darksideicons,lightsidetext,darksidetext,parsec,icons,planet,space,mobile,interior,exterior,underground,creature,vehicle,starship,underwater,pilot,warrior,astromech,permanentweapon,selectivecreature,independent,scomplink,droid,tradefederation,republic,episode1,information,abbreviation,pulls,ispulled,counterpart,combo,matching,matchingweapon,rules,cancels,iscanceledby,inventory,needs,expansionv,influence,grabber,errata,cardnamev,uniquenessv)
-      )
-      con.commit()
+        cur.execute('''
+        INSERT INTO SWD
+          (id,cardname,grouping,cardtype,subtype,modeltype,expansion,rarity,uniqueness,characteristics,destiny,power,ferocity,creaturedefensevalue,creaturedefensevaluename,objectivefront,objectiveback,objectivefrontname,objectivebackname,deploy,forfeit,armor,ability,hyperspeed,landspeed,politics,maneuver,forceaptitude,lore,gametext,jeditestnumber,lightsideicons,darksideicons,lightsidetext,darksidetext,parsec,icons,planet,space,mobile,interior,exterior,underground,creature,vehicle,starship,underwater,pilot,warrior,astromech,permanentweapon,selectivecreature,independent,scomplink,droid,tradefederation,republic,episode1,information,abbreviation,pulls,ispulled,counterpart,combo,matching,matchingweapon,rules,cancels,iscanceledby,inventory,needs,expansionv,influence,grabber,errata,cardnamev,uniquenessv)
+        VALUES(
+           %i,  -- cardid
+          "%s", -- cardname,
+          "%s", -- grouping,
+          "%s", -- cardtype,
+          "%s", -- subtype,
+          "%s", -- modeltype,
+          "%s", -- expansion,
+          "%s", -- rarity,
+          "%s", -- uniqueness,
+          "%s", -- characteristics,
+          "%s", -- destiny,
+          "%s", -- power,
+          "%s", -- ferocity,
+          "%s", -- creaturedefensevalue,
+          "%s", -- creaturedefensevaluename,
+          "%s", -- objectivefront,
+          "%s", -- objectiveback,
+          "%s", -- objectivefrontname,
+          "%s", -- objectivebackname,
+          "%s", -- deploy,
+          "%s", -- forfeit,
+          "%s", -- armor,
+          "%s", -- ability,
+          "%s", -- hyperspeed,
+          "%s", -- landspeed,
+          "%s", -- politics,
+          "%s", -- maneuver,
+          "%s", -- forceaptitude,
+          "%s", -- lore,
+          "%s", -- gametext,
+          "%s", -- jeditestnumber,
+          "%s", -- lightsideicons,
+          "%s", -- darksideicons,
+          "%s", -- lightsidetext,
+          "%s", -- darksidetext,
+          "%s", -- parsec,
+          "%s", -- icons,
+          "%s", -- planet,
+          "%s", -- space,
+          "%s", -- mobile,
+          "%s", -- interior,
+          "%s", -- exterior,
+          "%s", -- underground,
+          "%s", -- creature,
+          "%s", -- vehicle,
+          "%s", -- starship,
+          "%s", -- underwater,
+          "%s", -- pilot,
+          "%s", -- warrior,
+          "%s", -- astromech,
+          "%s", -- permanentweapon,
+          "%s", -- selectivecreature,
+          "%s", -- independent,
+          "%s", -- scomplink,
+          "%s", -- droid,
+          "%s", -- tradefederation,
+          "%s", -- republic,
+          "%s", -- episode1,
+          "%s", -- information,
+          "%s", -- abbreviation,
+          "%s", -- pulls,
+          "%s", -- ispulled,
+          "%s", -- counterpart,
+          "%s", -- combo,
+          "%s", -- matching,
+          "%s", -- matchingweapon,
+          "%s", -- rules,
+          "%s", -- cancels,
+          "%s", -- iscanceledby,
+           %i,  -- inventory, -- int
+           %i,  -- needs,     -- int
+          "%s", -- expansionv,
+          "%s", -- influence,
+          "%s", -- grabber,
+          "%s", -- errata,
+          "%s", -- cardnamev,
+          "%s"  -- uniquenessv
+        );
+        ''' % (cardid,cardname,grouping,cardtype,subtype,modeltype,expansion,rarity,uniqueness,characteristics,destiny,power,ferocity,creaturedefensevalue,creaturedefensevaluename,objectivefront,objectiveback,objectivefrontname,objectivebackname,deploy,forfeit,armor,ability,hyperspeed,landspeed,politics,maneuver,forceaptitude,lore,gametext,jeditestnumber,lightsideicons,darksideicons,lightsidetext,darksidetext,parsec,icons,planet,space,mobile,interior,exterior,underground,creature,vehicle,starship,underwater,pilot,warrior,astromech,permanentweapon,selectivecreature,independent,scomplink,droid,tradefederation,republic,episode1,information,abbreviation,pulls,ispulled,counterpart,combo,matching,matchingweapon,rules,cancels,iscanceledby,inventory,needs,expansionv,influence,grabber,errata,cardnamev,uniquenessv)
+        )
+        con.commit()
 
 
-      if setcode not in set_output_json_files:
-        set_output_json_files[setcode] = list()
-      row = dict()
+        if setcode not in set_output_json_files:
+          set_output_json_files[setcode] = list()
+        row = dict()
 
-      if characteristics:
-        row["characteristics"] = characteristics
-      if collecting:
-        row["code"] = cardid # collecting
-      if darksideicons:
-        row["dark_side_icons"] = darksideicons
-      if darksidetext:
-        row["dark_side_text"] = darksidetext
-      if episode1:
-        row["episode_1"] = episode1
-      if episode7:
-        row["episode_7"] = episode7
-      if gametext:
-        row["gametext"] = gametext
-      else:
-        row["gametext"] = ""
-      if True:
-        row["has_errata"] = True
-      if imageurl:
-        row["image_url"] = imageurl
-      if lightsideicons:
-        row["light_side_icons"] = lightsideicons
-      if lightsidetext:
-        row["light_side_text"] = lightsidetext
-      if lore:
-        row["lore"] = lore
-      if gametext:
-        row["gametext"] = gametext
-      if mobile:
-        row["mobile"] = mobile
-      if cardnamev:
-        row["name"] = cardnamev
-      if planet:
-        row["planet"] = planet
-      if cardid:
-        row["position"] = cardid
-      if rarity:
-        row["rarity_code"] = rarity
-      if scomplink:
-        row["scomp_link"] = scomplink
-      if setcode:
-        row["set_code"] = setcode
-      if side:
-        row["side_code"] = side.lower()
-      if creature:
-        row["site_creature"] = creature
-      if exterior:
-        row["site_exterior"] = exterior
-      if interior:
-        row["site_interior"] = interior
-      if starship:
-        row["site_starship"] = starship
-      if underground:
-        row["site_underground"] = underground
-      if underwater:
-        row["site_underwater"] = underwater
-      if vehicle:
-        row["site_vehicle"] = vehicle
-      if space:
-        row["space"] = space
-      if subtype:
-        row["subtype_code"] = subtype.replace("#", "").replace("'", "").replace(" ", "-").replace(":", "").replace("/", "-").lower()
-      if parsec:
-        row["system_parsec"] = parsec
-      if cardtype:
-        row["type_code"] = cardtype.replace("#", "").replace("'", "").replace(" ", "-").replace(":", "").replace("/", "-").lower()
-      #if uniqueness:
-      row["uniqueness"] = uniquenessv
+        if characteristics:
+          row["characteristics"] = characteristics
+        if collecting:
+          row["code"] = collecting
+        if darksideicons:
+          row["dark_side_icons"] = darksideicons
+        if darksidetext:
+          row["dark_side_text"] = darksidetext
+        if episode1:
+          row["episode_1"] = episode1
+        if episode7:
+          row["episode_7"] = episode7
+        if gametext:
+          row["gametext"] = gametext
+        else:
+          row["gametext"] = ""
+        if True:
+          row["has_errata"] = True
+        if imageurl:
+          row["image_url"] = imageurl
+        if lightsideicons:
+          row["light_side_icons"] = lightsideicons
+        if lightsidetext:
+          row["light_side_text"] = lightsidetext
+        if lore:
+          row["lore"] = lore
+        if gametext:
+          row["gametext"] = gametext
+        if mobile:
+          row["mobile"] = mobile
+        if cardnamev:
+          row["name"] = cardnamev
+        if planet:
+          row["planet"] = planet
+        if cardid:
+          row["position"] = cardid
+        if rarity:
+          row["rarity_code"] = rarity
+        if scomplink:
+          row["scomp_link"] = scomplink
+        if setcode:
+          row["set_code"] = setcode
+        if side:
+          row["side_code"] = side.lower()
+        if creature:
+          row["site_creature"] = creature
+        if exterior:
+          row["site_exterior"] = exterior
+        if interior:
+          row["site_interior"] = interior
+        if starship:
+          row["site_starship"] = starship
+        if underground:
+          row["site_underground"] = underground
+        if underwater:
+          row["site_underwater"] = underwater
+        if vehicle:
+          row["site_vehicle"] = vehicle
+        if space:
+          row["space"] = space
+        if subtype:
+          row["subtype_code"] = subtype.replace("#", "").replace("'", "").replace(" ", "-").replace(":", "").replace("/", "-").lower()
+        if parsec:
+          row["system_parsec"] = parsec
+        if cardtype:
+          row["type_code"] = cardtype.replace("#", "").replace("'", "").replace(" ", "-").replace(":", "").replace("/", "-").lower()
+        #if uniqueness:
+        row["uniqueness"] = uniquenessv
 
-      set_output_json_files[setcode].append(row)
+        set_output_json_files[setcode].append(row)
 
 
 
@@ -650,8 +709,10 @@ if not os.path.isdir("swccgdb_json/set"):
   os.mkdir("swccgdb_json/set")
 else:
   for fil in os.scandir("swccgdb_json/set/"):
-    print("removing stale file",fil)
+    #print("removing stale file",fil)
     os.remove(fil)
+
+#print(type(set_output_json_files))
 
 for expansion in set_output_json_files:
   print("  * "+expansion)
