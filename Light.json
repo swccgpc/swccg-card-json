@@ -8145,7 +8145,7 @@
           "smuggler",
           "Wookiee"
         ],
-        "gametext": "X = number of Imperials present. While with Han or Leia, adds 2 to your battle destiny draws here. During your turn, target one Imperial pr power < 5 present. Target's game text canceled for remainder of turn. End of your turn: Use 2 Force to maintain OR Lose 1 Force to place in Used Pile OR Place out of play.",
+        "gametext": "X = number of Imperials present. While with Han or Leia, adds 2 to your battle destiny draws here. During your turn, target one Imperial of power < 5 present. Target's game text canceled for remainder of turn. End of your turn: Use 2 Force to maintain OR Lose 1 Force to place in Used Pile OR Place out of play.",
         "lore": "Smuggler. Very few people need to be told that angry Wookiees should be given a wide berth.",
         "extraText": [
           "+ X"
@@ -10961,7 +10961,7 @@
         "characteristics": [
           "Royal Naboo Security"
         ],
-        "gametext": "Deploys -1 to Naboo. While firing a blaster, adds one to total weapon destiny. Once per battle, if a battle droid was just hit by a blaster here, battle droid is lost and oppopnent loses 1 Force.",
+        "gametext": "Deploys -1 to Naboo. While firing a blaster, adds one to total weapon destiny. Once per battle, if a battle droid was just hit by a blaster here, battle droid is lost and opponent loses 1 Force.",
         "lore": "Royal Naboo security officer in charge of protecting Amidala's Throne Room. His wife and children were captured when the Trade Federation invaded the planet."
       },
       "legacy": false
@@ -18505,7 +18505,7 @@
         "characteristics": [
           "general"
         ],
-        "gametext": "Deploys -2 aboard your Star Cruiser or to same location as your Admiral. Adds 1 to the power of anything he pilots. Adds 1 to the power and forfeit ofeach of your A-wings at same and related locations.",
+        "gametext": "Deploys -2 aboard your Star Cruiser or to same location as your Admiral. Adds 1 to the power of anything he pilots. Adds 1 to the power and forfeit of each of your A-wings at same and related locations.",
         "lore": "Engineer who worked with Jan Dodonna to design the A-wing starfighter. Given honorary rank due to his service to the Rebellion."
       },
       "pulledBy": [
@@ -19594,7 +19594,7 @@
           "Pilot"
         ],
         "gametext": "Adds 2 to the power of anything he pilots. When piloting a Y-wing, draws one battle destiny if not able to otherwise. When a starship he pilots fires an ion cannon, once per turn, may draw two weapon destiny and choose one.",
-        "lore": "Veteran pilots of the reliable Koensayr starfigher were assigned by Ackbar to a key role at Endor. Both the pilots and their venerable Y-wings were up to the task."
+        "lore": "Veteran pilots of the reliable Koensayr starfighter were assigned by Ackbar to a key role at Endor. Both the pilots and their venerable Y-wings were up to the task."
       },
       "pulledBy": [
         "Mon Mothma",
@@ -23327,7 +23327,7 @@
           "Rebel (starship)",
           "ship-docking capability"
         ],
-        "gametext": "May add 5 pilots, 6 passengers, 1 vehicle and 3 starfighters. Has shipdocking capability. Permanent pilot provides ability of 2. Immune to attrition < 3 (< 4 when a Rebel leader aboard).",
+        "gametext": "May add 5 pilots, 6 passengers, 1 vehicle and 3 starfighters. Has ship-docking capability. Permanent pilot provides ability of 2. Immune to attrition < 3 (< 4 when a Rebel leader aboard).",
         "lore": "Communications starship. Often hosts first assignment for top prospects from among newly commissioned officers."
       },
       "legacy": false
@@ -24913,7 +24913,7 @@
         "icons": [
           "Jabba's Palace"
         ],
-        "gametext": "USED: If opponent just initiated a battle or Force drain, they must use 2 Force, or it is canceled.  LOST: If your Jedi in battle (unless with a Dark Jedi, Hutt, or Toydarian), 'wave had at' (add or subtract 2 from) an opponent's just drawn destiny.",
+        "gametext": "USED: If opponent just initiated a battle or Force drain, they must use 2 Force, or it is canceled.  LOST: If your Jedi in battle (unless with a Dark Jedi, Hutt, or Toydarian), 'wave hand at' (add or subtract 2 from) an opponent's just drawn destiny.",
         "lore": "'You will bring Captain Solo and the Wookiee to me.'"
       },
       "legacy": false
@@ -30231,7 +30231,7 @@
           "Rebel (starship)",
           "ship-docking capability"
         ],
-        "gametext": "Deploys and moves like a starfigher. May add 1 pilot and 6 passengers. Has ship-docking capability. Permanent pilot provides ability of 2. May use Covert Landing like a shuttle or starfighter (even while landed).",
+        "gametext": "Deploys and moves like a starfighter. May add 1 pilot and 6 passengers. Has ship-docking capability. Permanent pilot provides ability of 2. May use Covert Landing like a shuttle or starfighter (even while landed).",
         "lore": "Medium transport with boosted hyperdrive. Armor and capacity diminished. Crew trained for reconnaissance and swift intergalatic transport."
       },
       "combo": [
@@ -30885,7 +30885,7 @@
           "Episode VII",
           "Warrior"
         ],
-        "gametext": "If oppnent just looked at cards in their deck or pile, after replacing, you may peek at the top card of that deck or pile. At the start of your control phase, if the top card of your lost pile is a Resistance character or [Restistance] starship, opponent loses 1 Force.",
+        "gametext": "If opponent just looked at cards in their deck or pile, after replacing, you may peek at the top card of that deck or pile. At the start of your control phase, if the top card of your lost pile is a Resistance character or [Restistance] starship, opponent loses 1 Force.",
         "lore": "Blank."
       },
       "legacy": false
@@ -31508,7 +31508,7 @@
         "lore": "Ortolan musician and gambler. Head of The Max Rebo Band. Signed a lifetime contract to Jabba in exchange for unlimited food."
       },
       "combo": [
-        "Max Rebo vs. Walker Garrison - If played correctly, Max can be the centerpiece of a deck which has to play against AT-AT's a lot. With his Power bonus, he becomes a reasonably potent character, and with his Force drain cancelling game text, he can stop at least one of the massive drains pumped out by Walker Garrison.  Max Rebo + Audience Chamber in a Jess-based deck - The musician deck is ready to rock as Max's deploy bonus decreases the already low deploy cost of the musicians, and Jess's text is made more useful."
+        "Max Rebo vs. Walker Garrison - If played correctly, Max can be the centerpiece of a deck which has to play against AT-AT's a lot. With his Power bonus, he becomes a reasonably potent character, and with his Force drain canceling game text, he can stop at least one of the massive drains pumped out by Walker Garrison.  Max Rebo + Audience Chamber in a Jess-based deck - The musician deck is ready to rock as Max's deploy bonus decreases the already low deploy cost of the musicians, and Jess's text is made more useful."
       ],
       "rulings": [
         "This card is not a leader. A common online 'misprint' incorrectly says leader in lore, but physical copies do not."
@@ -33153,7 +33153,7 @@
         ],
         "lightSideIcons": 1,
         "darkSideIcons": 1,
-        "gametext": "Light:  Your gungans are each power +1 and deploy -1 here.  Dark:  Unless your battle droid present, Force drain -1 here."
+        "gametext": "Light:  Your Gungans are each power +1 and deploy -1 here.  Dark:  Unless your battle droid present, Force drain -1 here."
       },
       "pulledBy": [
         "Mindful Of The Future"
@@ -39570,7 +39570,7 @@
         "deploy": "2",
         "forfeit": "1",
         "gametext": "Power +4 when defending a battle. Cannot move.",
-        "lore": "Galen Torg was selected for honor guard duty during ceremony following the Battle of Yavin. He is typical of the hard-working, unsung heros in the Rebel Alliance."
+        "lore": "Galen Torg was selected for honor guard duty during ceremony following the Battle of Yavin. He is typical of the hard-working, unsung heroes in the Rebel Alliance."
       },
       "pulledBy": [
         "Mon Mothma",
@@ -47003,7 +47003,7 @@
           "Rebel (starship)"
         ],
         "gametext": "May add 1 pilot. May be carried like a vehicle. When your spy aboard, opponent's spies and scouts are deploy +2 to related sites. Immune to attrition < 4 when Lieutenant Blount piloting.",
-        "lore": "Equipped with sophisticated sensor suite to monitor Imperial activity during Rebel commando operations. Hyperdrive allows longrange reconnaissance."
+        "lore": "Equipped with sophisticated sensor suite to monitor Imperial activity during Rebel commando operations. Hyperdrive allows long-range reconnaissance."
       },
       "pulledBy": [
         "All Wings Report In & Darklighter Spin"
@@ -49061,7 +49061,7 @@
         "uniqueness": "*",
         "destiny": "4",
         "gametext": "Deploy on any system (except Hoth). Target a Medium Transport at a Hoth site. When reached by target: Retrieve X Force, where X = twice the number of passengers. Relocate Utinni Effect to Hoth system. Your total power is +2 in battles at Hoth sites.",
-        "lore": "'When you've gotten past the energy shield, proceed directly to the rendesvouz point. Understood? Good luck!'"
+        "lore": "'When you've gotten past the energy shield, proceed directly to the rendezvous point. Understood? Good luck!'"
       },
       "pulledBy": [
         "The Signal",
