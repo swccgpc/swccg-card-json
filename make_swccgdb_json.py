@@ -622,26 +622,28 @@ with open(json_file) as json_data:
   for s in set_json:
     release_sets[s["id"]] = {"name":s["name"], "abbr":s["abbr"]}
     if s['id'].lower() not in json_details['sets']['parsed']:
-      json_details['sets']['parsed'].append(s['id'].lower())
-      cycle_code = s['cycle_code']
-      if ("virtual" in s['name'].lower()):
-        cycle_code = "virtual"
-      if ("shields" in s['name'].lower()):
-        cycle_code = "shields"
-      
-      date_releae = "1970-01-01"
-      if (s['date_release'] != "0000-00-00"):
-        date_release = s['date_release']
-      json_details['sets']['out'].append({
-        "code": s['abbr'],
-        "cycle_code": cycle_code,
-        "date_release": date_release,
-        "name": s['name'],
-        "position": s['position'],
-        "size": s['size']
-      })
-      cycle = cycle_code
-      cycles[cycle]['size'] = cycles[cycle]['size'] + 1
+      s_id = int(s['id'].replace("d", ""))
+      if ((s_id < 400) or (s_id > 499)) and (s_id < 1000):
+        json_details['sets']['parsed'].append(s['id'].lower())
+        cycle_code = s['cycle_code']
+        if ("virtual" in s['name'].lower()):
+          cycle_code = "virtual"
+        if ("shields" in s['name'].lower()):
+          cycle_code = "shields"
+        
+        date_releae = "1970-01-01"
+        if (s['date_release'] != "0000-00-00"):
+          date_release = s['date_release']
+        json_details['sets']['out'].append({
+          "code": s['abbr'],
+          "cycle_code": cycle_code,
+          "date_release": date_release,
+          "name": s['name'],
+          "position": s['position'],
+          "size": s['size']
+        })
+        cycle = cycle_code
+        cycles[cycle]['size'] = cycles[cycle]['size'] + 1
 
 
 
