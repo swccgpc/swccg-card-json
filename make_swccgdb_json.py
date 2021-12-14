@@ -52,6 +52,8 @@ cycles = {
              }
           }
 
+swccgdb_dir = "swccgdb_json"
+os.mkdir(swccgdb_dir)
 
 swccgdb_db_filename = "swccgdb_json/swccgdb.db"
 if os.path.isdir("swccgdb_json"):
