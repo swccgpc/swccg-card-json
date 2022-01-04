@@ -2015,7 +2015,7 @@
         "type": "Effect",
         "uniqueness": "*",
         "destiny": "2",
-        "gametext": "Deploy on your side of table. We Have A Prisoner and Oo-ta Goo-ta, Solo? play for free and are immune to Sense. If opponent's character is about to be forfeited, your bounty hunter present may capture that character (character is first restored to normal). Immune to Alter.",
+        "gametext": "Deploy on your side of table. We Have A Prisoner and Oo-ta Goo-ta, Solo? play for free and are immune to Sense. If opponent's character is about to be forfeited, your bounty hunter present may capture that character (character is first restored to normal). (Immune to Alter.)",
         "lore": "A capture cable is a quick and effective way for bounty hunters to suddenly snare their target."
       },
       "pulledBy": [
@@ -2448,7 +2448,7 @@
         "type": "Effect",
         "uniqueness": "*",
         "destiny": "4",
-        "gametext": "Deploy on table. Once per game, may take a [Set 9] Epic Event into hand from Reserve Deck; reshuffle. During your deploy phase, if Krennic on Death Star, may flip Set Your Course For Alderaan (flip back at end of turn)(Immune to Alter.)",
+        "gametext": "Deploy on table. Once per game, may take a [Set 9] Epic Event into hand from Reserve Deck; reshuffle. During your deploy phase, if Krennic on Death Star, may flip Set Your Course For Alderaan (flip back at end of turn). (Immune to Alter.)",
         "lore": "Blank."
       },
       "legacy": false
@@ -16648,7 +16648,7 @@
         "icons": [
           "Episode I"
         ],
-        "gametext": "Use 4 Force to deploy on table. While present with a Jedi, destroyer droids are defense value +2. If your destroyer droid was just lost, may stack it here. During your control phase, may use 2 Force to play any destroyer droid here in Used Pile.(Immune to Alter.)",
+        "gametext": "Use 4 Force to deploy on table. While present with a Jedi, destroyer droids are defense value +2. If your destroyer droid was just lost, may stack it here. During your control phase, may use 2 Force to play any destroyer droid here in Used Pile. (Immune to Alter.)",
         "lore": "The Trade Federation utilizes such efficient methods of droid deployment that it is rumored even they do not know exactly how many battle droids are in circulation"
       },
       "pulledBy": [
@@ -27159,7 +27159,7 @@
         "type": "Effect",
         "uniqueness": "*",
         "destiny": "5",
-        "gametext": "Deploy on table. If Jabba just Force drained (or won a battle), stack top card of opponent's Lost Pile here; may draw top card of your Reserve Deck. If 4 or more cards here, may return this Effect and a character with Jabba at Audience Chamber to owner's hand. Immune to Alter.",
+        "gametext": "Deploy on table. If Jabba just Force drained (or won a battle), stack top card of opponent's Lost Pile here; may draw top card of your Reserve Deck. If 4 or more cards here, may return this Effect and a character with Jabba at Audience Chamber to owner's hand. (Immune to Alter.)",
         "lore": "Oola had to choose between giving in to Jabba's constant advances or resisting him and inciting his wrath."
       },
       "conceptBy": "(Original concept by Jonathan Murray)",
@@ -55369,7 +55369,7 @@
         "type": "Effect",
         "uniqueness": "*",
         "destiny": "4",
-        "gametext": "Deploy on table. During your deploy phase, may reveal an alien with 'vehicle' in game text from hand to take a transport vehicle into hand (or vice versa) and deploy both simultaneously. Your drivers are immune to Clash Of Sabers. Immune to Alter.",
+        "gametext": "Deploy on table. During your deploy phase, may reveal an alien with 'vehicle' in game text from hand to take a transport vehicle into hand (or vice versa) and deploy both simultaneously. Your drivers are immune to Clash Of Sabers. (Immune to Alter.)",
         "lore": "Blank."
       },
       "pulledBy": [
@@ -56128,7 +56128,7 @@
         "icons": [
           "Set 17"
         ],
-        "gametext": "Deploy on table. Attempts to 'blow away' Alderaan are +5. If Alderaan has been 'blown away,' adds one [Light Side] icon at Death Star system and opponent's total battle destiny is -1. Once per game, may take Superlaser into hand from Reserve Deck; reshuffle. [Immune to Alter.]",
+        "gametext": "Deploy on table. Attempts to 'blow away' Alderaan are +5. If Alderaan has been 'blown away,' adds one [Light Side] icon at Death Star system and opponent's total battle destiny is -1. Once per game, may take Superlaser into hand from Reserve Deck; reshuffle. (Immune to Alter.)",
         "lore": "Blank."
       },
       "pulls": [
@@ -56212,7 +56212,7 @@
           "Episode I",
           "Set 17"
         ],
-        "gametext": "Deploy on table. Your unique (•) Republic characters of ability < 4 and your [Trade Federation] starships are forfeit +2. Nabrun Leids and Elis Helrot are limited to owner's move phase and exterior sites only. Once per turn, may deploy an [Episode I] (or Coruscant) docking bay from Reserve Deck; reshuffle. While you occupy Naboo system with a [Trade Federation] starship, your Force generation is +1 there. [Immune to Alter.]"
+        "gametext": "Deploy on table. Your unique (•) Republic characters of ability < 4 and your [Trade Federation] starships are forfeit +2. Nabrun Leids and Elis Helrot are limited to owner's move phase and exterior sites only. Once per turn, may deploy an [Episode I] (or Coruscant) docking bay from Reserve Deck; reshuffle. While you occupy Naboo system with a [Trade Federation] starship, your Force generation is +1 there. (Immune to Alter.)"
       },
       "pulls": [
         "Blockade Flagship: Docking Bay",
@@ -57093,7 +57093,7 @@
           "Episode I",
           "Set 17"
         ],
-        "gametext": "Deploy on table. While Sidious alone, Jedi with him are power and defense value -1. If Revenge Of The Sith on table, your Sidious may be targeted by Force Lightning. Once per game, if Sidious with a Dark Jedi, may retrieve a character into hand. [Immune to Alter.]",
+        "gametext": "Deploy on table. While Sidious alone, Jedi with him are power and defense value -1. If Revenge Of The Sith on table, your Sidious may be targeted by Force Lightning. Once per game, if Sidious with a Dark Jedi, may retrieve a character into hand. (Immune to Alter.)",
         "lore": "Blank."
       },
       "pulledBy": [
@@ -57130,7 +57130,7 @@
           "Episode I",
           "Set 17"
         ],
-        "gametext": "Deploy on table. Emperor and Maul are lost. At the start of your turn, if Sidious on Coruscant (or Insidious Prisoner on table), may place two cards from hand on Reserve Deck, reshuffle, and draw two cards from Reserve Deck. [Immune to Alter.]",
+        "gametext": "Deploy on table. Emperor and Maul are lost. At the start of your turn, if Sidious on Coruscant (or Insidious Prisoner on table), may place two cards from hand on Reserve Deck, reshuffle, and draw two cards from Reserve Deck. (Immune to Alter.)",
         "lore": "Eliciting fear from the opponent gives the dark side a powerful advantage."
       },
       "pulledBy": [

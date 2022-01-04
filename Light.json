@@ -11928,7 +11928,7 @@
         ],
         "lightSideIcons": 1,
         "darkSideIcons": 0,
-        "gametext": "Light:  Your starfighters may deploy here and immune to Awwww, Cannot Get Your Ship Out here.  Dark:  If you occupy, Force generation +1 for you here."
+        "gametext": "Light:  Your starfighters may deploy here and are immune to Awwww, Cannot Get Your Ship Out here.  Dark:  If you occupy, Force generation +1 for you here."
       },
       "pulledBy": [
         "Dagobah",
@@ -57490,7 +57490,7 @@
         "type": "Effect",
         "uniqueness": "*",
         "destiny": "5",
-        "gametext": "If Leia imprisoned, deploy on table. [Set 8] Luke is a spy and stormtrooper. Han, Leia, and Luke are immune to Nevar Yalnal and Put All Sections On Alert. Once per turn, may deploy a Death Star site from Reserve Deck; reshuffle. Immune to This Is Some Rescue! Immune to Alter.",
+        "gametext": "If Leia imprisoned, deploy on table. [Set 8] Luke is a spy and stormtrooper. Han, Leia, and Luke are immune to Nevar Yalnal and Put All Sections On Alert. Once per turn, may deploy a Death Star site from Reserve Deck; reshuffle. Immune to This Is Some Rescue! (Immune to Alter.)",
         "lore": "'Aren't you a little short for a stormtrooper?'"
       },
       "pulledBy": [
@@ -59309,7 +59309,7 @@
           "Episode I",
           "Set 17"
         ],
-        "gametext": "Deploy on table. Your unique (•) Republic characters (and your unique (•) Gungans) of ability < 4 are forfeit +1. Nabrun Leids and Elis Helrot are limited to owner's move phase and exterior sites only. Once per turn, may deploy a docking bay from Reserve Deck; reshuffle. Once during opponent's turn, if Jar Jar or your [Episode I] leader occupies an [Episode I] battleground, may activate 1 Force. [Immune to Alter.]"
+        "gametext": "Deploy on table. Your unique (•) Republic characters (and your unique (•) Gungans) of ability < 4 are forfeit +1. Nabrun Leids and Elis Helrot are limited to owner's move phase and exterior sites only. Once per turn, may deploy a docking bay from Reserve Deck; reshuffle. Once during opponent's turn, if Jar Jar or your [Episode I] leader occupies an [Episode I] battleground, may activate 1 Force. (Immune to Alter.)"
       },
       "pulls": [
         "Any docking bay"
@@ -59694,7 +59694,7 @@
           "Cloud City",
           "Set 17"
         ],
-        "gametext": "Deploy on table. Once per game, may deploy an R-unit droid from Reserve Deck; reshuffle. During a battle where your droid present with a Scomp link, your total power is +1 (+3 if your other droid present with a Scomp link at a related location). [Immune to Alter.]",
+        "gametext": "Deploy on table. Once per game, may deploy an R-unit droid from Reserve Deck; reshuffle. During a battle where your droid present with a Scomp link, your total power is +1 (+3 if your other droid present with a Scomp link at a related location). (Immune to Alter.)",
         "lore": "Left to his own devices, Artoo used his spunk and creativity to save his companions' lives time and time again."
       },
       "pulls": [
@@ -59876,7 +59876,7 @@
           "Episode VII",
           "Set 17"
         ],
-        "gametext": "Deploy on Training Course. When deployed, stack [Set 4] Falcon face up here from outside your deck. Falcon may deploy from here as if from hand. Rey is a Skywalker. Once per battle involving Rey, may take your just drawn destiny into hand. [Immune to Alter.]",
+        "gametext": "Deploy on Training Course. When deployed, stack [Set 4] Falcon face up here from outside your deck. Falcon may deploy from here as if from hand. Rey is a Skywalker. Once per battle involving Rey, may take your just drawn destiny into hand. (Immune to Alter.)",
         "lore": "Blank."
       },
       "pulls": [
@@ -60337,7 +60337,7 @@
           "Episode I",
           "Set 17"
         ],
-        "gametext": "Deploy on Slave Quarters. Once per turn, may deploy Anakin's Lightsaber from Reserve Deck; reshuffle (or lose 1 Force to deploy it from Lost Pile). If Anakin just drawn for destiny, may take him into hand to cancel and cause a re-draw. [Immune to Alter.]",
+        "gametext": "Deploy on Slave Quarters. Once per turn, may deploy Anakin's Lightsaber from Reserve Deck; reshuffle (or lose 1 Force to deploy it from Lost Pile). If Anakin just drawn for destiny, may take him into hand to cancel and cause a re-draw. (Immune to Alter.)",
         "lore": "Blank."
       },
       "pulls": [
