@@ -17402,6 +17402,9 @@
         "type": "Character",
         "subType": "Droid",
         "destiny": "*",
+        "destinyValues": [
+          0
+        ],
         "power": "0",
         "deploy": "1",
         "forfeit": "3",
@@ -54123,7 +54126,10 @@
         "type": "Character",
         "subType": "Sith",
         "uniqueness": "*",
-        "destiny": "0.5",
+        "destiny": "½",
+        "destinyValues": [
+          0.5
+        ],
         "power": "4",
         "ability": "6",
         "deploy": "4",
@@ -56168,7 +56174,11 @@
         "type": "Character",
         "subType": "Droid",
         "uniqueness": "*",
-        "destiny": "5.5",
+        "destiny": "½ or 5½",
+        "destinyValues": [
+          0.5,
+          5.5
+        ],
         "power": "2",
         "deploy": "2",
         "forfeit": "4",
