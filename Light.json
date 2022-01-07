@@ -1778,7 +1778,7 @@
         "subType": "Used",
         "uniqueness": "*",
         "destiny": "5",
-        "gametext": "Once per game, target on non-unique starfighter on table. Draw destiny. If destiny < X, retrieve X Force, where X = number of copies of that card you have on table. (Immune to Sense.) OR Take one non-unique starfighter into hand from Reserve Deck; reshuffle.",
+        "gametext": "Once per game, target one non-unique starfighter on table. Draw destiny. If destiny < X, retrieve X Force, where X = number of copies of that card you have on table. (Immune to Sense.) OR Take one non-unique starfighter into hand from Reserve Deck; reshuffle.",
         "lore": "'Red 10 standing by.' 'Red 7 standing by.' 'Red 3 standing by.' 'Red 6 standing by.' 'Red 9 standing by.' 'Red 2 standing by.' 'Red 11 standing by.' 'Red 5 standing by.'"
       },
       "pulls": [
@@ -4064,7 +4064,7 @@
           "Rebel (starship)",
           "bomber"
         ],
-        "gametext": "Permanent pilot provides ability of 1. May fire 2 or more weapons during battle. Each of its destiny draws is +1. During your turn, may use 1 Force to 'defuse' (lose) an Orbital Mine present.",
+        "gametext": "Permanent pilot provides ability of 1. May fire 2 or more weapons during battle. Each of its weapon destiny draws is +1. During your turn, may use 1 Force to 'defuse' (lose) an Orbital Mine present.",
         "lore": "First models designed in Roche asteroid field by Admiral Ackbar's team of Verpine engineers. Early design equipped to detect and neutralize Imperial orbital mines."
       },
       "pulledBy": [
@@ -36456,7 +36456,7 @@
         "icons": [
           "Endor"
         ],
-        "gametext": "Deploy on your non-aliens, non-Jedi character. When deployed, choose a species of an alien here. Character gains that species. Aliens of that species may deploy (for -1 Force if non-unique) or move here as a 'react'. While on Endor, adds one [Light Side Force] icon.",
+        "gametext": "Deploy on your non-alien, non-Jedi character. When deployed, choose a species of an alien here. Character gains that species. Aliens of that species may deploy (for -1 Force if non-unique) or move here as a 'react'. While on Endor, adds one [Light Side Force] icon.",
         "lore": "Wookiees are known to be creatures of great emotion and are very protective of family and friends. Chewbacca has come to treat Luke as a member of his own family."
       },
       "legacy": false
@@ -41436,7 +41436,7 @@
         "characteristics": [
           "Gungan"
         ],
-        "gametext": "Deploys -1 to an underwater site. While at Boss Nass' Chamber: your Force generation here is +1 for each Gunganpresent, and once per game, may take an underwater site into hand from Reserve Deck; reshuffle.",
+        "gametext": "Deploys -1 to an underwater site. While at Boss Nass' Chamber: your Force generation here is +1 for each Gungan present, and once per game, may take an underwater site into hand from Reserve Deck; reshuffle.",
         "lore": "Member of Boss Nass' Rep Council. His responsibilities include maintaining a record of Gungan history as well as preserving ancient records of Gungan civilization."
       },
       "pulls": [
