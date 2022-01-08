@@ -3176,6 +3176,11 @@
         "type": "Character",
         "subType": "Droid",
         "uniqueness": "*",
+        "destiny": "1 or 6",
+        "destinyValues": [
+          1,
+          6
+        ],
         "power": "1",
         "deploy": "4",
         "forfeit": "5",
@@ -3444,6 +3449,11 @@
         "type": "Starship",
         "subType": "Starfighter: X-Wing",
         "uniqueness": "*",
+        "destiny": "0 or 7",
+        "destinyValues": [
+          0,
+          7
+        ],
         "power": "3",
         "maneuver": "4",
         "hyperspeed": "5",
@@ -4494,7 +4504,11 @@
         "type": "Character",
         "subType": "Droid",
         "uniqueness": "*",
-        "destiny": "Pi or 2Pi",
+        "destiny": "π or 2π",
+        "destinyValues": [
+          3.14159,
+          6.28318
+        ],
         "power": "1",
         "deploy": "2",
         "forfeit": "4",
@@ -4532,6 +4546,11 @@
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual11-Light/large/bb8inblacksquadron1.gif",
         "type": "Starship",
         "subType": "Starfighter: X-wing",
+        "uniqueness": "*",
+        "destiny": "π",
+        "destinyValues": [
+          3.14159
+        ],
         "power": "4",
         "maneuver": "5",
         "hyperspeed": "6",
@@ -6138,6 +6157,10 @@
         "type": "Character",
         "subType": "Alien",
         "uniqueness": "*",
+        "destiny": "π",
+        "destinyValues": [
+          3.14159
+        ],
         "power": "*",
         "ability": "3",
         "icons": [
@@ -14898,6 +14921,9 @@
         "type": "Character",
         "subType": "Droid",
         "destiny": "*",
+        "destinyValues": [
+          0
+        ],
         "power": "0",
         "deploy": "1",
         "forfeit": "3",
@@ -24265,6 +24291,7 @@
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual0-Light/large/jabbasprizefront.gif",
         "type": "Character",
         "subType": "Rebel",
+        "uniqueness": "*",
         "destiny": "0",
         "power": "0",
         "ability": "0",
@@ -24281,6 +24308,8 @@
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual0-Light/large/jabbasprizeback.gif",
         "type": "Character",
         "subType": "Rebel",
+        "uniqueness": "*",
+        "destiny": "0",
         "power": "0",
         "ability": "0",
         "deploy": "0",
@@ -38793,6 +38822,11 @@
         "type": "Character",
         "subType": "Droid",
         "uniqueness": "*",
+        "destiny": "2 or 5",
+        "destinyValues": [
+          2,
+          5
+        ],
         "power": "1",
         "deploy": "3",
         "forfeit": "4",
@@ -38840,6 +38874,11 @@
         "type": "Character",
         "subType": "Droid",
         "uniqueness": "*",
+        "destiny": "2 or 5",
+        "destinyValues": [
+          2,
+          5
+        ],
         "power": "1",
         "deploy": "2",
         "forfeit": "4",
@@ -56989,6 +57028,12 @@
         "imageUrl": "https://res.starwarsccg.org/cards/VirtualPremium-Light/large/puck.gif",
         "type": "Character",
         "subType": "Rebel",
+        "uniqueness": "*",
+        "destiny": "7 or 1",
+        "destinyValues": [
+          1,
+          7
+        ],
         "power": "2",
         "ability": "2",
         "deploy": "2",
