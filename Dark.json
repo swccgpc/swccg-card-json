@@ -1625,7 +1625,8 @@
         "forfeit": "6",
         "icons": [
           "Pilot",
-          "Warrior"
+          "Warrior",
+          "Set 3"
         ],
         "characteristics": [
           "ISB agent",
@@ -1637,6 +1638,9 @@
           "Force-Attuned"
         ]
       },
+      "rulings": [
+        "A character is only an ISB agent if the ISB Operations objective is being used."
+      ],
       "legacy": false
     },
     {
@@ -1652,9 +1656,10 @@
       ],
       "front": {
         "title": "•Agent Kallus (AI)",
-        "imageUrl": "https://res.starwarsccg.org/cards/OfficialAI-Dark/large/agentkallus.gif",
+        "imageUrl": "https://res.starwarsccg.org/cards/VirtualAlternateImage-Dark/large/agentkallus_ai.gif",
         "type": "Character",
         "subType": "Imperial",
+        "uniqueness": "*",
         "destiny": "2",
         "power": "4",
         "ability": "3",
@@ -1662,7 +1667,12 @@
         "forfeit": "6",
         "icons": [
           "Pilot",
-          "Warrior"
+          "Warrior",
+          "Set 3"
+        ],
+        "characteristics": [
+          "ISB agent",
+          "leader"
         ],
         "gametext": "Adds 2 to power of anything he pilots. When deployed, may reveal the top two cards of your Reserve Deck; take one into hand and place the other in Used Pile. While with an ISB agent, adds one battle destiny.",
         "lore": "ISB leader.",
@@ -1670,6 +1680,9 @@
           "Force-Attuned"
         ]
       },
+      "rulings": [
+        "A character is only an ISB agent if the ISB Operations objective is being used."
+      ],
       "legacy": false
     },
     {
@@ -2975,7 +2988,9 @@
           "Warrior",
           "Permanent weapon",
           "Separatist",
-          "Episode I"
+          "Episode I",
+          "Premium",
+          "Set P"
         ],
         "characteristics": [
           "assassin",
@@ -2990,6 +3005,62 @@
         ]
       },
       "counterpart": "Ahsoka Tano With Lightsabers",
+      "rulings": [
+        "Canceling the targeting of one character (e.g. Blaster Deflection) cancels the entire action."
+      ],
+      "legacy": false,
+      "abbr": [
+        "EPP Asajj",
+        "EPP Ventress"
+      ]
+    },
+    {
+      "id": 7006,
+      "gempId": "301_3",
+      "side": "Dark",
+      "rarity": "C",
+      "set": "301",
+      "printings": [
+        {
+          "set": "301"
+        }
+      ],
+      "front": {
+        "title": "•Asajj Ventress With Lightsabers (AI)",
+        "imageUrl": "https://res.starwarsccg.org/cards/VirtualAlternateImage-Dark/large/asajjventresswithlightsabers_ai.gif",
+        "type": "Character",
+        "subType": "Sith",
+        "uniqueness": "*",
+        "destiny": "1",
+        "power": "4",
+        "ability": "5",
+        "deploy": "5",
+        "forfeit": "7",
+        "icons": [
+          "Pilot",
+          "Warrior",
+          "Permanent weapon",
+          "Separatist",
+          "Episode I",
+          "Premium",
+          "Set P"
+        ],
+        "characteristics": [
+          "assassin",
+          "Dathomirian",
+          "lightsaber",
+          "female"
+        ],
+        "gametext": "Power +1 with Dooku. Permanent weapon is •Asajj's Lightsabers (may target a character for free, or target two characters using 1 Force; draw two destiny; target(s) hit and forfeit -2 if total destiny > total defense value).",
+        "lore": "'Female Dathomirian assassin.'",
+        "extraText": [
+          "Force-Sensitive"
+        ]
+      },
+      "counterpart": "Ahsoka Tano With Lightsabers",
+      "rulings": [
+        "Canceling the targeting of one character (e.g. Blaster Deflection) cancels the entire action."
+      ],
       "legacy": false,
       "abbr": [
         "EPP Asajj",
@@ -4980,7 +5051,7 @@
           "Imperial (starship)"
         ],
         "gametext": "May add DS-61-5 as pilot.  During battle, if about to be lost before the damage segment, is instead 'hit.' If targeted by Watch Your Back!, it is a Used Interrupt.  Immune to Don't Get Cocky and attrition < 4.",
-        "lore": "-",
+        "lore": "Blank.",
         "extraText": [
           "No Hyperdrive"
         ]
@@ -5811,6 +5882,9 @@
       ],
       "matching": [
         "Captain Daultay Dofine"
+      ],
+      "rulings": [
+        "The once per game action may deploy a Neimoidian pilot to a Blockade Flagship site."
       ],
       "legacy": false
     },
@@ -7198,9 +7272,6 @@
         "power": "4",
         "deploy": "3",
         "forfeit": "0",
-        "characteristics": [
-          "ferocious"
-        ],
         "gametext": "Habitat: planet sites (except Hoth). Does not attack your characters. When at a Jabba's palace site, prevents opponents characters from using their landspeed.",
         "ferocity": "4",
         "lore": "Watchbeast. Unwittingly foiled Ree Yees' plot to kill Jabba with a thermal detonator when it ate a crucial component. Louder than it is tough. Keeps watch for unwary intruders.",
@@ -7785,7 +7856,8 @@
         "forfeit": "4",
         "icons": [
           "Warrior",
-          "Episode VII"
+          "Episode VII",
+          "Set 4"
         ],
         "characteristics": [
           "female",
@@ -7800,7 +7872,62 @@
       "pulledBy": [
         "General Hux"
       ],
-      "legacy": false
+      "rulings": [
+        "Biker Scouts, Death Troopers, Sandtroopers, and Snowtroopers count as Stormtroopers."
+      ],
+      "legacy": false,
+      "abbr": [
+        "Chrome Dome"
+      ]
+    },
+    {
+      "id": 7007,
+      "gempId": "204_38",
+      "side": "Dark",
+      "rarity": "R2",
+      "set": "204",
+      "printings": [
+        {
+          "set": "204"
+        }
+      ],
+      "front": {
+        "title": "•Captain Phasma (AI)",
+        "imageUrl": "https://res.starwarsccg.org/cards/VirtualAlternateImage-Dark/large/captainphasma_ai.gif",
+        "type": "Character",
+        "subType": "First Order",
+        "uniqueness": "*",
+        "destiny": "2",
+        "power": "4",
+        "ability": "2",
+        "armor": "4",
+        "deploy": "3",
+        "forfeit": "4",
+        "icons": [
+          "Warrior",
+          "Episode VII",
+          "Set 4"
+        ],
+        "characteristics": [
+          "female",
+          "leader",
+          "stormtrooper",
+          "trooper"
+        ],
+        "gametext": "Adds one battle destiny with a stormtrooper. If you just won a battle at same or related location, may retrieve a trooper.",
+        "lore": "Female leader. Stormtrooper."
+      },
+      "conceptBy": "(Image courtesy of Emi Tolibas)",
+      "pulledBy": [
+        "General Hux"
+      ],
+      "rulings": [
+        "Biker Scouts, Death Troopers, Sandtroopers, and Snowtroopers count as Stormtroopers."
+      ],
+      "legacy": false,
+      "abbr": [
+        "Chrome Dome"
+      ]
     },
     {
       "id": 368,
@@ -15656,9 +15783,6 @@
         "power": "*",
         "deploy": "4",
         "forfeit": "0",
-        "characteristics": [
-          "ferocious"
-        ],
         "gametext": "* Ferocity = (power/ferocity of last character or creature eaten) + destiny. Habitat: exterior Dagobah sites, Trash Compactor and Dark Waters.",
         "ferocity": "(power/ferocity of last character or creature eaten) + destiny",
         "lore": "'Garbage squid' from Vodran's jungles. Changes color to match last meal. When unfed, turns transparent. Eats almost anything. Flexible eyestalk. 7 tentacles. Up to 6 meters long.",
@@ -16328,19 +16452,67 @@
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual9-Dark/large/drchellilonaaphra.gif",
         "type": "Character",
         "subType": "Alien",
-        "destiny": "2",
+        "destiny": "3",
         "power": "3",
         "ability": "3",
         "deploy": "3",
         "forfeit": "3",
         "icons": [
           "Pilot",
-          "Warrior"
+          "Warrior",
+          "Set 9"
         ],
         "gametext": "Adds 1 to power of anything she pilots. Deploys free to an unoccupied site. Your droids are deploy -1 here. When deployed, may search your Lost Pile and move one card there to the top of that pile (if that card is a droid, may retrieve it into hand).",
         "lore": "Female information broker, spy, and thief. Trade Federation."
       },
-      "legacy": false
+      "rulings": [
+        "Unoccupied means neither player occupies AND neither player has an undercover spy there (not even an undercover droid)."
+      ],
+      "legacy": false,
+      "abbr": [
+        "DCLA",
+        "DrCLA",
+        "Dr Claw"
+      ]
+    },
+    {
+      "id": 7008,
+      "gempId": "209_35",
+      "side": "Dark",
+      "rarity": "R1",
+      "set": "209",
+      "printings": [
+        {
+          "set": "209"
+        }
+      ],
+      "front": {
+        "title": "•Dr. Chelli Lona Aphra (AI)",
+        "imageUrl": "https://res.starwarsccg.org/cards/VirtualAlternateImage-Dark/large/drchellilonaaphra_ai.gif",
+        "type": "Character",
+        "subType": "Alien",
+        "destiny": "3",
+        "power": "3",
+        "ability": "3",
+        "deploy": "3",
+        "forfeit": "3",
+        "icons": [
+          "Pilot",
+          "Warrior",
+          "Set 9"
+        ],
+        "gametext": "Adds 1 to power of anything she pilots. Deploys free to an unoccupied site. Your droids are deploy -1 here. When deployed, may search your Lost Pile and move one card there to the top of that pile (if that card is a droid, may retrieve it into hand).",
+        "lore": "Female information broker, spy, and thief. Trade Federation."
+      },
+      "rulings": [
+        "Unoccupied means neither player occupies AND neither player has an undercover spy there (not even an undercover droid)."
+      ],
+      "legacy": false,
+      "abbr": [
+        "DCLA",
+        "DrCLA",
+        "Dr Claw"
+      ]
     },
     {
       "id": 768,
@@ -16483,9 +16655,6 @@
         "power": "*",
         "deploy": "3",
         "forfeit": "0",
-        "characteristics": [
-          "ferocious"
-        ],
         "gametext": "Ferocity = 3 + destiny. Habitat: swamps, jungles and Dark Waters. May attack droids. Defeated droids are relocated to an adjacent exterior site (opponent of victim chooses).",
         "ferocity": "3 + destiny",
         "lore": "One of Dagobah's deadliest predators. Has razor-sharp fins, powerful constrictor coils and large fangs. Feeds on almost anything. Often mistaken for a swamp slug, due to its size.",
@@ -16757,7 +16926,8 @@
           "Permanent weapon",
           "Presence",
           "Episode I",
-          "Separatist"
+          "Separatist",
+          "Set 0"
         ],
         "gametext": "Permanent weapon is Twin Blaster Cannons (may target a character or vehicle; draw destiny; add 2 if targeting a vehicle; if total destiny > defense value, target hit and you may activate 1 Force). While with another [Presence] droid at a site, adds one battle destiny.",
         "lore": "Blank.",
@@ -16765,6 +16935,54 @@
           "Destroyer Droid"
         ]
       },
+      "rulings": [
+        "This weapon is a blaster (e.g. for Pinned Down).",
+        "If something prevents the target from being hit (e.g. Theed Palace Generator Core) it also prevents activating 1 Force.",
+        "Adds a battle destiny with any [Presence] droid, even opponent's (e.g. K-2SO).",
+        "This card is not a battle droid."
+      ],
+      "legacy": false
+    },
+    {
+      "id": 7009,
+      "gempId": "200_80",
+      "side": "Dark",
+      "rarity": "C",
+      "set": "200",
+      "printings": [
+        {
+          "set": "200"
+        }
+      ],
+      "front": {
+        "title": "Droideka (AI)",
+        "imageUrl": "https://res.starwarsccg.org/cards/VirtualAlternateImage-Dark/large/droideka_ai.gif",
+        "type": "Character",
+        "subType": "Droid",
+        "destiny": "2",
+        "power": "3",
+        "armor": "3",
+        "deploy": "3",
+        "forfeit": "3",
+        "icons": [
+          "Permanent weapon",
+          "Presence",
+          "Episode I",
+          "Separatist",
+          "Set 0"
+        ],
+        "gametext": "Permanent weapon is Twin Blaster Cannons (may target a character or vehicle; draw destiny; add 2 if targeting a vehicle; if total destiny > defense value, target hit and you may activate 1 Force). While with another [Presence] droid at a site, adds one battle destiny.",
+        "lore": "Blank.",
+        "extraText": [
+          "Destroyer Droid"
+        ]
+      },
+      "rulings": [
+        "This weapon is a blaster (e.g. for Pinned Down).",
+        "If something prevents the target from being hit (e.g. Theed Palace Generator Core) it also prevents activating 1 Force.",
+        "Adds a battle destiny with any [Presence] droid, even opponent's (e.g. K-2SO).",
+        "This card is not a battle droid."
+      ],
       "legacy": false
     },
     {
@@ -17073,13 +17291,57 @@
         "forfeit": "5",
         "icons": [
           "Pilot",
-          "Death Star II"
+          "Death Star II",
+          "Set 0"
         ],
         "gametext": "Adds 2 to power of anything he pilots, 3 when piloting Black 5.  While piloting Black 5, it is maneuver +1 and he draws one battle destiny if not able to otherwise.  If at opponent's system, instead of Force draining here, may take any one card into hand from Force Pile; reshuffle.",
-        "lore": "-"
+        "lore": "Blank."
       },
       "matching": [
         "Black 5"
+      ],
+      "rulings": [
+        "The 'instead of Force draining' action requires that Force draining would have been a legal action, but does not incur costs or require that the player be capable of paying costs (e.g. Battle Plan).",
+        "The action may be used instead of Force draining for 0."
+      ],
+      "legacy": false
+    },
+    {
+      "id": 7010,
+      "gempId": "200_77",
+      "side": "Dark",
+      "rarity": "U",
+      "set": "200",
+      "printings": [
+        {
+          "set": "200"
+        }
+      ],
+      "front": {
+        "title": "•DS-61-5 (AI)",
+        "imageUrl": "https://res.starwarsccg.org/cards/VirtualAlternateImage-Dark/large/ds615_ai.gif",
+        "type": "Character",
+        "subType": "Imperial",
+        "uniqueness": "*",
+        "destiny": "2",
+        "power": "2",
+        "ability": "2",
+        "deploy": "2",
+        "forfeit": "5",
+        "icons": [
+          "Pilot",
+          "Death Star II",
+          "Set 0"
+        ],
+        "gametext": "Adds 2 to power of anything he pilots, 3 when piloting Black 5.  While piloting Black 5, it is maneuver +1 and he draws one battle destiny if not able to otherwise.  If at opponent's system, instead of Force draining here, may take any one card into hand from Force Pile; reshuffle.",
+        "lore": "Blank."
+      },
+      "matching": [
+        "Black 5"
+      ],
+      "rulings": [
+        "The 'instead of Force draining' action requires that Force draining would have been a legal action, but does not incur costs or require that the player be capable of paying costs (e.g. Battle Plan).",
+        "The action may be used instead of Force draining for 0."
       ],
       "legacy": false
     },
@@ -19785,7 +20047,55 @@
           "Nav Computer",
           "Scomp Link",
           "First Order",
-          "Episode VII"
+          "Episode VII",
+          "Set 4"
+        ],
+        "characteristics": [
+          "First Order (starship)",
+          "ship-docking capability"
+        ],
+        "gametext": "May add 6 pilots, 8 passengers, and 4 [First Order] starfighters. Permanent pilot provides ability of 2. Deploys -4 to [Episode VII] systems and adds 1 to your Force drains there. Immune to attrition < 5.",
+        "lore": "Blank."
+      },
+      "pulledBy": [
+        "Bow To The First Order"
+      ],
+      "matching": [
+        "Captain Peavey",
+        "General Hux"
+      ],
+      "legacy": false
+    },
+    {
+      "id": 7011,
+      "gempId": "204_54",
+      "side": "Dark",
+      "rarity": "R",
+      "set": "204",
+      "printings": [
+        {
+          "set": "204"
+        }
+      ],
+      "front": {
+        "title": "•Finalizer (AI)",
+        "imageUrl": "https://res.starwarsccg.org/cards/VirtualAlternateImage-Dark/large/finalizer_ai.gif",
+        "type": "Starship",
+        "subType": "Capital: Resurgent-Class Star Destroyer",
+        "uniqueness": "*",
+        "destiny": "1",
+        "power": "10",
+        "armor": "8",
+        "hyperspeed": "3",
+        "deploy": "13",
+        "forfeit": "13",
+        "icons": [
+          "Pilot",
+          "Nav Computer",
+          "Scomp Link",
+          "First Order",
+          "Episode VII",
+          "Set 4"
         ],
         "characteristics": [
           "First Order (starship)",
@@ -21139,6 +21449,7 @@
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual3-Dark/large/generalgrievous.gif",
         "type": "Character",
         "subType": "Republic",
+        "uniqueness": "*",
         "destiny": "1",
         "power": "6",
         "ability": "4",
@@ -21146,12 +21457,10 @@
         "deploy": "5",
         "forfeit": "7",
         "icons": [
-          "Warrior",
-          "Warrior",
-          "Warrior",
-          "Warrior",
+          "Warrior x4",
           "Separatist",
-          "Episode I"
+          "Episode I",
+          "Set 3"
         ],
         "characteristics": [
           "general",
@@ -21167,6 +21476,9 @@
       "pulledBy": [
         "Imperial Command"
       ],
+      "rulings": [
+        "Grievous may use (swing) any stolen lightsaber deployed on him."
+      ],
       "legacy": false
     },
     {
@@ -21181,10 +21493,11 @@
         }
       ],
       "front": {
-        "title": "•General Grievous (AI)",
-        "imageUrl": "https://res.starwarsccg.org/cards/Virtual3-Dark/large/generalgrievoush.gif",
+        "title": "•General Grievous (Holo AI)",
+        "imageUrl": "https://res.starwarsccg.org/cards/VirtualAlternateImage-Dark/large/generalgrievousholo_ai.gif",
         "type": "Character",
         "subType": "Republic",
+        "uniqueness": "*",
         "destiny": "1",
         "power": "6",
         "ability": "4",
@@ -21192,17 +21505,28 @@
         "deploy": "5",
         "forfeit": "7",
         "icons": [
-          "Warrior",
-          "Warrior",
-          "Warrior",
-          "Warrior",
+          "Warrior x4",
           "Separatist",
-          "Episode I"
+          "Episode I",
+          "Set 3"
+        ],
+        "characteristics": [
+          "general",
+          "Trade Federation"
         ],
         "gametext": "Any stolen lightsaber may deploy on Grievous. Once per game, Grievous may steal a lightsaber from opponent's Lost Pile. Unless alone, may lose 1 Force to return Grievous (and your cards on him) to hand from a site you control. Immune to attrition < 4.",
         "lore": "Trade Federation."
       },
       "conceptBy": "(Original concept by Jeremy Gardner)",
+      "pulls": [
+        "Steals one lightsaber from opponent's lost pile"
+      ],
+      "pulledBy": [
+        "Imperial Command"
+      ],
+      "rulings": [
+        "Grievous may use (swing) any stolen lightsaber deployed on him."
+      ],
       "legacy": false
     },
     {
@@ -21217,10 +21541,11 @@
         }
       ],
       "front": {
-        "title": "•General Grievous (OAI)",
-        "imageUrl": "https://res.starwarsccg.org/cards/OfficialAI-Dark/large/generalgrievous.gif",
+        "title": "•General Grievous (AI)",
+        "imageUrl": "https://res.starwarsccg.org/cards/VirtualAlternateImage-Dark/large/generalgrievous_ai.gif",
         "type": "Character",
         "subType": "Republic",
+        "uniqueness": "*",
         "destiny": "1",
         "power": "6",
         "ability": "4",
@@ -21228,17 +21553,28 @@
         "deploy": "5",
         "forfeit": "7",
         "icons": [
-          "Warrior",
-          "Warrior",
-          "Warrior",
-          "Warrior",
+          "Warrior x4",
           "Separatist",
-          "Episode I"
+          "Episode I",
+          "Set 3"
+        ],
+        "characteristics": [
+          "general",
+          "Trade Federation"
         ],
         "gametext": "Any stolen lightsaber may deploy on Grievous. Once per game, Grievous may steal a lightsaber from opponent's Lost Pile. Unless alone, may lose 1 Force to return Grievous (and your cards on him) to hand from a site you control. Immune to attrition < 4.",
         "lore": "Trade Federation."
       },
       "conceptBy": "(Original concept by Jeremy Gardner)",
+      "pulls": [
+        "Steals one lightsaber from opponent's lost pile"
+      ],
+      "pulledBy": [
+        "Imperial Command"
+      ],
+      "rulings": [
+        "Grievous may use (swing) any stolen lightsaber deployed on him."
+      ],
       "legacy": false
     },
     {
@@ -27217,7 +27553,8 @@
         "destiny": "0",
         "icons": [
           "Planet",
-          "Episode VII"
+          "Episode VII",
+          "Set 4"
         ],
         "lightSideIcons": 1,
         "darkSideIcons": 2,
@@ -27230,6 +27567,48 @@
         "Neimoidian Advisor"
       ],
       "counterpart": "Jakku",
+      "pulledBy": [
+        "'Move from here for free' includes landing, moving to a sector, using hyperspeed, and movement costs from other cards (e.g. Combat Response (V))."
+      ],
+      "legacy": false
+    },
+    {
+      "id": 7012,
+      "gempId": "204_51",
+      "side": "Dark",
+      "rarity": "C",
+      "set": "204",
+      "printings": [
+        {
+          "set": "204"
+        }
+      ],
+      "front": {
+        "title": "•Jakku (AI)",
+        "imageUrl": "https://res.starwarsccg.org/cards/VirtualAlternateImage-Dark/large/jakku_ai.gif",
+        "type": "Location",
+        "subType": "System",
+        "uniqueness": "*",
+        "destiny": "0",
+        "icons": [
+          "Planet",
+          "Episode VII",
+          "Set 4"
+        ],
+        "lightSideIcons": 1,
+        "darkSideIcons": 2,
+        "gametext": "Dark:  Your [First Order] starships move from here for free.  Light:  Unless your Resistance character or [Resistance] starship here, you may not draw more than one battle destiny here.",
+        "parsec": "4"
+      },
+      "pulledBy": [
+        "Jakku: Landing Site",
+        "Kuat Drive Yards (V)",
+        "Neimoidian Advisor"
+      ],
+      "counterpart": "Jakku",
+      "pulledBy": [
+        "'Move from here for free' includes landing, moving to a sector, using hyperspeed, and movement costs from other cards (e.g. Combat Response (V))."
+      ],
       "legacy": false
     },
     {
@@ -27325,10 +27704,12 @@
         "icons": [
           "Episode I",
           "Pilot",
-          "Warrior"
+          "Warrior",
+          "Set 1"
         ],
         "characteristics": [
-          "bounty hunter"
+          "bounty hunter",
+          "Trade Federation"
         ],
         "gametext": "Adds 2 to power and 1 to maneuver of anything he pilots. Adds one battle destiny with opponent's Jedi, [Maintenance] card, or [Permanent Weapon] card. May be targeted by Hidden Weapons, If about to be lost, may take Boba Fett into hand from Reserve Deck; reshuffle.",
         "lore": "Trade Federation bounty hunter."
@@ -27336,8 +27717,60 @@
       "pulledBy": [
         "Double Back"
       ],
-      "cancels": [
+      "canceledBy": [
         "Mace Windu (V) prevents Fetts from adding battle destiny draws at same location"
+      ],
+      "rulings": [
+        "This card is not a Mandalorian.",
+        "'May be targeted by Hidden Weapons' means he may be used instead of Boba Fett or your character with Mandalorian Armor. Other conditions must still be met."
+      ],
+      "legacy": false
+    },
+    {
+      "id": 7013,
+      "gempId": "201_25",
+      "side": "Dark",
+      "rarity": "R",
+      "set": "201",
+      "printings": [
+        {
+          "set": "201"
+        }
+      ],
+      "front": {
+        "title": "•Jango Fett (AI)",
+        "imageUrl": "https://res.starwarsccg.org/cards/VirtualAlternateImage-Dark/large/jangofett_ai.gif",
+        "type": "Character",
+        "subType": "Alien",
+        "uniqueness": "*",
+        "destiny": "1",
+        "power": "4",
+        "ability": "3",
+        "armor": "5",
+        "deploy": "4",
+        "forfeit": "6",
+        "icons": [
+          "Episode I",
+          "Pilot",
+          "Warrior",
+          "Set 1"
+        ],
+        "characteristics": [
+          "bounty hunter",
+          "Trade Federation"
+        ],
+        "gametext": "Adds 2 to power and 1 to maneuver of anything he pilots. Adds one battle destiny with opponent's Jedi, [Maintenance] card, or [Permanent Weapon] card. May be targeted by Hidden Weapons, If about to be lost, may take Boba Fett into hand from Reserve Deck; reshuffle.",
+        "lore": "Trade Federation bounty hunter."
+      },
+      "pulledBy": [
+        "Double Back"
+      ],
+      "canceledBy": [
+        "Mace Windu (V) prevents Fetts from adding battle destiny draws at same location"
+      ],
+      "rulings": [
+        "This card is not a Mandalorian.",
+        "'May be targeted by Hidden Weapons' means he may be used instead of Boba Fett or your character with Mandalorian Armor. Other conditions must still be met."
       ],
       "legacy": false
     },
@@ -27576,12 +28009,49 @@
         "destiny": "0",
         "icons": [
           "Exterior",
-          "Planet"
+          "Planet",
+          "Special Edition",
+          "Set 9"
         ],
         "lightSideIcons": 1,
         "darkSideIcons": 1,
         "gametext": "Dark:  May be deployed instead of Alderaan by Set Your Course For Alderaan.  Light:  Baze, Chirrut, and Saw deploy -1 here."
       },
+      "rulings": [
+        "Blowing away this site does not flip Set Your Course For Alderaan."
+      ],
+      "legacy": false
+    },
+    {
+      "id": 7014,
+      "gempId": "209_49",
+      "side": "Dark",
+      "rarity": "U2",
+      "set": "209",
+      "printings": [
+        {
+          "set": "209"
+        }
+      ],
+      "front": {
+        "title": "•Jedha: Jedha City (AI)",
+        "imageUrl": "https://res.starwarsccg.org/cards/VirtualAlternateImage-Dark/large/jedhajedhacity_ai.gif",
+        "type": "Location",
+        "subType": "Site",
+        "destiny": "0",
+        "icons": [
+          "Exterior",
+          "Planet",
+          "Special Edition",
+          "Set 9"
+        ],
+        "lightSideIcons": 1,
+        "darkSideIcons": 1,
+        "gametext": "Dark:  May be deployed instead of Alderaan by Set Your Course For Alderaan.  Light:  Baze, Chirrut, and Saw deploy -1 here."
+      },
+      "rulings": [
+        "Blowing away this site does not flip Set Your Course For Alderaan."
+      ],
       "legacy": false
     },
     {
@@ -28433,9 +28903,6 @@
         "power": "*",
         "deploy": "7",
         "forfeit": "0",
-        "characteristics": [
-          "ferocious"
-        ],
         "gametext": "Ferocity = 6 + two destiny. Habitat: deserts and Tatooine exterior sites. May not deploy to an occupied site. If defeated, opponent may draw destiny and retrieve Force equal to destiny draw.",
         "ferocity": "6 + two destiny",
         "lore": "Krayt dragons have beautiful and valuable pearls inside them as a gizzard to grind up food. Their fierceness is legendary. Up to 10 meters tall and 30 meters long.",
@@ -28704,7 +29171,7 @@
       "id": 6472,
       "gempId": "209_37",
       "side": "Dark",
-      "rarity": "PM",
+      "rarity": "U",
       "set": "209",
       "printings": [
         {
@@ -28716,6 +29183,7 @@
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual9-Dark/large/kylorenwithlightsaber.gif",
         "type": "Character",
         "subType": "First Order",
+        "uniqueness": "*",
         "destiny": "1",
         "power": "6",
         "ability": "5",
@@ -28725,7 +29193,8 @@
           "Pilot",
           "Warrior",
           "Permanent Weapon",
-          "Episode VII"
+          "Episode VII",
+          "Set 9"
         ],
         "gametext": "Adds 2 to power of anything he pilots. Permanent weapon is •Kylo's Lightsaber (may target a character for free; draw 2 destiny; target hit, its forfeit = 0, and opponent loses 1 Force if total destiny > defense value; otherwise you lose 1 Force).",
         "lore": "Leader.",
@@ -28733,6 +29202,52 @@
           "Force-Sensitive"
         ]
       },
+      "rulings": [
+        "If something prevents the target from being hit (e.g. Theed Palace Generator Core) neither player loses 1 Force."
+      ],
+      "legacy": false,
+      "abbr": [
+        "EPP Kylo"
+      ]
+    },
+    {
+      "id": 7015,
+      "gempId": "209_37",
+      "side": "Dark",
+      "rarity": "U",
+      "set": "209",
+      "printings": [
+        {
+          "set": "209"
+        }
+      ],
+      "front": {
+        "title": "•Kylo Ren With Lightsaber (AI)",
+        "imageUrl": "https://res.starwarsccg.org/cards/VirtualAlternateImage-Dark/large/kylorenwithlightsaber_ai.gif",
+        "type": "Character",
+        "subType": "First Order",
+        "uniqueness": "*",
+        "destiny": "1",
+        "power": "6",
+        "ability": "5",
+        "deploy": "5",
+        "forfeit": "7",
+        "icons": [
+          "Pilot",
+          "Warrior",
+          "Permanent Weapon",
+          "Episode VII",
+          "Set 9"
+        ],
+        "gametext": "Adds 2 to power of anything he pilots. Permanent weapon is •Kylo's Lightsaber (may target a character for free; draw 2 destiny; target hit, its forfeit = 0, and opponent loses 1 Force if total destiny > defense value; otherwise you lose 1 Force).",
+        "lore": "Leader.",
+        "extraText": [
+          "Force-Sensitive"
+        ]
+      },
+      "rulings": [
+        "If something prevents the target from being hit (e.g. Theed Palace Generator Core) neither player loses 1 Force."
+      ],
       "legacy": false,
       "abbr": [
         "EPP Kylo"
@@ -32980,7 +33495,8 @@
         "destiny": "0",
         "icons": [
           "Exterior",
-          "Planet"
+          "Planet",
+          "Set 9"
         ],
         "lightSideIcons": 0,
         "darkSideIcons": 2,
@@ -32988,6 +33504,43 @@
       },
       "pulledBy": [
         "Revenge Of The Sith"
+      ],
+      "rulings": [
+        "The movement text uses Vader's one regular move for the turn."
+      ],
+      "legacy": false
+    },
+    {
+      "id": 7016,
+      "gempId": "209_50",
+      "side": "Dark",
+      "rarity": "U2",
+      "set": "209",
+      "printings": [
+        {
+          "set": "209"
+        }
+      ],
+      "front": {
+        "title": "•Mustafar: Vader's Castle (AI)",
+        "imageUrl": "https://res.starwarsccg.org/cards/VirtualAlternateImage-Dark/large/mustafarvaderscastle_ai.gif",
+        "type": "Location",
+        "subType": "Site",
+        "destiny": "0",
+        "icons": [
+          "Exterior",
+          "Planet",
+          "Set 9"
+        ],
+        "lightSideIcons": 0,
+        "darkSideIcons": 2,
+        "gametext": "Dark:  Once per game, may deploy Vader here from Reserve Deck; reshuffle. During your move phase, Vader may move between here and any battleground site.  Light:"
+      },
+      "pulledBy": [
+        "Revenge Of The Sith"
+      ],
+      "rulings": [
+        "The movement text uses Vader's one regular move for the turn."
       ],
       "legacy": false
     },
@@ -38083,9 +38636,6 @@
         "power": "8",
         "deploy": "6",
         "forfeit": "0",
-        "characteristics": [
-          "ferocious"
-        ],
         "gametext": "* Ferocity = 8 + destiny. Habitat: Rancor Pit and exterior planet sites. Deploys only to the rancor pit or to where Malakili is the only character. Moves towards another Rancor whenever possible.",
         "ferocity": "8 + destiny",
         "lore": "Indigenous to Dathomir, but found on several dozen worlds throughout the galaxy. Vicious predator. Sometimes kept as pets by eccentrics and crime lords.",
@@ -38491,6 +39041,9 @@
         "Put That Down",
         "We Don't Need Their Scum"
       ],
+      "rulings": [
+        "Works with either player's Boba Fett."
+      ],
       "legacy": false
     },
     {
@@ -38798,9 +39351,6 @@
         "forfeit": "0",
         "icons": [
           "Selective Creature"
-        ],
-        "characteristics": [
-          "ferocious"
         ],
         "gametext": "Habitat: planet sites. Landspeed = 2. Ferocity +2 when present at Bluffs or any canyon.",
         "ferocity": "2",
@@ -39645,9 +40195,6 @@
         "power": "*",
         "deploy": "4",
         "forfeit": "0",
-        "characteristics": [
-          "ferocious"
-        ],
         "gametext": "* Ferocity = 4 + destiny. Habitat: Great Pit Of Carkoon. If Sarlacc eats a captive, may retrieve 1 Force for each of your aliens here. Anything eaten by Sarlacc is placed out of play.",
         "ferocity": "4 + destiny",
         "lore": "Very patient predator in the Dune Sea. Tentacles can grab prey up to four meters away. Digests victims for 1000 years. Often fed prisoners by Jabba the Hutt.",
@@ -39680,10 +40227,53 @@
         "deploy": "8",
         "forfeit": "5",
         "icons": [
-          "Warrior"
+          "Pilot",
+          "Warrior",
+          "Separatist",
+          "Episode I",
+          "Set 7"
         ],
         "characteristics": [
-          "assassin"
+          "assassin",
+          "Dathomirian"
+        ],
+        "gametext": "Deploys -1 for each other Sith character here (limit - 4). Once per game, may exchange a card in hand with a Sith character in Lost Pile. Immune to attrition < 3.",
+        "lore": "Dathomirian assassin."
+      },
+      "legacy": false
+    },
+    {
+      "id": 7017,
+      "gempId": "207_23",
+      "side": "Dark",
+      "rarity": "F",
+      "set": "207",
+      "printings": [
+        {
+          "set": "207"
+        }
+      ],
+      "front": {
+        "title": "•Savage Opress (AI)",
+        "imageUrl": "https://res.starwarsccg.org/cards/VirtualAlternateImage-Dark/large/savageopress_ai.gif",
+        "type": "Character",
+        "subType": "Sith",
+        "uniqueness": "*",
+        "destiny": "1",
+        "power": "8",
+        "ability": "4",
+        "deploy": "8",
+        "forfeit": "5",
+        "icons": [
+          "Pilot",
+          "Warrior",
+          "Separatist",
+          "Episode I",
+          "Set 7"
+        ],
+        "characteristics": [
+          "assassin",
+          "Dathomirian"
         ],
         "gametext": "Deploys -1 for each other Sith character here (limit - 4). Once per game, may exchange a card in hand with a Sith character in Lost Pile. Immune to attrition < 3.",
         "lore": "Dathomirian assassin."
@@ -41367,7 +41957,7 @@
         "Scythe 1",
         "Scythe 3",
         "Slave I",
-        "Slave I, Symbol Of Fear (V)",
+        "Slave I, Symbol Of Fear",
         "Stinger (V)",
         "Vader's Custom TIE",
         "Vader's Custom TIE (V)",
@@ -42044,7 +42634,8 @@
           "Episode I",
           "Nav Computer",
           "Independent",
-          "Scomp Link"
+          "Scomp Link",
+          "Set 1"
         ],
         "characteristics": [
           "Independent (starship)"
@@ -42080,9 +42671,10 @@
       ],
       "front": {
         "title": "•Slave I, Symbol Of Fear (AI)",
-        "imageUrl": "https://res.starwarsccg.org/cards/OfficialAI-Dark/large/slaveisymboloffear.gif",
+        "imageUrl": "https://res.starwarsccg.org/cards/VirtualAlternateImage-Dark/large/slaveisymboloffear_ai.gif",
         "type": "Starship",
         "subType": "Starfighter: Firespray-Class Attack Ship",
+        "uniqueness": "*",
         "destiny": "3",
         "power": "3",
         "maneuver": "5",
@@ -42093,7 +42685,8 @@
           "Episode I",
           "Nav Computer",
           "Independent",
-          "Scomp Link"
+          "Scomp Link",
+          "Set 1"
         ],
         "gametext": "May add 2 pilots and 2 passengers. Power +1 for each opponent's starship here. While Jango or Boba Fett piloting, immune to attrition < 5.",
         "lore": "Originally designed as a planetary defense craft. Uses restricted jamming technology, allowing it to appear out of nowhere. Contains many hidden armaments."
@@ -42124,8 +42717,7 @@
           "Selective Creature"
         ],
         "characteristics": [
-          "selective",
-          "ferocious"
+          "selective"
         ],
         "gametext": "Ferocity = destiny - 3. Habitat: planet sites (except Hoth and Tatooine) and Dark Waters. Cumulatively absorbs (temporarily cancels) one [Light Side Force] icon present. Parasite: None.",
         "ferocity": "destiny - 3",
@@ -42570,9 +43162,6 @@
         "power": "*",
         "deploy": "2",
         "forfeit": "0",
-        "characteristics": [
-          "ferocious"
-        ],
         "gametext": "* Ferocity = two destiny. Habitat: Big One (Cave is now Belly). Attacks starfighters (defeated cards are eaten or relocated to Belly, opponent of victim chooses). Once per turn, may open or close mouth.",
         "ferocity": "two destiny",
         "lore": "Gigantic silicon-based lifeform. Exists in the vacuum of space. Devours small vessels whole. Has difficulty keeping its modified light freighters down.",
@@ -43206,7 +43795,7 @@
       "id": 5204,
       "gempId": "208_51",
       "side": "Dark",
-      "rarity": "R",
+      "rarity": "U2",
       "set": "208",
       "printings": [
         {
@@ -43222,7 +43811,44 @@
         "destiny": "0",
         "icons": [
           "Planet",
-          "Episode VII"
+          "Episode VII",
+          "Set 8"  
+        ],
+        "lightSideIcons": 0,
+        "darkSideIcons": 2,
+        "gametext": "Dark:  Opponent may not limit Force generation at Starkiller Base locations. Once per turn, may deploy a Starkiller Base battleground from Reserve Deck; reshuffle.  Light:  -",
+        "parsec": "1"
+      },
+      "pulls": [
+        "Starkiller Base: Docking Bay",
+        "Starkiller Base: Forest",
+        "Starkiller Base: Interrogation Room (Prison)",
+        "Starkiller Base: Shield Control"
+      ],
+      "legacy": false
+    },
+    {
+      "id": 7018,
+      "gempId": "208_51",
+      "side": "Dark",
+      "rarity": "U2",
+      "set": "208",
+      "printings": [
+        {
+          "set": "208"
+        }
+      ],
+      "front": {
+        "title": "•Starkiller Base (AI)",
+        "imageUrl": "https://res.starwarsccg.org/cards/VirtualAlternateImage-Dark/large/starkillerbase_ai.gif",
+        "type": "Location",
+        "subType": "System",
+        "uniqueness": "*",
+        "destiny": "0",
+        "icons": [
+          "Planet",
+          "Episode VII",
+          "Set 8"  
         ],
         "lightSideIcons": 0,
         "darkSideIcons": 2,
@@ -43978,7 +44604,7 @@
       "id": 6669,
       "gempId": "209_39",
       "side": "Dark",
-      "rarity": "U",
+      "rarity": "C",
       "set": "209",
       "printings": [
         {
@@ -43990,20 +44616,68 @@
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual9-Dark/large/supremeleadersnoke.gif",
         "type": "Character",
         "subType": "Dark Jedi Master/First Order",
+        "uniqueness": "*",
         "destiny": "1",
         "power": "3",
         "ability": "7",
         "deploy": "5",
         "forfeit": "8",
         "icons": [
-          "Episode VII"
+          "Episode VII",
+          "Set 9"
         ],
-        "gametext": "If you just initiated a battle where all your ability is provided by First Order characters and/or [First Order] starships, opponent loses 1 Force. If just lost, Kylo is power +4 until end of your next turn. Immune to attrition < 8 (< 4 if with Kylo).",
+        "characteristics": [
+          "leader"
+        ],
+        "gametext": "If you just initiated a battle where all your ability is provided by First Order characters and/or [First Order] starships, opponent loses 1 Force. If just lost, Kylo is power +3 until end of your next turn. Immune to attrition < 8 (< 4 if with Kylo).",
         "lore": "Leader.",
         "extraText": [
           "Dark Jedi Master"
         ]
       },
+      "rulings": [
+        "Kylo globally gains the power +3, even affecting a Kylo card deployed after Snoke was lost."
+      ],
+      "legacy": false
+    },
+    {
+      "id": 7019,
+      "gempId": "209_39",
+      "side": "Dark",
+      "rarity": "C",
+      "set": "209",
+      "printings": [
+        {
+          "set": "209"
+        }
+      ],
+      "front": {
+        "title": "•Supreme Leader Snoke (AI)",
+        "imageUrl": "https://res.starwarsccg.org/cards/VirtualAlternateImage-Dark/large/supremeleadersnoke_ai.gif",
+        "type": "Character",
+        "subType": "Dark Jedi Master/First Order",
+        "uniqueness": "*",
+        "destiny": "1",
+        "power": "3",
+        "ability": "7",
+        "deploy": "5",
+        "forfeit": "8",
+        "icons": [
+          "Episode VII",
+          "Set 9"
+        ],
+        "characteristics": [
+          "leader"
+        ],
+        "gametext": "If you just initiated a battle where all your ability is provided by First Order characters and/or [First Order] starships, opponent loses 1 Force. If just lost, Kylo is power +3 until end of your next turn. Immune to attrition < 8 (< 4 if with Kylo).",
+        "lore": "Leader.",
+        "extraText": [
+          "Dark Jedi Master"
+        ]
+      },
+      "rulings": [
+        "Kylo globally gains the power +3, even affecting a Kylo card deployed after Snoke was lost."
+      ],
       "legacy": false
     },
     {
@@ -50887,8 +51561,7 @@
         "deploy": "4",
         "forfeit": "0",
         "characteristics": [
-          "wampa",
-          "ferocious"
+          "wampa"
         ],
         "gametext": "* Ferocity = 3 + destiny. Habitat: Hoth sites. Deploy only to Wampa Cave or unoccupied marker site. Defeated characters are eaten or relocated to Wampa Cave (opponent of victim chooses).",
         "ferocity": "3 + destiny",
@@ -51989,9 +52662,6 @@
         "forfeit": "0",
         "icons": [
           "Selective Creature"
-        ],
-        "characteristics": [
-          "ferocious"
         ],
         "gametext": "* Ferocity = destiny. Habitat: exterior planet sites. Ferocity +1 for each other womp rat at same site. Lost if 'bullseyed' by Luke's T-16 Skyhopper present.",
         "ferocity": "destiny",
@@ -55100,6 +55770,11 @@
         "gametext": "Deploys -4 to Scarif or opponent's system. May add 4 pilots, 4 TIEs, and 2 vehicles. Permanent pilots provide total ability of 4. While at Scarif, subtracts 2 from attempts to 'blow away' Shield Gate.",
         "lore": "Blank."
       },
+      "rulings": [
+        "Modifiers to 'Star Destroyers' apply twice (e.g. Admiral Motti V adds 4 power instead of 2, The Ultimate Power In The Universe subtracts 4 from deploy instead of 2).",
+        "Responses to deploying a Star Destroyer only occur once (e.g. A Million Voices Crying Out retrieves 3, not 6).",
+        "As a general rule, works with actions that target one 'starship' but not cards that target one 'Star Destroyer' (e.g. cannot be deployed by Commander Nemet (V) or moved by On The Verge Of Greatness)."
+      ],
       "legacy": false
     },
     {
@@ -55357,7 +56032,8 @@
       "rulings": [
         "When Shadow Collective flips, the response on You Know Who I Answer To and the response on Rukh may be performed in either order.",
         "All bodyguards are also guards.",
-        "'Immune to Blaster Proficiency' prevents the control phase sniping function and prevents the place in Lost Pile function. It does not prevent 3 being added to weapon destiny."
+        "'Immune to Blaster Proficiency' prevents the control phase sniping function and prevents the place in Lost Pile function. It does not prevent 3 being added to weapon destiny.",
+        "Rukh peeks at the top 2 cards - he does not enable each of your assassins and leaders there to peek."
       ],
       "legacy": false
     },
@@ -56055,7 +56731,14 @@
         "On The Verge Of Greatness"
       ],
       "counterpart": "Scarif: Landing Pad Nine",
-      "legacy": false
+      "rulings": [
+        "Does not convert Landing Pad Nine; they are two different locations."
+      ],
+      "legacy": false,
+      "abbr": [
+        "Scarif Docking Bay",
+        "SLP5"
+      ]
     },
     {
       "id": 6921,
@@ -57198,8 +57881,8 @@
         ]
       },
       "rulings": [
-        "Grummgar must be participating in the attack to add a destiny to power.",
-        "An information broker is needed during battle, not during an attack."
+        "Wat Tambor's first sentence is global, protecting Dark's Republic characters wherever there are Presence droids.",
+        "If Wat Tambor is at a site and his game text is canceled, the last sentence on Where Are Those Droidekas?! (V) will not work."
       ],
       "legacy": false,
       "abbr": [

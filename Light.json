@@ -844,7 +844,7 @@
           "female",
           "Twi'lek"
         ],
-        "gametext": "Power +1 for each opponent's characters here. When with two of your aliens (or clones), adds one battle destiny. May not be targeted by weapons unless your other aliens and clones present are each 'hit.' Immune to You are Beaten and attrition <5.",
+        "gametext": "Power +1 for each opponent's character here. When with two of your aliens (or clones), adds one battle destiny. May not be targeted by weapons unless each of your other aliens and clones present are 'hit.' Immune to You are Beaten and attrition <5.",
         "lore": "Female Twi'lek.",
         "extraText": [
           "Jedi Knight"
@@ -871,6 +871,7 @@
         "imageUrl": "https://res.starwarsccg.org/cards/VirtualAlternateImage-Light/large/aaylasecura_ai.gif",
         "type": "Character",
         "subType": "Alien",
+        "uniqueness": "*",
         "destiny": "1",
         "power": "4",
         "ability": "6",
@@ -882,7 +883,11 @@
           "Episode I",
           "Set 0"
         ],
-        "gametext": "Power +1 for each opponent's characters here. When with two of your aliens (or clones), adds one battle destiny. May not be targeted by weapons unless your other aliens and clones present are each 'hit.' Immune to You are Beaten and attrition <5.",
+        "characteristics": [
+          "female",
+          "Twi'lek"
+        ],
+        "gametext": "Power +1 for each opponent's character here. When with two of your aliens (or clones), adds one battle destiny. May not be targeted by weapons unless each of your other aliens and clones present are 'hit.' Immune to You are Beaten and attrition <5.",
         "lore": "Female Twi'lek.",
         "extraText": [
           "Jedi Knight"
@@ -1449,7 +1454,7 @@
       "id": 5326,
       "gempId": "210_1",
       "side": "Light",
-      "rarity": "U",
+      "rarity": "R",
       "set": "210",
       "printings": [
         {
@@ -1461,11 +1466,46 @@
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual10-Light/large/ahchtosaddle.gif",
         "type": "Location",
         "subType": "Site",
+        "uniqueness": "*",
         "destiny": "0",
         "icons": [
           "Exterior",
           "Planet",
-          "Episode VII"
+          "Episode VII",
+          "Set 10"
+        ],
+        "lightSideIcons": 2,
+        "darkSideIcons": 0,
+        "gametext": "Light:  May deploy [Episode VII] Luke here from Reserve Deck; reshuffle. Once per turn, if Luke alone here, may subtract 2 from opponent's total power during a battle at another location.  Dark:"
+      },
+      "pulledBy": [
+        "Everything We Need"
+      ],
+      "legacy": false
+    },
+    {
+      "id": 7020,
+      "gempId": "210_1",
+      "side": "Light",
+      "rarity": "R",
+      "set": "210",
+      "printings": [
+        {
+          "set": "210"
+        }
+      ],
+      "front": {
+        "title": "•Ahch-To: Saddle (AI)",
+        "imageUrl": "https://res.starwarsccg.org/cards/VirtualAlternateImage-Light/large/ahchtosaddle_ai.gif",
+        "type": "Location",
+        "subType": "Site",
+        "uniqueness": "*",
+        "destiny": "0",
+        "icons": [
+          "Exterior",
+          "Planet",
+          "Episode VII",
+          "Set 10"
         ],
         "lightSideIcons": 2,
         "darkSideIcons": 0,
@@ -1543,10 +1583,12 @@
           "Warrior",
           "Permanent Weapon",
           "Clone Army",
-          "Episode I"
+          "Episode I",
+          "Premium",
+          "Set P"
         ],
         "characteristics": [
-          "Togrutan",
+          "Togruta",
           "lightsaber",
           "female",
           "padawan"
@@ -1558,7 +1600,65 @@
         ]
       },
       "counterpart": "Asajj Ventress With Lightsabers",
-      "legacy": false
+      "rulings": [
+        "Canceling the targeting of one character (e.g. Force Field) cancels the entire action."
+      ],
+      "legacy": false,
+      "abbr": [
+        "EPP Ahsoka"
+      ]
+    },
+    {
+      "id": 7021,
+      "gempId": "301_1",
+      "side": "Light",
+      "rarity": "C",
+      "set": "301",
+      "printings": [
+        {
+          "set": "301"
+        }
+      ],
+      "front": {
+        "title": "•Ahsoka Tano With Lightsabers (AI)",
+        "imageUrl": "https://res.starwarsccg.org/cards/VirtualAlternateImage-Light/large/ahsokatanowithlightsabers_ai.gif",
+        "type": "Character",
+        "subType": "Republic",
+        "uniqueness": "*",
+        "destiny": "1",
+        "power": "4",
+        "ability": "5",
+        "deploy": "5",
+        "forfeit": "7",
+        "icons": [
+          "Pilot",
+          "Warrior",
+          "Permanent Weapon",
+          "Clone Army",
+          "Episode I",
+          "Premium",
+          "Set P"
+        ],
+        "characteristics": [
+          "Togruta",
+          "lightsaber",
+          "female",
+          "padawan"
+        ],
+        "gametext": "Power +1 with Anakin. Permanent weapon is •Ahsoka's Lightsabers (may target a character for free, or target two characters using 1 Force; draw two destiny; target(s) hit and forfeit -2 if total destiny > total defense value).",
+        "lore": "Female Togruta Padawan.",
+        "extraText": [
+          "Force-Sensitive"
+        ]
+      },
+      "counterpart": "Asajj Ventress With Lightsabers",
+      "rulings": [
+        "Canceling the targeting of one character (e.g. Force Field) cancels the entire action."
+      ],
+      "legacy": false,
+      "abbr": [
+        "EPP Ahsoka"
+      ]
     },
     {
       "id": 74,
@@ -2273,7 +2373,7 @@
       "id": 4065,
       "gempId": "200_2",
       "side": "Light",
-      "rarity": "C",
+      "rarity": "C2",
       "set": "200",
       "printings": [
         {
@@ -2295,7 +2395,8 @@
           "Pilot",
           "Warrior",
           "Episode I",
-          "Clone Army"
+          "Clone Army",
+          "Set 0"
         ],
         "characteristics": [
           "padawan"
@@ -2315,7 +2416,7 @@
       "id": 5340,
       "gempId": "200_2",
       "side": "Light",
-      "rarity": "C",
+      "rarity": "C2",
       "set": "200",
       "printings": [
         {
@@ -2324,9 +2425,10 @@
       ],
       "front": {
         "title": "•Anakin Skywalker, Padawan Learner (AI)",
-        "imageUrl": "https://res.starwarsccg.org/cards/OfficialAI-Light/large/anakinskywalkerpadawanlearner.gif",
+        "imageUrl": "https://res.starwarsccg.org/cards/VirtualAlternateImage-Light/large/anakinskywalkerpadawanlearner_ai.gif",
         "type": "Character",
         "subType": "Republic",
+        "uniqueness": "*",
         "destiny": "1",
         "power": "5",
         "ability": "5",
@@ -2336,7 +2438,11 @@
           "Pilot",
           "Warrior",
           "Episode I",
-          "Clone Army"
+          "Clone Army",
+          "Set 0"
+        ],
+        "characteristics": [
+          "padawan"
         ],
         "gametext": "Adds 3 to the power of anything he pilots. Deploys -2 aboard Azure Angel. Adds 2 to maneuver of anything he pilots. Players may initiate battles here for free. During battle, your battle destiny draws and Anakin's weapon destiny draws are +1. Immune to attrition < 4.",
         "lore": "Blank.",
@@ -2765,7 +2871,10 @@
         "Corellian Slip",
         "Corellian Slip (V)"
       ],
-      "legacy": false
+      "legacy": false,
+      "abbr": [
+        "Ant Man"
+      ]
     },
     {
       "id": 4001,
@@ -2799,7 +2908,10 @@
         "First function affects all opponent's weapons, not a specific target weapon.",
         "First function may be played even if opponent currently has no weapons on table."
       ],
-      "legacy": false
+      "legacy": false,
+      "abbr": [
+        "Ant Man V"
+      ]
     },
     {
       "id": 123,
@@ -3156,6 +3268,10 @@
       "pulledBy": [
         "Corporal Beezer",
         "Portable Scanner"
+      ],
+      "rulings": [
+        "Multiple Artillery Remotes on the same planet could be used to fire the same Artillery weapon multiple times (once per Artillery Remote).",
+        "Each character may only use one device per turn (barring special exceptions like if they have Echo Trooper Backpack)."
       ],
       "legacy": false
     },
@@ -3975,7 +4091,7 @@
       "id": 5017,
       "gempId": "202_7",
       "side": "Light",
-      "rarity": "C",
+      "rarity": "C1",
       "set": "202",
       "printings": [
         {
@@ -3998,7 +4114,9 @@
           "Nav Computer",
           "Scomp Link",
           "Episode I",
-          "Republic"
+          "Republic",
+          "Clone Army",
+          "Set 2"
         ],
         "gametext": "May add one pilot and one astromech. During battle, if Anakin or R2-D2 aboard, may lose 1 Force to cancel a non-[Immune to Sense] interrupt. While Anakin or R2-D2 aboard, immune to attrition < 5 (< 6 if both).",
         "lore": "Blank."
@@ -4007,13 +4125,16 @@
       "matching": [
         "Anakin Skywalker"
       ],
+      "rulings": [
+        "If an Interrupt is only partially immune to Sense, may cancel that Interrupt if a non-immune function is being played."
+      ],
       "legacy": false
     },
     {
       "id": 5366,
       "gempId": "202_7",
       "side": "Light",
-      "rarity": "C",
+      "rarity": "C1",
       "set": "202",
       "printings": [
         {
@@ -4022,9 +4143,10 @@
       ],
       "front": {
         "title": "•Azure Angel (AI)",
-        "imageUrl": "https://res.starwarsccg.org/cards/OfficialAI-Light/large/azureangel.gif",
+        "imageUrl": "https://res.starwarsccg.org/cards/VirtualAlternateImage-Light/large/azureangel_ai.gif",
         "type": "Starship",
         "subType": "Starfighter: Modified Delta-7 Interceptor",
+        "uniqueness": "*",
         "destiny": "2",
         "power": "3",
         "maneuver": "4",
@@ -4035,12 +4157,20 @@
           "Nav Computer",
           "Scomp Link",
           "Episode I",
-          "Republic"
+          "Republic",
+          "Clone Army",
+          "Set 2"
         ],
         "gametext": "May add one pilot and one astromech. During battle, if Anakin or R2-D2 aboard, may lose 1 Force to cancel a non-[Immune to Sense] interrupt. While Anakin or R2-D2 aboard, immune to attrition < 5 (< 6 if both).",
         "lore": "Blank."
       },
       "conceptBy": "(Original concept by Kevin Shannon)",
+      "matching": [
+        "Anakin Skywalker"
+      ],
+      "rulings": [
+        "If an Interrupt is only partially immune to Sense, may cancel that Interrupt if a non-immune function is being played."
+      ],
       "legacy": false
     },
     {
@@ -5791,7 +5921,7 @@
           "Reflections II"
         ],
         "characteristics": [
-          "Independent (starfighter)"
+          "Independent (starship)"
         ],
         "gametext": "May add 1 pilot and 6 passengers.  Permanent pilot is •Booster, who provides ability of 3. Once per game, may deploy Mirax here from Reserve Deck; reshuffle. Immune to Lateral Damage and attrition < 5.",
         "lore": "Owned by legendary Terrik family of smugglers. Used to chase down the pirates who killed Wedge's parents. On Corellian Security's most wanted list. 37.5 meters long."
@@ -7076,7 +7206,56 @@
         "forfeit": "6",
         "icons": [
           "Pilot",
-          "Warrior"
+          "Warrior",
+          "Set 4"
+        ],
+        "characteristics": [
+          "leader",
+          "female",
+          "Twi'lek"
+        ],
+        "gametext": "Adds 3 to power of anything she pilots. If with an Imperial (or two Rebels), adds one battle destiny. During battle, if you just drew a destiny < number of Rebels here, may cancel and redraw that destiny.",
+        "lore": "Female Twi'lek leader.",
+        "extraText": [
+          "Force-Attuned"
+        ]
+      },
+      "conceptBy": "(Original concept by Matt Schmaltz)",
+      "pulledBy": [
+        "This Is MY Ship!",
+        "Yavin 4: Massassi War Room (V)"
+      ],
+      "matching": [
+        "Ghost"
+      ],
+      "legacy": false
+    },
+    {
+      "id": 7022,
+      "gempId": "204_3",
+      "side": "Light",
+      "rarity": "C",
+      "set": "204",
+      "printings": [
+        {
+          "set": "204"
+        }
+      ],
+      "front": {
+        "title": "•Captain Hera Syndulla (AI)",
+        "imageUrl": "https://res.starwarsccg.org/cards/VirtualAlternateImage-Light/large/captainherasyndulla_ai.gif",
+        "type": "Character",
+        "subType": "Rebel",
+        "uniqueness": "*",
+        "destiny": "3",
+        "power": "4",
+        "ability": "3",
+        "deploy": "4",
+        "forfeit": "6",
+        "icons": [
+          "Pilot",
+          "Warrior",
+          "Set 4"
         ],
         "characteristics": [
           "leader",
@@ -7234,7 +7413,7 @@
       "id": 4066,
       "gempId": "200_3",
       "side": "Light",
-      "rarity": "U1",
+      "rarity": "C2",
       "set": "200",
       "printings": [
         {
@@ -7257,9 +7436,11 @@
           "Warrior",
           "Permanent Weapon",
           "Clone Army",
-          "Episode I"
+          "Episode I",
+          "Set 0"
         ],
         "characteristics": [
+          "captain",
           "leader",
           "Clone trooper",
           "trooper"
@@ -7269,6 +7450,56 @@
       },
       "combo": [
         "Commander Cody + Captain Rex"
+      ],
+      "rulings": [
+        "This weapon is a blaster (e.g. for Blaster Proficiency)."
+      ],
+      "legacy": false
+    },
+    {
+      "id": 7023,
+      "gempId": "200_3",
+      "side": "Light",
+      "rarity": "C2",
+      "set": "200",
+      "printings": [
+        {
+          "set": "200"
+        }
+      ],
+      "front": {
+        "title": "•Captain Rex, 501st Legion (AI)",
+        "imageUrl": "https://res.starwarsccg.org/cards/VirtualAlternateImage-Light/large/captainrex501stlegion_ai.gif",
+        "type": "Character",
+        "subType": "Republic",
+        "uniqueness": "*",
+        "destiny": "2",
+        "power": "3",
+        "ability": "3",
+        "armor": "4",
+        "deploy": "4",
+        "forfeit": "4",
+        "icons": [
+          "Warrior",
+          "Permanent Weapon",
+          "Clone Army",
+          "Episode I",
+          "Set 0"
+        ],
+        "characteristics": [
+          "captain",
+          "leader",
+          "Clone trooper",
+          "trooper"
+        ],
+        "gametext": "Your clones deploy -1 here. While at an [Episode I] battleground site, adds one battle destiny. Permanent weapon is •Twin Blasters (may target a character for free; draw two destiny; target hit and forfeit -3 if total destiny -2 > defense value).",
+        "lore": "Leader. Clone trooper."
+      },
+      "combo": [
+        "Commander Cody + Captain Rex"
+      ],
+      "rulings": [
+        "This weapon is a blaster (e.g. for Blaster Proficiency)."
       ],
       "legacy": false
     },
@@ -8359,11 +8590,57 @@
         "deploy": "4",
         "forfeit": "5",
         "icons": [
-          "Warrior"
+          "Warrior",
+          "Set 7"
         ],
         "gametext": "If a battle was just initiated here, may peek at the top card of any Reserve Desk; return it or place it on top of owner's Force Pile. If just lost, may take into hand from reserve deck; reshuffle or retrieve Baze. Once per game, you may re-circulate.",
         "lore": "Blank."
       },
+      "pulls": [
+        "Baze Malbus With Cannon"
+      ],
+      "rulings": [
+        "May place card on top of an empty Force Pile.",
+        "May not peek at the top card of an empty Reserve Deck."
+      ],
+      "legacy": false
+    },
+    {
+      "id": 7024,
+      "gempId": "207_2",
+      "side": "Light",
+      "rarity": "C",
+      "set": "207",
+      "printings": [
+        {
+          "set": "207"
+        }
+      ],
+      "front": {
+        "title": "•Chirrut Imwe (AI)",
+        "imageUrl": "https://res.starwarsccg.org/cards/VirtualAlternateImage-Light/large/chirrutimwe_ai.gif",
+        "type": "Character",
+        "subType": "Rebel",
+        "uniqueness": "*",
+        "destiny": "2",
+        "power": "4",
+        "ability": "4",
+        "deploy": "4",
+        "forfeit": "5",
+        "icons": [
+          "Warrior",
+          "Set 7"
+        ],
+        "gametext": "If a battle was just initiated here, may peek at the top card of any Reserve Desk; return it or place it on top of owner's Force Pile. If just lost, may take into hand from reserve deck; reshuffle or retrieve Baze. Once per game, you may re-circulate.",
+        "lore": "Blank."
+      },
+      "pulls": [
+        "Baze Malbus With Cannon"
+      ],
+      "rulings": [
+        "May place card on top of an empty Force Pile.",
+        "May not peek at the top card of an empty Reserve Deck."
+      ],
       "legacy": false
     },
     {
@@ -9685,7 +9962,51 @@
         "icons": [
           "Warrior",
           "Clone Army",
-          "Episode I"
+          "Episode I",
+          "Set 0"
+        ],
+        "characteristics": [
+          "leader",
+          "Clone trooper",
+          "trooper",
+          "commander"
+        ],
+        "gametext": "Deploys -1 to same site as Obi-Wan. [Separatist] cards are power and defense value -1 here. When in battle at a site with Rex (or two of your clones), may cancel one just drawn battle destiny.",
+        "lore": "Leader. Clone trooper."
+      },
+      "combo": [
+        "Commander Cody + Captain Rex"
+      ],
+      "legacy": false
+    },
+    {
+      "id": 7025,
+      "gempId": "200_6",
+      "side": "Light",
+      "rarity": "C",
+      "set": "200",
+      "printings": [
+        {
+          "set": "200"
+        }
+      ],
+      "front": {
+        "title": "•Commander Cody (AI)",
+        "imageUrl": "https://res.starwarsccg.org/cards/VirtualAlternateImage-Light/large/commandercody_ai.gif",
+        "type": "Character",
+        "subType": "Republic",
+        "uniqueness": "*",
+        "destiny": "3",
+        "power": "3",
+        "ability": "2",
+        "armor": "4",
+        "deploy": "3",
+        "forfeit": "5",
+        "icons": [
+          "Warrior",
+          "Clone Army",
+          "Episode I",
+          "Set 0"
         ],
         "characteristics": [
           "leader",
@@ -11450,6 +11771,40 @@
       "legacy": false
     },
     {
+      "id": 7026,
+      "gempId": "200_57",
+      "side": "Light",
+      "rarity": "R2",
+      "set": "200",
+      "printings": [
+        {
+          "set": "200"
+        }
+      ],
+      "front": {
+        "title": "•Coruscant: Night Club (AI)",
+        "imageUrl": "https://res.starwarsccg.org/cards/VirtualAlternateImage-Light/large/coruscantnightclub_ai.gif",
+        "type": "Location",
+        "subType": "Site",
+        "uniqueness": "*",
+        "destiny": "0",
+        "icons": [
+          "Interior",
+          "Planet",
+          "Episode I",
+          "Set 0"
+        ],
+        "lightSideIcons": 2,
+        "darkSideIcons": 2,
+        "gametext": "Light:  Your characters here are defense value -1 and may not be excluded from battle.  Dark:  Your characters here are defense value -1 and may not be excluded from battle."
+      },
+      "pulledBy": [
+        "Mindful Of The Future",
+        "Now, This Is Podracing!"
+      ],
+      "legacy": false
+    },
+    {
       "id": 573,
       "gempId": "8_37",
       "side": "Light",
@@ -11749,7 +12104,51 @@
         "icons": [
           "Warrior",
           "Clone Army",
-          "Episode I"
+          "Episode I",
+          "Set 3"
+        ],
+        "characteristics": [
+          "Clone trooper",
+          "trooper",
+          "spy"
+        ],
+        "gametext": "Once per turn, if you just drew a destiny of 5, may take that card into hand. During any deploy phase, may use 1 Force to target a Dark Jedi present. Draw destiny. If destiny = 5, target loses immunity to attrition for remainder of turn.",
+        "lore": "Clone trooper and spy."
+      },
+      "conceptBy": "(Original concept by Chris Menzel)",
+      "combo": [
+        "Commander Cody + Captain Rex + CT-5555 (Fives)"
+      ],
+      "legacy": false
+    },
+    {
+      "id": 7027,
+      "gempId": "203_2",
+      "side": "Light",
+      "rarity": "C",
+      "set": "203",
+      "printings": [
+        {
+          "set": "203"
+        }
+      ],
+      "front": {
+        "title": "•CT-5555 (Fives) (AI)",
+        "imageUrl": "https://res.starwarsccg.org/cards/VirtualAlternateImage-Light/large/ct5555fives_ai.gif",
+        "type": "Character",
+        "subType": "Republic",
+        "uniqueness": "*",
+        "destiny": "5",
+        "power": "2",
+        "ability": "2",
+        "armor": "4",
+        "deploy": "2",
+        "forfeit": "3",
+        "icons": [
+          "Warrior",
+          "Clone Army",
+          "Episode I",
+          "Set 3"
         ],
         "characteristics": [
           "Clone trooper",
@@ -13949,7 +14348,7 @@
           "Defensive Shield",
           "Episode I"
         ],
-        "gametext": "Plays on table. Once per game, may take an Immediate Effect into hand from Reserve Deck; reshuffle. While opponent occupies no battleground systems, Mobilization Points is suspended. 'Missing' on Always Thinking With Your Stomach is treated as 'landspeed = 0 for remainder of turn.'",
+        "gametext": "Plays on table. Always Thinking With Your Stomach, Ice Storm, and Sandwhirl are canceled. Once per game, may take an Immediate Effect into hand from Reserve Deck; reshuffle. Unless opponent occupies a battleground system, Mobilization Points is suspended.",
         "lore": "The Jedi won't tolerate silly behavior for very long."
       },
       "legacy": false
@@ -14754,6 +15153,7 @@
       ],
       "legacy": false,
       "abbr": [
+        "EBT",
         "Adam Fletcher"
       ]
     },
@@ -14793,7 +15193,10 @@
       "pulledBy": [
         "Mon Mothma"
       ],
-      "legacy": false
+      "legacy": false,
+      "abbr": [
+        "EBTO"
+      ]
     },
     {
       "id": 810,
@@ -17386,6 +17789,10 @@
         "gametext": "USED: If [Episode VII] Luke at a site, target all your characters at one other site. They are defense value = 5 this turn.  LOST: Once per game, if opponent just drew battle destiny and Luke is out of play, draw destiny and subtract that amount from opponent's total battle destiny.",
         "lore": "Blank."
       },
+      "rulings": [
+        "It does not matter how the Luke card got out of play, even if it went out of play from a Unit Of Force state.",
+        "A Luke card on Communing counts as Luke being out of play."
+      ],
       "legacy": false
     },
     {
@@ -18304,6 +18711,7 @@
         "imageUrl": "https://res.starwarsccg.org/cards/TheedPalace-Light/large/generaljarjarai.gif",
         "type": "Character",
         "subType": "Alien",
+        "uniqueness": "*",
         "destiny": "2",
         "power": "4",
         "ability": "3",
@@ -18325,7 +18733,7 @@
       "id": 5542,
       "gempId": "209_6",
       "side": "Light",
-      "rarity": "U",
+      "rarity": "U2",
       "set": "209",
       "printings": [
         {
@@ -18337,6 +18745,7 @@
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual9-Light/large/generalkenobi.gif",
         "type": "Character",
         "subType": "Republic",
+        "uniqueness": "*",
         "destiny": "1",
         "power": "6",
         "ability": "6",
@@ -18346,7 +18755,8 @@
           "Pilot",
           "Warrior",
           "Clone Army",
-          "Episode I"
+          "Episode I",
+          "Set 9"
         ],
         "characteristics": [
           "General",
@@ -18359,6 +18769,62 @@
           "Jedi Knight"
         ]
       },
+      "pulledBy": [
+        "Rebel Leadership (V)",
+        "Return Of A Jedi"
+      ],
+      "rulings": [
+        "The 'during battle' sentence is once per battle."
+      ],
+      "legacy": false
+    },
+    {
+      "id": 7028,
+      "gempId": "209_6",
+      "side": "Light",
+      "rarity": "U2",
+      "set": "209",
+      "printings": [
+        {
+          "set": "209"
+        }
+      ],
+      "front": {
+        "title": "•General Kenobi (AI)",
+        "imageUrl": "https://res.starwarsccg.org/cards/VirtualAlternateImage-Light/large/generalkenobi_ai.gif",
+        "type": "Character",
+        "subType": "Republic",
+        "uniqueness": "*",
+        "destiny": "1",
+        "power": "6",
+        "ability": "6",
+        "deploy": "6",
+        "forfeit": "9",
+        "icons": [
+          "Pilot",
+          "Warrior",
+          "Clone Army",
+          "Episode I",
+          "Set 9"
+        ],
+        "characteristics": [
+          "General",
+          "Jedi Council Member",
+          "Leader"
+        ],
+        "gametext": "During battle, if alone or with a clone, may activate 1 Force or add 1 to a just drawn destiny. Once per game, may take a clone or [Reflections III] lightsaber into hand from Reserve Deck; reshuffle. Immune to attrition < 6.",
+        "lore": "Jedi Council member. Leader.",
+        "extraText": [
+          "Jedi Knight"
+        ]
+      },
+      "pulledBy": [
+        "Rebel Leadership (V)",
+        "Return Of A Jedi"
+      ],
+      "rulings": [
+        "The 'during battle' sentence is once per battle."
+      ],
       "legacy": false
     },
     {
@@ -19841,7 +20307,8 @@
         "icons": [
           "Pilot",
           "Nav Computer",
-          "Scomp Link"
+          "Scomp Link",
+          "Set 1"
         ],
         "characteristics": [
           "Rebel (starship)"
@@ -19849,7 +20316,56 @@
         "gametext": "Permanent pilot is •Green Leader, who provides ability of 2. Adds one battle destiny with a Rebel snub fighter. During battle, may cancel immunity to attrition of one starship here; this A-wing is 'hit.'",
         "lore": "Blank."
       },
-      "legacy": false
+      "rulings": [
+        "May cancel immunity to attrition of a starship even if GLiGS1 is already hit."
+      ],
+      "legacy": false,
+      "abbr": [
+        "GLiGS1"
+      ]
+    },
+    {
+      "id": 7029,
+      "gempId": "201_18",
+      "side": "Light",
+      "rarity": "C",
+      "set": "201",
+      "printings": [
+        {
+          "set": "201"
+        }
+      ],
+      "front": {
+        "title": "•Green Leader In Green Squadron 1 (AI)",
+        "imageUrl": "https://res.starwarsccg.org/cards/VirtualAlternateImage-Light/large/greenleaderingreensquadron1_ai.gif",
+        "type": "Starship",
+        "subType": "Starfighter: A-Wing",
+        "uniqueness": "*",
+        "destiny": "2",
+        "power": "5",
+        "maneuver": "5",
+        "hyperspeed": "4",
+        "deploy": "4",
+        "forfeit": "4",
+        "icons": [
+          "Pilot",
+          "Nav Computer",
+          "Scomp Link",
+          "Set 1"
+        ],
+        "characteristics": [
+          "Rebel (starship)"
+        ],
+        "gametext": "Permanent pilot is •Green Leader, who provides ability of 2. Adds one battle destiny with a Rebel snub fighter. During battle, may cancel immunity to attrition of one starship here; this A-wing is 'hit.'",
+        "lore": "Blank."
+      },
+      "rulings": [
+        "May cancel immunity to attrition of a starship even if GLiGS1 is already hit."
+      ],
+      "legacy": false,
+      "abbr": [
+        "GLiGS1"
+      ]
     },
     {
       "id": 1076,
@@ -24346,7 +24862,46 @@
         "destiny": "0",
         "icons": [
           "Planet",
-          "Episode VII"
+          "Episode VII",
+          "Set 4"
+        ],
+        "lightSideIcons": 2,
+        "darkSideIcons": 1,
+        "gametext": "Light:  If [Episode VII] Falcon here, Force drain +1 here.  Dark:  Imperial starships deploy +1 here.",
+        "parsec": "4"
+      },
+      "pulledBy": [
+        "A New Secret Base",
+        "A New Secret Base (V)",
+        "Hidden Base",
+        "Mindful Of The Future",
+        "Yavin 4 Base Operations"
+      ],
+      "counterpart": "Jakku",
+      "legacy": false
+    },
+    {
+      "id": 7030,
+      "gempId": "204_26",
+      "side": "Light",
+      "rarity": "C",
+      "set": "204",
+      "printings": [
+        {
+          "set": "204"
+        }
+      ],
+      "front": {
+        "title": "•Jakku (AI)",
+        "imageUrl": "https://res.starwarsccg.org/cards/VirtualAlternateImage-Light/large/jakku_ai.gif",
+        "type": "Location",
+        "subType": "System",
+        "uniqueness": "*",
+        "destiny": "0",
+        "icons": [
+          "Planet",
+          "Episode VII",
+          "Set 4"
         ],
         "lightSideIcons": 2,
         "darkSideIcons": 1,
@@ -25678,7 +26233,47 @@
         "forfeit": "6",
         "icons": [
           "Pilot",
-          "Warrior"
+          "Warrior",
+          "Set 3"
+        ],
+        "characteristics": [
+          "padawan"
+        ],
+        "gametext": "Adds 1 to power of anything he pilots. While present with an Imperial (or two Rebels), all immunity to attrition here is canceled.",
+        "lore": "Padawan.",
+        "extraText": [
+          "Force-Sensitive"
+        ]
+      },
+      "conceptBy": "(Original concept by Jarad Konsker)",
+      "legacy": false
+    },
+    {
+      "id": 7031,
+      "gempId": "203_6",
+      "side": "Light",
+      "rarity": "PM",
+      "set": "203",
+      "printings": [
+        {
+          "set": "203"
+        }
+      ],
+      "front": {
+        "title": "•Kanan Jarrus (AI)",
+        "imageUrl": "https://res.starwarsccg.org/cards/VirtualAlternateImage-Light/large/kananjarrus_ai.gif",
+        "type": "Character",
+        "subType": "Rebel",
+        "uniqueness": "*",
+        "destiny": "2",
+        "power": "4",
+        "ability": "5",
+        "deploy": "4",
+        "forfeit": "6",
+        "icons": [
+          "Pilot",
+          "Warrior",
+          "Set 3"
         ],
         "characteristics": [
           "padawan"
@@ -26443,7 +27038,7 @@
       "id": 5652,
       "gempId": "210_19",
       "side": "Light",
-      "rarity": "R",
+      "rarity": "U",
       "set": "210",
       "printings": [
         {
@@ -26463,10 +27058,51 @@
         "icons": [
           "Pilot",
           "Warrior",
-          "Episode I"
+          "Episode I",
+          "Set 10"
         ],
         "characteristics": [
-          "Jedi Council Member"
+          "Jedi Council Member",
+          "Nautolan"
+        ],
+        "gametext": "Adds 2 to power of anything he pilots. Deploys -1 to an [Episode I] site (-2 if underwater). Landspeed = 2. Once per turn, may use 1 Force (or place your combat card here in Used Pile) to draw top card of Reserve Deck. Immune to attrition < 5.",
+        "lore": "Nautolan Jedi Council member.",
+        "extraText": [
+          "Jedi Master"
+        ]
+      },
+      "legacy": false
+    },
+    {
+      "id": 7032,
+      "gempId": "210_19",
+      "side": "Light",
+      "rarity": "U",
+      "set": "210",
+      "printings": [
+        {
+          "set": "210"
+        }
+      ],
+      "front": {
+        "title": "•Kit Fisto (AI)",
+        "imageUrl": "https://res.starwarsccg.org/cards/VirtualAlternateImage-Light/large/kitfisto_ai.gif",
+        "type": "Character",
+        "subType": "Jedi Master",
+        "destiny": "1",
+        "power": "5",
+        "ability": "7",
+        "deploy": "6",
+        "forfeit": "7",
+        "icons": [
+          "Pilot",
+          "Warrior",
+          "Episode I",
+          "Set 10"
+        ],
+        "characteristics": [
+          "Jedi Council Member",
+          "Nautolan"
         ],
         "gametext": "Adds 2 to power of anything he pilots. Deploys -1 to an [Episode I] site (-2 if underwater). Landspeed = 2. Once per turn, may use 1 Force (or place your combat card here in Used Pile) to draw top card of Reserve Deck. Immune to attrition < 5.",
         "lore": "Nautolan Jedi Council member.",
@@ -28858,12 +29494,17 @@
         "icons": [
           "Pilot",
           "Nav Computer",
-          "Scomp Link"
+          "Scomp Link",
+          "Set 9"
         ],
         "gametext": "Permanent pilot provides ability of 2. Cancels opponent's immunity to attrition here. While at Scarif, adds 2 to attempts to 'blow away' Shield Gate.",
         "lore": "Phoenix Squadron."
       },
-      "legacy": false
+      "legacy": false,
+      "abbr": [
+        "LM",
+        "Hammerhead Corvette"
+      ]
     },
     {
       "id": 1554,
@@ -31127,6 +31768,9 @@
         "Game text of Dr",
         "Evazan's Sawed-off Blaster",
         "Game text of Light Repeating Blaster Rifle"
+      ],
+      "rulings": [
+        "Works with either player's Boba Fett."
       ],
       "legacy": false
     },
@@ -33420,7 +34064,10 @@
         "Mindful Of The Future"
       ],
       "counterpart": "Naboo: Theed Palace Generator",
-      "legacy": false
+      "legacy": false,
+      "abbr": [
+        "TPG"
+      ]
     },
     {
       "id": 1744,
@@ -33453,7 +34100,10 @@
         "Mindful Of The Future"
       ],
       "counterpart": "Naboo: Theed Palace Generator Core",
-      "legacy": false
+      "legacy": false,
+      "abbr": [
+        "TPGC"
+      ]
     },
     {
       "id": 1745,
@@ -33646,7 +34296,9 @@
         "uniqueness": "*",
         "destiny": "0",
         "icons": [
-          "Planet"
+          "Planet",
+          "Coruscant",
+          "Set 0"
         ],
         "lightSideIcons": 2,
         "darkSideIcons": 1,
@@ -33663,6 +34315,53 @@
         "Hidden Base",
         "Mindful Of The Future",
         "Yavin 4 Base Operations"
+      ],
+      "rulings": [
+        "'All starships' in the Dark player's text refers to starships belonging to both players."
+      ],
+      "legacy": false
+    },
+    {
+      "id": 7033,
+      "gempId": "200_58",
+      "side": "Light",
+      "rarity": "C",
+      "set": "200",
+      "printings": [
+        {
+          "set": "200"
+        }
+      ],
+      "front": {
+        "title": "•Nar Shaddaa (AI)",
+        "imageUrl": "https://res.starwarsccg.org/cards/VirtualAlternateImage-Light/large/narshaddaa_ai.gif",
+        "type": "Location",
+        "subType": "System",
+        "uniqueness": "*",
+        "destiny": "0",
+        "icons": [
+          "Planet",
+          "Coruscant",
+          "Set 0"
+        ],
+        "lightSideIcons": 2,
+        "darkSideIcons": 1,
+        "gametext": "Light:  Force drain +1 here. Once per game, if your control, may take Han's Toolkit into hand from Reserve Deck; reshuffle.  Dark:  Starships piloted by bounty hunters are power +1 here. All starships may move between here and Nal Hutta as a react.",
+        "parsec": "3"
+      },
+      "conceptBy": "(Original concept by Jarad Konsker, New Jersey Mini Open 2011)",
+      "pulls": [
+        "Han's Toolkit"
+      ],
+      "pulledBy": [
+        "A New Secret Base",
+        "A New Secret Base (V)",
+        "Hidden Base",
+        "Mindful Of The Future",
+        "Yavin 4 Base Operations"
+      ],
+      "rulings": [
+        "'All starships' in the Dark player's text refers to starships belonging to both players."
       ],
       "legacy": false
     },
@@ -34320,7 +35019,7 @@
           "Coruscant"
         ],
         "characteristics": [
-          "Repuplic (starship)"
+          "Republic (starship)"
         ],
         "gametext": "May add 1 pilot. Permanent pilot is •Obi-Wan, who provides ability of 6. Opponent's starships may not 'cloak.' Your total ability here may not be reduced.",
         "lore": "Optimized for diplomatic missions with sensor-proof pods that have ejection capabilities. Easily identified by its red coloration."
@@ -37691,7 +38390,49 @@
         "icons": [
           "Pilot",
           "Nav Computer",
-          "Scomp Link"
+          "Scomp Link",
+          "Set 7"
+        ],
+        "characteristics": [
+          "Rebel (starship)",
+          "ship-docking capability"
+        ],
+        "gametext": "Deploys -2 to a system opponent occupies (-4 if opponent's system). May add 6 pilots, 8 passengers, 3 starfighters, 3 vehicles, and 1 corvette. Permanent pilot provides ability of 2.",
+        "lore": "Blank."
+      },
+      "pulledBy": [
+        "Rebellions Are Built On Hope"
+      ],
+      "legacy": false
+    },
+    {
+      "id": 5179,
+      "gempId": "207_18",
+      "side": "Light",
+      "rarity": "U",
+      "set": "207",
+      "printings": [
+        {
+          "set": "207"
+        }
+      ],
+      "front": {
+        "title": "•Profundity (AI)",
+        "imageUrl": "https://res.starwarsccg.org/cards/VirtualAlternateImage-Light/large/profundity_ai.gif",
+        "type": "Starship",
+        "subType": "Capital: Mon Calamari Star Cruiser",
+        "uniqueness": "*",
+        "destiny": "1",
+        "power": "6",
+        "armor": "7",
+        "hyperspeed": "3",
+        "deploy": "6",
+        "forfeit": "8",
+        "icons": [
+          "Pilot",
+          "Nav Computer",
+          "Scomp Link",
+          "Set 7"
         ],
         "characteristics": [
           "Rebel (starship)",
@@ -41917,7 +42658,8 @@
         "icons": [
           "Pilot",
           "Warrior",
-          "Episode VII"
+          "Episode VII",
+          "Set 4"
         ],
         "characteristics": [
           "scavenger",
@@ -41930,7 +42672,11 @@
         "Jakku: Rey's Encampment"
       ],
       "matching": [
+        "The Falcon",
         "The Falcon, Junkyard Garbage"
+      ],
+      "rulings": [
+        "When searching Used Pile, it includes the Force that was just used to pay for deploying Rey."
       ],
       "legacy": false
     },
@@ -41947,9 +42693,10 @@
       ],
       "front": {
         "title": "•Rey (AI)",
-        "imageUrl": "https://res.starwarsccg.org/cards/OfficialAI-Light/large/rey.gif",
+        "imageUrl": "https://res.starwarsccg.org/cards/VirtualAlternateImage-Light/large/rey_ai.gif",
         "type": "Character",
         "subType": "Resistance",
+        "uniqueness": "*",
         "destiny": "1",
         "power": "4",
         "ability": "4",
@@ -41958,18 +42705,33 @@
         "icons": [
           "Pilot",
           "Warrior",
-          "Episode VII"
+          "Episode VII",
+          "Set 4"
+        ],
+        "characteristics": [
+          "scavenger",
+          "female"
         ],
         "gametext": "Adds 3 to power of anything she pilots. When deployed, may take any card from Used Pile into hand; reshuffle. Your total battle destiny here is +1. Once per turn, may draw bottom card of your Force Pile. Immune to attrition < 3 (< 6 if on Jakku).",
         "lore": "Female scavenger."
       },
+      "pulledBy": [
+        "Jakku: Rey's Encampment"
+      ],
+      "matching": [
+        "The Falcon",
+        "The Falcon, Junkyard Garbage"
+      ],
+      "rulings": [
+        "When searching Used Pile, it includes the Force that was just used to pay for deploying Rey."
+      ],
       "legacy": false
     },
     {
       "id": 5871,
       "gempId": "209_10",
       "side": "Light",
-      "rarity": "C2",
+      "rarity": "U",
       "set": "209",
       "printings": [
         {
@@ -41981,6 +42743,7 @@
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual9-Light/large/reywithlightsaber.gif",
         "type": "Character",
         "subType": "Resistance",
+        "uniqueness": "*",
         "destiny": "1",
         "power": "5",
         "ability": "5",
@@ -41990,11 +42753,75 @@
           "Pilot",
           "Warrior",
           "Permanent Weapon",
-          "Episode VII"
+          "Episode VII",
+          "Set 9"
+        ],
+        "characteristics": [
+          "female"
         ],
         "gametext": "Adds 2 to power of anything she pilots. Permanent weapon is •Anakin's Lightsaber (may target a character for free; draw two destiny; target hit, its forfeit = 0, and you may retrieve 1 Force, if total destiny > defense value).",
         "lore": "Female."
       },
+      "pulledBy": [
+        "Jakku: Rey's Encampment"
+      ],
+      "matching": [
+        "The Falcon",
+        "The Falcon, Junkyard Garbage"
+      ],
+      "rulings": [
+        "If something prevents the target from being hit (e.g. Theed Palace Generator Core) it also prevents retrieving 1 Force."
+      ],
+      "legacy": false,
+      "abbr": [
+        "EPP Rey"
+      ]
+    },
+    {
+      "id": 7035,
+      "gempId": "209_10",
+      "side": "Light",
+      "rarity": "U",
+      "set": "209",
+      "printings": [
+        {
+          "set": "209"
+        }
+      ],
+      "front": {
+        "title": "•Rey With Lightsaber (AI)",
+        "imageUrl": "https://res.starwarsccg.org/cards/VirtualAlternateImage-Light/large/reywithlightsaber_ai.gif",
+        "type": "Character",
+        "subType": "Resistance",
+        "uniqueness": "*",
+        "destiny": "1",
+        "power": "5",
+        "ability": "5",
+        "deploy": "5",
+        "forfeit": "7",
+        "icons": [
+          "Pilot",
+          "Warrior",
+          "Permanent Weapon",
+          "Episode VII",
+          "Set 9"
+        ],
+        "characteristics": [
+          "female"
+        ],
+        "gametext": "Adds 2 to power of anything she pilots. Permanent weapon is •Anakin's Lightsaber (may target a character for free; draw two destiny; target hit, its forfeit = 0, and you may retrieve 1 Force, if total destiny > defense value).",
+        "lore": "Female."
+      },
+      "pulledBy": [
+        "Jakku: Rey's Encampment"
+      ],
+      "matching": [
+        "The Falcon",
+        "The Falcon, Junkyard Garbage"
+      ],
+      "rulings": [
+        "If something prevents the target from being hit (e.g. Theed Palace Generator Core) it also prevents retrieving 1 Force."
+      ],
       "legacy": false,
       "abbr": [
         "EPP Rey"
@@ -42557,7 +43384,50 @@
         "forfeit": "5",
         "icons": [
           "Nav Computer",
-          "Scomp Link"
+          "Scomp Link",
+          "Set 6"
+        ],
+        "characteristics": [
+          "Rebel (starship)"
+        ],
+        "gametext": "May add 2 pilots and 4 passengers. May deploy with a pilot to a system without presence or Force icons. Spies deploy -1 aboard. Immune to attrition < 6 at opponent system (unless a Dark Jedi here).",
+        "lore": "Blank."
+      },
+      "pulledBy": [
+        "All Wings Report In & Darklighter Spin"
+      ],
+      "matching": [
+        "Bodhi Rook"
+      ],
+      "legacy": false
+    },
+    {
+      "id": 7036,
+      "gempId": "206_7",
+      "side": "Light",
+      "rarity": "U2",
+      "set": "206",
+      "printings": [
+        {
+          "set": "206"
+        }
+      ],
+      "front": {
+        "title": "•Rogue One (AI)",
+        "imageUrl": "https://res.starwarsccg.org/cards/VirtualAlternateImage-Light/large/rogueone_ai.gif",
+        "type": "Starship",
+        "subType": "Starfighter: Zeta-Class Transport",
+        "uniqueness": "*",
+        "destiny": "3",
+        "power": "2",
+        "maneuver": "3",
+        "hyperspeed": "4",
+        "deploy": "3",
+        "forfeit": "5",
+        "icons": [
+          "Nav Computer",
+          "Scomp Link",
+          "Set 6"
         ],
         "characteristics": [
           "Rebel (starship)"
@@ -43404,6 +44274,7 @@
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual9-Light/large/sawgerrera.gif",
         "type": "Character",
         "subType": "Rebel",
+        "uniqueness": "*",
         "destiny": "2",
         "power": "4",
         "ability": "3",
@@ -43462,6 +44333,7 @@
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual9-Light/large/scarif.gif",
         "type": "Location",
         "subType": "System",
+        "uniqueness": "*",
         "destiny": "0",
         "icons": [
           "Planet"
@@ -43489,6 +44361,7 @@
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual9-Light/large/scarifbeach.gif",
         "type": "Location",
         "subType": "Site",
+        "uniqueness": "*",
         "destiny": "0",
         "icons": [
           "Exterior",
@@ -43516,6 +44389,7 @@
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual9-Light/large/scarifdatavault.gif",
         "type": "Location",
         "subType": "Site",
+        "uniqueness": "*",
         "destiny": "0",
         "icons": [
           "Interior",
@@ -43544,17 +44418,67 @@
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual9-Light/large/scariflandingpadnine.gif",
         "type": "Location",
         "subType": "Site",
+        "uniqueness": "*",
         "destiny": "0",
         "icons": [
           "Exterior",
           "Planet",
-          "Scomp Link"
+          "Scomp Link",
+          "Endor",
+          "Set 9"
         ],
         "lightSideIcons": 1,
         "darkSideIcons": 1,
         "gametext": "Light:  Your docking bay transit to or from here requires +1 Force (+4 Force if Shield Gate on table).  Dark:  Your docking bay transit from here requires 2 Force. Your combat vehicles deploy +1 here."
       },
-      "legacy": false
+      "counterpart": "Scarif: Landing Pad Five",
+      "rulings": [
+        "Does not convert Landing Pad Five; they are two different locations."
+      ],
+      "legacy": false,
+      "abbr": [
+        "Scarif Docking Bay",
+        "SLP9"
+      ]
+    },
+    {
+      "id": 7037,
+      "gempId": "209_26",
+      "side": "Light",
+      "rarity": "C",
+      "set": "209",
+      "printings": [
+        {
+          "set": "209"
+        }
+      ],
+      "front": {
+        "title": "•Scarif: Landing Pad Nine (Docking Bay) (AI)",
+        "imageUrl": "https://res.starwarsccg.org/cards/VirtualAlternateImage-Light/large/scariflandingpadnine_ai.gif",
+        "type": "Location",
+        "subType": "Site",
+        "uniqueness": "*",
+        "destiny": "0",
+        "icons": [
+          "Exterior",
+          "Planet",
+          "Scomp Link",
+          "Endor",
+          "Set 9"
+        ],
+        "lightSideIcons": 1,
+        "darkSideIcons": 1,
+        "gametext": "Light:  Your docking bay transit to or from here requires +1 Force (+4 Force if Shield Gate on table).  Dark:  Your docking bay transit from here requires 2 Force. Your combat vehicles deploy +1 here."
+      },
+      "counterpart": "Scarif: Landing Pad Five",
+      "rulings": [
+        "Does not convert Landing Pad Five; they are two different locations."
+      ],
+      "legacy": false,
+      "abbr": [
+        "Scarif Docking Bay",
+        "SLP9"
+      ]
     },
     {
       "id": 5891,
@@ -43572,6 +44496,7 @@
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual9-Light/large/scarifturboliftcomplex.gif",
         "type": "Location",
         "subType": "Site",
+        "uniqueness": "*",
         "destiny": "0",
         "icons": [
           "Interior",
@@ -43617,7 +44542,10 @@
         "Silence Is Golden",
         "We're All Gonna Be A Lot Thinner!"
       ],
-      "legacy": false
+      "legacy": false,
+      "abbr": [
+        "SLA"
+      ]
     },
     {
       "id": 2184,
@@ -43704,8 +44632,7 @@
           "Selective Creature"
         ],
         "characteristics": [
-          "selective",
-          "packhunter"
+          "selective"
         ],
         "gametext": "Habitat: planet sites. Landspeed=2. Ferocity +2 when present at Mos Eisley or any <> spaceport site.",
         "ferocity": "2",
@@ -45662,9 +46589,6 @@
         "power": "*",
         "deploy": "2",
         "forfeit": "0",
-        "characteristics": [
-          "ferocious"
-        ],
         "gametext": "* Ferocity = two destiny. Habitat: Big One (Cave is now Belly). Attacks starfighters (defeated cards are eaten or relocated to Belly, opponent of victim chooses). Once per turn, may open or close mouth.",
         "ferocity": "2",
         "lore": "Immense spaceborn predator. Consumes minerals, mynocks and the occasional passing starfighter. Lives in asteroid caves. Only one meter long at birth.",
@@ -46258,6 +47182,39 @@
         "type": "Effect",
         "uniqueness": "*",
         "destiny": "6",
+        "icons": [
+          "Set 3"
+        ],
+        "gametext": "Deploy on R2-D2. If about to leave table (even from Overwhelmed),relocate to Dune Sea (if possible). If at Dune Sea, may relocate to your character there. If at Alderaan (or a 'blown away' system), tapes 'delivered'; relocate this Effect to table and may take any card into hand from Reserve Deck; reshuffle. (Immune to Alter.)",
+        "lore": "'What's so important? What's he carrying?' 'The technical readouts of that battle station. I only hope that when the data is analyzed, a weakness can be found.'"
+      },
+      "pulledBy": [
+        "The Signal",
+        "We Wish To Board At Once",
+        "Wokling (V)"
+      ],
+      "legacy": false
+    },
+    {
+      "id": 7038,
+      "gempId": "203_14",
+      "side": "Light",
+      "rarity": "R1",
+      "set": "203",
+      "printings": [
+        {
+          "set": "203"
+        }
+      ],
+      "front": {
+        "title": "•Stolen Data Tapes (AI)",
+        "imageUrl": "https://res.starwarsccg.org/cards/VirtualAlternateImage-Light/large/stolendatatapes_ai.gif",
+        "type": "Effect",
+        "uniqueness": "*",
+        "destiny": "6",
+        "icons": [
+          "Set 3"
+        ],
         "gametext": "Deploy on R2-D2. If about to leave table (even from Overwhelmed),relocate to Dune Sea (if possible). If at Dune Sea, may relocate to your character there. If at Alderaan (or a 'blown away' system), tapes 'delivered'; relocate this Effect to table and may take any card into hand from Reserve Deck; reshuffle. (Immune to Alter.)",
         "lore": "'What's so important? What's he carrying?' 'The technical readouts of that battle station. I only hope that when the data is analyzed, a weakness can be found.'"
       },
@@ -52260,8 +53217,7 @@
         "lore": "Bounty Hunters. Independent contractors. Highly competitive loners. Powerful. Deadly. Scum."
       },
       "pulledBy": [
-        "I Don't Need Their Scum",
-        "Either"
+        "I Don't Need Their Scum, Either"
       ],
       "cancels": [
         "Res Luk Ra'auf"
@@ -53387,7 +54343,52 @@
           "Pilot",
           "Nav Computer",
           "Scomp Link",
-          "Independent"
+          "Independent",
+          "Set 3"
+        ],
+        "characteristics": [
+          "Independent (starship)",
+          "ship-docking capability",
+          "freighter"
+        ],
+        "gametext": "May add 3 pilots and 6 passengers. Permanent pilot provides ability of 2. During battle, your total battle destiny is +1 for each smuggler aboard. Deploys and moves like a starfighter. Immune to attrition < 5.",
+        "lore": "Blank."
+      },
+      "pulledBy": [
+        "Local Defense",
+        "Yarna d'al' Gargan (V)"
+      ],
+      "legacy": false
+    },
+    {
+      "id": 7039,
+      "gempId": "203_21",
+      "side": "Light",
+      "rarity": "U",
+      "set": "203",
+      "printings": [
+        {
+          "set": "203"
+        }
+      ],
+      "front": {
+        "title": "•Wild Karrde (AI)",
+        "imageUrl": "https://res.starwarsccg.org/cards/VirtualAlternateImage-Light/large/wildkarrde_ai.gif",
+        "type": "Starship",
+        "subType": "Capital: Modified Action VI Freighter",
+        "uniqueness": "*",
+        "destiny": "2",
+        "power": "3",
+        "armor": "4",
+        "hyperspeed": "5",
+        "deploy": "3",
+        "forfeit": "6",
+        "icons": [
+          "Pilot",
+          "Nav Computer",
+          "Scomp Link",
+          "Independent",
+          "Set 3"
         ],
         "characteristics": [
           "Independent (starship)",
@@ -53728,9 +54729,6 @@
         "power": "3",
         "deploy": "2",
         "forfeit": "0",
-        "characteristics": [
-          "ferocious"
-        ],
         "gametext": "Habitat: planet sites (except Hoth). Does not attack your characters. When at a Tatooine site, prevents opponent's characters present from using their landspeed.",
         "ferocity":"3",
         "lore": "Large, froglike creature often used by Jawas and other Tatooine denizens as guards. Keeps raiding parties and other unwelcomed guests at bay.",
@@ -56941,7 +57939,7 @@
           "Episode VII"
         ],
         "characteristics": [
-          "Resistace (starship)",
+          "Resistance (starship)",
           "ship-docking capability"
         ],
         "gametext": "May add 2 pilots and 5 passengers. Permanent pilot provides ability of 2. Deploys and moves like a starfighter. When deployed, may deploy a female Resistance character aboard for free from Reserve Deck; reshuffle.",
@@ -58345,6 +59343,7 @@
       },
       "rulings": [
         "May only deploy on table if instructed to do so, such as via I Am Part Of The Living Force.",
+        "A Jedi stacked on Communing counts for Be With Me and Everything We Need.",
         "A Jedi stacked on Communing is considered out of play, but has not been 'just placed out of play' such as for I Can't Believe He's Gone.",
         "The objective Bring Him Before Me prevents Luke from being stacked on Communing."
       ],
@@ -59399,6 +60398,7 @@
         "The Destiny Of A Jedi"
       ],
       "rulings": [
+        "Jedi stacked on Communing are counted as Jedi out of play.",
         "For the 3rd section, a non-character card can add battle destinies (e.g. I'm Getting Pretty Good At This) but cannot cause a character to add battle destinies (e.g. Meditation).",
         "For the 4th section, when using the Legend objective, Light can deploy Set 14 Rey even if they have a Jedi on table. But they cannot deploy a Jedi if they have Set 14 Rey on table."
       ],
@@ -59664,7 +60664,8 @@
       ],
       "rulings": [
         "Jedi stacked on Communing are counted as cards out of play.",
-        "Count the cards in your out of play area (not the opponent's) regardless of whether the cards are stolen."
+        "Count the cards in your out of play area (not the opponent's) regardless of whether the cards are stolen.",
+        "Both functions of this card require My Parents Were Strong on table."
       ],
       "legacy": false,
       "abbr": [
@@ -59934,6 +60935,7 @@
       ],
       "rulings": [
         "Even if this card is deployed in the middle of a game, it still stacks a Set 4 Falcon from outside of the deck.",
+        "The Falcon only stacks here 0-side up, and only deploys from here 0-side up.",
         "The Falcon stacked here cannot be revealed via Squadron Assignments.",
         "The Falcon stacked here from outside the deck does not count towards the 60-card deck limit."
       ],
