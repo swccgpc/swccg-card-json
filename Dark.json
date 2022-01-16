@@ -1853,7 +1853,6 @@
         "gametext": "Dark:  If you control, Force drain +1 here for each Death Star site on table also in your control.  Light:  -",
         "parsec": "2"
       },
-      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "counterpart": "Alderaan",
       "legacy": false
     },
@@ -2480,7 +2479,6 @@
         "gametext": "Dark:  If opponent initiates a battle here, your starships may move as a 'react' to or from nearest related asteroid sector.  Light:  If you control, all opponent's Ugnaughts on table are forfeit -1.",
         "parsec": "5"
       },
-      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "pulledBy": [
         "Commander Merrejk",
         "Kuat Drive Yards (V)"
@@ -5854,7 +5852,6 @@
         "darkSideIcons": 2,
         "gametext": "Dark:  While you control with Haako, Gunray, or Dofine, your [Presence] droids are power +1.  Light:  Unless your Jedi here, Force drain -1 here."
       },
-      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "pulledBy": [
         "We Must Accelerate Our Plans"
       ],
@@ -5892,7 +5889,6 @@
         "darkSideIcons": 1,
         "gametext": "Dark:  Your Docking Bay transit from here is free.  Light:  Your Docking Bay transit to and from here requires +8 Force."
       },
-      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "pulledBy": [
         "Begin Landing Your Troops",
         "Begin Landing Your Troops & Fighters Straight Ahead",
@@ -5933,7 +5929,6 @@
         "darkSideIcons": 1,
         "gametext": "Dark:  If you occupy, Force generation +1 here, and opponent's characters may not move from here.  Light:  Your Jedi deploy +2 here."
       },
-      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "pulledBy": [
         "We Must Accelerate Our Plans",
         "Evil Is Everywhere"
@@ -8087,7 +8082,6 @@
         "gametext": "Dark:  If you occupy, once during each of your control phases, you may lose 1 Force to retrieve one trooper into hand.  Light:  Force drain -1 here. If you do not occupy, all your troopers are forfeit -1.",
         "parsec": "1"
       },
-      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "pulledBy": [
         "Commander Merrejk",
         "Kuat Drive Yards (V)",
@@ -11320,7 +11314,6 @@
         "gametext": "Dark:  If you control, all non-unique Imperials are power and forfeit +1 and Imperial trooper guards may move.  Light:  If you control, Force drain -1 here.",
         "parsec": "4"
       },
-      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "pulledBy": [
         "Commander Merrejk",
         "Establish Control (V)",
@@ -11391,7 +11384,6 @@
         "gametext": "Dark:  If you control, for each of your starships here, your total power is +1 in battles at Coruscant sites.  Light:  If you control, for each of your starships here, your total power is +1 in battles at Coruscant sites.",
         "parsec": "0"
       },
-      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "pulledBy": [
         "Commander Merrejk",
         "Kuat Drive Yards (V)"
@@ -11425,7 +11417,6 @@
         "gametext": "Dark:  If you control with a Star Destroyer, Force drain +1 here and opponent may not deploy Rebels to related sites.  Light:  Force drain -1 here.",
         "parsec": "0"
       },
-      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "counterpart": "Coruscant",
       "legacy": false
     },
@@ -11455,7 +11446,6 @@
         "gametext": "Dark:  While you occupy with a Black Sun agent or ISB agent, gains one [Dark Side] icon and one [Light Side] icon.  Light:  While you control, gains one [Light Side] icon.",
         "parsec": "0"
       },
-      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "counterpart": "Coruscant",
       "legacy": false
     },
@@ -11526,7 +11516,6 @@
         "darkSideIcons": 2,
         "gametext": "Dark:  Grievous moves from here for free.  Light:  May not be separated from Coruscant: Private Platform."
       },
-      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "legacy": false
     },
     {
@@ -11556,7 +11545,6 @@
         "darkSideIcons": 1,
         "gametext": "Dark:  Your docking bay transit from here requires 1 Force.  Light:  Your docking bay transit from here requires 2 Force."
       },
-      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "pulledBy": [
         "Begin Landing Your Troops",
         "Begin Landing Your Troops & Fighters Straight Ahead",
@@ -11595,7 +11583,6 @@
         "darkSideIcons": 1,
         "gametext": "Dark:  Your docking bay transit from here requires 1 Force (free if an Imperial present).  Light:  Your docking bay transit from here requires 3 Force. Your transit to here requires +8 Force."
       },
-      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "pulledBy": [
         "Begin Landing Your Troops",
         "Begin Landing Your Troops & Fighters Straight Ahead",
@@ -11633,7 +11620,6 @@
         "darkSideIcons": 1,
         "gametext": "Dark:  During battles here, a character's power is equal to that character's politics.  Light:  During battles here, a character's power is equal to that character's politics."
       },
-      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "counterpart": "Coruscant: Galactic Senate",
       "legacy": false
     },
@@ -11664,7 +11650,6 @@
         "darkSideIcons": 1,
         "gametext": "Dark:  If your general here, during battles at all battlegrounds, add one destiny to your total power only.  Light:"
       },
-      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "legacy": false
     },
     {
@@ -11695,7 +11680,6 @@
         "darkSideIcons": 1,
         "gametext": "Dark:  Once per game, may deploy a character with 'Black Sun' in lore here from Reserve Deck; reshuffle.  Light:  Force drain +1 here."
       },
-      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "pulls": [
         "A character with 'Black Sun' in lore"
       ],
@@ -11728,7 +11712,6 @@
         "darkSideIcons": 2,
         "gametext": "Dark:  Emperor deploys free here. If your moff here, all Imperials are deploy -1 at sites.  Light:  Force drain +1 here. If you control, Emperor may not deploy to Coruscant."
       },
-      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "pulledBy": [
         "Shadows Of The Empire"
       ],
@@ -11761,7 +11744,6 @@
         "darkSideIcons": 1,
         "gametext": "Dark:  Your docking bay transit from here requires 1 Force.  Light:  Your docking bay transit from here requires 2 Force (1 if Obi-Wan present)."
       },
-      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "pulledBy": [
         "Begin Landing Your Troops & Fighters Straight Ahead"
       ],
@@ -11794,7 +11776,6 @@
         "darkSideIcons": 2,
         "gametext": "Dark:  Black Sun agents move to here for free. Once per turn, may deploy a Xizor's Palace site from Reserve Deck; reshuffle.  Light:  Unless Chewie, Dash, or Leia present, Force drain -1 here."
       },
-      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "pulls": [
         "Xizor's Palace: Uplink Station"
       ],
@@ -12258,7 +12239,6 @@
         "gametext": "Dark:  Your starships may move here as a 'react'.  Light:  (none)",
         "parsec": "5"
       },
-      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "pulledBy": [
         "Commander Merrejk",
         "Kuat Drive Yards (V)"
@@ -16378,7 +16358,6 @@
         "gametext": "Dark:  Once per turn, if you just moved a [First Order] starship to here, may activate 2 Force.  Light:  Unless your Resistance leader here, Force drain -1 here.",
         "parsec": "5"
       },
-      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "legacy": false
     },
     {
@@ -17938,7 +17917,6 @@
         "gametext": "Dark:  If you control, for each of your starships here, your total power is +1 in battles at Endor site.  Light:  If you have no Ewoks on Endor, Force drain -1 here. To move or deploy your starship to here requires +1 Force.",
         "parsec": "8"
       },
-      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "pulledBy": [
         "Commander Merrejk",
         "Kuat Drive Yards (V)"
@@ -18111,7 +18089,6 @@
         "darkSideIcons": 2,
         "gametext": "Dark:  Your aliens are deploy -1 here (or -2 if Yuzzum). If your Yuzzum present, Force drain +1 here.  Light:"
       },
-      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "pulledBy": [
         "Establish Secret Base (V)"
       ],
@@ -18144,7 +18121,6 @@
         "darkSideIcons": 2,
         "gametext": "Dark:  During your move phase, you may move from Back Door to Bunker (or vice versa).  Light:  If you control, during your move phase, you may move from Back Door to Bunker (or vice versa)."
       },
-      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "pulledBy": [
         "Conduct Your Search",
         "Establish Secret Base (V)"
@@ -18182,7 +18158,6 @@
         "darkSideIcons": 1,
         "gametext": "Dark:  Once per game, you may deploy Endor Shield from Reserve Deck; reshuffle.  Light:  You may move here only from Back Door. While you control, Endor Shield is suspended."
       },
-      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "pulls": [
         "Endor Shield",
         "Endor Shield (V)"
@@ -18222,7 +18197,6 @@
         "darkSideIcons": 2,
         "gametext": "Dark:  Your Yuzzum are each power +1 here. If your Imperial is present, Force drain +1 here.  Light:  Your Ewoks are each deploy +1 here. If your Ewok present, Force drain +1 here."
       },
-      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "pulledBy": [
         "Establish Secret Base (V)"
       ],
@@ -18254,7 +18228,6 @@
         "darkSideIcons": 2,
         "gametext": "Dark:  No starships or vehicles here except speeder bikes, AT-STs, Ewok gliders and creature vehicles.  Light:  No starships or vehicles here except speeder bikes, AT-STs, Ewok gliders and creature vehicles."
       },
-      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "pulledBy": [
         "Establish Secret Base (V)"
       ],
@@ -18288,7 +18261,6 @@
         "darkSideIcons": 1,
         "gametext": "Dark:  No starships or vehicles here. If no Ewoks on Endor, Force drain +1 here.  Light:  No starships or vehicles here. If your Ewok present, Force drain +1 here."
       },
-      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "pulledBy": [
         "Establish Secret Base (V)"
       ],
@@ -18321,7 +18293,6 @@
         "darkSideIcons": 2,
         "gametext": "Dark:  Your vehicles are each power +1 here. Force drain +1 here.  Light:  Your vehicles are each power +1 here."
       },
-      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "pulledBy": [
         "Establish Secret Base (V)"
       ],
@@ -18353,7 +18324,6 @@
         "darkSideIcons": 1,
         "gametext": "Dark:  Your character movement from here (except for Yuzzum and scouts) requires +1 landspeed.  Light:  Your character movement from here (except for Ewok and scouts) requires +1 landspeed."
       },
-      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "pulledBy": [
         "Establish Secret Base (V)"
       ],
@@ -18388,7 +18358,6 @@
         "darkSideIcons": 1,
         "gametext": "Dark:  Your docking bay transit from here requires 1 Force (free if your Imperial present).  Light:  Your docking bay transit from here requires 7 Force. Your transit to here requires +9 Force."
       },
-      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "pulledBy": [
         "Begin Landing Your Troops",
         "Death Star: Docking Control Room 327",
@@ -18634,7 +18603,6 @@
         "gametext": "Dark:  Tarkin deploys free here. If you control, all Imperials with ability > 2 on table are forfeit +2.  Light:  If you control, Force drain +1 here.",
         "parsec": "1"
       },
-      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "legacy": false
     },
     {
@@ -19003,7 +18971,6 @@
         "darkSideIcons": 1,
         "gametext": "Dark:  If you occupy with Tarkin, Piett or any admiral, your starships may 'react' to same system.  Light:  If you control, your starships may 'react' from same system as Executor."
       },
-      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "pulledBy": [
         "Commander Gherant"
       ],
@@ -19037,7 +19004,6 @@
         "darkSideIcons": 1,
         "gametext": "Dark:  If an Imperial leader here, Executor is power +1 for each Executor site on table.  Light:  If you control, only you may move Executor during opponent's move phase."
       },
-      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "pulledBy": [
         "Commander Gherant"
       ],
@@ -19072,7 +19038,6 @@
         "darkSideIcons": 1,
         "gametext": "Dark:  Your docking bay transit from here is free. If you occupy, opponent may not move to this site.  Light:  Your docking bay transit from here requires 7 Force. Your transit to here requires +9 Force."
       },
-      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "pulledBy": [
         "Begin Landing Your Troops",
         "Commander Gherant",
@@ -19111,7 +19076,6 @@
         "darkSideIcons": 1,
         "gametext": "Dark:  If you have Vader or Emperor on table, your Force generation is +1 here (+2 if both).  Light:  If you control, Force drain +1 here."
       },
-      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "pulledBy": [
         "Commander Gherant"
       ],
@@ -19145,7 +19109,6 @@
         "darkSideIcons": 1,
         "gametext": "Dark:  During your move phase, you may move free between here and Executor or any Executor site.  Light:  If you control, opponent's Main Corridor game text is canceled."
       },
-      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "pulledBy": [
         "Commander Gherant"
       ],
@@ -19179,7 +19142,6 @@
         "darkSideIcons": 2,
         "gametext": "Dark:  If Vader alone here, once per turn, may apply his ability to draw battle destiny at any system.  Light:  If you occupy, opponent's Meditation Chamber game text is canceled."
       },
-      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "pulledBy": [
         "Commander Gherant"
       ],
@@ -20368,7 +20330,6 @@
         "gametext": "Dark:  Executor deploys -5 here. If you occupy, all opponent's Corellian corvettes are forfeit -4 and deploy +1.  Light:  Force drain -1 here. If you control, opponent may not deploy Executor.",
         "parsec": "6"
       },
-      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "pulledBy": [
         "Commander Merrejk",
         "Establish Control (V)",
@@ -21002,7 +20963,6 @@
         "gametext": "Dark:  While you occupy, once per battle you may choose a target just 'hit' by a blaster or rifle (except Permanent weapons) to be lost.  Light:  Immune to Revolution.",
         "parsec": "9"
       },
-      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "pulledBy": [
         "Commander Merrejk",
         "Kuat Drive Yards (V)",
@@ -26131,7 +26091,6 @@
         "darkSideIcons": 2,
         "gametext": "Dark:  Once per game, if you control, may take Invisible Hand into hand from Reserve Deck; reshuffle.  Light:  Unless your [Clone Army] character here, Force drain -1 here."
       },
-      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "pulledBy": [
         "Revenge Of The Sith"
       ],
@@ -26166,7 +26125,6 @@
         "darkSideIcons": 1,
         "gametext": "Dark:  Your docking bay transit from here requires 1 Force (free if your [Presence] droid present).  Light:  Your docking bay transit from here requires 3 Force (free if Palpatine present)."
       },
-      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "pulledBy": [
         "Begin Landing Your Troops & Fighters Straight Ahead"
       ],
@@ -26200,7 +26158,6 @@
         "darkSideIcons": 2,
         "gametext": "Dark:  If you occupy, opponent must use +1 Force to move from here using landspeed.  Light:  You move to here using landspeed for free."
       },
-      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "pulledBy": [
         "Evil Is Everywhere"
       ],
@@ -26234,7 +26191,6 @@
         "darkSideIcons": 2,
         "gametext": "Dark:  While Insidious Prisoner here, your characters are power +1 here.  Light:  While your [Clone Army] character here, your characters are defense value +1 here."
       },
-      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "legacy": false
     },
     {
@@ -26749,7 +26705,6 @@
         "darkSideIcons": 2,
         "gametext": "Dark:  One per game you may deploy one alien here from Reserve Deck; reshuffle.  Light:  If you control, may use 4 Force to cancel Scum and Villainy. Immune to Revolution."
       },
-      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "pulls": [
         "One alien from Reserve Deck once per game"
       ],
@@ -26795,7 +26750,6 @@
         "darkSideIcons": 1,
         "gametext": "Dark:  Your droids deploy -1 here.  Light:  If you control, with a droid here, Force drain +1 here."
       },
-      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "pulledBy": [
         "Tatooine: Jabba's Palace"
       ],
@@ -26833,7 +26787,6 @@
         ],
         "gametext": "Dark:  Whenever a bounty hunter delivers a captive here, retrieve 2 Force (once per captive).  Light:  If you control, may use 3 Force to release an imprisoned captive here."
       },
-      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "pulledBy": [
         "Sonic Bombardment",
         "Sonic Bombardment (V)",
@@ -26871,7 +26824,6 @@
         "darkSideIcons": 1,
         "gametext": "Dark:  Bib Fortuna deploys -3 here. If you control, with a Gamorrean here, Force drain +1 here.  Light:  If you control, Force drain +1 here and your aliens deploy -2 here."
       },
-      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "pulledBy": [
         "Tatooine: Jabba's Palace"
       ],
@@ -26907,7 +26859,6 @@
         "darkSideIcons": 2,
         "gametext": "Dark:  During your move phase, your aliens may move between here and any Jabba's Palace site.  Light:  While your Lando here, opponent's Lower Passages game text is canceled. Force drain -1 here."
       },
-      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "pulledBy": [
         "Tatooine: Jabba's Palace"
       ],
@@ -26943,7 +26894,6 @@
         "darkSideIcons": 1,
         "gametext": "Dark:  Dark Waters may deploy here. If a creature present, cards cannot move from here.  Light:  If your character here is 'eaten,' opponent retrieves Force equal to character's forfeit."
       },
-      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "pulledBy": [
         "Tatooine: Jabba's Palace"
       ],
@@ -27104,7 +27054,6 @@
         "darkSideIcons": 2,
         "gametext": "Dark:  If you occupy, Sail Barge is immune to attrition.  Light:  Your characters may enter/exit here for 4 Force each."
       },
-      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "pulledBy": [
         "Jabba's Sail Barge",
         "Jabba's Sail Barge (V)"
@@ -27339,7 +27288,6 @@
         "gametext": "Dark:  Your [First Order] starships move from here for free.  Light:  Unless your Resistance character or [Resistance] starship here, you may not draw more than one battle destiny here.",
         "parsec": "4"
       },
-      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "pulledBy": [
         "Jakku: Landing Site",
         "Kuat Drive Yards (V)",
@@ -27375,7 +27323,6 @@
         "darkSideIcons": 1,
         "gametext": "Dark:  Once per turn, if your First Order character here, may deploy a Jakku battleground from Reserve Deck; reshuffle.  Light:"
       },
-      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "pulls": [
         "Jakku",
         "Jakku: Tuanal Village"
@@ -27409,7 +27356,6 @@
         "darkSideIcons": 2,
         "gametext": "Dark:  First Order characters are each power +1 here.  Light:  Resistance characters are each defense value and forfeit +1 here."
       },
-      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "pulledBy": [
         "Jakku: Landing Site",
         "Neimoidian Advisor"
@@ -27668,7 +27614,6 @@
         "gametext": "Dark:  While you control, your superlaser weapon destiny draws are +1.  Light:  Unless Baze, Bodhi, Chirrut, or Saw here, Force drain -1 here.",
         "parsec": "4"
       },
-      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "pulledBy": [
         "Commander Merrejk",
         "Kuat Drive Yards (V)",
@@ -27701,7 +27646,6 @@
         "darkSideIcons": 1,
         "gametext": "Dark:  May be deployed instead of Alderaan by Set Your Course For Alderaan.  Light:  Baze, Chirrut, and Saw deploy -1 here."
       },
-      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "legacy": false
     },
     {
@@ -27972,7 +27916,6 @@
         "gametext": "Dark:  Force drain +1 here. If you control, all Wookiees on table are forfeit -3.  Light:  Your starships with any Wookiee aboard are power and forfeit +2 here.",
         "parsec": "6"
       },
-      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "pulledBy": [
         "Commander Merrejk",
         "Kuat Drive Yards (V)"
@@ -28089,7 +28032,6 @@
         "gametext": "Dark:  Your starships deploy -1 here, -2 if Tarkin is aboard a starship here. If you control, Kessel Run is canceled.  Light:  Total ability of 6 or more required for you to draw battle destiny here.",
         "parsec": "8"
       },
-      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "pulledBy": [
         "Commander Merrejk",
         "Kuat Drive Yards (V)",
@@ -28188,7 +28130,6 @@
         "gametext": "Dark:  If you occupy with exactly 2 starships, your total power here is +2 and Tonnika Sisters anywhere are doubled.  Light:  If you occupy with exactly 2 starships, your total power here is +2.",
         "parsec": "2"
       },
-      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "pulledBy": [
         "Commander Merrejk",
         "Kuat Drive Yards (V)"
@@ -28661,7 +28602,6 @@
         "gametext": "Dark:  Your starships move as a 'react' (for free) to a battle here.  Light:  If you occupy, all Star Destroyers are deploy +1 (+3 if you control). Your movement to here requires +1 Force.",
         "parsec": "1"
       },
-      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "pulledBy": [
         "Mobilization Points",
         "You Cannot Hide Forever & Mobilization Points"
@@ -31479,7 +31419,6 @@
         "gametext": "Dark:  If you control, during your control phase may deploy Watto's Box (regardless of your current race total).  Light:  If you control, may use 4 Force to cancel Watto's Box.",
         "parsec": "3"
       },
-      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "pulls": [
         "Watto's Box"
       ],
@@ -32634,7 +32573,6 @@
         "gametext": "Dark:  If you occupy with a Star Destroyer, opponent's Star Cruisers are deploy +2 (and may not deploy here).  Light:  Force Drain -1 here. If you occupy with a Star Cruiser, opponent's Star Destroyers deploy +2 here.",
         "parsec": "6"
       },
-      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "pulledBy": [
         "Commander Merrejk",
         "Kuat Drive Yards (V)"
@@ -33086,7 +33024,6 @@
         "gametext": "Dark:  While Anakin or Vader here, gains one [Dark Side] icon and one [Light Side] icon.  Light:  If Vader on table, unless Amidala at a Mustafar location, Force drain -1 here.",
         "parsec": "7"
       },
-      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "legacy": false
     },
     {
@@ -33114,7 +33051,6 @@
         "darkSideIcons": 2,
         "gametext": "Dark:  Once per game, may deploy Vader here from Reserve Deck; reshuffle. During your move phase, Vader may move between here and any battleground site.  Light:"
       },
-      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "pulledBy": [
         "Revenge Of The Sith"
       ],
@@ -33787,7 +33723,6 @@
         "gametext": "Dark:  During your control phase, may search Reserve Deck, take one Bounty or Hutt Bounty into hand; reshuffle.  Light:  If you control, Force drain -1 here and opponent's Nal Hutta game text is canceled.",
         "parsec": "3"
       },
-      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "pulls": [
         "Bounty",
         "Hutt Bounty"
@@ -35625,7 +35560,6 @@
         "gametext": "Dark:  Your Bounty Hunters are deploy -2 here.  Light:  (none)",
         "parsec": "7"
       },
-      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "pulledBy": [
         "Commander Merrejk",
         "Kuat Drive Yards (V)",
@@ -38073,7 +38007,6 @@
         "gametext": "Dark:  All your troopers are destiny +1 (+2 if you control). Tactical support is used interrupt.  Light:  If you occupy, opponent's Raithal game text is canceled.",
         "parsec": "3"
       },
-      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "pulledBy": [
         "Commander Merrejk",
         "Kuat Drive Yards (V)"
@@ -38142,7 +38075,6 @@
         "gametext": "Dark:  Devastator is power +1 here and may move to or from here for free.  Light:  Tantive IV is power +1 here.",
         "parsec": "3"
       },
-      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "counterpart": "Ralltiir",
       "legacy": false
     },
@@ -38578,7 +38510,6 @@
         "gametext": "Dark:  If you control, once during each of your control phases, may use 3 Force to retrieve a Victory-class Star Destroyer.  Light:  Force drain -1 here. If you occupy, opponent's Rendili game text is canceled.",
         "parsec": "2"
       },
-      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "pulledBy": [
         "Commander Merrejk",
         "Kuat Drive Yards (V)",
@@ -39666,7 +39597,6 @@
         "darkSideIcons": 0,
         "gametext": "Dark:  Deploy on your sandcrawler. Each Jawa is forfeit +2 here. 'Nighttime conditions' here.  Light:  Your characters may enter/exit here for 1 Force each. 'Nighttime conditions' here."
       },
-      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "counterpart": "Sandcrawler: Loading Bay",
       "legacy": false
     },
@@ -43354,7 +43284,6 @@
         "darkSideIcons": 1,
         "gametext": "Dark:  Your TIEs deploy -2 here. You may shuttle, transfer, embark and disembark here for free.  Light:  Starships captured by Star Destroyer go here and may be Besieged. Immune to Revolution."
       },
-      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "legacy": false
     },
     {
@@ -43384,7 +43313,6 @@
         "gametext": "Dark:  Opponent may not limit Force generation at Starkiller Base locations. Once per turn, may deploy a Starkiller Base battleground from Reserve Deck; reshuffle.  Light:  -",
         "parsec": "1"
       },
-      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "pulls": [
         "Starkiller Base: Docking Bay",
         "Starkiller Base: Forest",
@@ -43422,7 +43350,6 @@
         "darkSideIcons": 1,
         "gametext": "Dark:  Your docking bay transit from here requires 1 Force (free if a First Order character present).  Light:  Your docking bay transit from here requires 3 Force."
       },
-      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "pulledBy": [
         "Begin Landing Your Troops",
         "Death Star: Docking Control Room 327",
@@ -43460,7 +43387,6 @@
         "darkSideIcons": 2,
         "gametext": "Dark:  While Kylo armed with a lightsaber here, he is power +2.  Light:  While Rey armed with a lightsaber here, she is power +2."
       },
-      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "pulledBy": [
         "Neimoidian Advisor",
         "Starkiller Base"
@@ -43497,7 +43423,6 @@
         ],
         "gametext": "Dark:  During your move phase, may use 2 Force to move Kylo between here and a battleground.  Light:  If Kylo here and And Now You'll Give It To Me on table, opponent's Force drains are +2 here."
       },
-      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "pulledBy": [
         "Neimoidian Advisor",
         "Sonic Bombardment",
@@ -43534,7 +43459,6 @@
         "darkSideIcons": 2,
         "gametext": "Dark:  If you control with a First Order leader, Force drain +1 here.  Light:  Chewie, Finn, and Han are deploy -1 and power +1 here."
       },
-      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "pulledBy": [
         "Neimoidian Advisor",
         "Starkiller Base"
@@ -44018,7 +43942,6 @@
         "gametext": "Dark:  If you control when Haven is canceled, opponent loses 8 Force.  Light:  Immune to Revolution.",
         "parsec": "7"
       },
-      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "pulledBy": [
         "Commander Merrejk",
         "Kuat Drive Yards (V)"
@@ -45067,8 +44990,7 @@
         "darkSideIcons": 0,
         "gametext": "Dark:  'Bluff Rules' in effect here.  Light:  'Bluff Rules' in effect here."
       },
-      "rules": [{"name":"Tatooine Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-tatooine"}],
-      "rules": [{"name":"Bluff Rules", "url":"https://www.starwarsccg.org/bluff-rules/"}],
+      "rules": [{"name":"Bluff Rules", "url":"https://www.starwarsccg.org/bluff-rules/"},{"name":"Tatooine Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-tatooine"}],
       "legacy": false
     },
     {
@@ -50979,7 +50901,6 @@
         "gametext": "Dark:  If Kuat is on table, Force generation +2 for you here.  Light:  If you occupy, all TIEs deploy +1 (+2 if you control). Your movement to here requires +1 Force.",
         "parsec": "2"
       },
-      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "pulledBy": [
         "Mobilization Points",
         "You Cannot Hide Forever & Mobilization Points"
@@ -52452,7 +52373,6 @@
         "darkSideIcons": 2,
         "gametext": "Dark:  Once per game, may exchange an alien in hand with a non-spy Black Sun agent in Lost Pile.  Light:  Once per game, if you control, may retrieve a Corellian."
       },
-      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "legacy": false
     },
     {
@@ -52483,7 +52403,6 @@
         "darkSideIcons": 2,
         "gametext": "Dark:  If Falleen's Fist at Coruscant and your Black Sun agent here, Force drain +1 here.  Light:"
       },
-      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "pulledBy": [
         "Coruscant: Xizor's Palace",
         "Neimoidian Advisor",
@@ -54627,7 +54546,6 @@
         "darkSideIcons": 2,
         "gametext": "Dark:  May deploy [Set 13] Maul here from Reserve Deck; reshuffle.  Light:  Jar Jar and your spies (except Ezra) may not deploy here. Opponent may not Force drain here."
       },
-      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "legacy": false
     },
     {
@@ -54658,7 +54576,6 @@
         "darkSideIcons": 2,
         "gametext": "Dark:  While your Imperial here, [Dagobah] Executor is deploy -7 (except to Fondor).  Light:  Force drain -1 here. If you initiate battle here, add one battle destiny."
       },
-      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "pulledBy": [
         "Commander Gherant"
       ],
@@ -54691,7 +54608,6 @@
         "darkSideIcons": 2,
         "gametext": "Dark:  Once per game, may deploy Margo, Wuher, or a musician here from Reserve Deck; reshuffle.  Light:  Force drain -1 here (if your musician here, Force drain +1 instead)."
       },
-      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "legacy": false
     },
     {
@@ -54721,7 +54637,6 @@
         "darkSideIcons": 2,
         "gametext": "Dark:  During your move phase, your Crimson Dawn leader may move between here and a site.  Light:  Add 1 to your blaster weapon destiny draws here. Unless Vos on table, Force drain -1 here."
       },
-      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "legacy": false
     },
     {
@@ -54751,7 +54666,6 @@
         "darkSideIcons": 2,
         "gametext": "Dark:  While your unique (•) alien here, your Force generation is +1 here (+2 if Margo).  Light:  Force drain -1 here (if your smuggler here, Force drain +1 instead)."
       },
-      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "legacy": false
     },
     {
@@ -54780,7 +54694,6 @@
         "darkSideIcons": 2,
         "gametext": "Dark:  Force drain +1 here. While Vader alone here, he is power +2.  Light:  While Ahsoka alone (or with Ezra) here, she is power +2."
       },
-      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "legacy": false
     },
     {
@@ -54810,7 +54723,6 @@
         "darkSideIcons": 2,
         "gametext": "Dark:  You initiate battles here for free. Unless you occupy, Inquisitors deploy -1 here.  Light:  Once per game, you may deploy a Padawan (except Anakin) here from Reserve Deck; reshuffle."
       },
-      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "legacy": false
     },
     {
@@ -54839,7 +54751,6 @@
         "gametext": "Dark:  Your TIEs may deploy here as a 'react.'  Light:  While opponent has more starships here than you, your starships here are power -1.",
         "parsec": "2"
       },
-      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "pulledBy": [
         "Mobilization Points",
         "You Cannot Hide Forever & Mobilization Points"
@@ -55209,7 +55120,6 @@
         "darkSideIcons": 2,
         "gametext": "Dark: Once per game, may deploy [Episode VII] Emperor here from Reserve Deck; reshuffle.  Light: No Force drains here. [Light Side] icons are canceled here. Your characters deploy +2 here."
       },
-      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "legacy": false
     },
     {
@@ -55239,7 +55149,6 @@
         "gametext": "Dark: If you control, your starships are hyperspeed +1 when moving from here.  Light: Poe and your smugglers may deploy here as a 'react.'",
         "parsec": "6"
       },
-      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "legacy": false
     },
     {
@@ -55749,7 +55658,6 @@
         "darkSideIcons": 2,
         "gametext": "Dark:  May deploy non-[Theed Palace] Sidious here from Reserve Deck; reshuffle.  Light:  If opponent's [Special Edition] objective on table, gains one [Light Side] icon and Force drain +2 here."
       },
-      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "legacy": false
     },
     {
@@ -55982,7 +55890,6 @@
         "darkSideIcons": 1,
         "gametext": "Dark:  Once per turn, may deploy a starfighter with 'Vader' in title here from Reserve Deck; reshuffle.  Light:  Your docking bay transit to or from here requires +4 Force (+6 Force if Vader or Vanee here)."
       },
-      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "pulls": [
         "Vader's Custom TIE",
         "Vader's Custom TIE (V)",
@@ -56127,7 +56034,6 @@
         "gametext": "Dark:  While Shield Gate here, opponent's non-spy characters deploy +1 to Scarif sites.  Light:  While Profundity here, add 2 to attempts to 'blow away' Shield Gate.",
         "parsec": "7"
       },
-      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "pulledBy": [
         "Commander Merrejk",
         "Kuat Drive Yards (V)",
@@ -56162,7 +56068,6 @@
         "darkSideIcons": 2,
         "gametext": "Dark:  Krennic and death troopers are power +1 here.  Light:  Your combat vehicles and spies are forfeit +1 here."
       },
-      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "pulledBy": [
         "Neimoidian Advisor",
         "On The Verge Of Greatness"
@@ -56197,7 +56102,6 @@
         "darkSideIcons": 1,
         "gametext": "Dark:  If a player just Force drained here, they may raise a converted Scarif location to the top.  Light:  Unless your spy here, total ability of 6 or more required for you to draw battle destiny here."
       },
-      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "pulledBy": [
         "Neimoidian Advisor",
         "On The Verge Of Greatness"
@@ -56231,7 +56135,6 @@
         "darkSideIcons": 2,
         "gametext": "Dark:  If an Imperial leader here, add one destiny to your [Set 9] Epic Event total targeting a Scarif site.  Light:  If Shield Gate on table, opponent's Force drains here are +1."
       },
-      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "pulledBy": [
         "Neimoidian Advisor",
         "On The Verge Of Greatness"
@@ -56265,7 +56168,6 @@
         "darkSideIcons": 1,
         "gametext": "Dark:  Your docking bay transit from here requires 1 Force (free if an Imperial leader here).  Light:  Your docking bay transit from here requires 3 Force (7 if Shield Gate on table)."
       },
-      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "pulledBy": [
         "Begin Landing Your Troops",
         "Death Star: Docking Control Room 327",
@@ -56775,7 +56677,6 @@
         "gametext": "Dark: If Imperials control three battlegrounds, Force drain +1 here.  Light: If Tarkin here, your starships deploy +1 here.",
         "parsec": "1"
       },
-      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "pulledBy": [
         "Moment Of Triumph (V)"
       ],
