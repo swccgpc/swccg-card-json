@@ -364,6 +364,7 @@
         "destiny": "2",
         "gametext": "Deploy on an unoccupied Dagobah site. At the beginning of each of your move phases, opponent may relocate this Jedi Test to an adjacent site. Target a mentor on Dagobah and an apprentice who has completed Jedi Test #1. Apprentice may move only by using personal landspeed. Attempt when apprentice is present at the beginning of your control phase. Draw training destiny. If destiny + apprentice's ability > 13, test completed: Place on apprentice. Apprentice is power +1 and may move normally. Total ability of 6 or more is required for opponent to draw battle destiny."
       },
+      "rules": [{"name":"Jedi Test Rules", "url":"https://www.starwarsccg.org/jedi-tests/"}],
       "pulledBy": [
         "Dagobah: Training Area",
         "Dagobah (V)"
@@ -1330,6 +1331,7 @@
         "gametext": "Light:  Once during any deploy phase, may use 1 Force to relocate Luke between any two Ahch-To sites.  Dark:  While you occupy an Ahch-To site, its game text is canceled. Players may not Force drain here.",
         "parsec": "9"
       },
+      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "legacy": false
     },
     {
@@ -1358,6 +1360,7 @@
         "darkSideIcons": 1,
         "gametext": "Light:  If Luke here or out of play, Force Projection is [Immune to Sense].  Dark:  While Luke here, attrition against you everywhere is +1."
       },
+      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "legacy": false
     },
     {
@@ -1387,6 +1390,7 @@
         "darkSideIcons": 1,
         "gametext": "Light:  Once during your turn, if Luke alone here, may draw top card of Force Pile.  Dark:  Unless your battleground on table, you generate no Force here."
       },
+      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "legacy": false
     },
     {
@@ -1415,6 +1419,7 @@
         "darkSideIcons": 0,
         "gametext": "Light:  While Luke here, opponent must first use 1 Force to fire a weapon anywhere.  Dark:  While Luke here, destiny draws for Sense and Alter are +2."
       },
+      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "legacy": false
     },
     {
@@ -1443,6 +1448,7 @@
         "darkSideIcons": 0,
         "gametext": "Light:  While Luke here or out of play, you lose no Force to [Reflections II] objectives.  Dark:  When deployed, may play a Defensive Shield from under your Starting Effect as if from hand."
       },
+      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "legacy": false
     },
     {
@@ -1471,6 +1477,7 @@
         "darkSideIcons": 0,
         "gametext": "Light:  May deploy [Episode VII] Luke here from Reserve Deck; reshuffle. Once per turn, if Luke alone here, may subtract 2 from opponent's total power during a battle at another location.  Dark:"
       },
+      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "pulledBy": [
         "Everything We Need"
       ],
@@ -1681,6 +1688,7 @@
         "gametext": "Light:  Subtract 1 from each of opponent's battle destiny draws here.  Dark:  If you control, Force drain +1 here.",
         "parsec": "2"
       },
+      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "pulledBy": [
         "Diplomatic Mission To Alderaan",
         "A Weakness Can Be Found",
@@ -2462,6 +2470,7 @@
         "gametext": "Deploy on Podrace Arena. Draws 2 race destiny instead of 1. During your draw phase, if opponent has a higher race total than Anakin's Podracer, draw 3 race destiny next turn and choose 2. Once per game may take I Did It! into hand from Reserve Deck; reshuffle.",
         "lore": "Built from Radon-Ulzer racing engines that Watto regarded as too burned-out to be of any use. New fuel injection subsystem created by Anakin radically increases thrust."
       },
+      "rules": [{"name":"Podracer Rules", "url":"https://www.starwarsccg.org/podracers-rules/"}],
       "pulls": [
         "I Did It!"
       ],
@@ -2591,6 +2600,7 @@
         "gametext": "Light:  If opponent initiates a battle here, your starships may move as a 'react' to or from nearest related asteroid sector.  Dark:  Your Ugnaughts deploy free aboard starships here. If you control, all your Ugnaughts on table are forfeit +2.",
         "parsec": "5"
       },
+      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "pulledBy": [
         "A New Secret Base",
         "A New Secret Base (V)",
@@ -2631,6 +2641,7 @@
         "gametext": "Light:  Force loss from Security Precautions is reduced by 4.  Dark:  Your Ugnaughts deploy free aboard starships here. If you control, all your Ugnaughts on table are forfeit +2.",
         "parsec": "5"
       },
+      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "pulledBy": [
         "A New Secret Base",
         "A New Secret Base (V)",
@@ -2827,6 +2838,7 @@
         "gametext": "Light:  If you control with a starfighter, opponent's Dreadnaught-class cruisers are deploy +3 and your Force generation here is +3.  Dark:  -",
         "parsec": "4"
       },
+      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "pulledBy": [
         "A New Secret Base (V)",
         "Hidden Base",
@@ -3665,6 +3677,7 @@
         "darkSideIcons": 1,
         "gametext": "Light:  'Asteroid Rules' in effect here. If you control, may cancel Force drain at related system.  Dark:  'Asteroid Rules' in effect here."
       },
+      "rules": [{"name":"Asteroid Rules", "url":"https://www.starwarsccg.org/asteroid-rules/"}],
       "counterpart": "Asteroid Field",
       "legacy": false
     },
@@ -4827,6 +4840,7 @@
         "gametext": "Light:  If you control, opponent's characters and vehicles deploy +1 to Cloud City locations.  Dark:  If you control, your characters and vehicles deploy -1 to Cloud City locations.",
         "parsec": "6"
       },
+      "rules": [{"name":"Bespin Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-bespin"}],
       "pulledBy": [
         "A New Secret Base",
         "A New Secret Base (V)",
@@ -4864,6 +4878,7 @@
         "darkSideIcons": 1,
         "gametext": "Light:  If you control, for each of your starships or vehicles here, your total power is +1 in battles at Cloud City sites.  Dark:  If you control, for each of your starships or vehicles here, your total power is +1 in battles at Cloud City sites."
       },
+      "rules": [{"name":"Bespin Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-bespin"}],
       "pulledBy": [
         "Mindful Of The Future"
       ],
@@ -4965,6 +4980,7 @@
         "darkSideIcons": 0,
         "gametext": "Light:  'Asteroid Rules' in effect here. If you control, Force drain +1 here for each Asteroid Field at same system.  Dark:  'Asteroid Rules' in effect here. If you control, Force drain +1 here."
       },
+      "rules": [{"name":"Asteroid Rules", "url":"https://www.starwarsccg.org/asteroid-rules/"}],
       "pulledBy": [
         "Roche"
       ],
@@ -4999,6 +5015,7 @@
         "darkSideIcons": 1,
         "gametext": "Light:  'Cave Rules' in effect here. If you control, may cancel Force drains at system Related to Big One.  Dark:  'Cave Rules' in effect here."
       },
+      "rules": [{"name":"Cave Rules", "url":"https://www.starwarsccg.org/cave-rules/"}],
       "pulledBy": [
         "Roche"
       ],
@@ -5344,6 +5361,7 @@
         "darkSideIcons": 1,
         "gametext": "Light:  This site may not be converted.  Dark:  Your Docking Bay transit from here requires 1 Force. If just 'blown away', lose 4 Force."
       },
+      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "pulledBy": [
         "Firin Morett",
         "Insurrection",
@@ -5645,6 +5663,7 @@
           "FLIGHT: 2"
         ]
       },
+      "rules": [{"name":"Creature Rules", "url":"https://www.starwarsccg.org/creature-rules/"}],
       "counterpart": "Bog-wing",
       "legacy": false
     },
@@ -6014,6 +6033,7 @@
         "gametext": "Light:  Your spies deploy -1 here and at related sites. If you control, characters targeted by Undercover are immune to Hutt Smooch.  Dark:  Force drain -X here, where X= number of spies opponent has on table.",
         "parsec": "2"
       },
+      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "pulledBy": [
         "A New Secret Base",
         "A New Secret Base (V)",
@@ -6950,6 +6970,7 @@
         "destiny": "6",
         "gametext": "Each pilot deploys -1 (or -2 if with an admiral) aboard a capital starship. Each capital starship with a pilot character aboard is immune to attrition < 4 (or adds 2 to immunity). During each of your control phases, opponent loses 1 Force for each battleground site your general controls that is related to a system you occupy."
       },
+      "rules": [{"name":"Admiral's Orders Rules", "url":"https://www.starwarsccg.org/admirals-orders-rules/"}],
       "pulledBy": [
         "Admiral Ackbar"
       ],
@@ -7739,6 +7760,7 @@
         "gametext": "Light:  If you occupy with a capital starship, Force generation +2 for you here. Mon Mothma deploys -2 at any Chandrila location.  Dark:  If you control with two Star Destroyers, Force drain +1 here. If you control with no capital starships, Force drain -1 here.",
         "parsec": "4"
       },
+      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "pulledBy": [
         "A New Secret Base",
         "A New Secret Base (V)",
@@ -8479,6 +8501,7 @@
         "gametext": "Light:  If you occupy, each Bith character is destiny +2.  Dark:  If you control, each Bith character is destiny -1 and Ghhhk is power +2 in battles at a holosite.",
         "parsec": "7"
       },
+      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "pulledBy": [
         "Hidden Base"
       ],
@@ -8838,6 +8861,7 @@
         "gametext": "Deploy on Bespin system if you occupy at least two Cloud City battleground sites. During each of your control phases, retrieve 1 Force for each Cloud City battleground you occupy. Canceled if opponent controls this system. (Immune to Alter.)",
         "lore": "The merchants on Cloud City fear Imperial occupation. Many on the floating station long for the day that the Empire is overthrown."
       },
+      "rules": [{"name":"Bespin Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-bespin"}],
       "pulledBy": [
         "The Signal",
         "We Wish To Board At Once",
@@ -8980,6 +9004,7 @@
         "darkSideIcons": 1,
         "gametext": "Light:  If you control, Force drain +1 here and may cancel Carbon- Freezing here.  Dark:  If you control, add 1 to your Carbon-Freezing destiny."
       },
+      "rules": [{"name":"Bespin Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-bespin"}],
       "pulledBy": [
         "Mindful Of The Future",
         "Quiet Mining Colony"
@@ -9014,6 +9039,7 @@
         "darkSideIcons": 1,
         "gametext": "Light:  Whenever your gambler present here wins Cloud City Sabacc, retrieve 2 Force (3 if Lando).  Dark:  Unless you have a gambler here, you may not use wild cards in Cloud City Sabacc."
       },
+      "rules": [{"name":"Bespin Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-bespin"}],
       "pulledBy": [
         "Mindful Of The Future",
         "Quiet Mining Colony"
@@ -9048,6 +9074,7 @@
         "darkSideIcons": 1,
         "gametext": "Light:  If Weather Vane on table, characters 'hit' here are instead immediately relocated there.  Dark:  If Weather Vane on table, characters 'hit' here are instead immediately relocated there."
       },
+      "rules": [{"name":"Bespin Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-bespin"}],
       "pulledBy": [
         "Mindful Of The Future",
         "Quiet Mining Colony"
@@ -9082,6 +9109,7 @@
         "darkSideIcons": 1,
         "gametext": "Light:  Your aliens are power +1 here. If your Lando or your Lobot here, Force drain +1 here.  Dark:  Your aliens are forfeit -1 here. If your Lando or your Lobot here, Force drain +1 here."
       },
+      "rules": [{"name":"Bespin Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-bespin"}],
       "pulledBy": [
         "Mindful Of The Future",
         "Quiet Mining Colony"
@@ -9115,6 +9143,7 @@
         "darkSideIcons": 2,
         "gametext": "Light:  Once during each of your control phases, may use 1 Force to retrieve one Cloud City location.  Dark:  If you control, opponent's Downtown Plaza game text is canceled."
       },
+      "rules": [{"name":"Bespin Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-bespin"}],
       "pulledBy": [
         "Mindful Of The Future",
         "Quiet Mining Colony"
@@ -9149,6 +9178,7 @@
         "darkSideIcons": 1,
         "gametext": "Light:  Leia is deploy -2 here.  Dark:  If you control, Force drain -1 here."
       },
+      "rules": [{"name":"Bespin Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-bespin"}],
       "pulledBy": [
         "Mindful Of The Future",
         "Quiet Mining Colony"
@@ -9182,6 +9212,7 @@
         "darkSideIcons": 1,
         "gametext": "Light:  If you occupy, during your control phase, may use 3 Force to retrieve one droid.  Dark:  If you control without an Ugnaught, Force drain -1 here."
       },
+      "rules": [{"name":"Bespin Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-bespin"}],
       "pulledBy": [
         "Mindful Of The Future",
         "Quiet Mining Colony"
@@ -9219,6 +9250,7 @@
         "darkSideIcons": 2,
         "gametext": "Light:  Your characters with lightsabers are each power +2 here.  Dark:  -"
       },
+      "rules": [{"name":"Bespin Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-bespin"}],
       "pulledBy": [
         "Mindful Of The Future",
         "Quiet Mining Colony"
@@ -9253,6 +9285,7 @@
         "darkSideIcons": 1,
         "gametext": "Light:  If you control, once per turn may use 1 Force to cancel a Force drain at a Cloud City site.  Dark:  If you control, once per turn may use 2 Force to cancel a Force drain at a Cloud City site."
       },
+      "rules": [{"name":"Bespin Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-bespin"}],
       "pulledBy": [
         "Mindful Of The Future",
         "Quiet Mining Colony"
@@ -9286,6 +9319,7 @@
         "darkSideIcons": 1,
         "gametext": "Light:  Your docking bay transit from here requires 1 Force.  Dark:  Your docking bay transit from here requires 2 Force."
       },
+      "rules": [{"name":"Bespin Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-bespin"}],
       "pulledBy": [
         "Firin Morett",
         "Independent Operation",
@@ -9325,6 +9359,7 @@
         "darkSideIcons": 0,
         "gametext": "Light:  During your move phase, you may move free between here and any Cloud City site.  Dark:  If you control, Force drain +1 here."
       },
+      "rules": [{"name":"Bespin Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-bespin"}],
       "pulledBy": [
         "Quiet Mining Colony"
       ],
@@ -9358,6 +9393,7 @@
         "darkSideIcons": 1,
         "gametext": "Light:  Your blasters present may fire at targets at nearest related exterior site.  Dark:  Force drain -1 here."
       },
+      "rules": [{"name":"Bespin Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-bespin"}],
       "pulledBy": [
         "Mindful Of The Future",
         "Quiet Mining Colony"
@@ -9390,6 +9426,7 @@
         "darkSideIcons": 1,
         "gametext": "Light:  If you control, once per turn, may add 1 to a Force drain at a related site. Starships are power and maneuver -2 here.  Dark:  If you control, Force drain +1 here. Starships are power and maneuver -2 here."
       },
+      "rules": [{"name":"Bespin Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-bespin"}],
       "counterpart": "Clouds",
       "combo": [
         "Clouds + Tibanna Gas Miner Add to Force drains at cloud sectors.",
@@ -9639,6 +9676,7 @@
         "destiny": "6",
         "gametext": "At each system where any player does not have both a starfighter and a capital starship present, that player's starships there are power -2. At sites related to systems you occupy, during each battle opponent may draw no more than one battle destiny. Once during each of your deploy phases, you may deploy one combat vehicle from your Reserve Deck; reshuffle."
       },
+      "rules": [{"name":"Admiral's Orders Rules", "url":"https://www.starwarsccg.org/admirals-orders-rules/"}],
       "pulls": [
         "Chewie's AT-ST",
         "Cloud Car",
@@ -10235,6 +10273,7 @@
         "destiny": "6",
         "gametext": "Each starfighter that fires a weapon in battle is power +3 for the remainder of battle. Once per turn you may cancel and redraw your starship weapon destiny just drawn. At sites related to systems you occupy, your characters who have immunity to attrition each add 2 to immunity and 1 to each of that character's weapon destiny draws."
       },
+      "rules": [{"name":"Admiral's Orders Rules", "url":"https://www.starwarsccg.org/admirals-orders-rules/"}],
       "pulledBy": [
         "Admiral Ackbar"
       ],
@@ -10466,6 +10505,7 @@
         "gametext": "Light:  Your Falcon and your Corellian corvettes may deploy here as a 'react.'  Dark:  Each of your starships are hyperspeed +1 when moving from here.",
         "parsec": "1"
       },
+      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "pulledBy": [
         "A New Secret Base (V)",
         "Hidden Base",
@@ -11150,6 +11190,7 @@
         "gametext": "Light:  If you control, all non-unique Rebels are power and forfeit +1 and Rebel guards may move.  Dark:  If you control, Force drain -1 here.",
         "parsec": "4"
       },
+      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "pulledBy": [
         "A New Secret Base",
         "A New Secret Base (V)",
@@ -11187,6 +11228,7 @@
         "gametext": "Light:  If you control, for each of your starships here, your total power is +1 in battles at Coruscant sites.  Dark:  If you control, for each of your starships here, your total power is +1 in battles at Coruscant sites.",
         "parsec": "0"
       },
+      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "pulledBy": [
         "A New Secret Base",
         "A New Secret Base (V)",
@@ -11223,6 +11265,7 @@
         "gametext": "Light:  Force drain +1 here. If Rebels control this system, Imperials and Imperial starships are deploy +2.  Dark:  Your starships and pilots deploy -2 here.",
         "parsec": "0"
       },
+      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "pulledBy": [
         "A New Secret Base (V)",
         "Hidden Base",
@@ -11328,6 +11371,7 @@
         "darkSideIcons": 1,
         "gametext": "Light:  Your docking bay transit from here requires 1 Force.  Dark:  Your docking bay transit from here requires 2 Force."
       },
+      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "pulledBy": [
         "Firin Morett",
         "Insurrection",
@@ -11365,6 +11409,7 @@
         "darkSideIcons": 1,
         "gametext": "Light:  During battles here, a character's power is equal to that character's politics.  Dark:  During battles here, a character's power is equal to that character's politics."
       },
+      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "counterpart": "Coruscant: Galactic Senate",
       "combo": [
         "Coruscant: Galactic Senate + Plead My Case To The Senate + Sanity And Compassion"
@@ -11398,6 +11443,7 @@
         "darkSideIcons": 0,
         "gametext": "Light:  [Episode I] Yoda may deploy here from Reserve Deck; reshuffle. Immune to Revolution.  Dark:  Non-unique lightsaber Force drain bonuses everywhere are canceled."
       },
+      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "pulls": [
         "Yoda, Keeper Of The Peace",
         "Yoda, Master Of The Force",
@@ -11443,6 +11489,7 @@
         "darkSideIcons": 2,
         "gametext": "Light:  Your characters here are defense value -1 and may not be excluded from battle.  Dark:  Your characters here are defense value -1 and may not be excluded from battle."
       },
+      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "pulledBy": [
         "Mindful Of The Future",
         "Now, This Is Podracing!"
@@ -11912,6 +11959,7 @@
         "gametext": "Light:  During your deploy phase, you may deploy one Dagobah site directly from Reserve Deck. Shuffle, cut and replace.  Dark:  Neither player may Force drain here.",
         "parsec": "9"
       },
+      "rules": [{"name":"Dagobah Rules", "url":"https://www.starwarsccg.org/dagobah-rules/"}],
       "pulls": [
         "One Dagobah site",
         "Dagobah: Bog Clearing",
@@ -11953,6 +12001,7 @@
         "darkSideIcons": 0,
         "gametext": "Light:  Your starfighters may deploy here and are immune to Awwww, Cannot Get Your Ship Out here.  Dark:  If you occupy, Force generation +1 for you here."
       },
+      "rules": [{"name":"Dagobah Rules", "url":"https://www.starwarsccg.org/dagobah-rules/"}],
       "pulledBy": [
         "Dagobah",
         "Dagobah (V)"
@@ -11990,6 +12039,7 @@
         "darkSideIcons": 0,
         "gametext": "Light:  No starships or vehicles here. Your creatures are deploy -2 here.  Dark:  No starships or vehicles here. If you occupy, Force generation +1 for you here."
       },
+      "rules": [{"name":"Dagobah Rules", "url":"https://www.starwarsccg.org/dagobah-rules/"}],
       "pulledBy": [
         "Dagobah",
         "Dagobah (V)"
@@ -12022,6 +12072,7 @@
         "darkSideIcons": 0,
         "gametext": "Light:  At end of your turn, your starships and vehicles here 'sink' to Used Pile.  Dark:  At end of your turn, your starships and vehicles here 'sink' to bottom of Lost Pile."
       },
+      "rules": [{"name":"Dagobah Rules", "url":"https://www.starwarsccg.org/dagobah-rules/"}],
       "pulledBy": [
         "Dagobah",
         "Dagobah (V)"
@@ -12054,6 +12105,7 @@
         "darkSideIcons": 1,
         "gametext": "Light:  Once per turn, may search Reserve Deck. Take one Jedi Test into hand. Reshuffle deck.  Dark:  You may use 1 Force to cancel any Force drain here."
       },
+      "rules": [{"name":"Dagobah Rules", "url":"https://www.starwarsccg.org/dagobah-rules/"}],
       "pulls": [
         "One Jedi Test",
         "A Jedi's Strength",
@@ -12095,6 +12147,7 @@
         "darkSideIcons": 0,
         "gametext": "Light:  If Yoda here, once per turn, may subtract 2 from attrition against you at another location.  Dark:  If you occupy, opponent's Yoda's Hut game text is canceled."
       },
+      "rules": [{"name":"Dagobah Rules", "url":"https://www.starwarsccg.org/dagobah-rules/"}],
       "pulledBy": [
         "Dagobah",
         "Dagobah (V)",
@@ -12164,6 +12217,7 @@
         "gametext": "Light:  Your capital starships deploy -2 and your starfighters deploy -1 here.  Dark:  If you control, Force drain +1 here.",
         "parsec": "5"
       },
+      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "pulledBy": [
         "Hidden Base",
         "Rebellions Are Built On Hope"
@@ -12631,6 +12685,7 @@
         "darkSideIcons": 2,
         "gametext": "Light:  Deploy if Death Star Plans completed and and Death Star system not on table. If 'blown away,' Dark Side loses 8 Force.  Dark:  X = parsec of current position (starts at 0). Immune to Revolution. You may move Death Star (hyperspeed = 1)."
       },
+      "rules": [{"name":"Death Star Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-deathstar"}],
       "counterpart": "Death Star",
       "legacy": false,
       "abbr": [
@@ -12695,6 +12750,7 @@
         "darkSideIcons": 1,
         "gametext": "Light:  If you control, Force Drain +1 here and all imprisoned characters on Death Star are released.  Dark:  -"
       },
+      "rules": [{"name":"Death Star Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-deathstar"}],
       "counterpart": "Death Star: Detention Block Control Room",
       "legacy": false
     },
@@ -12727,6 +12783,7 @@
         ],
         "gametext": "Light:  Force drain +1 here. Whenever you release a captive here, retrieve 1 Force (4 if Leia).  Dark:  During your deploy phase, IT-O and Hypo may deploy here from Reserve Deck; reshuffle."
       },
+      "rules": [{"name":"Death Star Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-deathstar"}],
       "pulls": [
         "Hypo",
         "IT-O (Eyetee-Oh)"
@@ -12762,6 +12819,7 @@
         "darkSideIcons": 1,
         "gametext": "Light:  Your docking bay transit from here requires 1 Force.  Dark:  Your docking bay transit from here requires 1 Force."
       },
+      "rules": [{"name":"Death Star Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-deathstar"}],
       "pulledBy": [
         "Firin Morett",
         "Insurrection",
@@ -12798,6 +12856,7 @@
         "darkSideIcons": 1,
         "gametext": "Light:  If you control, Luke and Obi-Wan are power +2 on Death Star.  Dark:  If you control, opponent needs 2 ability to control each Death Star site."
       },
+      "rules": [{"name":"Death Star Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-deathstar"}],
       "pulledBy": [
         "Mindful Of The Future"
       ],
@@ -12829,6 +12888,7 @@
         "darkSideIcons": 0,
         "gametext": "Light:  You may deploy here without presence. If you control, Force drain +1 here.  Dark:  (none)."
       },
+      "rules": [{"name":"Death Star Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-deathstar"}],
       "legacy": false
     },
     {
@@ -12857,6 +12917,7 @@
         "darkSideIcons": 1,
         "gametext": "Light:  'Trench Rules' in effect and each of your starfighters is maneuver - 2 here.  Dark:  'Trench Rules' in effect, your weapons fire free and Turbolaser Battery may deploy here."
       },
+      "rules": [{"name":"Death Star Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-deathstar"}],
       "pulledBy": [
         "Rebel Tech"
       ],
@@ -12955,6 +13016,7 @@
         "darkSideIcons": 1,
         "gametext": "Light:  'Dejarik Rules' in effect here.  Dark:  'Dejarik Rules' in effect here. Site converted by Imperial Holotable."
       },
+      "rules": [{"name":"Dejarik Rules", "url":"https://www.starwarsccg.org/dejarik-rules/"}],
       "pulledBy": [
         "Escape Pod (V)"
       ],
@@ -13825,6 +13887,7 @@
         "destiny": "3",
         "gametext": "Deploy on Dagobah: Jungle or Dagobah: Cave. Target a mentor on Dagobah and an apprentice who has completed Jedi Test #2. Attempt when apprentice is present at the end of your turn and none of your cards participated in battles, Force drains or Jedi Tests during that turn. Draw training destiny. If destiny + apprentice's ability > 14, test completed. Place on apprentice. You may subtract 1 from each of opponent's destiny draws."
       },
+      "rules": [{"name":"Jedi Test Rules", "url":"https://www.starwarsccg.org/jedi-tests/"}],
       "pulledBy": [
         "Dagobah: Training Area",
         "Dagobah (V)"
@@ -15331,6 +15394,7 @@
         "gametext": "Light:  Force drain -1 here. To move your starship here from Sullust, Rendezvous Point or Haven requires -1 Force.  Dark:  If you have no Imperials on Endor, Force drain -1 here.",
         "parsec": "8"
       },
+      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "pulledBy": [
         "A New Secret Base",
         "A New Secret Base (V)",
@@ -15371,6 +15435,7 @@
         "gametext": "Light:  If you have no Rebels on Endor, Force drain -1 here. If you control, each of opponent's biker scouts is forfeit -1.  Dark:  If you have no Imperials on Endor, Force drain -1 here.",
         "parsec": "8"
       },
+      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "pulledBy": [
         "A New Secret Base",
         "A New Secret Base (V)",
@@ -15525,6 +15590,7 @@
         "darkSideIcons": 2,
         "gametext": "Light:  During your move phase, you may move from Back Door to Bunker (or vice versa).  Dark:  If you control, during your move phase, you may move from Back Door to Bunker (or vice versa)."
       },
+      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "pulledBy": [
         "General Solo (V)",
         "Mindful Of The Future",
@@ -15565,6 +15631,7 @@
         "darkSideIcons": 1,
         "gametext": "Light:  Force drain +1 here. If you initiate a battle here, add one battle destiny.  Dark:  Once per game, you may deploy Endor Shield from Reserve Deck; reshuffle."
       },
+      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "pulledBy": [
         "The Shield Is Down! (V)",
         "Wuta"
@@ -15600,6 +15667,7 @@
         "darkSideIcons": 1,
         "gametext": "Light:  Unless you occupy Bunker (or Back Door), your characters may not deploy here.  Dark:  Once per game, may deploy Endor Shield from Reserve Deck; reshuffle."
       },
+      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "pulledBy": [
         "The Shield Is Down! (V)",
         "Wuta"
@@ -15633,6 +15701,7 @@
         "darkSideIcons": 0,
         "gametext": "Light:  Your Ewoks are deploy -1 here. Chief Chirpa deploys free here.  Dark:  If you control Chief Chirpa's Hut, Ewoks at Endor sites are forfeit -1."
       },
+      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "pulledBy": [
         "Wuta"
       ],
@@ -15667,6 +15736,7 @@
         "darkSideIcons": 1,
         "gametext": "Light:  No starships or vehicles here except speeder bikes, AT-STs, Ewok gliders and creature vehicles.  Dark:  No starships or vehicles here except speeder bikes, AT-STs, Ewok gliders and creature vehicles."
       },
+      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "pulledBy": [
         "Mindful Of The Future",
         "The Shield Is Down! (V)",
@@ -15702,6 +15772,7 @@
         "darkSideIcons": 1,
         "gametext": "Light:  No starships or vehicles here. Ewok devices and Ewok weapons deploy -1 here.  Dark:  No starships or vehicles here. If no Ewoks on Endor, Force drain +1 here."
       },
+      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "pulledBy": [
         "Mindful Of The Future",
         "The Shield Is Down! (V)",
@@ -15741,6 +15812,7 @@
         "darkSideIcons": 1,
         "gametext": "Light:  While a Skywalker here, Prophecy Of The Force may not relocate from here.  Dark:  No starships or vehicles here."
       },
+      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "pulledBy": [
         "Mindful Of The Future",
         "The Shield Is Down! (V)",
@@ -15774,6 +15846,7 @@
         "darkSideIcons": 1,
         "gametext": "Light:  Your character movement from here (except for Ewoks and scouts) requires +1 landspeed.  Dark:  Your character movement from here (except for Yuzzum and scouts) requires +1 landspeed."
       },
+      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "pulledBy": [
         "The Shield Is Down! (V)",
         "Wuta"
@@ -15807,6 +15880,7 @@
         "darkSideIcons": 1,
         "gametext": "Light:  During your move phase, your scouts may move between here and any exterior Endor site.  Dark:  If you occupy, opponent's Hidden Forest Trail game text is canceled."
       },
+      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "pulledBy": [
         "Mindful Of The Future",
         "The Shield Is Down! (V)",
@@ -15842,6 +15916,7 @@
         "darkSideIcons": 1,
         "gametext": "Light:  Your docking bay transit from here requires 2 Force.  Dark:  Your docking bay transit from here requires 1 Force (free if your Imperial present)."
       },
+      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "pulledBy": [
         "Firin Morett",
         "Insurrection",
@@ -15880,6 +15955,7 @@
         "darkSideIcons": 1,
         "gametext": "Light:  Your starfighters land here for free. Your droids and [Endor] Rebels are deploy -1 here.  Dark:  If you occupy, opponent's Rebel Landing Site game text is canceled."
       },
+      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "pulledBy": [
         "Mindful Of The Future",
         "The Shield Is Down! (V)",
@@ -16074,6 +16150,7 @@
         "gametext": "May add 2 'riders' (passengers). Ability = 1/4.Moves for free. While 'ridden' by Amidala in battle, adds one battle destiny.",
         "lore": "Herd animal native to Tatooine. Adults are used as beasts of burden, while the young and elderly eopies are useful for consuming desert weeds."
       },
+      "rules": [{"name":"Creature Rules", "url":"https://www.starwarsccg.org/creature-rules/"}],
       "pulledBy": [
         "Dams Denna"
       ],
@@ -16882,6 +16959,7 @@
         "gametext": "May add 2 'riders' (passengers). Ability + 1/2. Requires +1 Force to use landspeed. May not be attacked by creatures.",
         "lore": "Pack animal domesticated by Gungan warriors. Able to bear heavy loads, even during the heat of combat."
       },
+      "rules": [{"name":"Creature Rules", "url":"https://www.starwarsccg.org/creature-rules/"}],
       "pulledBy": [
         "Big Boomers!",
         "Dams Denna",
@@ -19764,6 +19842,7 @@
         "destiny": "1",
         "gametext": "Deploy on a Dagobah site. Target a mentor here. Also, target or deploy (regardless of location deployment restrictions) an apprentice here. Attempt when targets are present at the beginning of your control phase. Draw training destiny. If destiny + apprentice's ability > 12, test completed: Place on apprentice. All opponent's Force drain bonuses are canceled.  Mentor: Your character of ability > 2. Apprentice: Your non-droid, non-Jedi character of lesser ability than mentor. Each time you complete any Jedi Test, you may exchange one card in hand for one Jedi Test in your Lost Pile."
       },
+      "rules": [{"name":"Jedi Test Rules", "url":"https://www.starwarsccg.org/jedi-tests/"}],
       "pulledBy": [
         "Dagobah: Training Area",
         "Dagobah (V)"
@@ -21748,6 +21827,7 @@
         "darkSideIcons": 0,
         "gametext": "Light:  Your docking bay transit from here is free. If you occupy, opponent may not move to this site.  Dark:  Your docking bay transit from here requires 7 Force. Your transit to here requires +9 Force."
       },
+      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "pulledBy": [
         "Firin Morett",
         "Insurrection",
@@ -21784,6 +21864,7 @@
         "darkSideIcons": 0,
         "gametext": "Light:  While you control with a Rebel here, Home One is deploy -5 and power +3.  Dark:  Force drain -1 here. When you initiate a battle here, add one battle destiny."
       },
+      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "legacy": false
     },
     {
@@ -21955,6 +22036,7 @@
         "gametext": "Light:  If you control, for each of your starships here, your total power is +1 in battles at Hoth sites.  Dark:  If you control, for each of your starships here, your total power is +1 in battles at Hoth sites.",
         "parsec": "5"
       },
+      "rules": [{"name":"Hoth Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-hoth"}],
       "pulledBy": [
         "A New Secret Base",
         "A New Secret Base (V)",
@@ -22048,6 +22130,7 @@
         "darkSideIcons": 1,
         "gametext": "Light:  Your Echo Base Troopers deploy -1 here. If you control, Force drain +1 here.  Dark:  If you control, Force drain +1 here."
       },
+      "rules": [{"name":"Hoth Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-hoth"}],
       "legacy": false
     },
     {
@@ -22078,6 +22161,7 @@
         "darkSideIcons": 0,
         "gametext": "Light:  If you control, with X leaders here, your total power is +X in battles at Hoth locations.  Dark:  If you initiate a battle here, add one battle destiny. If you control, Force drain -1 here."
       },
+      "rules": [{"name":"Hoth Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-hoth"}],
       "pulledBy": [
         "A New Secret Base"
       ],
@@ -22112,6 +22196,7 @@
         "darkSideIcons": 0,
         "gametext": "Light:  If you control, once per turn, may use 4 Force to raise a converted Hoth site to the top.  Dark:  -"
       },
+      "rules": [{"name":"Hoth Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-hoth"}],
       "pulledBy": [
         "A New Secret Base"
       ],
@@ -22146,6 +22231,7 @@
         "darkSideIcons": 0,
         "gametext": "Light:  Your docking bay transit from here requires 1 Force.  Dark:  Your docking bay transit from here requires 3 Force. Your transit to here requires +4 Force."
       },
+      "rules": [{"name":"Hoth Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-hoth"}],
       "pulledBy": [
         "A New Secret Base",
         "Firin Morett",
@@ -22184,6 +22270,7 @@
         "darkSideIcons": 0,
         "gametext": "Light:  Once per turn, when you deploy a medical droid, it is deploy -2.  Dark:  If you control, with an Imperial present, Force drain +1 here."
       },
+      "rules": [{"name":"Hoth Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-hoth"}],
       "pulledBy": [
         "A New Secret Base"
       ],
@@ -22214,6 +22301,7 @@
         "darkSideIcons": 0,
         "gametext": "Light:  'Hoth Energy Shield Rules' in effect. Your artillery weapons here are powered.  Dark:  'Hoth Energy Shield Rules' in effect. If 'blown away,' Light Side loses 8 Force."
       },
+      "rules": [{"name":"Hoth Energy Shield Rules", "url":"https://www.starwarsccg.org/hoth-energy-shield-rules/"}],
       "rulings": [
         "When you deploy this location (even at start of game), if there is no 4th, 5th, or 6th marker site on table already, you must immediately deploy the 4th marker from Reserve Deck. If it is not found there, Main Power Generators does not deploy."
       ],
@@ -22245,6 +22333,7 @@
         "darkSideIcons": 0,
         "gametext": "Light:  'Hoth Energy Shield Rules' in effect. Your artillery weapons here are powered.  Dark:  Your movement to or from here requires +1 Force. If 'blown away,' Light Side loses 8 Force."
       },
+      "rules": [{"name":"Hoth Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-hoth"}],
       "legacy": false
     },
     {
@@ -22272,6 +22361,7 @@
         "darkSideIcons": 1,
         "gametext": "Light:  This site does not count when calculating Epic Events.  Dark:  This site does not count when calculating Epic Events."
       },
+      "rules": [{"name":"Hoth Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-hoth"}],
       "legacy": false
     },
     {
@@ -22299,6 +22389,7 @@
         "darkSideIcons": 1,
         "gametext": "Light:  Add 1 to each of your weapon destiny draws here.  Dark:  If you control, Force generation +1 for you here."
       },
+      "rules": [{"name":"Hoth Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-hoth"}],
       "legacy": false
     },
     {
@@ -23083,6 +23174,7 @@
         "destiny": "6",
         "gametext": "Unique (•) starfighters without permanent pilots are immune to attrition < 4 (or add 2 to immunity if starfighter already has immunity). Starships without pilot characters aboard are power -2. At docking bays related to systems you occupy, your Force drains are +1. Once per turn, your starfighter just lost from a system may be relocated to a related docking bay."
       },
+      "rules": [{"name":"Admiral's Orders Rules", "url":"https://www.starwarsccg.org/admirals-orders-rules/"}],
       "pulledBy": [
         "Admiral Ackbar"
       ],
@@ -23111,6 +23203,7 @@
         ],
         "gametext": "Landed starfighters and vehicles aboard starships are forfeit = 0. Once during your control phase may target your N-1 starfighter and opponent's starfighter present at same system. Both players draw destiny. You add your starfighter's power and maneuver. Opponent adds starfighter's power. Starship with lowest total is lost."
       },
+      "rules": [{"name":"Admiral's Orders Rules", "url":"https://www.starwarsccg.org/admirals-orders-rules/"}],
       "pulledBy": [
         "Admiral Ackbar"
       ],
@@ -23874,6 +23967,7 @@
         "destiny": "5",
         "gametext": "Deploy on a Dagobah site. Target a mentor on Dagobah and an apprentice who has completed Jedi Test #4. Attempt when apprentice is present at the beginning of your control phase. Turn apprentice upside down (cannot move and power = 0). At the end of your next turn, turn apprentice right side up (restored): Place on apprentice. Immune to attrition < 4. Reveal the top two cards of your Reserve Deck and place one upside down on apprentice. Whenever you are about to draw a card for destiny, you may instead use the upside-down card (which remains on apprentice for re-use)."
       },
+      "rules": [{"name":"Jedi Test Rules", "url":"https://www.starwarsccg.org/jedi-tests/"}],
       "pulledBy": [
         "Dagobah: Training Area",
         "Dagobah (V)"
@@ -24199,6 +24293,7 @@
         "darkSideIcons": 1,
         "gametext": "Light:  Creatures cannot attack here. While no Rebels present, your total power here is +2.  Dark:  Creatures cannot attack here. Force drain -1 here."
       },
+      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "pulledBy": [
         "Mindful Of The Future"
       ],
@@ -24230,6 +24325,7 @@
         "darkSideIcons": 1,
         "gametext": "Light:  If you control, Scum And Villainy is canceled. May deploy Bo Shuda from Reserve Deck; reshuffle.  Dark:  Your alien leaders here are immune to attrition."
       },
+      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "pulls": [
         "Bo Shuda"
       ],
@@ -24269,6 +24365,7 @@
         "darkSideIcons": 1,
         "gametext": "Light:  If you control, Force drain +1 here.  Dark:  Gamorrean Guards are power and forfeit +1 here."
       },
+      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "pulledBy": [
         "Mindful Of The Future"
       ],
@@ -24353,6 +24450,7 @@
         "gametext": "Light:  If [Episode VII] Falcon here, Force drain +1 here.  Dark:  Imperial starships deploy +1 here.",
         "parsec": "4"
       },
+      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "pulledBy": [
         "A New Secret Base",
         "A New Secret Base (V)",
@@ -24392,6 +24490,7 @@
         "darkSideIcons": 1,
         "gametext": "Light:  Your docking bay transit from here requires 1 Force.  Dark:  Your docking bay transit from here requires 2 Force."
       },
+      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "pulledBy": [
         "Firin Morett",
         "Insurrection",
@@ -24428,6 +24527,7 @@
         "darkSideIcons": 1,
         "gametext": "Light:  Your starfighters take off and land here for free.  Dark:  Your gangsters and scavengers deploy -1 here."
       },
+      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "pulledBy": [
         "Mindful Of The Future"
       ],
@@ -24460,6 +24560,7 @@
         "darkSideIcons": 1,
         "gametext": "Light:  At the start of your turn, may stack top card of Lost Pile face down on Graveyard Of Giants.  Dark:  Unless opponent's scavenger present, opponent's Ravager Crash Site game text is canceled."
       },
+      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "pulledBy": [
         "Mindful Of The Future",
         "Old Allies/We Need Your Help"
@@ -24493,6 +24594,7 @@
         "darkSideIcons": 0,
         "gametext": "Light:  Once per game, may deploy Rey here from Reserve Deck; reshuffle. Rey deploys -2 here.  Dark:  If Rey present, she may not be targeted by weapons."
       },
+      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "pulls": [
         "Rey"
       ],
@@ -24528,6 +24630,7 @@
         "darkSideIcons": 2,
         "gametext": "Light:  If you just deployed a scavenger here, may retrieve a device, droid, or weapon.  Dark:  Unless you occupy, your non-scavenger characters deploy and move to here for +1 Force."
       },
+      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "pulledBy": [
         "Mindful Of The Future",
         "Old Allies/We Need Your Help"
@@ -24561,6 +24664,7 @@
         "darkSideIcons": 1,
         "gametext": "Light:  Lor San Tekka is power +4 and defense value -2 here.  Dark:  If your First Order character here, your total power here is +2."
       },
+      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "pulledBy": [
         "Mindful Of The Future",
         "Old Allies/We Need Your Help"
@@ -25423,6 +25527,7 @@
         "gametext": "May add 1 'rider' (passenger). Ability = 1/2. Moves for free. While 'ridden' by a Gungan, may move as a 'react.' While at a swamp, adds 1 to your Force drains there.",
         "lore": "Used by many Gungan warriors due to their fearless nature. Kaadu lay large numbers of eggs to compensate for those eaten by predators."
       },
+      "rules": [{"name":"Creature Rules", "url":"https://www.starwarsccg.org/creature-rules/"}],
       "pulledBy": [
         "Dams Denna"
       ],
@@ -25594,6 +25699,7 @@
         "gametext": "Light:  Once per turn, may use 1 Force to deploy a Kamino site from Reserve Deck; reshuffle.  Dark:  If opponent has two clones on table, Force drain -1 here.",
         "parsec": "7"
       },
+      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "legacy": false
     },
     {
@@ -25623,6 +25729,7 @@
         "darkSideIcons": 0,
         "gametext": "Light:  During your deploy phase, your clone here may move to a site you occupy for free.  Dark:  If you initiate battle here, add one battle destiny. Fetts may move to and from here for free."
       },
+      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "legacy": false
     },
     {
@@ -25652,6 +25759,7 @@
         "darkSideIcons": 1,
         "gametext": "Light:  While you control, your non-unique clone troopers are power and forfeit +1.  Dark:  Fetts deploy -1 here."
       },
+      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "legacy": false
     },
     {
@@ -25760,6 +25868,7 @@
         "gametext": "Light:  Your Wookiees and smugglers deploy -2 here.  Dark:  Total ability of 6 or more required for you to draw battle destiny here.",
         "parsec": "6"
       },
+      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "pulledBy": [
         "A New Secret Base",
         "A New Secret Base (V)",
@@ -26046,6 +26155,7 @@
         "gametext": "Light:  If you control, Force drain +1 here.  Dark:  If you control, Kessel Run is prevented (canceled).",
         "parsec": "8"
       },
+      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "pulledBy": [
         "A New Secret Base (V)",
         "Hidden Base",
@@ -26203,6 +26313,7 @@
         "gametext": "Light:  If you occupy with exactly 2 starships, your total power here is +2 and Vul Tazaene anywhere is doubled.  Dark:  If you occupy with exactly 2 starships, your total power here is +2.",
         "parsec": "2"
       },
+      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "pulledBy": [
         "A New Secret Base",
         "A New Secret Base (V)",
@@ -26386,6 +26497,7 @@
         "gametext": "Light:  If you occupy, once per turn, may search Reserve Deck and take any Desert, Kitonak, or Sandwhirl into hand; reshuffle.  Dark:  If you control, Force drain -1 here.",
         "parsec": "1"
       },
+      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "pulls": [
         "Desert",
         "Kitonak",
@@ -28005,6 +28117,7 @@
         ],
         "gametext": "Non-pilot characters aboard starships are forfeit -4. Whenever a player's starship is 'hit', that player loses 1 Force (2 if starship was hit by Proton Torpedoes). At systems where you have only [Republic] starships, all of those starships are immune to attrition < 4. At sites related to a system you occupy, your battle destinies may not be canceled by opponent."
       },
+      "rules": [{"name":"Admiral's Orders Rules", "url":"https://www.starwarsccg.org/admirals-orders-rules/"}],
       "pulledBy": [
         "Admiral Ackbar"
       ],
@@ -31087,6 +31200,7 @@
         "gametext": "Light:  If you have won a Podrace, Force drain +1 here.  Dark:  If you have lost a Podrace, you may not draw more than one battle destiny here.",
         "parsec": "3"
       },
+      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "pulledBy": [
         "A New Secret Base",
         "A New Secret Base (V)",
@@ -31728,6 +31842,7 @@
         "darkSideIcons": 1,
         "gametext": "Light:  Once per game, may deploy an [Episode VII] alien here from Reserve Deck; reshuffle.  Dark:  Force drain -1 here. While you control, Dobra Doompa is suspended."
       },
+      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "legacy": false
     },
     {
@@ -31757,6 +31872,7 @@
         "darkSideIcons": 0,
         "gametext": "Light:  Once per game, if you control, may retrieve a weapon or device into hand.  Dark:  Instead of Force draining here, may retrieve a weapon or device."
       },
+      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "legacy": false
     },
     {
@@ -32561,6 +32677,7 @@
         "gametext": "Light:  If you occupy with a Star Cruiser, opponent's Star Destroyers may not deploy here. Your Star Cruisers deploy -1 here.  Dark:  If you control without a Star Destroyer, Force drain -1 here.",
         "parsec": "6"
       },
+      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "pulledBy": [
         "A New Secret Base",
         "A New Secret Base (V)",
@@ -32973,6 +33090,7 @@
           "SWARM: 3"
         ]
       },
+      "rules": [{"name":"Creature Rules", "url":"https://www.starwarsccg.org/creature-rules/"}],
       "pulledBy": [
         "Swamp"
       ],
@@ -33006,6 +33124,7 @@
         "gametext": "Light:  If you control, for each of your starships here, your total power is +1 in battles at Naboo sites.  Dark:  If you control, for each of your starships here, your total power is +1 in battles at Naboo sites.",
         "parsec": "5"
       },
+      "rules": [{"name":"Naboo Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-naboo"}],
       "pulledBy": [
         "A New Secret Base",
         "A New Secret Base (V)",
@@ -33205,6 +33324,7 @@
         "darkSideIcons": 2,
         "gametext": "Light:  Once per game may take Gungan Energy Shield into hand from Reserve Deck; reshuffle.  Dark:  Your AATs deploy +1 here."
       },
+      "rules": [{"name":"Naboo Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-naboo"}],
       "pulls": [
         "Gungan Energy Shield"
       ],
@@ -33243,6 +33363,7 @@
         "darkSideIcons": 0,
         "gametext": "Light:  Once per game may take Boss Nass into hand from Reserve Deck; reshuffle.  Dark:  Opponent may not Force drain here. Immune to Revolution."
       },
+      "rules": [{"name":"Naboo Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-naboo"}],
       "pulls": [
         "Boss Nass"
       ],
@@ -33280,6 +33401,7 @@
         "darkSideIcons": 0,
         "gametext": "Light:  Your Gungans deploy -1 here and move from here for free. You may not Force drain here.  Dark:  Cards with ability (except Gungans deploy +4 to underwater sites. Immune to Revolution."
       },
+      "rules": [{"name":"Naboo Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-naboo"}],
       "pulledBy": [
         "Rep Been"
       ],
@@ -33312,6 +33434,7 @@
         "darkSideIcons": 1,
         "gametext": "Light:  Your Gungans are each power +1 and deploy -1 here.  Dark:  Unless your battle droid present, Force drain -1 here."
       },
+      "rules": [{"name":"Naboo Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-naboo"}],
       "pulledBy": [
         "Mindful Of The Future"
       ],
@@ -33345,6 +33468,7 @@
         "darkSideIcons": 1,
         "gametext": "Light:  Add 1 to each of your weapon destiny draws here.  Dark:  (none)"
       },
+      "rules": [{"name":"Naboo Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-naboo"}],
       "pulledBy": [
         "Mindful Of The Future"
       ],
@@ -33379,6 +33503,7 @@
         "darkSideIcons": 1,
         "gametext": "Light:  Your docking bay transit from here requires 1 Force.  Dark:  Your docking bay transit from here requires 2 Force."
       },
+      "rules": [{"name":"Naboo Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-naboo"}],
       "pulledBy": [
         "Firin Morett",
         "Insurrection",
@@ -33416,6 +33541,7 @@
         "darkSideIcons": 2,
         "gametext": "Light:  Your Jedi are power +2 here.  Dark:  Your Dark Jedi are power +1 here. Force drain -1 here."
       },
+      "rules": [{"name":"Naboo Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-naboo"}],
       "pulledBy": [
         "Mindful Of The Future"
       ],
@@ -33449,6 +33575,7 @@
         "darkSideIcons": 2,
         "gametext": "Light:  Any characters of ability < 5 'hit' here (and all cards on them) are placed in owner's Used Pile.  Dark:  Any characters of ability < 5 'hit' here (and all cards on them) are placed in owner's Used Pile."
       },
+      "rules": [{"name":"Naboo Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-naboo"}],
       "pulledBy": [
         "Mindful Of The Future"
       ],
@@ -33482,6 +33609,7 @@
         "darkSideIcons": 1,
         "gametext": "Light:  Once per game may take Ascension Guns into hand from Reserve Deck; reshuffle.  Dark:  If your battle droid present, Force drain +1 here."
       },
+      "rules": [{"name":"Naboo Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-naboo"}],
       "pulls": [
         "Ascension Guns",
         "Ascension Guns (V)"
@@ -33520,6 +33648,7 @@
         "darkSideIcons": 1,
         "gametext": "Light:  Once per game, may take [Set 1] Ascension Guns into hand from Reserve Deck; reshuffle. You move to here using landspeed for free.  Dark:  While We Have A Plan on table, your Force icons here are canceled."
       },
+      "rules": [{"name":"Naboo Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-naboo"}],
       "pulls": [
         "Ascension Guns (V)"
       ],
@@ -33552,6 +33681,7 @@
         "darkSideIcons": 1,
         "gametext": "Light:  While you occupy, opponent's [Presence] droids require +1 Force to move to here.  Dark:  (none)"
       },
+      "rules": [{"name":"Naboo Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-naboo"}],
       "pulledBy": [
         "Mindful Of The Future"
       ],
@@ -34187,6 +34317,7 @@
         "destiny": "6",
         "gametext": "Force generation at sectors a player occupies is +1 for that player. Any independent starship with an alien pilot character aboard is immune to attrition < 4 (or adds 2 to immunity). During your control phase, one of your smugglers at a site related to a system occupied by your freighter or independent starship may either fire a blaster or make a regular move using personal landspeed."
       },
+      "rules": [{"name":"Admiral's Orders Rules", "url":"https://www.starwarsccg.org/admirals-orders-rules/"}],
       "pulledBy": [
         "Admiral Ackbar"
       ],
@@ -34283,6 +34414,7 @@
           "CAMOUFLAGE: 1"
         ]
       },
+      "rules": [{"name":"Creature Rules", "url":"https://www.starwarsccg.org/creature-rules/"}],
       "pulledBy": [
         "Swamp"
       ],
@@ -35400,6 +35532,7 @@
         "gametext": "Light:  If you control, each of opponent's bounty hunters is forfeit -2.  Dark:  Each of your bounty hunter pilots add an additional 1 to power of starships they pilot here.",
         "parsec": "7"
       },
+      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "pulledBy": [
         "A New Secret Base (V)",
         "Hidden Base",
@@ -39327,6 +39460,7 @@
         "gametext": "Light:  If you control, all opponent's troopers are forfeit and destiny -1.  Dark:  If you control, you may raise your converted Raithal system to the top.",
         "parsec": "3"
       },
+      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "pulledBy": [
         "A New Secret Base",
         "A New Secret Base (V)",
@@ -39363,6 +39497,7 @@
         "gametext": "Light:  Your starships may move here as a 'react.'  Dark:  Your capital starships deploy -2 here.",
         "parsec": "3"
       },
+      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "pulledBy": [
         "A New Secret Base (V)",
         "Hidden Base",
@@ -41359,6 +41494,7 @@
         "gametext": "Light:  Your starships deploy -2 here and are hyperspeed +2 when moving to or from here. Neither player may Force drain here.  Dark:  -",
         "parsec": "13"
       },
+      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "cancels": [
         "Launching The Assault"
       ],
@@ -42225,6 +42361,7 @@
         "gametext": "Light:  During your deploy phase, you may deploy Big One and/or Asteroid Cave to this system from Reserve Deck; reshuffle.  Dark:  Force Drain -1 here. If you control, Asteroid Sanctuary at related sector is canceled.",
         "parsec": "7"
       },
+      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "pulls": [
         "Big One",
         "Big One: Asteroid Cave or Space Slug Belly"
@@ -42491,6 +42628,7 @@
         "gametext": "May add 2 'riders' (passengers). Bantha ability = 1/2. May move as a 'react.' Whenever a battle was just initiated at same site, one Tusken Raider present (your choice) is 'trampled' (immediately lost).",
         "lore": "Fled into the wilderness after mistreatment by a young Tusken Raider. Raised by moisture farmer. Friendly toward strangers, but attacks Tusken Raiders on sight."
       },
+      "rules": [{"name":"Creature Rules", "url":"https://www.starwarsccg.org/creature-rules/"}],
       "combo": [
         "Rogue Bantha + Cal Alder"
       ],
@@ -42666,6 +42804,7 @@
         "gametext": "May add 2 'riders' (passengers). Ability=1/4. When 'ridden' by a Jawa, moves for free and draws one battle destiny if not able to otherwise.",
         "lore": "Creatures used as beasts of burden by Jawas. Tremendous strength makes them excellent pack animals. Very skittish around repulsorlift vehicles."
       },
+      "rules": [{"name":"Creature Rules", "url":"https://www.starwarsccg.org/creature-rules/"}],
       "counterpart": "Ronto",
       "legacy": false
     },
@@ -43243,6 +43382,7 @@
         "darkSideIcons": 0,
         "gametext": "Light:  Deploy on your sandcrawler. Each Jawa is forfeit +2 here. 'Nighttime conditions' here.  Dark:  Your characters may enter/exit here for 1 Force each. 'Nighttime conditions' here."
       },
+      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "counterpart": "Sandcrawler: Droid Junkheap",
       "legacy": false
     },
@@ -43471,6 +43611,7 @@
         "gametext": "Light:  While Rogue One is piloted by a Rebel here, it is immune to attrition.  Dark:  Unless your Star Destroyer here (or your Imperial at a related location), Force drain -1 here.",
         "parsec": "7"
       },
+      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "legacy": false
     },
     {
@@ -43498,6 +43639,7 @@
         "darkSideIcons": 1,
         "gametext": "Light:  Your combat vehicles, scouts, and spies are each power +1 here. Force drain +1 here.  Dark:  Your combat vehicles and Imperial troopers are each forfeit +1 here."
       },
+      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "legacy": false
     },
     {
@@ -43526,6 +43668,7 @@
         "darkSideIcons": 1,
         "gametext": "Light:  While opponent occupies, Stardust (and any character it is on) may not move from here.  Dark:  All immunity to attrition (and Ephant Mon's game text) here is canceled."
       },
+      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "legacy": false
     },
     {
@@ -43554,6 +43697,7 @@
         "darkSideIcons": 1,
         "gametext": "Light:  Your docking bay transit to or from here requires +1 Force (+4 Force if Shield Gate on table).  Dark:  Your docking bay transit from here requires 2 Force. Your combat vehicles deploy +1 here."
       },
+      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "legacy": false
     },
     {
@@ -43583,6 +43727,7 @@
         "darkSideIcons": 1,
         "gametext": "Light:  During your move phase, may move free between here and any related site.  Dark:  If you initiate a Force drain here, may rotate this site. Immune to Expand the Empire."
       },
+      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "legacy": false
     },
     {
@@ -43714,6 +43859,7 @@
           "SCURRY: 2"
         ]
       },
+      "rules": [{"name":"Creature Rules", "url":"https://www.starwarsccg.org/creature-rules/"}],
       "pulledBy": [
         "Swamp"
       ],
@@ -44923,6 +45069,7 @@
         "destiny": "4",
         "gametext": "Deploy on Dagobah: Swamp or Dagobah: Bog Clearing. Target a mentor on Dagobah and an apprentice who has completed Jedi Test #3. Attempt when apprentice is present at the beginning of your control phase. Draw training destiny. If destiny + apprentice's ability > 15, test completed: Place on apprentice. Immune to attrition < 3. Once during each of your control phases, you may use 2 Force to search your Reserve Deck and take any one card you find there into hand. Shuffle, cut and replace."
       },
+      "rules": [{"name":"Jedi Test Rules", "url":"https://www.starwarsccg.org/jedi-tests/"}],
       "pulledBy": [
         "Dagobah: Training Area",
         "Dagobah (V)"
@@ -45672,6 +45819,7 @@
           "HIDE: 3"
         ]
       },
+      "rules": [{"name":"Creature Rules", "url":"https://www.starwarsccg.org/creature-rules/"}],
       "counterpart": "Space Slug",
       "legacy": false
     },
@@ -46549,6 +46697,7 @@
         "gametext": "Light:  To move your starship between here and Death Star II, system it orbits, or Mon Calmari requires -1 Force.  Dark:  Your starships deploy +1 here.",
         "parsec": "7"
       },
+      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "pulledBy": [
         "A New Secret Base",
         "A New Secret Base (V)",
@@ -47109,6 +47258,7 @@
         "destiny": "6",
         "gametext": "Each player, if that player has a capital starship armed with a starship weapon in battle, draws one battle destiny if not able to otherwise and once per battle, may reduce the defense value of one opponent's capital starship present by 4 for remainder of the battle. At sites related to systems you occupy, your non-pilot warriors are deploy - 1, defense value +2 and forfeit +1."
       },
+      "rules": [{"name":"Admiral's Orders Rules", "url":"https://www.starwarsccg.org/admirals-orders-rules/"}],
       "pulledBy": [
         "Admiral Ackbar"
       ],
@@ -47141,6 +47291,7 @@
         "gametext": "Light:  During your deploy phase, if you just deployed a Maz's Castle location, may draw top card of Reserve Deck.  Dark:  If you just deployed a starship here, may shuffle any deck or pile.",
         "parsec": "5"
       },
+      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "legacy": false
     },
     {
@@ -47169,6 +47320,7 @@
         "darkSideIcons": 1,
         "gametext": "Light:  Once per turn, may deploy a Maz's Castle site from Reserve Deck; reshuffle.  Dark:  If you control, opponent must use 1 Force to use their Takodana: Maz's Castle game text."
       },
+      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "legacy": false
     },
     {
@@ -47652,6 +47804,7 @@
         "gametext": "Light:  Your movement from here using hyperspeed requires -1 Force.  Dark:  Unless your [Trade Federation] or [Independent Starship] starship here, you may not draw more than one battle destiny here.",
         "parsec": "7"
       },
+      "rules": [{"name":"Tatooine Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-tatooine"}],
       "pulledBy": [
         "A New Secret Base",
         "A New Secret Base (V)",
@@ -47692,6 +47845,7 @@
         "gametext": "Light:  If you control, for each of your starships here, your total power is +1 in battles at Tatooine sites.  Dark:  If you control, for each of your starships here, your total power is +1 in battles at Tatooine sites.",
         "parsec": "7"
       },
+      "rules": [{"name":"Tatooine Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-tatooine"}],
       "pulledBy": [
         "A New Secret Base",
         "A New Secret Base (V)",
@@ -47723,6 +47877,7 @@
         "gametext": "Deploy on Tatooine system if you occupy at least two Tatooine battleground sites. During each of your control phases, retrieve 1 Force for each Tatooine battleground you occupy. Canceled if opponent controls this system. (Immune to Alter.)",
         "lore": "Even in the Outer Rim, many fear the wrath of the Empire and pray for its destruction."
       },
+      "rules": [{"name":"Tatooine Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-tatooine"}],
       "pulledBy": [
         "The Signal",
         "We Wish To Board At Once",
@@ -47785,6 +47940,7 @@
         "darkSideIcons": 1,
         "gametext": "Light:  During your move phase, may move your characters from here to Mos Eisley.  Dark:  If you occupy, opponent's Anchorhead game text is canceled."
       },
+      "rules": [{"name":"Tatooine Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-tatooine"}],
       "pulledBy": [
         "A Weakness Can Be Found",
         "Diplomatic Mission To Alderaan",
@@ -47819,6 +47975,7 @@
         "darkSideIcons": 1,
         "gametext": "Light:  T-16s deploy free (and are power +2) here. If you control with a T-16, Force drain +1 here.  Dark:  Your womp rats, banthas and Tusken Raiders deploy -1 here."
       },
+      "rules": [{"name":"Tatooine Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-tatooine"}],
       "pulledBy": [
         "A Weakness Can Be Found",
         "Diplomatic Mission To Alderaan",
@@ -47856,6 +48013,7 @@
         "darkSideIcons": 2,
         "gametext": "Light:  Your aliens are each power +1.  Dark:  Your aliens here, except Tusken Raiders, are each forfeit +1."
       },
+      "rules": [{"name":"Tatooine Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-tatooine"}],
       "pulledBy": [
         "A Weakness Can Be Found",
         "Diplomatic Mission To Alderaan",
@@ -47892,6 +48050,7 @@
         "darkSideIcons": 1,
         "gametext": "Light:  Once per game, may deploy a Jedi here from Reserve Deck; reshuffle.  Dark:  Maul moves to here for free when using his landspeed."
       },
+      "rules": [{"name":"Tatooine Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-tatooine"}],
       "pulls": [
         "Aayla Secura",
         "Ben Kenobi",
@@ -47956,6 +48115,7 @@
         "darkSideIcons": 1,
         "gametext": "Light:  Your character movement from here (except for scouts) requires +1 landspeed.  Dark:  Your character movement from here (except for scouts) requires +1 landspeed."
       },
+      "rules": [{"name":"Tatooine Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-tatooine"}],
       "pulledBy": [
         "Yarna d'al' Gargan (V)"
       ],
@@ -47993,6 +48153,7 @@
         "darkSideIcons": 1,
         "gametext": "Light:  Your docking bay transit from here requires 1 Force.  Dark:  Your docking bay transit from here requires 2 Force."
       },
+      "rules": [{"name":"Tatooine Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-tatooine"}],
       "pulledBy": [
         "A Weakness Can Be Found",
         "Diplomatic Mission To Alderaan",
@@ -48032,6 +48193,7 @@
         "darkSideIcons": 1,
         "gametext": "Light:  Blank.  Dark:  Total ability of 6 or more required for you to draw battle destiny here."
       },
+      "rules": [{"name":"Tatooine Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-tatooine"}],
       "pulledBy": [
         "A Weakness Can Be Found",
         "Diplomatic Mission To Alderaan",
@@ -48066,6 +48228,7 @@
         "darkSideIcons": 1,
         "gametext": "Light:  If you occupy with a Jawa, opponent may not draw battle destiny here.  Dark:  If you occupy with a Tusken Raider, opponent may not draw battle destiny here."
       },
+      "rules": [{"name":"Tatooine Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-tatooine"}],
       "pulledBy": [
         "A Weakness Can Be Found",
         "Diplomatic Mission To Alderaan",
@@ -48103,6 +48266,7 @@
         "darkSideIcons": 1,
         "gametext": "Light:  Your characters here aboard vehicles are each power +1.  Dark:  Unless you control Hutt Trade Route, your game text on Tatooine: Jabba's Palace is canceled."
       },
+      "rules": [{"name":"Tatooine Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-tatooine"}],
       "pulledBy": [
         "A Weakness Can Be Found",
         "Diplomatic Mission To Alderaan",
@@ -48140,6 +48304,7 @@
         "darkSideIcons": 1,
         "gametext": "Light:  If you occupy with an alien, Bo Shuda cannot be canceled.  Dark:  When deployed, lose 1 Force for each of your Jabba's Palace sites that you do not occupy."
       },
+      "rules": [{"name":"Tatooine Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-tatooine"}],
       "pulledBy": [
         "A Weakness Can Be Found",
         "Diplomatic Mission To Alderaan",
@@ -48178,6 +48343,7 @@
         "darkSideIcons": 1,
         "gametext": "Light:  Your Jawas deploy here for 1 Force from you only, for free if Sandcrawler present.  Dark:  -"
       },
+      "rules": [{"name":"Tatooine Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-tatooine"}],
       "pulledBy": [
         "A Weakness Can Be Found",
         "Diplomatic Mission To Alderaan",
@@ -48213,6 +48379,7 @@
         "darkSideIcons": 1,
         "gametext": "Light:  Your Jawas are each power +1 and forfeit +2 here.  Dark:  Force drain -1 here unless your Jawa is at this site."
       },
+      "rules": [{"name":"Tatooine Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-tatooine"}],
       "pulledBy": [
         "A Weakness Can Be Found",
         "Diplomatic Mission To Alderaan",
@@ -48248,6 +48415,7 @@
         "darkSideIcons": 1,
         "gametext": "Light:  If you control, Force drain +1 here (+2 if a Vaporator present).  Dark:  If you control with a Tusken Raider present, Force drain +1 here."
       },
+      "rules": [{"name":"Tatooine Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-tatooine"}],
       "pulledBy": [
         "A Weakness Can Be Found",
         "Diplomatic Mission To Alderaan",
@@ -48288,6 +48456,7 @@
         "darkSideIcons": 1,
         "gametext": "Light:  Beru Lars and Luke deploy -1 here.  Dark:  Add 1 to each of your weapon destiny draws here."
       },
+      "rules": [{"name":"Tatooine Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-tatooine"}],
       "pulledBy": [
         "A Weakness Can Be Found",
         "Diplomatic Mission To Alderaan",
@@ -48325,6 +48494,7 @@
         "darkSideIcons": 1,
         "gametext": "Light:  Anakin, Beru and Owen may move to or from here for free when using landspeed.  Dark:  Unless Vader or your trooper here, Force drain -1 here (if both here, Force drain +1 instead)."
       },
+      "rules": [{"name":"Tatooine Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-tatooine"}],
       "pulledBy": [
         "A Weakness Can Be Found",
         "Diplomatic Mission To Alderaan",
@@ -48362,6 +48532,7 @@
         "darkSideIcons": 1,
         "gametext": "Light:  If you control, once during each of your control phases may use 2 Force to retrieve 1 Force.  Dark:  If you control, once during each of your control phases may use 4 Force to retrieve 1 Force."
       },
+      "rules": [{"name":"Tatooine Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-tatooine"}],
       "pulledBy": [
         "A Weakness Can Be Found",
         "Diplomatic Mission To Alderaan",
@@ -48397,6 +48568,7 @@
         "darkSideIcons": 1,
         "gametext": "Light:  During your control phase, you may move free from here directly to Cantina (or vice versa).  Dark:  -"
       },
+      "rules": [{"name":"Tatooine Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-tatooine"}],
       "pulledBy": [
         "A Weakness Can Be Found",
         "Diplomatic Mission To Alderaan",
@@ -48442,6 +48614,7 @@
         "darkSideIcons": 1,
         "gametext": "Light:  During your control phase, may move your characters from Slave Quarters to here.  Dark:  -"
       },
+      "rules": [{"name":"Tatooine Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-tatooine"}],
       "pulledBy": [
         "A Weakness Can Be Found",
         "Diplomatic Mission To Alderaan",
@@ -48479,6 +48652,7 @@
         "darkSideIcons": 1,
         "gametext": "Light:  Your docking bay transit from here requires 1 Force.  Dark:  Your docking bay transit from here requires 2 Force."
       },
+      "rules": [{"name":"Tatooine Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-tatooine"}],
       "pulledBy": [
         "A Weakness Can Be Found",
         "Diplomatic Mission To Alderaan",
@@ -48518,6 +48692,7 @@
         "darkSideIcons": 0,
         "gametext": "Light:  Obi-Wan is deploy -3 here.  Dark:  If you control, Force drain +1 here."
       },
+      "rules": [{"name":"Tatooine Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-tatooine"}],
       "combo": [
         "Tatooine: Obi-Wan's Hut + B'omarr Monk Drain for two at Obi's Hut."
       ],
@@ -48553,6 +48728,7 @@
         "darkSideIcons": 1,
         "gametext": "Light:  While either player's race total > 0, no battles or Force drains here.  Dark:  While either player's race total > 0, no battles or Force drains here."
       },
+      "rules": [{"name":"Tatooine Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-tatooine"}],
       "pulledBy": [
         "A Weakness Can Be Found",
         "Diplomatic Mission To Alderaan",
@@ -48589,6 +48765,7 @@
         "darkSideIcons": 1,
         "gametext": "Light:  If you control, once per turn may exchange your top race destiny with top card of Lost Pile.  Dark:  If you control, once per turn may exchange your top race destiny with top card of Lost Pile."
       },
+      "rules": [{"name":"Tatooine Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-tatooine"}],
       "pulledBy": [
         "A Weakness Can Be Found",
         "Diplomatic Mission To Alderaan",
@@ -48628,6 +48805,7 @@
         "darkSideIcons": 0,
         "gametext": "Light:  Once per game may deploy Shmi here from Reserve Deck; reshuffle.  Dark:  If Watto present, Force Drain +1 here."
       },
+      "rules": [{"name":"Tatooine Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-tatooine"}],
       "pulls": [
         "Shmi Skywalker"
       ],
@@ -48662,6 +48840,7 @@
         "darkSideIcons": 1,
         "gametext": "Light:  You generate +X Force here, where X=power of your highest forfeit character here.  Dark:  If you occupy, opponent's Tosche Station game text is canceled."
       },
+      "rules": [{"name":"Tatooine Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-tatooine"}],
       "pulledBy": [
         "Diplomatic Mission To Alderaan",
         "A Weakness Can Be Found",
@@ -48697,6 +48876,7 @@
         "darkSideIcons": 1,
         "gametext": "Light:  While you occupy, Force generation +2 here. Immune to Revolution.  Dark:  If Watto present, Force drain +1 here and opponent's battle destiny draws here are -2."
       },
+      "rules": [{"name":"Tatooine Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-tatooine"}],
       "pulledBy": [
         "Diplomatic Mission To Alderaan",
         "A Weakness Can Be Found",
@@ -48731,6 +48911,7 @@
         "gametext": "May add 1 'rider' (passenger). Deploy only on Hoth. Ability = 1/4. May move as a 'react' from a battle. May be 'sacrificed' (lost) to make rider immune to Exposure this turn.",
         "lore": "First native creature found on Hoth. Roam the icy plans in herds. Illtempered and easily spooked. Smell bad on the outside. Trained as steeds for Rebel patrols."
       },
+      "rules": [{"name":"Creature Rules", "url":"https://www.starwarsccg.org/creature-rules/"}],
       "legacy": false
     },
     {
@@ -50648,6 +50829,7 @@
         "gametext": "Light:  If you occupy, during your control phase, may exchange three cards in hand for any one card in your Lost Pile.  Dark:  If you control, Force drain +1 here.",
         "parsec": "2"
       },
+      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "pulledBy": [
         "A New Secret Base (V)",
         "Hidden Base",
@@ -51910,6 +52092,7 @@
           "SLITHER: 3"
         ]
       },
+      "rules": [{"name":"Creature Rules", "url":"https://www.starwarsccg.org/creature-rules/"}],
       "pulledBy": [
         "Swamp"
       ],
@@ -53738,6 +53921,7 @@
           "JUMP: 4"
         ]
       },
+      "rules": [{"name":"Creature Rules", "url":"https://www.starwarsccg.org/creature-rules/"}],
       "pulledBy": [
         "Swamp"
       ],
@@ -54309,6 +54493,7 @@
         "gametext": "Light:  If you control, for each of your starships here, your total power is +1 in battles at Yavin 4 sites.  Dark:  If you control, for each of your starships here, your total power is +1 in battles at Yavin 4 sites.",
         "parsec": "4"
       },
+      "rules": [{"name":"Yavin 4 Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-yavin-4"}],
       "pulledBy": [
         "A New Secret Base",
         "A New Secret Base (V)",
@@ -54344,6 +54529,7 @@
         "gametext": "Light:  If Haven is canceled, place it in your Used Pile.  Dark:  Unless you control, you may not deploy Effects on related locations.",
         "parsec": "4"
       },
+      "rules": [{"name":"Yavin 4 Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-yavin-4"}],
       "legacy": false
     },
     {
@@ -54442,6 +54628,7 @@
         "darkSideIcons": 0,
         "gametext": "Light:  If you control, with a leader here, may add 1 to total of Attack Run.  Dark:  If you control, Force drain +1 here and subtract 1 from total of Attack Run."
       },
+      "rules": [{"name":"Yavin 4 Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-yavin-4"}],
       "legacy": false
     },
     {
@@ -54472,6 +54659,7 @@
         "darkSideIcons": 1,
         "gametext": "Light:  Your docking bay transit from here is free.  Dark:  Your docking bay transit from here requires 2 Force."
       },
+      "rules": [{"name":"Yavin 4 Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-yavin-4"}],
       "pulledBy": [
         "Firin Morett",
         "Insurrection",
@@ -54508,6 +54696,7 @@
         "darkSideIcons": 0,
         "gametext": "Light:  A Rebel alone here battles at power +2 and is immune to attrition.  Dark:  If you control, Force drain +1 here."
       },
+      "rules": [{"name":"Yavin 4 Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-yavin-4"}],
       "counterpart": "Yavin 4: Jungle",
       "legacy": false
     },
@@ -54537,6 +54726,7 @@
         "darkSideIcons": 0,
         "gametext": "Light:  May not be separated from interior Yavin 4 sites. If you control, Attack Run total is +2.  Dark:  May not be separated from interior Yavin 4 sites. If you occupy, Attack Run total is -4."
       },
+      "rules": [{"name":"Yavin 4 Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-yavin-4"}],
       "legacy": false
     },
     {
@@ -54565,6 +54755,7 @@
         "darkSideIcons": 0,
         "gametext": "Light:  If you control, with a leader here, your starships are each power +1 at Death Star system.  Dark:  If you control, Force drain +1 here."
       },
+      "rules": [{"name":"Yavin 4 Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-yavin-4"}],
       "legacy": false
     },
     {
@@ -54592,6 +54783,7 @@
         "darkSideIcons": 2,
         "gametext": "Light:  If Yavin 4 'blown away', Force loss is reduced by 4.  Dark:  If Yavin 4 system on table, Force drain -1 here."
       },
+      "rules": [{"name":"Yavin 4 Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-yavin-4"}],
       "legacy": false
     },
     {
@@ -54620,6 +54812,7 @@
         "darkSideIcons": 0,
         "gametext": "Light:  If this is your starting location, Light Side goes first in game.  Dark:  If you control, Force drain +1 here."
       },
+      "rules": [{"name":"Yavin 4 Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-yavin-4"}],
       "legacy": false
     },
     {
@@ -54649,6 +54842,7 @@
         "darkSideIcons": 0,
         "gametext": "Light:  If you control, with a leader here, all Stormtroopers and TIEs on table are forfeit -1.  Dark:  If you initiate a battle here, add one battle destiny."
       },
+      "rules": [{"name":"Yavin 4 Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-yavin-4"}],
       "legacy": false
     },
     {
@@ -54678,6 +54872,7 @@
         "darkSideIcons": 0,
         "gametext": "Light:  Once per game, may deploy a Rebel leader here from Reserve deck; reshuffle.  Dark:  Opponent's characters here are immune to Set For Stun."
       },
+      "rules": [{"name":"Yavin 4 Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-yavin-4"}],
       "pulls": [
         "Admiral Ackbar",
         "Admiral Ackbar (V)",
@@ -55393,6 +55588,7 @@
         "destiny": "6",
         "gametext": "Deploy on table.  Target a Skywalker who has completed Jedi Test #5.  While target on Dagobah, 'move phase' on Save You It Can may be treated as 'deploy phase.'  Until Jedi Test completed, battles you initiate at Vader's site are canceled and opponent loses 2 Force at start of your turn unless Vader is at a battleground site.  Attempt during your move phase when Vader with target (even as a non-frozen captive).  Vader and target duel: Each player draws destiny.  Add ability.  Highest total wins.  If target wins, test completed:  Leave on table.  Add one battle destiny in every battle.  Also, target is immune to attrition < 5."
       },
+      "rules": [{"name":"Jedi Test Rules", "url":"https://www.starwarsccg.org/jedi-tests/"}],
       "pulledBy": [
         "Dagobah: Training Area",
         "Dagobah (V)"
@@ -56866,6 +57062,7 @@
         "darkSideIcons": 2,
         "gametext": "Light:  While Luke alone here, he is power +2.  Dark:  Your total power here is -1 for each card stacked on I Feel The Conflict."
       },
+      "rules": [{"name":"Death Star II Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-deathstar-ii"}],
       "pulledBy": [
         "Our Only Hope (V)"
       ],
@@ -56897,6 +57094,7 @@
         "gametext": "Light:  For remainder of game, while you occupy Kessel, Force drain +1 there and Kessel Run may not be canceled.  Dark:  If you control, Kessel Run is prevented (canceled).",
         "parsec": "8"
       },
+      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "pulledBy": [
         "A New Secret Base (V)",
         "Hidden Base",
@@ -57277,6 +57475,7 @@
         "darkSideIcons": 0,
         "gametext": "Light: You may not generate more than 2 Force at non-battlegrounds. Ewoks deploy -2 here.  Dark: Force generation here may not be prevented by Objectives."
       },
+      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "pulledBy": [
         "Wuta"
       ],
@@ -57575,6 +57774,7 @@
         "darkSideIcons": 1,
         "gametext": "Light:  If A Power Loss 'shut down' this game, Force drain +1 here and Death Star Tractor Beam lost.  Dark:  If you occupy, opponent must first use 1 Force to move a character from here."
       },
+      "rules": [{"name":"Death Star Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-deathstar"}],
       "pulledBy": [
         "Mindful Of The Future"
       ],
@@ -57616,6 +57816,7 @@
         ],
         "gametext": "Light:  If you control with a spy, may use 2 Force to release Leia here (retrieve 1 Force).  Dark:  If Leia is about to be lost from a Death Star site, imprison her here instead (even if inactive)."
       },
+      "rules": [{"name":"Death Star Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-deathstar"}],
       "counterpart": "Death Star: Detention Block Corridor",
       "rulings": [
         "When Dark's text imprisons Leia, she is restored to normal (no longer hit or forfeit = 0, etc).",
@@ -57652,6 +57853,7 @@
         "darkSideIcons": 2,
         "gametext": "Light:  While Obi-Wan alone here, he is immune to attrition.  Dark:  While Obi-Wan alone here, Vader may not Force drain on Death Star."
       },
+      "rules": [{"name":"Death Star Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-deathstar"}],
       "pulledBy": [
         "Cell 2187 (V)",
         "Mindful Of The Future"
@@ -57688,6 +57890,7 @@
         "darkSideIcons": 0,
         "gametext": "Light:  During your move phase, you may move to here for free from any Death Star site.  Dark:  Unless you control an adjacent site, We're All Gonna Be A Lot Thinner! is canceled."
       },
+      "rules": [{"name":"Death Star Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-deathstar"}],
       "rulings": [
         "Light's text is a regular move.",
         "Each character moving via Light's text is a separate top-level action."
@@ -57884,6 +58087,7 @@
         "darkSideIcons": 1,
         "gametext": "Light:  Once per turn, if you occupy with a Wookiee, may deploy a Kashyyyk location from Reserve Deck; reshuffle.  Dark:  Total ability of 6 or more required for you to draw battle destiny here."
       },
+      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "pulls": [
         "Kashyyyk",
         "Kashyyyk: Forest Depths"
@@ -58377,6 +58581,7 @@
         "darkSideIcons": 0,
         "gametext": "Light:  If Qui-Gon 'communing,' may deploy Theed Palace Generator from Reserve Deck; reshuffle.  Dark:  While Qui-Gon 'communing,' no Force drains here."
       },
+      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "rulings": [
         "Light may not attempt to deploy Theed Palace Generator if it is already on table.",
         "Light may only attempt to deploy Theed Palace Generator once per turn (during their own deploy phase)."
@@ -58410,6 +58615,7 @@
         "darkSideIcons": 0,
         "gametext": "Light:  If Yoda here or [Set 16] Yoda 'communing,' once per turn, may subtract 2 from attrition against you.  Dark:  If Yoda here or [Set 16] Yoda 'communing,' Broken Concentration is canceled."
       },
+      "rules": [{"name":"Dagobah Rules", "url":"https://www.starwarsccg.org/dagobah-rules/"}],
       "pulledBy": [
         "Dagobah",
         "Dagobah (V)",
@@ -58629,6 +58835,7 @@
         "darkSideIcons": 1,
         "gametext": "Light:  Your Wookiees move from here for free when using landspeed.  Dark:  While opponent occupies with a Wookiee, your Force generation here is canceled."
       },
+      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "rulings": [
         "Dark's text does not cancel the icon, so Light can still Force drain and Dark can still deploy."
       ],
@@ -58661,6 +58868,7 @@
         "darkSideIcons": 2,
         "gametext": "Light:  While you occupy, your Wookiees at Kashyyyk sites are forfeit +1.  Dark:  While you control, opponent's Wookiees at Kashyyyk sites are power -1."
       },
+      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "legacy": false
     },
     {
@@ -59032,6 +59240,7 @@
         "darkSideIcons": 0,
         "gametext": "Light:  If Obi-Wan 'communing,' once per turn, may subtract 2 from a just drawn [Permanent Weapon] weapon destiny.  Dark:  While Obi-Wan 'communing,' no Force drains here."
       },
+      "rules": [{"name":"Tatooine Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-tatooine"}],
       "pulledBy": [
         "Return Of A Jedi (V)"
       ],
@@ -59322,6 +59531,7 @@
         "darkSideIcons": 0,
         "gametext": "Dark:  Light: Deploys only as a starting location. If you just chose You Have That Power, Too on your [Skywalker] Epic Event, deploy My Parents Were Strong from Reserve Deck; reshuffle."
       },
+      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "pulls": [
         "My Parents Were Strong"
       ],
@@ -59575,6 +59785,7 @@
         "gametext": "Dark: No Force drains here.  Light: Once per turn, may take a Jedi Test or Dagobah site into hand from Reserve Deck; reshuffle.",
         "parsec": "9"
       },
+      "rules": [{"name":"Dagobah Rules", "url":"https://www.starwarsccg.org/dagobah-rules/"}],
       "pulls": [
         "Dagobah: Bog Clearing",
         "Dagobah: Jungle",
@@ -59622,6 +59833,7 @@
         "darkSideIcons": 0,
         "gametext": "Dark:  Light: Deploys only as a starting location. There Is Another does not cause [Reflections II] Luke to be lost. If you just chose I Have It on your [Skywalker] Epic Event, deploy Like My Father Before Me from Reserve Deck; reshuffle."
       },
+      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "pulls": [
         "Like My Father Before Me"
       ],
@@ -59846,6 +60058,7 @@
         "darkSideIcons": 2,
         "gametext": "Dark: Unless you occupy, Kylo and Sidious deploy -1 here.  Light: Unless Ben Solo, Han, or Rey here, Force drain -1 here."
       },
+      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "pulledBy": [
         "Everything We Need"
       ],
@@ -60075,6 +60288,7 @@
         "darkSideIcons": 0,
         "gametext": "Dark: Your docking bay transit to or from here requires +5 Force. While Vader present, gains one [Dark Side] icon.  Light: Your docking bay transit from here is free."
       },
+      "rules": [{"name":"Generic Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-general"}],
       "rulings": [
         "If the other docking bay says that Dark's transit is free, Dark would not pay 5 Force for transit."
       ],
@@ -60192,6 +60406,7 @@
         "darkSideIcons": 0,
         "gametext": "Dark: May not be separated from Slave Quarters. Light: Once per turn, may deploy Shmi or [Tatooine] C-3PO here from Reserve Deck; reshuffle."
       },
+      "rules": [{"name":"Tatooine Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-tatooine"}],
       "pulls": [
         "Shmi Skywalker",
         "Threepio With His Parts Showing"
@@ -60239,6 +60454,7 @@
         "darkSideIcons": 0,
         "gametext": "Dark:  Light: Deploys only as a starting location. If you just chose My Father Has It on your [Skywalker] Epic Event, deploy Your Thoughts Dwell On Your Mother from Reserve Deck; reshuffle."
       },
+      "rules": [{"name":"Tatooine Systems Deployment", "url":"https://www.starwarsccg.org/location-deployment-specifics-tatooine"}],
       "pulls": [
         "Your Thoughts Dwell On Your Mother"
       ],
