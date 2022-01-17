@@ -6604,6 +6604,8 @@
         ],
         "power": "*",
         "ability": "3",
+        "deploy": "Y",
+        "forfeit": "X",
         "icons": [
           "Nav Computer",
           "A New Hope"
@@ -17247,7 +17249,7 @@
           "Episode I",
           "Tatooine"
         ],
-        "gametext": "May add 2 'riders' (passengers). Ability = ¼.Moves for free. While 'ridden' by Amidala in battle, adds one battle destiny.",
+        "gametext": "May add 2 'riders' (passengers). Ability = ¼. Moves for free. While 'ridden' by Amidala in battle, adds one battle destiny.",
         "lore": "Herd animal native to Tatooine. Adults are used as beasts of burden, while the young and elderly eopies are useful for consuming desert weeds."
       },
       "pulledBy": [
