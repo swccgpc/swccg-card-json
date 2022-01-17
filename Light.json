@@ -121,7 +121,8 @@
         "type": "Effect",
         "destiny": "5",
         "gametext": "If Jakku on table, deploy on table. Your Force generation is +1 at Jakku battlegrounds you occupy. During your deploy phase, may place a Resistance character from hand on top of Used Pile to take a Resistance character of equal or lesser ability into hand from Reserve Deck; reshuffle. (Immune to Alter.)",
-        "lore": "Blank."
+        "lore": "Blank.",
+        "uniqueness": "*"
       },
       "legacy": false
     },
@@ -1115,7 +1116,8 @@
         "lore": "Mon Calamari leader.",
         "extraText": [
           "Force-Attuned"
-        ]
+        ],
+        "uniqueness": "*"
       },
       "matching": [
         "Rogue One"
@@ -1263,7 +1265,7 @@
           "set": "200d"
         }
       ],
-      "sourceType":"effect",
+      "sourceType": "effect",
       "front": {
         "title": "•Affect Mind (V)",
         "imageUrl": "https://res.starwarsccg.org/cards/ResetDS-Light/large/affectmind.gif",
@@ -1333,7 +1335,8 @@
         "lightSideIcons": 2,
         "darkSideIcons": 1,
         "gametext": "Light:  Once during any deploy phase, may use 1 Force to relocate Luke between any two Ahch-To sites.  Dark:  While you occupy an Ahch-To site, its game text is canceled. Players may not Force drain here.",
-        "parsec": "9"
+        "parsec": "9",
+        "uniqueness": "*"
       },
       "legacy": false
     },
@@ -1361,7 +1364,8 @@
         ],
         "lightSideIcons": 2,
         "darkSideIcons": 1,
-        "gametext": "Light:  If Luke here or out of play, Force Projection is [Immune to Sense].  Dark:  While Luke here, attrition against you everywhere is +1."
+        "gametext": "Light:  If Luke here or out of play, Force Projection is [Immune to Sense].  Dark:  While Luke here, attrition against you everywhere is +1.",
+        "uniqueness": "*"
       },
       "legacy": false
     },
@@ -1390,7 +1394,8 @@
         ],
         "lightSideIcons": 2,
         "darkSideIcons": 1,
-        "gametext": "Light:  Once during your turn, if Luke alone here, may draw top card of Force Pile.  Dark:  Unless your battleground on table, you generate no Force here."
+        "gametext": "Light:  Once during your turn, if Luke alone here, may draw top card of Force Pile.  Dark:  Unless your battleground on table, you generate no Force here.",
+        "uniqueness": "*"
       },
       "legacy": false
     },
@@ -1418,7 +1423,8 @@
         ],
         "lightSideIcons": 1,
         "darkSideIcons": 0,
-        "gametext": "Light:  While Luke here, opponent must first use 1 Force to fire a weapon anywhere.  Dark:  While Luke here, destiny draws for Sense and Alter are +2."
+        "gametext": "Light:  While Luke here, opponent must first use 1 Force to fire a weapon anywhere.  Dark:  While Luke here, destiny draws for Sense and Alter are +2.",
+        "uniqueness": "*"
       },
       "legacy": false
     },
@@ -1446,7 +1452,8 @@
         ],
         "lightSideIcons": 1,
         "darkSideIcons": 0,
-        "gametext": "Light:  While Luke here or out of play, you lose no Force to [Reflections II] objectives.  Dark:  When deployed, may play a Defensive Shield from under your Starting Effect as if from hand."
+        "gametext": "Light:  While Luke here or out of play, you lose no Force to [Reflections II] objectives.  Dark:  When deployed, may play a Defensive Shield from under your Starting Effect as if from hand.",
+        "uniqueness": "*"
       },
       "legacy": false
     },
@@ -1549,7 +1556,8 @@
         "lore": "Female Togruta.",
         "extraText": [
           "Jedi Knight"
-        ]
+        ],
+        "uniqueness": "*"
       },
       "legacy": false,
       "abbr": [
@@ -2263,7 +2271,8 @@
           "Episode I"
         ],
         "gametext": "Lose 1 Force to take up to three troopers into hand from Reserve Deck; reshuffle. OR Once per game, target three related battlegrounds occupied by your clones. Your Force drains at same and related battlegrounds this turn are +1.",
-        "lore": "'Well done. Hold them in the security tower, and keep it quiet. Move.'"
+        "lore": "'Well done. Hold them in the security tower, and keep it quiet. Move.'",
+        "uniqueness": "*"
       },
       "legacy": false
     },
@@ -2536,7 +2545,8 @@
           "Episode VII"
         ],
         "gametext": "Deploy on Anakin, Luke, or Rey. May add 1 to Force drain where present. May target a character or creature for free. Draw two destiny. Target hit, and its forfeit = 0, if total destiny > defense value.",
-        "lore": "Constructed by Anakin Skywalker. Kept by Obi-Wan Kenobi until given to Luke."
+        "lore": "Constructed by Anakin Skywalker. Kept by Obi-Wan Kenobi until given to Luke.",
+        "uniqueness": "*"
       },
       "pulledBy": [
         "Gift Of The Mentor",
@@ -2597,7 +2607,8 @@
           "Episode VII"
         ],
         "gametext": "Deploy on table. Maz and your Rep are immune to attrition. While you have alien characters of five different species on table: your Force drains are +1, your total battle destiny is +1 (+2 if Maz or your Rep in battle), and your aliens are forfeit +1. (Immune to Alter.)",
-        "lore": "Blank."
+        "lore": "Blank.",
+        "uniqueness": "*"
       },
       "legacy": false
     },
@@ -3097,7 +3108,8 @@
           "Episode VII"
         ],
         "gametext": "Subtract 2 from a just drawn destiny targeting the ability or defense value of your non-Jedi [Episode VII] character. OR If you just forfeited a character from a Jakku site during your turn, use 1 Force to deploy that character from Lost Pile to same site for free.",
-        "lore": "Blank."
+        "lore": "Blank.",
+        "uniqueness": "*"
       },
       "legacy": false
     },
@@ -3476,7 +3488,8 @@
         "lore": "Starship maintenance droid within the Naboo droid pool. Personally responsible for saving Amidala's starship and getting her to Tatooine.",
         "extraText": [
           "Astromech Droid"
-        ]
+        ],
+        "uniqueness": "*"
       },
       "legacy": false
     },
@@ -4776,7 +4789,8 @@
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual11-Light/large/beldonseyeallmyurchins.gif",
         "type": "Effect",
         "destiny": "3",
-        "gametext": "Deploy on table. Once per game, if Quiet Mining Colony on table, may search your hand and/or Reserve Deck and reveal an [Independent] starfighter and matching pilot; place both in hand, reshuffle; they each deploy -1 this turn. Once per game, if a battle just initiated at Bespin system with Executor there, may cancel that battle unless opponent uses 15 Force. (Immune to Alter.)"
+        "gametext": "Deploy on table. Once per game, if Quiet Mining Colony on table, may search your hand and/or Reserve Deck and reveal an [Independent] starfighter and matching pilot; place both in hand, reshuffle; they each deploy -1 this turn. Once per game, if a battle just initiated at Bespin system with Executor there, may cancel that battle unless opponent uses 15 Force. (Immune to Alter.)",
+        "uniqueness": "*"
       },
       "legacy": false
     },
@@ -5511,7 +5525,8 @@
           "Permanent Pilot"
         ],
         "gametext": "May add 1 pilot and 2 passengers. Permanent pilot provides ability of 2. Once per turn, may deploy a non-pilot Rebel of ability < 5 aboard from Reserve Deck; reshuffle. Immune to attrition < 4.",
-        "lore": "Enclosed."
+        "lore": "Enclosed.",
+        "uniqueness": "*"
       },
       "legacy": false
     },
@@ -5572,7 +5587,8 @@
           "Set 10"
         ],
         "gametext": "May add 1 pilot. Snap deploys free aboard. While Snap piloting, immune to attrition < 5 and, once per turn, may use 1 Force to cancel a Force drain at opponent's system within 1 parsec of Snap.",
-        "lore": "Blank."
+        "lore": "Blank.",
+        "uniqueness": "*"
       },
       "rulings": [
         "Canceling a Force drain is an optional response, occurring after automatic responses such as Restore Freedom To The Galaxy."
@@ -5992,7 +6008,8 @@
         "lore": "Rogue pilot. Outlaw starship tech. Has secret lab in Mos Eisley. He bragged about beating Han Solo's Kessel Run record. Left fringe life behind after meeting Obi-Wan Kenobi.",
         "extraText": [
           "Force-Sensitive"
-        ]
+        ],
+        "uniqueness": "*"
       },
       "legacy": false
     },
@@ -6076,7 +6093,8 @@
         "lore": "Ankura Gungan who is the leader of his people. Prone to nervous tics. Personally responsible for uniting the Ankura and Otolla races together.",
         "extraText": [
           "Force-Attuned"
-        ]
+        ],
+        "uniqueness": "*"
       },
       "legacy": false
     },
@@ -6609,7 +6627,8 @@
           "Theed Palace"
         ],
         "gametext": "Permanent pilot provides ability of 4. May add one astromech. During battle, may target a starship with no character piloting. Draw destiny. If destiny > defense value, target hit. Immune to attrition < 3.",
-        "lore": "Flown by an unknown pilot who likes to spin a lot. Played the deciding role in the attack against the Droid Control Ship."
+        "lore": "Flown by an unknown pilot who likes to spin a lot. Played the deciding role in the attack against the Droid Control Ship.",
+        "uniqueness": "*"
       },
       "legacy": false
     },
@@ -8261,7 +8280,8 @@
           "Pilot"
         ],
         "gametext": "Must deploy on Hoth, but may move elsewhere. May not be deployed if three or more of opponent's unique (•) characters on table.",
-        "lore": "Loyal Wookiee companion of Captain Han Solo. Co-pilot of the Millennium Falcon. Leia referred to him as a 'walking carpet.'"
+        "lore": "Loyal Wookiee companion of Captain Han Solo. Co-pilot of the Millennium Falcon. Leia referred to him as a 'walking carpet.'",
+        "uniqueness": "*"
       },
       "legacy": false
     },
@@ -8896,7 +8916,8 @@
           "Clone Army"
         ],
         "gametext": "Your other clones present are each forfeit +1. Once during battle with your clone, may cancel and redraw your just drawn battle destiny. When moving with a 'squad' of up to three other clones, they all move simultaneously for 1 Force.",
-        "lore": "Clone trooper."
+        "lore": "Clone trooper.",
+        "uniqueness": "***"
       },
       "rulings": [
         "When he is about to move, may target other clones to move with him.",
@@ -8956,7 +8977,8 @@
           "Episode I"
         ],
         "gametext": "Use 4 Force to deploy on table. During your draw phase, may stack a non-unique clone from your Lost Pile here face down. At the start of your turn, turn all cards here face up. You may deploy any face up card stacked here (as if from hand). (Immune to Alter.)",
-        "lore": "Blank."
+        "lore": "Blank.",
+        "uniqueness": "*"
       },
       "legacy": false
     },
@@ -10263,7 +10285,8 @@
           "Warrior"
         ],
         "gametext": "When deployed (or if just lost), may take Throw Me Another Charge or a trooper into hand from Reserve Deck; reshuffle. Opponent's troopers are power and forfeit -1 here. During any move phase, may use 2 Force to release an imprisoned captive here.",
-        "lore": "Scout trooper."
+        "lore": "Scout trooper.",
+        "uniqueness": "*"
       },
       "legacy": false
     },
@@ -10338,7 +10361,8 @@
           "A New Hope"
         ],
         "gametext": "Alderaanian. Once per game, may place your just lost Alderaanian in Used Pile. Once per turn, if Stolen Data Tapes 'delivered,' a system 'liberated,' or Stardust on your spy, may place a card from hand on Used Pile to draw top card of Reserve Deck.",
-        "lore": "Leader of Rebel forces on Yavin 4. Formerly Suolriep sector HQ commander. As a Rebel spy, aided Princess Leia and Bail Organa in the years prior to the Senate's dissolution."
+        "lore": "Leader of Rebel forces on Yavin 4. Formerly Suolriep sector HQ commander. As a Rebel spy, aided Princess Leia and Bail Organa in the years prior to the Senate's dissolution.",
+        "uniqueness": "*"
       },
       "legacy": false
     },
@@ -12074,7 +12098,8 @@
           "Episode I"
         ],
         "gametext": "During any move phase, may fire a weapon at an Undercover spy. Permanent weapon is Clone Snipe Rifle (may target a character or vehicle for free; draw destiny; target hit if destiny +2 > defense value).",
-        "lore": "Clone trooper."
+        "lore": "Clone trooper.",
+        "uniqueness": "*"
       },
       "legacy": false
     },
@@ -12214,7 +12239,8 @@
           "Cloud City"
         ],
         "gametext": "Deploy on an alien of ability < 3. While at a Scomp link, Computer Interface is a Used Interrupt, and once per turn may use 1 Force to take Computer Interface into hand from Reserve Deck; reshuffle. Once per turn, if on Lobot, may deploy a trooper here from Reserve Deck; reshuffle.",
-        "lore": "Biotech's latest model, the Aj^g, boasts greater storage capacity than all other models combined. Advertised as, 'Artificial intelligence worth shaving your head for.'"
+        "lore": "Biotech's latest model, the Aj^g, boasts greater storage capacity than all other models combined. Advertised as, 'Artificial intelligence worth shaving your head for.'",
+        "uniqueness": "*"
       },
       "legacy": false
     },
@@ -12624,7 +12650,8 @@
         "subType": "Lost",
         "destiny": "4",
         "gametext": "If opponent just initiated a battle, you may do one of the following: Add one destiny to power only. OR If you have a character weapon present, select one opponent's character present to lose all immunity to attrition for remainder of battle.",
-        "lore": "'The Force is with you, young Skywalker. But you are not a Jedi yet.'"
+        "lore": "'The Force is with you, young Skywalker. But you are not a Jedi yet.'",
+        "uniqueness": "*"
       },
       "counterpart": "Release Your Anger",
       "legacy": false
@@ -12854,7 +12881,8 @@
         "lore": "Emperor banished Rendar family from Coruscant. Became gambler and smuggler. Brought down AT-AT at the Battle of Hoth. Works for Rebel Alliance from time to time. Corellian.",
         "extraText": [
           "Force-Attuned"
-        ]
+        ],
+        "uniqueness": "*"
       },
       "legacy": false
     },
@@ -14349,7 +14377,8 @@
           "Episode I"
         ],
         "gametext": "Plays on table. Always Thinking With Your Stomach, Ice Storm, and Sandwhirl are canceled. Once per game, may take an Immediate Effect into hand from Reserve Deck; reshuffle. Unless opponent occupies a battleground system, Mobilization Points is suspended.",
-        "lore": "The Jedi won't tolerate silly behavior for very long."
+        "lore": "The Jedi won't tolerate silly behavior for very long.",
+        "uniqueness": "*"
       },
       "legacy": false
     },
@@ -14367,7 +14396,7 @@
           "set": "200d"
         }
       ],
-      "sourceType":"defensive shield",
+      "sourceType": "defensive shield",
       "front": {
         "title": "•Don't Do That Again (V)",
         "imageUrl": "https://res.starwarsccg.org/cards/ResetDS-Light/large/dontdothatagain.gif",
@@ -15002,7 +15031,8 @@
           "Warrior"
         ],
         "gametext": "Adds 2 to power of anything he pilots (3 if Gold 1). While piloting a Y-Wing, for each Y-wing you have in a battle, attrition against opponent is +1 and attrition against your is -1. Y-wing pilots are forfeit +1 here.",
-        "lore": "Jon 'Dutch' Vander. Gold Squadron leader at Battle of Yavin. Prefers Y-wing fighters. Previously led squadron at Renforra Base. Emblem of Specter Squadron on his helmet."
+        "lore": "Jon 'Dutch' Vander. Gold Squadron leader at Battle of Yavin. Prefers Y-wing fighters. Previously led squadron at Renforra Base. Emblem of Specter Squadron on his helmet.",
+        "uniqueness": "*"
       },
       "legacy": false
     },
@@ -15585,7 +15615,8 @@
           "Pilot"
         ],
         "gametext": "Adds 3 to power of anything he pilots. Adds 2 to the hyperspeed of any freighter he pilots. During your move phase, may use 1 Force to 'break cover' of opponent's Undercover spy at same site. Cancels Lateral Damage targeting your starship at same or related system.",
-        "lore": "Duros scout and smuggler."
+        "lore": "Duros scout and smuggler.",
+        "uniqueness": "*"
       },
       "conceptBy": "(Original concept by Brian Fred)",
       "legacy": false
@@ -16623,7 +16654,8 @@
           "Episode I"
         ],
         "gametext": "Deploy on table; shuffle your Reserve Deck, peek at top two cards, and stack them face-up here. During battle, may take a card here into hand to prevent all battle destiny draws from being modified or canceled (each player may draw no more than one battle destiny). (Immune to Alter.)",
-        "lore": ""
+        "lore": "",
+        "uniqueness": "*"
       },
       "pulledBy": [
         "Don't Tread On Me (V)",
@@ -17042,7 +17074,8 @@
         "type": "Effect",
         "destiny": "5",
         "gametext": "Deploy beside either player's Lost Pile. That pile is turned face down. Cards from that player's Life Force may not be viewed when they are lost.",
-        "lore": "'I don't like the look of this.'"
+        "lore": "'I don't like the look of this.'",
+        "uniqueness": "*"
       },
       "pulledBy": [
         "The Signal",
@@ -17086,7 +17119,8 @@
         "lore": "Padawan. Spy.",
         "extraText": [
           "Force-Sensitive"
-        ]
+        ],
+        "uniqueness": "*"
       },
       "legacy": false
     },
@@ -17787,7 +17821,8 @@
           "Episode VII"
         ],
         "gametext": "USED: If [Episode VII] Luke at a site, target all your characters at one other site. They are defense value = 5 this turn.  LOST: Once per game, if opponent just drew battle destiny and Luke is out of play, draw destiny and subtract that amount from opponent's total battle destiny.",
-        "lore": "Blank."
+        "lore": "Blank.",
+        "uniqueness": "*"
       },
       "rulings": [
         "It does not matter how the Luke card got out of play, even if it went out of play from a Unit Of Force state.",
@@ -18160,7 +18195,8 @@
         "deploy": "3",
         "forfeit": "4",
         "gametext": "Once per game, may place a non-[Immune to Alter] Effect in owner's Used Pile. If both players just drew one battle destiny here, may use 2 Force (free if with an Imperial) to switch numbers. Opponent must first lose 2 Force to fire a superlaser.",
-        "lore": "Information broker, leader, and spy."
+        "lore": "Information broker, leader, and spy.",
+        "uniqueness": "*"
       },
       "legacy": false
     },
@@ -18636,7 +18672,8 @@
           "Warrior"
         ],
         "gametext": "Once per game, if at a war room, may take a related battleground (or a Y-wing) into hand from Reserve Deck; reshuffle. While present at a war room, opponent's spies may not deploy here and your Epic Event destiny draws are +1.",
-        "lore": "Skilled tactician and natural leader. Planned attack on Death Star after analyzing technical readouts provided by Princess Leia. Star Destroyer captain during Old Republic."
+        "lore": "Skilled tactician and natural leader. Planned attack on Death Star after analyzing technical readouts provided by Princess Leia. Star Destroyer captain during Old Republic.",
+        "uniqueness": "*"
       },
       "legacy": false
     },
@@ -19117,7 +19154,8 @@
           "Death Star II"
         ],
         "gametext": "While at a war room, at systems where you have two piloted snub fighters, opponent may draw no more than one battle destiny (you may not cancel those destiny draws) and opponent must use +1 Force to move an Imperial starship away.",
-        "lore": "Engineer who worked with Jan Dodonna to design the A-wing starfighter. Given honorary rank due to his service to the Rebellion."
+        "lore": "Engineer who worked with Jan Dodonna to design the A-wing starfighter. Given honorary rank due to his service to the Rebellion.",
+        "uniqueness": "*"
       },
       "legacy": false
     },
@@ -19303,7 +19341,8 @@
         "subType": "Lost",
         "destiny": "5",
         "gametext": "If Luke and Obi-Wan or Yoda are in a battle together, you may add two battle destiny. OR Use 1 Force to search through your Reserve Deck and take any one lightsaber into your hand. Shuffle deck, cut and replace.",
-        "lore": "Luke relied on Obi-Wan's knowledge and advice to learn the ways of the Force. Obi-Wan continued to counsel Luke long after the old Jedi's apparent 'death.'"
+        "lore": "Luke relied on Obi-Wan's knowledge and advice to learn the ways of the Force. Obi-Wan continued to counsel Luke long after the old Jedi's apparent 'death.'",
+        "uniqueness": "*"
       },
       "pulls": [
         "Any lightsaber",
@@ -19686,7 +19725,8 @@
           "Nav Computer"
         ],
         "gametext": "May add 1 pilot or passenger. Permanent pilot aboard is •Dutch, who provides ability of 2, adds 2 to power and may draw one battle destiny if not able to otherwise.",
-        "lore": "At the Battle of Yavin, Dutch led his squadron of outdated but reliable Y-wings in the first wave of the assault against the Death Star."
+        "lore": "At the Battle of Yavin, Dutch led his squadron of outdated but reliable Y-wings in the first wave of the assault against the Death Star.",
+        "uniqueness": "*"
       },
       "rulings": [
         "An opponent with no Force remaining may use 'Draws if unable to otherwise' text to draw battle destiny.",
@@ -19850,7 +19890,7 @@
           "set": "200d"
         }
       ],
-      "sourceType":"effect",
+      "sourceType": "effect",
       "front": {
         "title": "•Goldenrod",
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual0-Light/large/goldenrod.gif",
@@ -20022,7 +20062,8 @@
           "Episode VII"
         ],
         "gametext": "Deploy on table. Starships and vehicles just lost from Jakku locations are stacked here face down. Unless no cards here, if a player just Force drained on Jakku: that player may retrieve 1 Force (if they Force drained with a scavenger, may randomly retrieve instead), peek at cards stacked here, and then place one in owner's Lost Pile. (Immune to Alter.)",
-        "lore": "High-speed collisions are a constant danger during chaotic starfighter dogfights. Scanners can be jammed. Pilots rely on vision, increasing the chances of such accidents."
+        "lore": "High-speed collisions are a constant danger during chaotic starfighter dogfights. Scanners can be jammed. Pilots rely on vision, increasing the chances of such accidents.",
+        "uniqueness": "*"
       },
       "pulledBy": [
         "Old Allies (at the start of the game)",
@@ -22562,7 +22603,8 @@
         ],
         "lightSideIcons": 1,
         "darkSideIcons": 1,
-        "gametext": "Light:  Your Echo Base Troopers deploy -1 here. If you control, Force drain +1 here.  Dark:  If you control, Force drain +1 here."
+        "gametext": "Light:  Your Echo Base Troopers deploy -1 here. If you control, Force drain +1 here.  Dark:  If you control, Force drain +1 here.",
+        "uniqueness": "*"
       },
       "legacy": false
     },
@@ -22728,7 +22770,8 @@
         ],
         "lightSideIcons": 1,
         "darkSideIcons": 0,
-        "gametext": "Light:  'Hoth Energy Shield Rules' in effect. Your artillery weapons here are powered.  Dark:  'Hoth Energy Shield Rules' in effect. If 'blown away,' Light Side loses 8 Force."
+        "gametext": "Light:  'Hoth Energy Shield Rules' in effect. Your artillery weapons here are powered.  Dark:  'Hoth Energy Shield Rules' in effect. If 'blown away,' Light Side loses 8 Force.",
+        "uniqueness": "*"
       },
       "rulings": [
         "When you deploy this location (even at start of game), if there is no 4th, 5th, or 6th marker site on table already, you must immediately deploy the 4th marker from Reserve Deck. If it is not found there, Main Power Generators does not deploy."
@@ -22759,7 +22802,8 @@
         ],
         "lightSideIcons": 2,
         "darkSideIcons": 0,
-        "gametext": "Light:  'Hoth Energy Shield Rules' in effect. Your artillery weapons here are powered.  Dark:  Your movement to or from here requires +1 Force. If 'blown away,' Light Side loses 8 Force."
+        "gametext": "Light:  'Hoth Energy Shield Rules' in effect. Your artillery weapons here are powered.  Dark:  Your movement to or from here requires +1 Force. If 'blown away,' Light Side loses 8 Force.",
+        "uniqueness": "*"
       },
       "legacy": false
     },
@@ -22786,7 +22830,8 @@
         ],
         "lightSideIcons": 1,
         "darkSideIcons": 1,
-        "gametext": "Light:  This site does not count when calculating Epic Events.  Dark:  This site does not count when calculating Epic Events."
+        "gametext": "Light:  This site does not count when calculating Epic Events.  Dark:  This site does not count when calculating Epic Events.",
+        "uniqueness": "*"
       },
       "legacy": false
     },
@@ -22813,7 +22858,8 @@
         ],
         "lightSideIcons": 1,
         "darkSideIcons": 1,
-        "gametext": "Light:  Add 1 to each of your weapon destiny draws here.  Dark:  If you control, Force generation +1 for you here."
+        "gametext": "Light:  Add 1 to each of your weapon destiny draws here.  Dark:  If you control, Force generation +1 for you here.",
+        "uniqueness": "*"
       },
       "legacy": false
     },
@@ -23379,7 +23425,8 @@
         "type": "Interrupt",
         "subType": "Used",
         "destiny": "4",
-        "gametext": "If your female character is defending a battle alone at a site, add one destiny to total power (if Rey, she is also immune to attrition). OR Cancel a weapon destiny targeting your female character. OR Add 1 to your Force drain where you have a female character."
+        "gametext": "If your female character is defending a battle alone at a site, add one destiny to total power (if Rey, she is also immune to attrition). OR Cancel a weapon destiny targeting your female character. OR Add 1 to your Force drain where you have a female character.",
+        "uniqueness": "*"
       },
       "legacy": false
     },
@@ -23654,7 +23701,8 @@
           "Episode VII"
         ],
         "gametext": "If Finn and either Poe or Rey are in a battle together, you may add two battle destiny. OR Deploy Finn aboard any starship or vehicle from Reserve Deck; reshuffle.",
-        "lore": "Starship blaster, often slung in turret mounts to take advantage of light weight and quick targeting motions. Installed on many starships including the Millennium Falcon."
+        "lore": "Starship blaster, often slung in turret mounts to take advantage of light weight and quick targeting motions. Installed on many starships including the Millennium Falcon.",
+        "uniqueness": "*"
       },
       "legacy": false
     },
@@ -24525,7 +24573,8 @@
         "subType": "Used",
         "destiny": "5",
         "gametext": "If opponent just initiated a battle at a site, use X Force to make your character present immune to attrition for remainder of battle, where X= that character's ability (free if Han or Lando).",
-        "lore": "'It's not fair! The transfer circuits are working!'"
+        "lore": "'It's not fair! The transfer circuits are working!'",
+        "uniqueness": "*"
       },
       "legacy": false
     },
@@ -24581,7 +24630,8 @@
           "Episode VII"
         ],
         "gametext": "If opponent just played an Interrupt, use 2 Force to deploy on table and stack that card here. If opponent just drew destiny (or played an Interrupt) with the same card title as card here, they lose 1 Force. (Immune to Control)",
-        "lore": "The heroes of the Rebellion know that where there is life, there is hope."
+        "lore": "The heroes of the Rebellion know that where there is life, there is hope.",
+        "uniqueness": "*"
       },
       "legacy": false
     },
@@ -24633,7 +24683,8 @@
         "subType": "Used",
         "destiny": "4",
         "gametext": "Take one security droid into hand from Reserve Deck; reshuffle. OR During your control phase, if K-2SO controls opponent's site, opponent loses 1 Force. OR If a battle was just initiated where K-2SO is with your spy, lose K-2SO to cancel that battle. OR Cancel Nevar Yalnal.",
-        "lore": "Unlike the Empire, the Alliance treats their droids with respect. Many droids volunteered to share the risk of battle and aid the Rebellion's assault on the Death Star."
+        "lore": "Unlike the Empire, the Alliance treats their droids with respect. Many droids volunteered to share the risk of battle and aid the Rebellion's assault on the Death Star.",
+        "uniqueness": "*"
       },
       "legacy": false
     },
@@ -25372,7 +25423,8 @@
           "Episode I"
         ],
         "gametext": "Deploy on table. Non-[Episode I] Jedi are lost. Qui-Gon is deploy -1. Unless with Anakin or Vader, Mace is immune to attrition. Once per turn, may choose: deploy an [Episode I] lightsaber from Reserve Deck (reshuffle), or once per game, deploy Malastare, Mos Espa, or Night Club from Reserve Deck; reshuffle. (Immune to Alter)",
-        "lore": "The peacekeepers of the galaxy are not to be taken lightly."
+        "lore": "The peacekeepers of the galaxy are not to be taken lightly.",
+        "uniqueness": "*"
       },
       "legacy": false
     },
@@ -25596,7 +25648,8 @@
           "Jabba's Palace"
         ],
         "gametext": "USED: If opponent just initiated a battle or Force drain, they must use 2 Force, or it is canceled.  LOST: If your Jedi in battle (unless with a Dark Jedi, Hutt, or Toydarian), 'wave hand at' (add or subtract 2 from) an opponent's just drawn destiny.",
-        "lore": "'You will bring Captain Solo and the Wookiee to me.'"
+        "lore": "'You will bring Captain Solo and the Wookiee to me.'",
+        "uniqueness": "*"
       },
       "legacy": false
     },
@@ -26147,7 +26200,8 @@
         "lightSideIcons": 2,
         "darkSideIcons": 2,
         "gametext": "Light:  Once per turn, may use 1 Force to deploy a Kamino site from Reserve Deck; reshuffle.  Dark:  If opponent has two clones on table, Force drain -1 here.",
-        "parsec": "7"
+        "parsec": "7",
+        "uniqueness": "*"
       },
       "legacy": false
     },
@@ -26176,7 +26230,8 @@
         ],
         "lightSideIcons": 2,
         "darkSideIcons": 0,
-        "gametext": "Light:  During your deploy phase, your clone here may move to a site you occupy for free.  Dark:  If you initiate battle here, add one battle destiny. Fetts may move to and from here for free."
+        "gametext": "Light:  During your deploy phase, your clone here may move to a site you occupy for free.  Dark:  If you initiate battle here, add one battle destiny. Fetts may move to and from here for free.",
+        "uniqueness": "*"
       },
       "legacy": false
     },
@@ -26205,7 +26260,8 @@
         ],
         "lightSideIcons": 2,
         "darkSideIcons": 1,
-        "gametext": "Light:  While you control, your non-unique clone troopers are power and forfeit +1.  Dark:  Fetts deploy -1 here."
+        "gametext": "Light:  While you control, your non-unique clone troopers are power and forfeit +1.  Dark:  Fetts deploy -1 here.",
+        "uniqueness": "*"
       },
       "legacy": false
     },
@@ -27069,7 +27125,8 @@
         "lore": "Nautolan Jedi Council member.",
         "extraText": [
           "Jedi Master"
-        ]
+        ],
+        "uniqueness": "*"
       },
       "legacy": false
     },
@@ -27108,7 +27165,8 @@
         "lore": "Nautolan Jedi Council member.",
         "extraText": [
           "Jedi Master"
-        ]
+        ],
+        "uniqueness": "*"
       },
       "legacy": false
     },
@@ -27273,7 +27331,8 @@
           "Episode I"
         ],
         "gametext": "USED: If present with a Dark Jedi or [Episode I] Jedi, your Padawan is power +2 for remainder of turn. OR Deploy one [Episode I] lightsaber from Reserve Deck; reshuffle.  LOST: Once per game, retrieve a Padawan or [Episode I] lightsaber.",
-        "lore": "A Jedi seeks nonviolent solutions to problems, but may fight to preserve the existence of life. An apprentice must learn which battles to fight and which to avoid."
+        "lore": "A Jedi seeks nonviolent solutions to problems, but may fight to preserve the existence of life. An apprentice must learn which battles to fight and which to avoid.",
+        "uniqueness": "*"
       },
       "legacy": false
     },
@@ -27359,7 +27418,8 @@
           "Warrior"
         ],
         "gametext": "Adds 2 to power of anything he pilots. May move as a 'react' for free. While at opponent's battleground, may not be targeted by opponent's Interrupts and your Force drains here may not be canceled or reduced by opponent.",
-        "lore": "Lak Sivrak is a typical Shistavanen male. Ferocious, but not aggressive. Often trained as scouts at Imperial academies, but they despise the ambitions of the New Order."
+        "lore": "Lak Sivrak is a typical Shistavanen male. Ferocious, but not aggressive. Often trained as scouts at Imperial academies, but they despise the ambitions of the New Order.",
+        "uniqueness": "*"
       },
       "legacy": false
     },
@@ -27919,7 +27979,8 @@
         "lore": "Smuggler. Heavily modified Cybot Galactica LE-series repair droid. Information broker. Provides information gained through underworld channels to the Alliance.",
         "extraText": [
           "Maintenance Droid"
-        ]
+        ],
+        "uniqueness": "*"
       },
       "legacy": false
     },
@@ -28804,7 +28865,8 @@
           "Episode VII"
         ],
         "gametext": "May add 2 pilots and 2 passengers. During your deploy phase, may relocate your character of ability < 4 aboard from a related exterior site. While BB-8, DJ, or Rose aboard, immune to attrition < 5.",
-        "lore": "Blank."
+        "lore": "Blank.",
+        "uniqueness": "*"
       },
       "legacy": false
     },
@@ -29027,7 +29089,8 @@
           "Episode VII"
         ],
         "gametext": "Adds 2 to power of anything she pilots. Your shuttling, landing, and taking off to or from here is free. Once per game, may use 1 Force to take Evacuation Control, a [Resistance] bomber, or a [Resistance] transport into hand from Reserve Deck; reshuffle.",
-        "lore": "Female."
+        "lore": "Female.",
+        "uniqueness": "*"
       },
       "legacy": false
     },
@@ -29498,7 +29561,8 @@
           "Set 9"
         ],
         "gametext": "Permanent pilot provides ability of 2. Cancels opponent's immunity to attrition here. While at Scarif, adds 2 to attempts to 'blow away' Shield Gate.",
-        "lore": "Phoenix Squadron."
+        "lore": "Phoenix Squadron.",
+        "uniqueness": "*"
       },
       "legacy": false,
       "abbr": [
@@ -30402,7 +30466,8 @@
         "lore": "Blank.",
         "extraText": [
           "Jedi Master"
-        ]
+        ],
+        "uniqueness": "*"
       },
       "legacy": false
     },
@@ -31133,7 +31198,8 @@
         "lore": "Senior Jedi Council member who maintains rigorous adherence to the Code. Sent Qui-Gon to Naboo to accompany the Queen and learn more about the mysterious 'dark warrior'.",
         "extraText": [
           "Jedi Master"
-        ]
+        ],
+        "uniqueness": "*"
       },
       "legacy": false
     },
@@ -31215,7 +31281,8 @@
         "lore": "Senior Jedi Council member who maintains rigorous adherence to the Code. Sent Qui-Gon to Naboo to accompany the Queen and learn more about the mysterious 'dark warrior'.",
         "extraText": [
           "Jedi Master"
-        ]
+        ],
+        "uniqueness": "*"
       },
       "legacy": false
     },
@@ -31298,7 +31365,8 @@
         "lore": "Jedi Council member who is known to be one of the strongest members of the Council. Has come to Naboo to investigate the death of the mysterious 'dark warrior.'",
         "extraText": [
           "Jedi Master"
-        ]
+        ],
+        "uniqueness": "*"
       },
       "legacy": false
     },
@@ -31697,7 +31765,8 @@
         "type": "Effect",
         "destiny": "5",
         "gametext": "If Stardust on table, deploy on table. Nightfall is canceled. Saw is a spy. Rebel spies deploy -1 to Scarif. Once per battle, if you just drew a Rebel spy for destiny, may retrieve 1 Force. (Immune to Alter.)",
-        "lore": "Blank."
+        "lore": "Blank.",
+        "uniqueness": "*"
       },
       "legacy": false
     },
@@ -32185,7 +32254,8 @@
         "lore": "Jedi Master currently not on the Council. Although he serves the Council well, there have been times when he has defied their wishes to pursue a path he believes is right.",
         "extraText": [
           "Jedi Master"
-        ]
+        ],
+        "uniqueness": "*"
       },
       "legacy": false
     },
@@ -32270,7 +32340,8 @@
         "lore": "Jedi Master currently not on the Council. Although he serves the Council well, there have been times when he has defied their wishes to pursue a path he believes is right.",
         "extraText": [
           "Jedi Master"
-        ]
+        ],
+        "uniqueness": "*"
       },
       "conceptBy": "(Original concept by James Booker - Worlds 2005)",
       "legacy": false
@@ -32342,7 +32413,8 @@
         "lore": "Female information broker and leader.",
         "extraText": [
           "Force-Sensitive"
-        ]
+        ],
+        "uniqueness": "*"
       },
       "legacy": false
     },
@@ -32370,7 +32442,8 @@
         ],
         "lightSideIcons": 2,
         "darkSideIcons": 1,
-        "gametext": "Light:  Once per game, may deploy an [Episode VII] alien here from Reserve Deck; reshuffle.  Dark:  Force drain -1 here. While you control, Dobra Doompa is suspended."
+        "gametext": "Light:  Once per game, may deploy an [Episode VII] alien here from Reserve Deck; reshuffle.  Dark:  Force drain -1 here. While you control, Dobra Doompa is suspended.",
+        "uniqueness": "*"
       },
       "legacy": false
     },
@@ -32399,7 +32472,8 @@
         ],
         "lightSideIcons": 1,
         "darkSideIcons": 0,
-        "gametext": "Light:  Once per game, if you control, may retrieve a weapon or device into hand.  Dark:  Instead of Force draining here, may retrieve a weapon or device."
+        "gametext": "Light:  Once per game, if you control, may retrieve a weapon or device into hand.  Dark:  Instead of Force draining here, may retrieve a weapon or device.",
+        "uniqueness": "*"
       },
       "legacy": false
     },
@@ -33232,7 +33306,7 @@
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual3-Light/large/moncalamariadmiral.gif",
         "type": "Character",
         "subType": "Rebel",
-        "uniqueness": "***",
+        "uniqueness": "**",
         "destiny": "2",
         "power": "1",
         "ability": "2",
@@ -33611,7 +33685,7 @@
           "parasite"
         ],
         "gametext": "Habitat: unlimited. Parasite: Starfighter. Host's power and hyperspeed are cumulatively -2; while both < 1, Mynocks randomly detach one at a time (cannot attach for remainder of turn). Moves like a starfighter.",
-        "ferocity":"2",
+        "ferocity": "2",
         "lore": "Starship parasite. Flourishes in vacuum of space. Consumes radiation and other forms of energy. Chews on power cables. Adults have one-meter wingspan. Reproduces by macromiosis.",
         "extraText": [
           "SWARM: 3"
@@ -34457,7 +34531,8 @@
         "type": "Interrupt",
         "subType": "Used",
         "destiny": "4",
-        "gametext": "Once per game, target one non-unique character on table. Draw destiny. If destiny < X, retrieve X Force, where X equals the number of copies of that card you have on table (Immune to Sense). OR Take one non-unique alien into hand from Reserve Deck; reshuffle. OR If opponent just initiated a battle with more than double your total power, search your Reserve Deck. Any one character you find there may immediately deploy as a 'react;' reshuffle."
+        "gametext": "Once per game, target one non-unique character on table. Draw destiny. If destiny < X, retrieve X Force, where X equals the number of copies of that card you have on table (Immune to Sense). OR Take one non-unique alien into hand from Reserve Deck; reshuffle. OR If opponent just initiated a battle with more than double your total power, search your Reserve Deck. Any one character you find there may immediately deploy as a 'react;' reshuffle.",
+        "uniqueness": "*"
       },
       "pulls": [
         "Alderaan Operative",
@@ -35256,7 +35331,8 @@
         "lore": "Qui-Gon Jinn's Padawan. Stayed behind to protect Queen Amidala when Qui-Gon left to explore Mos Espa, but was in constant communication should he be needed.",
         "extraText": [
           "Force-Sensitive"
-        ]
+        ],
+        "uniqueness": "*"
       },
       "legacy": false
     },
@@ -35333,7 +35409,8 @@
         "lore": "Qui-Gon Jinn's Padawan. Stayed behind to protect Queen Amidala when Qui-Gon left to explore Mos Espa, but was in constant communication should he be needed.",
         "extraText": [
           "Force-Sensitive"
-        ]
+        ],
+        "uniqueness": "*"
       },
       "legacy": false
     },
@@ -35605,7 +35682,8 @@
           "Coruscant",
           "Episode I"
         ],
-        "gametext": "If your character is about to be hit, use 1 Force (free if by a [Permanent Weapon] weapon); for remainder of turn, its forfeit may not be reduced, it may not be used to satisfy attrition, and it is immune to Dr. Evazan. OR Cancel Disarmed. (Immune to Sense.) OR Cancel a 'react.' OR During your move phase, target any or all of your characters at one site to 'transport' (relocate) to an exterior or battleground site. Draw destiny. Use that much Force to 'transport,' or place Interrupt in Lost Pile."
+        "gametext": "If your character is about to be hit, use 1 Force (free if by a [Permanent Weapon] weapon); for remainder of turn, its forfeit may not be reduced, it may not be used to satisfy attrition, and it is immune to Dr. Evazan. OR Cancel Disarmed. (Immune to Sense.) OR Cancel a 'react.' OR During your move phase, target any or all of your characters at one site to 'transport' (relocate) to an exterior or battleground site. Draw destiny. Use that much Force to 'transport,' or place Interrupt in Lost Pile.",
+        "uniqueness": "*"
       },
       "rulings": [
         "The destiny draw and cost are paid during initiation, and then responses (e.g. Sense) may take place.",
@@ -36738,7 +36816,8 @@
         "lore": "Queen Amidala posed as one of her own handmaidens for added safety as well as to keep an eye on her Jedi protectors. Was to be protected by the Jedi at all times.",
         "extraText": [
           "Force-Attuned"
-        ]
+        ],
+        "uniqueness": "*"
       },
       "legacy": false
     },
@@ -36817,7 +36896,8 @@
         "lore": "Queen Amidala posed as one of her own handmaidens for added safety as well as to keep an eye on her Jedi protectors. Was to be protected by the Jedi at all times.",
         "extraText": [
           "Force-Sensitive"
-        ]
+        ],
+        "uniqueness": "*"
       },
       "legacy": false
     },
@@ -37015,7 +37095,8 @@
         "lore": "Leader of the Royal Naboo security Forces. Fought alongside Amidala in order to capture Viceroy Nute Gunray.",
         "extraText": [
           "Force-Attuned"
-        ]
+        ],
+        "uniqueness": "*"
       },
       "legacy": false
     },
@@ -37161,7 +37242,8 @@
           "Endor"
         ],
         "gametext": "While on Endor, Perimeter Patrol is suspended. Once per game, if in battle with a speeder bike (or two scouts), may relocate Paploo and one opponent's character of ability < 4 present with him (unless either are 'hit') to an adjacent site.",
-        "lore": "Ewok scout. Son of Warok. Brave, adventurous thief. Stole an Imperial speeder bike to create a diversion. 'Not bad for a little furball.'"
+        "lore": "Ewok scout. Son of Warok. Brave, adventurous thief. Stole an Imperial speeder bike to create a diversion. 'Not bad for a little furball.'",
+        "uniqueness": "*"
       },
       "legacy": false
     },
@@ -37185,7 +37267,8 @@
           "Endor"
         ],
         "gametext": "Deploy on your non-alien, non-Jedi character. When deployed, choose a species of an alien here. Character gains that species. Aliens of that species may deploy (for -1 Force if non-unique) or move here as a 'react'. While on Endor, adds one [Light Side Force] icon.",
-        "lore": "Wookiees are known to be creatures of great emotion and are very protective of family and friends. Chewbacca has come to treat Luke as a member of his own family."
+        "lore": "Wookiees are known to be creatures of great emotion and are very protective of family and friends. Chewbacca has come to treat Luke as a member of his own family.",
+        "uniqueness": "*"
       },
       "legacy": false
     },
@@ -37473,7 +37556,7 @@
           "set": "200d"
         }
       ],
-      "sourceType":"defensive shield",
+      "sourceType": "defensive shield",
       "front": {
         "title": "•Planetary Defenses (V)",
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual3-Light/large/planetarydefenses.gif",
@@ -37674,7 +37757,8 @@
         "lore": "Kel Dor Jedi Council member descended from a long line of Jedi. Known for exceptional sensory skills, Plo Koon's control of the Force is unmatched by most.",
         "extraText": [
           "Jedi Master"
-        ]
+        ],
+        "uniqueness": "*"
       },
       "legacy": false
     },
@@ -38917,7 +39001,8 @@
         "lore": "Leader. Amidala was only twelve when she was elected Princess of Theed. Now at age fourteen, she is Naboo's Queen, and the savior of her planet.",
         "extraText": [
           "Force-Sensitive"
-        ]
+        ],
+        "uniqueness": "*"
       },
       "legacy": false
     },
@@ -38995,7 +39080,8 @@
           "Episode I"
         ],
         "gametext": "Agendas: justice, peace. While in a senate majority, once during your control phase, may retrieve 1 Force for each Naboo site you control. May be placed on your Political Effect instead of a senator. Immune to attrition < 3.",
-        "lore": "Naboo leader. Frustrated by the Trade Federation's control of her planet, Amidala came to the Senate to plead her case in person."
+        "lore": "Naboo leader. Frustrated by the Trade Federation's control of her planet, Amidala came to the Senate to plead her case in person.",
+        "uniqueness": "*"
       },
       "legacy": false
     },
@@ -39120,7 +39206,8 @@
         "lore": "Accepted Obi-WanObi-Wan in Radiant VII  Kenobi as his Padawan learner. Was given orders to protect Queen Amidala at all costs.",
         "extraText": [
           "Jedi Master"
-        ]
+        ],
+        "uniqueness": "*"
       },
       "legacy": false
     },
@@ -39283,7 +39370,8 @@
           "Episode I"
         ],
         "gametext": "Deploy on Qui-Gon. May add 1 to Force drain where present. May target a character or creature. Draw two destiny. Target hit, and its forfeit = 0, if total destiny > defense value.",
-        "lore": "Qui-Gon was forced to defend himself when Darth Maul tracked them down on Tatooine. He was barely able to escape, in order to fight another day."
+        "lore": "Qui-Gon was forced to defend himself when Darth Maul tracked them down on Tatooine. He was barely able to escape, in order to fight another day.",
+        "uniqueness": "*"
       },
       "legacy": false
     },
@@ -40982,7 +41070,8 @@
           "Warrior"
         ],
         "gametext": "May deploy as a 'react' to a site. Deploys -2 to a site where opponent has more characters than you. Ambush is a Used Interrupt.",
-        "lore": "Rebels rely on hidden 'cells' of undercover operatives. Striking from hidden bases, troops or starfighters can arrive in a battle zone at any time."
+        "lore": "Rebels rely on hidden 'cells' of undercover operatives. Striking from hidden bases, troops or starfighters can arrive in a battle zone at any time.",
+        "uniqueness": "***"
       },
       "legacy": false
     },
@@ -41389,7 +41478,8 @@
           "A New Hope"
         ],
         "gametext": "May add 1 pilot and 1 astromech. While Luke piloting: maneuver +2, immune to attrition, and you may initiate battles and Force drains here regardless of Objective restrictions.",
-        "lore": "Luke's Incom T-65 X-wing at the Battle of Yavin. Instrumentation similarities between Red 5 and the T-16 skyhopper allowed Luke to play a pivotal role in the conflict."
+        "lore": "Luke's Incom T-65 X-wing at the Battle of Yavin. Instrumentation similarities between Red 5 and the T-16 skyhopper allowed Luke to play a pivotal role in the conflict.",
+        "uniqueness": "*"
       },
       "legacy": false
     },
@@ -41684,7 +41774,8 @@
           "Nav Computer"
         ],
         "gametext": "Permanent pilot aboard is •Red Leader, who provides ability of 2, adds 2 to power and may draw one battle destiny if not able to otherwise.",
-        "lore": "Called 'Boss' or 'Chief' by his squadron, Garven Dreis was the first pilot to fire proton torpedoes at the Death Star's exhaust port during the Battle of Yavin."
+        "lore": "Called 'Boss' or 'Chief' by his squadron, Garven Dreis was the first pilot to fire proton torpedoes at the Death Star's exhaust port during the Battle of Yavin.",
+        "uniqueness": "*"
       },
       "legacy": false
     },
@@ -42039,7 +42130,8 @@
         "type": "Effect",
         "destiny": "7",
         "gametext": "Deploy on table. While you occupy two battlegrounds (or opponent's site), you lose no more than 1 Force to Carbon-Freezing or That Thing's Operational. (Immune to Alter.) OR Deploy on a Star Destroyer or vehicle; its immunity to attrition is -4 and it may not 'react'.",
-        "lore": "'With the Imperial Fleet spread throughout the galaxy in a vain effort to engage us, it is relatively unprotected.'"
+        "lore": "'With the Imperial Fleet spread throughout the galaxy in a vain effort to engage us, it is relatively unprotected.'",
+        "uniqueness": "*"
       },
       "legacy": false
     },
@@ -42353,7 +42445,8 @@
           "Set 9"
         ],
         "gametext": "USED: At a system or Bespin location, choose: Cancel a just drawn destiny targeting the ability or defense value of your non-Undercover character of ability < 5. OR During battle, draw one battle destiny if unable to otherwise.  LOST: Cancel Close Call.",
-        "lore": "'I know where Luke is.'"
+        "lore": "'I know where Luke is.'",
+        "uniqueness": "*"
       },
       "rulings": [
         "The first function works against Gravity Shadow only if Gravity Shadow was targeting a pilot character (not a permanent pilot).",
@@ -43566,7 +43659,8 @@
           "Episode VII"
         ],
         "gametext": "If Finn is about to be lost from same site, may place him in your Used Pile instead. During your control phase, if present at a battleground site, and another Resistance character on table (or Paige out of play), may retrieve 1 Force.",
-        "lore": "Female."
+        "lore": "Female.",
+        "uniqueness": "*"
       },
       "legacy": false
     },
@@ -44103,7 +44197,7 @@
         "imageUrl": "https://res.starwarsccg.org/cards/ANewHope-Light/large/sandcrawlerloadingbay.gif",
         "type": "Location",
         "subType": "Site",
-        "uniqueness": "*",
+        "uniqueness": "***",
         "destiny": "0",
         "icons": [
           "Interior",
@@ -44744,7 +44838,8 @@
           "Episode VII"
         ],
         "gametext": "Cancel a just-deployed First Order character's game text until end of turn. OR Destiny draws during battles at sites may not be canceled this turn. OR During any draw phase, place a card from hand under Used Pile to take any one card into hand from Force Pile; reshuffle.",
-        "lore": "Blank."
+        "lore": "Blank.",
+        "uniqueness": "*"
       },
       "legacy": false
     },
@@ -44971,7 +45066,8 @@
           "Episode I"
         ],
         "gametext": "Deploy on Galactic Senate. Amidala is politics +1 here. While you have a senate majority, your Force generation here is +3. Place Effect in Lost Pile if opponent controls this location.",
-        "lore": "Senate hovercams report back to Chancellor Valorum at the conclusion of a Senate session. Mysteriously, the droid monitoring Amidala in the Senate never reported back."
+        "lore": "Senate hovercams report back to Chancellor Valorum at the conclusion of a Senate session. Mysteriously, the droid monitoring Amidala in the Senate never reported back.",
+        "uniqueness": "*"
       },
       "pulledBy": [
         "Supreme Chancellor Valorum (V)",
@@ -45092,7 +45188,8 @@
           "Episode I"
         ],
         "gametext": "Agendas: ambition, peace, order. While in a senate majority, once per turn, if opponent just drew battle destiny, use 1 Force to add its destiny number to your total power in that battle (you may not cancel that draw). Amidala is politics +1 here.",
-        "lore": "Senator for the Naboo. Advised Amidala on actions required to highlight their conflict with the Trade Federation. Watches young Skywalker's future with great interest."
+        "lore": "Senator for the Naboo. Advised Amidala on actions required to highlight their conflict with the Trade Federation. Watches young Skywalker's future with great interest.",
+        "uniqueness": "*"
       },
       "legacy": false
     },
@@ -45777,7 +45874,7 @@
           "set": "200d"
         }
       ],
-      "sourceType":"effect",
+      "sourceType": "effect",
       "front": {
         "title": "•Simple Tricks And Nonsense",
         "imageUrl": "https://res.starwarsccg.org/cards/ResetDS-Light/large/simpletricksandnonsense.gif",
@@ -46922,7 +47019,8 @@
           "Death Star II"
         ],
         "gametext": "Deploy on table. During your deploy phase, may reveal one unpiloted Red or Rogue squadron starfighter (or vehicle) from hand to take its matching pilot character (or vice versa) from Reserve Deck and deploy both simultaneously; reshuffle. (Immune to Alter.)",
-        "lore": "Rebel starfighter squadrons take great pride in their proficiency and dedication. Alliance pilots train relentlessly until man and machine function as one."
+        "lore": "Rebel starfighter squadrons take great pride in their proficiency and dedication. Alliance pilots train relentlessly until man and machine function as one.",
+        "uniqueness": "*"
       },
       "rulings": [
         "The 'vice versa' function still requires the starfighter/vehicle (not the pilot) to be Red or Rogue squadron.",
@@ -47002,7 +47100,8 @@
         "type": "Effect",
         "destiny": "6",
         "gametext": "Deploy on Data Vault. At any time, may relocate Stardust to your spy present. During your control phase, if on your spy at a battleground you occupy, opponent loses 1 Force. If about to leave table, relocate to Data Vault (if possible). (Immune to Alter.)",
-        "lore": "Blank."
+        "lore": "Blank.",
+        "uniqueness": "*"
       },
       "legacy": false
     },
@@ -47156,7 +47255,8 @@
           "Episode I"
         ],
         "gametext": "Deploy on table. If you have two Gungans with different card titles at Battle Plains, your Force drains are +2 there. While two underwater sites on table, your Gungans and creature vehicles are immune to attrition < 4 where your Fambaa is present. (Immune to Alter.)",
-        "lore": "The Gungan army hoped that by initiating a conflict at the battle plains, they could draw the Trade Federation's forces away from Amidala's real plan."
+        "lore": "The Gungan army hoped that by initiating a conflict at the battle plains, they could draw the Trade Federation's forces away from Amidala's real plan.",
+        "uniqueness": "*"
       },
       "pulledBy": [
         "Boss Nass",
@@ -47253,7 +47353,8 @@
           "Episode VII"
         ],
         "gametext": "May add Poe (or a spy) as a pilot and one passenger. Deploys free to opponent's system. While Poe piloting, maneuver +2. If Finn aboard, apply his ability towards drawing battle destiny.",
-        "lore": "Blank."
+        "lore": "Blank.",
+        "uniqueness": "*"
       },
       "legacy": false
     },
@@ -47662,7 +47763,8 @@
           "Episode I"
         ],
         "gametext": "Agendas: justice, order. While in a senate majority, once per turn may use 2 Force to cancel a battle destiny just drawn at another site where you have a Republic Character. Opponent may use X Force; Valorum is politics - X for remainder of turn.",
-        "lore": "Although Finis Valorum maintains the Galactic Senate's ultimate title, his real power is mired by endless bureaucracy, petty corruption, and incessant plotting."
+        "lore": "Although Finis Valorum maintains the Galactic Senate's ultimate title, his real power is mired by endless bureaucracy, petty corruption, and incessant plotting.",
+        "uniqueness": "*"
       },
       "legacy": false
     },
@@ -47788,7 +47890,8 @@
         "subType": "Lost",
         "destiny": "4",
         "gametext": "If Lobot and your Lando are in a battle together, cancel one opponent's destiny draw immediately after it is revealed OR use 4 Force to cancel Dark Deal.",
-        "lore": "After working together for a long time, Lando and Lobot developed a speechless form of communication."
+        "lore": "After working together for a long time, Lando and Lobot developed a speechless form of communication.",
+        "uniqueness": "*"
       },
       "cancels": [
         "One opponent's destiny draw",
@@ -47982,7 +48085,8 @@
           "Warrior"
         ],
         "gametext": "When deployed (or just lost), may draw bottom card of Used Pile. During battle, may subtract X (limit 3) from a just drawn weapon or battle destiny, where X = number of your spies out of play. Your spies here are immune to Nevar Yalnal.",
-        "lore": "Trooper."
+        "lore": "Trooper.",
+        "uniqueness": "*"
       },
       "legacy": false
     },
@@ -48096,7 +48200,8 @@
         "lightSideIcons": 2,
         "darkSideIcons": 1,
         "gametext": "Light:  During your deploy phase, if you just deployed a Maz's Castle location, may draw top card of Reserve Deck.  Dark:  If you just deployed a starship here, may shuffle any deck or pile.",
-        "parsec": "5"
+        "parsec": "5",
+        "uniqueness": "*"
       },
       "legacy": false
     },
@@ -48124,7 +48229,8 @@
         ],
         "lightSideIcons": 2,
         "darkSideIcons": 1,
-        "gametext": "Light:  Once per turn, may deploy a Maz's Castle site from Reserve Deck; reshuffle.  Dark:  If you control, opponent must use 1 Force to use their Takodana: Maz's Castle game text."
+        "gametext": "Light:  Once per turn, may deploy a Maz's Castle site from Reserve Deck; reshuffle.  Dark:  If you control, opponent must use 1 Force to use their Takodana: Maz's Castle game text.",
+        "uniqueness": "*"
       },
       "legacy": false
     },
@@ -48240,7 +48346,8 @@
           "Episode VII"
         ],
         "gametext": "Permanent pilot is •Tallie, who provides ability of 2. May move as a 'react' to same location as your [Episode VII] character. Characters here may not have their forfeit increased above their printed value.",
-        "lore": "Blank."
+        "lore": "Blank.",
+        "uniqueness": "*"
       },
       "legacy": false
     },
@@ -50221,7 +50328,8 @@
           "Episode VII"
         ],
         "gametext": "May not be placed in Reserve Deck. If Falcon about to leave table, place it out of play. May add 2 pilots and 2 passengers. Has ship-docking capability. While [Episode VII] Han or Rey piloting, maneuver +2 and immune to attrition < 4 (< 6 if both). Once during your move phase, if at a site, may flip this card (even if unpiloted).May not be placed in Reserve Deck. If Falcon about to leave table, place it out of play. May add 2 pilots and 2 passengers. Immune to Trample and Unsalvageable, even if unpiloted. While Finn or Rey aboard, immune to attrition < 4 (< 6 if both). Once during your move phase, if piloted, may flip this card.",
-        "lore": "The Millennium Falcon's well-known reputation is favorable not only for its captain and first mate, but for the Alliance as well."
+        "lore": "The Millennium Falcon's well-known reputation is favorable not only for its captain and first mate, but for the Alliance as well.",
+        "uniqueness": "*"
       },
       "back": {
         "title": "•The Falcon, Junkyard Garbage/•The Falcon, Junkyard Garbage",
@@ -50241,7 +50349,8 @@
           "Episode VII"
         ],
         "gametext": "May not be placed in Reserve Deck. If Falcon about to leave table, place it out of play. May add 2 pilots and 2 passengers. Has ship-docking capability. While [Episode VII] Han or Rey piloting, maneuver +2 and immune to attrition < 4 (< 6 if both). Once during your move phase, if at a site, may flip this card (even if unpiloted).May not be placed in Reserve Deck. If Falcon about to leave table, place it out of play. May add 2 pilots and 2 passengers. Immune to Trample and Unsalvageable, even if unpiloted. While Finn or Rey aboard, immune to attrition < 4 (< 6 if both). Once during your move phase, if piloted, may flip this card.",
-        "lore": "Han's 'special modifications' for Millennium Falcon included security mechanisms, deflector shields, hull plating, faster hyperdrive and enhanced weapons. Enclosed."
+        "lore": "Han's 'special modifications' for Millennium Falcon included security mechanisms, deflector shields, hull plating, faster hyperdrive and enhanced weapons. Enclosed.",
+        "uniqueness": "*"
       },
       "pulledBy": [
         "My Parents Were Strong",
@@ -50389,7 +50498,8 @@
           "Episode VII"
         ],
         "gametext": "Once per game, choose: During battle, place the top card of your Lost Pile out of play to add its destiny number to your total power. OR Peek at the cards stacked on Graveyard Of Giants; take (or steal) one starfighter or vehicle there into hand.",
-        "lore": "Blank."
+        "lore": "Blank.",
+        "uniqueness": "*"
       },
       "legacy": false
     },
@@ -50578,7 +50688,7 @@
           "set": "200d"
         }
       ],
-      "sourceType":"effect",
+      "sourceType": "effect",
       "front": {
         "title": "•The Republic No Longer Functions",
         "imageUrl": "https://res.starwarsccg.org/cards/ResetDS-Light/large/therepublicnolongerfunctions.gif",
@@ -50588,7 +50698,8 @@
           "Defensive Shield"
         ],
         "gametext": "Plays on table. While you have 12 or fewer cards in hand, opponent may not remove cards from your hand (except with Monnok). Once per turn (even at start of turn), may target a [Coruscant] Political Effect; it is suspended for the remainder of the turn.",
-        "lore": "Blank."
+        "lore": "Blank.",
+        "uniqueness": "*"
       },
       "legacy": false
     },
@@ -50809,7 +50920,7 @@
           "set": "200d"
         }
       ],
-      "sourceType":"character",
+      "sourceType": "character",
       "front": {
         "title": "•There Is Another",
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual9-Light/large/thereisanother.gif",
@@ -50820,7 +50931,8 @@
           "Reflections III"
         ],
         "gametext": "Plays on Your Destiny unless Leia or Luke has been deployed this game (even as a captive). [Death Star II] Luke and We're The Bait are lost. Opponent's Objective and [Death Star II] Effects target Leia instead of Luke. Force loss from Take Your Father's Place is -1.",
-        "lore": "Princess Leia Organa. Alderaanian senator. Targeted by Vader for capture and interrogation. The Datk Lord of the Sith wanted her alive."
+        "lore": "Princess Leia Organa. Alderaanian senator. Targeted by Vader for capture and interrogation. The Datk Lord of the Sith wanted her alive.",
+        "uniqueness": "*"
       },
       "rulings": [
         "If the card Luke Skywalker, The Emperor's Prize was successfully deployed at the start of the game, There Is Another may not be played that game."
@@ -51399,7 +51511,8 @@
         "lore": "Protocol droid designed by Anakin in order to help his mother. C-3PO was not to be sold when Anakin left with Qui-Gon Jinn for Coruscant.",
         "extraText": [
           "Protocol Droid"
-        ]
+        ],
+        "uniqueness": "*"
       },
       "pulledBy": [
         "Seeking An Audience",
@@ -52825,7 +52938,8 @@
           "Episode VII"
         ],
         "gametext": "Adds 2 to power of any capital starship she pilots. During battle, if piloting a capital starship, may place it and Holdo out of play to add X to your total battle destiny, where X is that starship's armor + hyperspeed.",
-        "lore": "Female leader."
+        "lore": "Female leader.",
+        "uniqueness": "*"
       },
       "rulings": [
         "This character is an Admiral.",
@@ -53489,7 +53603,8 @@
         "lore": "Unique treadwell droid cobbled together by Jawas. Now owned by the DeMaals, proprietors of Docking Bay 94. Nicknamed 'bantha' for its slow and stubborn personality.",
         "extraText": [
           "Maintenance Droid"
-        ]
+        ],
+        "uniqueness": "*"
       },
       "pulledBy": [
         "Echo Base Garrison"
@@ -54014,7 +54129,8 @@
         "subType": "Used",
         "destiny": "7",
         "gametext": "If one of your characters was just defeated by a Dragonsnake, Rancor, Sarlacc, Dianoga or Wampa, instead of being 'eaten' that character is 'hurled' (relocated) to an adjacent site, if possible.",
-        "lore": "'You're lucky you don't taste very good.'"
+        "lore": "'You're lucky you don't taste very good.'",
+        "uniqueness": "*"
       },
       "legacy": false
     },
@@ -54178,7 +54294,8 @@
           "Episode VII"
         ],
         "gametext": "USED: Take Han's Dice or non-[Maintenance] Han into hand from Reserve Deck; reshuffle.  LOST: If you just lost a gambler, take that gambler into hand. OR Once per game, exchange a card in hand with a Resistance Agent or [Episode VII] Skywalker in Lost Pile.",
-        "lore": "Blank."
+        "lore": "Blank.",
+        "uniqueness": "*"
       },
       "legacy": false
     },
@@ -54730,7 +54847,7 @@
         "deploy": "2",
         "forfeit": "0",
         "gametext": "Habitat: planet sites (except Hoth). Does not attack your characters. When at a Tatooine site, prevents opponent's characters present from using their landspeed.",
-        "ferocity":"3",
+        "ferocity": "3",
         "lore": "Large, froglike creature often used by Jawas and other Tatooine denizens as guards. Keeps raiding parties and other unwelcomed guests at bay.",
         "extraText": [
           "JUMP: 4"
@@ -55340,7 +55457,8 @@
         "lightSideIcons": 2,
         "darkSideIcons": 1,
         "gametext": "Light:  If Haven is canceled, place it in your Used Pile.  Dark:  Unless you control, you may not deploy Effects on related locations.",
-        "parsec": "4"
+        "parsec": "4",
+        "uniqueness": "*"
       },
       "legacy": false
     },
@@ -55588,7 +55706,8 @@
         ],
         "lightSideIcons": 2,
         "darkSideIcons": 2,
-        "gametext": "Light:  If Yavin 4 'blown away', Force loss is reduced by 4.  Dark:  If Yavin 4 system on table, Force drain -1 here."
+        "gametext": "Light:  If Yavin 4 'blown away', Force loss is reduced by 4.  Dark:  If Yavin 4 system on table, Force drain -1 here.",
+        "uniqueness": "*"
       },
       "legacy": false
     },
@@ -55769,7 +55888,7 @@
           "set": "200d"
         }
       ],
-      "sourceType":"effect",
+      "sourceType": "effect",
       "front": {
         "title": "•Yavin Sentry (V)",
         "imageUrl": "https://res.starwarsccg.org/cards/ResetDS-Light/large/yavinsentry.gif",
@@ -56102,7 +56221,8 @@
         "lore": "Senior Jedi Council member. Responsible for the early training of Obi-Wan Kenobi. When Qui-Gon brought Anakin before the Council, Yoda voted not to train the boy.",
         "extraText": [
           "Jedi Master"
-        ]
+        ],
+        "uniqueness": "*"
       },
       "legacy": false
     },
@@ -56648,7 +56768,7 @@
           "set": "200d"
         }
       ],
-      "sourceType":"effect",
+      "sourceType": "effect",
       "front": {
         "title": "•Your Insight Serves You Well (Death Star II) (V)",
         "imageUrl": "https://res.starwarsccg.org/cards/ResetDS-Light/large/yourinsightservesyouwellv.gif",
@@ -56659,7 +56779,8 @@
           "Defensive Shield"
         ],
         "gametext": "Plays on table. Scanning Crew is canceled. If an 'insert' card was just inserted or revealed, it is canceled. You lose no Force to Boonta Eve Podrace. While you occupy three battlegrounds, Watto's Box is suspended.",
-        "lore": "Luke knew that while the dark side was quicker and more seductive, eventually evil would turn on itself."
+        "lore": "Luke knew that while the dark side was quicker and more seductive, eventually evil would turn on itself.",
+        "uniqueness": "*"
       },
       "legacy": false
     },
@@ -56677,7 +56798,7 @@
           "set": "200d"
         }
       ],
-      "sourceType":"defensive shield",
+      "sourceType": "defensive shield",
       "front": {
         "title": "•Your Insight Serves You Well (V)",
         "imageUrl": "https://res.starwarsccg.org/cards/ResetDS-Light/large/yourinsightservesyouwell.gif",
@@ -56854,7 +56975,8 @@
           "Jabba's Palace"
         ],
         "gametext": "Deploys free to (and power +2 at) a Cloud City, Jabba's Palace, or Maz's Castle location. Once per turn, if you just drew an alien (or [Independent] starship) for destiny, may take that card into hand to cancel and redraw that destiny.",
-        "lore": "Male Ugnaught. Left Cloud City after the Empire took control. Works for Hermi Odle, helping to supply him with various weaponry. Hopes to someday return to Cloud City."
+        "lore": "Male Ugnaught. Left Cloud City after the Empire took control. Works for Hermi Odle, helping to supply him with various weaponry. Hopes to someday return to Cloud City.",
+        "uniqueness": "*"
       },
       "legacy": false
     },
@@ -57130,7 +57252,7 @@
           "set": "200d"
         }
       ],
-      "sourceType":"defensive shield",
+      "sourceType": "defensive shield",
       "front": {
         "title": "•Your Ship? (V)",
         "imageUrl": "https://res.starwarsccg.org/cards/VirtualPremium-Light/large/yourship.gif",
@@ -57597,7 +57719,7 @@
           "set": "200d"
         }
       ],
-      "sourceType":"effect",
+      "sourceType": "effect",
       "front": {
         "title": "•Clumsy And Stupid",
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual13-Light/large/clumsyandstupid.gif",
@@ -57721,7 +57843,7 @@
         "Daughter Of Skywalker",
         "Daughter Of Skywalker (V)",
         "Son Of Skywalker"
-      ],  
+      ],
       "pulledBy": [
         "Twilight Is Upon Me"
       ],
@@ -57773,7 +57895,8 @@
         "subType": "Used",
         "destiny": "4",
         "gametext": "If you have two smugglers on table, choose one: If opponent has more cards in hand than you, draw one card from Reserve Deck (two if [Set 13] Han on table). OR If there are more [Dark Side] than [Light Side] on table, activate 1 Force (2 if [Set 13] Han on table). OR Re-circulate.",
-        "lore": "Blank"
+        "lore": "Blank",
+        "uniqueness": "*"
       },
       "legacy": false
     },
@@ -57795,7 +57918,8 @@
         "subType": "Used",
         "destiny": "3",
         "gametext": "If a battle was just initiated, immediately fire a blaster deployed on your smuggler present. That blaster may fire again this battle. OR Your smuggler armed with a weapon card is defense value +2 for remainder of turn (even if just targeted by an Interrupt or weapon).",
-        "lore": "Blank"
+        "lore": "Blank",
+        "uniqueness": "*"
       },
       "legacy": false
     },
@@ -57862,7 +57986,8 @@
         ],
         "lightSideIcons": 2,
         "darkSideIcons": 2,
-        "gametext": "Light:  While Luke alone here, he is power +2.  Dark:  Your total power here is -1 for each card stacked on I Feel The Conflict."
+        "gametext": "Light:  While Luke alone here, he is power +2.  Dark:  Your total power here is -1 for each card stacked on I Feel The Conflict.",
+        "uniqueness": "*"
       },
       "pulledBy": [
         "Our Only Hope (V)"
@@ -58403,7 +58528,8 @@
         "subType": "Character",
         "destiny": "2",
         "gametext": "Deploy on Ahsoka or a non-[Episode I] Padawan. May target a character or creature for free. Draw two destiny. Target hit, and may not be used to satisfy attrition, if total destiny > defense value (if hit target is an Inquisitor, opponent also loses 1 Force).",
-        "lore": "Blank."
+        "lore": "Blank.",
+        "uniqueness": "*"
       },
       "legacy": false
     },
@@ -59145,7 +59271,8 @@
           "blaster"
         ],
         "gametext": "Deploy on your warrior. May target a character, creature, or vehicle for free. Draw destiny. Target hit if destiny +2 > defense value. If hit by Corran, Kanan, or Obi-Wan, target may not be used to satisfy attrition, and opponent loses 1 Force.",
-        "lore": "Blank."
+        "lore": "Blank.",
+        "uniqueness": "*"
       },
       "pulledBy": [
         "Portable Scanner"
@@ -60995,7 +61122,7 @@
           "set": "200d"
         }
       ],
-      "sourceType":"defensive shield",
+      "sourceType": "defensive shield",
       "front": {
         "title": "•Ounee Ta (V)",
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual17-Light/large/ouneeta.gif",
@@ -61028,7 +61155,7 @@
           "set": "200d"
         }
       ],
-      "sourceType":"effect",
+      "sourceType": "effect",
       "front": {
         "title": "•Ounee Ta (Jabba's Palace Sealed Deck) (V)",
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual17-Light/large/ouneetav.gif",
