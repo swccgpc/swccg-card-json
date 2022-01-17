@@ -6,7 +6,7 @@ The Star Wars CCG Card JSON database contains all of the current cards for Decip
 For more information about Star Wars CCG, check out the SWCCG Players Committee website here: https://www.starwarsccg.org/
 
 
-## Where is the json used?
+## Where is the JSON used?
 This database is currently used by:
 * [Scomp Link Access](https://scomp.starwarsccg.org/)
 * [Comlink Android app](https://play.google.com/store/apps/details?id=com.hatfat.swccg)
@@ -14,7 +14,7 @@ This database is currently used by:
 * Please do not use this database without notifying the SWCCG Players Committee.
 
 
-## What Data Is in the json files?
+## What data is in the JSON files?
 Our goal is eventually to have everything in this database that one could need.
 - Card Names
 - Images
@@ -28,14 +28,14 @@ Our goal is eventually to have everything in this database that one could need.
 Basically anything you could want to search for, it should be in here.
 
 
-## Where Are The Images?
+## Where are the images?
 * All of the images originate in the [Holotable Git repository](https://github.com/swccgpc/holotable).
 * The holotable images are hosted from `res.starwarsccg.org`.
 
 
-## What Does It Look Like?
+## What does it look like?
 Here's a sample of Darth Vader from the Premiere Set:
-```
+```json
     {
       "id": 634,
       "gempId": "1_168",
@@ -93,12 +93,11 @@ Here's a sample of Darth Vader from the Premiere Set:
     }
 ```
 
-
 ## Where did all this data come from?
 This database combines data from Holotable and SWIP.
 
 
-## Why Another Database?
+## Why another database?
 Keeping all of the SWCCG resources all in-sync is a daunting task. Many of the previous databases have been created in a format which is not easily editable by the average-joe.  
 - Holotable works with a proprietary format with carefully-placed commas which need to be placed meticulously.  
 - SWIP is extremly outdated and still runs with a SQLite 2 DB, which is extremly painful to update.
@@ -110,16 +109,19 @@ Neither of the previous databases are very easy for new applications to consume.
 JSON is easy to read.  It's just a bunch of human-readable labels. Anybody can copy-paste a new card into the database. There are tools available to edit JSON and there are tools to validate that the JSON is properly formatted
 
 
-## How To Contribute?
+## How to contribute
 If you see bugs in the current data, please contribute!
 
 Here's a brief overview of what you will need to do:
-1. Create a Fork of the code
-2. Create a new branch inside your fok
-3. Commit your changes in that branch
+1. Fork this repo
+2. Create a new branch inside your fork
+3. Commit your changes to that branch
 4. Create a pull request (PR)
-5. Someone on the team will review your PR and get it merged?
+5. Someone on the team will review your PR and (hopefully) merge it!
 
+The data relies on several Unicode characters. Be sure that your changes are always UTF-8 encoded. (This is the standard in most text editors.)
+
+Here are several useful symbols used throughout the data: • π ¼ ½
 
 ## Attribution
 We would like to thank the authors of Holotable and SWIP for the initial data this project was seeded with! Without that initial data, none of this would have been possible.

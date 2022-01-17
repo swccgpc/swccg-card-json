@@ -3973,7 +3973,7 @@
         "characteristics": [
           "bantha"
         ],
-        "gametext": "May carry 2 passengers. Bantha ability = 1/2. May move as a 'react' only to a battle or Force drain (if within range). Each Tusken Raider at same exterior site is power +1.",
+        "gametext": "May carry 2 passengers. Bantha ability = ½. May move as a 'react' only to a battle or Force drain (if within range). Each Tusken Raider at same exterior site is power +1.",
         "lore": "Transport, pack animal. Many breeds of different sizes and colors. Three meters tall. Can go weeks without food or water. Found throughout the galaxy."
       },
       "pulledBy": [
@@ -16259,7 +16259,7 @@
         "landspeed": "2",
         "deploy": "2",
         "forfeit": "4",
-        "gametext": "Deploy only to a desert or Tatooine site. Ability = 1/4. May add 1 'rider' (passenger). When 'ridden' by a Sandtrooper, may draw one battle destiny if not able to otherwise.",
+        "gametext": "Deploy only to a desert or Tatooine site. Ability = ¼. May add 1 'rider' (passenger). When 'ridden' by a Sandtrooper, may draw one battle destiny if not able to otherwise.",
         "lore": "Protected by hard skin composed of tough armored scales. Frequently ridden by sandtroopers stationed in desert environments.",
         "icons": [
           "Special Edition"
@@ -23285,6 +23285,7 @@
         "power": "2",
         "ability": "1",
         "deploy": "1",
+        "forfeit": "½",
         "icons": [
           "Warrior",
           "A New Hope"
@@ -41335,7 +41336,7 @@
         "landspeed": "2",
         "deploy": "2",
         "forfeit": "3",
-        "gametext": "May add 2 'riders' (passengers). Ability = 1/4. When 'ridden' by a Jawa, moves for free and draws one battle destiny if not able to otherwise.",
+        "gametext": "May add 2 'riders' (passengers). Ability = ¼. When 'ridden' by a Jawa, moves for free and draws one battle destiny if not able to otherwise.",
         "lore": "Beast of burden often used by Jawas. Excellent sense of smell. Poor vision. Slow moving. Tough hide. Easily startled by fast-moving speeders.",
         "icons": [
           "Special Edition"
@@ -52512,7 +52513,7 @@
         "characteristics": [
           "bantha"
         ],
-        "gametext": "May add 2 'riders' (passengers). Ability = 1/2. Adds 1 to power of each of your Tusken Raiders and other banthas present. When ridden by URoRRuR'R'R, adds one battle destiny.",
+        "gametext": "May add 2 'riders' (passengers). Ability = ½. Adds 1 to power of each of your Tusken Raiders and other banthas present. When ridden by URoRRuR'R'R, adds one battle destiny.",
         "lore": "Raised by RR'uruurr for personal use by URoRRuR'R'R. Alpha male of his bantha herd. Has trampled many Jawas. Nicknamed 'Rrr'ur'R.",
         "uniqueness": "*",
         "icons": [
