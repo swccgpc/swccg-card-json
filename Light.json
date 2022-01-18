@@ -886,7 +886,6 @@
           "Warrior",
           "Clone Army",
           "Episode I",
-          "Set 0",
           "Set 0"
         ],
         "characteristics": [
@@ -930,7 +929,6 @@
           "Warrior",
           "Clone Army",
           "Episode I",
-          "Set 0",
           "Set 0"
         ],
         "characteristics": [
@@ -1554,7 +1552,6 @@
           "Exterior",
           "Planet",
           "Episode VII",
-          "Set 10",
           "Set 10"
         ],
         "lightSideIcons": 2,
@@ -1588,7 +1585,6 @@
           "Exterior",
           "Planet",
           "Episode VII",
-          "Set 10",
           "Set 10"
         ],
         "lightSideIcons": 2,
@@ -1671,7 +1667,6 @@
           "Clone Army",
           "Episode I",
           "Premium",
-          "Set P",
           "Set P"
         ],
         "characteristics": [
@@ -1724,7 +1719,6 @@
           "Clone Army",
           "Episode I",
           "Premium",
-          "Set P",
           "Set P"
         ],
         "characteristics": [
@@ -2522,7 +2516,6 @@
           "Warrior",
           "Episode I",
           "Clone Army",
-          "Set 0",
           "Set 0"
         ],
         "characteristics": [
@@ -2566,7 +2559,6 @@
           "Warrior",
           "Episode I",
           "Clone Army",
-          "Set 0",
           "Set 0"
         ],
         "characteristics": [
@@ -4338,7 +4330,6 @@
           "Episode I",
           "Republic",
           "Clone Army",
-          "Set 2",
           "Set 2"
         ],
         "gametext": "May add one pilot and one astromech. During battle, if Anakin or R2-D2 aboard, may lose 1 Force to cancel a non-[Immune to Sense] interrupt. While Anakin or R2-D2 aboard, immune to attrition < 5 (< 6 if both).",
@@ -4382,7 +4373,6 @@
           "Episode I",
           "Republic",
           "Clone Army",
-          "Set 2",
           "Set 2"
         ],
         "gametext": "May add one pilot and one astromech. During battle, if Anakin or R2-D2 aboard, may lose 1 Force to cancel a non-[Immune to Sense] interrupt. While Anakin or R2-D2 aboard, immune to attrition < 5 (< 6 if both).",
@@ -5862,7 +5852,6 @@
           "Scomp Link",
           "Resistance",
           "Episode VII",
-          "Set 10",
           "Set 10"
         ],
         "gametext": "May add 1 pilot. Snap deploys free aboard. While Snap piloting, immune to attrition < 5 and, once per turn, may use 1 Force to cancel a Force drain at opponent's system within 1 parsec of Snap.",
@@ -7557,7 +7546,6 @@
         "icons": [
           "Pilot",
           "Warrior",
-          "Set 4",
           "Set 4"
         ],
         "characteristics": [
@@ -7606,7 +7594,6 @@
         "icons": [
           "Pilot",
           "Warrior",
-          "Set 4",
           "Set 4"
         ],
         "characteristics": [
@@ -7792,7 +7779,6 @@
           "Permanent Weapon",
           "Clone Army",
           "Episode I",
-          "Set 0",
           "Set 0"
         ],
         "characteristics": [
@@ -7840,7 +7826,6 @@
           "Permanent Weapon",
           "Clone Army",
           "Episode I",
-          "Set 0",
           "Set 0"
         ],
         "characteristics": [
@@ -8993,7 +8978,6 @@
         "forfeit": "5",
         "icons": [
           "Warrior",
-          "Set 7",
           "Set 7"
         ],
         "gametext": "If a battle was just initiated here, may peek at the top card of any Reserve Desk; return it or place it on top of owner's Force Pile. If just lost, may take into hand from reserve deck; reshuffle or retrieve Baze. Once per game, you may re-circulate.",
@@ -9032,7 +9016,6 @@
         "forfeit": "5",
         "icons": [
           "Warrior",
-          "Set 7",
           "Set 7"
         ],
         "gametext": "If a battle was just initiated here, may peek at the top card of any Reserve Desk; return it or place it on top of owner's Force Pile. If just lost, may take into hand from reserve deck; reshuffle or retrieve Baze. Once per game, you may re-circulate.",
@@ -10430,7 +10413,6 @@
           "Warrior",
           "Clone Army",
           "Episode I",
-          "Set 0",
           "Set 0"
         ],
         "characteristics": [
@@ -10474,7 +10456,6 @@
           "Warrior",
           "Clone Army",
           "Episode I",
-          "Set 0",
           "Set 0"
         ],
         "characteristics": [
@@ -10554,7 +10535,6 @@
         "icons": [
           "Pilot",
           "Warrior",
-          "Hoth",
           "Hoth"
         ],
         "characteristics": [
@@ -12302,7 +12282,6 @@
           "Interior",
           "Planet",
           "Episode I",
-          "Set 0",
           "Set 0"
         ],
         "lightSideIcons": 2,
@@ -12337,7 +12316,6 @@
           "Interior",
           "Planet",
           "Episode I",
-          "Set 0",
           "Set 0"
         ],
         "lightSideIcons": 2,
@@ -12670,7 +12648,6 @@
           "Warrior",
           "Clone Army",
           "Episode I",
-          "Set 3",
           "Set 3"
         ],
         "characteristics": [
@@ -12714,7 +12691,6 @@
           "Warrior",
           "Clone Army",
           "Episode I",
-          "Set 3",
           "Set 3"
         ],
         "characteristics": [
@@ -19694,7 +19670,6 @@
           "Warrior",
           "Clone Army",
           "Episode I",
-          "Set 9",
           "Set 9"
         ],
         "characteristics": [
@@ -19744,7 +19719,6 @@
           "Warrior",
           "Clone Army",
           "Episode I",
-          "Set 9",
           "Set 9"
         ],
         "characteristics": [
@@ -20962,8 +20936,7 @@
         "destiny": "5",
         "icons": [
           "A New Hope",
-          "Grabber",
-          "A New Hope"
+          "Grabber"
         ],
         "gametext": "If opponent just played an Interrupt, use 1 Force to deploy on table. That Interrupt is played out but is then 'grappled' (placed here but is out of play). Any new Interrupts of the same name are now unique (•). (Immune to Control.)",
         "lore": "Stormtrooper utility belts contain basic tools such as a grappling hook to grab onto protrusions. The hook can also be used to ensnare escaping targets."
@@ -21305,7 +21278,6 @@
           "Pilot",
           "Nav Computer",
           "Scomp Link",
-          "Set 1",
           "Set 1"
         ],
         "characteristics": [
@@ -21349,7 +21321,6 @@
           "Pilot",
           "Nav Computer",
           "Scomp Link",
-          "Set 1",
           "Set 1"
         ],
         "characteristics": [
@@ -26143,7 +26114,6 @@
         "icons": [
           "Planet",
           "Episode VII",
-          "Set 4",
           "Set 4"
         ],
         "lightSideIcons": 2,
@@ -26182,7 +26152,6 @@
         "icons": [
           "Planet",
           "Episode VII",
-          "Set 4",
           "Set 4"
         ],
         "lightSideIcons": 2,
@@ -27567,7 +27536,6 @@
         "icons": [
           "Pilot",
           "Warrior",
-          "Set 3",
           "Set 3"
         ],
         "characteristics": [
@@ -27607,7 +27575,6 @@
         "icons": [
           "Pilot",
           "Warrior",
-          "Set 3",
           "Set 3"
         ],
         "characteristics": [
@@ -28422,7 +28389,6 @@
           "Pilot",
           "Warrior",
           "Episode I",
-          "Set 10",
           "Set 10"
         ],
         "characteristics": [
@@ -28463,7 +28429,6 @@
           "Pilot",
           "Warrior",
           "Episode I",
-          "Set 10",
           "Set 10"
         ],
         "characteristics": [
@@ -30962,7 +30927,6 @@
           "Pilot",
           "Nav Computer",
           "Scomp Link",
-          "Set 9",
           "Set 9"
         ],
         "gametext": "Permanent pilot provides ability of 2. Cancels opponent's immunity to attrition here. While at Scarif, adds 2 to attempts to 'blow away' Shield Gate.",
@@ -35985,7 +35949,6 @@
         "icons": [
           "Planet",
           "Coruscant",
-          "Set 0",
           "Set 0"
         ],
         "lightSideIcons": 2,
@@ -36030,7 +35993,6 @@
         "icons": [
           "Planet",
           "Coruscant",
-          "Set 0",
           "Set 0"
         ],
         "lightSideIcons": 2,
@@ -40263,7 +40225,6 @@
           "Pilot",
           "Nav Computer",
           "Scomp Link",
-          "Set 7",
           "Set 7"
         ],
         "characteristics": [
@@ -40305,7 +40266,6 @@
           "Pilot",
           "Nav Computer",
           "Scomp Link",
-          "Set 7",
           "Set 7"
         ],
         "characteristics": [
@@ -44402,7 +44362,6 @@
         "destiny": "5",
         "icons": [
           "Cloud City",
-          "Set 9",
           "Set 9"
         ],
         "gametext": "USED: At a system or Bespin location, choose: Cancel a just drawn destiny targeting the ability or defense value of your non-Undercover character of ability < 5. OR During battle, draw one battle destiny if unable to otherwise.  LOST: Cancel Close Call.",
@@ -44473,7 +44432,6 @@
         "uniqueness": "*",
         "destiny": "0",
         "icons": [
-          "Set 8",
           "Set 8"
         ],
         "gametext": "If Yavin 4 on table, deploy on table. If you just initiated a Force drain at a battleground system (except a 'liberated' system), may draw destiny. Add 1 for each piloted unique (•) snub fighter present at that system. If total destiny > 5, opponent loses 1 Force and stacks lost card face down there (while that card stacked there, system is 'liberated'). If opponent Force drains at a 'liberated' system, place stacked card in owner's Used Pile. At each 'liberated' system, your Force drains are +1 and opponent's starships are deploy +1."
@@ -44727,7 +44685,6 @@
           "Pilot",
           "Warrior",
           "Episode VII",
-          "Set 4",
           "Set 4"
         ],
         "characteristics": [
@@ -44775,7 +44732,6 @@
           "Pilot",
           "Warrior",
           "Episode VII",
-          "Set 4",
           "Set 4"
         ],
         "characteristics": [
@@ -44824,7 +44780,6 @@
           "Warrior",
           "Permanent Weapon",
           "Episode VII",
-          "Set 9",
           "Set 9"
         ],
         "characteristics": [
@@ -44875,7 +44830,6 @@
           "Warrior",
           "Permanent Weapon",
           "Episode VII",
-          "Set 9",
           "Set 9"
         ],
         "characteristics": [
@@ -45482,7 +45436,6 @@
         "icons": [
           "Nav Computer",
           "Scomp Link",
-          "Set 6",
           "Set 6"
         ],
         "characteristics": [
@@ -45525,7 +45478,6 @@
         "icons": [
           "Nav Computer",
           "Scomp Link",
-          "Set 6",
           "Set 6"
         ],
         "characteristics": [
@@ -46571,7 +46523,6 @@
           "Planet",
           "Scomp Link",
           "Endor",
-          "Set 9",
           "Set 9"
         ],
         "lightSideIcons": 1,
@@ -46611,7 +46562,6 @@
           "Planet",
           "Scomp Link",
           "Endor",
-          "Set 9",
           "Set 9"
         ],
         "lightSideIcons": 1,
@@ -49478,7 +49428,6 @@
         "uniqueness": "*",
         "destiny": "6",
         "icons": [
-          "Set 3",
           "Set 3"
         ],
         "gametext": "Deploy on R2-D2. If about to leave table (even from Overwhelmed),relocate to Dune Sea (if possible). If at Dune Sea, may relocate to your character there. If at Alderaan (or a 'blown away' system), tapes 'delivered'; relocate this Effect to table and may take any card into hand from Reserve Deck; reshuffle. (Immune to Alter.)",
@@ -49509,7 +49458,6 @@
         "uniqueness": "*",
         "destiny": "6",
         "icons": [
-          "Set 3",
           "Set 3"
         ],
         "gametext": "Deploy on R2-D2. If about to leave table (even from Overwhelmed),relocate to Dune Sea (if possible). If at Dune Sea, may relocate to your character there. If at Alderaan (or a 'blown away' system), tapes 'delivered'; relocate this Effect to table and may take any card into hand from Reserve Deck; reshuffle. (Immune to Alter.)",
@@ -56800,8 +56748,7 @@
         "destiny": "3",
         "icons": [
           "A New Hope",
-          "Grabber",
-          "A New Hope"
+          "Grabber"
         ],
         "gametext": "Use 3 Force to deploy on table and stack one just-played interrupt here. To play any new Interrupt of the same name, player must first stack it here and use +1 Force for each Interrupt in stack, even if Interrupt is normally free. (Immune to Control.)",
         "lore": "Moisture farmers like Own Lars must be on the lookout for repeated (and blatant) ploys by Jawas."
@@ -57023,7 +56970,6 @@
           "Nav Computer",
           "Scomp Link",
           "Independent",
-          "Set 3",
           "Set 3"
         ],
         "characteristics": [
@@ -57068,7 +57014,6 @@
           "Nav Computer",
           "Scomp Link",
           "Independent",
-          "Set 3",
           "Set 3"
         ],
         "characteristics": [
@@ -57336,7 +57281,6 @@
         "uniqueness": "*",
         "destiny": "4",
         "icons": [
-          "Endor",
           "Endor"
         ],
         "gametext": "Add 1 to landspeed of your scout at an exterior planet site for remainder of turn. OR If Han is with Leia or Chewie in battle, draw one destiny and subtract it from opponent's attrition against you.",
@@ -60565,7 +60509,6 @@
         "destiny": "4",
         "icons": [
           "Death Star II",
-          "Set 13",
           "Set 13"
         ],
         "gametext": "During any move phase, if I Feel The Conflict on table, take [Endor] Leia or [Dagobah] Luke into hand from Reserve Deck; reshuffle. OR During a battle at a site involving [Death Star II] Luke, choose: Add one destiny to attrition. OR Cancel the game text of a character of ability < 4.",
@@ -61072,7 +61015,6 @@
         "destiny": "4",
         "icons": [
           "Death Star II",
-          "Set 14",
           "Set 14"
         ],
         "gametext": "Relocate Prophecy Of The Force to a site. OR If Like My Father Before Me on table, take Yoda's Hut or a Death Star II site into hand from Reserve Deck; reshuffle."
@@ -63051,7 +62993,6 @@
         "icons": [
           "Endor",
           "Episode I",
-          "Set 16",
           "Set 16"
         ],
         "gametext": "If opponent just initiated battle at an Endor or Kashyyyk site (or any forest), move your non-unique Wookiee there as a 'react.' OR deploy a Wookiee to a Kashyyyk site from Reserve Deck; reshuffle. OR Activate 1 Force for each Kashyyyk location you occupy.",
@@ -63240,7 +63181,6 @@
           "Warrior",
           "Clone Army",
           "Episode I",
-          "Set 17",
           "Set 17"
         ],
         "characteristics": [
@@ -63285,7 +63225,6 @@
           "Planet",
           "Skywalker",
           "Episode VII",
-          "Set 17",
           "Set 17"
         ],
         "lightSideIcons": 2,
@@ -63322,7 +63261,6 @@
         "destiny": "4",
         "icons": [
           "Episode I",
-          "Set 17",
           "Set 17"
         ],
         "gametext": "Deploy on table. Your unique (•) Republic characters (and your unique (•) Gungans) of ability < 4 are forfeit +1. Nabrun Leids and Elis Helrot are limited to owner's move phase and exterior sites only. Once per turn, may deploy a docking bay from Reserve Deck; reshuffle. Once during opponent's turn, if Jar Jar or your [Episode I] leader occupies an [Episode I] battleground, may activate 1 Force. (Immune to Alter.)"
@@ -63362,7 +63300,6 @@
         "destiny": "0",
         "icons": [
           "Episode VII",
-          "Set 17",
           "Set 17"
         ],
         "gametext": "Deploy on an Ahch-To location. Opponent generates no Force here. A Thousand Generations Live In You Now: Rey is power and forfeit +1 for each Jedi out of play. Bring Back The Balance, Rey, As I Did: While [Set 14] Rey in battle, your battle destiny draws and Rey's weapon destiny draws are +1. Feel The Force Flowing Through You: [Set 14] Rey and characters with her may not add battle destiny draws. Rey, The Force Will Be With You, Always: [Set 14] Rey ignores your [Episode VII] objective deployment restrictions."
@@ -63406,7 +63343,6 @@
         "icons": [
           "Pilot",
           "Warrior",
-          "Set 17",
           "Set 17"
         ],
         "characteristics": [
@@ -63452,7 +63388,6 @@
         "icons": [
           "Pilot",
           "Warrior",
-          "Set 17",
           "Set 17"
         ],
         "characteristics": [
@@ -63499,7 +63434,6 @@
         "icons": [
           "Warrior",
           "Episode I",
-          "Set 17",
           "Set 17"
         ],
         "characteristics": [
@@ -63544,7 +63478,6 @@
         "destiny": "0",
         "icons": [
           "Planet",
-          "Set 17",
           "Set 17"
         ],
         "lightSideIcons": 2,
@@ -63593,7 +63526,6 @@
           "Planet",
           "Skywalker",
           "Death Star II",
-          "Set 17",
           "Set 17"
         ],
         "lightSideIcons": 2,
@@ -63631,7 +63563,6 @@
         "destiny": "4",
         "icons": [
           "Episode VII",
-          "Set 17",
           "Set 17"
         ],
         "gametext": "If My Parents Were Strong on table, choose: take Saddle or a Kef Bir site into hand from Reserve Deck; reshuffle. OR During battle, add X to your total power, where X = number of your cards out of play.",
@@ -63676,7 +63607,6 @@
         "icons": [
           "Warrior",
           "Episode I",
-          "Set 17",
           "Set 17"
         ],
         "characteristics": [
@@ -63718,7 +63648,6 @@
         "destiny": "5",
         "icons": [
           "Cloud City",
-          "Set 17",
           "Set 17"
         ],
         "gametext": "Deploy on table. Once per game, may deploy an R-unit droid from Reserve Deck; reshuffle. During a battle where your droid present with a Scomp link, your total power is +1 (+3 if your other droid present with a Scomp link at a related location). (Immune to Alter.)",
@@ -63783,7 +63712,6 @@
         "forfeit": "6",
         "icons": [
           "Warrior",
-          "Set 17",
           "Set 17"
         ],
         "gametext": "Whenever you deploy Chopper, Ezra, Hera, Kanan, Sabine, or Zeb, may draw top card of your Used Pile. Once during your draw phase, if Kanan at a battleground and he did not move this turn, may peek at cards in your Used Pile. Immune to attrition < 5.",
@@ -63823,7 +63751,6 @@
           "Exterior",
           "Planet",
           "Episode VII",
-          "Set 17",
           "Set 17"
         ],
         "lightSideIcons": 2,
@@ -63866,7 +63793,6 @@
         "icons": [
           "Pilot",
           "Warrior",
-          "Set 17",
           "Set 17"
         ],
         "gametext": "Adds 2 to power of anything she pilots. While Luke or Talon Karrde on table, power +1 and she moves for free. Anakin's Lightsaber may deploy on your Mara. Immune to attrition < 4.",
@@ -63904,7 +63830,6 @@
         "destiny": "4",
         "icons": [
           "Episode VII",
-          "Set 17",
           "Set 17"
         ],
         "gametext": "Deploy on Training Course. When deployed, stack [Set 4] Falcon face up here from outside your deck. Falcon may deploy from here as if from hand. Rey is a Skywalker. Once per battle involving Rey, may take your just drawn destiny into hand. (Immune to Alter.)",
@@ -63949,7 +63874,6 @@
         "destiny": "4",
         "icons": [
           "Episode I",
-          "Set 17",
           "Set 17"
         ],
         "gametext": "During battle, add 1 to opponent's just drawn destiny (or to your just drawn weapon destiny). OR If Your Thoughts Dwell On Your Mother on table, take Night Club or Skywalker Hut into hand from Reserve Deck; reshuffle.",
@@ -64059,7 +63983,6 @@
           "Starship",
           "Mobile",
           "Scomp Link",
-          "Set 17",
           "Set 17"
         ],
         "lightSideIcons": 1,
@@ -64097,7 +64020,6 @@
         "forfeit": "3",
         "icons": [
           "Nav Computer",
-          "Set 17",
           "Set 17"
         ],
         "characteristics": [
@@ -64136,7 +64058,6 @@
         "subType": "Used Or Lost",
         "destiny": "3",
         "icons": [
-          "Set 17",
           "Set 17"
         ],
         "gametext": "Unless a Jedi Master 'communing,' choose: USED: Take Obi-Wan's Hut, Obi-Wan's Journal, or a card with 'mentor' in title into hand from Reserve Deck; reshuffle. LOST: During battle, if non-[Episode I] Obi-Wan with a Dark Jedi (or 'communing'), add one battle destiny.",
@@ -64179,7 +64100,6 @@
           "Exterior",
           "Planet",
           "Episode I",
-          "Set 17",
           "Set 17"
         ],
         "lightSideIcons": 2,
@@ -64227,7 +64147,6 @@
           "Planet",
           "Episode I",
           "Tatooine",
-          "Set 17",
           "Set 17"
         ],
         "lightSideIcons": 2,
@@ -64264,7 +64183,6 @@
         "destiny": "3",
         "icons": [
           "Episode VII",
-          "Set 17",
           "Set 17"
         ],
         "gametext": "USED: Move your [Episode VII] Jedi as a 'react.' STARTING: If The Galaxy May Need A Legend on table, deploy Be With Me and up to two Effects that deploy on table, deploy for free, and are always immune to Alter. Place Interrupt in Lost Pile.",
@@ -64304,7 +64222,6 @@
           "Episode I",
           "Death Star II",
           "Episode VII",
-          "Set 17",
           "Set 17"
         ],
         "gametext": "Deploy on table (only at start of game) and choose (reveal corresponding characters from Reserve Deck): My Father Has It: Anakin (and [Episode I] Obi-Wan) I Have It: [Reflections II] Luke (and [Set 1] Obi-Wan) You Have That Power, Too: Rey (and [Episode VII] Luke) Your total Force generation is +1. You may not deploy non-battleground locations (except Saddle and huts) or Jedi (except Yoda and the revealed cards). If you just initiated battle involving a Skywalker (or if opponent's Sidious just lost from table), may retrieve 1 Force."
@@ -64341,7 +64258,6 @@
         "destiny": "5",
         "icons": [
           "Skywalker",
-          "Set 17",
           "Set 17"
         ],
         "gametext": "LOST: Peek at the cards in your Force Pile. STARTING: If your starting location was a [Skywalker] site, deploy The Force Is Strong In My Family and two Effects that deploy for free and are always immune to Alter. Place Interrupt in Reserve Deck.",
@@ -64378,7 +64294,6 @@
         "destiny": "4",
         "icons": [
           "Episode I",
-          "Set 17",
           "Set 17"
         ],
         "gametext": "Deploy on Slave Quarters. Once per turn, may deploy Anakin's Lightsaber from Reserve Deck; reshuffle (or lose 1 Force to deploy it from Lost Pile). If Anakin just drawn for destiny, may take him into hand to cancel and cause a re-draw. (Immune to Alter.)",
