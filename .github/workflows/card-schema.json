@@ -1,0 +1,216 @@
+{
+  "title": "SWCCG Card JSON Schema",
+  "type": "object",
+  "properties": {
+    "cards": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/card"
+      }
+    }
+  },
+  "$defs": {
+    "card": {
+      "type": "object",
+      "properties": {
+        "abbr": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "back": {
+          "type": "object",
+          "items": {
+            "$ref": "#/$defs/cardFace"
+          }
+        },
+        "canceledBy": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "cancels": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "combo": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "conceptBy": {
+          "type": "string"
+        },
+        "counterpart": {
+          "type": "string"
+        },
+        "front": {
+          "type": "object",
+          "items": {
+            "$ref": "#/$defs/cardFace"
+          }
+        },
+        "gempId": {
+          "type": "string"
+        },
+        "id": {
+          "type": "integer"
+        },
+        "legacy": {
+          "type": "boolean"
+        },
+        "matching": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "matchingWeapon": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "printings": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/printing"
+          }
+        },
+        "pulledBy": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "pulls": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "rarity": {
+          "type": "string"
+        },
+        "rulings": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "set": {
+          "type": "string"
+        },
+        "side": {
+          "type": "string"
+        },
+        "sourceType": {
+          "type": "string"
+        }
+      }
+    },
+    "printing": {
+      "type": "object",
+      "properties": {
+        "set": "string"
+      }
+    },
+    "cardFace": {
+      "type": "object",
+      "properties": {
+        "ability": {
+          "type": "string"
+        },
+        "armor": {
+          "type": "string"
+        },
+        "characteristics": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "darkSideIcons": {
+          "type": "integer"
+        },
+        "deploy": {
+          "type": "string"
+        },
+        "destiny": {
+          "type": "string"
+        },
+        "destinyValues": {
+          "type": "array",
+          "items": {
+            "type": "number"
+          }
+        },
+        "extraText": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "ferocity": {
+          "type": "string"
+        },
+        "forfeit": {
+          "type": "string"
+        },
+        "gametext": {
+          "type": "string"
+        },
+        "hyperspeed": {
+          "type": "string"
+        },
+        "icons": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "imageUrl": {
+          "type": "string"
+        },
+        "landspeed": {
+          "type": "string"
+        },
+        "lightSideIcons": {
+          "type": "integer"
+        },
+        "lore": {
+          "type": "string"
+        },
+        "maneuver": {
+          "type": "string"
+        },
+        "parsec": {
+          "type": "string"
+        },
+        "politics": {
+          "type": "string"
+        },
+        "power": {
+          "type": "string"
+        },
+        "subType": {
+          "type": "string"
+        },
+        "title": {
+          "type": "string"
+        },
+        "type": {
+          "type": "string"
+        },
+        "uniqueness": {
+          "type": "string"
+        }
+      }
+    }
+  }
+}
