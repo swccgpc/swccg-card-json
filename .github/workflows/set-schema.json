@@ -1,0 +1,23 @@
+{
+  "title": "SWCCG Set JSON Schema",
+  "type": "array",
+  "items": {
+    "$ref": "#/$defs/set"
+  },
+  "$defs": {
+    "set": {
+      "type": "object",
+      "properties": {
+        "id": "string",
+        "name": "string",
+        "gempName": "string",
+        "abbr": "string",
+        "legacy": "boolean",
+        "cycle_code": "string",
+        "date_release": "string",
+        "position": "integer",
+        "size": "integer"
+      }
+    }
+  }
+}
