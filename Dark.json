@@ -356,6 +356,9 @@
         "Double Back (V)"
       ],
       "rarity": "PM",
+      "rulings": [
+        "This weapon is not a blaster."
+      ],
       "set": "109",
       "side": "Dark"
     },
@@ -405,6 +408,9 @@
         "Double Back (V)"
       ],
       "rarity": "PM",
+      "rulings": [
+        "This weapon is not a blaster."
+      ],
       "set": "200",
       "side": "Dark"
     },
@@ -441,6 +447,9 @@
         "Any Methods Necessary (V)"
       ],
       "rarity": "R",
+      "rulings": [
+        "This weapon is not a blaster."
+      ],
       "set": "4",
       "side": "Dark"
     },
@@ -514,6 +523,10 @@
         }
       ],
       "rarity": "R1",
+      "rulings": [
+        "The values listed are ranges, for example a destiny of 5.5 fulfills the 4-6 range.",
+        "If a draw doesn't fit any range (such as a draw of 0.5), no result."
+      ],
       "set": "200",
       "side": "Dark"
     },
@@ -635,6 +648,9 @@
       "side": "Dark"
     },
     {
+      "abbr": [
+        "ADLR"
+      ],
       "counterpart": "Down With The Emperor",
       "front": {
         "destiny": "6",
@@ -665,6 +681,9 @@
       "side": "Dark"
     },
     {
+      "abbr": [
+        "ADLR(V)"
+      ],
       "counterpart": "Down With The Emperor (V)",
       "front": {
         "destiny": "6",
@@ -847,9 +866,8 @@
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual5-Dark/large/atrophysacrificed.gif",
         "lore": "Jabba's minions could be expected to be sacrificed to save the Hutt, to destroy one of the Hutts enemies or to provide the Hutt and his minions with a good laugh.",
         "subType": "Used Or Lost",
-        "title": "•A Trophy Sacrificed",
-        "type": "Interrupt",
-        "uniqueness": "*"
+        "title": "A Trophy Sacrificed",
+        "type": "Interrupt"
       },
       "gempId": "205_19",
       "id": 5121,
@@ -1979,11 +1997,9 @@
         }
       ],
       "pulledBy": [
-        "Corporal Vandolay (V)",
         "Fanfare",
         "Fanfare - Defensive Shield",
         "Fanfare (V) - Defensive Shield",
-        "I'll Take Them Myself (V)",
         "Twi'lek Advisor",
         "We Must Accelerate Our Plans"
       ],
@@ -2094,11 +2110,9 @@
         }
       ],
       "pulledBy": [
-        "Corporal Vandolay (V)",
         "Fanfare",
         "Fanfare - Defensive Shield",
         "Fanfare (V) - Defensive Shield",
-        "I'll Take Them Myself (V)",
         "Twi'lek Advisor",
         "We Must Accelerate Our Plans"
       ],
@@ -3013,7 +3027,9 @@
       ],
       "rarity": "PM",
       "rulings": [
-        "If Arica breaks cover at Luke's site and There Is Good In Him on table, Luke is captured before Arica fires her weapon."
+        "If Arica breaks cover at Luke's site and There Is Good In Him on table, Luke is captured before Arica fires her weapon.",
+        "May persona replace DS Mara only at a site (Arica still goes Undercover).",
+        "May be persona replaced (will no longer be Undercover)."
       ],
       "set": "10",
       "side": "Dark"
@@ -6936,6 +6952,10 @@
         }
       ],
       "rarity": "U",
+      "rulings": [
+        "The values listed are ranges, for example a destiny of 3.5 fulfills the 3-4 range.",
+        "If a draw doesn't fit any range (such as a draw of 2.5), no result."
+      ],
       "set": "14",
       "side": "Dark"
     },
@@ -7467,11 +7487,9 @@
         }
       ],
       "pulledBy": [
-        "Corporal Vandolay (V)",
         "Fanfare",
         "Fanfare - Defensive Shield",
         "Fanfare (V) - Defensive Shield",
-        "I'll Take Them Myself (V)",
         "Twi'lek Advisor",
         "We Must Accelerate Our Plans"
       ],
@@ -8932,6 +8950,9 @@
         }
       ],
       "rarity": "U",
+      "rulings": [
+        "The phrase 'on Cloud City' means at a Cloud City site, not the Bespin: Cloud City sector."
+      ],
       "set": "7",
       "side": "Dark"
     },
@@ -9205,6 +9226,9 @@
         }
       ],
       "rarity": "U",
+      "rulings": [
+        "The phrase 'on Cloud City' means at a Cloud City site, not the Bespin: Cloud City sector."
+      ],
       "set": "5",
       "side": "Dark"
     },
@@ -9243,6 +9267,9 @@
         }
       ],
       "rarity": "C",
+      "rulings": [
+        "The phrase 'on Cloud City' means at a Cloud City site, not the Bespin: Cloud City sector."
+      ],
       "set": "5",
       "side": "Dark"
     },
@@ -12496,9 +12523,8 @@
         "imageUrl": "https://res.starwarsccg.org/cards/SpecialEdition-Dark/large/countersurpriseassault.gif",
         "lore": "'He certainly has courage.' 'What good will it do us if he gets himself killed?'",
         "subType": "Lost",
-        "title": "•Counter Surprise Assault",
-        "type": "Interrupt",
-        "uniqueness": "*"
+        "title": "Counter Surprise Assault",
+        "type": "Interrupt"
       },
       "gempId": "7_249",
       "id": 576,
@@ -13363,9 +13389,6 @@
         "Herat"
       ],
       "rarity": "R",
-      "rulings": [
-        "Restraining bolt can be deployed to a different location."
-      ],
       "set": "11",
       "side": "Dark"
     },
@@ -13412,7 +13435,8 @@
       ],
       "rarity": "R",
       "rulings": [
-        "If deployed at the start of the game using the text on 'You Can Either Profit By This...', may deploy a droid (the droid is free)."
+        "If deployed at the start of the game using the text on 'You Can Either Profit By This...', may deploy a droid (the droid is free).",
+        "Restraining bolt can be deployed to a different location."
       ],
       "set": "202",
       "side": "Dark"
@@ -16034,11 +16058,9 @@
         }
       ],
       "pulledBy": [
-        "Corporal Vandolay (V)",
         "Fanfare",
         "Fanfare - Defensive Shield",
         "Fanfare (V) - Defensive Shield",
-        "I'll Take Them Myself (V)",
         "Twi'lek Advisor",
         "We Must Accelerate Our Plans"
       ],
@@ -16451,9 +16473,8 @@
         "lore": "'Garbage squid' from Vodran's jungles. Changes color to match last meal. When unfed, turns transparent. Eats almost anything. Flexible eyestalk. 7 tentacles. Up to 6 meters long.",
         "power": "*",
         "subType": "Swamp",
-        "title": "•Dianoga",
-        "type": "Creature",
-        "uniqueness": "*"
+        "title": "Dianoga",
+        "type": "Creature"
       },
       "gempId": "2_110",
       "id": 729,
@@ -16750,7 +16771,8 @@
         "Reducing retrieval reduces X on Secret Plans.",
         "Retrieving a specific card can be reduced from 1 card retrieved to 0.",
         "Code Clearance can stack an Interrupt before This Place Can Be A Little Rough can place it out of play.",
-        "Outrider places Utinni Effects out of play before Code Clearance can stack."
+        "Outrider places Utinni Effects out of play before Code Clearance can stack.",
+        "DS cards such as You Swindled Me! may be stacked."
       ],
       "set": "12",
       "side": "Dark"
@@ -16783,7 +16805,8 @@
         "Reducing retrieval reduces X on Secret Plans.",
         "Retrieving a specific card can be reduced from 1 card retrieved to 0.",
         "Code Clearance can stack an Interrupt before This Place Can Be A Little Rough can place it out of play.",
-        "Outrider places Utinni Effects out of play before Code Clearance can stack."
+        "Outrider places Utinni Effects out of play before Code Clearance can stack.",
+        "DS cards such as You Swindled Me! may be stacked."
       ],
       "set": "13",
       "side": "Dark"
@@ -16894,6 +16917,10 @@
         }
       ],
       "rarity": "C",
+      "rulings": [
+        "The values listed are ranges, for example a draw of 3.5 fulfills the 3-4 range.",
+        "If a draw doesn't fit any range (such as a draw of 2.5), no result."
+      ],
       "set": "8",
       "side": "Dark"
     },
@@ -19431,11 +19458,9 @@
         }
       ],
       "pulledBy": [
-        "Corporal Vandolay (V)",
         "Fanfare",
         "Fanfare - Defensive Shield",
         "Fanfare (V) - Defensive Shield",
-        "I'll Take Them Myself (V)",
         "Twi'lek Advisor",
         "We Must Accelerate Our Plans"
       ],
@@ -19501,11 +19526,9 @@
         }
       ],
       "pulledBy": [
-        "Corporal Vandolay (V)",
         "Fanfare",
         "Fanfare - Defensive Shield",
         "Fanfare (V) - Defensive Shield",
-        "I'll Take Them Myself (V)",
         "Twi'lek Advisor",
         "We Must Accelerate Our Plans"
       ],
@@ -21916,11 +21939,9 @@
         }
       ],
       "pulledBy": [
-        "Corporal Vandolay (V)",
         "Fanfare",
         "Fanfare - Defensive Shield",
         "Fanfare (V) - Defensive Shield",
-        "I'll Take Them Myself (V)",
         "Twi'lek Advisor",
         "We Must Accelerate Our Plans"
       ],
@@ -23844,7 +23865,9 @@
       ],
       "rarity": "U",
       "rulings": [
-        "The text 'Mandalorian Armor' refers only to the device with that exact card title, not to lore."
+        "The text 'Mandalorian Armor' refers only to the device with that exact card title, not to lore.",
+        "The values listed are ranges, for example a destiny draw of 2.5 fulfills the 2-3 range.",
+        "If a draw doesn't fit any range (such as a draw of 5.5), no result."
       ],
       "set": "6",
       "side": "Dark"
@@ -23872,11 +23895,9 @@
         }
       ],
       "pulledBy": [
-        "Corporal Vandolay (V)",
         "Fanfare",
         "Fanfare - Defensive Shield",
         "Fanfare (V) - Defensive Shield",
-        "I'll Take Them Myself (V)",
         "Twi'lek Advisor",
         "We Must Accelerate Our Plans"
       ],
@@ -24860,11 +24881,9 @@
         }
       ],
       "pulledBy": [
-        "Corporal Vandolay (V)",
         "Fanfare",
         "Fanfare - Defensive Shield",
         "Fanfare (V) - Defensive Shield",
-        "I'll Take Them Myself (V)",
         "Twi'lek Advisor",
         "We Must Accelerate Our Plans",
         "You Are Beaten"
@@ -26435,6 +26454,7 @@
       "side": "Dark"
     },
     {
+      "counterpart": "Goldenrod",
       "front": {
         "destiny": "0",
         "gametext": "Plays on table. For opponent to deploy a character, starship, or vehicle for free (except by that card's own game text), opponent must first use 2 Force.",
@@ -26445,7 +26465,7 @@
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/ResetDS-Dark/large/imperialdetention.gif",
         "lore": "Blank.",
-        "title": "•Imperial Detention (V)",
+        "title": "•Imperial Detention",
         "type": "Defensive Shield",
         "uniqueness": "*"
       },
@@ -26461,6 +26481,9 @@
         }
       ],
       "rarity": "C",
+      "rulings": [
+        "A card that deploys for 0 such as Kal'Falnl C'ndros is not the same as 'free' and thus doesn't trigger this card."
+      ],
       "set": "200d",
       "side": "Dark",
       "sourceType": "effect"
@@ -26836,11 +26859,9 @@
         }
       ],
       "pulledBy": [
-        "Corporal Vandolay (V)",
         "Fanfare",
         "Fanfare - Defensive Shield",
         "Fanfare (V) - Defensive Shield",
-        "I'll Take Them Myself (V)",
         "Twi'lek Advisor",
         "We Must Accelerate Our Plans",
         "Well-earned Command"
@@ -30934,6 +30955,9 @@
         "Cloud City: Security Tower"
       ],
       "rarity": "R",
+      "rulings": [
+        "The phrase 'on Cloud City' means at a Cloud City site, not the Bespin: Cloud City sector."
+      ],
       "set": "5",
       "side": "Dark"
     },
@@ -32111,9 +32135,8 @@
         "lore": "Powerful magnetic fields in the Lobel physiology make the operation of nearby navigation devices impossible. Pilots claim these fields also produce headaches.",
         "power": "2",
         "subType": "Alien",
-        "title": "•Lobel",
-        "type": "Character",
-        "uniqueness": "*"
+        "title": "Lobel",
+        "type": "Character"
       },
       "gempId": "7_186",
       "id": 1560,
@@ -32158,6 +32181,9 @@
         "A Real Hero"
       ],
       "rarity": "R",
+      "rulings": [
+        "The phrase 'on Cloud City' means at a Cloud City site, not the Bespin: Cloud City sector."
+      ],
       "set": "7",
       "side": "Dark"
     },
@@ -32883,6 +32909,9 @@
         "Ak-rev"
       ],
       "rarity": "U",
+      "rulings": [
+        "This character is female."
+      ],
       "set": "7",
       "side": "Dark"
     },
@@ -34669,11 +34698,9 @@
         }
       ],
       "pulledBy": [
-        "Corporal Vandolay (V)",
         "Fanfare",
         "Fanfare - Defensive Shield",
         "Fanfare (V) - Defensive Shield",
-        "I'll Take Them Myself (V)",
         "Twi'lek Advisor",
         "We Must Accelerate Our Plans"
       ],
@@ -34787,11 +34814,9 @@
         }
       ],
       "pulledBy": [
-        "Corporal Vandolay (V)",
         "Fanfare",
         "Fanfare - Defensive Shield",
         "Fanfare (V) - Defensive Shield",
-        "I'll Take Them Myself (V)",
         "Twi'lek Advisor",
         "We Must Accelerate Our Plans"
       ],
@@ -38540,6 +38565,9 @@
         "You Cannot Hide Forever & Mobilization Points"
       ],
       "rarity": "U",
+      "rulings": [
+        "Works with permanent weapon blasters (e.g. Boba Fett With Blaster Rifle)."
+      ],
       "set": "8",
       "side": "Dark"
     },
@@ -39062,9 +39090,8 @@
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/Dagobah-Dark/large/precisiontargeting.gif",
         "lore": "'Sir, we just lost the main rear deflector shield. One more direct hit on the back quarter and we're done for!'",
-        "title": "•Precision Targeting",
-        "type": "Effect",
-        "uniqueness": "*"
+        "title": "Precision Targeting",
+        "type": "Effect"
       },
       "gempId": "4_129",
       "id": 1934,
@@ -39265,11 +39292,9 @@
       ],
       "pulledBy": [
         "Black 2 (V)",
-        "Corporal Vandolay (V)",
         "Fanfare",
         "Fanfare - Defensive Shield",
         "Fanfare (V) - Defensive Shield",
-        "I'll Take Them Myself (V)",
         "Twi'lek Advisor",
         "We Must Accelerate Our Plans"
       ],
@@ -39809,11 +39834,9 @@
         }
       ],
       "pulledBy": [
-        "Corporal Vandolay (V)",
         "Fanfare",
         "Fanfare - Defensive Shield",
         "Fanfare (V) - Defensive Shield",
-        "I'll Take Them Myself (V)",
         "Twi'lek Advisor",
         "We Must Accelerate Our Plans"
       ],
@@ -41019,6 +41042,9 @@
         }
       ],
       "rarity": "C2",
+      "rulings": [
+        "May not be deployed on an opponent's Undercover spy."
+      ],
       "set": "1",
       "side": "Dark"
     },
@@ -41462,7 +41488,7 @@
         "deploy": "2",
         "destiny": "3",
         "forfeit": "3",
-        "gametext": "Once per game, may take Jawa Blaster or a card with 'sandcrawler' in title or gametext into hand from Reserve Deck; reshuffle. During opponent's turn, if present at a Tatooine battleground and there is more than 1 Force in opponent's Force Pile, you may use 1 Force in opponent's Force Pile.",
+        "gametext": "Once per game, may take Jawa Blaster or a card with 'sandcrawler' in title or game text into hand from Reserve Deck; reshuffle. During opponent's turn, if present at a Tatooine battleground and there is more than 1 Force in opponent's Force Pile, you may use 1 Force in opponent's Force Pile.",
         "icons": [
           "Set 0"
         ],
@@ -41656,6 +41682,10 @@
         "Coruscant: Imperial City (V)"
       ],
       "rarity": "R",
+      "rulings": [
+        "May respond to her own deployment.",
+        "This character is female."
+      ],
       "set": "7",
       "side": "Dark"
     },
@@ -43493,6 +43523,9 @@
         "Admiral Piett"
       ],
       "rarity": "U",
+      "rulings": [
+        "The phrase 'on Cloud City' means at a Cloud City site, not the Bespin: Cloud City sector."
+      ],
       "set": "7",
       "side": "Dark"
     },
@@ -44800,6 +44833,9 @@
         }
       ],
       "rarity": "R",
+      "rulings": [
+        "The phrase 'on Cloud City' means at a Cloud City site, not the Bespin: Cloud City sector."
+      ],
       "set": "5",
       "side": "Dark"
     },
@@ -45060,7 +45096,7 @@
           "set": "4"
         }
       ],
-      "rarity": "C",
+      "rarity": "U",
       "set": "4",
       "side": "Dark"
     },
@@ -45425,7 +45461,7 @@
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual7-Dark/large/specterofthesupremeleader.gif",
         "lore": "Hologram.",
-        "title": "•Specter of the Supreme Leader",
+        "title": "•Specter Of The Supreme Leader",
         "type": "Effect",
         "uniqueness": "*"
       },
@@ -45541,7 +45577,6 @@
       ],
       "pulledBy": [
         "Corporal Vandolay",
-        "Corporal Vandolay (V)",
         "Spice Mine Operations (V)",
         "Twi'lek Advisor",
         "We Must Accelerate Our Plans"
@@ -48562,6 +48597,9 @@
         }
       ],
       "rarity": "R",
+      "rulings": [
+        "This character is female."
+      ],
       "set": "12",
       "side": "Dark"
     },
@@ -49086,7 +49124,6 @@
         "Fanfare",
         "Fanfare - Defensive Shield",
         "Fanfare (V) - Defensive Shield",
-        "I'll Take Them Myself (V)",
         "Twi'lek Advisor",
         "We Must Accelerate Our Plans"
       ],
@@ -49746,7 +49783,7 @@
     {
       "front": {
         "destiny": "4",
-        "gametext": "USED: If your Imperial of ability > 2 just won a battle, randomly take into hand one card stacked on I Can Feel The Conflict. (Immune to Sense.)  LOST: If Vader in battle, subtract 2 from each of opponent's battle destiny draws.",
+        "gametext": "USED: If your Imperial of ability > 2 just won a battle, randomly take into hand one card stacked on I Feel The Conflict. (Immune to Sense.)  LOST: If Vader in battle, subtract 2 from each of opponent's battle destiny draws.",
         "icons": [
           "Tatooine"
         ],
@@ -51696,6 +51733,9 @@
         }
       ],
       "rarity": "U",
+      "rulings": [
+        "The phrase 'on Cloud City' means at a Cloud City site, not the Bespin: Cloud City sector."
+      ],
       "set": "5",
       "side": "Dark"
     },
@@ -52383,7 +52423,10 @@
         "Twi'lek Advisor",
         "We Must Accelerate Our Plans"
       ],
-      "rarity": "C2",
+      "rarity": "U2",
+      "rulings": [
+        "If the character is persona replaced by a non-spy version, Undercover is lost and the character ceases to be Undercover."
+      ],
       "set": "2",
       "side": "Dark"
     },
@@ -56184,6 +56227,11 @@
         }
       ],
       "rarity": "U",
+      "rulings": [
+        "To initiate this Interrupt, each player needs at least 1 card in Reserve Deck.",
+        "Empty Lost Piles do not prevent playing this Interrupt.",
+        "If the activation option is chosen, each player may still decline to activate anything."
+      ],
       "set": "208",
       "side": "Dark"
     },
@@ -58452,7 +58500,8 @@
       "rulings": [
         "Modifiers to 'Star Destroyers' apply twice (e.g. Admiral Motti V adds 4 power instead of 2, The Ultimate Power In The Universe subtracts 4 from deploy instead of 2).",
         "Responses to deploying a Star Destroyer only occur once (e.g. A Million Voices Crying Out retrieves 3, not 6).",
-        "As a general rule, works with actions that target one 'starship' but not cards that target one 'Star Destroyer' (e.g. cannot be deployed by Commander Nemet (V) or moved by On The Verge Of Greatness)."
+        "Works with actions that deploy/move one 'starship' but not cards that deploy/move one 'Star Destroyer' (e.g. cannot be deployed by Commander Nemet (V) or moved by On The Verge Of Greatness).",
+        "Works with other actions that target (not deploy/move) a Star Destroyer, such as Apology Accepted (V)."
       ],
       "set": "214",
       "side": "Dark"
@@ -58767,7 +58816,6 @@
         "destiny": "2",
         "gametext": "Reveal a lightsaber from hand to take a matching Dark Jedi or Sith into hand from Reserve Deck (or vice versa); reshuffle. OR Once per game, cancel the game text of an opponent's non-Jedi character present with your Dark Jedi or Inquisitor for remainder of turn.",
         "icons": [
-          "Episode I",
           "Set 16"
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual16-Dark/large/asithlegend.gif",
@@ -58828,7 +58876,8 @@
         "Rep is defined by My Kind Of Scum.",
         "This card has the Rep's species in all card states, including while in hand, Reserve Deck, etc.",
         "This card has the Rep's species even while its gametext is canceled.",
-        "When retrieving multiple Force, the once per turn action may respond to any one individual unit of retrieved Force."
+        "When retrieving multiple Force, the once per turn action may respond to any one individual unit of retrieved Force.",
+        "This card is non-unique and counts as a non-unique alien of your Rep's species for flipping My Kind Of Scum."
       ],
       "set": "216",
       "side": "Dark"
@@ -60010,6 +60059,7 @@
       ],
       "rarity": "U",
       "rulings": [
+        "Cannot use Hidden Weapons.",
         "Note the second sentence looks for your Mandalorian, but the third sentence looks for any Mandalorian."
       ],
       "set": "217",
@@ -60142,7 +60192,8 @@
       "rarity": "R",
       "rulings": [
         "May be deployed even if opponent's Lando is also on table, and vice versa.",
-        "Cards that target Lando (without specifying whose) may target either player's Lando."
+        "Cards that target Lando (without specifying whose) may target either player's Lando.",
+        "The phrase 'on Cloud City' means at a Cloud City site, not the Bespin: Cloud City sector."
       ],
       "set": "217",
       "side": "Dark"
