@@ -223,6 +223,9 @@
         "We Wish To Board At Once"
       ],
       "rarity": "U",
+      "rulings": [
+        "If the droid is persona replaced, A Gift transfers to the new version, who remains an Undercover spy."
+      ],
       "set": "6",
       "side": "Light"
     },
@@ -1177,7 +1180,8 @@
       "rarity": "C",
       "rulings": [
         "Is not a Rogue Squadron pilot.",
-        "Still becomes a Rogue Squadron pilot while piloting a Rogue starship or vehicle."
+        "Still becomes a Rogue Squadron pilot while piloting a Rogue starship or vehicle such as Rogue One.",
+        "Is a matching pilot for Rogue One."
       ],
       "set": "209",
       "side": "Light"
@@ -5176,7 +5180,9 @@
       ],
       "rarity": "U2",
       "rulings": [
-        "Activating Force is the result, not part of initiation."
+        "To initiate this Interrupt, each player needs at least 1 card in Reserve Deck.",
+        "Activating Force is the result, not part of initiation.",
+        "The combo card Owen Lars & Beru Lars is only counted once towards the bonus activation."
       ],
       "set": "1",
       "side": "Light"
@@ -6018,9 +6024,7 @@
       "id": 5146,
       "legacy": false,
       "matching": [
-        "Rogue One",
-        "Stolen First Order TIE",
-        "Tydirium"
+        "Rogue One"
       ],
       "printings": [
         {
@@ -6549,6 +6553,10 @@
         "Seeking An Audience (V)"
       ],
       "rarity": "PM",
+      "rulings": [
+        "May persona replace Leia only at a site (Boushh still goes Undercover).",
+        "May be persona replaced (will no longer be Undercover)."
+      ],
       "set": "110",
       "side": "Light"
     },
@@ -9579,6 +9587,9 @@
         }
       ],
       "rarity": "U",
+      "rulings": [
+        "The phrase 'on Cloud City' means at a Cloud City site, not the Bespin: Cloud City sector."
+      ],
       "set": "5",
       "side": "Light"
     },
@@ -9659,6 +9670,9 @@
         "Nar Shaddaa Wind Chimes & Out Of Somewhere"
       ],
       "rarity": "C",
+      "rulings": [
+        "The phrase 'on Cloud City' means at a Cloud City site, not the Bespin: Cloud City sector."
+      ],
       "set": "5",
       "side": "Light"
     },
@@ -10692,6 +10706,9 @@
         "Yavin 4: Massassi War Room (V)"
       ],
       "rarity": "U",
+      "rulings": [
+        "May respond to his own deployment."
+      ],
       "set": "200",
       "side": "Light"
     },
@@ -13325,7 +13342,6 @@
         "gametext": "May add 1 pilot. Permanent pilot is •Dash, who provides ability of 3. During battle, if with another T-47 and about to draw battle destiny, may draw two and choose one. Immune to attrition < 4.",
         "icons": [
           "Pilot",
-          "Hoth",
           "Set 1"
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual1-Light/large/dashinrogue12.gif",
@@ -13462,7 +13478,7 @@
           "Force-Sensitive"
         ],
         "forfeit": "8",
-        "gametext": "Deploys -3 on Tydirium, Endor or Dagobah. May be deployed instead of Luke by Mind What You Have Learned (that card then targets Leia instead of Luke for remainder of game). While at any exterior site, adds one Light side icon. Immune to attrition < 4.",
+        "gametext": "Deploys -3 on Tydirium, Endor or Dagobah. May be targeted instead of Luke by Mind What You Have Learned (that card then targets Leia instead of Luke for remainder of game). While at any exterior site, adds one [Light side] icon. Immune to attrition < 4.",
         "icons": [
           "Pilot",
           "Warrior",
@@ -13501,6 +13517,11 @@
         "Yavin 4: Massassi War Room (V)"
       ],
       "rarity": "R",
+      "rulings": [
+        "If searching Reserve Deck with Mind What You Have Learned, may be deployed instead of Luke (thus retargeting the Objective to Leia for remainder of game).",
+        "If on table and Mind What You Have Learned currently targeting Luke, may (as a top-level action) retarget the Objective to Leia for remainder of game.",
+        "Both sides of the Objective are retargeted to Leia instead of Luke."
+      ],
       "set": "8",
       "side": "Light"
     },
@@ -14885,7 +14906,7 @@
         "Dagobah: Training Area",
         "Dagobah (V)"
       ],
-      "rarity": "C",
+      "rarity": "U",
       "set": "4",
       "side": "Light"
     },
@@ -15295,6 +15316,9 @@
       "side": "Light"
     },
     {
+      "abbr": [
+        "DWTE"
+      ],
       "counterpart": "A Day Long Remembered",
       "front": {
         "destiny": "6",
@@ -15326,6 +15350,9 @@
       "side": "Light"
     },
     {
+      "abbr": [
+        "DWTE(V)"
+      ],
       "counterpart": "A Day Long Remembered (V)",
       "front": {
         "destiny": "6",
@@ -15498,7 +15525,7 @@
         "Hero Of A Thousand Devices",
         "Portable Scanner"
       ],
-      "rarity": "U",
+      "rarity": "C",
       "set": "4",
       "side": "Light"
     },
@@ -16015,8 +16042,9 @@
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual9-Light/large/effectiverepairsstarshiplevitation.gif",
         "subType": "Used Or Lost",
-        "title": "Effective Repairs & Starship Levitation",
-        "type": "Interrupt"
+        "title": "•Effective Repairs & •Starship Levitation",
+        "type": "Interrupt",
+        "uniqueness": "*"
       },
       "gempId": "209_19",
       "id": 5503,
@@ -16133,6 +16161,11 @@
         }
       ],
       "rarity": "U",
+      "rulings": [
+        "To initiate this Interrupt, each player needs at least 1 card in Reserve Deck.",
+        "Empty Lost Piles do not prevent playing this Interrupt.",
+        "If the activation option is chosen, each player may still decline to activate anything."
+      ],
       "set": "11",
       "side": "Light"
     },
@@ -17856,8 +17889,7 @@
         "imageUrl": "https://res.starwarsccg.org/cards/Premiere-Light/large/eyesinthedark.gif",
         "lore": "'I don't like the look of this.'",
         "title": "•Eyes In The Dark",
-        "type": "Effect",
-        "uniqueness": "*"
+        "type": "Effect"
       },
       "gempId": "1_50",
       "id": 917,
@@ -20109,7 +20141,7 @@
         "Target's ability toward drawing destiny"
       ],
       "combo": [
-        "Ghoel + Affect Mind Ghoel makes Affect Mind much more useful, as the removal of up to six ability, plus two from Affect Mind, can total eight ability away from battle destiny, a significant amount, especially if your opponent is relying on Vader."
+        "Ghoel + Affect Mind - For example, use Ghoel to neutralize a 5-ability character, and neutralize 2 more ability with Affect Mind. This would deprive Dark of seven ability being used towards battle destiny."
       ],
       "front": {
         "ability": "2",
@@ -20812,6 +20844,9 @@
         }
       ],
       "rarity": "R",
+      "rulings": [
+        "A card that deploys for 0 such as Admiral Ozzel is not the same as 'free' and thus doesn't trigger this card."
+      ],
       "set": "200d",
       "side": "Light",
       "sourceType": "effect"
@@ -21655,6 +21690,9 @@
         "Lando Calrissian (V)"
       ],
       "rarity": "U",
+      "rulings": [
+        "The phrase 'on Cloud City' means at a Cloud City site, not the Bespin: Cloud City sector."
+      ],
       "set": "11",
       "side": "Light"
     },
@@ -24350,6 +24388,9 @@
       "side": "Light"
     },
     {
+      "abbr": [
+        "IHSAR"
+      ],
       "counterpart": "Search And Destroy",
       "front": {
         "destiny": "3",
@@ -29027,6 +29068,9 @@
         "Soth Petikkin (when at a Jabba's Palace site you control)"
       ],
       "rarity": "PM",
+      "rulings": [
+        "The phrase 'on Cloud City' means at a Cloud City site, not the Bespin: Cloud City sector."
+      ],
       "set": "109",
       "side": "Light"
     },
@@ -29154,6 +29198,9 @@
         "We Wish To Board At Once"
       ],
       "rarity": "PM",
+      "rulings": [
+        "The phrase 'on Cloud City' means at a Cloud City site, not the Bespin: Cloud City sector."
+      ],
       "set": "13",
       "side": "Light"
     },
@@ -29325,6 +29372,9 @@
         }
       ],
       "rarity": "R2",
+      "rulings": [
+        "This character is female."
+      ],
       "set": "1",
       "side": "Light"
     },
@@ -31395,6 +31445,9 @@
         "Why Does Everyone Want To Go Back To Jakku?!"
       ],
       "rarity": "C1",
+      "rulings": [
+        "May respond to his own deployment."
+      ],
       "set": "204",
       "side": "Light"
     },
@@ -31754,6 +31807,7 @@
         "icons": [
           "Pilot",
           "Warrior",
+          "Death Star II",
           "Reflections II"
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/ReflectionsII-Light/large/lukeskywalkerrebelscout.gif",
@@ -31854,6 +31908,12 @@
       "side": "Light"
     },
     {
+      "abbr": [
+        "Grumpy Luke",
+        "Old Man Luke",
+        "Luke TLJ",
+        "LSTLJ"
+      ],
       "front": {
         "ability": "7",
         "deploy": "5",
@@ -32110,6 +32170,9 @@
         "Any Interrupt from Lost Pile (exchange with card from hand)"
       ],
       "rarity": "R",
+      "rulings": [
+        "May deploy on a Luke that does not have any immunity to attrition."
+      ],
       "set": "200",
       "side": "Light"
     },
@@ -40506,14 +40569,14 @@
         "Rebel Squad Leader",
         "Rebel Tech",
         "Rebel Trooper",
-        "Rebel Trooper (V)",
         "Rebel Trooper Recruit",
         "Rogue Gunner",
-        "Tauntaun Handler",
-        "Tibrin Operative",
-        "Veteran Rogue (V)"
+        "Tauntaun Handler"
       ],
       "rarity": "R",
+      "rulings": [
+        "The phrase 'on Cloud City' means at a Cloud City site, not the Bespin: Cloud City sector."
+      ],
       "set": "6",
       "side": "Light"
     },
@@ -41265,6 +41328,9 @@
         }
       ],
       "rarity": "PM",
+      "rulings": [
+        "The phrase 'on Cloud City' means at a Cloud City site, not the Bespin: Cloud City sector."
+      ],
       "set": "109",
       "side": "Light"
     },
@@ -41491,6 +41557,10 @@
         "Seeking An Audience (V)"
       ],
       "rarity": "R2",
+      "rulings": [
+        "The values listed are ranges, for example a destiny of 5.5 fulfills the 4-6 range.",
+        "If a draw doesn't fit any range, such as Brainiac (3.14), no result."
+      ],
       "set": "2",
       "side": "Light"
     },
@@ -44470,6 +44540,9 @@
         "Portable Scanner"
       ],
       "rarity": "C2",
+      "rulings": [
+        "May not be deployed on an opponent's Undercover spy."
+      ],
       "set": "1",
       "side": "Light"
     },
@@ -45371,7 +45444,7 @@
           "set": "2"
         }
       ],
-      "rarity": "C1",
+      "rarity": "U1",
       "set": "2",
       "side": "Light"
     },
@@ -47082,9 +47155,8 @@
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/TheedPalace-Light/large/senatehovercam.gif",
         "lore": "Senate hovercams report back to Chancellor Valorum at the conclusion of a Senate session. Mysteriously, the droid monitoring Amidala in the Senate never reported back.",
-        "title": "•Senate Hovercam",
-        "type": "Effect",
-        "uniqueness": "*"
+        "title": "Senate Hovercam",
+        "type": "Effect"
       },
       "gempId": "14_35",
       "id": 2212,
@@ -47534,6 +47606,9 @@
         "Lando Calrissian (V)"
       ],
       "rarity": "U",
+      "rulings": [
+        "The phrase 'on Cloud City' means at a Cloud City site, not the Bespin: Cloud City sector."
+      ],
       "set": "7",
       "side": "Light"
     },
@@ -50598,6 +50673,9 @@
         "Soth Petikkin (when at a Jabba's Palace site you control)"
       ],
       "rarity": "PM",
+      "rulings": [
+        "Increases his own forfeit and defense value."
+      ],
       "set": "10",
       "side": "Light"
     },
@@ -53135,6 +53213,9 @@
         "We Wish To Board At Once"
       ],
       "rarity": "C",
+      "rulings": [
+        "May deploy on a Star Destroyer/vehicle that does not have any immunity to attrition."
+      ],
       "set": "9",
       "side": "Light"
     },
@@ -53168,7 +53249,7 @@
         "Your Insight Serves You Well",
         "Your Insight Serves You Well & Staging Areas"
       ],
-      "rarity": "C",
+      "rarity": "U",
       "set": "9",
       "side": "Light"
     },
@@ -54303,6 +54384,10 @@
         "We'll Find Han"
       ],
       "rarity": "R",
+      "rulings": [
+        "May persona replace Han only at same site as an Imperial (TK-422 still goes Undercover).",
+        "May be persona replaced (will no longer be Undercover)."
+      ],
       "set": "7",
       "side": "Light"
     },
@@ -54576,6 +54661,9 @@
         "Princess Organa"
       ],
       "rarity": "U",
+      "rulings": [
+        "The phrase 'on Cloud City' means at a Cloud City site, not the Bespin: Cloud City sector."
+      ],
       "set": "5",
       "side": "Light"
     },
@@ -55091,6 +55179,9 @@
         "Wokling (V)"
       ],
       "rarity": "U2",
+      "rulings": [
+        "If the character is persona replaced by a non-spy version, Undercover is lost and the character ceases to be Undercover."
+      ],
       "set": "2",
       "side": "Light"
     },
@@ -59590,6 +59681,9 @@
         "One device from Lost Pile"
       ],
       "rarity": "R",
+      "rulings": [
+        "The phrase 'on Cloud City' means at a Cloud City site, not the Bespin: Cloud City sector."
+      ],
       "set": "6",
       "side": "Light"
     },
@@ -60542,7 +60636,7 @@
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual13-Light/large/hansdice.gif",
         "lore": "A pair of dice dangling above Millennium Falcon's cockpit, for luck. 'I've never seen anything to make me believe there's one, all-powerful Force controlling everything.'",
         "subType": "Used",
-        "title": "Han's Dice",
+        "title": "Han's Dice (V)",
         "type": "Interrupt"
       },
       "gempId": "213_50",
@@ -60554,6 +60648,10 @@
         }
       ],
       "rarity": "C2",
+      "rulings": [
+        "The values listed are ranges, for example drawing Brainiac (3.14) fulfills the 3-4 range.",
+        "If a draw doesn't fit any range (such as a draw of 2.5), no result."
+      ],
       "set": "213",
       "side": "Light"
     },
@@ -62066,7 +62164,8 @@
         "Rep is defined by Agents In The Court.",
         "This card has the Rep's species in all card states, including while in hand, Reserve Deck, etc.",
         "This card has the Rep's species even while its gametext is canceled.",
-        "When retrieving multiple Force, the once per turn action may respond to any one individual unit of retrieved Force."
+        "When retrieving multiple Force, the once per turn action may respond to any one individual unit of retrieved Force.",
+        "This card is non-unique and counts as a non-unique alien of your Rep's species for flipping Agents In The Court."
       ],
       "set": "216",
       "side": "Light"
