@@ -60663,6 +60663,107 @@
       ],
       "set": "217",
       "side": "Dark"
+    },
+    {
+      "abbr": [
+        "IC&IR",
+        "ICIR",
+        "Imperial Command combo"
+      ],
+      "counterpart": "Rebel Leadership & Critical Error Revealed",
+      "front": {
+        "destiny": "4",
+        "gametext": "Take an admiral or general into hand from Reserve Deck; reshuffle. OR If your admiral is in battle at a system (or your general is in battle at a site), prevent opponent from drawing more than one battle destiny (and if a moff in battle, your total battle destiny is +1). OR Raise your converted location to the top.",
+        "icons": [
+          "Set 18"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual18-Dark/large/imperialcommandinrange.gif",
+        "subType": "Used",
+        "title": "•Imperial Command & •In Range",
+        "type": "Interrupt",
+        "uniqueness": "*"
+      },
+      "gempId": "218_1",
+      "id": 7041,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "218"
+        }
+      ],
+      "pulls": [
+        "Admiral Chiraneau",
+        "Admiral Motti",
+        "Admiral Motti (V)",
+        "Admiral Ozzel",
+        "Admiral Piett",
+        "Captain Peavey",
+        "General Grievous",
+        "General Hux",
+        "General Nevar",
+        "General Tagge",
+        "General Veers",
+        "General Veers (V)",
+        "Grand Admiral Thrawn",
+        "Grand Admiral Thrawn (V)",
+        "Veers",
+        "Veers (V)"
+      ],
+      "rarity": "C",
+      "rulings": [
+        "The second function cannot be played with only a moff. Having an admiral or general is required.",
+        "An opponent's card that 'draws two battle destiny if unable to otherwise' will circumvent the limit on the second function."
+      ],
+      "set": "218",
+      "side": "Dark"
+    },
+    {
+      "abbr": [
+        "SOTB"
+      ],
+      "front": {
+        "destiny": "5",
+        "gametext": "Use 3 Force to take a Neimoidian or an Effect of any kind into hand from Reserve Deck; reshuffle. OR Deploy Blockade Flagship: Bridge from Reserve Deck; reshuffle.",
+        "icons": [
+          "Episode I",
+          "Set 18"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual18-Dark/large/sealoffthebridge.gif",
+        "lore": "Blank.",
+        "subType": "Used",
+        "title": "•Seal Off The Bridge",
+        "type": "Interrupt",
+        "uniqueness": "*"
+      },
+      "gempId": "218_2",
+      "id": 7042,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "218"
+        }
+      ],
+      "pulls": [
+        "An Effect of any kind.",
+        "Blockade Flagship: Bridge",
+        "Captain Daultay Dofine",
+        "Daultay Dofine",
+        "Lott Dod",
+        "Nute Gunray",
+        "Nute Gunray (V)",
+        "Nute Gunray, Neimoidian Viceroy",
+        "Rune Haako",
+        "Rune Haako, Legal Counsel",
+        "Sil Unch",
+        "Tey How"
+      ],
+      "rarity": "U",
+      "rulings": [
+        "The first function may be played at any time. You do not specify in advance whether you are searching for a Neimoidian or an Effect.",
+        "The second function (deploying the Bridge) may only be played during your deploy phase, and only if the Bridge is not already on table."
+      ],
+      "set": "218",
+      "side": "Dark"
     }
   ]
 }
