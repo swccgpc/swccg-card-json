@@ -64416,6 +64416,212 @@
       ],
       "set": "217",
       "side": "Light"
+    },
+    {
+      "abbr": [
+        "EPP Master Qui"
+      ],
+      "combo": [
+        "Master Qui-Gon With Lightsaber + Are You Brain Dead?!",
+        "Master Qui-Gon With Lightsaber + A Jedi's Resilience"
+      ],
+      "front": {
+        "ability": "7",
+        "characteristics": [
+          "lightsaber"
+        ],
+        "deploy": "6",
+        "destiny": "1",
+        "extraText": [
+          "Jedi Master"
+        ],
+        "forfeit": "7",
+        "gametext": "Permanent weapon is •Qui-Gon Jinn's Lightsaber (may target a character or creature for free; draw two destiny; target hit, and its forfeit = 0, if total destiny > defense value).",
+        "icons": [
+          "Warrior",
+          "Permanent Weapon",
+          "Episode I",
+          "Set 18"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual18-Light/large/masterquigonwithlightsaber.gif",
+        "lore": "The lightsaber is an extremely versatile weapon, making a Jedi a rather difficult opponent to slow down. 'This is impossible!'",
+        "power": "6",
+        "subType": "Jedi Master",
+        "title": "•Master Qui-Gon With Lightsaber",
+        "type": "Character",
+        "uniqueness": "*"
+      },
+      "gempId": "218_3",
+      "id": 7043,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "218"
+        }
+      ],
+      "pulledBy": [
+        "Padme Naberrie",
+        "Tatooine: City Outskirts"
+      ],
+      "rarity": "C",
+      "set": "218",
+      "side": "Light"
+    },
+    {
+      "abbr": [
+        "MW"
+      ],
+      "combo": [
+        "Master Windu + Are You Brain Dead?!"
+      ],
+      "front": {
+        "ability": "7",
+        "characteristics": [
+          "Jedi Council member"
+        ],
+        "deploy": "7",
+        "destiny": "1",
+        "extraText": [
+          "Jedi Master"
+        ],
+        "forfeit": "8",
+        "gametext": "During battle, Mace may 'swing' one lightsaber twice. Power +1 for each opponent's character of ability < 2 here. Your clones are forfeit +1 here. Immune to attrition < 6.",
+        "icons": [
+          "Clone Army",
+          "Episode I",
+          "Set 18",
+          "Warrior"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual18-Light/large/masterwindu.gif",
+        "lore": "Jedi Council member.",
+        "power": "6",
+        "subType": "Jedi Master",
+        "title": "•Master Windu",
+        "type": "Character",
+        "uniqueness": "*"
+      },
+      "gempId": "218_4",
+      "id": 7044,
+      "legacy": false,
+      "matchingWeapon": [
+        "Mace Windu's Lightsaber"
+      ],
+      "printings": [
+        {
+          "set": "218"
+        }
+      ],
+      "pulledBy": [
+        "Speak With The Jedi Council",
+        "Tatooine: City Outskirts"
+      ],
+      "rarity": "U",
+      "rulings": [
+        "Each lightsaber swing is a separate top-level action in the weapons segment (meaning the opponent gets an action between swings, you may take other actions between swings, etc).",
+        "The second swing may be at the same target or a different target from the first swing."
+      ],
+      "set": "218",
+      "side": "Light"
+    },
+    {
+      "abbr": [
+        "RL&CER",
+        "RLCER",
+        "Rebel Leadership combo"
+      ],
+      "counterpart": "Imperial Command & In Range",
+      "front": {
+        "destiny": "4",
+        "gametext": "Take an admiral or general into hand from Reserve Deck; reshuffle. OR If your admiral is in battle at a system (or your general is in battle at a site), prevent opponent from drawing more than one battle destiny (and if Ackbar or Leia in battle, your total battle destiny is +1). OR Raise your converted location to the top.",
+        "icons": [
+          "Set 18"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual18-Light/large/rebelleadershipcriticalerrorrevealed.gif",
+        "subType": "Used",
+        "title": "•Rebel Leadership & •Critical Error Revealed",
+        "type": "Interrupt",
+        "uniqueness": "*"
+      },
+      "gempId": "218_5",
+      "id": 7045,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "218"
+        }
+      ],
+      "pulls": [
+        "Admiral Ackbar",
+        "Admiral Ackbar (V)",
+        "Admiral Kilian",
+        "Admiral Raddus",
+        "Admiral U.O. Statura",
+        "General Airen Cracken",
+        "General Calrissian",
+        "General Carlist Rieekan",
+        "General Carlist Rieekan (V)",
+        "General Crix Madine",
+        "General Dodonna",
+        "General Dodonna (V)",
+        "General Jar Jar",
+        "General Kenobi",
+        "General Leia Organa",
+        "General McQuarrie",
+        "General Solo",
+        "General Solo (V)",
+        "General Walex Blissex",
+        "General Walex Blissex (V)",
+        "Gungan General",
+        "Han Solo, Optimistic General",
+        "Mon Calamari Admiral",
+        "Vice Admiral Holdo"
+      ],
+      "rarity": "C",
+      "rulings": [
+        "Admiral Ackbar or General Leia single-handedly enables the second function and grants the bonus +1 as well.",
+        "The second function cannot be played with only a non-General Leia. Having an admiral or general is required.",
+        "An opponent's card that 'draws two battle destiny if unable to otherwise' will circumvent the limit on the second function."
+      ],
+      "set": "218",
+      "side": "Light"
+    },
+    {
+      "abbr": [
+        "TASYS"
+      ],
+      "front": {
+        "destiny": "4",
+        "gametext": "USED: Reveal a random card from your hand to deploy Jedi Council Chamber from Reserve Deck; reshuffle. LOST: During your move phase, relocate Anakin to Jedi Council Chamber.",
+        "icons": [
+          "Episode I",
+          "Set 18"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual18-Light/large/takeaseatyoungskywalker.gif",
+        "lore": "A Jedi seeks nonviolent solutions to problems, but may fight to preserve the existence of life. An apprentice must learn which battles to fight and which to avoid.",
+        "subType": "Used Or Lost",
+        "title": "••Take A Seat, Young Skywalker",
+        "type": "Interrupt",
+        "uniqueness": "**"
+      },
+      "gempId": "218_6",
+      "id": 7046,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "218"
+        }
+      ],
+      "pulls": [
+        "Coruscant: Jedi Council Chamber"
+      ],
+      "rarity": "U",
+      "rulings": [
+        "The first function reveals another card from hand, it may not reveal itself (although it could reveal a 2nd copy of Take A Seat from hand).",
+        "If this is the only card in hand, the first function cannot be played.",
+        "The first function may only be played during your deploy phase, and only if the Jedi Council Chamber is not already on table."
+      ],
+      "set": "218",
+      "side": "Light"
     }
   ]
 }
