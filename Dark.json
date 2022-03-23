@@ -1019,10 +1019,6 @@
         "Vizam (when with Advosze)"
       ],
       "rarity": "U",
-      "rulings": [
-        "May not deploy or move to same location as another Advosze.",
-        "If 2 Advosze are somehow at the same location, owner chooses one to be lost."
-      ],
       "set": "14",
       "side": "Dark"
     },
@@ -1655,6 +1651,10 @@
         "Murttoc Yine"
       ],
       "rarity": "C2",
+      "rulings": [
+        "May not deploy or move to same location as another Advosze.",
+        "If 2 Advosze are somehow at the same location, owner chooses one to be lost."
+      ],
       "set": "2",
       "side": "Dark"
     },
