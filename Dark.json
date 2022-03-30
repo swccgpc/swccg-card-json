@@ -29,6 +29,10 @@
         }
       ],
       "rarity": "C",
+      "rulings": [
+        "This card is a security droid.",
+        "This card is <u>not</u> a maintenance droid."
+      ],
       "set": "7",
       "side": "Dark"
     },
@@ -7179,7 +7183,8 @@
     },
     {
       "abbr": [
-        "Bossk in Bus"
+        "Bossk in Bus",
+        "BiHT"
       ],
       "front": {
         "armor": "4",
@@ -7220,6 +7225,10 @@
       "side": "Dark"
     },
     {
+      "abbr": [
+        "Bossk in Bus v",
+        "BiHTv"
+      ],
       "front": {
         "armor": "4",
         "characteristics": [
@@ -25199,7 +25208,8 @@
       "rarity": "R",
       "rulings": [
         "If Light chooses a Resistance Agent, only cards with that same title are a Resistance Agent.",
-        "If no choice is made, all Luke persona cards are a Resistance Agent. They do not become Resistance character cards."
+        "If no choice is made, all Luke persona cards are a Resistance Agent and lose immunity to attrition (if any). They do not become Resistance character cards.",
+        "Interrupts stacked on the 7-side remain stacked if flipped back to the 0-side, but Dark can only play stacked Interrupts while on the 7-side."
       ],
       "set": "208",
       "side": "Dark"
@@ -26127,6 +26137,10 @@
         "Yavin 4: Docking Bay"
       ],
       "rarity": "U",
+      "rulings": [
+        "Read this as owner's move phase and <u>any<u> exterior sites (not as owner's move phase and owner's <u>exterior<u> sites).",
+        "For Nabrun and Elis, the origin site and the destination site must <u>both</u> be exterior (interior/exterior sites such as Death Star: Docking Bay are allowed)."
+      ],
       "set": "8",
       "side": "Dark"
     },
@@ -26179,6 +26193,8 @@
       ],
       "rarity": "R",
       "rulings": [
+        "Read this as owner's move phase and <u>any<u> exterior sites (not as owner's move phase and owner's <u>exterior<u> sites).",
+        "For Nabrun and Elis, the origin site and the destination site must <u>both</u> be exterior (interior/exterior sites such as Death Star: Docking Bay are allowed).",
         "Light has the option to decline and cancel the retrieval.",
         "The amount of Force used ('X') equals the retrieval amount initiated, even if the Lost pile has fewer than X cards."
       ],
@@ -29451,7 +29467,8 @@
       "rarity": "PM",
       "rulings": [
         "May cancel any opponent's battle destiny except the first one.",
-        "If firing a repeating rifle or blaster, only the first shot is free and +2."
+        "If firing a repeating rifle or blaster, only the first shot is free and +2.",
+        "Jodo is not a 'character with Mandalorian Armor' so if his game text is canceled, he may not use Hidden Weapons."
       ],
       "set": "110",
       "side": "Dark"
@@ -29629,6 +29646,12 @@
         "We Must Accelerate Our Plans"
       ],
       "rarity": "R2",
+      "rulings": [
+        "Can be canceled by moving to a Jabba's Sail Barge site.",
+        "Can be canceled by moving to a site where Jabba's Sail Barge is.",
+        "The affected alien may not apply ability toward drawing battle destiny.",
+        "The affected alien's ability works normally for all other purposes (even during battle) such as for checking defense value swinging a Jedi Lightsaber, or being targeted by Trample."
+      ],
       "set": "1",
       "side": "Dark"
     },
@@ -29881,6 +29904,11 @@
         "Kuat Drive Yards (V)"
       ],
       "rarity": "R1",
+      "rulings": [
+        "When Tonnika Sisters is doubled, it means that every printed number on the card (even in game text) is doubled (e.g. 2 becomes 4) and it also means that 'Twice' in game text becomes 'Four times'.",
+        "Tonnika Sisters is doubled globally (will deploy for 4, not 2).",
+        "Apply the doubling to Tonnika Sisters first, before any modifiers or other changes (e.g. if affected by Ket Maliss, double Tonnika Sisters to 4 power, then add +1 from Ket Maliss)."
+      ],
       "set": "2",
       "side": "Dark"
     },
@@ -29946,6 +29974,9 @@
         }
       ],
       "rarity": "C",
+      "rulings": [
+        "As a special rule, this entire card is immune to Sense, not just the LOST portion."
+      ],
       "set": "12",
       "side": "Dark"
     },
@@ -34503,6 +34534,10 @@
         "We Must Accelerate Our Plans"
       ],
       "rarity": "R1",
+      "rulings": [
+        "Molator can only be used once per battle.",
+        "If using multiple Force to raise total power (e.g. using 3 Force to raise total power by 3), it is still a single weapons segment action (not multiple separate actions of 1 Force each)."
+      ],
       "set": "1",
       "side": "Dark"
     },
@@ -56324,6 +56359,7 @@
       "side": "Dark"
     },
     {
+      "counterpart": "You Must Confront Vader",
       "front": {
         "destiny": "0",
         "gametext": "Deploy on Bring Him Before Me. When Vader is present at a battleground site, at start of your turn opponent loses 3 Force unless Luke is captured, out of play, or present at a battleground site. Also, Luke is immune to Responsibility Of Command. (Immune to Alter.)",
@@ -56351,6 +56387,9 @@
         "You Cannot Hide Forever & Mobilization Points"
       ],
       "rarity": "C",
+      "rulings": [
+        "Opponent loses 3 Force if Luke not on table at all."
+      ],
       "set": "9",
       "side": "Dark"
     },
@@ -59699,7 +59738,8 @@
       ],
       "rarity": "U",
       "rulings": [
-        "For Nabrun and Elis, both the origin site and the destination site must be exterior."
+        "Read this as owner's move phase and <u>any<u> exterior sites (not as owner's move phase and owner's <u>exterior<u> sites).",
+        "For Nabrun and Elis, the origin site and the destination site must <u>both</u> be exterior (interior/exterior sites such as Death Star: Docking Bay are allowed)."
       ],
       "set": "217",
       "side": "Dark"
