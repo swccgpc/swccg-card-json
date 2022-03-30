@@ -44,7 +44,7 @@
         "deploy": "2",
         "destiny": "3",
         "extraText": [
-          "Security Droid"
+          "Security Patrol Droid"
         ],
         "forfeit": "2",
         "gametext": "Where present under 'nighttime conditions,' each of your Rebels and aliens at same planet site are power +2, and also have immunity to attrition < 3 if a Hydroponics Station is present.",
@@ -67,6 +67,10 @@
         "I've Got A Bad Feeling About..."
       ],
       "rarity": "U1",
+      "rulings": [
+        "This card is a security droid (e.g. for I've Got A Bad Feeling About...).",
+        "This card is <u>not</u> a maintenance droid (e.g. for Echo Base Garrison)."
+      ],
       "set": "1",
       "side": "Light"
     },
@@ -409,6 +413,9 @@
       "side": "Light"
     },
     {
+      "abbr": [
+        "ANSB"
+      ],
       "cancels": [
         "S-foils",
         "Your 'insert' cards:",
@@ -482,6 +489,9 @@
       "side": "Light"
     },
     {
+      "abbr": [
+        "ANSBv"
+      ],
       "front": {
         "destiny": "5",
         "gametext": "Deploy on table. Once per turn, may use 2 Force to deploy a battleground system from Reserve Deck; reshuffle. Your non-unique starfighters apply their deployment modifiers at any location. Once per turn, if you just Force drained at a battleground system, may draw top card of Reserve Deck. (Immune to Alter.)",
@@ -3609,6 +3619,9 @@
         "Seeking An Audience (V)"
       ],
       "rarity": "R",
+      "rulings": [
+        "This card is <u>not</u> a maintenance droid (e.g. for Echo Base Garrison)."
+      ],
       "set": "14",
       "side": "Light"
     },
@@ -13318,7 +13331,7 @@
           "set": "5"
         }
       ],
-      "rarity": "R",
+      "rarity": "C",
       "set": "5",
       "side": "Light"
     },
@@ -13362,7 +13375,7 @@
         "Commander Luke Skywalker (V)",
         "Lone Rogue"
       ],
-      "rarity": "R2",
+      "rarity": "PM",
       "set": "201",
       "side": "Light"
     },
@@ -22223,9 +22236,7 @@
         "Han Solo",
         "Han With Heavy Blaster Pistol",
         "TK-422",
-        "Han",
-        "Chewie",
-        "And The Falcon",
+        "Han, Chewie, And The Falcon",
         "Solo"
       ],
       "rarity": "U2",
@@ -25386,6 +25397,10 @@
         "Yavin 4: Docking Bay"
       ],
       "rarity": "U",
+      "rulings": [
+        "Read this as owner's move phase and <u>any</u> exterior sites (not as owner's move phase and <u>owner's</u> exterior sites).",
+        "For Nabrun and Elis, the origin site and the destination site must <u>both</u> be exterior (interior/exterior sites such as Death Star: Docking Bay are allowed)."
+      ],
       "set": "8",
       "side": "Light"
     },
@@ -25430,6 +25445,8 @@
       ],
       "rarity": "R",
       "rulings": [
+        "Read this as owner's move phase and <u>any</u> exterior sites (not as owner's move phase and <u>owner's</u> exterior sites).",
+        "For Nabrun and Elis, the origin site and the destination site must <u>both</u> be exterior (interior/exterior sites such as Death Star: Docking Bay are allowed).",
         "Dark has the option to decline and cancel the retrieval.",
         "The amount of Force used ('X') equals the retrieval amount initiated, even if the Lost pile has fewer than X cards."
       ],
@@ -25898,7 +25915,7 @@
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual8-Light/large/ivegotabadfeelingabout.gif",
         "lore": "Unlike the Empire, the Alliance treats their droids with respect. Many droids volunteered to share the risk of battle and aid the Rebellion's assault on the Death Star.",
         "subType": "Used",
-        "title": "•I've Got A Bad Feeling About ...",
+        "title": "•I've Got A Bad Feeling About...",
         "type": "Interrupt",
         "uniqueness": "*"
       },
@@ -25910,7 +25927,14 @@
           "set": "208"
         }
       ],
+      "pulls": [
+        "2X-3KPR (Tooex)",
+        "K-2SO (Kay-Tuesso)"
+      ],
       "rarity": "C2",
+      "rulings": [
+        "This may pull a 'Security Patrol Droid' (e.g. 2X-3KPR)."
+      ],
       "set": "208",
       "side": "Light"
     },
@@ -27125,6 +27149,10 @@
         "Soth Petikkin (when at a Jabba's Palace site you control)"
       ],
       "rarity": "R",
+      "rulings": [
+        "When Joh 'jams' a destiny, it does not cancel the destiny.",
+        "While Joh has a 'jammed' card, he may not 'jam' another."
+      ],
       "set": "7",
       "side": "Light"
     },
@@ -27378,6 +27406,11 @@
         }
       ],
       "rarity": "R1",
+      "rulings": [
+        "Modifiers to individual battle destiny draws are applied before comparing them to see which is higher.",
+        "Compare the battle destinies as an automatic action just after both players have finished drawing their one battle destiny.",
+        "Resets opponent's <u>total</u> battle destiny to an unmodifiable 0."
+      ],
       "set": "1",
       "side": "Light"
     },
@@ -27704,6 +27737,9 @@
         "Yavin 4 Base Operations"
       ],
       "rarity": "C1",
+      "rulings": [
+        "A Wookiee who is also a smuggler would be deploy -2, not deploy -4."
+      ],
       "set": "2",
       "side": "Light"
     },
@@ -28045,6 +28081,12 @@
         "We Wish To Board At Once"
       ],
       "rarity": "R2",
+      "rulings": [
+        "May only deploy on the Kessel system location.",
+        "The parsec distance between the systems is checked only at the time of Kessel Run's deployment. It is not checked again later (e.g. if a Death Star moves).",
+        "If Light moving from Kessel to another system would complete Kessel Run, but also gives Dark control of Kessel which would cancel Kessel Run, resolve as competing automatic actions (the player whose turn it is chooses whether to complete or cancel).",
+        "When the smuggler returns to the first system to make this card lost by its own game text, this Kessel Run is 'completed' (e.g. for purposes of Captain Lando Calrissian, Leebo, etc)."
+      ],
       "set": "1",
       "side": "Light"
     },
@@ -28171,6 +28213,11 @@
         "Yavin 4 Base Operations"
       ],
       "rarity": "R",
+      "rulings": [
+        "When Vul Tazaene is doubled, it means that every printed number on the card (even in game text) is doubled (e.g. 2 becomes 4) and it also means that 'Twice' in game text becomes 'Four times'.",
+        "Vul Tazaene is doubled globally (will deploy for 4, not 2).",
+        "Apply the doubling to Vul Tazaene first, before any modifiers or other changes (e.g. if affected by Jedi Test 5, double Vul Tazaene to 4 ability first, then Jedi Test 5 raises him to 5 ability.)."
+      ],
       "set": "6",
       "side": "Light"
     },
@@ -28590,6 +28637,10 @@
         "We Wish To Board At Once"
       ],
       "rarity": "R1",
+      "rulings": [
+        "K'lor'slug can only be used once per battle.",
+        "If using multiple Force to raise total power (e.g. using 3 Force to raise total power by 3), it is still a single weapons segment action (not multiple separate actions of 1 Force each)."
+      ],
       "set": "1",
       "side": "Light"
     },
@@ -30819,9 +30870,7 @@
       ],
       "pulls": [
         "Gold Squadron 1",
-        "Han",
-        "Chewie",
-        "And The Falcon",
+        "Han, Chewie, And The Falcon",
         "Lando In Millennium Falcon",
         "Millennium Falcon",
         "The Falcon",
@@ -35034,7 +35083,7 @@
           "Endor"
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/Endor-Light/large/monmothma.gif",
-        "lore": "Native of Chandrila. Leader of the Alliance. A former member of the Imperial Senate where she was a formidable opponent of then-Senator Palpatine. Friend of Bail Organa.",
+        "lore": "Native of Chandrila. Leader of the Alliance. A former member of the Imperial Senate where she was a formidable opponent to then-Senator Palpatine. Friend of Bail Organa.",
         "power": "2",
         "subType": "Rebel",
         "title": "•Mon Mothma",
@@ -41800,6 +41849,9 @@
         "Hero Of A Thousand Devices (V)"
       ],
       "rarity": "C2",
+      "rulings": [
+        "This card is <u>not</u> a maintenance droid (e.g. for Echo Base Garrison)."
+      ],
       "set": "2",
       "side": "Light"
     },
@@ -44664,6 +44716,9 @@
         }
       ],
       "rarity": "C",
+      "rulings": [
+        "As a special rule, this entire card is immune to Sense, not just the LOST portion."
+      ],
       "set": "12",
       "side": "Light"
     },
@@ -47190,7 +47245,7 @@
           "Set 4"
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual4-Light/large/senatormonmothma.gif",
-        "lore": "Native of Chandrila. Leader of the Alliance. A former member of the Imperial Senate where she was a formidable opponent of then-Senator Palpatine. Friend of Bail Organa.",
+        "lore": "Native of Chandrila. Leader of the Alliance. A former member of the Imperial Senate where she was a formidable opponent to then-Senator Palpatine. Friend of Bail Organa.",
         "politics": "1",
         "power": "2",
         "subType": "Rebel/Republic",
@@ -49029,12 +49084,8 @@
           "set": "12"
         }
       ],
-      "pulledBy": [
-        "Coruscant: Jedi Archives (V)"
-      ],
       "pulls": [
         "Coruscant: Jedi Council Chamber",
-        "Coruscant: Jedi Council Chamber (V)",
         "Depa Billaba",
         "Jedi Advisor (V)",
         "Ki-Adi-Mundi",
@@ -52637,6 +52688,9 @@
         "Life Debt"
       ],
       "rarity": "R",
+      "rulings": [
+        "Versions of Han and Chewie without an Episode VII icon will not trigger the 'maneuver = 6' or 'immune to to attrition < 5' text, but they are still matching pilots (e.g. for Squadron Assignments)."
+      ],
       "set": "206",
       "side": "Light"
     },
@@ -56960,6 +57014,9 @@
       "side": "Light"
     },
     {
+      "abbr": [
+        "WDEWTGBTJ"
+      ],
       "front": {
         "destiny": "5",
         "gametext": "Deploy on table. May deploy Lor San Tekka from Reserve Deck; reshuffle. Once per turn, if you just lost a Resistance character from a Jakku site, may take a Resistance character of lesser ability into hand from Reserve Deck; reshuffle. (Immune to Alter.)",
@@ -59195,6 +59252,11 @@
       "side": "Light"
     },
     {
+      "abbr": [
+        "Test 6",
+        "YMCV"
+      ],
+      "counterpart": "Your Destiny",
       "front": {
         "destiny": "6",
         "gametext": "Deploy on table.  Target a Skywalker who has completed Jedi Test #5.  While target on Dagobah, 'move phase' on Save You It Can may be treated as 'deploy phase.'  Until Jedi Test completed, battles you initiate at Vader's site are canceled and opponent loses 2 Force at start of your turn unless Vader is at a battleground site.  Attempt during your move phase when Vader with target (even as a non-frozen captive).  Vader and target duel: Each player draws destiny.  Add ability.  Highest total wins.  If target wins, test completed:  Leave on table.  Add one battle destiny in every battle.  Also, target is immune to attrition < 5.",
@@ -59218,6 +59280,9 @@
         "Dagobah (V)"
       ],
       "rarity": "R",
+      "rulings": [
+        "Opponent loses 2 Force if Vader not on table at all."
+      ],
       "set": "9",
       "side": "Light"
     },
@@ -60524,6 +60589,10 @@
         "We Wish To Board At Once"
       ],
       "rarity": "R2",
+      "rulings": [
+        "If Light exhausts their Reserve Deck stacking destinies but the total is still not > 12, all of the following apply:<ul><li>All of the <u>stacked</u> destiny cards are returned to Reserve Deck in their original order.</li><li>Any destiny cards that were not stacked (e.g. taken into hand, lost, etc) are not returned.</li><li>This Kessel Run (V) card returns to the owner's hand.</li><li>Kessel Run (V) may not attempt deployment again this turn.</li></ul>",
+        "When this card's text places itself out of play, this Kessel Run is 'completed' (e.g. for purposes of Captain Lando Calrissian, Leebo, etc)."
+      ],
       "set": "213",
       "side": "Light"
     },
@@ -62852,7 +62921,7 @@
           "set": "216"
         }
       ],
-      "rarity": "C",
+      "rarity": "U",
       "rulings": [
         "You may not persona replace a character if the new version would violate this card's deployment restrictions."
       ],
@@ -63375,7 +63444,8 @@
       ],
       "rarity": "U",
       "rulings": [
-        "For Nabrun and Elis, both the origin site and the destination site must be exterior."
+        "Read this as owner's move phase and <u>any</u> exterior sites (not as owner's move phase and <u>owner's</u> exterior sites).",
+        "For Nabrun and Elis, the origin site and the destination site must <u>both</u> be exterior (interior/exterior sites such as Death Star: Docking Bay are allowed)."
       ],
       "set": "217",
       "side": "Light"
