@@ -383,6 +383,9 @@
       "side": "Light"
     },
     {
+      "abbr": [
+        "Jedi Test 2"
+      ],
       "front": {
         "destiny": "2",
         "gametext": "Deploy on an unoccupied Dagobah site. At the beginning of each of your move phases, opponent may relocate this Jedi Test to an adjacent site. Target a mentor on Dagobah and an apprentice who has completed Jedi Test #1. Apprentice may move only by using personal landspeed. Attempt when apprentice is present at the beginning of your control phase. Draw training destiny. If destiny + apprentice's ability > 13, test completed: Place on apprentice. Apprentice is power +1 and may move normally. Total ability of 6 or more is required for opponent to draw battle destiny.",
@@ -14892,6 +14895,9 @@
       "side": "Light"
     },
     {
+      "abbr": [
+        "Jedi Test 3"
+      ],
       "front": {
         "destiny": "3",
         "gametext": "Deploy on Dagobah: Jungle or Dagobah: Cave. Target a mentor on Dagobah and an apprentice who has completed Jedi Test #2. Attempt when apprentice is present at the end of your turn and none of your cards participated in battles, Force drains or Jedi Tests during that turn. Draw training destiny. If destiny + apprentice's ability > 14, test completed. Place on apprentice. You may subtract 1 from each of opponent's destiny draws.",
@@ -21224,6 +21230,9 @@
       "side": "Light"
     },
     {
+      "abbr": [
+        "Jedi Test 1"
+      ],
       "front": {
         "destiny": "1",
         "gametext": "Deploy on a Dagobah site. Target a mentor here. Also, target or deploy (regardless of location deployment restrictions) an apprentice here. Attempt when targets are present at the beginning of your control phase. Draw training destiny. If destiny + apprentice's ability > 12, test completed: Place on apprentice. All opponent's Force drain bonuses are canceled.  Mentor: Your character of ability > 2. Apprentice: Your non-droid, non-Jedi character of lesser ability than mentor. Each time you complete any Jedi Test, you may exchange one card in hand for one Jedi Test in your Lost Pile.",
@@ -25644,6 +25653,7 @@
     },
     {
       "abbr": [
+        "Jedi Test 5",
         "IITFYS"
       ],
       "front": {
@@ -28830,6 +28840,12 @@
         "Portable Scanner"
       ],
       "rarity": "R",
+      "rulings": [
+        "Show that the starfighter is attached by physically placing it on the opponent's capital starship.",
+        "While starfighter attached ('concealed'):<ul><li>The starfighter and cards aboard it are inactive (except for Homing Beacon and the Landing Claw itself).</li><li>Prevents opponent from Force draining.</li><li>If the capital starship is lost, the starfighter is also lost.</li><li>The capital starship 'carries' the starfighter, the starfighter is not considered to be moving.</li><li>If the capital starship lands, the starfighter remains attached.</li><li>If the capital starship is landed when the starfighter detaches (or Landing Claw is canceled), the starfighter becomes landed there if possible, otherwise it is lost.</li></ul>",
+        "When the starfighter detaches (or Landing Claw is canceled), the starfighter returns to normal (is no longer attached/'concealed').",
+        "Starfighter may either detach as a top level action, or when the capital starship is about to move (after destination has been specified and its movement cost has been paid)."
+      ],
       "set": "4",
       "side": "Light"
     },
@@ -29174,6 +29190,11 @@
         "Soth Petikkin (when at a Jabba's Palace site you control)"
       ],
       "rarity": "PM",
+      "rulings": [
+        "The destiny drawn by the owner of Lando With Vibro-Ax is a weapon destiny.",
+        "The destiny drawn by the owner of the targeted character is <u>not</u> a weapon destiny.",
+        "This card has only one Permanent Weapon icon (two such icons is a misprint)."
+      ],
       "set": "112",
       "side": "Light"
     },
@@ -29920,6 +29941,10 @@
         "Prisoner 2187"
       ],
       "rarity": "U2",
+      "rulings": [
+        "The first function of this Interrupt does not require Leia in Lost Pile to initiate.",
+        "Both functions of this Interrupt are top level actions."
+      ],
       "set": "1",
       "side": "Light"
     },
@@ -30089,6 +30114,9 @@
       "side": "Light"
     },
     {
+      "abbr": [
+        "LTWW"
+      ],
       "front": {
         "destiny": "5",
         "gametext": "During a battle at a holosite, add one battle destiny. OR Target an opponent's character of ability < 5 present with your Wookiee that just participated in a battle you lost; character is Disarmed (power -1 and may no longer carry weapons). Stack on that character.",
@@ -30111,6 +30139,10 @@
         }
       ],
       "rarity": "R1",
+      "rulings": [
+        "This card only makes a character Disarmed while stacked on that character. If this card goes elsewhere (stacked on a grabber, or placed out of play) then the character is not Disarmed.",
+        "After being stacked on a character, this card is in a Supporting (not Active) state and thus may no longer be targeted by Sense, grabbers, etc."
+      ],
       "set": "2",
       "side": "Light"
     },
@@ -30923,6 +30955,10 @@
         "Lift Tube Escape"
       ],
       "rarity": "C2",
+      "rulings": [
+        "Lift Tubes may exist at interior mobile sites, and may never exist elsewhere.",
+        "Lift Tubes are never considered unpiloted."
+      ],
       "set": "1",
       "side": "Light"
     },
@@ -31062,6 +31098,12 @@
         "Wokling (V)"
       ],
       "rarity": "R1",
+      "rulings": [
+        "Only adds power +3 during battle, not all the time.",
+        "The character may add 1 to a Force drain and still be power +3 in a battle that same turn.",
+        "The last sentence means that this Effect makes itself lost if the character is not carrying at least one lightsaber.",
+        "A lightsaber carried by a character who cannot use it is inactive. An inactive lightsaber does not allow Lightsaber Proficiency to deploy, nor does it prevent Lightsaber Proficiency's last sentence from making itself lost."
+      ],
       "set": "1",
       "side": "Light"
     },
@@ -31129,6 +31171,9 @@
         }
       ],
       "rarity": "C1",
+      "rulings": [
+        "May defuse any number of mines per turn, whether 'laid' or 'buried.'"
+      ],
       "set": "1",
       "side": "Light"
     },
@@ -31167,6 +31212,10 @@
         "Lando Calrissian (V)"
       ],
       "rarity": "R",
+      "rulings": [
+        "This alien has two deployment restrictions, and <u>both</u> must be met simultaneously:<ul><li>He deploys only as a 'react'. <u>and</u></li><li>He deploys on to a Cloud City site or to where your Lando is present.</li></ul>",
+        "Uniqueness rules prevent LS Lobot and DS Lobot (same card title) from being on table at the same time."
+      ],
       "set": "5",
       "side": "Light"
     },
@@ -31206,6 +31255,9 @@
         "Cyborg Construct"
       ],
       "rarity": "R",
+      "rulings": [
+        "Uniqueness rules prevent LS Lobot and DS Lobot (same card title) from being on table at the same time."
+      ],
       "set": "200",
       "side": "Light"
     },
@@ -31826,6 +31878,9 @@
         "Tatooine: City Outskirts"
       ],
       "rarity": "UR",
+      "rulings": [
+        "This card even subtracts 3 from opponnet's Epic Duel total involving Luke."
+      ],
       "set": "9",
       "side": "Light"
     },
@@ -31888,6 +31943,9 @@
         "Tatooine: City Outskirts"
       ],
       "rarity": "PM",
+      "rulings": [
+        "Luke is counted as a character when determining the Dark Side destiny draw required for Always Thinking With Your Stomach. If the draw is successful, Luke cannot be chosen to be missing."
+      ],
       "set": "10",
       "side": "Light"
     },
@@ -32121,9 +32179,6 @@
       "gempId": "1_95",
       "id": 1600,
       "legacy": false,
-      "matching": [
-        "keins"
-      ],
       "printings": [
         {
           "set": "1"
@@ -32148,6 +32203,10 @@
         "Son Of Skywalker"
       ],
       "rarity": "U2",
+      "rulings": [
+        "The first function of this Interrupt does not require Luke in Lost Pile to initiate.",
+        "Both functions of this Interrupt are top level actions."
+      ],
       "set": "1",
       "side": "Light"
     },
@@ -32179,7 +32238,12 @@
       ],
       "rarity": "R",
       "rulings": [
-        "Does not allow the character to use devices that they cannot use otherwise."
+        "Does not allow the character to use devices that they cannot use otherwise.",
+        "The character in the backpack is not enclosed within it.",
+        "The character in the backpack still occupies capacity slots on starships and vehicles.",
+        "If character with the backpack leaves table, the character inside automatically disembarks (even if they may not move).",
+        "If either character is to be made captured, missing, or excluded from battle, the other is also affected, and the character in the backpack automatically disembarks (even if they may not move).",
+        "The backpack may not be transferred to the character currently inside it."
       ],
       "set": "4",
       "side": "Light"
@@ -48118,6 +48182,9 @@
       "side": "Light"
     },
     {
+      "abbr": [
+        "Jedi Test 4"
+      ],
       "front": {
         "destiny": "4",
         "gametext": "Deploy on Dagobah: Swamp or Dagobah: Bog Clearing. Target a mentor on Dagobah and an apprentice who has completed Jedi Test #3. Attempt when apprentice is present at the beginning of your control phase. Draw training destiny. If destiny + apprentice's ability > 15, test completed: Place on apprentice. Immune to attrition < 3. Once during each of your control phases, you may use 2 Force to search your Reserve Deck and take any one card you find there into hand. Shuffle, cut and replace.",
@@ -55477,6 +55544,10 @@
         "Portable Scanner"
       ],
       "rarity": "C",
+      "rulings": [
+        "The destiny drawn by the owner of Vibro-Ax is a weapon destiny.",
+        "The destiny drawn by the owner of the targeted character is <u>not</u> a weapon destiny."
+      ],
       "set": "6",
       "side": "Light"
     },
@@ -59253,7 +59324,7 @@
     },
     {
       "abbr": [
-        "Test 6",
+        "Jedi Test 6",
         "YMCV"
       ],
       "counterpart": "Your Destiny",
@@ -60185,6 +60256,9 @@
         }
       ],
       "rarity": "C",
+      "rulings": [
+        "When stacking L3-37 on a freighter, she does not go to the Lost pile and therefore she is not 'just lost'."
+      ],
       "set": "213",
       "side": "Light"
     },
@@ -61961,6 +62035,9 @@
       "side": "Light"
     },
     {
+      "abbr": [
+        "LTWWv"
+      ],
       "front": {
         "destiny": "5",
         "gametext": "USED: Subtract 2 from a just drawn destiny targeting your Wookiee's ability or defense value. STARTING: If your starting location had exactly two [Light Side], deploy a Kashyyyk location and three Effects that are always immune to Alter. Place Interrupt in Reserve Deck.",

@@ -31926,6 +31926,10 @@
         }
       ],
       "rarity": "C2",
+      "rulings": [
+        "Lift Tubes may exist at interior mobile sites, and may never exist elsewhere.",
+        "Lift Tubes are never considered unpiloted."
+      ],
       "set": "1",
       "side": "Dark"
     },
@@ -32081,6 +32085,9 @@
         }
       ],
       "rarity": "C1",
+      "rulings": [
+        "May defuse any number of mines per turn, whether 'laid' or 'buried.'"
+      ],
       "set": "1",
       "side": "Dark"
     },
@@ -32213,7 +32220,8 @@
       ],
       "rarity": "R",
       "rulings": [
-        "The phrase 'on Cloud City' means at a Cloud City site, not the Bespin: Cloud City sector."
+        "The phrase 'on Cloud City' means at a Cloud City site, not the Bespin: Cloud City sector.",
+        "Uniqueness rules prevent LS Lobot and DS Lobot (same card title) from being on table at the same time."
       ],
       "set": "7",
       "side": "Dark"
@@ -32604,6 +32612,11 @@
         "We Must Accelerate Our Plans"
       ],
       "rarity": "R",
+      "rulings": [
+        "A character stacked on this Effect is inactive.",
+        "When a capital starship rescues a character stacked on this card, the rescued character is placed aboard that starship (capacity permitting). If there is insufficient capacity, the rescuing action cannot be initiated by that starship.",
+        "When a Dark capital starship captures a Light character stacked on this card, Dark may either choose to 'seize' the character (if an escort aboard is available and capacity permits) or Dark may choose 'escape' (character goes to Light's Used Pile). Thus Dark may initiate a capture even with no escort or capacity available."
+      ],
       "set": "4",
       "side": "Dark"
     },
@@ -32872,6 +32885,11 @@
         }
       ],
       "rarity": "R",
+      "rulings": [
+        "Must be revealed, and instructions followed, at the start of the game",
+        "This card is never a persona of Luke while out of play (whether it went out of play at start of game or at another time).",
+        "Despite being a captive, all of this card's text is applicable whenever appropriate."
+      ],
       "set": "205",
       "side": "Dark"
     },
@@ -53524,6 +53542,10 @@
         "Snoova"
       ],
       "rarity": "C",
+      "rulings": [
+        "The destiny drawn by the owner of Vibro-Ax is a weapon destiny.",
+        "The destiny drawn by the owner of the targeted character is <u>not</u> a weapon destiny."
+      ],
       "set": "6",
       "side": "Dark"
     },
