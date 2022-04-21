@@ -5670,7 +5670,7 @@
       ],
       "front": {
         "destiny": "4",
-        "gametext": "Deploy on your non-[Permanent Weapon] blaster. Scope allows that weapon to target at an adjacent site.",
+        "gametext": "Deploy on [Dagobah] 4-LOM's Concussion Rifle or on your blaster weapon card. Allows that weapon to target at an adjacent site.",
         "imageUrl": "https://res.starwarsccg.org/cards/Premiere-Dark/large/blasterscope.gif",
         "lore": "The effectiveness of a blaster can sometimes be enhanced through an electronic targeting scope mounted on top, especially for long range targets.",
         "title": "Blaster Scope",
@@ -5685,6 +5685,9 @@
         }
       ],
       "rarity": "U1",
+      "rulings": [
+        "May <u>not</u> deploy on a [Permanent Weapon] card (e.g. Dengar With Blaster Carbine)."
+      ],
       "set": "1",
       "side": "Dark"
     },
@@ -5941,8 +5944,7 @@
         "Lt. Pol Treidum",
         "Lt. Pol Treidum (V)",
         "Lt. Shann Childsen",
-        "Maarek Stele",
-        "The Emperor's Reach",
+        "Maarek Stele, The Emperor's Reach",
         "Major Hewex",
         "Mara Jade, The Emperor's Hand",
         "Mara Jade With Lightsaber",
@@ -10130,7 +10132,7 @@
       ],
       "pulledBy": [
         "Commander Brandei",
-        "The Emperor's Reach (V)"
+        "Maarek Stele, The Emperor's Reach"
       ],
       "pulls": [
         "Concussion Missiles",
@@ -25656,7 +25658,8 @@
       "rarity": "R",
       "rulings": [
         "A destiny targets IG-88 (V) if it is used in comparison with a number on the IG-88 (V) card, such as his armor.",
-        "The destiny drawn for the weapon Booma does not target IG-88 (V)."
+        "The destiny drawn for the weapon Booma does not target IG-88 (V).",
+        "Cards with multiple warrior icons can still only escort one captive at a time."
       ],
       "set": "200",
       "side": "Dark"
@@ -37340,7 +37343,7 @@
       "pulledBy": [
         "Commander Brandei",
         "Short Range Fighters & Watch Your Back!",
-        "The Emperor's Reach (V)"
+        "Maarek Stele, The Emperor's Reach"
       ],
       "rarity": "R",
       "set": "9",
@@ -37383,7 +37386,7 @@
       "pulledBy": [
         "Commander Brandei",
         "Short Range Fighters & Watch Your Back!",
-        "The Emperor's Reach (V)"
+        "Maarek Stele, The Emperor's Reach"
       ],
       "rarity": "U",
       "set": "9",
@@ -37427,7 +37430,7 @@
       ],
       "pulledBy": [
         "Commander Brandei",
-        "The Emperor's Reach (V)"
+        "Maarek Stele, The Emperor's Reach"
       ],
       "rarity": "U",
       "set": "200",
@@ -38901,7 +38904,7 @@
         "deploy": "2",
         "destiny": "3",
         "forfeit": "3",
-        "gametext": "Adds 2 to power of anything he pilots.  Game text of non-Jedi Luke (or a lightsaber he is using) may not target aliens here.  During battle, if with a smuggler, may add a destiny to attrition or make that smuggler forfeit = 0.",
+        "gametext": "Adds 2 to power of anything he pilots.  At same site, non-Jedi Luke may not swing a lightsaber at aliens (or return aliens to hand using his game text). During battle, if with a smuggler, may add one destiny to attrition or make that smuggler forfeit = 0.",
         "icons": [
           "Pilot",
           "Warrior",
@@ -38928,6 +38931,10 @@
         "Murttoc Yine"
       ],
       "rarity": "U1",
+      "rulings": [
+        "The 'during battle' text is used during the weapons segment. If adding a destiny to attrition, this schedules it to be drawn in the power segment (and will occur even if the conditions are no longer met later).",
+        "The 'may not return aliens to hand' text refers to Master Luke."
+      ],
       "set": "200",
       "side": "Dark"
     },
@@ -42192,10 +42199,9 @@
       "front": {
         "ability": "4",
         "characteristics": [
-          "assassin",
           "Dathomirian"
         ],
-        "deploy": "8",
+        "deploy": "6",
         "destiny": "1",
         "forfeit": "5",
         "gametext": "Deploys -1 for each other Sith character here (limit - 4). Once per game, may exchange a card in hand with a Sith character in Lost Pile. Immune to attrition < 3.",
@@ -42207,7 +42213,7 @@
           "Set 7"
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual7-Dark/large/savageopress.gif",
-        "lore": "Dathomirian assassin.",
+        "lore": "Dathomirian.",
         "power": "8",
         "subType": "Sith",
         "title": "•Savage Opress",
@@ -42223,6 +42229,10 @@
         }
       ],
       "rarity": "F",
+      "rulings": [
+        "Does not count himself for the 'Deploys -1' text.",
+        "May declare that you are using the exchange action, then review cards in Lost Pile before selecting a card from hand to exchange."
+      ],
       "set": "207",
       "side": "Dark"
     },
@@ -42230,10 +42240,9 @@
       "front": {
         "ability": "4",
         "characteristics": [
-          "assassin",
           "Dathomirian"
         ],
-        "deploy": "8",
+        "deploy": "6",
         "destiny": "1",
         "forfeit": "5",
         "gametext": "Deploys -1 for each other Sith character here (limit - 4). Once per game, may exchange a card in hand with a Sith character in Lost Pile. Immune to attrition < 3.",
@@ -42245,7 +42254,7 @@
           "Set 7"
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/VirtualAlternateImage-Dark/large/savageopress_ai.gif",
-        "lore": "Dathomirian assassin.",
+        "lore": "Dathomirian.",
         "power": "8",
         "subType": "Sith",
         "title": "•Savage Opress (AI)",
@@ -42261,6 +42270,10 @@
         }
       ],
       "rarity": "F",
+      "rulings": [
+        "Does not count himself for the 'Deploys -1' text.",
+        "May declare that you are using the exchange action, then review cards in Lost Pile before selecting a card from hand to exchange."
+      ],
       "set": "207",
       "side": "Dark"
     },
@@ -50862,7 +50875,7 @@
         "Commander Brandei",
         "Early Warning Network",
         "Short Range Fighters",
-        "The Emperor's Reach (V)"
+        "Maarek Stele, The Emperor's Reach"
       ],
       "rarity": "F",
       "set": "7",
@@ -57010,7 +57023,7 @@
     {
       "front": {
         "destiny": "3",
-        "gametext": "If you have deployed a site with exactly two [Dark Side Force] (and no other locations), deploy a battleground site. Then, unless you have deployed Imperial Square or a site with 'Palace' in title, deploy up to three Effects that are always immune to Alter. Place Interrupt in Lost Pile.",
+        "gametext": "If you have deployed a site (except Imperial Square) with exactly two [Dark Side] (and no other locations), deploy a related (or mobile) battleground site and up to three Effects that deploy for free and are always immune to Alter. Place Interrupt in Lost Pile.",
         "icons": [
           "Cloud City",
           "Set 12"
@@ -57031,10 +57044,13 @@
         }
       ],
       "pulls": [
-        "Any battleground site",
-        "Any 3 ITA effects"
+        "A battleground site",
+        "Any 3 free ITA effects"
       ],
       "rarity": "R",
+      "rulings": [
+        "May be played even if the site you deployed has been converted to longer have exactly two [Dark Side]. May even still deploy a related site under those circumstances."
+      ],
       "set": "212",
       "side": "Dark"
     },
@@ -58647,7 +58663,7 @@
           "Force-Attuned"
         ],
         "forfeit": "6",
-        "gametext": "While piloting Executor, adds 3 to power. Deploys -1 for each of your starship sites on table. Landing Claw may not attach here. Once per game, if piloting Executor, may take Emperor's Orders into hand from Reserve Deck; reshuffle.",
+        "gametext": "While piloting Executor, adds 3 to power. Deploys -1 for each of your starship sites on table. Starfighters here may not 'attach.' Once per game, if piloting Executor, may take Emperor's Orders into hand from Reserve Deck; reshuffle.",
         "icons": [
           "Pilot",
           "Warrior",
@@ -58998,7 +59014,7 @@
       "front": {
         "darkSideIcons": 2,
         "destiny": "0",
-        "gametext": "Dark:  May deploy non-[Theed Palace] Sidious here from Reserve Deck; reshuffle.  Light:  If opponent's [Special Edition] objective on table, gains one [Light Side] icon and Force drain +2 here.",
+        "gametext": "Dark:  May deploy non-[Theed Palace] Sidious here from Reserve Deck; reshuffle. If your [Special Edition] objective on table, gains one [Light Side] icon and opponent's Force drains are +2 here.  Light:  -",
         "icons": [
           "Exterior",
           "Planet",
@@ -59020,7 +59036,19 @@
           "set": "216"
         }
       ],
+      "pulls": [
+        "Darth Sidious",
+        "Emperor Palpatine",
+        "Emperor Palpatine, Forseer",
+        "Lord Sidious",
+        "Palpatine, Emperor Returned",
+        "The Emperor"
+      ],
       "rarity": "U",
+      "rulings": [
+        "May deploy any card with the Sidious persona (Emperor Palpatine, The Emperor, Darth Sidious, etc).",
+        "If rotated by Revolution, Light could use the text to deploy Senator Palpatine."
+      ],
       "set": "216",
       "side": "Dark"
     },
@@ -59676,9 +59704,6 @@
     },
     {
       "front": {
-        "characteristics": [
-          "leader"
-        ],
         "deploy": "2",
         "destiny": "½ or 5½",
         "destinyValues": [
@@ -59689,7 +59714,7 @@
           "Astromech Droid"
         ],
         "forfeit": "4",
-        "gametext": "While present with your leader or First Order character, cancels BB-8's and/or Rose's game text at same and related sites. During your move phase, may place in Used Pile; 'break cover' of all Undercover spies here (if any).",
+        "gametext": "Deploys -1 to same site as BB-8. Cancels game text of BB-8 and/or Rose at same site. During your move phase, may place in Used Pile; 'break cover' of all Undercover spies here (if any). Immune to Restraining Bolt and Sorry About The Mess.",
         "icons": [
           "Nav Computer",
           "Episode VII",
@@ -60611,7 +60636,7 @@
       ],
       "front": {
         "destiny": "4",
-        "gametext": "Deploy on table. While Sidious alone, Jedi with him are power and defense value -1. If Revenge Of The Sith on table, your Sidious may be targeted by Force Lightning. Once per game, if Sidious with a Dark Jedi, may retrieve a character into hand. (Immune to Alter.)",
+        "gametext": "Deploy on table. If Revenge Of The Sith on table, your Sidious may be targeted by Force Lightning and Lord Sidious may use his game text as if alone. Once per game, if Sidious with a Dark Jedi, may retrieve a character into hand. [Immune to Alter.]",
         "icons": [
           "Episode I",
           "Set 17"
@@ -60631,12 +60656,14 @@
         }
       ],
       "pulledBy": [
+        "Surface Defense (V)",
         "Twi'lek Advisor",
         "We Must Accelerate Our Plans"
       ],
       "rarity": "U",
       "rulings": [
-        "When using the Force Lightning text, treat all instances of the word 'Emperor' on Force Lightning as 'your Sidious' instead."
+        "When using the Force Lightning text, treat all instances of the word 'Emperor' on Force Lightning as 'your Sidious' instead.",
+        "When retrieving a character into hand, search entire Lost Pile; do not shuffle."
       ],
       "set": "217",
       "side": "Dark"
@@ -60823,6 +60850,344 @@
       "rulings": [
         "The first function may be played at any time. You do not specify in advance whether you are searching for a Neimoidian or an Effect.",
         "The second function (deploying the Bridge) may only be played during your deploy phase, and only if the Bridge is not already on table."
+      ],
+      "set": "218",
+      "side": "Dark"
+    },
+    {
+      "abbr": [
+        "ADTFTR&TO",
+        "A Dark Time combo"
+      ],
+      "cancels": [
+        "It Could Be Worse",
+        "Projection Of A Skywalker (sometimes)",
+        "Force retrieval from General Leia Organa, Rey With Lightsaber, Rey All Of The Jedi, and Rose Tico."
+      ],
+      "front": {
+        "destiny": "5",
+        "gametext": "For remainder of turn, opponent's Force retrieval using Resistance characters' game text is canceled. OR For remainder of turn, opponent may not cancel your battle destiny draws. OR Search opponent's Lost Pile; place one device you find there out of play. OR Cancel It Could Be Worse. OR Cancel Projection Of A Skywalker at an opponent's planet site.",
+        "icons": [
+          "Set 18"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual18-Dark/large/adarktimefortherebelliontarkinsorders.gif",
+        "subType": "Used",
+        "title": "•A Dark Time For The Rebellion & •Tarkin's Orders",
+        "type": "Interrupt",
+        "uniqueness": "*"
+      },
+      "gempId": "218_7",
+      "id": 7047,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "218"
+        }
+      ],
+      "rarity": "C1",
+      "rulings": [
+        "First function: Rey, All Of The Jedi may perform her action that places a card out of play. Only the retrieval is canceled.",
+        "Second function: The number of battle destiny draws may still be limited."
+      ],
+      "set": "218",
+      "side": "Dark"
+    },
+    {
+      "front": {
+        "characteristics": [
+          "Imperial (starship)"
+        ],
+        "deploy": "2",
+        "destiny": "2",
+        "forfeit": "4",
+        "gametext": "May add 1 pilot. While Stele piloting: immune to attrition < 5, game text of Fighters Coming In may not be canceled, and the power of your TIE Defenders here may not be reduced.",
+        "hyperspeed": "3",
+        "icons": [
+          "Nav Computer",
+          "Set 18"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual18-Dark/large/alpha1.gif",
+        "lore": "Blank",
+        "maneuver": "4",
+        "power": "3",
+        "subType": "Starfighter: TIE Defender",
+        "title": "•Alpha 1",
+        "type": "Starship",
+        "uniqueness": "*"
+      },
+      "gempId": "218_8",
+      "id": 7048,
+      "legacy": false,
+      "matching": [
+        "Maarek Stele, The Emperor's Reach"
+      ],
+      "printings": [
+        {
+          "set": "218"
+        }
+      ],
+      "pulledBy": [
+        "Commander Brandei",
+        "Maarek Stele, The Emperor's Reach",
+        "Short Range Fighters & •Watch Your Back!"
+      ],
+      "rarity": "F",
+      "rulings": [
+        "Prevents game text of Fighters Coming In from being 'suspended' by General Leia Organa or Grand Admiral Thrawn (V).",
+        "'Power of your TIE Defenders here may not be reduced' protects against all negative modifiers (e.g. Combined Fleet Action or Dash Rendar) and against resets to a lower number (e.g. Power Pivot)."
+      ],
+      "set": "218",
+      "side": "Dark"
+    },
+    {
+      "abbr": [
+        "CTRv",
+        "Crush V"
+      ],
+      "front": {
+        "destiny": "4",
+        "gametext": "If Visage Of The Emperor on table, deploy on table. At Mustafar, Devastator is deploy -3 and immune to attrition < 6. Once per turn, may deploy Devastator, Mustafar, or a private platform from Reserve Deck; reshuffle. [Immune to Alter.]",
+        "icons": [
+          "Premium",
+          "Set 18"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual18-Dark/large/crushtherebellion.gif",
+        "lore": "After dueling his son and seizing control of a city in the clouds, Vader resumed his quest to destroy the Alliance.",
+        "title": "•Crush The Rebellion (V)",
+        "type": "Effect",
+        "uniqueness": "*"
+      },
+      "gempId": "218_9",
+      "id": 7049,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "218"
+        }
+      ],
+      "pulledBy": [
+        "Seal Off The Bridge",
+        "Surface Defense (V)",
+        "Twi'lek Advisor",
+        "We Must Accelerate Our Plans"
+      ],
+      "pulls": [
+        "Coruscant: Private Platform (Docking Bay)",
+        "Devastator",
+        "Devastator (V)",
+        "Mustafar",
+        "Mustafar: Private Platform (Docking Bay)"
+      ],
+      "rarity": "PM",
+      "rulings": [
+        "Either virtual or non-virtual Visage Of The Emperor anywhere on table will allow this card to deploy."
+      ],
+      "set": "218",
+      "side": "Dark"
+    },
+    {
+      "abbr": [
+        "HNGTMD"
+      ],
+      "cancels": [
+        "A battle (where a Fett escorting a captive)"
+      ],
+      "front": {
+        "destiny": "4",
+        "gametext": "For remainder of turn, your Fetts add 1 to their weapon destiny draws and targets they `hit' are forfeit = 0. OR Once per game, cancel a battle just initiated where a Fett is escorting a captive; opponent's cards there move for free this turn. [Immune to Sense.]",
+        "icons": [
+          "Set 18"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual18-Dark/large/hesnogoodtomedead.gif",
+        "lore": "Blank",
+        "subType": "Used",
+        "title": "•He's No Good To Me Dead",
+        "type": "Interrupt",
+        "uniqueness": "*"
+      },
+      "gempId": "218_32",
+      "id": 7050,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "218"
+        }
+      ],
+      "rarity": "U",
+      "rulings": [
+        "The entire Interrupt is immune to Sense.",
+        "First function: 'your Fetts' means Dark's cards with a Jango Fett or Boba Fett persona, including Boba Fett In Slave I. It does not affect Light's Boba Fett card.",
+        "Second function: All opponent's cards at the location of the battle <u>at the time this Interrupt is played</u> move for free this turn. The battle is canceled first, so opponent's excluded cards become active again and are also targeted to move for free."
+      ],
+      "set": "218",
+      "side": "Dark"
+    },
+    {
+      "abbr": [
+        "HP"
+      ],
+      "cancels": [
+        "Suspends Menace Fades when conditions are met."
+      ],
+      "front": {
+        "darkSideIcons": 2,
+        "destiny": "0",
+        "gametext": "Dark:  While your [Episode VII] objective on table and your First Order leader here, Menace Fades is suspended.  Light:  If Starkiller Base on table, your Force generation is -1 here.",
+        "icons": [
+          "Planet",
+          "Episode VII",
+          "Set 18"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual18-Dark/large/hosnianprime.gif",
+        "lightSideIcons": 2,
+        "parsec": "1",
+        "subType": "System",
+        "title": "•Hosnian Prime",
+        "type": "Location",
+        "uniqueness": "*"
+      },
+      "gempId": "218_10",
+      "id": 7051,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "218"
+        }
+      ],
+      "pulledBy": [
+        "I Want That Map",
+        "Kuat Drive Yards (V)",
+        "Neimoidian Advisor"
+      ],
+      "rarity": "U1",
+      "rulings": [
+        "While Menace Fades is suspended, it cannot be targeted to be canceled (e.g. by Alter)."
+      ],
+      "set": "218",
+      "side": "Dark"
+    },
+    {
+      "abbr": [
+        "IHYNv"
+      ],
+      "canceledBy": [
+        "Sense"
+      ],
+      "front": {
+        "destiny": "5",
+        "gametext": "If Revenge Of The Sith on table, choose: If a Dark Jedi is in battle with an opponent's character of ability > 3, add one battle destiny. OR During your move phase, use 2 Force to relocate your apprentice from an [Episode I] site to another site.",
+        "icons": [
+          "Set 18"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual18-Dark/large/ihaveyounow.gif",
+        "lore": "'Several fighters have broken off from the main group. Come with me.' Darth Vader targets his TIE fighter's fire-linked blaster cannons at the Rebel pilots in the trench.",
+        "subType": "Lost",
+        "title": "I Have You Now (V)",
+        "type": "Interrupt"
+      },
+      "gempId": "218_11",
+      "id": 7052,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "218"
+        }
+      ],
+      "pulledBy": [
+        "Crush The Rebellion"
+      ],
+      "rarity": "R2",
+      "rulings": [
+        "Both functions require Revenge Of The Sith on table to play.",
+        "First function: Play during weapons segment. The battle destiny is then added even if the conditions for it are no longer met later.",
+        "Second function: The destination site does not need to be an Episode I site.",
+        "Second function: The character may not move to or from a pilot/passenger slot of a starship or vehicle."
+      ],
+      "set": "218",
+      "side": "Dark"
+    },
+    {
+      "counterpart": "Malastare",
+      "front": {
+        "darkSideIcons": 2,
+        "destiny": "0",
+        "gametext": "Dark:  If you control Podrace Arena, Force drain +1 here.  Light:  If opponent controls Podrace Arena, Force drain -1 here.",
+        "icons": [
+          "Planet",
+          "Episode I",
+          "Set 18"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual18-Dark/large/malastare.gif",
+        "lightSideIcons": 1,
+        "parsec": "3",
+        "subType": "System",
+        "title": "•Malastare (V)",
+        "type": "Location",
+        "uniqueness": "*"
+      },
+      "gempId": "218_12",
+      "id": 7053,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "218"
+        }
+      ],
+      "pulledBy": [
+        "Commander Merrejk",
+        "Kuat Drive Yards (V)",
+        "Neimoidian Advisor"
+      ],
+      "rarity": "U",
+      "rulings": [
+        "It is possible for a player to control Tatooine: Podrace Arena regardless of whether there is a podrace occurring there."
+      ],
+      "set": "218",
+      "side": "Dark"
+    },
+    {
+      "abbr": [
+        "NCNv"
+      ],
+      "front": {
+        "destiny": "4",
+        "gametext": "Deploy on table. Once per game, may deploy Sebulba from Reserve Deck; reshuffle. Once per turn, may deploy Malastare or Podrace Arena from Reserve Deck; reshuffle. While present with Sebulba, Jar Jar's game text is canceled. [Immune to Alter.]",
+        "icons": [
+          "Tatooine",
+          "Episode I",
+          "Set 18"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual18-Dark/large/nichubana.gif",
+        "lore": "'Your buddy here was about to be turned into orange goo. He picked a fight with a Dug. An especially dangerous Dug called Sebulba.'",
+        "title": "•Ni Chuba Na?? (V)",
+        "type": "Effect",
+        "uniqueness": "*"
+      },
+      "gempId": "218_13",
+      "id": 7054,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "218"
+        }
+      ],
+      "pulledBy": [
+        "Seal Off The Bridge",
+        "Surface Defense (V)",
+        "Twi'lek Advisor",
+        "We Must Accelerate Our Plans"
+      ],
+      "pulls": [
+        "Malastare",
+        "Malastare (V)",
+        "Sebulba",
+        "Sebulba (V)",
+        "Tatooine: Podrace Arena"
+      ],
+      "rarity": "C",
+      "rulings": [
+        "In a single turn, may deploy Sebulba as well as one of either Malastare or Podrace Arena. Note that these are separate top-level actions.",
+        "In order for Sebulba to be present with Jar Jar, neither of them can be inside a starship or an enclosed vehicle."
       ],
       "set": "218",
       "side": "Dark"
