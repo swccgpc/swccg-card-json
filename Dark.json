@@ -1184,6 +1184,12 @@
         "A non-unique alien"
       ],
       "rarity": "PM",
+      "rulings": [
+        "May be played in response to any opponent's battle destiny draw except the first two draws (if played 'early' it does not affect the subsequent draws).",
+        "When counting how many battle destinies the opponent has drawn so far, count all battle destiny draws, even canceled ones. Then choose 2 non-canceled draws to remain non-canceled, and cancel the rest.",
+        "After playing this Interrupt, it is too late to then play a response to an individual destiny draw (e.g. you cannot cancel all but 2 draws, then use Grand Moff Tarkin to cancel another).",
+        "If opponent had a 'Draw X and Choose Y destinies' scenario, only the chosen destinies are counted and targeted; the others are ignored entirely."
+      ],
       "set": "10",
       "side": "Dark"
     },
@@ -6253,6 +6259,12 @@
         "We Must Accelerate Our Plans"
       ],
       "rarity": "U",
+      "rulings": [
+        "A starfighter (belonging to <u>either player</u>!) at same system or sector as Blockade Flagship may land here.",
+        "A starfighter (belonging to <u>either player</u>!) here may take off to same system or sector as Blockade Flagship.",
+        "If Blockade Flagship is lost from table, this site remains on table.",
+        "If Blockade Flagship is 'blown away' (see Bravo Fighter), this site and all cards here are lost, and Blockade Flagship sites cannot be deployed for remainder of game."
+      ],
       "set": "14",
       "side": "Dark"
     },
@@ -12619,7 +12631,10 @@
       ],
       "rarity": "PM",
       "rulings": [
-        "A frozen captive (such as from Profit) counts as an ability = 0 captive towards the Flip condition."
+        "A frozen captive (such as from Profit) counts as an ability = 0 captive towards the Flip condition.",
+        "When deploying a starship from Reserve Deck, if the starship is unpiloted, may combine it with a pilot from hand, allowing deployment to a system or sector.",
+        "Once the player initiates the action to deploy a card from Reserve Deck, they must deploy something if possible. On the 0-side, player is <u>required</u> to combine an unpiloted starship with a pilot from hand if that is the only possible option.",
+        "If the attempt to deploy a card from Reserve Deck fails, opponent verifies Reserve Deck (not hand). On the 0-side, a judge may be called to review hand and Reserve Deck to confirm that no starship + pilot deployment was possible."
       ],
       "set": "110",
       "side": "Dark"
@@ -20118,6 +20133,12 @@
         "Join Us Or Die (V)"
       ],
       "rarity": "U",
+      "rulings": [
+        "A starfighter (belonging to <u>either player</u>!) at same system or sector as Executor may land here.",
+        "A starfighter (belonging to <u>either player</u>!) here may take off to same system or sector as Executor.",
+        "If Executor is lost from table, this site remains on table.",
+        "The above rulings apply to Flagship Executor as well."
+      ],
       "set": "7",
       "side": "Dark"
     },
@@ -22453,7 +22474,8 @@
       ],
       "rarity": "C",
       "rulings": [
-        "Grievous may use (swing) any stolen lightsaber deployed on him."
+        "Grievous may use (swing) any stolen lightsaber deployed on him.",
+        "Cards with multiple warrior icons can still only escort one captive at a time."
       ],
       "set": "203",
       "side": "Dark"
@@ -22501,7 +22523,8 @@
       ],
       "rarity": "C",
       "rulings": [
-        "Grievous may use (swing) any stolen lightsaber deployed on him."
+        "Grievous may use (swing) any stolen lightsaber deployed on him.",
+        "Cards with multiple warrior icons can still only escort one captive at a time."
       ],
       "set": "203",
       "side": "Dark"
@@ -22549,7 +22572,8 @@
       ],
       "rarity": "C",
       "rulings": [
-        "Grievous may use (swing) any stolen lightsaber deployed on him."
+        "Grievous may use (swing) any stolen lightsaber deployed on him.",
+        "Cards with multiple warrior icons can still only escort one captive at a time."
       ],
       "set": "203",
       "side": "Dark"
@@ -22865,6 +22889,9 @@
         "Masterful Move & Endor Occupation"
       ],
       "rarity": "C2",
+      "rulings": [
+        "Cards that cannot be forfeited (such as a character not participating in battle, or a Floating Refinery) do not prevent a player from canceling all remaining battle damage."
+      ],
       "set": "2",
       "side": "Dark"
     },
@@ -22897,6 +22924,9 @@
         }
       ],
       "rarity": "PM",
+      "rulings": [
+        "Cards that cannot be forfeited (such as a character not participating in battle, or a Floating Refinery) do not prevent a player from canceling all remaining battle damage."
+      ],
       "set": "10",
       "side": "Dark"
     },
@@ -25604,6 +25634,9 @@
         "Double Back"
       ],
       "rarity": "R",
+      "rulings": [
+        "Cards with multiple warrior icons can still only escort one captive at a time."
+      ],
       "set": "4",
       "side": "Dark"
     },
@@ -25705,8 +25738,7 @@
     {
       "abbr": [
         "EPP IG-88",
-        "IG-88 With Gun",
-        "IG-88 w/ Gun"
+        "IG-88 With Gun"
       ],
       "front": {
         "armor": "5",
@@ -26228,6 +26260,10 @@
         }
       ],
       "rarity": "R",
+      "rulings": [
+        "First function: A player with only one weapon may play two copies of this Interrupt in the same control phase (two separate top-level actions causing 1 damage each).",
+        "Second function: After hitting a single character or starship, a player may respond with two copies of this Interrupt (two separate response actions causing 1 damage each)."
+      ],
       "set": "12",
       "side": "Dark"
     },
@@ -27675,6 +27711,11 @@
         "Begin Landing Your Troops & Fighters Straight Ahead"
       ],
       "rarity": "U",
+      "rulings": [
+        "A starfighter (belonging to <u>either player</u>!) at same system or sector as Invisible Hand may land here.",
+        "A starfighter (belonging to <u>either player</u>!) here may take off to same system or sector as Invisible Hand.",
+        "If Invisible Hand is lost from table, this site remains on table."
+      ],
       "set": "211",
       "side": "Dark"
     },
@@ -28500,7 +28541,7 @@
         "lore": "Han Solo was frozen in carbonite to test the process Vader planned to use on Luke. When Boba Fett delivered Han to Jabba, the vile gangster called him his 'favorite decoration.'",
         "power": "0",
         "subType": "Rebel",
-        "title": "•Jabba's Prize/Jabba's Prize",
+        "title": "•Jabba's Prize / Jabba's Prize",
         "type": "Character",
         "uniqueness": "*"
       },
@@ -28520,7 +28561,7 @@
         "lore": "Han Solo was frozen in carbonite to test the process Vader planned to use on Luke. When Boba Fett delivered Han to Jabba, the vile gangster called him his 'favorite decoration.'",
         "power": "0",
         "subType": "Rebel",
-        "title": "•Jabba's Prize/Jabba's Prize",
+        "title": "•Jabba's Prize / Jabba's Prize",
         "type": "Character",
         "uniqueness": "*"
       },
@@ -29689,6 +29730,10 @@
         "Kuat Drive Yards (V)"
       ],
       "rarity": "C1",
+      "rulings": [
+        "LS Text: A permanent pilot Chewbacca (e.g. Han Chewie And The Falcon) is not a Wookiee so it does not receive forfeit +2.",
+        "LS Text: If the Wookiee aboard is forfeited first, the starship is no longer forfeit +2 when it is forfeited afterwards (as such, the forfeit +2 text is rarely utilized)."
+      ],
       "set": "2",
       "side": "Dark"
     },
@@ -32856,7 +32901,7 @@
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual5-Dark/large/lukeskywalkertheemperorsprizeback.gif",
         "power": "6",
         "subType": "Rebel",
-        "title": "•Luke Skywalker, The Emperor's Prize/Luke Skywalker, The Emperor's Prize",
+        "title": "•Luke Skywalker, The Emperor's Prize / Luke Skywalker, The Emperor's Prize",
         "type": "Character",
         "uniqueness": "*"
       },
@@ -32875,7 +32920,7 @@
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual5-Dark/large/lukeskywalkertheemperorsprizefront.gif",
         "power": "0",
         "subType": "Rebel",
-        "title": "•Luke Skywalker, The Emperor's Prize/Luke Skywalker, The Emperor's Prize",
+        "title": "•Luke Skywalker, The Emperor's Prize / Luke Skywalker, The Emperor's Prize",
         "type": "Character",
         "uniqueness": "*"
       },
@@ -33087,6 +33132,11 @@
         }
       ],
       "rarity": "R2",
+      "rulings": [
+        "May relocate a character even on Dagobah or Ahch-To.",
+        "May not relocate a character that cannot move.",
+        "If relocating to a Sandcrawler site, it must be a site belonging to the same Sandcrawler that is using the Magnetic Suction Tube."
+      ],
       "set": "2",
       "side": "Dark"
     },
@@ -33193,6 +33243,10 @@
         "Aratech Corporation (V)"
       ],
       "rarity": "R",
+      "rulings": [
+        "2nd sentence: Marquand and Watts must both be piloting the same combat vehicle.",
+        "This card is the same Marquand persona seen on Marquand In Blizzard 6. Both cannot be on table at the same time, and neither card may persona replace the other."
+      ],
       "set": "8",
       "side": "Dark"
     },
@@ -33641,6 +33695,11 @@
         "Vibro-Ax"
       ],
       "rarity": "PM",
+      "rulings": [
+        "May use Vader's Obsession on its own in place of Vader.",
+        "May use Vader's Obsession in conjunction with Epic Duel in place of Vader.",
+        "May <u>not</u> use The Circle Is Now Complete in place of Vader, with or without Epic Duel."
+      ],
       "set": "110",
       "side": "Dark"
     },
@@ -34204,6 +34263,12 @@
         "We Must Accelerate Our Plans"
       ],
       "rarity": "R1",
+      "rulings": [
+        "If the targeted character moves (or is carried) through the Utinni Effect's site, it will be canceled as the character moves through.",
+        "The targeted character may not move (or be carried) to any location that isn't part of the same system.",
+        "The targeted character may not move (or be carried) to the related system location or a related cloud sector.",
+        "The targeted character may not initiate a move (or be carried) to any site of greater distance (number of adjacent sites) from the Utinni Effect than the character's current site, even if doing so would pass through the Utinni Effect and complete it."
+      ],
       "set": "3",
       "side": "Dark"
     },
@@ -34312,6 +34377,9 @@
         "We Must Accelerate Our Plans"
       ],
       "rarity": "U",
+      "rulings": [
+        "Cards that cannot be forfeited (such as a character not participating in battle, or a Floating Refinery) do not prevent a player from canceling all remaining battle damage."
+      ],
       "set": "12",
       "side": "Dark"
     },
@@ -34802,6 +34870,10 @@
         "We Must Accelerate Our Plans"
       ],
       "rarity": "U",
+      "rulings": [
+        "Wealth agenda function: This is considered to be canceling the original battle destiny draw. This function cannot be utilized if something prevents the original draw from being canceled.",
+        "Wealth agenda function: Use the destiny value of the card from hand, then place the card in Used Pile. This is a substituted destiny draw, but the physical card used is not considered a destiny draw or 'just drawn'."
+      ],
       "set": "12",
       "side": "Dark"
     },
@@ -41988,6 +42060,11 @@
         "Hondo Ohnaka"
       ],
       "rarity": "R",
+      "rulings": [
+        "Zero is an even number.",
+        "If the destiny is not a whole number (e.g. a card with destiny 0.5), it is neither even nor odd, so no result.",
+        "When a destiny card is lost, this does not affect the destiny value (e.g. a battle destiny draw of 5 is still a 5 after the card is lost)."
+      ],
       "set": "6",
       "side": "Dark"
     },
@@ -43786,6 +43863,9 @@
       "side": "Dark"
     },
     {
+      "abbr": [
+        "SFS"
+      ],
       "canceledBy": [
         "Inconsequential Barriers"
       ],
@@ -43815,6 +43895,11 @@
         "Sy Snootles (V)"
       ],
       "rarity": "C2",
+      "rulings": [
+        "Completed Jedi Tests that are 'on table' due to Mind What You Have Learned are treated as being on the apprentice (so they are returned to hand along with the apprentice).",
+        "Incomplete Jedi Tests are lost when the apprentice leaves table",
+        "If Save You It Can on table, the apprentice returns to hand first, then the Jedi Tests on table are suspended (so they are not returned to hand)."
+      ],
       "set": "1",
       "side": "Dark"
     },
@@ -44657,6 +44742,10 @@
         }
       ],
       "rarity": "C",
+      "rulings": [
+        "Neither function is affected by Only Jedi Carry That Weapon (the just-lost character is no longer armed with the weapon).",
+        "Cannot steal weapons that have been forfeited (such as artillery weapons or weapons forfeited via Superficial Damage)."
+      ],
       "set": "6",
       "side": "Dark"
     },
@@ -45242,7 +45331,7 @@
           "Cloud City"
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/CloudCity-Dark/large/sonicbombardment.gif",
-        "lore": "Ooui ooui ooui ooui ooui ooui ooui ooui ooui ooui ooui ooui ooui ooui ooui ooui ooui ooui ooui ooui ooui ooui.",
+        "lore": "Oouioouioouioouioouioouioouioouioouioouioouioouioouioouioouioouioouioouioouioouioouioouioouioouioouioouioo-",
         "subType": "Used Or Lost",
         "title": "•Sonic Bombardment",
         "type": "Interrupt",
@@ -45275,7 +45364,7 @@
           "Set 8"
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual8-Dark/large/sonicbombardment.gif",
-        "lore": "Ooui ooui ooui ooui ooui ooui ooui ooui ooui ooui ooui ooui ooui ooui ooui ooui ooui ooui ooui ooui ooui ooui.",
+        "lore": "Oouioouioouioouioouioouioouioouioouioouioouioouioouioouioouioouioouioouioouioouioouioouioouioouioouioouioo-",
         "subType": "Used Or Lost",
         "title": "•Sonic Bombardment (V)",
         "type": "Interrupt",
@@ -47846,6 +47935,15 @@
         }
       ],
       "rarity": "R1",
+      "rulings": [
+        "Once during each Dark's turns, Dark may place a card from hand face down under the Bluffs site (this is called a bluff card).",
+        "Dark's Force drains at Bluffs are +1 for each bluff card.",
+        "During Dark's deploy phase, Light may choose to reveal any of Dark's bluff cards (may reveal multiple in the same deploy phase).",
+        "If a revealed card is a character or vehicle, Dark may attempt to deploy it (using deploy cost = 0) to the Bluffs; normal deployment rules apply including needing presence or Force icons.",
+        "If the revealed card is not deployed for any reason (card is not a character/vhicle, deployment was not possible, Dark chooses not to deploy), Dark loses 2 Force and the bluff card.",
+        "Revolution does not change anything (Dark still bluffs, not Light).",
+        "Expand The Empire does not change anything (bluffing is only possible at the Bluffs site)."
+      ],
       "set": "2",
       "side": "Dark"
     },
@@ -49935,7 +50033,7 @@
     },
     {
       "abbr": [
-        "TINT/OE"
+        "TINT&OE"
       ],
       "front": {
         "destiny": "1",
@@ -51218,7 +51316,8 @@
         "Can only steal cards that can be carried by characters, not (for example) Proton Torpedoes.",
         "Can steal (or destroy) Han's Toolkit from a character, vehicle, or starship.",
         "The weapons/devices must be present, but Tonnika Sisters do not need to be present.",
-        "May steal/destroy up to two weapons or up to two devices, but not one of each."
+        "May steal/destroy up to two weapons or up to two devices, but not one of each.",
+        "Cards with multiple warrior icons can still only escort one captive at a time."
       ],
       "set": "1",
       "side": "Dark"
@@ -53093,6 +53192,9 @@
         }
       ],
       "rarity": "PM",
+      "rulings": [
+        "The destinies are 'duel destinies' (e.g. for The Ebb Of Battle or Deep Hatred)."
+      ],
       "set": "101",
       "side": "Dark"
     },
@@ -54300,6 +54402,9 @@
       "side": "Dark"
     },
     {
+      "abbr": [
+        "WCC"
+      ],
       "front": {
         "destiny": "5",
         "gametext": "If Watto is in a battle at a site, draw destiny. If destiny is odd, your total battle destiny = 0 this battle. If destiny is even, add two battle destiny.",
@@ -54326,6 +54431,10 @@
         "Watto"
       ],
       "rarity": "U",
+      "rulings": [
+        "Zero is an even number.",
+        "If the destiny is not a whole number (e.g. a card with destiny 0.5), it is neither even nor odd, so no result."
+      ],
       "set": "11",
       "side": "Dark"
     },
@@ -55434,6 +55543,12 @@
         }
       ],
       "rarity": "U",
+      "rulings": [
+        "May be played in response to any opponent's battle destiny draw except the first two draws (if played 'early' it does not affect the subsequent draws).",
+        "When counting how many battle destinies the opponent has drawn so far, count all battle destiny draws, even canceled ones. Then choose 2 non-canceled draws to remain non-canceled, and cancel the rest.",
+        "After playing this Interrupt, it is too late to then play a response to an individual destiny draw (e.g. you cannot cancel all but 2 draws, then use Grand Moff Tarkin to cancel another).",
+        "If opponent had a 'Draw X and Choose Y destinies' scenario, only the chosen destinies are counted and targeted; the others are ignored entirely."
+      ],
       "set": "6",
       "side": "Dark"
     },
@@ -55641,6 +55756,11 @@
         "Murttoc Yine"
       ],
       "rarity": "U",
+      "rulings": [
+        "Zero is an even number.",
+        "If the destiny is not a whole number (e.g. a card with destiny 0.5), it is neither even nor odd, so no result.",
+        "When the draw is even, Yade takes that same even-numbered destiny card into hand (not a new destiny draw)."
+      ],
       "set": "12",
       "side": "Dark"
     },
@@ -56246,6 +56366,10 @@
       "side": "Dark"
     },
     {
+      "abbr": [
+        "YSM"
+      ],
+      "counterpart": "Either Way, You Win",
       "front": {
         "destiny": "4",
         "gametext": "Opponent chooses: opponent may activate up to 2 Force and you may activate up to 4 Force, or opponent retrieves 1 Force and you retrieve 3 Force.",
@@ -56269,10 +56393,18 @@
         }
       ],
       "rarity": "U",
+      "rulings": [
+        "To initiate this Interrupt, each player needs at least 1 card in Reserve Deck.",
+        "Empty Lost Piles do not prevent playing this Interrupt.",
+        "If the activation option is chosen, each player may still decline to activate anything."
+      ],
       "set": "11",
       "side": "Dark"
     },
     {
+      "abbr": [
+        "YSMv"
+      ],
       "front": {
         "destiny": "4",
         "gametext": "Place opponent's just drawn destiny on top of their Reserve Deck; reshuffle. OR If opponent just lost Force from your [Episode I] objective, take any one card from Used Pile into hand; reshuffle.",
@@ -56297,9 +56429,9 @@
       ],
       "rarity": "U",
       "rulings": [
-        "To initiate this Interrupt, each player needs at least 1 card in Reserve Deck.",
-        "Empty Lost Piles do not prevent playing this Interrupt.",
-        "If the activation option is chosen, each player may still decline to activate anything."
+        "First function: After placing just drawn destiny on Reserve Deck, the destiny value can be modified, reset, or canceled, but actions requiring the physical card cannot be initiated. Examples:<ul><li>Luke Skywalker, Rebel Scout (V) cannot use its own text to be taken into hand to cause a redraw.</li><li>Jedi Levitation (V) cannot take the card into hand to cause a redraw.</li><li>Both functions of You Do Have Your moments (V) <u>can</u> played (these functions do not require a physical card).</li></ul>",
+        "First function: If the destiny has been canceled, or if the card has already been placed somewhere else (such as Sando Aqua Monster), it is no longer 'just drawn' so You Swindled Me (V) may not target it.",
+        "Second function: The card taken into hand is not revealed to the opponent."
       ],
       "set": "208",
       "side": "Dark"
@@ -58282,6 +58414,9 @@
       "side": "Dark"
     },
     {
+      "abbr": [
+        "PER"
+      ],
       "front": {
         "ability": "7",
         "characteristics": [
@@ -58313,6 +58448,11 @@
         }
       ],
       "rarity": "U1",
+      "rulings": [
+        "This card qualifies as Emperor, as Palpatine, and as Sidious.",
+        "If his game text is canceled, the text cannot be used to take him into hand when about to be lost.",
+        "If he is hit during battle and then excluded from the battle (e.g. by Clash Of Sabers) he is inactive and so cannot use his text to be taken into hand. He is immediately lost due to being hit while outside of a battle."
+      ],
       "set": "214",
       "side": "Dark"
     },
@@ -58953,7 +59093,8 @@
         "This card has the Rep's species in all card states, including while in hand, Reserve Deck, etc.",
         "This card has the Rep's species even while its gametext is canceled.",
         "When retrieving multiple Force, the once per turn action may respond to any one individual unit of retrieved Force.",
-        "This card is non-unique and counts as a non-unique alien of your Rep's species for flipping My Kind Of Scum."
+        "This card is non-unique and counts as a non-unique alien of your Rep's species for flipping My Kind Of Scum.",
+        "Cards with multiple warrior icons can still only escort one captive at a time."
       ],
       "set": "216",
       "side": "Dark"
@@ -61101,7 +61242,8 @@
         "Both functions require Revenge Of The Sith on table to play.",
         "First function: Play during weapons segment. The battle destiny is then added even if the conditions for it are no longer met later.",
         "Second function: The destination site does not need to be an Episode I site.",
-        "Second function: The character may not move to or from a pilot/passenger slot of a starship or vehicle."
+        "Second function: The character may not move to or from a pilot/passenger slot of a starship or vehicle.",
+        "Second function: The word 'apprentice' <u>only</u> refers to the apprentice chosen by Revenge Of The Sith (it is not referring to characters with 'apprentice' in title or lore)."
       ],
       "set": "218",
       "side": "Dark"

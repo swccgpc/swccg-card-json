@@ -476,7 +476,7 @@
         "Malastare",
         "Mon Calamari",
         "Naboo",
-        "Nar Shaddaa (V)",
+        "Nar Shaddaa",
         "Raithal",
         "Sullust",
         "Tatooine",
@@ -2618,14 +2618,10 @@
         "Leia, Rebel Princess",
         "Luke Skywalker",
         "Luke Skywalker (V)",
-        "Luke Skywalker",
-        "Jedi Knight",
-        "Luke Skywalker",
-        "Rebel Scout",
-        "Luke Skywalker",
-        "Rebel Scout (V)",
-        "Luke Skywalker",
-        "The Rebellion's Hope",
+        "Luke Skywalker, Jedi Knight",
+        "Luke Skywalker, Rebel Scout",
+        "Luke Skywalker, Rebel Scout (V)",
+        "Luke Skywalker, The Rebellion's Hope",
         "Luke With Lightsaber",
         "Master Luke",
         "Princess Leia",
@@ -3772,14 +3768,10 @@
         "Commander Luke Skywalker (V)",
         "Luke Skywalker",
         "Luke Skywalker (V)",
-        "Luke Skywalker",
-        "Jedi Knight",
-        "Luke Skywalker",
-        "Rebel Scout",
-        "Luke Skywalker",
-        "Rebel Scout (V)",
-        "Luke Skywalker",
-        "The Rebellion's Hope",
+        "Luke Skywalker, Jedi Knight",
+        "Luke Skywalker, Rebel Scout",
+        "Luke Skywalker, Rebel Scout (V)",
+        "Luke Skywalker, The Rebellion's Hope",
         "Luke With Lightsaber",
         "Master Luke",
         "Son Of Skywalker"
@@ -5107,8 +5099,8 @@
     },
     {
       "combo": [
-        "Ben Kenobi + Encampment or Deploy regardless of location deployment restrictions.",
-        "Ben Knobi + Krayt Dragon Howl"
+        "Ben Kenobi + Encampment - Deploy regardless of location deployment restrictions.",
+        "Ben Kenobi + Krayt Dragon Howl"
       ],
       "front": {
         "ability": "6",
@@ -5148,6 +5140,12 @@
         "Tatooine: City Outskirts"
       ],
       "rarity": "R",
+      "rulings": [
+        "It is not possible to revive a character and forfeit them again in the same battle.",
+        "A character who has been made 'forfeit = 0' can still be forfeited, and therefore, can still be revived by Ben Kenobi.",
+        "The revived character is a 'fresh copy' unaffected by any previously applied status effects such as 'forfeit = 0' or 'game text canceled for remainder of turn'.",
+        "The revived character could even battle again this turn (e.g. by moving to another site with Nabrun Leids and battling there)."
+      ],
       "set": "7",
       "side": "Light"
     },
@@ -5784,6 +5782,12 @@
         "Security Control"
       ],
       "rarity": "U",
+      "rulings": [
+        "A starfighter (belonging to <u>either player</u>!) at same system or sector as Blockade Flagship may land here.",
+        "A starfighter (belonging to <u>either player</u>!) here may take off to same system or sector as Blockade Flagship.",
+        "If Blockade Flagship is lost from table, this site remains on table.",
+        "If Blockade Flagship is 'blown away' (see Bravo Fighter), this site and all cards here are lost, and Blockade Flagship sites cannot be deployed for remainder of game."
+      ],
       "set": "14",
       "side": "Light"
     },
@@ -7395,8 +7399,7 @@
         "Luke",
         "Luke Skywalker",
         "Luke Skywalker (V)",
-        "Luke Skywalker",
-        "The Rebellion's Hope"
+        "Luke Skywalker, The Rebellion's Hope"
       ],
       "rarity": "R",
       "set": "7",
@@ -7494,9 +7497,9 @@
     {
       "combo": [
         "Captain Han Solo + Life Debt Deploy Chewbacca for free from Reserve Deck if Han is defending a battle alone.",
-        "Captain Han Solo + Millenium Falcon + Punch It!",
+        "Captain Han Solo + Millennium Falcon + Punch It!",
         "Captain Han Solo + Millennium Falcon + R2-D2 (Artoo-Detoo) Millennium Falcon is power 8, Maneuver 8 and Hyperspeed 8 and immune to attrition < 5. All Wings Report In & Darklighter Spin on that Falcon means a battle destiny of 8.",
-        "Captain Han Solo + Millenium Falcon + Moving To Attack Position"
+        "Captain Han Solo + Millennium Falcon + Moving To Attack Position"
       ],
       "front": {
         "ability": "3",
@@ -8265,6 +8268,11 @@
         }
       ],
       "rarity": "U1",
+      "rulings": [
+        "Zero is an even number.",
+        "If subtracting 1 from 0, the final result (after counting all other modifiers as well) may not be negative. If it is negative it becomes a 0.",
+        "If the destiny is not a whole number (e.g. Brainiac), it is neither even nor odd, so Odd Ball may not add or subtract 1."
+      ],
       "set": "208",
       "side": "Light"
     },
@@ -12174,8 +12182,7 @@
         }
       ],
       "pulledBy": [
-        "Might Of The Republic",
-        "Supreme Chancellor Valorum (V)"
+        "Might Of The Republic"
       ],
       "rarity": "C",
       "set": "12",
@@ -16160,6 +16167,10 @@
       "side": "Light"
     },
     {
+      "abbr": [
+        "EWYW"
+      ],
+      "counterpart": "You Swindled Me!",
       "front": {
         "destiny": "4",
         "gametext": "Opponent chooses: opponent may activate up to 2 Force and you may activate up to 4 Force, or opponent retrieves 1 Force and you retrieve 3 Force.",
@@ -17370,9 +17381,6 @@
         "Mantellian Savrip"
       ],
       "rarity": "C2",
-      "rulings": [
-        "Insert cards prevent a player from counting their Reserve Deck, but a judge may be called to state whether We're Doomed is a legal play or not."
-      ],
       "set": "204",
       "side": "Light"
     },
@@ -19278,9 +19286,6 @@
       "gempId": "200_12",
       "id": 4071,
       "legacy": false,
-      "matching": [
-        "Tala 1"
-      ],
       "printings": [
         {
           "set": "200"
@@ -19294,6 +19299,9 @@
         "Yavin 4: Massassi War Room (V)"
       ],
       "rarity": "R",
+      "rulings": [
+        "This card is <u>not</u> a matching pilot for Tala 1."
+      ],
       "set": "200",
       "side": "Light"
     },
@@ -20662,6 +20670,9 @@
       "side": "Light"
     },
     {
+      "abbr": [
+        "GLiG1"
+      ],
       "front": {
         "deploy": "5",
         "destiny": "2",
@@ -20692,10 +20703,9 @@
       ],
       "rarity": "PM",
       "rulings": [
-        "An opponent with no Force remaining may use 'Draws if unable to otherwise' text to draw battle destiny.",
-        "'Draws if unable to otherwise' text does not permit an opponent with Force remaining to avoid paying.",
-        "An opponent with 1 Force available and 'Draws 2 battle destiny if unable to otherwise' can draw both by paying for the first draw and making the second draw without paying.",
-        "An opponent with sufficient Force may still choose to pay for some battle destiny draws and not pay for others (the ones not paid for are prevented)."
+        "This <u>is not</u> the same starship persona as Gold Squadron 1, so both could be on table at same time.",
+        "This <u>is</u> the same starship persona as Gold 1, so both cannot be on table at same time.",
+        "The permanent pilot <u>is</u> the same persona as the character card Dutch, so both cannot be on table at same time."
       ],
       "set": "103",
       "side": "Light"
@@ -20738,6 +20748,14 @@
         }
       ],
       "rarity": "PM",
+      "rulings": [
+        "An opponent with no Force remaining may use 'Draws if unable to otherwise' text to draw battle destiny.",
+        "'Draws if unable to otherwise' text does not permit an opponent with Force remaining to avoid paying.",
+        "An opponent with 1 Force available and 'Draws 2 battle destiny if unable to otherwise' can draw both by paying for the first draw and making the second draw without paying.",
+        "An opponent with sufficient Force may still choose to pay for some battle destiny draws and not pay for others (the ones not paid for are prevented).",
+        "If a destiny draw is canceled and redrawn, the redrawn destiny can be made using 'if unable to otherwise' text even if the original was not (this may not be used to exceed X draws in 'draws X if unable to otherwise', but canceled draws don't count towards X).",
+        "<b>In brief, how can I avoid paying?!</b> The <u>only</u> way to avoid paying is to have 0 Force remaining while using 'draw x battle destiny if unable to otherwise' text."
+      ],
       "set": "200",
       "side": "Light"
     },
@@ -20800,6 +20818,10 @@
         "Life Debt"
       ],
       "rarity": "R",
+      "rulings": [
+        "This is the same starship persona as <i>Millennium Falcon</i>, so both cannot be on table at same time.",
+        "This <u>is not</u> the same starship persona as Gold 1, so both could be on table at same time."
+      ],
       "set": "9",
       "side": "Light"
     },
@@ -21356,7 +21378,9 @@
       ],
       "rarity": "C",
       "rulings": [
-        "May cancel immunity to attrition of a starship even if GLiGS1 is already hit."
+        "May cancel immunity to attrition of a starship even if GLiGS1 is already hit.",
+        "This <u>is</u> the same starship persona as Green Squadron 1, so both cannot be on table at same time.",
+        "The permanent pilot <u>is</u> the same persona as the character card Green Leader, so both cannot be on table at same time."
       ],
       "set": "201",
       "side": "Light"
@@ -21399,7 +21423,9 @@
       ],
       "rarity": "C",
       "rulings": [
-        "May cancel immunity to attrition of a starship even if GLiGS1 is already hit."
+        "May cancel immunity to attrition of a starship even if GLiGS1 is already hit.",
+        "This <u>is</u> the same starship persona as Green Squadron 1, so both cannot be on table at same time.",
+        "The permanent pilot <u>is</u> the same persona as the character card Green Leader, so both cannot be on table at same time."
       ],
       "set": "201",
       "side": "Light"
@@ -21650,9 +21676,6 @@
         {
           "set": "7"
         }
-      ],
-      "pulledBy": [
-        "Supreme Chancellor Valorum (V)"
       ],
       "rarity": "R",
       "set": "7",
@@ -22399,7 +22422,7 @@
       ],
       "pulledBy": [
         "Corporal Beezer",
-        "Nar Shaddaa (V)",
+        "Nar Shaddaa",
         "Portable Scanner"
       ],
       "rarity": "R",
@@ -22447,7 +22470,8 @@
         }
       ],
       "pulledBy": [
-        "Supreme Chancellor Valorum (V)"
+        "Beldon's Eye (V)",
+        "Beldon's Eye & •All My Urchins"
       ],
       "rarity": "U",
       "set": "7",
@@ -23407,6 +23431,11 @@
         "Security Control"
       ],
       "rarity": "C",
+      "rulings": [
+        "A starfighter (belonging to <u>either player</u>!) at same system or sector as Home One may land here.",
+        "A starfighter (belonging to <u>either player</u>!) here may take off to same system or sector as Home One.",
+        "If Home One is lost from table, this site remains on table."
+      ],
       "set": "9",
       "side": "Light"
     },
@@ -23546,9 +23575,6 @@
         {
           "set": "13"
         }
-      ],
-      "pulledBy": [
-        "Supreme Chancellor Valorum (V)"
       ],
       "rarity": "PM",
       "set": "13",
@@ -24022,6 +24048,9 @@
         "Holoprojector"
       ],
       "rarity": "C2",
+      "rulings": [
+        "Cards that cannot be forfeited (such as a character not participating in battle, or a Vaporator) do not prevent a player from canceling all remaining battle damage."
+      ],
       "set": "2",
       "side": "Light"
     },
@@ -24050,6 +24079,9 @@
         }
       ],
       "rarity": "PM",
+      "rulings": [
+        "Cards that cannot be forfeited (such as a character not participating in battle, or a Vaporator) do not prevent a player from canceling all remaining battle damage."
+      ],
       "set": "10",
       "side": "Light"
     },
@@ -24955,6 +24987,9 @@
         "Your Insight Serves You Well & Staging Areas"
       ],
       "rarity": "R",
+      "rulings": [
+        "Light's action to double their total battle destiny is performed during the weapons segment, scheduling the modifier for later (and will still occur even if Han, Chewie, Leia, or Luke is later removed from the battle)."
+      ],
       "set": "9",
       "side": "Light"
     },
@@ -25370,6 +25405,7 @@
       ],
       "rarity": "C",
       "rulings": [
+        "The first function is played during the weapons segment, scheduling the -3 modifier for later (and will still occur even if the scout is later removed from the battle).",
         "Second function may target a vehicle moving 'through' your scout's site. If the driver is removed, the vehicle halts at that site."
       ],
       "set": "9",
@@ -26138,7 +26174,7 @@
         "lore": "Accountant.",
         "power": "2",
         "subType": "Alien",
-        "title": "•The Mythrol/•The Mythrol",
+        "title": "•The Mythrol / •The Mythrol",
         "type": "Character",
         "uniqueness": "*"
       },
@@ -26160,7 +26196,7 @@
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual0-Light/large/themythrolfront.gif",
         "power": "0",
         "subType": "Alien",
-        "title": "•The Mythrol/•The Mythrol",
+        "title": "•The Mythrol / •The Mythrol",
         "type": "Character",
         "uniqueness": "*"
       },
@@ -26178,7 +26214,8 @@
         "Only during the start of the game, and only if Dark has just deployed Jabba's Prize, Light may choose to reveal this card and follow the instructions.",
         "If Dark does not deploy Jabba's Prize (or if Light does not choose to reveal The Mythrol), Light simply places this card under their Starting Effect (even if the Starting Effect does not normally allow such cards under it) without needing to reveal it first.",
         "If Light plays You Can Either Profit By This... and Dark plays Carbon Chamber Testing with Jabba's Prize, and Light chooses to reveal The Mythrol, then The Mythrol will start in the Security Tower and Light will have their Han card start at Audience Chamber.",
-        "If Light attempts to include this card in their 60-card deck, it will be placed out of play at the start of the game (it cannot be played)."
+        "If Light attempts to include this card in their 60-card deck, it will be placed out of play at the start of the game (it cannot be played).",
+        "This card's species is 'Mythrol' and if active (e.g. flipped to the 7-side) would count towards the number of species for Ancient Watering Hole."
       ],
       "set": "200",
       "side": "Light"
@@ -29258,6 +29295,9 @@
       "side": "Light"
     },
     {
+      "abbr": [
+        "LNASHAM"
+      ],
       "front": {
         "destiny": "5",
         "gametext": "Deploy on table. Once per turn, may target a character present with [Cloud City] Lando. For remainder of turn, target is forfeit = 0. During battle on Cloud City, you may use X Force (maximum 3) to add X to your total battle destiny. (Immune to Alter.)",
@@ -29284,7 +29324,9 @@
       ],
       "rarity": "PM",
       "rulings": [
-        "The phrase 'on Cloud City' means at a Cloud City site, not the Bespin: Cloud City sector."
+        "The phrase 'on Cloud City' means at a Cloud City site, not the Bespin: Cloud City sector.",
+        "Using X Force to add to total battle destiny occurs during the weapons segment, scheduling the modifier for later.",
+        "If Light does not successfully complete any battle destiny draws, the +X modifier to total battle destiny is ignored."
       ],
       "set": "13",
       "side": "Light"
@@ -32208,14 +32250,10 @@
         "Luke",
         "Luke Skywalker",
         "Luke Skywalker (V)",
-        "Luke Skywalker",
-        "Jedi Knight",
-        "Luke Skywalker",
-        "Rebel Scout",
-        "Luke Skywalker",
-        "Rebel Scout (V)",
-        "Luke Skywalker",
-        "The Rebellion's Hope",
+        "Luke Skywalker, Jedi Knight",
+        "Luke Skywalker, Rebel Scout",
+        "Luke Skywalker, Rebel Scout (V)",
+        "Luke Skywalker, The Rebellion's Hope",
         "Luke With Lightsaber",
         "Master Luke",
         "Son Of Skywalker"
@@ -32328,14 +32366,10 @@
         "Luke",
         "Luke Skywalker",
         "Luke Skywalker (V)",
-        "Luke Skywalker",
-        "Jedi Knight",
-        "Luke Skywalker",
-        "Rebel Scout",
-        "Luke Skywalker",
-        "Rebel Scout (V)",
-        "Luke Skywalker",
-        "The Rebellion's Hope",
+        "Luke Skywalker, Jedi Knight",
+        "Luke Skywalker, Rebel Scout",
+        "Luke Skywalker, Rebel Scout (V)",
+        "Luke Skywalker, The Rebellion's Hope",
         "Luke With Lightsaber",
         "Master Luke",
         "Son Of Skywalker"
@@ -32378,8 +32412,7 @@
         "Luke",
         "Luke Skywalker",
         "Luke Skywalker (V)",
-        "Luke Skywalker",
-        "The Rebellion's Hope",
+        "Luke Skywalker, The Rebellion's Hope",
         "Luke With Lightsaber",
         "Master Luke",
         "Son Of Skywalker"
@@ -32451,14 +32484,10 @@
         "Luke",
         "Luke Skywalker",
         "Luke Skywalker (V)",
-        "Luke Skywalker",
-        "Jedi Knight",
-        "Luke Skywalker",
-        "Rebel Scout",
-        "Luke Skywalker",
-        "Rebel Scout (V)",
-        "Luke Skywalker",
-        "The Rebellion's Hope",
+        "Luke Skywalker, Jedi Knight",
+        "Luke Skywalker, Rebel Scout",
+        "Luke Skywalker, Rebel Scout (V)",
+        "Luke Skywalker, The Rebellion's Hope",
         "Luke With Lightsaber",
         "Master Luke",
         "Son Of Skywalker",
@@ -32503,14 +32532,10 @@
         "Luke",
         "Luke Skywalker",
         "Luke Skywalker (V)",
-        "Luke Skywalker",
-        "Jedi Knight",
-        "Luke Skywalker",
-        "Rebel Scout",
-        "Luke Skywalker",
-        "Rebel Scout (V)",
-        "Luke Skywalker",
-        "The Rebellion's Hope",
+        "Luke Skywalker, Jedi Knight",
+        "Luke Skywalker, Rebel Scout",
+        "Luke Skywalker, Rebel Scout (V)",
+        "Luke Skywalker, The Rebellion's Hope",
         "Luke With Lightsaber",
         "Master Luke",
         "Son Of Skywalker",
@@ -32552,14 +32577,10 @@
         "Luke",
         "Luke Skywalker",
         "Luke Skywalker (V)",
-        "Luke Skywalker",
-        "Jedi Knight",
-        "Luke Skywalker",
-        "Rebel Scout",
-        "Luke Skywalker",
-        "Rebel Scout (V)",
-        "Luke Skywalker",
-        "The Rebellion's Hope",
+        "Luke Skywalker, Jedi Knight",
+        "Luke Skywalker, Rebel Scout",
+        "Luke Skywalker, Rebel Scout (V)",
+        "Luke Skywalker, The Rebellion's Hope",
         "Luke With Lightsaber",
         "Master Luke",
         "Son Of Skywalker"
@@ -32608,12 +32629,9 @@
         "Commander Luke Skywalker (V)",
         "Luke Skywalker",
         "Luke Skywalker (V)",
-        "Luke Skywalker",
-        "Jedi Knight",
-        "Luke Skywalker",
-        "Rebel Scout",
-        "Luke Skywalker",
-        "Rebel Scout (V)",
+        "Luke Skywalker, Jedi Knight",
+        "Luke Skywalker, Rebel Scout",
+        "Luke Skywalker, Rebel Scout (V)",
         "Luke With Lightsaber",
         "Master Luke",
         "Son of Skywalker"
@@ -32760,6 +32778,9 @@
         }
       ],
       "rarity": "U1",
+      "rulings": [
+        "While turned off (face down), this droid is inactive, not supporting."
+      ],
       "set": "2",
       "side": "Light"
     },
@@ -33078,6 +33099,11 @@
         "Portable Scanner"
       ],
       "rarity": "R2",
+      "rulings": [
+        "May relocate a character even on Dagobah or Ahch-To.",
+        "May not relocate a character that cannot move.",
+        "If relocating to a Sandcrawler site, it must be a site belonging to the same Sandcrawler that is using the Magnetic Suction Tube."
+      ],
       "set": "2",
       "side": "Light"
     },
@@ -33228,6 +33254,9 @@
         "Admiral Ackbar"
       ],
       "rarity": "U",
+      "rulings": [
+        "If deploying to a Home One or Profundity site, the deploy -2 text only applies if the corresponding starship card is also on table."
+      ],
       "set": "9",
       "side": "Light"
     },
@@ -33559,6 +33588,12 @@
         "Stun Blaster"
       ],
       "rarity": "U",
+      "rulings": [
+        "May be played in response to any opponent's battle destiny draw except the first two draws (if played 'early' it does not affect the subsequent draws).",
+        "When counting how many battle destinies the opponent has drawn so far, count all battle destiny draws, even canceled ones. Then choose 2 non-canceled draws to remain non-canceled, and cancel the rest.",
+        "After playing this Interrupt, it is too late to then play a response to an individual destiny draw (e.g. you cannot cancel all but 2 draws, then use Wedge Antilles Red Squadron Leader to cancel another).",
+        "If opponent had a 'Draw X and Choose Y destinies' scenario, only the chosen destinies are counted and targeted; the others are ignored entirely."
+      ],
       "set": "208",
       "side": "Light"
     },
@@ -33657,6 +33692,10 @@
         "We Wish To Board At Once"
       ],
       "rarity": "R2",
+      "rulings": [
+        "Cards forfeited from hand satisfy attrition, battle damage, or both as appropriate.",
+        "Cards forfeited from hand must go to Lost Pile regardless of other game text (e.g. a character could not go to Bacta Tank; <i>Liberty</i> could not go to Used Pile)."
+      ],
       "set": "1",
       "side": "Light"
     },
@@ -33809,6 +33848,9 @@
         }
       ],
       "rarity": "PM",
+      "rulings": [
+        "The 'For remainder of game' section is saying that Light may not play Revolution <u>anywhere</u>."
+      ],
       "set": "111",
       "side": "Light"
     },
@@ -33994,6 +34036,10 @@
         "Tatooine: City Outskirts"
       ],
       "rarity": "R",
+      "rulings": [
+        "Master Qui-Gon (V) may only respond once per action, not once per unit of Force loss.",
+        "Example: Tatooine Occupation causes 3 Force loss. Master Qui-Gon (V) may respond once, not 3 times."
+      ],
       "set": "200",
       "side": "Light"
     },
@@ -34031,6 +34077,10 @@
         }
       ],
       "rarity": "R",
+      "rulings": [
+        "Master Qui-Gon (V) may only respond once per action, not once per unit of Force loss.",
+        "Example: Tatooine Occupation causes 3 Force loss. Master Qui-Gon (V) may respond once, not 3 times."
+      ],
       "set": "200",
       "side": "Light"
     },
@@ -34685,6 +34735,9 @@
         }
       ],
       "rarity": "R",
+      "rulings": [
+        "The 'deploy -2' text only applies when using this objective to deploy Yoda from Reserve Deck."
+      ],
       "set": "7",
       "side": "Light"
     },
@@ -34781,7 +34834,7 @@
         "Naboo: Theed Palace Generator Core",
         "Naboo: Theed Palace Hallway",
         "Naboo: Theed Palace Throne Room",
-        "Nar Shaddaa (V)",
+        "Nar Shaddaa",
         "Nar Shaddaa: Scoundrel's Rest (V)",
         "Nar Shaddaa: Undercity Street (V)",
         "Ord Mantell",
@@ -35302,6 +35355,9 @@
         }
       ],
       "rarity": "R1",
+      "rulings": [
+        "If the destiny draw exceeds the number of opponent's characters with ability = 1, simply target as many as possible, and then they must move away as usual."
+      ],
       "set": "1",
       "side": "Light"
     },
@@ -37718,6 +37774,12 @@
         }
       ],
       "rarity": "C2",
+      "rulings": [
+        "It is not possible to revive a character and forfeit them again in the same battle.",
+        "A character who has been made 'forfeit = 0' can still be forfeited, and therefore, can still be revived by Old Ben.",
+        "The revived character is a 'fresh copy' unaffected by any previously applied status effects such as 'forfeit = 0' or 'game text canceled for remainder of turn'.",
+        "The revived character could even battle again this turn (e.g. by moving to another site with Nabrun Leids and battling there)."
+      ],
       "set": "1",
       "side": "Light"
     },
@@ -37727,7 +37789,7 @@
         "No-Good Swindler"
       ],
       "combo": [
-        "Old Pirates + Han + Lando + Chewie + Luke + Rug Hug + Millenium Falcon Four destiny draws and immunity to attrition < 5."
+        "Old Pirates + Han + Lando + Chewie + Luke + Rug Hug + Millennium Falcon Four destiny draws and immunity to attrition < 5."
       ],
       "front": {
         "destiny": "5",
@@ -38067,7 +38129,6 @@
         }
       ],
       "pulledBy": [
-        "Supreme Chancellor Valorum (V)",
         "The Signal",
         "We Wish To Board At Once"
       ],
@@ -42479,6 +42540,10 @@
         }
       ],
       "rarity": "R",
+      "rulings": [
+        "First function: A player with only one weapon may play two copies of this Interrupt in the same control phase (two separate top-level actions causing 1 damage each).",
+        "Second function: After hitting a single character or starship, a player may respond with two copies of this Interrupt (two separate response actions causing 1 damage each)."
+      ],
       "set": "12",
       "side": "Light"
     },
@@ -43272,6 +43337,9 @@
         "Red 1 (V)"
       ],
       "rarity": "U1",
+      "rulings": [
+        "This <u>is not</u> the same starship persona as Red Squadron 1, so both could be on table at same time."
+      ],
       "set": "1",
       "side": "Light"
     },
@@ -43327,6 +43395,9 @@
         "Wedge In Red Squadron 1"
       ],
       "rarity": "U1",
+      "rulings": [
+        "This <u>is not</u> the same starship persona as Red Squadron 1, so both could be on table at same time."
+      ],
       "set": "200",
       "side": "Light"
     },
@@ -43426,6 +43497,9 @@
         "Red 1 (V)"
       ],
       "rarity": "R1",
+      "rulings": [
+        "This <u>is</u> the same starship persona as Red Squadron 1, so both cannot be on table at same time."
+      ],
       "set": "2",
       "side": "Light"
     },
@@ -43511,14 +43585,10 @@
         "Commander Luke Skywalker (V)",
         "Luke Skywalker",
         "Luke Skywalker (V)",
-        "Luke Skywalker",
-        "Jedi Knight",
-        "Luke Skywalker",
-        "Rebel Scout",
-        "Luke Skywalker",
-        "Rebel Scout (V)",
-        "Luke Skywalker",
-        "The Rebellion's Hope",
+        "Luke Skywalker, Jedi Knight",
+        "Luke Skywalker, Rebel Scout",
+        "Luke Skywalker, Rebel Scout (V)",
+        "Luke Skywalker, The Rebellion's Hope",
         "Luke With Lightsaber",
         "Master Luke",
         "Son Of Skywalker"
@@ -43618,6 +43688,9 @@
         "Red 1 (V)"
       ],
       "rarity": "U1",
+      "rulings": [
+        "This <u>is not</u> the same starship persona as Red Squadron 6, so both could be on table at same time."
+      ],
       "set": "2",
       "side": "Light"
     },
@@ -43664,6 +43737,9 @@
         "Red 1 (V)"
       ],
       "rarity": "U",
+      "rulings": [
+        "This <u>is not</u> the same starship persona as Red Squadron 7, so both could be on table at same time."
+      ],
       "set": "7",
       "side": "Light"
     },
@@ -43844,6 +43920,9 @@
       "side": "Light"
     },
     {
+      "abbr": [
+        "RLiR1"
+      ],
       "front": {
         "deploy": "6",
         "destiny": "2",
@@ -43873,10 +43952,18 @@
         }
       ],
       "rarity": "PM",
+      "rulings": [
+        "This <u>is not</u> the same starship persona as Red Squadron 1, so both could be on table at same time.",
+        "This <u>is</u> the same starship persona as Red 1, so both cannot be on table at same time.",
+        "The permanent pilot <u>is</u> the same persona as the character card Red Leader, so both cannot be on table at same time."
+      ],
       "set": "103",
       "side": "Light"
     },
     {
+      "abbr": [
+        "RS1"
+      ],
       "combo": [
         "Red Squadron 1 + X-wings + Organized Attack"
       ],
@@ -43924,6 +44011,10 @@
         "Red 1 (V)"
       ],
       "rarity": "R",
+      "rulings": [
+        "This <u>is not</u> the same starship persona as Red 1, so both could be on table at same time.",
+        "This <u>is</u> the same starship persona as Red 2, so both cannot be on table at same time."
+      ],
       "set": "9",
       "side": "Light"
     },
@@ -44015,6 +44106,9 @@
         "Red 1 (V)"
       ],
       "rarity": "U",
+      "rulings": [
+        "This <u>is not</u> the same starship persona as Red 6, so both could be on table at same time."
+      ],
       "set": "208",
       "side": "Light"
     },
@@ -44061,6 +44155,9 @@
         "Red 1 (V)"
       ],
       "rarity": "U",
+      "rulings": [
+        "This <u>is not</u> the same starship persona as Red 7, so both could be on table at same time."
+      ],
       "set": "9",
       "side": "Light"
     },
@@ -44317,7 +44414,7 @@
     {
       "front": {
         "destiny": "4",
-        "gametext": "During your control phase, use 1 Force to move one of your [Cloud City] characters of ability > 1 to any [Jabba's Palace] location where you have presence. If moving to any Jabba's Palace site, this movement is free and you do not need presence.",
+        "gametext": "During your control phase, use 1 Force to move any one of your [Cloud City] characters of ability > 1 to any [Jabba's Palace] location where you have presence. If moving to any Jabba's Palace site, this movement is free and you do not need presence.",
         "icons": [
           "Cloud City"
         ],
@@ -45346,14 +45443,10 @@
         "Commander Luke Skywalker (V)",
         "Luke Skywalker",
         "Luke Skywalker (V)",
-        "Luke Skywalker",
-        "Jedi Knight",
-        "Luke Skywalker",
-        "Rebel Scout",
-        "Luke Skywalker",
-        "Rebel Scout (V)",
-        "Luke Skywalker",
-        "The Rebellion's Hope",
+        "Luke Skywalker, Jedi Knight",
+        "Luke Skywalker, Rebel Scout",
+        "Luke Skywalker, Rebel Scout (V)",
+        "Luke Skywalker, The Rebellion's Hope",
         "Luke With Lightsaber",
         "Master Luke",
         "Son Of Skywalker"
@@ -47275,8 +47368,7 @@
         }
       ],
       "pulledBy": [
-        "Might Of The Republic",
-        "Supreme Chancellor Valorum (V)"
+        "Might Of The Republic"
       ],
       "rarity": "U",
       "set": "12",
@@ -47305,7 +47397,6 @@
         }
       ],
       "pulledBy": [
-        "Supreme Chancellor Valorum (V)",
         "The Signal",
         "We Wish To Board At Once",
         "Wokling (V)"
@@ -48197,9 +48288,6 @@
         {
           "set": "13"
         }
-      ],
-      "pulledBy": [
-        "Supreme Chancellor Valorum (V)"
       ],
       "rarity": "PM",
       "set": "13",
@@ -49222,6 +49310,10 @@
         "We Wish To Board At Once"
       ],
       "rarity": "U1",
+      "rulings": [
+        "The second bonus can be achieved via permanent pilots (e.g. Han Chewie And The Falcon or Lando In Millennium Falcon).",
+        "If the Han/Chewie/Lando pilot(s) are forfeited first, the starship is no longer forfeit +2 when it is forfeited afterwards (as such, the forfeit +2 text is rarely utilized except via permanent pilots)."
+      ],
       "set": "1",
       "side": "Light"
     },
@@ -50090,6 +50182,9 @@
       "side": "Light"
     },
     {
+      "abbr": [
+        "SCV"
+      ],
       "combo": [
         "Supreme Chancellor Valorum + General Solo + Chewbacca: cancel two battle destiny? I'm there!",
         "Supreme Chancellor Valorum + Stay Here, Where It's Safe: Extra power, extra politics, and attrition immunity. No one is safe from Zod - er, Valorum!"
@@ -50099,7 +50194,7 @@
         "deploy": "4",
         "destiny": "3",
         "forfeit": "7",
-        "gametext": "Agendas: justice, order. While in a senate majority, once per turn may use 2 Force to cancel a battle destiny just drawn at another site where you have a Republic Character. Opponent may use X Force; Valorum is politics - X for remainder of turn.",
+        "gametext": "Agendas: justice, order. While in a senate majority, once per turn may use 2 Force to cancel a just drawn battle destiny at another site where you have a Republic Character. Opponent may use X Force; Valorum is politics - X for remainder of turn.",
         "icons": [
           "Episode I",
           "Coruscant"
@@ -50121,20 +50216,20 @@
           "set": "12"
         }
       ],
-      "pulledBy": [
-        "Supreme Chancellor Valorum (V)"
-      ],
       "rarity": "R",
       "set": "12",
       "side": "Light"
     },
     {
+      "abbr": [
+        "SCV"
+      ],
       "front": {
         "ability": "4",
         "deploy": "4",
         "destiny": "3",
         "forfeit": "7",
-        "gametext": "Agendas: justice, order. While in a senate majority, once per turn may use 2 Force to cancel a battle destiny just drawn at another site where you have a Republic Character. Opponent may use X Force; Valorum is politics - X for remainder of turn.",
+        "gametext": "Agendas: justice, order. While in a senate majority, once per turn may use 2 Force to cancel a just drawn battle destiny at another site where you have a Republic Character. Opponent may use X Force; Valorum is politics - X for remainder of turn.",
         "icons": [
           "Episode I",
           "Coruscant"
@@ -50694,6 +50789,10 @@
         "All Wings Report In & Darklighter Spin"
       ],
       "rarity": "R",
+      "rulings": [
+        "The card titled Colonel Cracken is a matching pilot.",
+        "The card titled General Airen Cracken is <u>not</u> a matching pilot."
+      ],
       "set": "9",
       "side": "Light"
     },
@@ -51407,12 +51506,9 @@
         "Ben Kenobi",
         "Depa Billaba (V)",
         "Ki-Adi-Mundi",
-        "Luke Skywalker",
-        "Jedi Knight",
-        "Luke Skywalker",
-        "Rebel Scout",
-        "Luke Skywalker",
-        "Rebel Scout (V)",
+        "Luke Skywalker, Jedi Knight",
+        "Luke Skywalker, Rebel Scout",
+        "Luke Skywalker, Rebel Scout (V)",
         "Mace Windu",
         "Mace Windu (V)",
         "Mace Windu",
@@ -52790,6 +52886,9 @@
       "side": "Light"
     },
     {
+      "abbr": [
+        "Flip Falcon"
+      ],
       "back": {
         "deploy": "0",
         "destiny": "7",
@@ -52807,9 +52906,9 @@
         "lore": "Han's 'special modifications' for Millennium Falcon included security mechanisms, deflector shields, hull plating, faster hyperdrive and enhanced weapons. Enclosed.",
         "maneuver": "5",
         "power": "3",
-        "subType": "Starfighter: Heavily-Modified Light Freighter",
-        "title": "•The Falcon, Junkyard Garbage/•The Falcon, Junkyard Garbage",
-        "type": "Starship",
+        "subType": "Combat Vehicle: Heavily-Modified Light Freighter",
+        "title": "•The Falcon, Junkyard Garbage / •The Falcon, Junkyard Garbage",
+        "type": "Vehicle",
         "uniqueness": "*"
       },
       "front": {
@@ -52831,7 +52930,7 @@
         "maneuver": "4",
         "power": "3",
         "subType": "Starfighter: Heavily-Modified Light Freighter",
-        "title": "•The Falcon, Junkyard Garbage/•The Falcon, Junkyard Garbage",
+        "title": "•The Falcon, Junkyard Garbage / •The Falcon, Junkyard Garbage",
         "type": "Starship",
         "uniqueness": "*"
       },
@@ -53620,6 +53719,11 @@
         }
       ],
       "rarity": "C",
+      "rulings": [
+        "When deploying a starship from Reserve Deck, if the starship is unpiloted, may combine it with a pilot from hand, allowing deployment to a system or sector.",
+        "Once the player initiates the action to deploy a card from Reserve Deck, they must deploy something if possible. Player is <u>required</u> to combine an unpiloted starship with a pilot from hand if that is the only possible option.",
+        "If the attempt to deploy a card from Reserve Deck fails, opponent verifies Reserve Deck (not hand). A judge may be called to review hand and Reserve Deck to confirm that no starship + pilot deployment was possible."
+      ],
       "set": "209",
       "side": "Light"
     },
@@ -55580,6 +55684,9 @@
       "side": "Light"
     },
     {
+      "abbr": [
+        "VAH"
+      ],
       "front": {
         "ability": "3",
         "deploy": "3",
@@ -55612,7 +55719,10 @@
       "rarity": "C2",
       "rulings": [
         "This character is an Admiral.",
-        "Any other cards aboard the capital starship are lost (not placed out of play)."
+        "Holdo's action to place herself and a capital starship out of play occurs during the weapons segment, scheduling the +X modifier for later.",
+        "Any other cards aboard the capital starship are lost (not placed out of play).",
+        "After placing Holdo and the starship out of play, If Light has no other presence remaining in the battle, the battle ends immediately with no result.",
+        "If Light does not successfully complete any battle destiny draws, the +X modifier to total battle destiny is ignored."
       ],
       "set": "211",
       "side": "Light"
@@ -55815,7 +55925,8 @@
       ],
       "rarity": "U2",
       "rulings": [
-        "The initial retrieval amount created by this card will not be greater than 3."
+        "Second function: The initial retrieval amount created by this card will not be greater than 3.",
+        "Third function: Targets your Rebel and T-47s that are at sites where opponent has an AT-AT or AT-ST <u>at the time you initiate this Interrupt</u>. Those cards (<u>and only those cards</u>) are then power +2 for remainder of turn, even if no longer with an AT-AT or AT-ST later."
       ],
       "set": "208",
       "side": "Light"
@@ -56098,7 +56209,6 @@
         }
       ],
       "pulledBy": [
-        "Supreme Chancellor Valorum (V)",
         "We Wish To Board At Once"
       ],
       "pulls": [
@@ -56638,6 +56748,10 @@
         "Hopping Mad"
       ],
       "rarity": "C2",
+      "rulings": [
+        "At the end of Dark's turn, Dark may choose to have We're Doomed expire prior to causing end-of-turn damage with Visage Of The Emperor or flipping You Know Who I Answer To.",
+        "Insert cards prevent a player from counting their Reserve Deck, but a judge may be called to state whether We're Doomed is a legal play or not."
+      ],
       "set": "1",
       "side": "Light"
     },
@@ -56669,6 +56783,9 @@
         "We Wish To Board At Once"
       ],
       "rarity": "C",
+      "rulings": [
+        "Cards that cannot be forfeited (such as a character not participating in battle, or a Vaporator) do not prevent a player from canceling all remaining battle damage."
+      ],
       "set": "12",
       "side": "Light"
     },
@@ -62950,7 +63067,9 @@
       ],
       "rarity": "R",
       "rulings": [
-        "You may not persona replace a character if the new version would violate this card's deployment restrictions."
+        "You may not persona replace a character if the new version would violate this card's deployment restrictions.",
+        "May use 1 Force to add power in multiple battles in the same turn.",
+        "Technically may use 1 Force to add power multiple times in a single battle, but this is fairly useless as only the first usage will be applied."
       ],
       "set": "216",
       "side": "Light"
@@ -64266,7 +64385,10 @@
       ],
       "rarity": "C",
       "rulings": [
-        "If the other docking bay says that Dark's transit is free, Dark would not pay 5 Force for transit."
+        "If the other docking bay says that Dark's transit is free, Dark would not pay 5 Force for transit.",
+        "A starfighter (belonging to <u>either player</u>!) at same system or sector as Profundity may land here.",
+        "A starfighter (belonging to <u>either player</u>!) here may take off to same system or sector as Profundity.",
+        "If Profundity is lost from table, this site remains on table."
       ],
       "set": "217",
       "side": "Light"
@@ -64477,7 +64599,8 @@
     },
     {
       "abbr": [
-        "TFISIMF"
+        "TFISIMF",
+        "Skywalker Saga"
       ],
       "counterpart": "Revenge Of The Sith",
       "front": {
@@ -65134,7 +65257,8 @@
       "rarity": "U",
       "rulings": [
         "Adds 1 to power of the starship he is aboard as a pilot or passenger, in addition to all of your other starships at the same location.",
-        "Does not add power to starships while at a starship site (e.g. Home One: War Room)."
+        "Does not add power to starships while at a starship site (e.g. Home One: War Room).",
+        "This card is the same persona as Admiral Ackbar (e.g. for <i>Home One</i> and for Rebel Leadership combo); Admiral Ackbar and Fleet Admiral Gial Ackbar cannot be on table at the same time."
       ],
       "set": "218",
       "side": "Light"
