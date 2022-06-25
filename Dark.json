@@ -3,6 +3,9 @@
     {
       "counterpart": "2X-3KPR (Tooex)",
       "front": {
+        "characteristics": [
+          "security droid"
+        ],
         "deploy": "2",
         "destiny": "3",
         "extraText": [
@@ -505,7 +508,7 @@
           "Servant Droid"
         ],
         "forfeit": "5",
-        "gametext": "Adds 2 to the power of anything he pilots. Power +1 while with your leader. If at a Scomp link when opponent draws a destiny of: 1-3, you may activate one Force; 4-6, you may draw top card of your Reserve Deck; 0 or 7 you may retrieve 1 Force.",
+        "gametext": "Adds 2 to the power of anything he pilots. Power +1 while with your leader. If at a Scomp link when opponent draws a destiny of: 1-3, you may activate 1 Force; 4-6, you may draw top card of your Reserve Deck; 0 or 7 you may retrieve 1 Force.",
         "icons": [
           "Pilot",
           "Set 0"
@@ -560,6 +563,11 @@
         "We Must Accelerate Our Plans"
       ],
       "rarity": "U",
+      "rulings": [
+        "Only cancels Force drain modifiers that come from LS cards affecting LS Force drains.",
+        "For example, if LS Force drains at the DS system Eriadu, the +1 modifier in Eriadu's game text is not canceled because it is a DS card.",
+        "For example, if DS Force drains at the LS site Tatooine: Obi-Wan's Hut, the +1 modifier in the site's game text is not canceled because it is a DS Force drain."
+      ],
       "set": "7",
       "side": "Dark"
     },
@@ -2757,8 +2765,7 @@
         "Boba Fett",
         "Boba Fett (CC)",
         "Boba Fett With Blaster Rifle",
-        "Boba Fett",
-        "Bounty Hunter",
+        "Boba Fett, Bounty Hunter",
         "Bossk",
         "Bossk (V)",
         "Bossk With Mortar Gun",
@@ -3022,9 +3029,7 @@
       "id": 130,
       "legacy": false,
       "matchingWeapon": [
-        "Anakin's Lightsaber (V)",
-        "Mara Jade's Lightsaber",
-        "Mara Jade's Lightsaber (V)"
+        "Mara Jade's Lightsaber"
       ],
       "printings": [
         {
@@ -3077,7 +3082,6 @@
       "id": 4021,
       "legacy": false,
       "matchingWeapon": [
-        "Anakin's Lightsaber (V)",
         "Mara Jade's Lightsaber"
       ],
       "printings": [
@@ -3579,6 +3583,11 @@
     {
       "front": {
         "ability": "4",
+        "characteristics": [
+          "Black Sun agent",
+          "bounty hunter",
+          "female"
+        ],
         "deploy": "4",
         "destiny": "1",
         "extraText": [
@@ -3729,6 +3738,10 @@
         "We Must Accelerate Our Plans"
       ],
       "rarity": "C",
+      "rulings": [
+        "First function: If deployed on The Falcon Junkyard Garbage and then Falcon later flips to the vehicle side, this Effect is lost.",
+        "Second function: If deployed on The Falcon Junkyard Garbage and then Falcon later flips to the opposite side, this Effect remains."
+      ],
       "set": "4",
       "side": "Dark"
     },
@@ -6537,6 +6550,10 @@
       "front": {
         "ability": "3",
         "armor": "5",
+        "characteristics": [
+          "Black Sun agent",
+          "bounty hunter"
+        ],
         "deploy": "4",
         "destiny": "1",
         "forfeit": "6",
@@ -6719,8 +6736,7 @@
       "abbr": [
         "BFBH",
         "Broken Fett",
-        "Boba Fett",
-        "BH"
+        "Boba Fett, BH"
       ],
       "cancels": [
         "Mace Windu (V) prevents Fetts from adding battle destiny draws at same location"
@@ -6806,8 +6822,7 @@
         "Boba Fett",
         "Boba Fett (CC)",
         "Boba Fett (CC) (V)",
-        "Boba Fett",
-        "Bounty Hunter"
+        "Boba Fett, Bounty Hunter"
       ],
       "printings": [
         {
@@ -7625,7 +7640,7 @@
         ],
         "ferocity": "4",
         "forfeit": "0",
-        "gametext": "Habitat: planet sites (except Hoth). Does not attack your characters. When at a Jabba's palace site, prevents opponents characters from using their landspeed.",
+        "gametext": "Habitat: planet sites (except Hoth). Does not attack your characters. When at a Jabba's palace site, prevents opponent's characters from using their landspeed.",
         "icons": [
           "Jabba's Palace"
         ],
@@ -13854,10 +13869,6 @@
       "side": "Dark"
     },
     {
-      "abbr": [
-        "Math Vader",
-        "Space Vader"
-      ],
       "combo": [
         "Darth Vader + Grand Moff Tarkin Once per battle, Tarkin may cancel one opponent's destiny just drawn.",
         "Darth Vader + I Have You Now Add one battle destiny (two if Rebel is Luke) if a Dark Jedi and a Rebel with ability > 2 are involved in the same battle.",
@@ -13917,6 +13928,7 @@
     },
     {
       "abbr": [
+        "Math Vader",
         "Space Vader"
       ],
       "combo": [
@@ -14057,7 +14069,7 @@
           "Special Edition"
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/SpecialEdition-Dark/large/darthvaderdarklordofthesith.gif",
-        "lore": "Formerly Anakin Skywalker, Jedi Knight. Became Darth Vader. Ordered by Emperor Palpatine to deal with Luke Skywallker, but bargained for his son's life instead.",
+        "lore": "Formerly Anakin Skywalker, Jedi Knight. Became Darth Vader. Ordered by Emperor Palpatine to deal with Luke Skywalker, but bargained for his son's life instead.",
         "power": "6",
         "subType": "Imperial",
         "title": "•Darth Vader, Dark Lord Of The Sith",
@@ -15381,6 +15393,10 @@
       "front": {
         "ability": "2",
         "armor": "3",
+        "characteristics": [
+          "death trooper",
+          "trooper"
+        ],
         "deploy": "3",
         "destiny": "2",
         "forfeit": "4",
@@ -15642,6 +15658,10 @@
         }
       ],
       "rarity": "U2",
+      "rulings": [
+        "The 'attach' text refers to the card Landing Claw.",
+        "Does not cause an already attached starfighter to detach."
+      ],
       "set": "203",
       "side": "Dark"
     },
@@ -17028,10 +17048,7 @@
         "Boba Fett",
         "Boba Fett",
         "Boba Fett With Blaster Rifle",
-        "Boba Fett",
-        "Bounty Hunter",
-        "Boba Fett",
-        "Prepared Hunter (V)",
+        "Boba Fett, Bounty Hunter",
         "Bossk",
         "Bossk (V)",
         "Bossk With Mortar Gun",
@@ -19888,7 +19905,7 @@
     {
       "front": {
         "destiny": "6",
-        "gametext": "Unless Tarkin is aboard, save all characters, weapons and devices aboard any just-lost capital starship. Relocate them to any one planet site or one of your capital starships.",
+        "gametext": "If your capital starship is about to be lost, unless Tarkin aboard, relocate your characters aboard to any one planet site or to one of your capital starships.",
         "imageUrl": "https://res.starwarsccg.org/cards/Premiere-Dark/large/evacuate.gif",
         "lore": "Escape pods are on many starships allowing those in peril to flee, an act considered cowardly by Imperial officers. 'We've analyzed their attack, sir, and there is a danger.'",
         "subType": "Used",
@@ -22475,7 +22492,8 @@
       "rarity": "C",
       "rulings": [
         "Grievous may use (swing) any stolen lightsaber deployed on him.",
-        "Cards with multiple warrior icons can still only escort one captive at a time."
+        "Cards with multiple warrior icons can still only escort one captive at a time.",
+        "A stolen lightsaber deploying on Grievous must still obey uniqueness rules."
       ],
       "set": "203",
       "side": "Dark"
@@ -22524,7 +22542,8 @@
       "rarity": "C",
       "rulings": [
         "Grievous may use (swing) any stolen lightsaber deployed on him.",
-        "Cards with multiple warrior icons can still only escort one captive at a time."
+        "Cards with multiple warrior icons can still only escort one captive at a time.",
+        "A stolen lightsaber deploying on Grievous must still obey uniqueness rules."
       ],
       "set": "203",
       "side": "Dark"
@@ -22573,7 +22592,8 @@
       "rarity": "C",
       "rulings": [
         "Grievous may use (swing) any stolen lightsaber deployed on him.",
-        "Cards with multiple warrior icons can still only escort one captive at a time."
+        "Cards with multiple warrior icons can still only escort one captive at a time.",
+        "A stolen lightsaber deploying on Grievous must still obey uniqueness rules."
       ],
       "set": "203",
       "side": "Dark"
@@ -24778,7 +24798,7 @@
     {
       "front": {
         "destiny": "2",
-        "gametext": "Capture one opponents undercover spy ('cover is broken'). OR if opponent just deployed a spy to a site where opponent has no presence or Force icons, return spy to hand. Any Force used to deploy the spy remains used, and spy may not deploy this turn.",
+        "gametext": "Capture one opponent's undercover spy ('cover is broken'). OR if opponent just deployed a spy to a site where opponent has no presence or Force icons, return spy to hand. Any Force used to deploy the spy remains used, and spy may not deploy this turn.",
         "icons": [
           "Jabba's Palace"
         ],
@@ -26476,6 +26496,11 @@
         "We Must Accelerate Our Plans"
       ],
       "rarity": "U",
+      "rulings": [
+        "Only cancels Force drain bonuses that come from LS cards affecting LS Force drains.",
+        "For example, if LS Force drains at the DS system Eriadu, the +1 bonus in Eriadu's game text is not canceled because it is a DS card.",
+        "For example, if DS Force drains at the LS site Tatooine: Obi-Wan's Hut, the +1 bonus in the site's game text is not canceled because it is a DS Force drain."
+      ],
       "set": "5",
       "side": "Dark"
     },
@@ -26603,7 +26628,7 @@
       ],
       "rarity": "U1",
       "rulings": [
-        "Mara Jade (for example) does not make this card lost."
+        "Mara Jade, The Emperor's Hand (for example) does not make this card lost."
       ],
       "set": "201",
       "side": "Dark"
@@ -26642,7 +26667,7 @@
       ],
       "rarity": "R",
       "rulings": [
-        "You may deploy (for example) Mara Jade."
+        "You may deploy (for example) Mara Jade, The Emperor's Hand."
       ],
       "set": "201",
       "side": "Dark"
@@ -28617,6 +28642,9 @@
         "Jabba's Sail Barge: Passenger Deck"
       ],
       "rarity": "R",
+      "rulings": [
+        "May deploy Passenger Deck even though Jabba's Sail Barge is unpiloted."
+      ],
       "set": "6",
       "side": "Dark"
     },
@@ -28658,6 +28686,9 @@
         "Skiff"
       ],
       "rarity": "R",
+      "rulings": [
+        "May deploy Passenger Deck or a skiff even if Jabba's Sail Barge is unpiloted."
+      ],
       "set": "204",
       "side": "Dark"
     },
@@ -33684,7 +33715,6 @@
         "Imperial Blaster",
         "Light Repeating Blaster Rifle",
         "Mara Jade's Lightsaber",
-        "Mara Jade's Lightsaber (V)",
         "Mos Eisley Blaster",
         "Naboo Blaster",
         "Naboo Blaster Rifle",
@@ -35347,6 +35377,10 @@
     {
       "front": {
         "ability": "3",
+        "characteristics": [
+          "Royal Guard",
+          "leader"
+        ],
         "deploy": "3",
         "destiny": "4",
         "extraText": [
@@ -36104,6 +36138,10 @@
         "Blizzard 4"
       ],
       "rarity": "U",
+      "rulings": [
+        "Vesden may respond to Never Tell Me The Odds only once (not a separate response for each location).",
+        "If Vesden responds, Dark chooses one of their characters at every location to 'shield'. Ignore any locations where Dark has no characters."
+      ],
       "set": "8",
       "side": "Dark"
     },
@@ -36730,7 +36768,7 @@
       ],
       "front": {
         "destiny": "5",
-        "gametext": "If opponent just deployed a Rebel to a Jabba's Palace site, (and you have no Imperials at a Jabba's Palace site), return Rebel to opponents hand. Any Force used to deploy that Rebel remains used, and Rebel may not be deployed for the remainder of the turn.",
+        "gametext": "If opponent just deployed a Rebel to a Jabba's Palace site, (and you have no Imperials at a Jabba's Palace site), return Rebel to opponent's hand. Any Force used to deploy that Rebel remains used, and Rebel may not be deployed for the remainder of the turn.",
         "icons": [
           "Jabba's Palace"
         ],
@@ -36750,7 +36788,7 @@
       ],
       "rarity": "C",
       "rulings": [
-        "Does not work if (for example) Mara Jade at a Jabba's Palace site.",
+        "Does not work if (for example) Mara Jade, The Emperor's Hand at a Jabba's Palace site.",
         "If (for example) Luke is returned to hand, Light may not deploy any Luke persona card again that turn."
       ],
       "set": "6",
@@ -40776,6 +40814,11 @@
     {
       "front": {
         "ability": "3",
+        "characteristics": [
+          "Black Sun agent",
+          "bounty hunter",
+          "smuggler"
+        ],
         "deploy": "3",
         "destiny": "3",
         "extraText": [
@@ -41612,6 +41655,10 @@
       "side": "Dark"
     },
     {
+      "abbr": [
+        "Eric White",
+        "Rtic Hweei"
+      ],
       "front": {
         "ability": "2",
         "characteristics": [
@@ -42662,7 +42709,7 @@
       ],
       "rarity": "R",
       "rulings": [
-        "Works while (for example) Mara Jade on table.",
+        "Works while (for example) Mara Jade, The Emperor's Hand on table.",
         "Works while (for example) Darth Vader piloting an Independent starship."
       ],
       "set": "6",
@@ -43717,6 +43764,11 @@
       ],
       "front": {
         "ability": "2",
+        "characteristics": [
+          "snowtrooper",
+          "stormtrooper",
+          "trooper"
+        ],
         "deploy": "3",
         "destiny": "2",
         "forfeit": "4",
@@ -44783,37 +44835,7 @@
         "Boba Fett (CC)",
         "Boba Fett (CC) (V)",
         "Boba Fett With Blaster Rifle",
-        "Boba Fett",
-        "Bounty Hunter"
-      ],
-      "matchingWeapon": [
-        "oba Fett's Blaster RifleBoba Fett",
-        "Boba Fett (CC)",
-        "Boba Fett (CC) (V)Boba Fett",
-        "Boba Fett (CC)",
-        "Boba Fett (CC) (V)Boba Fett",
-        "Boba Fett (CC)",
-        "Boba Fett (CC) (V)",
-        "Boba Fett",
-        "Bounty Hunter",
-        "Boba Fett",
-        "Boba Fett (CC)Boba Fett",
-        "Boba Fett (CC)",
-        "Boba Fett (CC) (V)",
-        "Boba Fett",
-        "Bounty Hunter",
-        "Boba Fett",
-        "Boba Fett (CC)Boba Fett",
-        "Boba Fett (CC)",
-        "Boba Fett (CC) (V)Boba Fett",
-        "Boba Fett (CC)",
-        "Boba Fett (CC) (V)Boba Fett",
-        "Boba Fett (CC)",
-        "Boba Fett (CC) (V)",
-        "Boba Fett",
-        "Bounty Hunter",
-        "Boba Fett",
-        "Boba Fett (CC)"
+        "Boba Fett, Bounty Hunter"
       ],
       "printings": [
         {
@@ -44862,8 +44884,7 @@
         "Boba Fett (CC)",
         "Boba Fett (CC) (V)",
         "Boba Fett With Blaster Rifle",
-        "Boba Fett",
-        "Bounty Hunter",
+        "Boba Fett, Bounty Hunter",
         "Jango Fett"
       ],
       "printings": [
@@ -44949,8 +44970,7 @@
         "Boba Fett",
         "Boba Fett (CC)",
         "Boba Fett With Blaster Rifle",
-        "Boba Fett",
-        "Bounty Hunter"
+        "Boba Fett, Bounty Hunter"
       ],
       "printings": [
         {
@@ -46996,6 +47016,9 @@
       "side": "Dark"
     },
     {
+      "abbr": [
+        "SD"
+      ],
       "counterpart": "Don't Tread On Me",
       "front": {
         "destiny": "5",
@@ -47025,6 +47048,11 @@
       "side": "Dark"
     },
     {
+      "abbr": [
+        "12 Card Hand",
+        "12 Card Start",
+        "SDv"
+      ],
       "counterpart": "Don't Tread On Me (V)",
       "front": {
         "destiny": "5",
@@ -53759,7 +53787,7 @@
         "deploy": "3",
         "destiny": "3",
         "forfeit": "4",
-        "gametext": "Deploys -1 to Coruscant. While present with Xizor, forfeit +2 and opponents spies may not deploy to same non-battleground site. Once per game, may use 1 Force to deploy a non-war room battleground planet site (or system) not already on table from Reserve Deck; reshuffle.",
+        "gametext": "Deploys -1 to Coruscant. While present with Xizor, forfeit +2 and opponent's spies may not deploy to same non-battleground site. Once per game, may use 1 Force to deploy a non-war room battleground planet site (or system) not already on table from Reserve Deck; reshuffle.",
         "icons": [
           "Set 0"
         ],
@@ -54833,6 +54861,9 @@
     {
       "front": {
         "ability": "1",
+        "characteristics": [
+          "assassin"
+        ],
         "deploy": "4",
         "destiny": "2",
         "forfeit": "3",
@@ -56911,7 +56942,8 @@
       "front": {
         "ability": "3",
         "characteristics": [
-          "harch",
+          "admiral",
+          "Harch",
           "leader",
           "commander",
           "Trade Federation"
@@ -58305,6 +58337,11 @@
         }
       ],
       "rarity": "R",
+      "rulings": [
+        "The 7-side only cancels Force drain bonuses that come from LS cards affecting LS Force drains.",
+        "For example, if LS Force drains at the DS system Eriadu, the +1 bonus in Eriadu's game text is not canceled because it is a DS card.",
+        "For example, if DS Force drains at the LS site Tatooine: Obi-Wan's Hut, the +1 bonus in the site's game text is not canceled because it is a DS Force drain."
+      ],
       "set": "213",
       "side": "Dark"
     },
@@ -58345,6 +58382,9 @@
       "side": "Dark"
     },
     {
+      "abbr": [
+        "John Anderson"
+      ],
       "front": {
         "ability": "2",
         "deploy": "2",
@@ -58374,6 +58414,9 @@
         }
       ],
       "rarity": "U1",
+      "rulings": [
+        "When Khurgee reveals a card to cause Light to lose 1 Force, Light may choose to lose the revealed card."
+      ],
       "set": "301",
       "side": "Dark"
     },
@@ -58838,7 +58881,8 @@
       ],
       "rarity": "XR",
       "rulings": [
-        "Does not cause an already attached Landing Claw to detach."
+        "The 'attach' text refers to the card Landing Claw.",
+        "Does not cause an already attached starfighter to detach."
       ],
       "set": "215",
       "side": "Dark"
@@ -60595,6 +60639,8 @@
     },
     {
       "abbr": [
+        "Qira",
+        "Q'ira",
         "QTL"
       ],
       "cancels": [
@@ -60841,6 +60887,8 @@
       ],
       "rarity": "R",
       "rulings": [
+        "These cards are lost:<ul><li>Emperor Palpatine</li><li>Emperor Palpatine, Forseer</li><li>Palpatine, Emperor Returned</li><li>The Emperor</li></ul>",
+        "These cards are <u>not</u> lost:<ul><li>Darth Sidious</li><li>Lord Sidious</li><li>Senator Palpatine</li></ul>",
         "If the Light card Senator Palpatine is on Coruscant, the condition (Sidious on Coruscant) has been met."
       ],
       "set": "217",
