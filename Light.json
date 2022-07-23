@@ -1190,7 +1190,7 @@
       ],
       "rarity": "C",
       "rulings": [
-        "Is not a Rogue Squadron pilot.",
+        "By special exception to the normal rules, Admiral Raddus is not a Rogue Squadron pilot.",
         "Still becomes a Rogue Squadron pilot while piloting a Rogue starship or vehicle such as Rogue One.",
         "Is a matching pilot for Rogue One."
       ],
@@ -1391,6 +1391,10 @@
         }
       ],
       "rarity": "PM",
+      "rulings": [
+        "Human is not a species, but Corellian, Mandalorian, etc are species that can be used.",
+        "A unique alien character whose species is defined via rules/rulebook may be used as a Rep."
+      ],
       "set": "112",
       "side": "Light"
     },
@@ -2431,6 +2435,9 @@
         "Portable Scanner"
       ],
       "rarity": "R",
+      "rulings": [
+        "Whether fired during battle or at another time, the target character is power and forfeit = 0 until it leaves play (or until something makes it 'restored to normal')."
+      ],
       "set": "14",
       "side": "Light"
     },
@@ -4890,6 +4897,9 @@
         }
       ],
       "rarity": "C",
+      "rulings": [
+        "May fire during battle and then fire again when about to be lost from that same battle (whether being lost during the weapons segment, forfeited during the damage segment, or at any other time)."
+      ],
       "set": "207",
       "side": "Light"
     },
@@ -5062,6 +5072,11 @@
         }
       ],
       "rarity": "R",
+      "rulings": [
+        "If no matching pair can be found, opponent only verifies Reserve Deck. A judge may be required to verify combined contents of hand and Reserve Deck to check for a matching pair.",
+        "May search Reserve Deck, then decide to reveal a matching pair entirely from hand (this does not trigger verification).",
+        "May reveal the matching pair from hand only (without searching Reserve Deck)."
+      ],
       "set": "211",
       "side": "Light"
     },
@@ -5100,8 +5115,7 @@
         "Mirax Terrik",
         "Commander Wedge Antilles",
         "Wedge Antilles",
-        "Wedge Antilles",
-        "Red Squadron Leader",
+        "Wedge Antilles, Red Squadron Leader",
         "Outrider",
         "Dash Rendar",
         "LE-B02D9 (Leebo)",
@@ -5116,6 +5130,13 @@
         "Harc Seff (V)"
       ],
       "rarity": "R",
+      "rulings": [
+        "If no matching pair can be found, opponent only verifies Reserve Deck. A judge may be required to verify combined contents of hand and Reserve Deck to check for a matching pair.",
+        "May search Reserve Deck, then decide to deploy a matching pair entirely from hand (this does not trigger verification).",
+        "May deploy the matching pair from hand only (without searching Reserve Deck).",
+        "The pilot must deploy aboard the starfighter.",
+        "The starfighter may deploy directly to a system or sector, or may deploy aboard a capital starship with capacity (e.g. Home One), and likewise may deploy landed at a site (if normally permitted, e.g. at a docking bay)."
+      ],
       "set": "200",
       "side": "Light"
     },
@@ -6080,6 +6101,10 @@
         }
       ],
       "rarity": "C",
+      "rulings": [
+        "This character is always a Rogue Squadron pilot.",
+        "Not a 'matching pilot' for stolen starships such as Tydirium."
+      ],
       "set": "206",
       "side": "Light"
     },
@@ -6310,6 +6335,9 @@
         }
       ],
       "rarity": "U1",
+      "rulings": [
+        "His lore does not make him a member of Rogue Squadron."
+      ],
       "set": "1",
       "side": "Light"
     },
@@ -6344,6 +6372,9 @@
         }
       ],
       "rarity": "U1",
+      "rulings": [
+        "His lore does not make him a member of Rogue Squadron."
+      ],
       "set": "210",
       "side": "Light"
     },
@@ -8060,7 +8091,6 @@
         "Golan Laser Battery",
         "Medium Repeating Blaster Cannon",
         "Planet Defender Ion Cannon",
-        "Planet Defender Ion Cannon (V)",
         "Portable Fusion Generator"
       ],
       "rarity": "U",
@@ -8676,6 +8706,9 @@
       "side": "Light"
     },
     {
+      "abbr": [
+        "2 Player Chewie"
+      ],
       "front": {
         "ability": "2",
         "deploy": "5",
@@ -8707,6 +8740,9 @@
       "side": "Light"
     },
     {
+      "abbr": [
+        "2 Player Chewie V"
+      ],
       "front": {
         "ability": "2",
         "characteristics": [
@@ -11662,7 +11698,6 @@
         "Luke's Bionic Hand (V)",
         "Magnetic Suction Tube",
         "Mercenary Armor",
-        "Mercenary Armor (V)",
         "Motivator (V)",
         "Obi-Wan's Journal",
         "Planetary Shield (V)",
@@ -15216,6 +15251,7 @@
       ],
       "rarity": "R1",
       "rulings": [
+        "Second function can only destroy a starship card with TIE/LN in the subtype box (e.g. it can destroy Black 2 or Obsidian 10 but not Saber 1).",
         "The second function can even remove any squadron that contains a TIE/ln, such as Death Star Assault Squadron, Emperor's Shield, Emperor's Sword, or TIE Assault Squadron."
       ],
       "set": "1",
@@ -17238,6 +17274,9 @@
         "Rapid Fire"
       ],
       "rarity": "C",
+      "rulings": [
+        "These are proton torpedoes, and so may be used for Attack Run and work with other cards that target proton torpedoes such as Gold 3, Let's Go Left, and Take This!"
+      ],
       "set": "9",
       "side": "Light"
     },
@@ -19588,6 +19627,9 @@
         "Yarkora"
       ],
       "rarity": "R",
+      "rulings": [
+        "His lore does not make him a member of Rogue Squadron."
+      ],
       "set": "8",
       "side": "Light"
     },
@@ -21703,7 +21745,7 @@
         "ability": "3",
         "characteristics": [
           "Corellian",          
-		  "musician"
+          "musician"
         ],
         "deploy": "3",
         "destiny": "2",
@@ -22732,6 +22774,9 @@
       "side": "Light"
     },
     {
+      "abbr": [
+        "HFTMF"
+      ],
       "counterpart": "Prepared Defenses",
       "front": {
         "destiny": "3",
@@ -24135,7 +24180,8 @@
       ],
       "rarity": "PM",
       "rulings": [
-        "Cards that cannot be forfeited (such as a character not participating in battle, or a Vaporator) do not prevent a player from canceling all remaining battle damage."
+        "Cards that cannot be forfeited (such as a character not participating in battle, or a Vaporator) do not prevent a player from canceling all remaining battle damage.",
+        "The USED function is not immune to Sense."
       ],
       "set": "10",
       "side": "Light"
@@ -25723,7 +25769,9 @@
         "The target does deploy briefly, triggering any automatic actions (such as Objective flips) first.",
         "The target card is placed in owner's hand, even if it was being deployed from Reserve Deck or somewhere else.",
         "If two cards were being deployed simultaneously, such as via Combat Response, both cards are equally affected (both placed in hand and may deploy free next turn).",
-        "If the target card is unique, that unique card/persona cannot deploy again this turn."
+        "If the target card is unique, that unique card/persona cannot deploy again this turn.",
+        "Cannot be played as a response to persona replacement (e.g. Lord Vader replacing Darth Vader).",
+        "Cannot be played as a response to other replacement (e.g. Beedo replacing a Rodian, TIE Assault Squadron replacing 3 TIEs, etc)."
       ],
       "set": "3",
       "side": "Light"
@@ -25903,6 +25951,9 @@
         }
       ],
       "rarity": "U",
+      "rulings": [
+        "The USED function is not immune to Sense."
+      ],
       "set": "5",
       "side": "Light"
     },
@@ -31785,6 +31836,9 @@
       "side": "Light"
     },
     {
+      "abbr": [
+        "2 Player Luke"
+      ],
       "front": {
         "ability": "3",
         "deploy": "4",
@@ -34647,6 +34701,9 @@
         "Portable Scanner"
       ],
       "rarity": "PM",
+      "rulings": [
+        "If firing a repeating blaster (e.g. BlasTech E-11B Blaster Rifle), only the first shot is free."
+      ],
       "set": "10",
       "side": "Light"
     },
@@ -35856,7 +35913,7 @@
       "front": {
         "darkSideIcons": 0,
         "destiny": "0",
-        "gametext": "Light:  Your Gungans deploy -1 here and move from here for free. You may not Force drain here.  Dark:  Cards with ability (except Gungans deploy +4 to underwater sites. Immune to Revolution.",
+        "gametext": "Light:  Your Gungans deploy -1 here and move from here for free. You may not Force drain here.  Dark:  Cards with ability (except Gungans) deploy +4 to underwater sites. Immune to Revolution.",
         "icons": [
           "Underwater",
           "Interior",
@@ -36284,7 +36341,8 @@
       ],
       "rarity": "C",
       "rulings": [
-        "'All starships' in the Dark player's text refers to starships belonging to both players."
+        "'All starships' in the Dark player's text refers to starships belonging to both players.",
+        "Starships may use Dark's text to 'react' from Nar Shaddaa to Nal Hutta, or from Nal Hutta to Nar Shaddaa. Not to or from any other systems."
       ],
       "set": "200",
       "side": "Light"
@@ -36917,6 +36975,10 @@
         }
       ],
       "rarity": "R2",
+      "rulings": [
+        "Placing a character out of play is a cost paid during initiation. If Noble Sacrifice is canceled by a response (e.g. Sense) the character remains out of play.",
+        "On rare occasions, when this Interrupt attempts to place a character out of the play, another action may cause the character to instead end up at a different location, or returned to hand, or to a stack or pile. In such cases, this Interrupt simply fails and is placed in the Lost Pile."
+      ],
       "set": "1",
       "side": "Light"
     },
@@ -36950,6 +37012,9 @@
         }
       ],
       "rarity": "R",
+      "rulings": [
+        "If the last function is played against Epic Duel, Light will lose X Force (not triple X Force) as specified on Epic Duel."
+      ],
       "set": "5",
       "side": "Light"
     },
@@ -37016,7 +37081,7 @@
         "lore": "Optimized for diplomatic missions with sensor-proof pods that have ejection capabilities. Easily identified by its red coloration.",
         "power": "4",
         "subType": "Starfighter: Corellian Republic Cruiser",
-        "title": "•Obi-Wan in Radiant VII",
+        "title": "•Obi-Wan In Radiant VII",
         "type": "Starship",
         "uniqueness": "*"
       },
@@ -38354,6 +38419,10 @@
         "Top card of Lost Pile into hand"
       ],
       "rarity": "PM",
+      "rulings": [
+        "If deployed by a Starting Interrupt (e.g. Heading For The Medical Frigate), that Interrupt is not yet in the Lost Pile and cannot be taken into hand.",
+        "If deployed during the start of game, may take top card of Lost Pile (if any) into hand. In this case Light's starting hand will have 1 more card than usual."
+      ],
       "set": "112",
       "side": "Light"
     },
@@ -39530,6 +39599,16 @@
       "side": "Light"
     },
     {
+      "abbr": [
+        "PDIC"
+      ],
+      "combo": [
+        "Artillery Remote",
+        "Evacuation Control",
+        "Portable Fusion Generator",
+        "Toryn Farr",
+        "Weapons Display"
+      ],
       "front": {
         "characteristics": [
           "cannon",
@@ -39562,6 +39641,10 @@
         "Portable Scanner"
       ],
       "rarity": "R2",
+      "rulings": [
+        "Whether fired during battle or at another time, the target starship is power and hyperspeed = 0 until it leaves play (or until something makes it 'restored to normal').",
+        "Weapons aboard the starship are only lost as a one-time response to the Cannon firing. Weapons can subsequently be deployed on the starship without becoming lost."
+      ],
       "set": "3",
       "side": "Light"
     },
@@ -40035,7 +40118,6 @@
         "Luke's Bionic Hand (V)",
         "Magnetic Suction Tube",
         "Mercenary Armor",
-        "Mercenary Armor (V)",
         "Motivator (V)",
         "Obi-Wan's Journal",
         "Planetary Shield (V)",
@@ -40885,8 +40967,7 @@
         "Rayc Ryjerd (V)",
         "Wedge Antilles",
         "Wedge Antilles (V)",
-        "Wedge Antilles",
-        "Red Squadron Leader"
+        "Wedge Antilles, Red Squadron Leader"
       ],
       "printings": [
         {
@@ -41299,7 +41380,7 @@
           "Tatooine"
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/Tatooine-Light/large/quigonjinnai.gif",
-        "lore": "Accepted Obi-WanObi-Wan in Radiant VII  Kenobi as his Padawan learner. Was given orders to protect Queen Amidala at all costs.",
+        "lore": "Accepted Obi-Wan Kenobi as his Padawan learner. Was given orders to protect Queen Amidala at all costs.",
         "power": "6",
         "subType": "Jedi Master",
         "title": "•Qui-Gon Jinn (AI)",
@@ -43566,8 +43647,7 @@
         "Commander Wedge Antilles (V)",
         "Wedge Antilles",
         "Wedge Antilles (V)",
-        "Wedge Antilles",
-        "Red Squadron Leader"
+        "Wedge Antilles, Red Squadron Leader"
       ],
       "printings": [
         {
@@ -44080,8 +44160,7 @@
         "Commander Wedge Antilles (V)",
         "Wedge Antilles",
         "Wedge Antilles (V)",
-        "Wedge Antilles",
-        "Red Squadron Leader"
+        "Wedge Antilles, Red Squadron Leader"
       ],
       "printings": [
         {
@@ -44095,7 +44174,8 @@
       "rarity": "R",
       "rulings": [
         "This <u>is not</u> the same starship persona as Red 1, so both could be on table at same time.",
-        "This <u>is</u> the same starship persona as Red 2, so both cannot be on table at same time."
+        "This <u>is</u> the same starship persona as Red 2, so both cannot be on table at same time.",
+        "When deploying to Endor, only Wedge is free, not this starship card."
       ],
       "set": "9",
       "side": "Light"
@@ -44982,7 +45062,7 @@
       ],
       "rarity": "C",
       "rulings": [
-        "As a special rule, this entire card is immune to Sense, not just the LOST portion."
+        "As a special exception to the rules, the USED and LOST functions are both immune to Sense."
       ],
       "set": "12",
       "side": "Light"
@@ -45271,7 +45351,7 @@
         "lore": "Chromium-plated, sleek transport ship used by the royalty of the Naboo. Spaceframe was designed around a J-type configuration.",
         "power": "6",
         "subType": "Starfighter: J-Type 327 Nubian",
-        "title": "•Ric in Queen's Royal Starship",
+        "title": "•Ric In Queen's Royal Starship",
         "type": "Starship",
         "uniqueness": "*"
       },
@@ -45631,8 +45711,7 @@
         "Commander Wedge Antilles (V)",
         "Wedge Antilles",
         "Wedge Antilles (V)",
-        "Wedge Antilles",
-        "Red Squadron Leader"
+        "Wedge Antilles, Red Squadron Leader"
       ],
       "printings": [
         {
@@ -46319,6 +46398,9 @@
         "General Crix Madine"
       ],
       "rarity": "C2",
+      "rulings": [
+        "If firing a repeating weapon (e.g. BlasTech E-11B Blaster Rifle), only the first shot can be made free. The text can be used to add 2 to weapon destiny on a repeat firing instead, but it won't be free."
+      ],
       "set": "207",
       "side": "Light"
     },
@@ -50240,6 +50322,7 @@
       ],
       "rarity": "C",
       "rulings": [
+        "If firing a repeating blaster (e.g. BlasTech E-11B Blaster Rifle), only the first shot is free.",
         "Most automated weapons do not 'fire' and as such cannot be fired by this card. The only automated weapon that fires is Laser Projector. So to utilize the automated weapon firing function of this card, Light would need to obtain a Laser Projector (e.g. via Cloud City Sabacc) or Dark would need to obtain Suppressive Fire (e.g. via Treva Horme)."
       ],
       "set": "7",
@@ -50516,6 +50599,10 @@
         "Rapid Fire"
       ],
       "rarity": "R2",
+      "rulings": [
+        "Whether fired during battle or at another time, the target starship is armor/maneuver and hyperspeed = 0 until it leaves play (or until something makes it 'restored to normal').",
+        "Weapons aboard the starship are only lost as a one-time response to the Cannon firing. Weapons can subsequently be deployed on the starship without becoming lost."
+      ],
       "set": "2",
       "side": "Light"
     },
@@ -53983,6 +54070,9 @@
         }
       ],
       "rarity": "C",
+      "rulings": [
+        "The USED function is not immune to Sense."
+      ],
       "set": "207",
       "side": "Light"
     },
@@ -54412,7 +54502,7 @@
       "counterpart": "Drop! (V)",
       "front": {
         "destiny": "3",
-        "gametext": "Deploy on table. While no card stacked here, may stack opponent's just-played Interrupt here. Opponent may use 3 Force to place an Interrupt here in Used Pile. Once per turn, may place a card from hand on bottom of Used Pile. (Immune to Alter.)",
+        "gametext": "Deploy on table. While no card stacked here, may stack opponent's just-played Interrupt here. Opponent may use 3 Force to place an Interrupt here in Used Pile. Once per turn, unless your protocol droid on table, may place a card from hand on bottom of Used Pile. (Immune to Alter.)",
         "icons": [
           "Grabber",
           "Episode I",
@@ -55307,6 +55397,9 @@
         "Fly Casual"
       ],
       "rarity": "R",
+      "rulings": [
+        "This starship is always considered to be stolen (e.g. for Bodhi Rook)."
+      ],
       "set": "8",
       "side": "Light"
     },
@@ -55519,7 +55612,6 @@
         }
       ],
       "pulledBy": [
-        "Mercenary Armor (V)",
         "Tamtel Skreej",
         "The Signal",
         "We Wish To Board At Once",
@@ -56633,6 +56725,39 @@
       "side": "Light"
     },
     {
+      "abbr": [
+        "WRSL",
+        "Wedge RSL"
+      ],
+      "combo": [
+        "Pair Wedge with a Red or Rogue Squadron pilot to cancel a battle destiny:",
+        "Biggs Darklighter",
+        "Bren Quersey",
+        "Bodhi Rook",
+        "Commander Luke Skywalker",
+        "Commander Luke Skywalker (V)",
+        "Commander Narra",
+        "Corran Horn",
+        "Derek 'Hobbie' Klivian",
+        "Derek 'Hobbie' Klivian (V)",
+        "Elyhek Rue",
+        "Jek Porkins",
+        "Karie Neth",
+        "Keir Santage",
+        "Kin Kian",
+        "Kin Kian (V)",
+        "Lieutenant Naytaan",
+        "Luke Skywalker",
+        "Luke Skywalker, The Rebellion's Hope",
+        "Puck",
+        "Red Leader",
+        "Theron Nett",
+        "Theron Nett (V)",
+        "Tycho Celchu",
+        "Tycho Celchu (V)",
+        "Zev Senesca",
+        "Any character (not permanent pilot) piloting a Red or Rogue Squadron starship or vehicle"
+      ],
       "front": {
         "ability": "3",
         "characteristics": [
@@ -56680,6 +56805,13 @@
         "Yavin 4: Massassi War Room (V)"
       ],
       "rarity": "R",
+      "rulings": [
+        "The text referring to 'Red 2' also applies to Red Squadron 1 (it is the same starship persona).",
+        "Permanent pilots never count as Red or Rogue Squadron.",
+        "Any pilot character (e.g. Chewbacca) becomes a Red/Rogue Squadron pilot while they are piloting a Red/Rogue Squadron starship or vehicle.",
+        "If opponent steals a Red/Rogue Squadron starship or vehicle and has a character piloting it, that is a Red/Rogue Squadron pilot, enabling Wedge to cancel a battle destiny.",
+        "Admiral Raddus/Boshek/Boshek(V) are not Red/Rogue Squadron pilots by default (despite what's printed on their card). They still become one while piloting a Red/Rogue card, just like any other pilot."
+      ],
       "set": "9",
       "side": "Light"
     },
@@ -58866,8 +58998,7 @@
         "Red Leader",
         "Senator Mon Mothma",
         "Shawn Valdez",
-        "Wedge Antilles",
-        "Red Squadron Leader"
+        "Wedge Antilles, Red Squadron Leader"
       ],
       "rarity": "U2",
       "set": "208",
@@ -62076,6 +62207,10 @@
       "side": "Light"
     },
     {
+      "abbr": [
+        "HOG",
+        "HSOG"
+      ],
       "cancels": [
         "Kylo's game text at same location"
       ],
@@ -62093,7 +62228,7 @@
           "Force-Attuned"
         ],
         "forfeit": "6",
-        "gametext": "May be targeted instead of a Resistance character by I Want That Map. Adds 3 to power of anything he pilots. [Endor] scouts are destiny +1. Cancels Kylo's game text here. During battle with Chewie or [Endor] Leia, may add one destiny to total power.",
+        "gametext": "Adds 3 to power of anything he pilots. Cancels Kylo's game text here. When deployed, may reveal the top two cards of your Reserve Deck; take one into hand. During battle with Chewie or [Endor] Leia, may add one destiny to total power.",
         "icons": [
           "Endor",
           "Pilot",
@@ -63916,7 +64051,8 @@
       "rulings": [
         "Protects herself from Imperial Barrier and Stunning Leader.",
         "If deployed to a location where another character has already been affected by Imperial Barrier or Stunning Leader, does not restore that character to normal.",
-        "First sentence affects only your Mandalorians. Third sentence checks for either player's Mandalorian."
+        "First sentence affects only your Mandalorians. Third sentence checks for either player's Mandalorian.",
+        "If firing a repeating blaster (e.g. BlasTech E-11B Blaster Rifle), only the first shot is free."
       ],
       "set": "217",
       "side": "Light"
@@ -64322,7 +64458,8 @@
       "rarity": "U",
       "rulings": [
         "May be deployed even if opponent's Mara is also on table, and vice versa.",
-        "May use a stolen Mara Jade's Lightsaber."
+        "May use a stolen Mara Jade's Lightsaber.",
+        "Moving For Free: When using Nabrun Leids or docking bay transit, the cost is free <u>only</u> if Mara is moving alone or if the cards moving with her also move for free (Light still draws destiny for Nabrun Leids)."
       ],
       "set": "217",
       "side": "Light"
@@ -64755,9 +64892,9 @@
       ],
       "rarity": "U1",
       "rulings": [
-        "My Father Has It: May deploy any version of Anakin, but only Episode I versions of Obi-Wan.",
-        "I Have It: May deploy any version of Luke, but only Set 1 versions of Obi-Wan.",
-        "You Have That Power, Too: May deploy any version of Rey, but only Episode VII versions of Luke."
+        "My Father Has It: To deploy a Jedi, it must be Yoda, Anakin, or Episode I Obi-Wan. May deploy non-Jedi versions of all characters.",
+        "I Have It: To deploy a Jedi, it must be Yoda, Luke, or Set 1 Obi-Wan. May deploy non-Jedi versions of all characters.",
+        "You Have That Power, Too: To deploy a Jedi, it must be Yoda, Rey, or Episode VII Luke. May deploy non-Jedi versions of all characters."
       ],
       "set": "217",
       "side": "Light"
@@ -64766,7 +64903,7 @@
       "abbr": [
         "TROS"
       ],
-      "combos": [
+      "combo": [
         "Use one of these starting locations:<ul><li>Ajan Kloss: Training Course</li><li>Endor: Anakin's Funeral Pyre</li><li>Tatooine: Slave Quarters (V)</li></ul>"
       ],
       "counterpart": "Rise Of The Sith",
@@ -65162,7 +65299,7 @@
         "May search Reserve Deck, then decide to deploy a matching pair entirely from hand (this does not trigger verification).",
         "May deploy the matching pair from hand only (without searching Reserve Deck), although that seems rather pointless.",
         "The pilot must deploy aboard the starfighter.",
-        "The starfighter may deploy aboard a capital starship with capacity (e.g. Home One), and likewise may deploy landed at a site (if normally permitted, e.g. at a docking bay)."
+        "The starfighter may deploy directly to a system or sector, or may deploy aboard a capital starship with capacity (e.g. Home One), or may deploy landed at a site (if normally permitted, e.g. at a docking bay)."
       ],
       "set": "218",
       "side": "Light"
