@@ -61440,6 +61440,918 @@
       ],
       "set": "218",
       "side": "Dark"
+    },
+    {
+      "abbr": [
+        "AGTCP/TRIOR"
+      ],
+      "back": {
+        "destiny": "7",
+        "gametext": "A Great Tactician Creates Plans: Deploy Lothal system, Advanced Projects Laboratory, Imperial Complex, and Thrawn’s Art Collection. For remainder of game, you may not deploy [Episode I] (or [Episode VII]) cards with ability or [Presence], or any admiral (except Thrawn). While this side up, Imperial Star Destroyers deploy -1 (-3 if Chimaera). Once per turn, may deploy a battleground system (or a site to Lothal) from Reserve Deck; reshuffle. Flip this card during any deploy phase if Thrawn at a battleground and two or more artwork cards on table. The Result Is Often Resentment: While this side up, if a battle was just initiated involving an Imperial leader or piloted TIE defender, may ‘study’ one artwork card. If it is a weapon, cancel the battle. Otherwise, if possible, if its printed destiny number is: (0-2) opponent’s immunity to attrition is canceled; (3-4) opponent excludes their character from battle; (5+) add 3 to your total power. Place artwork card in owner's Lost Pile. Flip this card if Thrawn not on table or (except during battle) if no artwork cards on table.",
+        "icons": [
+          "Set 19"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual19-Dark/large/theresultisoftenresentment.gif",
+        "title": "A Great Tactician Creates Plans / The Result Is Often Resentment",
+        "type": "Objective"
+      },
+      "front": {
+        "destiny": "0",
+        "gametext": "A Great Tactician Creates Plans: Deploy Lothal system, Advanced Projects Laboratory, Imperial Complex, and Thrawn’s Art Collection. For remainder of game, you may not deploy [Episode I] (or [Episode VII]) cards with ability or [Presence], or any admiral (except Thrawn). While this side up, Imperial Star Destroyers deploy -1 (-3 if Chimaera). Once per turn, may deploy a battleground system (or a site to Lothal) from Reserve Deck; reshuffle. Flip this card during any deploy phase if Thrawn at a battleground and two or more artwork cards on table. The Result Is Often Resentment: While this side up, if a battle was just initiated involving an Imperial leader or piloted TIE defender, may ‘study’ one artwork card. If it is a weapon, cancel the battle. Otherwise, if possible, if its printed destiny number is: (0-2) opponent’s immunity to attrition is canceled; (3-4) opponent excludes their character from battle; (5+) add 3 to your total power. Place artwork card in owner's Lost Pile. Flip this card if Thrawn not on table or (except during battle) if no artwork cards on table.",
+        "icons": [
+          "Set 19"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual19-Dark/large/agreattacticiancreatesplans.gif",
+        "title": "A Great Tactician Creates Plans / The Result Is Often Resentment",
+        "type": "Objective"
+      },
+      "gempId": "219_1",
+      "id": 7073,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "219"
+        }
+      ],
+      "rarity": "U",
+      "set": "219",
+      "side": "Dark"
+    },
+    {
+      "front": {
+        "armor": "6",
+        "deploy": "8",
+        "destiny": "1",
+        "forfeit": "9",
+        "gametext": "May add 6 pilots, 6 passengers, and 4 TIEs. Permanent pilot provides ability of 2. While Thrawn piloting, immune to attrition < 5 and game text of We're In Attack Position Now may not be canceled.",
+        "hyperspeed": "3",
+        "icons": [
+          "Death Star II",
+          "Scomp Link",
+          "Pilot",
+          "Nav Computer",
+          "Set 19"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual19-Dark/large/chimaera.gif",
+        "lore": "Early model Imperial-class Star Destroyer. Acting command ship in the absence of Executor.",
+        "power": "9",
+        "subType": "Capital: Imperial-Class Star Destroyer",
+        "title": "•Chimaera (V)",
+        "type": "Starship",
+        "uniqueness": "*"
+      },
+      "gempId": "219_2",
+      "id": 7074,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "219"
+        }
+      ],
+      "rarity": "R",
+      "set": "219",
+      "side": "Dark"
+    },
+    {
+      "abbr": [
+        "DDv"
+      ],
+      "front": {
+        "ability": "3",
+        "deploy": "3",
+        "destiny": "2",
+        "extraText": [
+          "Force-Attuned"
+        ],
+        "forfeit": "6",
+        "gametext": "[Pilot] 2. Your total battle destiny at sites is +1 for each of your participating [Presence] droids that has a [Permanent Weapon] weapon but did not fire it in that battle. Weapon destinies at same system are -1.",
+        "icons": [
+          "Coruscant",
+          "Episode I",
+          "Pilot",
+          "Set 19"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual19-Dark/large/daultaydofine.gif",
+        "lore": "Neimoidian Trade Federation captain who gained his current position through political backstabbing and family connections. Not favored by Darth Sidious.",
+        "power": "3",
+        "subType": "Republic",
+        "title": "•Daultay Dofine (V)",
+        "type": "Character",
+        "uniqueness": "*"
+      },
+      "gempId": "219_3",
+      "id": 7075,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "219"
+        }
+      ],
+      "rarity": "R",
+      "set": "219",
+      "side": "Dark"
+    },
+    {
+      "abbr": [
+        "ES"
+      ],
+      "front": {
+        "ability": "1",
+        "deploy": "2",
+        "destiny": "5",
+        "forfeit": "3",
+        "gametext": "Power and forfeit +2 at a Coruscant location. At the beginning of opponent's control phase, if present with opponent's character, `sell death sticks' (opponent must use or lose 1 Force; if a Jedi present, also place Elan in Used Pile).",
+        "icons": [
+          "Episode 1",
+          "Set 19"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual19-Dark/large/elansleazebaggano.gif",
+        "lore": "Balosar information broker.",
+        "power": "2",
+        "subType": "Alien",
+        "title": "•Elan Sleazebaggano",
+        "type": "Character",
+        "uniqueness": "*"
+      },
+      "gempId": "219_4",
+      "id": 7076,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "219"
+        }
+      ],
+      "rarity": "C",
+      "set": "219",
+      "side": "Dark"
+    },
+    {
+      "abbr": [
+        "EEV"
+      ],
+      "front": {
+        "ability": "3",
+        "deploy": "3",
+        "destiny": "2",
+        "forfeit": "4",
+        "gametext": "[Pilot] 2: any capital starship. While with Thrawn, your starships here are power and hyperspeed +1. During your control phase, may use 1 Force to take a card with 'artwork' or 'studied' in game text into hand from Reserve Deck; reshuffle.",
+        "icons": [
+          "Pilot",
+          "Warrior",
+          "Set 19"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual19-Dark/large/ensignelivanto.gif",
+        "lore": "Blank",
+        "politics": "1",
+        "power": "2",
+        "subType": "Imperial",
+        "title": "•Ensign Eli Vanto",
+        "type": "Character",
+        "uniqueness": "*"
+      },
+      "gempId": "219_5",
+      "id": 7077,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "219"
+        }
+      ],
+      "rarity": "U",
+      "set": "219",
+      "side": "Dark"
+    },
+    {
+      "abbr": [
+        "FS"
+      ],
+      "front": {
+        "ability": "2",
+        "armor": "4",
+        "deploy": "3",
+        "destiny": "2",
+        "forfeit": "4",
+        "gametext": "If you just initiated battle here, battle damage against you here this turn is canceled. Once per turn, may target opponent's non-'hit' character here. If Fennec on table when target lost this turn, opponent loses 1 Force.",
+        "icons": [
+          "Warrior",
+          "Set 19"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual19-Dark/large/fennecshand.gif",
+        "lore": "Female assassin, bounty hunter, and mercenary.",
+        "power": "4",
+        "subType": "Alien",
+        "title": "•Fennec Shand",
+        "type": "Character",
+        "uniqueness": "*"
+      },
+      "gempId": "219_6",
+      "id": 7078,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "219"
+        }
+      ],
+      "rarity": "U1",
+      "set": "219",
+      "side": "Dark"
+    },
+    {
+      "abbr": [
+        "GP"
+      ],
+      "front": {
+        "ability": "3",
+        "deploy": "3",
+        "destiny": "2",
+        "forfeit": "5",
+        "gametext": "If an artwork card was just stacked (or a Rebel was just captured here), may take a card without ability into hand from Reserve Deck; reshuffle. While in a battle you lost, unless 'hit' (or no other Imperials present), Pryce may not be forfeited. Immune to attrition < 4.",
+        "icons": [
+          "Coruscant",
+          "Set 19"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual19-Dark/large/governorpryce.gif",
+        "lore": "Female leader and miner.",
+        "politics": "2",
+        "power": "2",
+        "subType": "Imperial",
+        "title": "•Governor Pryce",
+        "type": "Character",
+        "uniqueness": "*"
+      },
+      "gempId": "219_7",
+      "id": 7079,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "219"
+        }
+      ],
+      "rarity": "U",
+      "set": "219",
+      "side": "Dark"
+    },
+    {
+      "abbr": [
+        "GG"
+      ],
+      "front": {
+        "destiny": "4",
+        "gametext": "LOST: Deploy [Episode I] Coruscant from Reserve Deck; reshuffle. STARTING: If A Stunning Move on table, deploy three Effects that deploy on your side of table, deploy for free, and are always immune to Alter. Place Interrupt in hand.",
+        "icons": [
+          "Episode I",
+          "Set 19"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual19-Dark/large/grievousgambit.gif",
+        "lore": "Blank",
+        "subType": "Lost Or Starting",
+        "title": "•Grievous' Gambit",
+        "type": "Interrupt",
+        "uniqueness": "*"
+      },
+      "gempId": "219_8",
+      "id": 7080,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "219"
+        }
+      ],
+      "rarity": "C",
+      "set": "219",
+      "side": "Dark"
+    },
+    {
+      "abbr": [
+        "HPAA"
+      ],
+      "front": {
+        "destiny": "5",
+        "gametext": "USED: During battle, add 1 to your total battle destiny for each artwork card on table. LOST: Once per game, if your [Set 19] objective just `studied' an Interrupt, you may take one Interrupt into hand from Lost Pile.",
+        "icons": [
+          "Set 19"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual19-Dark/large/historyphilosophyandart.gif",
+        "lore": "Blank",
+        "subType": "Used Or Lost",
+        "title": "•History, Philosophy, And Art",
+        "type": "Interrupt",
+        "uniqueness": "*"
+      },
+      "gempId": "219_9",
+      "id": 7081,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "219"
+        }
+      ],
+      "rarity": "U",
+      "set": "219",
+      "side": "Dark"
+    },
+    {
+      "front": {
+        "darkSideIcons": 2,
+        "destiny": "0",
+        "gametext": "Dark: While you control, at related battleground sites you control with an Imperial leader, your Force drains are +1. Light: If Ghost and Phantom piloted here, Force drain +1 here. If no Rebel starships piloted here, Force drain -1 here.",
+        "icons": [
+          "Planet",
+          "Set 19"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual19-Dark/large/lothal.gif",
+        "lightSideIcons": 1,
+        "parsec": "6",
+        "subType": "System",
+        "title": "•Lothal",
+        "type": "Location",
+        "uniqueness": "*"
+      },
+      "gempId": "219_10",
+      "id": 7082,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "219"
+        }
+      ],
+      "rarity": "U2",
+      "set": "219",
+      "side": "Dark"
+    },
+    {
+      "abbr": [
+        "LAPL"
+      ],
+      "front": {
+        "darkSideIcons": 1,
+        "destiny": "0",
+        "gametext": "Dark: Once per game, may deploy TIE Defender Project or Thrawn here from Reserve Deck; reshuffle. Light: If you control with a Rebel, Force drain +1 here.",
+        "icons": [
+          "Exterior",
+          "Planet",
+          "Scomp Link",
+          "Set 19"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual19-Dark/large/lothaladvancedprojectslaboratory.gif",
+        "lightSideIcons": 1,
+        "subType": "Site",
+        "title": "•Lothal: Advanced Projects Laboratory",
+        "type": "Location",
+        "uniqueness": "*"
+      },
+      "gempId": "219_11",
+      "id": 7083,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "219"
+        }
+      ],
+      "rarity": "U",
+      "set": "219",
+      "side": "Dark"
+    },
+    {
+      "abbr": [
+        "LCC"
+      ],
+      "front": {
+        "darkSideIcons": 2,
+        "destiny": "0",
+        "gametext": "Dark: Rukh, Imperials, AT-DPs, AT-STs, and speeder bikes are power and defense value +1 here. Light: While you occupy, your Imperial Complex game text is canceled.",
+        "icons": [
+          "Interior",
+          "Exterior",
+          "Planet",
+          "Scomp Link",
+          "Set 19"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual19-Dark/large/lothalcapitalcity.gif",
+        "lightSideIcons": 2,
+        "subType": "Site",
+        "title": "•Lothal: Capital City",
+        "type": "Location",
+        "uniqueness": "*"
+      },
+      "gempId": "219_12",
+      "id": 7084,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "219"
+        }
+      ],
+      "rarity": "F",
+      "set": "219",
+      "side": "Dark"
+    },
+    {
+      "abbr": [
+        "LIC"
+      ],
+      "front": {
+        "darkSideIcons": 2,
+        "destiny": "0",
+        "gametext": "Dark: If you control with a leader, once per battle at a related site, you may deploy a card as a `react'. Light: Your non-Rebel characters deploy +1 here.",
+        "icons": [
+          "Interior",
+          "Planet",
+          "Scomp Link",
+          "Set 19"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual19-Dark/large/lothalimperialcomplex.gif",
+        "lightSideIcons": 0,
+        "subType": "Site",
+        "title": "•Lothal: Imperial Complex",
+        "type": "Location",
+        "uniqueness": "*"
+      },
+      "gempId": "219_13",
+      "id": 7085,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "219"
+        }
+      ],
+      "rarity": "U",
+      "set": "219",
+      "side": "Dark"
+    },
+    {
+      "abbr": [
+        "LISM"
+      ],
+      "front": {
+        "darkSideIcons": 2,
+        "destiny": "0",
+        "gametext": "Dark: If your miner present, your Force generation is +2 here. Light: If you control, your Force generation is +1 here.",
+        "icons": [
+          "Underground",
+          "Exterior",
+          "Planet",
+          "Set 19"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual19-Dark/large/lothalimperialstripmines.gif",
+        "lightSideIcons": 1,
+        "subType": "Site",
+        "title": "•Lothal: Imperial Strip Mines",
+        "type": "Location",
+        "uniqueness": "*"
+      },
+      "gempId": "219_14",
+      "id": 7086,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "219"
+        }
+      ],
+      "rarity": "U",
+      "set": "219",
+      "side": "Dark"
+    },
+    {
+      "abbr": [
+        "MME"
+      ],
+      "front": {
+        "ability": "4",
+        "deploy": "4",
+        "destiny": "2",
+        "extraText": [
+          "Force-Sensitive"
+        ],
+        "forfeit": "6",
+        "gametext": "While present at a battleground site and you control more systems than opponent, Force drain +1 here. Power and defense value +2 while Thrawn at a system with a parsec number > 5. Immune to attrition < 3.",
+        "icons": [
+          "Warrior",
+          "Set 19"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual19-Dark/large/magistratemorganelsbeth.gif",
+        "lore": "Female leader.",
+        "power": "4",
+        "subType": "Imperial",
+        "title": "•Magistrate Morgan Elsbeth",
+        "type": "Character",
+        "uniqueness": "*"
+      },
+      "gempId": "219_15",
+      "id": 7087,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "219"
+        }
+      ],
+      "rarity": "U",
+      "set": "219",
+      "side": "Dark"
+    },
+    {
+      "abbr": [
+        "NEv"
+      ],
+      "front": {
+        "destiny": "4",
+        "gametext": "Deploy on table. When deployed, may take the top card of Lost Pile into hand. During your move phase, may cancel Landing Claw (then place it out of play from Lost Pile). Elis Helrot and Nabrun Leids are unique (•) and are Lost Interrupts. [Immune to Alter.]",
+        "icons": [
+          "Premium",
+          "Set 19"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual19-Dark/large/noescape.gif",
+        "lore": "Jabba's influence is not easily ignored. Neither are his voracious and vile appetites. Even Jedi soon learn this lesson.",
+        "title": "•No Escape (V)",
+        "type": "Effect",
+        "uniqueness": "*"
+      },
+      "gempId": "219_16",
+      "id": 7088,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "219"
+        }
+      ],
+      "rarity": "PM",
+      "set": "219",
+      "side": "Dark"
+    },
+    {
+      "abbr": [
+        "OHv"
+      ],
+      "front": {
+        "destiny": "3",
+        "gametext": "Deploy on your interior site. If opponent just deployed a character or vehicle here, may lose 1 Force to move your character to here using landspeed (at normal use of the Force). Opponent may not 'react' to here. May place out of play to draw top card of Reserve Deck.",
+        "icons": [
+          "Set 19"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual19-Dark/large/observationholocam.gif",
+        "lore": "Remote surveillance viewers with droid controllers supplement security. Can activate alarms and automated weapons when needed, bringing help to endangered locations.",
+        "title": "Observation Holocam (V)",
+        "type": "Device"
+      },
+      "gempId": "219_17",
+      "id": 7089,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "219"
+        }
+      ],
+      "rarity": "U2",
+      "set": "219",
+      "side": "Dark"
+    },
+    {
+      "abbr": [
+        "SYCDB"
+      ],
+      "front": {
+        "destiny": "4",
+        "gametext": "USED: During battle, target a character present with [Set 13] Dooku. Target is power -3. LOST: If lightsaber combat was just initiated, add one destiny to your total. OR If [Set 13] Dooku on table, deploy Dooku's Lightsaber from Lost Pile.",
+        "icons": [
+          "Episode I",
+          "Set 19"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual19-Dark/large/surelyyoucandobetter.gif",
+        "lore": "Those who can use the Force are able to manipulate the objects around them to their advantage.",
+        "subType": "Used Or Lost",
+        "title": "•Surely You Can Do Better",
+        "type": "Interrupt",
+        "uniqueness": "*"
+      },
+      "gempId": "219_18",
+      "id": 7090,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "219"
+        }
+      ],
+      "rarity": "U",
+      "set": "219",
+      "side": "Dark"
+    },
+    {
+      "abbr": [
+        "TEv"
+      ],
+      "front": {
+        "ability": "7",
+        "deploy": "5",
+        "destiny": "1",
+        "extraText": [
+          "Dark Jedi Master"
+        ],
+        "forfeit": "9",
+        "gametext": "Destiny +1 for each Black Sun agent or Jedi on table (limit +5) when drawn for destiny. Deploys only to Coruscant. Never deploys or moves (even if carried) to a site opponent occupies. May cancel Projection Of A Skywalker here. Immune to attrition.",
+        "icons": [
+          "Reflections II",
+          "Death Star II",
+          "Set 19"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual19-Dark/large/theemperor.gif",
+        "lore": "Leader. Secretive manipulator of the galaxy. Played Darth Vader and Prince Xizor off against one another in his relentless pursuit of 'young Skywalker.'",
+        "power": "4",
+        "subType": "Dark Jedi Master/Imperial",
+        "title": "•The Emperor (V)",
+        "type": "Character",
+        "uniqueness": "*"
+      },
+      "gempId": "219_19",
+      "id": 7091,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "219"
+        }
+      ],
+      "rarity": "PM",
+      "set": "219",
+      "side": "Dark"
+    },
+    {
+      "abbr": [
+        "TP"
+      ],
+      "front": {
+        "destiny": "6",
+        "gametext": "USED: Add 1 to hyperspeed of a dreadnaught or Star Destroyer for each artwork card on table for remainder of turn. LOST: Once per game, if your [Set 19] objective just `studied' a vehicle or starship, relocate your Star Destroyer from anywhere on table to that battle.",
+        "icons": [
+          "Set 19"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual19-Dark/large/thrawnpincer.gif",
+        "lore": "The Empire's efficient, fear-driven logistical systems can quickly divert weapons and equipment from one conflict to another, focusing on regions of highest strategic priority.",
+        "subType": "Used Or Lost",
+        "title": "•Thrawn Pincer",
+        "type": "Interrupt",
+        "uniqueness": "*"
+      },
+      "gempId": "219_21",
+      "id": 7092,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "219"
+        }
+      ],
+      "rarity": "C1",
+      "set": "219",
+      "side": "Dark"
+    },
+    {
+      "abbr": [
+        "TAC"
+      ],
+      "front": {
+        "destiny": "4",
+        "gametext": "Use 4 Force to deploy on table. If you just initiated a Force drain (or won a battle) at same battleground as Thrawn, opponent loses 1 Force (cannot be reduced) and stacks it here face up. (These stacked cards are artwork cards.) [Immune to Alter.]",
+        "icons": [
+          "Set 19"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual19-Dark/large/thrawnsartcollection.gif",
+        "lore": "Blank",
+        "title": "•Thrawn's Art Collection",
+        "type": "Effect",
+        "uniqueness": "*"
+      },
+      "gempId": "219_20",
+      "id": 7093,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "219"
+        }
+      ],
+      "rarity": "C",
+      "set": "219",
+      "side": "Dark"
+    },
+    {
+      "front": {
+        "armor": "6",
+        "deploy": "7",
+        "destiny": "1",
+        "forfeit": "7",
+        "gametext": "May add 6 pilots, 8 passengers, and 4 TIEs. While Khurgee aboard, power, armor, and hyperspeed +2. While Death Star II on table, Thunderflare moves for free. Permanent pilot provides ability of 2.",
+        "hyperspeed": "2",
+        "icons": [
+          "Pilot",
+          "Nav Computer",
+          "Scomp Link",
+          "Death Star II",
+          "Set 19"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual19-Dark/large/thunderflare.gif",
+        "lore": "Overpowered Star Destroyer. Energy is transferred from hyperdrive to weapons. Patrol duties in the Core Worlds make it a common first assignment for junior officers.",
+        "power": "9",
+        "subType": "Capital: Imperial-Class Star Destroyer",
+        "title": "•Thunderflare (V)",
+        "type": "Starship",
+        "uniqueness": "*"
+      },
+      "gempId": "219_22",
+      "id": 7094,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "219"
+        }
+      ],
+      "rarity": "R",
+      "set": "219",
+      "side": "Dark"
+    },
+    {
+      "abbr": [
+        "TRWHR"
+      ],
+      "front": {
+        "ability": "2",
+        "deploy": "2",
+        "destiny": "2",
+        "extraText": [
+          "Roar 2"
+        ],
+        "forfeit": "3",
+        "gametext": "Permanent weapon is Hunting Rifle (may target a character or creature; draw destiny; target hit and forfeit -2 if destiny +1 > defense value. If firing from Dune Sea, Jundland Wastes, or a canyon, targets at an adjacent site or adds 1 to weapon destiny).",
+        "icons": [
+          "Warrior",
+          "Permanent Weapon",
+          "Set 19"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual19-Dark/large/tuskenraiderwithhuntingrifle.gif",
+        "lore": "Blank",
+        "power": "2",
+        "subType": "Alien",
+        "title": "Tusken Raider With Hunting Rifle",
+        "type": "Character"
+      },
+      "gempId": "219_23",
+      "id": 7095,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "219"
+        }
+      ],
+      "rarity": "C",
+      "set": "219",
+      "side": "Dark"
+    },
+    {
+      "abbr": [
+        "UAUAS"
+      ],
+      "front": {
+        "destiny": "4",
+        "gametext": "USED: Target a character in battle. Target and cards that share any characteristic with target are power and forfeit -1. LOST: Once per game, if your [Set 19] objective just `studied' a character, add one battle destiny (two if a character of same species is participating in battle).",
+        "icons": [
+          "Set 19"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual19-Dark/large/understandartunderstandaspecies.gif",
+        "lore": "The Empire considers alien species to be inferior.",
+        "subType": "Used Or Lost",
+        "title": "•Understand Art, Understand A Species",
+        "type": "Interrupt",
+        "uniqueness": "*"
+      },
+      "gempId": "219_24",
+      "id": 7096,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "219"
+        }
+      ],
+      "rarity": "C",
+      "set": "219",
+      "side": "Dark"
+    },
+    {
+      "abbr": [
+        "UP"
+      ],
+      "front": {
+        "ability": "2",
+        "deploy": "2",
+        "destiny": "4",
+        "forfeit": "4",
+        "gametext": "Your battle destiny draws here are +¬ for each device, droid, starship, vehicle, or weapon card here. During battle with an opponent's droid, adds one destiny to total power. Once per game, may retrieve a device or character weapon.",
+        "icons": [
+          "Episode VII",
+          "Set 19"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual19-Dark/large/unkarplutt.gif",
+        "lore": "Crolute scavenger and thief.",
+        "power": "2",
+        "subType": "Alien",
+        "title": "•Unkar Plutt",
+        "type": "Character",
+        "uniqueness": "*"
+      },
+      "gempId": "219_25",
+      "id": 7097,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "219"
+        }
+      ],
+      "rarity": "U2",
+      "set": "219",
+      "side": "Dark"
+    },
+    {
+      "front": {
+        "ability": "6",
+        "deploy": "6",
+        "destiny": "1",
+        "extraText": [
+          "Dark Jedi"
+        ],
+        "forfeit": "8",
+        "gametext": "[Pilot] 3. If alone and a battle was just initiated here, may take Lightsaber Parry, Physical Choke, or Vader's Anger into hand from Reserve Deck; reshuffle. Opponent's non-Jedi characters here are power and forfeit -1. Immune to attrition < 5 (< 7 if with a Jedi).",
+        "icons": [
+          "Pilot",
+          "Warrior",
+          "Set 19"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual19-Dark/large/vader.gif",
+        "lore": "Sought to extinguish all Jedi. Former student of Obi-Wan Kenobi. Seduced by the dark side of the Force.",
+        "power": "6",
+        "subType": "Imperial",
+        "title": "•Vader (V)",
+        "type": "Character",
+        "uniqueness": "*"
+      },
+      "gempId": "219_26",
+      "id": 7098,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "219"
+        }
+      ],
+      "rarity": "PM",
+      "set": "219",
+      "side": "Dark"
+    },
+    {
+      "abbr": [
+        "VLv"
+      ],
+      "front": {
+        "destiny": "1",
+        "gametext": "Deploy on [Episode I] Vader. May add 1 to Force drain where present. May target a character or creature for free. Draw two destiny. Subtract 1 if targeting Obi-Wan. Add 1 if targeting a Padawan. Target hit, and its forfeit = 0, if total destiny > defense value.",
+        "icons": [
+          "Episode I",
+          "Set 19"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual19-Dark/large/vaderslightsaber.gif",
+        "lore": "Custom-built by Darth Vader. After the Clone Wars, he wielded this weapon while hunting down the last of the Jedi. Cuts through almost anything except another lightsaber blade.",
+        "subType": "Character Weapon",
+        "title": "•Vader's Lightsaber (V)",
+        "type": "Weapon",
+        "uniqueness": "*"
+      },
+      "gempId": "219_27",
+      "id": 7099,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "219"
+        }
+      ],
+      "rarity": "R1",
+      "set": "219",
+      "side": "Dark"
+    },
+    {
+      "front": {
+        "destiny": "0",
+        "gametext": "[0] Corscant [1] Carida, Corellia, Eriadu, Kirdo III, Kuat [2] Alderaan, Bothuwui, Kiffex, Rendili, Tibrin, Wakeelmui [3] Malastare, Nal Hutta, Raithal, Ralltiir [4] Aquaris, Chandrila, Corulag, Yavin 4* [5] Anoat, Dantooine, Hoth*, Naboo [6] Bespin, Fondor, Kashyyyk, Mon Calamari [7] Clak'dor VII, Ord Mantell, Roche, Sullust, Tatooine [8] Endor, Kessel [9] Dagobah, Gall * Known Rebel Base",
+        "icons": [
+          "Set P"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/VirtualPremium-Dark/large/hyperoutenavigationchart.gif",
+        "title": "Hyperoute Navigation Chart (V)",
+        "type": "Game Aid"
+      },
+      "gempId": "301_9",
+      "id": 7100,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "301"
+        }
+      ],
+      "rarity": "PM",
+      "set": "301",
+      "side": "Dark"
     }
   ]
 }

@@ -495,6 +495,17 @@
     "size": 32
   },
   {
+    "id": "219",
+    "name": "Virtual Set 19",
+    "gempName": "Set 19",
+    "abbr": "V19",
+    "legacy": false,
+    "cycle_code": "full",
+    "date_release": "2022-08-15",
+    "position": 218,
+    "size": 48
+  },
+  {
     "id": "301",
     "name": "Demo Deck",
     "gempName": "Virtual Premium Set",
@@ -503,7 +514,7 @@
     "cycle_code": "full",
     "date_release": "2017-02-24",
     "position": 301,
-    "size": 8
+    "size": 9
   },
   {
     "id": "401",

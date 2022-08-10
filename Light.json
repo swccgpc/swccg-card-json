@@ -66049,6 +66049,697 @@
       ],
       "set": "218",
       "side": "Light"
+    },
+    {
+      "front": {
+        "deploy": "2",
+        "destiny": "1 or 6",
+        "destinyValues": [
+          1,
+          6
+        ],
+        "extraText": [
+          "Astromech Droid"
+        ],
+        "forfeit": "4",
+        "gametext": "Once per game, may use 1 Force to shuffle opponent's Reserve Deck or place opponent's just-played Interrupt out of play. If in battle with Anakin or Luke, may draw one destiny and subtract that amount from opponent's attrition.",
+        "icons": [
+          "Jabba's Palace",
+          "Nav Computer",
+          "Set 19"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual19-Light/large/artoo.gif",
+        "lore": "Counterpart to C-3PO. Spy. Obstinate, headstrong and always full of surprises. R2-D2 was an integral part of Luke Skywalker's rescue plans.",
+        "power": "2",
+        "subType": "Droid",
+        "title": "•Artoo (V)",
+        "type": "Character",
+        "uniqueness": "*"
+      },
+      "gempId": "219_28",
+      "id": 7101,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "219"
+        }
+      ],
+      "rarity": "R",
+      "set": "219",
+      "side": "Light"
+    },
+    {
+      "abbr": [
+        "BF"
+      ],
+      "front": {
+        "ability": "2",
+        "deploy": "1",
+        "destiny": "4",
+        "forfeit": "3",
+        "gametext": "When deployed, may search your Lost Pile and move one card there to the top of that pile (if that card is a droid, may retrieve it into hand). Once per game, may use 2 Force to target a droid here; for remainder of turn, target's game text is canceled.",
+        "icons": [
+          "Episode VII",
+          "Set 19"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual19-Light/large/babufrik.gif",
+        "lore": "Anzellan droidsmith. Spice runner.",
+        "power": "0",
+        "subType": "Alien",
+        "title": "•Babu Frik",
+        "type": "Character",
+        "uniqueness": "*"
+      },
+      "gempId": "219_29",
+      "id": 7102,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "219"
+        }
+      ],
+      "rarity": "U",
+      "set": "219",
+      "side": "Light"
+    },
+    {
+      "abbr": [
+        "CDWHBR"
+      ],
+      "canceledBy": [
+        "Disney"
+      ],
+      "combo": [
+        "Blaster Proficiency",
+        "Sorry About The Mess & Blaster Proficiency"
+      ],
+      "front": {
+        "ability": "2",
+        "armor": "5",
+        "characteristics": [
+          "Alderaanian",
+          "female",
+          "gambler",
+          "trooper"
+        ],
+        "deploy": "4",
+        "destiny": "2",
+        "forfeit": "5",
+        "gametext": "If Alderaan has been 'blown away,' Force drain +1 here. Permanent weapon is Cara's Heavy Blaster Rifle (twice per battle, may target a character or vehicle; draw destiny; target hit, and its forfeit is cumulatively -3, if destiny +1 > defense value).",
+        "icons": [
+          "Warrior",
+          "Permanent Weapon",
+          "Set 19"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual19-Light/large/caradunewithheavyblasterrifle.gif",
+        "lore": "Female Alderaanian. Gambler. Trooper.",
+        "power": "4",
+        "subType": "Alien",
+        "title": "•Cara Dune With Heavy Blaster Rifle",
+        "type": "Character",
+        "uniqueness": "*"
+      },
+      "gempId": "219_30",
+      "id": 7103,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "219"
+        }
+      ],
+      "rarity": "C",
+      "set": "219",
+      "side": "Light"
+    },
+    {
+      "abbr": [
+        "CJT"
+      ],
+      "front": {
+        "darkSideIcons": 0,
+        "destiny": "0",
+        "gametext": "Light: During your move phase, [Episode I] Jedi may move between here and a battleground site. While a Jedi here, opponent's characters deploy +2 here and cancels Force drains at Jedi Council Chamber. Dark: ",
+        "icons": [
+          "Episode I",
+          "Planet",
+          "Exterior",
+          "Set 19"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual19-Light/large/coruscantjeditemple.gif",
+        "lightSideIcons": 2,
+        "subType": "Site",
+        "title": "•Coruscant: Jedi Temple",
+        "type": "Location",
+        "uniqueness": "*"
+      },
+      "gempId": "219_31",
+      "id": 7104,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "219"
+        }
+      ],
+      "rarity": "R1",
+      "set": "219",
+      "side": "Light"
+    },
+    {
+      "abbr": [
+        "DJ"
+      ],
+      "front": {
+        "ability": "3",
+        "deploy": "3",
+        "destiny": "2",
+        "extraText": [
+          "Force-Attuned"
+        ],
+        "forfeit": "5",
+        "gametext": "Deploys -1 to (and power +1 at) a cantina, diner, or night club. When deployed, may take a Jedi here into hand (if a bounty hunter on table, may instead take Obi-Wan into hand from Reserve Deck; reshuffle). Your aliens here are immune to Stunning Leader.",
+        "icons": [
+          "Episode I",
+          "Set 19"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual19-Light/large/dexterjettster.gif",
+        "lore": "Besalisk information broker.",
+        "power": "3",
+        "subType": "Alien",
+        "title": "•Dexter Jettster",
+        "type": "Character",
+        "uniqueness": "*"
+      },
+      "gempId": "219_32",
+      "id": 7105,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "219"
+        }
+      ],
+      "rarity": "C",
+      "set": "219",
+      "side": "Light"
+    },
+    {
+      "abbr": [
+        "EHOPS"
+      ],
+      "front": {
+        "ability": "5",
+        "deploy": "5",
+        "destiny": "2",
+        "extraText": [
+          "Force-Sensitive"
+        ],
+        "forfeit": "6",
+        "gametext": "Other Phoenix Squadron characters here are forfeit and defense value +2. Once per game, may retrieve a Phoenix Squadron character into hand. [Set 13] Maul may not modify destiny draws. Immune to attrition < 4.",
+        "icons": [
+          "Pilot",
+          "Warrior",
+          "Set 19"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual19-Light/large/ezraheroofphoenixsquadron.gif",
+        "lore": "Commander, leader, and Padawan.",
+        "power": "4",
+        "subType": "Rebel",
+        "title": "•Ezra, Hero Of Phoenix Squadron",
+        "type": "Character",
+        "uniqueness": "*"
+      },
+      "gempId": "219_33",
+      "id": 7106,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "219"
+        }
+      ],
+      "rarity": "U",
+      "set": "219",
+      "side": "Light"
+    },
+    {
+      "abbr": [
+        "EBL"
+      ],
+      "front": {
+        "destiny": "1",
+        "gametext": "Deploy on Ezra. Once per turn, may return to hand to cancel and redraw a destiny targeting a Rebel here. May target a character for free. Draw destiny. If destiny +3 > defense value, target hit, its forfeit = 0 and, if target's ability > 4, user is power +2 until end of turn.",
+        "icons": [
+          "Set 19"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual19-Light/large/ezrasblasterlightsaber.gif",
+        "lore": "Blank",
+        "subType": "Character Weapon",
+        "title": "•Ezra's Blaster Lightsaber",
+        "type": "Weapon",
+        "uniqueness": "*"
+      },
+      "gempId": "219_34",
+      "id": 7107,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "219"
+        }
+      ],
+      "rarity": "C2",
+      "set": "219",
+      "side": "Light"
+    },
+    {
+      "abbr": [
+        "FR"
+      ],
+      "front": {
+        "ability": "3",
+        "armor": "5",
+        "deploy": "4",
+        "destiny": "2",
+        "forfeit": "5",
+        "gametext": "[Pilot] 3. During battle, if another Mandalorian here, opponent's total power is -3. At the end of a battle here, may return Fenn Rau to hand to activate 2 Force (if Fenn Rau won a battle this turn, may also retrieve 1 Force).",
+        "icons": [
+          "Pilot",
+          "Warrior",
+          "Set 19"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual19-Light/large/fennrau.gif",
+        "lore": "Mandalorian scout.",
+        "power": "4",
+        "subType": "Alien/Rebel",
+        "title": "•Fenn Rau",
+        "type": "Character",
+        "uniqueness": "*"
+      },
+      "gempId": "219_35",
+      "id": 7108,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "219"
+        }
+      ],
+      "rarity": "U",
+      "set": "219",
+      "side": "Light"
+    },
+    {
+      "abbr": [
+        "L("
+      ],
+      "front": {
+        "darkSideIcons": 1,
+        "destiny": "0",
+        "gametext": "Light: Ghost deploys -2 here. While Ghost piloted here, opponent's battle destiny draws are -1 here. Dark: Unless Chimaera or Thrawn here, Force drain -1 here.",
+        "icons": [
+          "Planet",
+          "Set 19"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual19-Light/large/lothallight.gif",
+        "lightSideIcons": 2,
+        "parsec": "6",
+        "subType": "System",
+        "title": "•Lothal (LIGHT)",
+        "type": "Location",
+        "uniqueness": "*"
+      },
+      "gempId": "219_38",
+      "id": 7109,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "219"
+        }
+      ],
+      "rarity": "U2",
+      "set": "219",
+      "side": "Light"
+    },
+    {
+      "abbr": [
+        "LCC"
+      ],
+      "front": {
+        "darkSideIcons": 2,
+        "destiny": "0",
+        "gametext": "Light: If a player controls, their total power is +2 at related locations. Dark: May deploy Thrawn here from Reserve Deck; reshuffle.",
+        "icons": [
+          "Interior",
+          "Exterior",
+          "Planet",
+          "Scomp Link",
+          "Set 19"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual19-Light/large/lothalcapitalcity.gif",
+        "lightSideIcons": 2,
+        "subType": "Site",
+        "title": "•Lothal: Capital City",
+        "type": "Location",
+        "uniqueness": "*"
+      },
+      "gempId": "219_39",
+      "id": 7110,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "219"
+        }
+      ],
+      "rarity": "F",
+      "set": "219",
+      "side": "Light"
+    },
+    {
+      "abbr": [
+        "LCTER"
+      ],
+      "front": {
+        "darkSideIcons": 1,
+        "destiny": "0",
+        "gametext": "Light: Ezra deploys -1 (and is immune to attrition) here. Dark: ",
+        "icons": [
+          "Exterior",
+          "Planet",
+          "Scomp Link",
+          "Set 19"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual19-Light/large/lothalcommtowere272ezrasroost.gif",
+        "lightSideIcons": 2,
+        "subType": "Site",
+        "title": "•Lothal: Comm Tower E-272 (Ezra's Roost)",
+        "type": "Location",
+        "uniqueness": "*"
+      },
+      "gempId": "219_40",
+      "id": 7111,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "219"
+        }
+      ],
+      "rarity": "C",
+      "set": "219",
+      "side": "Light"
+    },
+    {
+      "abbr": [
+        "LJT"
+      ],
+      "front": {
+        "darkSideIcons": 1,
+        "destiny": "0",
+        "gametext": "Light: Ezra and Kanan deploy -1 here. Unless you occupy, Vader may not deploy here and opponent's characters, vehicles, and starships deploy and move to here for +3 Force. Dark: ",
+        "icons": [
+          "Exterior",
+          "Planet",
+          "Set 19"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual19-Light/large/lothaljeditemple.gif",
+        "lightSideIcons": 3,
+        "subType": "Site",
+        "title": "•Lothal: Jedi Temple",
+        "type": "Location",
+        "uniqueness": "*"
+      },
+      "gempId": "219_41",
+      "id": 7112,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "219"
+        }
+      ],
+      "rarity": "U1",
+      "set": "219",
+      "side": "Light"
+    },
+    {
+      "abbr": [
+        "LT"
+      ],
+      "front": {
+        "darkSideIcons": 1,
+        "destiny": "0",
+        "gametext": "Light: During battle here, Sabine or Zeb may draw one battle destiny if unable to otherwise. Dark: Unless Tarkin here, Force drain -1 here.",
+        "icons": [
+          "Exterior",
+          "Planet",
+          "Scomp Link",
+          "Set 19"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual19-Light/large/lothaltarkintown.gif",
+        "lightSideIcons": 2,
+        "subType": "Site",
+        "title": "•Lothal: Tarkintown",
+        "type": "Location",
+        "uniqueness": "*"
+      },
+      "gempId": "219_42",
+      "id": 7113,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "219"
+        }
+      ],
+      "rarity": "R2",
+      "set": "219",
+      "side": "Light"
+    },
+    {
+      "front": {
+        "darkSideIcons": 2,
+        "destiny": "0",
+        "gametext": "Light: While you control with a Phoenix Squadron character, Vader is power -2 and his weapon destiny draws are -1. Dark: While you control, Ezra is power -2 and may not apply ability toward drawing battle destiny.",
+        "icons": [
+          "Planet",
+          "Set 19"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual19-Light/large/malachor.gif",
+        "lightSideIcons": 2,
+        "parsec": "6",
+        "subType": "System",
+        "title": "•Malachor",
+        "type": "Location",
+        "uniqueness": "*"
+      },
+      "gempId": "219_36",
+      "id": 7114,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "219"
+        }
+      ],
+      "rarity": "U",
+      "set": "219",
+      "side": "Light"
+    },
+    {
+      "front": {
+        "darkSideIcons": 1,
+        "destiny": "0",
+        "gametext": "Light: If your Mandalorian here, Force drain +1 here (+2 if armed with Darksaber). Dark: If your character armed with Darksaber on table, opponent may not deploy (or Force drain) here.",
+        "icons": [
+          "Planet",
+          "Set 19"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual19-Light/large/mandalore.gif",
+        "lightSideIcons": 2,
+        "parsec": "4",
+        "subType": "System",
+        "title": "•Mandalore",
+        "type": "Location",
+        "uniqueness": "*"
+      },
+      "gempId": "219_37",
+      "id": 7115,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "219"
+        }
+      ],
+      "rarity": "U",
+      "set": "219",
+      "side": "Light"
+    },
+    {
+      "abbr": [
+        "PSO"
+      ],
+      "front": {
+        "destiny": "4",
+        "gametext": "If Lothal on table, deploy on table. Your Phoenix Squadron characters are deploy -1. Once per turn, may deploy Malachor, Mandalore, or Seelos (or Chopper, Wedge, Zeb, or an A-wing to a Lothal location) from Reserve Deck; reshuffle. [Immune to Alter.]",
+        "icons": [
+          "Set 19"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual19-Light/large/phoenixsquadronoperations.gif",
+        "lore": "The heroes of the Rebellion know that where there is life, there is hope.",
+        "title": "•Phoenix Squadron Operations",
+        "type": "Effect",
+        "uniqueness": "*"
+      },
+      "gempId": "219_43",
+      "id": 7116,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "219"
+        }
+      ],
+      "rarity": "C",
+      "set": "219",
+      "side": "Light"
+    },
+    {
+      "abbr": [
+        "SS&T"
+      ],
+      "front": {
+        "destiny": "3",
+        "gametext": "Deploy on table. At your battlegrounds, you initiate battles for free. At sites where you have two aliens of the same species, all immunity to attrition is canceled. Once per turn, if you have more battlegrounds on table than opponent, subtracts 1 from deploy cost of your alien being deployed. Opponent may use 3 Force to cancel Gungan Energy Shield. [Immune to Alter.]",
+        "icons": [
+          "Episode I",
+          "Set 19"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual19-Light/large/steadysteadybargainingtable.gif",
+        "title": "•Steady, Steady & •Bargaining Table",
+        "type": "Effect",
+        "uniqueness": "*"
+      },
+      "gempId": "219_44",
+      "id": 7117,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "219"
+        }
+      ],
+      "rarity": "U",
+      "set": "219",
+      "side": "Light"
+    },
+    {
+      "abbr": [
+        "TIOR"
+      ],
+      "front": {
+        "destiny": "5",
+        "gametext": "Peek at up to X cards from the top of your Reserve Deck, where X = number of your Lothal sites on table; take one into hand and shuffle your Reserve Deck. OR Cancel an attempt to target your starship with a weapon or tractor beam.",
+        "icons": [
+          "Set 19"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual19-Light/large/thisisourrebellion.gif",
+        "lore": "Blank",
+        "subType": "Used",
+        "title": "•This Is Our Rebellion",
+        "type": "Interrupt",
+        "uniqueness": "*"
+      },
+      "gempId": "219_45",
+      "id": 7118,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "219"
+        }
+      ],
+      "rarity": "C",
+      "set": "219",
+      "side": "Light"
+    },
+    {
+      "front": {
+        "destiny": "4",
+        "gametext": "Deploy or move a Jawa as a 'react' (for -1 Force). OR If a battle was just initiated where you have three Jawas, choose: Use a magnetic suction tube. OR Each of your Jawas and sandcrawlers there are power and forfeit +1 and immune to attrition for remainder of turn.",
+        "icons": [
+          "Set 19"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual19-Light/large/utinni.gif",
+        "lore": "Jawa trade language word for 'Come here!' Jawas work communally and scavenge for equipment.",
+        "subType": "Used",
+        "title": "Utinni! (V)",
+        "type": "Interrupt"
+      },
+      "gempId": "219_46",
+      "id": 7119,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "219"
+        }
+      ],
+      "rarity": "R1",
+      "set": "219",
+      "side": "Light"
+    },
+    {
+      "abbr": [
+        "WVv"
+      ],
+      "front": {
+        "destiny": "4",
+        "gametext": "Deploy on table. Unless this card upright, characters here are lost. If you just Force drained or initiated battle, rotate this card 90° clockwise; if now upright, retrieve any one card. If opponent just initiated battle, unless this card upright, rotate it 90° counterclockwise.",
+        "icons": [
+          "Cloud City",
+          "Set 19"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual19-Light/large/weathervane.gif",
+        "lore": "The metal rods extending from the bottom of Cloud City are part of the city's flotation system. Sensors detect the velocity of wind and the content of local clouds.",
+        "title": "•Weather Vane (V)",
+        "type": "Effect",
+        "uniqueness": "*"
+      },
+      "gempId": "219_47",
+      "id": 7120,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "219"
+        }
+      ],
+      "rarity": "U",
+      "set": "219",
+      "side": "Light"
+    },
+    {
+      "abbr": [
+        "ZH/LOL"
+      ],
+      "back": {
+        "destiny": "7",
+        "gametext": "Zero Hour: Deploy Lothal system and a Lothal site. For remainder of game, Menace Fades and Projection Of A Skywalker are canceled. Jedi (except Ahsoka and Kanan), Resistance characters, and [Resistance] starships are deploy +1. Chopper, Ezra, Hera, Kanan, Sabine, and Zeb gain Phoenix Squadron. Once per turn, may deploy a Lothal site from Reserve Deck; reshuffle. Flip this card if Rebels control three Lothal locations (or you occupy three Lothal locations with Phoenix Squadron characters) and opponent controls no Lothal locations. Liberation Of Lothal: While this side up, if you Force drained at a battleground this turn, your other Force drains at battlegrounds are +1. Once per turn, may add or subtract X from a just drawn battle destiny (or opponent's weapon destiny), where X = number of battlegrounds you occupy with Phoenix Squadron characters. At Lothal system, the number of battle destiny draws may not be limited for either player. Flip this card if opponent controls more Lothal locations than you.",
+        "icons": [
+          "Set 19"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual19-Light/large/liberationoflothal.gif",
+        "title": "Zero Hour / Liberation Of Lothal",
+        "type": "Objective"
+      },
+      "front": {
+        "destiny": "0",
+        "gametext": "Zero Hour: Deploy Lothal system and a Lothal site. For remainder of game, Menace Fades and Projection Of A Skywalker are canceled. Jedi (except Ahsoka and Kanan), Resistance characters, and [Resistance] starships are deploy +1. Chopper, Ezra, Hera, Kanan, Sabine, and Zeb gain Phoenix Squadron. Once per turn, may deploy a Lothal site from Reserve Deck; reshuffle. Flip this card if Rebels control three Lothal locations (or you occupy three Lothal locations with Phoenix Squadron characters) and opponent controls no Lothal locations. Liberation Of Lothal: While this side up, if you Force drained at a battleground this turn, your other Force drains at battlegrounds are +1. Once per turn, may add or subtract X from a just drawn battle destiny (or opponent's weapon destiny), where X = number of battlegrounds you occupy with Phoenix Squadron characters. At Lothal system, the number of battle destiny draws may not be limited for either player. Flip this card if opponent controls more Lothal locations than you.",
+        "icons": [
+          "Set 19"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual19-Light/large/zerohour.gif",
+        "title": "Zero Hour / Liberation Of Lothal",
+        "type": "Objective"
+      },
+      "gempId": "219_48",
+      "id": 7121,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "219"
+        }
+      ],
+      "rarity": "R",
+      "set": "219",
+      "side": "Light"
     }
   ]
 }
