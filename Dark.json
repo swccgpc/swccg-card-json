@@ -23133,7 +23133,7 @@
           "Force-Sensitive"
         ],
         "forfeit": "7",
-        "gametext": "Adds 3 to power of any starship he pilots. if a Rebel just moved from here, your Imperials present may follow that character (using landspeed). While at a battleground site, functions as a general and game text of Admiral's Orders is suspended.",
+        "gametext": "Adds 3 to power of any starship he pilots. if a Rebel just moved from here, your Imperials present may follow that character (using landspeed). While at a battleground site, functions as a general and game text of Admiral's Orders is canceled.",
         "icons": [
           "Pilot",
           "Warrior",
@@ -61474,6 +61474,11 @@
         }
       ],
       "rarity": "U",
+      "rulings": [
+        "(0-side) 'Imperial Star Destroyers' refers to Imperial affiliation (not First Order, Rebel, Independent, etc).  It does not refer to Imperial-class. Thus Dominator and Executor are deploy -1.",
+        "(7-side) After studying an artwork card, place it in Lost Pile even if it was not possible to perform the specified action (e.g., even if there was no character to exclude from battle or no immunity to attrition to cancel).",
+        "(7-side) For a multi-destiny artwork card such as R2-D2, the destiny value is chosen by the card owner (typically Light) at the time that the card is studied."
+      ],
       "set": "219",
       "side": "Dark"
     },
@@ -61509,6 +61514,11 @@
         }
       ],
       "rarity": "R",
+      "rulings": [
+        "With Thrawn aboard, the game text of We're In Attack Position Now cannot be canceled/suspended by General Leia Organa.",
+        "Kuat Drive Yards (V) will still cancel the entire We're In Attack Position Now card, sending it to Lost Pile.",
+        "If General Leia Organa is currently suspending WIAPN, and then Dark uses Alert My Star Destroyer (V) to deploy Chimaera (V) with Thrawn aboard simultaneously, the discount from WIAPN is not applied (Dark pays the deploy cost first, before WIAPN gets un-suspended)."
+      ],
       "set": "219",
       "side": "Dark"
     },
@@ -61653,6 +61663,11 @@
         }
       ],
       "rarity": "U1",
+      "rulings": [
+        "Fennec schedules the prevention of battle damage as an automatic response to initiating battle, which will then occur even if Fennec is subsequently removed from table or excluded from battle.",
+        "If Fennec is to be automatically excluded (e.g. due to being targeted by Rebel Barrier earlier that turn), her exclusion and the prevention of battle damage are competing automatic actions.",
+        "Fennec's 'once per turn' function schedules potential Force loss which may occur later even if Fennec's game text is subsequently canceled."
+      ],
       "set": "219",
       "side": "Dark"
     },
@@ -61688,6 +61703,9 @@
         }
       ],
       "rarity": "U",
+      "rulings": [
+        "If Pryce is with (for example) Emperor Palpatine and Dark is facing 5 attrition (so Pryce is not immune), Dark must satisfy the attrition, but cannot forfeit Pryce; therefore Dark must forfeit Emperor Palpatine in this scenario."
+      ],
       "set": "219",
       "side": "Dark"
     },
@@ -61747,6 +61765,9 @@
         }
       ],
       "rarity": "U",
+      "rulings": [
+        "The phrase 'artwork card on table' refers to cards stacked on Thrawn's Art Collection."
+      ],
       "set": "219",
       "side": "Dark"
     },
@@ -61843,6 +61864,9 @@
         }
       ],
       "rarity": "F",
+      "rulings": [
+        "Dark's text even increases the power and defense value of relevant LS cards (such as Chewie's AT-ST or a Light side Speeder Bike)."
+      ],
       "set": "219",
       "side": "Dark"
     },
@@ -61876,6 +61900,9 @@
         }
       ],
       "rarity": "U",
+      "rulings": [
+        "Only characters, vehicles, starships, weapons, and devices may be deployed as a react."
+      ],
       "set": "219",
       "side": "Dark"
     },
@@ -62002,6 +62029,10 @@
         }
       ],
       "rarity": "U2",
+      "rulings": [
+        "The movement action requires the loss of 1 Force as well as the normal movement cost (e.g. for most characters, Dark will lose 1 Force and then use 1 Force.  For EPP Mara with her conditions met, Dark will lose 1 Force and then move her for free)."
+      ],
+
       "set": "219",
       "side": "Dark"
     },
@@ -62032,6 +62063,9 @@
         }
       ],
       "rarity": "U",
+      "rulings": [
+        "The first Lost function of this Interrupt adds a lightsaber combat destiny. Therefore a player with Deep Hatred on table may instead use a combat card."
+      ],
       "set": "219",
       "side": "Dark"
     },
@@ -62070,6 +62104,10 @@
         }
       ],
       "rarity": "PM",
+      "rulings": [
+        "To determine destiny bonus, count up all cards that are either Black Sun agents or Jedi (e.g. if there are 3 Black Sun agents and 1 Jedi, then The Emperor is destiny +4).",
+        "Do not count inactive cards such as a captive Jedi."
+      ],
       "set": "219",
       "side": "Dark"
     },
@@ -62099,6 +62137,14 @@
         }
       ],
       "rarity": "C1",
+      "rulings": [
+        "(USED) The phrase 'artwork card on table' refers to cards stacked on Thrawn's Art Collection.",
+        "(USED) When Dark has (for example) 3 artwork cards, this Interrupt gives +3 hyperspeed to 1 starship, not +1 hyperspeed to 3 starships.",
+        "(USED) Can be played ('cycled') with 0 artwork cards to add 0 to hyperspeed (but there must be a dreadnaught or Star Destroyer to target).",
+        "(USED) The hyperspeed bonus is a one time adjustment counted up and applied at the time when the Interrupt is played.  The hyperspeed bonus does not fluctuate as additional artwork cards are stacked or removed later on in the turn.",
+        "(LOST) Can relocate to a location outside of normal movement range",
+        "(LOST) Can even relocate to and/or from an asteroid sector"
+      ],
       "set": "219",
       "side": "Dark"
     },
@@ -62199,6 +62245,9 @@
         }
       ],
       "rarity": "C",
+      "rulings": [
+        "The last sentence of this card causes him to automatically add 1 to total weapon destiny unless firing at an adjacent site, in which case he does not add 1."
+      ],
       "set": "219",
       "side": "Dark"
     },
@@ -62228,6 +62277,15 @@
         }
       ],
       "rarity": "C",
+      "rulings": [
+        "(USED) A list of all characteristics is provided in Appendix D of the Advanced Rulebook.",
+        "(USED) For example, if targeting Captain Han Solo, all captains, smugglers, Corellians, and scoundrels in the battle are power and forfeit -1.",
+        "(USED) Change lasts until the end of the battle.",
+        "(USED) The initial target can even belong to Dark player, but all the additional affected characters are still opponent's only.",
+        "(USED) May be used even if no other cards share any characteristic with target.",
+        "(USED) Only character cards have characteristics, so only character cards can be made power and forfeit -1.",
+        "(LOST) The 'character of same species' may even be an exact duplicate of the studied card."
+      ],
       "set": "219",
       "side": "Dark"
     },
@@ -62262,6 +62320,9 @@
         }
       ],
       "rarity": "U2",
+      "rulings": [
+        "R2-D2 & C-3PO is 1 droid. Intimidator & Persecutor is 1 starship. X-wing Assault Squadron is 1 starship."
+      ],
       "set": "219",
       "side": "Dark"
     },
@@ -62327,6 +62388,9 @@
         }
       ],
       "rarity": "R1",
+      "rulings": [
+        "If targeting Obi-Wan Kenobi, Padawan Learner, both the -1 and the +1 are applied (effectively canceling out)."
+      ],
       "set": "219",
       "side": "Dark"
     },
@@ -62351,6 +62415,57 @@
       ],
       "rarity": "PM",
       "set": "301",
+      "side": "Dark"
+    },
+    {
+      "combo": [
+        "Grand Admiral Thrawn at a system or site + Imperial Command"
+      ],
+      "front": {
+        "ability": "4",
+        "characteristics": [
+          "admiral",
+          "leader"
+        ],
+        "deploy": "4",
+        "destiny": "1",
+        "extraText": [
+          "Force-Sensitive"
+        ],
+        "forfeit": "7",
+        "gametext": "Adds 3 to power of any starship he pilots. if a Rebel just moved from here, your Imperials present may follow that character (using landspeed). While at a battleground site, functions as a general and game text of Admiral's Orders is canceled.",
+        "icons": [
+          "Pilot",
+          "Warrior",
+          "Set 7"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/VirtualAlternateImage-Dark/large/grandadmiralthrawn_ai.gif",
+        "lore": "The last remaining Grand Admiral. Found legendary Katana fleet of missing dreadnaughts. Military genius. Master of unorthodox tactics. Passionate collector of art. Leader.",
+        "power": "4",
+        "subType": "Imperial",
+        "title": "•Grand Admiral Thrawn (V) (AI)",
+        "type": "Character",
+        "uniqueness": "*"
+      },
+      "gempId": "207_30",
+      "id": 7122,
+      "legacy": false,
+      "matching": [
+        "Chimaera",
+        "Chimaera (V)"
+      ],
+      "printings": [
+        {
+          "set": "207"
+        }
+      ],
+      "pulledBy": [
+        "Blizzard 4",
+        "Endor Shield (V)",
+        "Imperial Command"
+      ],
+      "rarity": "PM",
+      "set": "207",
       "side": "Dark"
     }
   ]

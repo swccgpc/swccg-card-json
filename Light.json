@@ -66168,6 +66168,9 @@
         }
       ],
       "rarity": "C",
+      "rulings": [
+        "Blaster Proficiency works, but note that it only adds 3 to a single shot, not both shots."
+      ],
       "set": "219",
       "side": "Light"
     },
@@ -66201,6 +66204,11 @@
         }
       ],
       "rarity": "R1",
+      "rulings": [
+        "No special location arrangement, it's just an ordinary exterior site. It does not need to be adjacent to the Jedi Council Chamber.",
+        "The 'teleport' movement text is a regular move costing 1 Force.",
+        "Multiple Episode I Jedi can use the 'teleport' movement text in the same turn.  Each Jedi moving is a separate action, costing 1 Force each."
+      ],
       "set": "219",
       "side": "Light"
     },
@@ -66276,6 +66284,10 @@
         }
       ],
       "rarity": "U",
+      "rulings": [
+        "This card is always a member of Phoenix Squadron, even without the objective, thus he could retrieve another copy of himself without playing Zero Hour.",
+        "As this Ezra is not a spy, he would require presence or Force icons in order to deploy to Dathomir: Maul's Chambers."
+      ],
       "set": "219",
       "side": "Light"
     },
@@ -66341,6 +66353,9 @@
         }
       ],
       "rarity": "U",
+      "rulings": [
+        "If Fenn Rau was excluded from the battle, he cannot return to hand."
+      ],
       "set": "219",
       "side": "Light"
     },
@@ -66472,6 +66487,11 @@
         }
       ],
       "rarity": "U1",
+      "rulings": [
+        "For Dark to transport a group of characters here with Elis Helrot, Dark must use +3 Force (not +3 per character).",
+        "EPP Mara could move here for free (Free + 3 = Free).",
+        "This site is always placed at a far end. If a Lothal interior site (Imperial Complex) is on table, Jedi Temple goes at the other end."
+      ],
       "set": "219",
       "side": "Light"
     },
@@ -66534,6 +66554,10 @@
         }
       ],
       "rarity": "U",
+      "rulings": [
+        "Can pull Wedge In Red Squadron 1.",
+        "Can pull Green Leader In Green Squadron 1 or Tycho In Green Squadron 3."
+      ],
       "set": "219",
       "side": "Light"
     },
@@ -66619,6 +66643,9 @@
         }
       ],
       "rarity": "U",
+      "rulings": [
+        "Subtracting 1 from deploy cost happens automatically if the conditions are met."
+      ],
       "set": "219",
       "side": "Light"
     },
@@ -66673,6 +66700,13 @@
         }
       ],
       "rarity": "R1",
+      "rulings": [
+        "If deploying a Jawa that normally costs Force from both players, both players pay -1.",
+        "When counting Jawas at a location, remember that Offworld Jawas counts as 1 Jawa, not 3.",
+        "To use a magnetic suction tube during battle, the magnetic suction tube must be participating in the battle.",
+        "The target of the magnetic suction tube has already participated in the battle, and thus cannot be battled again in the same turn after being slurped to a sandcrawler site."
+      ],
+
       "set": "219",
       "side": "Light"
     },
@@ -66702,6 +66736,10 @@
         }
       ],
       "rarity": "U",
+      "rulings": [
+        "This Effect only retrieves a card when rotated clockwise into an upright position, not when rotated counterclockwise.",
+        "Can rotate multiple times in a single turn or single phase."
+      ],
       "set": "219",
       "side": "Light"
     },
@@ -66738,6 +66776,11 @@
         }
       ],
       "rarity": "R",
+      "rulings": [
+        "For both sides of this objective, if Light occupies a location and Light has Chopper there, then they 'occupy with a Phoenix Squadron character'.",
+        "(7-side) First sentence needs a completed force drain, a canceled force drain will not grant the +1 Force drain bonus.",
+        "(7-side) During battle at Lothal system, players may initiate an action that would limit battle destiny draws, such as taking a card off I Don't Like Sand or playing the limiting function on Imperial Command & In Range.  The limit is simply ignored."
+      ],
       "set": "219",
       "side": "Light"
     }
