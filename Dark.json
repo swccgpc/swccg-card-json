@@ -3051,6 +3051,10 @@
       "side": "Dark"
     },
     {
+      "abbr": [
+        "Shannon McRandle",
+        "Undercover Mara Jade"
+      ],
       "front": {
         "ability": "5",
         "characteristics": [
@@ -5934,10 +5938,8 @@
         "Darth Vader",
         "Darth Vader (V)",
         "Darth Vader With Lightsaber",
-        "Darth Vader",
-        "Dark Lord Of The Sith",
-        "Darth Vader",
-        "Emperor's Enforcer",
+        "Darth Vader, Dark Lord Of The Sith",
+        "Darth Vader, Emperor's Enforcer",
         "Death Star Trooper",
         "Death Trooper",
         "Director Orson Krennic",
@@ -7768,6 +7770,17 @@
         "We Must Accelerate Our Plans"
       ],
       "rarity": "U",
+      "rulings": [
+        "This does <u>not</u> circumvent restrictions listed on an Objective (even if the Objective references limiting deployment at certain locations).",
+        "This does <u>not</u> circumvent text on a card that says it only deploys if a certain Objective on table.",
+        "This does <u>not</u> circumvent rules or text that certain cards cannot <u>exist</u> at certain locations (e.g. no starfighters at Cantina or Endor: Dense Forest).",
+        "This does <u>not</u> circumvent deployment restriction text that is entirely unrelated to locations (e.g. Emperor's Orders or Revenge Of The Sith).",
+        "Allows cards to deploy regardless of presence or Force icons.",
+        "Allows cards to deploy to Dagobah or Ahch-To.",
+        "Allows cards to deploy regardless of their own game text saying they can only deploy to certain locations.",
+        "Allows cards to deploy regardless of game text on other cards (except Objectives) saying certain cards may not deploy to certain locations.",
+        "If deployed on a non-shielded location (e.g. Hoth: Defensive Perimeter) and then that location becomes shielded later, Cane Adiss remains there and will allow cards to deploy there regardless of the shield."
+      ],
       "set": "6",
       "side": "Dark"
     },
@@ -13649,9 +13662,7 @@
     },
     {
       "cancels": [
-        "Amidala's game text",
-        "Obi-Wan's game text",
-        "Qui-Gon's game text"
+        "Amidala's game text"
       ],
       "combo": [
         "Darth Maul, Lone Hunter + Maul Strikes",
@@ -13704,6 +13715,9 @@
         "Sith Fury (V)"
       ],
       "rarity": "U",
+      "rulings": [
+        "Cancels game text of any version of the Amidala persona, including Padme."
+      ],
       "set": "203",
       "side": "Dark"
     },
@@ -13876,6 +13890,10 @@
       "side": "Dark"
     },
     {
+      "abbr": [
+        "Space Vader",
+        "Math Vader"
+      ],
       "combo": [
         "Darth Vader + Grand Moff Tarkin Once per battle, Tarkin may cancel one opponent's destiny just drawn.",
         "Darth Vader + I Have You Now Add one battle destiny (two if Rebel is Luke) if a Dark Jedi and a Rebel with ability > 2 are involved in the same battle.",
@@ -13935,8 +13953,8 @@
     },
     {
       "abbr": [
-        "Math Vader",
-        "Space Vader"
+        "Space Vader V",
+        "Math Vader V"
       ],
       "combo": [
         "Darth Vader (V) + I Have You Now Add one battle destiny (two if Rebel is Luke) if a Dark Jedi and a Rebel with ability > 2 are involved in the same battle.",
@@ -14201,10 +14219,8 @@
       "matchingWeapon": [
         "Darth Vader",
         "Darth Vader (V)",
-        "Darth Vader",
-        "Dark Lord Of The Sith",
-        "Darth Vader",
-        "Emperor's Enforcer",
+        "Darth Vader, Dark Lord Of The Sith",
+        "Darth Vader, Emperor's Enforcer",
         "Lord Vader",
         "Vader"
       ],
@@ -14245,10 +14261,8 @@
       "matchingWeapon": [
         "Darth Vader",
         "Darth Vader (V)",
-        "Darth Vader",
-        "Dark Lord Of The Sith",
-        "Darth Vader",
-        "Emperor's Enforcer",
+        "Darth Vader, Dark Lord Of The Sith",
+        "Darth Vader, Emperor's Enforcer",
         "Lord Vader",
         "Vader"
       ],
@@ -23133,7 +23147,7 @@
           "Force-Sensitive"
         ],
         "forfeit": "7",
-        "gametext": "Adds 3 to power of any starship he pilots. if a Rebel just moved from here, your Imperials present may follow that character (using landspeed). While at a battleground site, functions as a general and game text of Admiral's Orders is canceled.",
+        "gametext": "Adds 3 to power of anything he pilots. if a Rebel just moved from here, your Imperials present may follow that character (using landspeed). While at a battleground site, functions as a general and game text of Admiral's Orders is canceled.",
         "icons": [
           "Pilot",
           "Warrior",
@@ -24188,7 +24202,19 @@
           "set": "205"
         }
       ],
+      "pulls": [
+        "Aurra Sing",
+        "Aurra Sing With Blaster Rifle",
+        "Boba Fett In Slave I",
+        "Boba Fett In Slave I (V)",
+        "Slave I",
+        "Slave I, Symbol Of Fear",
+        "Salacious Crumb"
+      ],
       "rarity": "C",
+      "rulings": [
+        "May deploy any card with the Aurra persona (including Aurra Sing and Aurra Sing With Blaster Rifle)"
+      ],
       "set": "205",
       "side": "Dark"
     },
@@ -26835,6 +26861,9 @@
       "side": "Dark"
     },
     {
+      "abbr": [
+        "Sand Effect"
+      ],
       "counterpart": "I Don't Like Sand",
       "front": {
         "destiny": "3",
@@ -27208,7 +27237,8 @@
     },
     {
       "abbr": [
-        "ICSD"
+        "ICSD",
+        "ISD"
       ],
       "combo": [
         "Imperial-Class Star Destroyer + Imperial Helmsman Draw one battle destiny if not able to otherwise."
@@ -27516,7 +27546,8 @@
       "rulings": [
         "If a player loses Force from hand to stack here, it is first revealed to both players.",
         "If a player loses Force from Life Force to stack here, it is not revealed.",
-        "Text referring to cards stacked 'on'/'under'/'beneath' this Effect all means the same thing."
+        "Text referring to cards stacked 'on'/'under'/'beneath' this Effect all means the same thing.",
+        "Neither player may view Light's cards after they are stacked face down here."
       ],
       "set": "9",
       "side": "Dark"
@@ -28287,6 +28318,9 @@
         "Nal Hutta"
       ],
       "rarity": "U",
+      "rulings": [
+        "If Revenge Of The Sith is on table and Dark loses 1 Force to make battle destiny modifiers affect total battle destiny instead, then the first Sith drawn for battle destiny will cause Revenge Of The Sith to add +2 to total battle destiny. The next Sith drawn for battle destiny will <u>not</u> cause Revenge Of The Sith to add another +2 (the cumulative rule prevents it)."
+      ],
       "set": "201",
       "side": "Dark"
     },
@@ -30944,6 +30978,9 @@
         }
       ],
       "rarity": "R",
+      "rulings": [
+        "If there are only 1 or 2 cards in Reserve Deck, Proxima can still reveal them, but she cannot take an alien into hand."
+      ],
       "set": "211",
       "side": "Dark"
     },
@@ -32723,6 +32760,7 @@
       "rarity": "R",
       "rulings": [
         "A character stacked on this Effect is inactive.",
+        "Dark can capture an opponent's pilot or rescue their own pilot. Light can only rescue their own pilot (Light can never capture).",
         "When a capital starship rescues a character stacked on this card, the rescued character is placed aboard that starship (capacity permitting). If there is insufficient capacity, the rescuing action cannot be initiated by that starship.",
         "When a Dark capital starship captures a Light character stacked on this card, Dark may either choose to 'seize' the character (if an escort aboard is available and capacity permits) or Dark may choose 'escape' (character goes to Light's Used Pile). Thus Dark may initiate a capture even with no escort or capacity available."
       ],
@@ -37066,6 +37104,10 @@
         }
       ],
       "rarity": "U2",
+      "rulings": [
+        "A character at an adjacent site using this device to add power to a battle does not otherwise participate in the battle, and is not eligible to be forfeited.",
+        "An Imperial Trooper Guard at an adjacent site would not be defending in the battle and thus would not have +4 power to add from his game text."
+      ],
       "set": "1",
       "side": "Dark"
     },
@@ -37271,8 +37313,10 @@
     },
     {
       "cancels": [
-        "An attempt by opponent to target your droid to be stolen",
-        "'hit' or lost"
+        "An attempt by opponent to target your droid to be stolen, 'hit' or lost"
+      ],
+      "combo": [
+        "Self-Destruct Mechanism - Retarget a weapon to your droid, then cancel the targeting entirely."
       ],
       "front": {
         "destiny": "6",
@@ -37295,6 +37339,9 @@
         }
       ],
       "rarity": "C2",
+      "rulings": [
+        "May even cancel the firing of a weapon that was retargeted to the droid by Self-Destruct Mechanism."
+      ],
       "set": "3",
       "side": "Dark"
     },
@@ -37610,6 +37657,9 @@
         }
       ],
       "rarity": "C2",
+      "rulings": [
+        "For each Rebel transported, Dark chooses a capture option: Seize with an eligible escort at the destination site, imprison there (if the destination site happens to be a prison), or escape (Rebel goes to Light's Used Pile)."
+      ],
       "set": "2",
       "side": "Dark"
     },
@@ -37973,6 +38023,10 @@
         "We Must Accelerate Our Plans"
       ],
       "rarity": "R1",
+      "rulings": [
+        "The term 'steal' on this Utinni Effect is simply flavor text meaning to place the Necklace card on the target Imperial. Stealing rules do not apply.",
+        "In order to pass Organa's Ceremonial Necklace to an adjacent site you control, you must immediately re-target (place it on) another one of your Imperials there."
+      ],
       "set": "1",
       "side": "Dark"
     },
@@ -38372,6 +38426,10 @@
         }
       ],
       "rarity": "C2",
+      "rulings": [
+        "May even target weapons not carried by a character or starship (such as a vehicle weapon, artillery weapon, automated weapon, etc).",
+        "May target a card with a permanent weapon, but only has a result if the destiny draw = 0 (character or starship with the permanent weapon is lost); otherwise nothing happens."
+      ],
       "set": "1",
       "side": "Dark"
     },
@@ -38474,7 +38532,8 @@
       "rarity": "C",
       "rulings": [
         "Cannot be played where opponent has no power total (no active cards with power).",
-        "If successfully played, sends away inactive targets such as a starship utilizing Landing Claw."
+        "If successfully played, sends away inactive targets such as a starship utilizing Landing Claw.",
+        "The player playing Overwhelmed chooses the order to send cards to Used Pile, including the 'cards on them' such as devices. However, if a card is selected to go to Used Pile while there are still other cards on it, place the selected card and the cards on it in owners' Used Pile(s) simultaneously (per Leaves Table rules, the owner of that group of cards then determines the order)."
       ],
       "set": "7",
       "side": "Dark"
@@ -43266,6 +43325,9 @@
       "side": "Dark"
     },
     {
+      "combo": [
+        "Oh, Switch Off - Retarget a weapon to your droid, then cancel the targeting entirely."
+      ],
       "counterpart": "This Is All Your Fault",
       "front": {
         "destiny": "4",
@@ -43546,8 +43608,9 @@
       ],
       "rarity": "R",
       "rulings": [
-        "Barich's action only works if attrition exists.",
-        "Barich's action is played in the power segment after attrition destinies are drawn."
+        "Barich's action can only be initiated if attrition exists (opponent successfully completed a battle destiny draw, even if it was a 0).",
+        "Barich's action is initiated in the power segment after battle destinies (and any attrition destinies) are drawn.",
+        "Barich's action subtracts from attrition against his owner (Dark)."
       ],
       "set": "8",
       "side": "Dark"
@@ -44003,7 +44066,7 @@
       ],
       "back": {
         "destiny": "7",
-        "gametext": "Set Your Course For Alderaan:Deploy Death Star and Alderaan systems and Docking Bay 327.{For} remainder of game, Revolution is canceled and Commence Primary Ignition may target only Alderaan, Yavin 4, Hoth or a Subjugated planet.{While} this side up, once during each of your deploy phases, may take one card with 'Death Star' in title into hand from Reserve Deck; reshuffle. You may not Force drain at Alderaan system. At Death Star sites, your Force drains and battle damage against you are canceled.{Flip} this card if Alderaan is 'blown away.'The Ultimate Power In The Universe:{While} this side up, once during each of your deploy phases, may deploy one battleground system from Reserve Deck; reshuffle. Your Star Destroyers deploy -2 (or -1 if Victory class) to Death Star system. Your Force drains at battleground systems where you have a Star Destroyer are each +2 (or +1 if Victory class). If Yavin 4 system is 'blown away,' adds 3 to Force lost for each opponent's Yavin 4 site.{Place} out of play if Death Star is 'blown away.'",
+        "gametext": "Set Your Course For Alderaan:Deploy Death Star and Alderaan systems and Docking Bay 327.{For} remainder of game, Revolution is canceled and Commence Primary Ignition may target only Alderaan, Yavin 4, Hoth or a Subjugated planet.{While} this side up, once during each of your deploy phases, may take one card with 'Death Star' in title into hand from Reserve Deck; reshuffle. You may not Force drain at Alderaan system. At Death Star sites, your Force drains and battle damage against you are canceled.{Flip} this card if Alderaan is 'blown away.'The Ultimate Power In The Universe:{While} this side up, once during each of your deploy phases, may deploy one battleground system from Reserve Deck; reshuffle. Your Star Destroyers deploy -2 (or -1 if Victory class) to Death Star system. Your Force drains at battleground systems where you have a Star Destroyer are each +1 (or +2 if that Star Destroyer is Imperial- or Super-class). If Yavin 4 system is 'blown away,' adds 3 to Force lost for each opponent's Yavin 4 site.{Place} out of play if Death Star is 'blown away.'",
         "icons": [
           "Premium"
         ],
@@ -44013,7 +44076,7 @@
       },
       "front": {
         "destiny": "0",
-        "gametext": "Set Your Course For Alderaan:Deploy Death Star and Alderaan systems and Docking Bay 327.{For} remainder of game, Revolution is canceled and Commence Primary Ignition may target only Alderaan, Yavin 4, Hoth or a Subjugated planet.{While} this side up, once during each of your deploy phases, may take one card with 'Death Star' in title into hand from Reserve Deck; reshuffle. You may not Force drain at Alderaan system. At Death Star sites, your Force drains and battle damage against you are canceled.{Flip} this card if Alderaan is 'blown away.'The Ultimate Power In The Universe:{While} this side up, once during each of your deploy phases, may deploy one battleground system from Reserve Deck; reshuffle. Your Star Destroyers deploy -2 (or -1 if Victory class) to Death Star system. Your Force drains at battleground systems where you have a Star Destroyer are each +2 (or +1 if Victory class). If Yavin 4 system is 'blown away,' adds 3 to Force lost for each opponent's Yavin 4 site.{Place} out of play if Death Star is 'blown away.'",
+        "gametext": "Set Your Course For Alderaan:Deploy Death Star and Alderaan systems and Docking Bay 327.{For} remainder of game, Revolution is canceled and Commence Primary Ignition may target only Alderaan, Yavin 4, Hoth or a Subjugated planet.{While} this side up, once during each of your deploy phases, may take one card with 'Death Star' in title into hand from Reserve Deck; reshuffle. You may not Force drain at Alderaan system. At Death Star sites, your Force drains and battle damage against you are canceled.{Flip} this card if Alderaan is 'blown away.'The Ultimate Power In The Universe:{While} this side up, once during each of your deploy phases, may deploy one battleground system from Reserve Deck; reshuffle. Your Star Destroyers deploy -2 (or -1 if Victory class) to Death Star system. Your Force drains at battleground systems where you have a Star Destroyer are each +1 (or +2 if that Star Destroyer is Imperial- or Super-class). If Yavin 4 system is 'blown away,' adds 3 to Force lost for each opponent's Yavin 4 site.{Place} out of play if Death Star is 'blown away.'",
         "icons": [
           "Premium"
         ],
@@ -44030,6 +44093,11 @@
         }
       ],
       "rarity": "PM",
+      "rulings": [
+        "On the 7-side, a Force drain would be +1 where Dark has a Victory-class, Resurgent-class or Interdictor-class Star Destroyer.  A Force drain would be +2 where Dark has an Imperial-class or Super-class.",
+        "If Dark has both types at the same system (e.g. a Victory-class Star Destroyer for Force drain +1, with an Imperial-class Star Destroyer for Force drain +2), the Force drain is +2.",
+        "A common online 'misprint' of the 7-side states that 'Your Force drains at battleground systems where you have a Star Destroyer are each +2 (or +1 if that Star Destroyer is Victory-class).' but the correct text found on all physical copies of the card is 'Your Force drains at battleground systems where you have a Star Destroyer are each +1 (or +2 if that Star Destroyer is Imperial- or Super-class).'"
+      ],
       "set": "111",
       "side": "Dark"
     },
@@ -44678,13 +44746,10 @@
         "Darth Vader",
         "Darth Vader (V)",
         "Darth Vader With Lightsaber",
-        "Darth Vader",
-        "Dark Lord Of The Sith",
-        "Darth Vader",
-        "Emperor's Enforcer",
+        "Darth Vader, Dark Lord Of The Sith",
+        "Darth Vader, Emperor's Enforcer",
         "Emperor Palpatine",
-        "Emperor Palpatine",
-        "Foreseer",
+        "Emperor Palpatine, Foreseer",
         "Lord Maul",
         "Lord Maul With Lightsaber",
         "Lord Sidious",
@@ -44769,6 +44834,9 @@
         "If The Trace Was Correct"
       ],
       "rarity": "R",
+      "rulings": [
+        "The relocate is an unlimited move. A single Dark Jedi could relocate to two Sith Probe Droids in the same turn."
+      ],
       "set": "200",
       "side": "Dark"
     },
@@ -44978,9 +45046,6 @@
       "side": "Dark"
     },
     {
-      "canceledBy": [
-        "Ounee Ta (V) - Defensive Shield prevents Sleen from canceling Force icons"
-      ],
       "counterpart": "Nudj",
       "front": {
         "characteristics": [
@@ -49780,10 +49845,8 @@
         "Darth Vader",
         "Darth Vader (V)",
         "Darth Vader With Lightsaber",
-        "Darth Vader",
-        "Dark Lord Of The Sith",
-        "Darth Vader",
-        "Emperor's Enforcer",
+        "Darth Vader, Dark Lord Of The Sith",
+        "Darth Vader, Emperor's Enforcer",
         "Lord Vader",
         "Vader",
         "Tarkin",
@@ -49800,6 +49863,9 @@
       "side": "Dark"
     },
     {
+      "abbr": [
+        "TGI"
+      ],
       "front": {
         "ability": "5",
         "deploy": "5",
@@ -53114,8 +53180,8 @@
         "Darth Vader",
         "Darth Vader (V)",
         "Darth Vader With Lightsaber",
-        "Dark Lord Of The Sith",
-        "Emperor's Enforcer",
+        "Darth Vader, Dark Lord Of The Sith",
+        "Darth Vader, Emperor's Enforcer",
         "Lord Vader"
       ],
       "printings": [
@@ -53161,8 +53227,8 @@
         "Darth Vader",
         "Darth Vader (V)",
         "Darth Vader With Lightsaber",
-        "Dark Lord Of The Sith",
-        "Emperor's Enforcer",
+        "Darth Vader, Dark Lord Of The Sith",
+        "Darth Vader, Emperor's Enforcer",
         "Lord Vader"
       ],
       "printings": [
@@ -53221,10 +53287,8 @@
       "matchingWeapon": [
         "Darth Vader",
         "Darth Vader (V)",
-        "Darth Vader",
-        "Dark Lord Of The Sith",
-        "Darth Vader",
-        "Emperor's Enforcer",
+        "Darth Vader, Dark Lord Of The Sith",
+        "Darth Vader, Emperor's Enforcer",
         "Lord Vader",
         "Vader"
       ],
@@ -53304,10 +53368,8 @@
         "Darth Vader",
         "Darth Vader (V)",
         "Darth Vader With Lightsaber",
-        "Darth Vader",
-        "Dark Lord Of The Sith",
-        "Darth Vader",
-        "Emperor's Enforcer",
+        "Darth Vader, Dark Lord Of The Sith",
+        "Darth Vader, Emperor's Enforcer",
         "Lord Vader"
       ],
       "printings": [
@@ -53358,10 +53420,8 @@
         "Darth Vader",
         "Darth Vader (V)",
         "Darth Vader With Lightsaber",
-        "Darth Vader",
-        "Dark Lord Of The Sith",
-        "Darth Vader",
-        "Emperor's Enforcer",
+        "Darth Vader, Dark Lord Of The Sith",
+        "Darth Vader, Emperor's Enforcer",
         "Lord Vader"
       ],
       "printings": [
@@ -57761,6 +57821,10 @@
         }
       ],
       "rarity": "C",
+      "rulings": [
+        "Does not need to be at the battle location to add or subtract 1 from a just drawn destiny.",
+        "However, if Maul does happen to be at the battle location, then he must be participating in the battle (not excluded) in order to add or subtract 1."
+      ],
       "set": "213",
       "side": "Dark"
     },
@@ -58816,7 +58880,7 @@
       ],
       "rarity": "U",
       "rulings": [
-        "Modifiers to 'Star Destroyers' apply twice (e.g. Admiral Motti V adds 4 power instead of 2, The Ultimate Power In The Universe subtracts 4 from deploy instead of 2, deployment modifiers on Kuat are doubled).",
+        "Modifiers to 'Star Destroyers' apply twice (e.g. Admiral Motti V adds 4 power instead of 2 and +2 immunity instead of +1. The Ultimate Power In The Universe subtracts 4 from deploy instead of 2. Deployment modifiers on Kuat are doubled).",
         "Responses to deploying a Star Destroyer only occur once (e.g. A Million Voices Crying Out retrieves 3, not 6).",
         "Works with actions that deploy/move one 'starship' but not cards that deploy/move one 'Star Destroyer' (e.g. cannot be deployed by Commander Nemet (V) or moved by On The Verge Of Greatness).",
         "Works with other actions that target (not deploy/move) a Star Destroyer, such as Apology Accepted (V)."
@@ -62433,13 +62497,13 @@
           "Force-Sensitive"
         ],
         "forfeit": "7",
-        "gametext": "Adds 3 to power of any starship he pilots. if a Rebel just moved from here, your Imperials present may follow that character (using landspeed). While at a battleground site, functions as a general and game text of Admiral's Orders is canceled.",
+        "gametext": "Adds 3 to power of anything he pilots. if a Rebel just moved from here, your Imperials present may follow that character (using landspeed). While at a battleground site, functions as a general and game text of Admiral's Orders is canceled.",
         "icons": [
           "Pilot",
           "Warrior",
           "Set 7"
         ],
-        "imageUrl": "https://res.starwarsccg.org/cards/VirtualAlternateImage-Dark/large/grandadmiralthrawn_ai.gif",
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual7-Dark/large/grandadmiralthrawn_ai.gif",
         "lore": "The last remaining Grand Admiral. Found legendary Katana fleet of missing dreadnaughts. Military genius. Master of unorthodox tactics. Passionate collector of art. Leader.",
         "power": "4",
         "subType": "Imperial",

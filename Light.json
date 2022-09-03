@@ -2365,7 +2365,8 @@
       "rarity": "R",
       "rulings": [
         "Cannot be played where opponent has no power total (no active cards with power).",
-        "If successfully played, sends away inactive targets such as undercover spies and missing characters."
+        "If successfully played, sends away inactive targets such as undercover spies and missing characters.",
+        "The player playing Ambush chooses the order to send cards to Used Pile, including the 'cards on them' such as devices. However, if a card is selected to go to Used Pile while there are still other cards on it, place the selected card and the cards on it in owners' Used Pile(s) simultaneously (per Leaves Table rules, the owner of that group of cards then determines the order)."
       ],
       "set": "5",
       "side": "Light"
@@ -12627,7 +12628,8 @@
       "rulings": [
         "If a player loses Force from hand to stack here, it is first revealed to both players.",
         "If a player loses Force from Life Force to stack here, it is not revealed.",
-        "Text referring to cards stacked 'on'/'under'/'beneath' this Effect all means the same thing."
+        "Text referring to cards stacked 'on'/'under'/'beneath' this Effect all means the same thing.",
+        "Neither player may view Dark's cards after they are stacked face down here."
       ],
       "set": "12",
       "side": "Light"
@@ -14144,9 +14146,9 @@
     },
     {
       "combo": [
-        "Depy Billaba + Are You Brain Dead?!",
+        "Depa Billaba + Are You Brain Dead?!",
         "Depa Billaba + Encampment or Deploy regardless of location deployment restrictions.",
-        "Depa Bilaba + Smoke Screen"
+        "Depa Billaba + Smoke Screen"
       ],
       "front": {
         "ability": "7",
@@ -16574,6 +16576,16 @@
         "We Wish To Board At Once"
       ],
       "rarity": "C",
+      "rulings": [
+        "This does <u>not</u> circumvent restrictions listed on an Objective (even if the Objective references limiting deployment at certain locations).",
+        "This does <u>not</u> circumvent text on a card that says it only deploys if a certain Objective on table.",
+        "This does <u>not</u> circumvent rules or text that certain cards cannot <u>exist</u> at certain locations (e.g. no starfighters at Cantina or Endor: Dense Forest).",
+        "This does <u>not</u> circumvent deployment restriction text that is entirely unrelated to locations (e.g. Master Kenobi or The Force Is Strong In My Family).",
+        "Allows cards to deploy regardless of presence or Force icons.",
+        "Allows cards to deploy to Dagobah or Ahch-To.",
+        "Allows cards to deploy regardless of their own game text saying they can only deploy to certain locations.",
+        "Allows cards to deploy regardless of game text on other cards (except Objectives) saying certain cards may not deploy to certain locations."
+      ],
       "set": "4",
       "side": "Light"
     },
@@ -17541,6 +17553,9 @@
       "side": "Light"
     },
     {
+      "abbr": [
+        "Sand Effect"
+      ],
       "counterpart": "Coarse And Rough And Irritating",
       "front": {
         "destiny": "3",
@@ -18065,6 +18080,9 @@
         }
       ],
       "rarity": "R1",
+      "rulings": [
+        "To determine power bonus, count up all cards that are either Dark Jedi or Jedi (e.g. if there are 2 Dark Jedi and 1 Jedi, then Ezra Bridger is power +3)."
+      ],
       "set": "210",
       "side": "Light"
     },
@@ -19428,7 +19446,6 @@
       "legacy": false,
       "matching": [
         "Gold Squadron 1",
-        "Lando's Luxury Yacht (V)",
         "Millennium Falcon"
       ],
       "matchingWeapon": [
@@ -22744,6 +22761,9 @@
         }
       ],
       "rarity": "R",
+      "rulings": [
+        "When playing against Bring Him Before Me, Light <u>may</u> select Luke as the card to be retrieved, but Dark <u>may not</u> stack a card from hand on I Feel The Conflict to place that Luke out of play instead."
+      ],
       "set": "208",
       "side": "Light"
     },
@@ -22990,6 +23010,9 @@
       "side": "Light"
     },
     {
+      "abbr": [
+        "HOATD"
+      ],
       "front": {
         "destiny": "5",
         "gametext": "Deploy on one of your droids. During your deploy phase, may use 1 Force to search your Reserve Deck, take one device that deploys on a droid into hand and reshuffle. Also, you may forfeit devices deployed on this droid (forfeit value = destiny number).",
@@ -23028,9 +23051,10 @@
       ],
       "rarity": "U",
       "rulings": [
-        "Cannot forfeit opponent's devices.",
         "Can only take a device that specifically mentions deploying on a 'droid'.",
-        "Example: Cannot take Lando's Wrist Comlink or Rebel Flight Suit."
+        "Example: Cannot take Lando's Wrist Comlink or Rebel Flight Suit.",
+        "May forfeit any of your devices from the droid, even Lando's Wrist Comlink or Rebel Flight Suit.",
+        "Cannot forfeit opponent's devices."
       ],
       "set": "5",
       "side": "Light"
@@ -24444,7 +24468,8 @@
       "rulings": [
         "If a player loses Force from hand to stack here, it is first revealed to both players.",
         "If a player loses Force from Life Force to stack here, it is not revealed.",
-        "Text referring to cards stacked 'on'/'under'/'beneath' this Effect all means the same thing."
+        "Text referring to cards stacked 'on'/'under'/'beneath' this Effect all means the same thing.",
+        "Neither player may view Dark's cards after they are stacked face down here."
       ],
       "set": "9",
       "side": "Light"
@@ -27554,8 +27579,14 @@
       "side": "Light"
     },
     {
+      "abbr": [
+        "KFC"
+      ],
       "cancels": [
         "Kitik Keed'kak is lost if at same site as Kal'Falnl C'ndros"
+      ],
+      "combo": [
+        "I Don't Like Sand - Cause both players to draw only one battle destiny, setting up KFC. KFC's text does work with Sand, reducing opponent's total to 0."
       ],
       "front": {
         "ability": "1",
@@ -27589,7 +27620,8 @@
       "rulings": [
         "Modifiers to individual battle destiny draws are applied before comparing them to see which is higher.",
         "Compare the battle destinies as an automatic action just after both players have finished drawing their one battle destiny.",
-        "Resets opponent's <u>total</u> battle destiny to an unmodifiable 0."
+        "Resets opponent's <u>total</u> battle destiny to an unmodifiable 0.",
+        "Works with I Don't Like Sand - limits both players to 1 battle destiny draw, then is able to reduce opponent's <u>total</u> to 0 (the individual draw may not be modified, but the total may be modified)."
       ],
       "set": "1",
       "side": "Light"
@@ -33030,6 +33062,11 @@
         "Tatooine: City Outskirts"
       ],
       "rarity": "R",
+      "rulings": [
+        "Each lightsaber swing is a separate top-level action in the weapons segment (meaning the opponent gets an action between swings, you may take other actions between swings, etc).",
+        "The second swing may be at the same target or a different target from the first swing.",
+        "When using Sorry About The Mess to swing during the control phase, Mace only swings once. If Mace then battles later that turn, he may still swing twice in that battle."
+      ],
       "set": "201",
       "side": "Light"
     },
@@ -33066,6 +33103,11 @@
         }
       ],
       "rarity": "R",
+      "rulings": [
+        "Each lightsaber swing is a separate top-level action in the weapons segment (meaning the opponent gets an action between swings, you may take other actions between swings, etc).",
+        "The second swing may be at the same target or a different target from the first swing.",
+        "When using Sorry About The Mess to swing during the control phase, Mace only swings once. If Mace then battles later that turn, he may still swing twice in that battle."
+      ],
       "set": "201",
       "side": "Light"
     },
@@ -34275,6 +34317,9 @@
         }
       ],
       "rarity": "C2",
+      "rulings": [
+        "If there are only 1 or 2 cards in Reserve Deck, Maz can still reveal them, but she cannot take an alien into hand."
+      ],
       "set": "211",
       "side": "Light"
     },
@@ -37248,6 +37293,10 @@
         "Tatooine: City Outskirts"
       ],
       "rarity": "PM",
+      "rulings": [
+        "This card is <u>not</u> a Padawan.",
+        "'Immune to Sniper' prevents the control phase sniping function and prevents the place in Lost Pile function of the combo card. It does not prevent the 3 being added to weapon destiny function of the combo card."
+      ],
       "set": "13",
       "side": "Light"
     },
@@ -37559,6 +37608,9 @@
         "Return Of A Jedi (V)"
       ],
       "rarity": "PM",
+      "rulings": [
+        "The 'lost if about to be stolen' text on this device will trigger any time the device is about to be stolen, even if the Journal is not in an active state."
+      ],
       "set": "10",
       "side": "Light"
     },
@@ -37914,7 +37966,8 @@
         "It is not possible to revive a character and forfeit them again in the same battle.",
         "A character who has been made 'forfeit = 0' can still be forfeited, and therefore, can still be revived by Old Ben.",
         "The revived character is a 'fresh copy' unaffected by any previously applied status effects such as 'forfeit = 0' or 'game text canceled for remainder of turn'.",
-        "The revived character could even battle again this turn (e.g. by moving to another site with Nabrun Leids and battling there)."
+        "The revived character could even battle again this turn (e.g. by moving to another site with Nabrun Leids and battling there).",
+        "Old Ben only allows the revival of the exact card that was forfeited, not another copy of that card or persona."
       ],
       "set": "1",
       "side": "Light"
@@ -38174,7 +38227,7 @@
           "Death Star II"
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/DeathStarII-Light/large/orbitalmine.gif",
-        "lore": "Often Stolen from the Empire. Used by the Rebellion to protect key spaceports. Can be released to cover the retreat of a fleeing strike force.",
+        "lore": "Often stolen from the Empire. Used by the Rebellion to protect key spaceports. Can be released to cover the retreat of a fleeing strike force.",
         "subType": "Automated",
         "title": "<>Orbital Mine",
         "type": "Weapon",
@@ -38456,6 +38509,9 @@
       "side": "Light"
     },
     {
+      "abbr": [
+        "OMDH"
+      ],
       "front": {
         "destiny": "6",
         "gametext": "Deploy on Alderaan. Target one Rebel at Tatooine. When Target reaches Utinni Effect, retrieve one lost Force for each Force-Attuned character you have on table, two for each Force-Sensitive or Jedi. Lose Utinni Effect.",
@@ -38479,6 +38535,9 @@
         "We Wish To Board At Once"
       ],
       "rarity": "R1",
+      "rulings": [
+        "Must be deployed upon the Alderaan system location, not a site or sector."
+      ],
       "set": "1",
       "side": "Light"
     },
@@ -39556,7 +39615,10 @@
       "pulledBy": [
         "All Wings Report In & Darklighter Spin"
       ],
-      "rarity": "R2",
+      "rarity": "U",
+      "rulings": [
+        "Ghost and Phantom must both be piloted to add a destiny to power."
+      ],
       "set": "208",
       "side": "Light"
     },
@@ -42860,6 +42922,9 @@
         "Portable Scanner"
       ],
       "rarity": "C",
+      "rulings": [
+        "Only check if the currently played Interrupt function is immune to Sense. If not, it may be canceled."
+      ],
       "set": "205",
       "side": "Light"
     },
@@ -44905,7 +44970,12 @@
       ],
       "rarity": "R",
       "rulings": [
-        "Placing the stacked card in owner's Used Pile is an automatic response, occurring before optional responses such as using Control or Blue Squadron 1 to cancel the drain."
+        "When Light Force drains, Dark gets first optional response, and may cancel the drain (e.g. with Control), preventing Light from responding with a destiny draw attempt to liberate the system.",
+        "When Light liberates a system, the Force drain +1 bonus is immediately applied to the very same Force drain that triggered the liberation.",
+        "When Dark Force drains, placing the stacked card in owner's Used Pile is an automatic response, occurring before optional responses such as Light using Control or Blue Squadron 1 to cancel the drain.",
+        "If a player loses Force from hand to stack under a system, it is first revealed to both players.",
+        "If a player loses Force from Life Force to stack under a system, it is not revealed.",
+        "Only Dark may view Dark's cards after they are stacked face down under a system."
       ],
       "set": "208",
       "side": "Light"
@@ -49953,7 +50023,7 @@
         "deploy": "2",
         "destiny": "2",
         "forfeit": "4",
-        "gametext": "May add Poe (or a spy) as a pilot and one passenger. Deploys free to opponent's system. While Poe piloting, maneuver +2. If Finn aboard, apply his ability towards drawing battle destiny.",
+        "gametext": "May add Poe (or a spy) as a pilot and one passenger. Deploys free to opponent's system. While Poe piloting, maneuver +2. If Finn aboard, apply his ability toward drawing battle destiny.",
         "hyperspeed": "3",
         "icons": [
           "Nav Computer",
@@ -51203,7 +51273,6 @@
       "legacy": false,
       "matching": [
         "Gold Squadron 1",
-        "Lando's Luxury Yacht (V)",
         "Millennium Falcon"
       ],
       "matchingWeapon": [
@@ -53128,6 +53197,9 @@
         "Old Allies / We Need Your Help"
       ],
       "rarity": "C",
+      "rulings": [
+        "If Falcon is about to be lost, it is not possible to send it to a docking bay with I'll Take The Leader. The Falcon would go out of play first."
+      ],
       "set": "204",
       "side": "Light"
     },
@@ -54399,6 +54471,9 @@
       "side": "Light"
     },
     {
+      "abbr": [
+        "TTFTYWS"
+      ],
       "front": {
         "destiny": "3",
         "gametext": "At the end of any player's draw phase, cause that player to place Used Pile face up on top of Reserve Deck. Shuffle, cut, and replace. When face up cards are removed from Reserve Deck, they are treated as normal (no longer face up).",
@@ -58875,6 +58950,9 @@
       "side": "Light"
     },
     {
+      "abbr": [
+        "TRM"
+      ],
       "front": {
         "darkSideIcons": 0,
         "destiny": "0",
@@ -61337,6 +61415,9 @@
         "Yavin 4 Base Operations"
       ],
       "rarity": "U2",
+      "rulings": [
+        "Prevents Kessel Run from being canceled, but non-V Kessel Run will still be lost via it's own game text or if the targeted starship is lost."
+      ],
       "set": "213",
       "side": "Light"
     },
@@ -61593,6 +61674,10 @@
       "side": "Light"
     },
     {
+      "abbr": [
+        "RAOTJ",
+        "Jedi Rey"
+      ],
       "front": {
         "ability": "6",
         "deploy": "6",
@@ -61628,6 +61713,9 @@
         }
       ],
       "rarity": "U",
+      "rulings": [
+        "When playing against Bring Him Before Me, Rey may not select Luke as either of the two cards."
+      ],
       "set": "214",
       "side": "Light"
     },
@@ -63282,6 +63370,10 @@
         }
       ],
       "rarity": "R",
+      "rulings": [
+        "Cannot take B-wing Attack Squadron, X-wing Assault Squadron, or Y-wing Assault Squadron into hand (they do not have a numerical deploy cost).",
+        "If there are only 1 or 2 cards in Reserve Deck, Lando can still reveal them, but he cannot take a starship into hand."
+      ],
       "set": "216",
       "side": "Light"
     },
@@ -63469,6 +63561,9 @@
         "Aved Luun"
       ],
       "rarity": "U1",
+      "rulings": [
+        "This card is one Jawa, such as for Utinni! (V)."
+      ],
       "set": "216",
       "side": "Light"
     },
@@ -65081,7 +65176,8 @@
       "rarity": "U",
       "rulings": [
         "Each lightsaber swing is a separate top-level action in the weapons segment (meaning the opponent gets an action between swings, you may take other actions between swings, etc).",
-        "The second swing may be at the same target or a different target from the first swing."
+        "The second swing may be at the same target or a different target from the first swing.",
+        "When using Sorry About The Mess to swing during the control phase, Mace only swings once. If Mace then battles later that turn, he may still swing twice in that battle."
       ],
       "set": "218",
       "side": "Light"
@@ -65808,7 +65904,9 @@
       "rulings": [
         "Third sentence means to ignore any such modifiers on opponent's cards (those cards may be played normally).",
         "May not place the combo card Ghhhk & Those Rebels Won't Escape Us out of play.",
-        "May not be deployed if the Ounee Ta Defensive Shield is on table. Likewise, Ounee Ta Defensive Shield may not be played if this Effect is on table."
+        "May not be deployed if the Ounee Ta Defensive Shield is on table. Likewise, Ounee Ta Defensive Shield may not be played if this Effect is on table.",
+        "If deployed by a Starting Interrupt (e.g. The Signal), that Interrupt is not yet in the Lost Pile and cannot be taken into hand.",
+        "If deployed during the start of game, may take top card of Lost Pile (if any) into hand. In this case Light's starting hand will have 1 more card than usual."
       ],
       "set": "218",
       "side": "Light"
@@ -66085,6 +66183,11 @@
         }
       ],
       "rarity": "R",
+      "rulings": [
+        "Artoo's action to draw destiny and subtract from attrition can only be initiated if attrition exists (opponent successfully completed a battle destiny draw, even if it was a 0).",
+        "Artoo's action to draw destiny and subtract from attrition is initiated in the power segment after battle destinies (and any attrition destinies) are drawn.",
+        "Artoo's action subtracts from attrition against his owner (Light, assuming he hasn't been stolen)."
+      ],
       "set": "219",
       "side": "Light"
     },
@@ -66778,6 +66881,7 @@
       "rarity": "R",
       "rulings": [
         "For both sides of this objective, if Light occupies a location and Light has Chopper there, then they 'occupy with a Phoenix Squadron character'.",
+        "For both sides of this objective, a character piloting a Phoenix Squadron starship (like Ghost or Phantom) is a Phoenix Squadron pilot and therefore is a 'Phoenix Squadron character'. (A passenger is not, unless they happen to be a gunner such as Finn.)",
         "(7-side) First sentence needs a completed force drain, a canceled force drain will not grant the +1 Force drain bonus.",
         "(7-side) During battle at Lothal system, players may initiate an action that would limit battle destiny draws, such as taking a card off I Don't Like Sand or playing the limiting function on Imperial Command & In Range.  The limit is simply ignored."
       ],
