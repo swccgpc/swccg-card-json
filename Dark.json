@@ -307,7 +307,8 @@
       ],
       "rarity": "R",
       "rulings": [
-        "A character may not be used in multiple pairs."
+        "A character may not be used in multiple pairs.",
+        "Canceling 4-LOM's game text or excluding him from battle could result in a battle ending immediately (in cases where his game text is required for the battle to occur)."
       ],
       "set": "4",
       "side": "Dark"
@@ -2278,9 +2279,6 @@
           "set": "12"
         }
       ],
-      "pulledBy": [
-        "You Swindled Me! (V)"
-      ],
       "rarity": "U",
       "rulings": [
         "Cannot cancel an Immediate Effect, Mobile Effect, or Starting Effect.",
@@ -2323,9 +2321,6 @@
           "set": "1"
         }
       ],
-      "pulledBy": [
-        "You Swindled Me! (V)"
-      ],
       "rarity": "U1",
       "rulings": [
         "Cannot cancel an Immediate Effect, Mobile Effect, Political Effect, or Starting Effect.",
@@ -2366,9 +2361,6 @@
         {
           "set": "10"
         }
-      ],
-      "pulledBy": [
-        "You Swindled Me! (V)"
       ],
       "rarity": "PM",
       "rulings": [
@@ -3605,7 +3597,7 @@
           "Episode I",
           "Tatooine"
         ],
-        "imageUrl": "https://res.starwarsccg.org/cards/Tatooine-Dark/large/aurrasingai.gif",
+        "imageUrl": "https://res.starwarsccg.org/cards/Tatooine-Dark/large/aurrasing_ai.gif",
         "lore": "Bounty hunter. Former student of the Force. After failing her Jedi training, Aurra became known for hunting down and killing Jedi Knights.",
         "power": "4",
         "subType": "Alien",
@@ -12727,6 +12719,9 @@
         "You Cannot Hide Forever & Mobilization Points"
       ],
       "rarity": "R",
+      "rulings": [
+        "If a weapon firing is canceled, that weapon did not fire and does not count towards Crossfire."
+      ],
       "set": "8",
       "side": "Dark"
     },
@@ -13579,7 +13574,7 @@
           "Episode I",
           "Tatooine"
         ],
-        "imageUrl": "https://res.starwarsccg.org/cards/Tatooine-Dark/large/darthmaulai.gif",
+        "imageUrl": "https://res.starwarsccg.org/cards/Tatooine-Dark/large/darthmaul_ai.gif",
         "lore": "Apprentice to Darth Sidious. Sent to capture Queen Amidala on Tatooine. Full of anger and fury as a child. Sidious used Maul's pent-up rage to train him in the ways of the Sith.",
         "power": "7",
         "subType": "Sith",
@@ -13789,7 +13784,7 @@
           "Episode I",
           "Coruscant"
         ],
-        "imageUrl": "https://res.starwarsccg.org/cards/Coruscant-Dark/large/darthmaulyoungapprenticeai.gif",
+        "imageUrl": "https://res.starwarsccg.org/cards/Coruscant-Dark/large/darthmaulyoungapprentice_ai.gif",
         "lore": "Fueled by a hatred of the Jedi and an arsenal of dark abilities, this Sith warrior is a powerful weapon for his dark mentor, Darth Sidious.",
         "power": "7",
         "subType": "Sith",
@@ -13869,7 +13864,7 @@
           "Episode I",
           "Theed Palace"
         ],
-        "imageUrl": "https://res.starwarsccg.org/cards/TheedPalace-Dark/large/darthsidiousai.gif",
+        "imageUrl": "https://res.starwarsccg.org/cards/TheedPalace-Dark/large/darthsidious_ai.gif",
         "lore": "Mysterious Sith Master who is manipulating the Trade Federation for his own nefarious ends. Shrouded in mystery, his identity and agenda remain unclear.",
         "power": "5",
         "subType": "Dark Jedi Master",
@@ -17876,40 +17871,6 @@
       "side": "Dark"
     },
     {
-      "conceptBy": "(Original concept by Matthew Carulli)",
-      "counterpart": "Thrown Back (V)",
-      "front": {
-        "destiny": "3",
-        "gametext": "Deploy on table. While no card stacked here, may stack opponent's just-played Interrupt here. Opponent may use 3 Force to place an Interrupt here in Used Pile. Once per turn, unless your protocol droid on table, may place a card from hand on bottom of Used Pile. (Immune to Alter.)",
-        "icons": [
-          "Grabber",
-          "Episode I",
-          "Coruscant",
-          "Set 3"
-        ],
-        "imageUrl": "https://res.starwarsccg.org/cards/Virtual3-Dark/large/drop.gif",
-        "lore": "Anakin had to heed Qui-Gon's advice to avoid the rapidly approaching storm.",
-        "title": "•Drop! (V)",
-        "type": "Effect",
-        "uniqueness": "*"
-      },
-      "gempId": "203_30",
-      "id": 5027,
-      "legacy": false,
-      "printings": [
-        {
-          "set": "203"
-        }
-      ],
-      "pulledBy": [
-        "Twi'lek Advisor",
-        "We Must Accelerate Our Plans"
-      ],
-      "rarity": "U",
-      "set": "203",
-      "side": "Dark"
-    },
-    {
       "front": {
         "ability": "2",
         "deploy": "1",
@@ -20956,6 +20917,9 @@
         "Major Turr Phennir"
       ],
       "rarity": "R",
+      "rulings": [
+        "'Pilot character' means a separate pilot character card, not a permanent pilot."
+      ],
       "set": "9",
       "side": "Dark"
     },
@@ -22749,7 +22713,7 @@
           "Warrior"
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/Premiere-Dark/large/generaltagge.gif",
-        "lore": "Oversees defense operations of Death Star. Outstanding tactician. No-nonsense leader. Member of the House of Tagge, a powerful noble family and corporate conglomerate.",
+        "lore": "Oversees defense operations of Death Star. Outstanding tactician. No-nonsense leader. Member of House of Tagge, a powerful noble family and corporate conglomerate.",
         "power": "3",
         "subType": "Imperial",
         "title": "•General Tagge",
@@ -25307,9 +25271,9 @@
       ],
       "rarity": "R",
       "rulings": [
-        "If Light chooses a Resistance Agent, only cards with that same title are a Resistance Agent.",
+        "If Light chooses a Resistance Agent, only cards with that same title are a Resistance Agent. They do not become Resistance character cards.",
         "If no choice is made, all Luke persona cards are a Resistance Agent and lose immunity to attrition (if any). They do not become Resistance character cards.",
-        "Interrupts stacked on the 7-side remain stacked if flipped back to the 0-side, but Dark can only play stacked Interrupts while on the 7-side."
+        "Interrupts stacked on I Will Finish What You Started remain stacked if this Objective flips back to the 0-side, but Dark can only play stacked Interrupts while on the 7-side."
       ],
       "set": "208",
       "side": "Dark"
@@ -25705,7 +25669,8 @@
       ],
       "rarity": "R",
       "rulings": [
-        "Cards with multiple warrior icons can still only escort one captive at a time."
+        "Cards with multiple warrior icons can still only escort one captive at a time.",
+        "Canceling IG-88's game text or excluding him from battle could result in a battle ending immediately (in cases where his game text is required for the battle to occur)."
       ],
       "set": "4",
       "side": "Dark"
@@ -25802,6 +25767,9 @@
         }
       ],
       "rarity": "PM",
+      "rulings": [
+        "Canceling IG-2000's game text or excluding it from battle could result in a battle ending immediately (in cases where its game text is required for the battle to occur)."
+      ],
       "set": "110",
       "side": "Dark"
     },
@@ -25853,6 +25821,9 @@
         "Double Back"
       ],
       "rarity": "PM",
+      "rulings": [
+        "Canceling IG-88's game text or excluding him from battle could result in a battle ending immediately (in cases where his game text is required for the battle to occur)."
+      ],
       "set": "109",
       "side": "Dark"
     },
@@ -28042,6 +28013,7 @@
       "rarity": "C2",
       "rulings": [
         "Increases the original Force loss amount, for example a Force drain of 1 could be increased to a drain of 6, then finally the damage capped to 2 by Ultimatum.",
+        "When increasing the loss from a Force drain, It's Worse is a Force drain modifier and a Force drain bonus. As such, its increase to a Force drain can be entirely eliminated by (for example) Menace Fades, Great Warrior, or The Planet That It's Farthest From.",
         "Responses to the original Force loss are no longer possible, for example a Force drain that has been increased can no longer be canceled by Control."
       ],
       "set": "1",
@@ -28784,6 +28756,12 @@
         "Jabba's Sail Barge (V)"
       ],
       "rarity": "R",
+      "rulings": [
+        "May deploy regardless of whether Jabba's Sail Barge is on table, and this site is not lost when Jabba's Sail Barge is lost.",
+        "This site is 'adjacent' to the site where the Jabba's Sail Barge vehicle is (for example, Expand The Empire can expand text to or from the Passenger Deck).",
+        "This site is 'related' to all sites on the same planet that Jabba's Sail Barge is on.",
+        "This site does <u>not</u> take on the name of the planet (e.g. it is not a Tatooine site, a character here is not 'on Tatooine' or 'on Cloud City' even if the Sail Barge is, etc)."
+      ],
       "set": "6",
       "side": "Dark"
     },
@@ -29949,6 +29927,9 @@
         "Moment Of Triumph (V)"
       ],
       "rarity": "U2",
+      "rulings": [
+        "(Light side text) Passengers do not count towards the 6 ability requirement. If the requirement is not met, Light does not get any battle destiny draws (even if they have multiple battle destiny adders such as Captain Han Solo, Life Debt, etc). However, 'draws if unable to otherwise' still works without 6 ability."
+      ],
       "set": "1",
       "side": "Dark"
     },
@@ -32762,7 +32743,8 @@
         "A character stacked on this Effect is inactive.",
         "Dark can capture an opponent's pilot or rescue their own pilot. Light can only rescue their own pilot (Light can never capture).",
         "When a capital starship rescues a character stacked on this card, the rescued character is placed aboard that starship (capacity permitting). If there is insufficient capacity, the rescuing action cannot be initiated by that starship.",
-        "When a Dark capital starship captures a Light character stacked on this card, Dark may either choose to 'seize' the character (if an escort aboard is available and capacity permits) or Dark may choose 'escape' (character goes to Light's Used Pile). Thus Dark may initiate a capture even with no escort or capacity available."
+        "When a Dark capital starship captures a Light character stacked on this card, Dark may either choose to 'seize' the character (if an escort aboard is available and capacity permits) or Dark may choose 'escape' (character goes to Light's Used Pile). Thus Dark may initiate a capture even with no escort or capacity available.",
+        "The character can be targeted by weapons as if a starfighter, but not during battle (the character does not participate in battles). The player will need a card that allows them to fire a weapon outside of battle, such as Sorry About The Mess, Stay Sharp!, Sniper, Scythe 1, etc."
       ],
       "set": "4",
       "side": "Dark"
@@ -34235,7 +34217,7 @@
           "Episode I",
           "Coruscant"
         ],
-        "imageUrl": "https://res.starwarsccg.org/cards/Coruscant-Dark/large/maulssithinfiltratorai.gif",
+        "imageUrl": "https://res.starwarsccg.org/cards/Coruscant-Dark/large/maulssithinfiltrator_ai.gif",
         "lore": "One of Sienar Advanced Projects Laboratories' prototype designs. Equipped with advanced weaponry and a full-effect stygium-based cloaking device for invisibility on command.",
         "power": "4",
         "subType": "Starfighter: Sith Infiltrator",
@@ -34560,6 +34542,10 @@
         }
       ],
       "rarity": "PM",
+      "rulings": [
+        "This card is the same persona as Grand Admiral Thrawn, so only one can be on table at a time.",
+        "Counts as Thrawn for the purposes of Thrawn's Art Collection, A Great Tactician Creates Plans, etc."
+      ],
       "set": "211",
       "side": "Dark"
     },
@@ -36515,6 +36501,10 @@
         "Surface Defense (V)"
       ],
       "rarity": "C",
+      "rulings": [
+        "The text 'if forfeited, forfeit for 0' means that a substituted forfeit value of 0 is applied. This cannot be circumvented by cards such as Sacrifice.",
+        "If a hit character is excluded from battle (e.g. by Clash Of Sabers), the character is excluded, then automatically lost due to being hit outside of battle. Ng'ok War Beast does not protect a character in that situation."
+      ],
       "set": "201",
       "side": "Dark"
     },
@@ -36834,6 +36824,9 @@
         }
       ],
       "rarity": "U",
+      "rulings": [
+        "(7-side) A card that cannot deploy during the deploy phase (such as Disarmed or Fear Is My Ally) is considered a card Dark cannot deploy. Thus if Light uses 2 Force, Dark loses 2 Force and the card."
+      ],
       "set": "12",
       "side": "Dark"
     },
@@ -37036,7 +37029,7 @@
           "Episode I",
           "Theed Palace"
         ],
-        "imageUrl": "https://res.starwarsccg.org/cards/TheedPalace-Dark/large/nutegunrayneimoidianviceroyai.gif",
+        "imageUrl": "https://res.starwarsccg.org/cards/TheedPalace-Dark/large/nutegunrayneimoidianviceroy_ai.gif",
         "lore": "Neimoidian leader. Viceroy to the Trade Federation, but primarily under the influence of Darth Sidious. Ordered to take control of Naboo, and force the Queen to sign a treaty.",
         "power": "3",
         "subType": "Republic",
@@ -37340,7 +37333,8 @@
       ],
       "rarity": "C2",
       "rulings": [
-        "May even cancel the firing of a weapon that was retargeted to the droid by Self-Destruct Mechanism."
+        "May even cancel the firing of a weapon that was retargeted to the droid by Self-Destruct Mechanism.",
+        "If canceling an attempt to fire a weapon at a droid, play during the response step (before weapon destiny is drawn)."
       ],
       "set": "3",
       "side": "Dark"
@@ -38625,6 +38619,9 @@
         }
       ],
       "rarity": "R",
+      "rulings": [
+        "'Draws one battle destiny if unable to otherwise' even works if P-59 is the passenger of any vehicle or starship (and even if the vehicle or starship is unpiloted)."
+      ],
       "set": "12",
       "side": "Dark"
     },
@@ -39637,6 +39634,9 @@
         "Coruscant: Imperial City (V)"
       ],
       "rarity": "PM",
+      "rulings": [
+        "Passengers aboard starships or enclosed vehicles do not count towards the 6 ability requirement. If the requirement is not met, Light does not get any battle destiny draws (even if they have multiple battle destiny adders such as Captain Han Solo, Life Debt, etc). However, 'draws if unable to otherwise' still works without 6 ability."
+      ],
       "set": "10",
       "side": "Dark"
     },
@@ -39801,6 +39801,9 @@
         "Captain Piett"
       ],
       "rarity": "C2",
+      "rulings": [
+        "'Draws one battle destiny if not able to otherwise' even works if Probot is the passenger of any vehicle or starship (and even if the vehicle or starship is unpiloted)."
+      ],
       "set": "200",
       "side": "Dark"
     },
@@ -41906,7 +41909,7 @@
           "Episode I",
           "Theed Palace"
         ],
-        "imageUrl": "https://res.starwarsccg.org/cards/TheedPalace-Dark/large/runehaakolegalcounselai.gif",
+        "imageUrl": "https://res.starwarsccg.org/cards/TheedPalace-Dark/large/runehaakolegalcounsel_ai.gif",
         "lore": "The Trade Federation's only Neimoidian leader to have ever encountered a Jedi Knight. Assumed Daultay Dofine's responsibilities after Dofine questioned their Sith Lord's plans.",
         "power": "2",
         "subType": "Republic",
@@ -42275,6 +42278,12 @@
         }
       ],
       "rarity": "R1",
+      "rulings": [
+        "Must deploy to a specific Sandcrawler on table (may be unique or non-unique, and may belong to either player).  This site, and any cards at it, are lost when that Sandcrawler is lost.",
+        "This site is 'adjacent' to the site where the Sandcrawler vehicle is (for example, Expand The Empire can expand text to or from here).",
+        "This site is 'related' to all sites on the same planet that the Sandcrawler is on.",
+        "This site does <u>not</u> take on the name of the planet (e.g. it is not a Tatooine site, a character here is not 'on Tatooine' or 'on Cloud City' even if the Sandcrawler is, etc)."
+      ],
       "set": "2",
       "side": "Dark"
     },
@@ -43028,7 +43037,7 @@
           "Episode I",
           "Tatooine"
         ],
-        "imageUrl": "https://res.starwarsccg.org/cards/Tatooine-Dark/large/sebulbaai.gif",
+        "imageUrl": "https://res.starwarsccg.org/cards/Tatooine-Dark/large/sebulba_ai.gif",
         "lore": "Bad tempered Dug from Pixelito. He was about to turn Jar Jar into orange goo, until Anakin intervened.",
         "power": "4",
         "subType": "Alien",
@@ -43094,7 +43103,7 @@
           "Tatooine",
           "Set 11"
         ],
-        "imageUrl": "https://res.starwarsccg.org/cards/Virtual11-Dark/large/sebulbaai.gif",
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual11-Dark/large/sebulba_ai.gif",
         "lore": "Bad tempered Dug from Pixelito. He was about to turn Jar Jar into orange goo, until Anakin intervened.",
         "power": "4",
         "subType": "Alien",
@@ -44763,6 +44772,9 @@
     },
     {
       "front": {
+        "characteristics": [
+          "probe droid"
+        ],
         "deploy": "1",
         "destiny": "3",
         "extraText": [
@@ -44795,12 +44807,18 @@
         "If The Trace Was Correct"
       ],
       "rarity": "R",
+      "rulings": [
+        "This card is a probe droid (e.g. for Captain Piett)."
+      ],
       "set": "11",
       "side": "Dark"
     },
     {
       "conceptBy": "(Original concept by Lee Clarke - ACT Championship 2005)",
       "front": {
+        "characteristics": [
+          "probe droid"
+        ],
         "deploy": "1",
         "destiny": "3",
         "extraText": [
@@ -44835,6 +44853,7 @@
       ],
       "rarity": "R",
       "rulings": [
+        "This card is a probe droid (e.g. for Captain Piett).",
         "The relocate is an unlimited move. A single Dark Jedi could relocate to two Sith Probe Droids in the same turn."
       ],
       "set": "200",
@@ -50002,7 +50021,7 @@
           "Episode I",
           "Coruscant"
         ],
-        "imageUrl": "https://res.starwarsccg.org/cards/Coruscant-Dark/large/thephantommenaceai.gif",
+        "imageUrl": "https://res.starwarsccg.org/cards/Coruscant-Dark/large/thephantommenace_ai.gif",
         "lore": "Mysterious hologram that communicates with the Trade Federation, directing their blockade of Naboo. 'This is getting out of hand. Now there are two of them!'",
         "title": "•The Phantom Menace (AI)",
         "type": "Effect",
@@ -51113,6 +51132,10 @@
         "Maarek Stele, The Emperor's Reach"
       ],
       "rarity": "F",
+      "rulings": [
+        "These cards may deploy aboard TIE Defender Mark I: Boosted TIE Cannon, Droid Starfighter Laser Cannons, Enhanced TIE Laser Cannon, SFS L-s7.2 TIE Cannon, SFS L-s9.3 Laser Cannons.",
+        "These cards may <u>not</u> deploy on TIE Defender Mark I: Ion Cannon, Laser Cannon Battery."
+      ],
       "set": "7",
       "side": "Dark"
     },
@@ -53087,7 +53110,8 @@
         "Vader may even follow a character moving across his site.",
         "Vader may not follow a vehicle, even if there is a character inside.",
         "If Vader is aboard a vehicle, he may not disembark it to follow. The entire vehicle may not follow either.",
-        "Total battle destiny +1 counts all characters in the battle (including Vader)."
+        "Total battle destiny +1 counts all characters in the battle (including Vader).",
+        "If Dark did not successfully complete any battle destiny draws, there is no total battle destiny and so it is not possible for this Interrupt to add to total battle destiny."
       ],
       "set": "211",
       "side": "Dark"
@@ -53241,6 +53265,10 @@
         "Short Range Fighters & Watch Your Back!"
       ],
       "rarity": "R1",
+      "rulings": [
+        "May only cancel the game text of a character card (not a permanent pilot or permanent passenger).",
+        "An astromech slot counts as a type of passenger slot. For example if the character card R2-D2 is in the astromech slot of the starship card Red 5, Vader's Custom TIE (V) can cancel R2-D2's game text."
+      ],
       "set": "206",
       "side": "Dark"
     },
@@ -53331,7 +53359,8 @@
       ],
       "rarity": "PM",
       "rulings": [
-        "The destinies are 'duel destinies' (e.g. for The Ebb Of Battle or Deep Hatred)."
+        "The destinies are 'duel destinies' (e.g. for The Ebb Of Battle or Deep Hatred).",
+        "Vader cannot duel a captive Luke (such as a Luke that's been captured via Bring Him Before Me or There Is Good In Him)."
       ],
       "set": "101",
       "side": "Dark"
@@ -53353,7 +53382,7 @@
           "Special Edition"
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/SpecialEdition-Dark/large/vaderspersonalshuttle.gif",
-        "lore": "Shuttle Customized transport of Lord Vader. Employs advanced sensor jamming gear. Modified with enhanced tactical displays constructed to the Dark Lord's specifications.",
+        "lore": "Customized transport of Lord Vader. Employs advanced sensor jamming gear. Modified with enhanced tactical displays constructed to the Dark Lord's specifications.",
         "maneuver": "2",
         "power": "2",
         "subType": "Starfighter: Lambda-Class Shuttle",
@@ -53405,7 +53434,7 @@
           "Set 0"
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual0-Dark/large/vaderspersonalshuttle.gif",
-        "lore": "Shuttle Customized transport of Lord Vader. Employs advanced sensor jamming gear. Modified with enhanced tactical displays constructed to the Dark Lord's specifications.",
+        "lore": "Customized transport of Lord Vader. Employs advanced sensor jamming gear. Modified with enhanced tactical displays constructed to the Dark Lord's specifications.",
         "maneuver": "3",
         "power": "2",
         "subType": "Starfighter: Lambda-Class Shuttle",
@@ -54490,7 +54519,7 @@
           "Episode I",
           "Tatooine"
         ],
-        "imageUrl": "https://res.starwarsccg.org/cards/Tatooine-Dark/large/wattoai.gif",
+        "imageUrl": "https://res.starwarsccg.org/cards/Tatooine-Dark/large/watto_ai.gif",
         "lore": "Toydarian junk dealer. Skilled gambler. Won Shmi and Anakin in a Podrace bet with Gardulla the Hutt. Jedi mind tricks don't work on him, only money.",
         "power": "3",
         "subType": "Alien",
@@ -56610,6 +56639,9 @@
       "side": "Dark"
     },
     {
+      "abbr": [
+        "YBD!"
+      ],
       "front": {
         "destiny": "3",
         "gametext": "Deploy on table. Non-lightsaber weapons carried by your non-Dark Jedi characters may not be stolen. During your control phase, opponent loses 1 Force for each battleground site you control with a non-[Permanent Weapon] blaster present. Imperial Artillery is a Lost interrupt. (Immune to Alter.)",
@@ -57205,7 +57237,7 @@
           "Episode I",
           "Set 12"
         ],
-        "imageUrl": "https://res.starwarsccg.org/cards/Virtual12-Dark/large/aurrasingwithblasterrifleai.gif",
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual12-Dark/large/aurrasingwithblasterrifle_ai.gif",
         "lore": "Bounty hunter. Assassin.",
         "power": "4",
         "subType": "Alien",
@@ -58001,6 +58033,10 @@
         }
       ],
       "rarity": "C2",
+      "rulings": [
+        "First function takes any card with the Krennic persona, or takes a character card if it is a non-spy captain.",
+        "Cannot take the card Captain Jonus In Scimitar 2 into hand."
+      ],
       "set": "213",
       "side": "Dark"
     },
@@ -58460,6 +58496,7 @@
       ],
       "rarity": "R",
       "rulings": [
+        "(7-side) The card 'Darth Vader With Lightsaber' meets the condition to cancel opponent's Force drain bonuses.",
         "The 7-side only cancels Force drain bonuses that come from LS cards affecting LS Force drains.",
         "For example, if LS Force drains at the DS system Eriadu, the +1 bonus in Eriadu's game text is not canceled because it is a DS card.",
         "For example, if DS Force drains at the LS site Tatooine: Obi-Wan's Hut, the +1 bonus in the site's game text is not canceled because it is a DS Force drain."
@@ -59111,8 +59148,9 @@
       ],
       "rarity": "C",
       "rulings": [
-        "When Force drains = 2, they cannot be modified, but the Force loss could be modified by (for example) It Could Be Worse.",
-        "May only deploy on the Executor starship card (not on an Executor site)."
+        "May only deploy on the Executor starship card (not on an Executor site).",
+        "A TIE inside a star destroyer is landed/unpiloted so it does not give Force drain = 2.",
+        "When Force drains = 2, they cannot be modified, but the Force loss could be modified by (for example) It Could Be Worse."
       ],
       "set": "215",
       "side": "Dark"
@@ -59684,10 +59722,12 @@
       "rarity": "U",
       "rulings": [
         "Vader can make any type of regular move into battle. Examples include landspeed, shuttling (up or down) and docking bay transit.",
-        "Vader and a Star Destroyer he is piloting can each make one regular move on each turn (including Light's turn), whether the regular move is via this card or not.",
+        "The 'move to a battle' text does <u>not</u> permit an unlimited move, (e.g. it does not allow Vader to disembark Blizzard 4).",
+        "Star Destroyer regular movement includes using hyperspeed, moving between a Death Star and a system it is orbiting, and moving to/from/between asteroid sectors.",
+        "Vader and a Star Destroyer he is piloting can <u>each</u> make one regular move on each turn (including Light's turn), whether the regular move is via this card or not.",
         "If Vader (or a Star Destroyer he is piloting) has already battled this turn, they can still make a regular move to a battle, but will not participate in that second battle.",
         "Vader cannot use the text on Vader's Castle to move into battle, nor any other site that specifies that it only works during move phase.",
-        "Even if Tarkin Doctrine causes multiple Force loss, it only initiates Force loss once per turn."
+        "(7-side) Even if Tarkin Doctrine causes multiple Force loss, it only initiates Force loss once per turn."
       ],
       "set": "216",
       "side": "Dark"
@@ -60850,7 +60890,8 @@
       ],
       "rarity": "C",
       "rulings": [
-        "If unable to deploy the required location, this card fails to deploy and Rise Of The Sith fails to play."
+        "If unable to deploy the required location, this card fails to deploy and Rise Of The Sith fails to play.",
+        "'Opponent may not reduce Force drains' prevents an opponent's card from applying a Force drain -1 modifier (e.g. Projection Of A Skywalker). The following still work:<ul><li>Harc Seff, It Could Be Worse, and We're Doomed may reduce loss from Force drains.</li><li>Great Warrior and Menace Fades may cancel the Force drain bonuses.</li><li>Ultimatum may limit the amount of Force lost to Force drains.</li></ul>"
       ],
       "set": "217",
       "side": "Dark"
@@ -60888,7 +60929,8 @@
       ],
       "rarity": "C2",
       "rulings": [
-        "If you used an Objective, you do not have a starting location and cannot play the Starting function of this card."
+        "If you used an Objective, you do not have a starting location and cannot play the Starting function of this card.",
+        "(Used function) Activation is determined at the beginning of the turn. If a converted location is raised to the top during the activate phase, it will <u>not</u> change the activation amount that turn."
       ],
       "set": "217",
       "side": "Dark"
@@ -61622,6 +61664,9 @@
         }
       ],
       "rarity": "R",
+      "rulings": [
+        "If a [Presence] droid attempts to fire its permanent weapon and the firing is canceled, then the weapon did not fire, so Dofine gives +1 to total battle destiny."
+      ],
       "set": "219",
       "side": "Dark"
     },
@@ -61636,7 +61681,7 @@
         "forfeit": "3",
         "gametext": "Power and forfeit +2 at a Coruscant location. At the beginning of opponent's control phase, if present with opponent's character, `sell death sticks' (opponent must use or lose 1 Force; if a Jedi present, also place Elan in Used Pile).",
         "icons": [
-          "Episode 1",
+          "Episode I",
           "Set 19"
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual19-Dark/large/elansleazebaggano.gif",
