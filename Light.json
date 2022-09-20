@@ -413,7 +413,8 @@
       ],
       "rarity": "U",
       "rulings": [
-        "Character keeps power +1 after becoming a Jedi."
+        "Character keeps power +1 after becoming a Jedi.",
+        "Passengers aboard starships or enclosed vehicles do not count towards the 6 ability requirement. If the requirement is not met, Dark does not get any battle destiny draws (even if they have multiple battle destiny adders such as Boba Fett Bounty Hunter, Mighty Jabba, etc). However, 'draws if unable to otherwise' still works without 6 ability."
       ],
       "set": "4",
       "side": "Light"
@@ -2270,7 +2271,8 @@
         "Can be played as a response to the attempted deployment of an Effect, Political Effect, or Utinni Effect. If successful, the target has no result.",
         "'Immune to opponent's Objective' only works while initiating/playing it.",
         "It is protected from (for example) both sides of Hunt Down And Destroy The Jedi.",
-        "It is not protected from (for example) In Complete Control or I Will Make It Legal."
+        "It is not protected from (for example) In Complete Control or I Will Make It Legal.",
+        "'Immune to opponent's Objective' does <u>not</u> permit Alter to target Scum And Villainy against the 7-side of Carbon Chamber Testing."
       ],
       "set": "200",
       "side": "Light"
@@ -2303,7 +2305,8 @@
         "Can be played as a response to the attempted deployment of an Effect, Political Effect, or Utinni Effect. If successful, the target has no result.",
         "'Immune to opponent's Objective' only works while initiating/playing it.",
         "It is protected from (for example) both sides of Hunt Down And Destroy The Jedi.",
-        "It is not protected from (for example) In Complete Control or I Will Make It Legal."
+        "It is not protected from (for example) In Complete Control or I Will Make It Legal.",
+        "'Immune to opponent's Objective' does <u>not</u> permit Alter to target Scum And Villainy against the 7-side of Carbon Chamber Testing."
       ],
       "set": "200",
       "side": "Light"
@@ -2742,6 +2745,9 @@
       "side": "Light"
     },
     {
+      "abbr": [
+        "AWH"
+      ],
       "front": {
         "destiny": "5",
         "gametext": "Deploy on table. Maz and your Rep are immune to attrition. While you have alien characters of five different species on table: your Force drains are +1, your total battle destiny is +1 (+2 if Maz or your Rep in battle), and your aliens are forfeit +1. (Immune to Alter.)",
@@ -3596,7 +3602,8 @@
       ],
       "rarity": "PM",
       "rulings": [
-        "With this game text active, a droid piloting a starship may be battled."
+        "With this game text active, a droid piloting a starship may be battled.",
+        "Canceling Artoo & Threepio's game text or excluding them from battle could result in a battle ending immediately (in cases where their game text is required for the battle to occur)."
       ],
       "set": "10",
       "side": "Light"
@@ -3668,7 +3675,7 @@
           "Episode I",
           "Theed Palace"
         ],
-        "imageUrl": "https://res.starwarsccg.org/cards/TheedPalace-Light/large/artoobravelittledroidai.gif",
+        "imageUrl": "https://res.starwarsccg.org/cards/TheedPalace-Light/large/artoobravelittledroid_ai.gif",
         "lore": "Starship maintenance droid within the Naboo droid pool. Personally responsible for saving Amidala's starship and getting her to Tatooine.",
         "power": "1",
         "subType": "Droid",
@@ -3715,10 +3722,7 @@
         "Artoo (V)",
         "Artoo & Threepio",
         "Artoo & Threepio (V)",
-        "Artoo",
-        "Brave Little Droid",
-        "Artoo",
-        "Brave Little Droid (V)",
+        "Artoo, Brave Little Droid",
         "Hero Of A Thousand Devices",
         "R2-D2 (Artoo-Detoo)",
         "R2-D2 (Artoo-Detoo) (V)",
@@ -4339,6 +4343,11 @@
         }
       ],
       "rarity": "U",
+      "rulings": [
+        "Lost function - Only targets active cards.  Not inactive cards (e.g. cards on a captive/missing character) or supporting cards (e.g. cards on Crash Site Memorial).",
+        "Lost function - If Light has stolen a weapon from Dark, this will only place it in Used Pile if it is active (it is active if it is being carried by a character who can use it).",
+        "Lost function - Will not 'steal back' a weapon that Dark has stolen from Light."
+      ],
       "set": "4",
       "side": "Light"
     },
@@ -5123,8 +5132,7 @@
         "Artoo & Threepio",
         "Chewbacca",
         "Chewie (V)",
-        "Chewbacca",
-        "Protector",
+        "Chewbacca, Protector",
         "Lando In Millennium Falcon",
         "Overseer",
         "Harc Seff",
@@ -6446,7 +6454,7 @@
           "Episode I",
           "Theed Palace"
         ],
-        "imageUrl": "https://res.starwarsccg.org/cards/TheedPalace-Light/large/bossnassai.gif",
+        "imageUrl": "https://res.starwarsccg.org/cards/TheedPalace-Light/large/bossnass_ai.gif",
         "lore": "Ankura Gungan who is the leader of his people. Prone to nervous tics. Personally responsible for uniting the Ankura and Otolla races together.",
         "power": "3",
         "subType": "Alien",
@@ -8685,13 +8693,11 @@
       "matchingWeapon": [
         "Chewbacca",
         "Chewbacca Of Kashyyyk",
-        "Chewbacca",
-        "Protector",
+        "Chewbacca, Protector",
         "Chewie",
         "Chewie (V)",
         "Chewie With Blaster Rifle",
-        "Chewie",
-        "Enraged"
+        "Chewie, Enraged"
       ],
       "printings": [
         {
@@ -8989,14 +8995,12 @@
       "matching": [
         "Chewbacca",
         "Chewbacca Of Kashyyyk",
-        "Chewbacca",
-        "Protector",
+        "Chewbacca, Protector",
         "Chewie",
         "Chewie (V)",
         "Chewie With Blaster Rifle",
         "Chewie With Bowcaster",
-        "Chewie",
-        "Enraged"
+        "Chewie, Enraged"
       ],
       "printings": [
         {
@@ -11256,8 +11260,6 @@
         }
       ],
       "pulledBy": [
-        "Either Way",
-        "You Win (V)",
         "Yoda, Master Of The Force"
       ],
       "rarity": "U",
@@ -11304,8 +11306,6 @@
         }
       ],
       "pulledBy": [
-        "Either Way",
-        "You Win (V)",
         "Yoda, Master Of The Force"
       ],
       "rarity": "U",
@@ -11349,8 +11349,6 @@
         }
       ],
       "pulledBy": [
-        "Either Way",
-        "You Win (V)",
         "Yoda, Master Of The Force"
       ],
       "pulls": [
@@ -12071,6 +12069,10 @@
         }
       ],
       "rarity": "R1",
+      "rulings": [
+        "May not be on table at same time as the Corran Horn character card.",
+        "This card does not inherit any game text or attributes from the Corran Horn character card (e.g. the pilot is not a spy)."
+      ],
       "set": "202",
       "side": "Light"
     },
@@ -12591,6 +12593,11 @@
         "We Wish To Board At Once"
       ],
       "rarity": "U1",
+      "rulings": [
+        "Cards on Crash Site Memorial are not 'on table' such as for uniqueness or for any other purpose. For example a player may deploy Millennium Falcon to a system even if there is another copy of the Falcon on Crash Site Memorial.",
+        "If Crash Site Memorial is canceled, cards on it are lost.",
+        "If Crash Site Memorial is canceled by Alter while Wise Advice is on table, only Crash Site Memorial goes to Used Pile.  Cards on Crash Site Memorial are still lost."
+      ],
       "set": "1",
       "side": "Light"
     },
@@ -13468,6 +13475,10 @@
         "Lone Rogue"
       ],
       "rarity": "PM",
+      "rulings": [
+        "The 'draw two and choose one' text does <u>not</u> play nice with 'draws two battle destiny if unable to otherwise' (e.g. Commander Luke Skywalker (V)). These texts cannot be combined. It's almost always best for Light to just draw two battle destiny with Luke, and ignore Dash's text.",
+        "When using 'draw two and choose one', any response to an individual destiny draw (such as adding 1 with Heading To The Medical Frigate, or canceling a draw with Grand Moff Tarkin) is a response to a draw immediately after it is made, not a response to a draw being chosen. For example, if Dark cancels a draw or subtracts from a draw, Light can then simply choose the other draw."
+      ],
       "set": "201",
       "side": "Light"
     },
@@ -14205,7 +14216,7 @@
           "Jedi Master"
         ],
         "forfeit": "6",
-        "gametext": "If at least two [Light Side] icons here, once during your control phase may draw top card of Reserve Deck. If at least two [Dark Side] icons here, may forfeit in place of your hit non-Jedi character present with Depa (forfeit = 0), restoring that character to normal.",
+        "gametext": "If at least two [Light Side] icons here, once during your control phase may draw top card of Reserve Deck. If at least two [Dark Side] icons here, may forfeit in place of your hit non-Jedi character present with Depa (forfeit for 0), restoring that character to normal.",
         "icons": [
           "Warrior",
           "Episode I",
@@ -14228,6 +14239,9 @@
         }
       ],
       "rarity": "R",
+      "rulings": [
+        "When using her text to forfeit in place of a hit non-Jedi character, Depa forfeits using a substituted value of 0. This cannot be circumvented by cards such as First Aid."
+      ],
       "set": "207",
       "side": "Light"
     },
@@ -15669,6 +15683,9 @@
         "Hopping Mad"
       ],
       "rarity": "C2",
+      "rulings": [
+        "If canceling an attempt to fire a weapon at a droid, play during the response step (before weapon destiny is drawn)."
+      ],
       "set": "1",
       "side": "Light"
     },
@@ -19801,7 +19818,7 @@
           "Episode I",
           "Theed Palace"
         ],
-        "imageUrl": "https://res.starwarsccg.org/cards/TheedPalace-Light/large/generaljarjarai.gif",
+        "imageUrl": "https://res.starwarsccg.org/cards/TheedPalace-Light/large/generaljarjar_ai.gif",
         "lore": "After uniting the Gungans and the Naboo, Boss Nass promoted Jar Jar Binks to General. He's still a bit clumsy.",
         "power": "4",
         "subType": "Alien",
@@ -20359,6 +20376,9 @@
         "Phantom"
       ],
       "rarity": "U",
+      "rulings": [
+        "May deploy Phantom from Reserve Deck even if Ghost is landed and/or unpiloted."
+      ],
       "set": "207",
       "side": "Light"
     },
@@ -20900,8 +20920,7 @@
         "Artoo & Threepio",
         "Captain Han Solo",
         "Chewbacca",
-        "Chewbacca",
-        "Protector",
+        "Chewbacca, Protector",
         "Chewie (V)",
         "Chewie With Bowcaster",
         "General Calrissian",
@@ -20910,8 +20929,7 @@
         "Han Solo",
         "Lando Calrissian",
         "Lando Calrissian (V)",
-        "Lando Calrissian",
-        "Scoundrel",
+        "Lando Calrissian, Scoundrel",
         "Lando With Blaster Pistol",
         "Lando With Vibro-Ax",
         "Nien Nunb",
@@ -22147,9 +22165,10 @@
       "front": {
         "ability": "3",
         "characteristics": [
+          "Corellian",
           "gambler",
-          "smuggler",
-          "Corellian"
+          "pirate",
+          "smuggler"
         ],
         "deploy": "3",
         "destiny": "1",
@@ -24368,6 +24387,10 @@
         "We Wish To Board At Once"
       ],
       "rarity": "C",
+      "rulings": [
+        "Obi needs to be placed OOP from table (e.g. Noble Sacrifice or The Circle Is Now Complete), or while 'just lost' (e.g. Darth Sidious or Dannik Jerriko).",
+        "These cards do <u>not</u> work: Nick Of Time, Skull."
+      ],
       "set": "11",
       "side": "Light"
     },
@@ -24727,7 +24750,9 @@
       ],
       "rarity": "R",
       "rulings": [
-        "Playing (for example) two different Leias with different card titles does not allow Light to search their Used Pile with each Leia."
+        "Playing (for example) two different Leias with different card titles does not allow Light to search their Used Pile with each Leia.",
+        "Against Bring Him Before Me, when deploying Luke to Vader's site, Luke is captured immediately and becomes inactive. It is not possible to respond with this Effect to take a card from Used Pile into hand.",
+        "When deploying Princess Leia Organa as a captive, she is inactive. It is not possible to respond with this Effect to take a card from Used Pile into hand."
       ],
       "set": "200",
       "side": "Light"
@@ -24993,6 +25018,9 @@
         "Admiral Ackbar"
       ],
       "rarity": "R",
+      "rulings": [
+        "'Pilot character' means a separate pilot character card, not a permanent pilot."
+      ],
       "set": "9",
       "side": "Light"
     },
@@ -27507,6 +27535,9 @@
         "Were You Looking For Me?"
       ],
       "rarity": "R1",
+      "rulings": [
+        "Canceling K-3PO's game text or excluding him from battle could result in a battle ending immediately (in cases where his game text is required for the battle to occur)."
+      ],
       "set": "3",
       "side": "Light"
     },
@@ -27950,7 +27981,8 @@
       ],
       "rarity": "C1",
       "rulings": [
-        "A Wookiee who is also a smuggler would be deploy -2, not deploy -4."
+        "(Light side text) A Wookiee who is also a smuggler would be deploy -2, not deploy -4.",
+        "(Dark side text) Passengers do not count towards the 6 ability requirement. If the requirement is not met, Dark does not get any battle destiny draws (even if they have multiple battle destiny adders such as Boba Fett Bounty Hunter, IG-88 In IG-2000, etc). However, 'draws if unable to otherwise' still works without 6 ability."
       ],
       "set": "2",
       "side": "Light"
@@ -28889,6 +28921,10 @@
         "Don't Tread On Me (V)"
       ],
       "rarity": "R1",
+      "rulings": [
+        "The text 'if forfeited, forfeit for 0' means that a substituted forfeit value of 0 is applied. This cannot be circumvented by cards such as First Aid.",
+        "If a hit character is excluded from battle (e.g. by You Are Beaten), the character is excluded, then automatically lost due to being hit outside of battle. K'lor'slug (V) does not protect a character in that situation."
+      ],
       "set": "200",
       "side": "Light"
     },
@@ -29256,8 +29292,7 @@
       "legacy": false,
       "matching": [
         "Artoo & Threepio",
-        "Chewbacca",
-        "Protector",
+        "Chewbacca, Protector",
         "Chewbacca",
         "Chewie (V)",
         "Chewie With Bowcaster"
@@ -29425,8 +29460,7 @@
       "matchingWeapon": [
         "Lando Calrissian",
         "Lando Calrissian (V)",
-        "Lando Calrissian",
-        "Scoundrel",
+        "Lando Calrissian, Scoundrel",
         "General Calrissian",
         "Tamtel Skreej"
       ],
@@ -29586,6 +29620,10 @@
     {
       "front": {
         "armor": "4",
+        "characteristics": [
+          "information broker",
+          "smuggler"
+        ],
         "deploy": "2",
         "destiny": "3",
         "extraText": [
@@ -29614,6 +29652,9 @@
         }
       ],
       "rarity": "PM",
+      "rulings": [
+        "Canceling Leebo's game text or excluding him from battle could result in a battle ending immediately (in cases where his game text is required for the battle to occur)."
+      ],
       "set": "10",
       "side": "Light"
     },
@@ -31118,12 +31159,10 @@
         "Chewie (V)",
         "Chewie With Blaster Rifle",
         "Chewie With Bowcaster",
-        "Chewie",
-        "Enraged",
+        "Chewie, Enraged",
         "Chwbacca",
         "Chewbacca Of Kashyyyk",
-        "Chewbacca",
-        "Protector"
+        "Chewbacca, Protector"
       ],
       "rarity": "R",
       "set": "6",
@@ -32618,7 +32657,7 @@
           "A New Hope"
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/ANewHope-Light/large/lukeshuntingrifle.gif",
-        "lore": "Czerka 6-2Aug2. Extended barrel provides long-range targeting without expensive laser sight. Sturdy construction, but no match for a Tusken Raider's gaderffi stick.",
+        "lore": "Czerka 6-2Aug2. Extended barrel provides long-range targeting without expensive laser sight. Sturdy construction, but no match for a Tusken Raider's gaderffii stick.",
         "subType": "Character",
         "title": "•Luke's Hunting Rifle",
         "type": "Weapon",
@@ -32666,7 +32705,7 @@
           "Set 7"
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual7-Light/large/lukeshuntingrifle.gif",
-        "lore": "Czerka 6-2Aug2. Extended barrel provides long-range targeting without expensive laser sight. Sturdy construction, but no match for a Tusken Raider's gaderffi stick.",
+        "lore": "Czerka 6-2Aug2. Extended barrel provides long-range targeting without expensive laser sight. Sturdy construction, but no match for a Tusken Raider's gaderffii stick.",
         "subType": "Character",
         "title": "•Luke's Hunting Rifle (V)",
         "type": "Weapon",
@@ -32996,7 +33035,7 @@
           "Episode I",
           "Coruscant"
         ],
-        "imageUrl": "https://res.starwarsccg.org/cards/Coruscant-Light/large/macewinduai.gif",
+        "imageUrl": "https://res.starwarsccg.org/cards/Coruscant-Light/large/macewindu_ai.gif",
         "lore": "Senior Jedi Council member who maintains rigorous adherence to the Code. Sent Qui-Gon to Naboo to accompany the Queen and learn more about the mysterious 'dark warrior'.",
         "power": "6",
         "subType": "Jedi Master",
@@ -33086,7 +33125,7 @@
           "Coruscant",
           "Set 1"
         ],
-        "imageUrl": "https://res.starwarsccg.org/cards/Virtual1-Light/large/macewinduai.gif",
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual1-Light/large/macewindu_ai.gif",
         "lore": "Senior Jedi Council member who maintains rigorous adherence to the Code. Sent Qui-Gon to Naboo to accompany the Queen and learn more about the mysterious 'dark warrior'.",
         "power": "6",
         "subType": "Jedi Master",
@@ -33177,7 +33216,7 @@
           "Episode I",
           "Theed Palace"
         ],
-        "imageUrl": "https://res.starwarsccg.org/cards/TheedPalace-Light/large/macewindujedimasterai.gif",
+        "imageUrl": "https://res.starwarsccg.org/cards/TheedPalace-Light/large/macewindujedimaster_ai.gif",
         "lore": "Jedi Council member who is known to be one of the strongest members of the Council. Has come to Naboo to investigate the death of the mysterious 'dark warrior.'",
         "power": "6",
         "subType": "Jedi Master",
@@ -34127,7 +34166,7 @@
           "Episode I",
           "Coruscant"
         ],
-        "imageUrl": "https://res.starwarsccg.org/cards/Coruscant-Light/large/masterquigonai.gif",
+        "imageUrl": "https://res.starwarsccg.org/cards/Coruscant-Light/large/masterquigon_ai.gif",
         "lore": "Jedi Master currently not on the Council. Although he serves the Council well, there have been times when he has defied their wishes to pursue a path he believes is right.",
         "power": "6",
         "subType": "Jedi Master",
@@ -34220,7 +34259,7 @@
           "Coruscant",
           "Set 0"
         ],
-        "imageUrl": "https://res.starwarsccg.org/cards/Virtual0-Light/large/masterquigonai.gif",
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual0-Light/large/masterquigon_ai.gif",
         "lore": "Jedi Master currently not on the Council. Although he serves the Council well, there have been times when he has defied their wishes to pursue a path he believes is right.",
         "power": "6",
         "subType": "Jedi Master",
@@ -34834,14 +34873,12 @@
         "Captain Han Solo",
         "Chewbacca",
         "Chewbacca Of Kashyyyk",
-        "Chewbacca",
-        "Protector",
+        "Chewbacca, Protector",
         "Chewie",
         "Chewie (V)",
         "Chewie With Blaster Rifle",
         "Chewie With Bowcaster",
-        "Chewie",
-        "Enraged",
+        "Chewie, Enraged",
         "General Calrissian",
         "General Solo",
         "General Solo (V)",
@@ -34851,8 +34888,7 @@
         "Han With Heavy Blaster Pistol",
         "Lando Calrissian",
         "Lando Calrissian (V)",
-        "Lando Calrissian",
-        "Scoundrel",
+        "Lando Calrissian, Scoundrel",
         "Lando With Blaster Pistol",
         "Lando With Vibro-Ax",
         "Solo",
@@ -35436,6 +35472,9 @@
         "Yavin 4 Trooper"
       ],
       "rarity": "R",
+      "rulings": [
+        "'Former member of the Imperial Senate' in lore makes her a senator."
+      ],
       "set": "8",
       "side": "Light"
     },
@@ -36615,6 +36654,9 @@
         }
       ],
       "rarity": "C2",
+      "rulings": [
+        "This movement is not a 'react'."
+      ],
       "set": "1",
       "side": "Light"
     },
@@ -36682,6 +36724,10 @@
         }
       ],
       "rarity": "U",
+      "rulings": [
+        "These cards may deploy aboard Nebulon-B Frigate (and do so for free): Heavy Turbolaser Battery, Quad Laser Cannon.",
+        "X-wing Laser Cannon may <u>not</u> deploy on Nebulon-B Frigate."
+      ],
       "set": "9",
       "side": "Light"
     },
@@ -37365,7 +37411,7 @@
           "Episode I",
           "Tatooine"
         ],
-        "imageUrl": "https://res.starwarsccg.org/cards/Tatooine-Light/large/obiwankenobipadawanlearnerai.gif",
+        "imageUrl": "https://res.starwarsccg.org/cards/Tatooine-Light/large/obiwankenobipadawanlearner_ai.gif",
         "lore": "Qui-Gon Jinn's Padawan. Stayed behind to protect Queen Amidala when Qui-Gon left to explore Mos Espa, but was in constant communication should he be needed.",
         "power": "6",
         "subType": "Republic",
@@ -37445,7 +37491,7 @@
           "Tatooine",
           "Set 0"
         ],
-        "imageUrl": "https://res.starwarsccg.org/cards/Virtual0-Light/large/obiwankenobipadawanlearnerai.gif",
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual0-Light/large/obiwankenobipadawanlearner_ai.gif",
         "lore": "Qui-Gon Jinn's Padawan. Stayed behind to protect Queen Amidala when Qui-Gon left to explore Mos Espa, but was in constant communication should he be needed.",
         "power": "6",
         "subType": "Republic",
@@ -38949,7 +38995,7 @@
           "Episode I",
           "Tatooine"
         ],
-        "imageUrl": "https://res.starwarsccg.org/cards/Tatooine-Light/large/padmenaberrieai.gif",
+        "imageUrl": "https://res.starwarsccg.org/cards/Tatooine-Light/large/padmenaberrie_ai.gif",
         "lore": "Queen Amidala posed as one of her own handmaidens for added safety as well as to keep an eye on her Jedi protectors. Was to be protected by the Jedi at all times.",
         "power": "3",
         "subType": "Republic",
@@ -39031,7 +39077,7 @@
           "Tatooine",
           "Set 3"
         ],
-        "imageUrl": "https://res.starwarsccg.org/cards/Virtual3-Light/large/padmenaberrieai.gif",
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual3-Light/large/padmenaberrie_ai.gif",
         "lore": "Queen Amidala posed as one of her own handmaidens for added safety as well as to keep an eye on her Jedi protectors. Was to be protected by the Jedi at all times.",
         "power": "3",
         "subType": "Republic",
@@ -39235,7 +39281,7 @@
           "Episode I",
           "Theed Palace"
         ],
-        "imageUrl": "https://res.starwarsccg.org/cards/TheedPalace-Light/large/panakaprotectorofthequeenai.gif",
+        "imageUrl": "https://res.starwarsccg.org/cards/TheedPalace-Light/large/panakaprotectorofthequeen_ai.gif",
         "lore": "Leader of the Royal Naboo security Forces. Fought alongside Amidala in order to capture Viceroy Nute Gunray.",
         "power": "4",
         "subType": "Republic",
@@ -39874,6 +39920,9 @@
         }
       ],
       "rarity": "U",
+      "rulings": [
+        "(7-side) Even non-senator characters with the order agenda are destiny +3 (Mas Amedda, Sio Bibble, Supreme Chancellor Valorum)."
+      ],
       "set": "12",
       "side": "Light"
     },
@@ -40415,6 +40464,9 @@
         "Seeking An Audience (V)"
       ],
       "rarity": "R",
+      "rulings": [
+        "'Former member of the Imperial Senate' in lore makes her a senator."
+      ],
       "set": "5",
       "side": "Light"
     },
@@ -40474,6 +40526,9 @@
         "Reflection"
       ],
       "rarity": "R",
+      "rulings": [
+        "'Former member of the Imperial Senate' in lore makes her a senator."
+      ],
       "set": "201",
       "side": "Light"
     },
@@ -41231,7 +41286,7 @@
           "Episode I",
           "Theed Palace"
         ],
-        "imageUrl": "https://res.starwarsccg.org/cards/TheedPalace-Light/large/queenamidalaai.gif",
+        "imageUrl": "https://res.starwarsccg.org/cards/TheedPalace-Light/large/queenamidala_ai.gif",
         "lore": "Leader. Amidala was only twelve when she was elected Princess of Theed. Now at age fourteen, she is Naboo's Queen, and the savior of her planet.",
         "power": "3",
         "subType": "Republic",
@@ -41311,7 +41366,7 @@
           "Episode I",
           "Coruscant"
         ],
-        "imageUrl": "https://res.starwarsccg.org/cards/Coruscant-Light/large/queenamidalarulerofnabooai.gif",
+        "imageUrl": "https://res.starwarsccg.org/cards/Coruscant-Light/large/queenamidalarulerofnaboo_ai.gif",
         "lore": "Naboo leader. Frustrated by the Trade Federation's control of her planet, Amidala came to the Senate to plead her case in person.",
         "politics": "2",
         "power": "2",
@@ -41441,7 +41496,7 @@
           "Episode I",
           "Tatooine"
         ],
-        "imageUrl": "https://res.starwarsccg.org/cards/Tatooine-Light/large/quigonjinnai.gif",
+        "imageUrl": "https://res.starwarsccg.org/cards/Tatooine-Light/large/quigonjinn_ai.gif",
         "lore": "Accepted Obi-Wan Kenobi as his Padawan learner. Was given orders to protect Queen Amidala at all costs.",
         "power": "6",
         "subType": "Jedi Master",
@@ -41610,7 +41665,7 @@
           "Episode I",
           "Tatooine"
         ],
-        "imageUrl": "https://res.starwarsccg.org/cards/Tatooine-Light/large/quigonjinnslightsaberai.gif",
+        "imageUrl": "https://res.starwarsccg.org/cards/Tatooine-Light/large/quigonjinnslightsaber_ai.gif",
         "lore": "Qui-Gon was forced to defend himself when Darth Maul tracked them down on Tatooine. He was barely able to escape, in order to fight another day.",
         "subType": "Character",
         "title": "•Qui-Gon Jinn's Lightsaber (AI)",
@@ -44902,6 +44957,7 @@
       ],
       "rarity": "C",
       "rulings": [
+        "USED function works at the following locations: Any Cloud City site, any system (including Bespin), and any cloud sector connected to Cloud City or Bespin (including Bespin: Cloud City). It does not work at any asteroid sectors.",
         "The first function works against Gravity Shadow only if Gravity Shadow was targeting a pilot character (not a permanent pilot).",
         "The second function plays during the weapons segment, scheduling the 'battle destiny if unable to otherwise' for later.",
         "A destiny draw is targeting ability or defense value if it is used in a comparison or calculation involving ability or defense value (e.g. either player's Wookiee Strangle destiny)."
@@ -46742,6 +46798,12 @@
         }
       ],
       "rarity": "R1",
+      "rulings": [
+        "Must deploy to a specific Sandcrawler on table (may be unique or non-unique, and may belong to either player).  This site, and any cards at it, are lost when that Sandcrawler is lost.",
+        "This site is 'adjacent' to the site where the Sandcrawler vehicle is (for example, Expand The Empire can expand text to or from here).",
+        "This site is 'related' to all sites on the same planet that the Sandcrawler is on.",
+        "This site does <u>not</u> take on the name of the planet (e.g. it is not a Tatooine site, a character here is not 'on Tatooine' or 'on Cloud City' even if the Sandcrawler is, etc)."
+      ],
       "set": "2",
       "side": "Light"
     },
@@ -47481,10 +47543,7 @@
         "Artoo (V)",
         "Artoo & Threepio",
         "Artoo & Threepio (V)",
-        "Artoo",
-        "Brave Little Droid",
-        "Artoo",
-        "Brave Little Droid (V)",
+        "Artoo, Brave Little Droid",
         "R2-D2 (Artoo-Detoo)",
         "R2-D2 (Artoo-Detoo) (V)",
         "R2-D2",
@@ -47532,8 +47591,7 @@
         "Artoo",
         "Artoo & Threepio",
         "Artoo-Detoo In Red 5",
-        "Artoo",
-        "Brave Little Droid",
+        "Artoo, Brave Little Droid",
         "R2-D2 & C-3PO",
         "R2-D2 (Artoo-Detoo)",
         "R2-D2 (Artoo-Detoo) (V)",
@@ -47552,8 +47610,7 @@
         "Princess Organa",
         "Chewbacca",
         "Chewbacca Of Kashyyyk",
-        "Chewbacca",
-        "Protector",
+        "Chewbacca, Protector",
         "Chewie",
         "Chewie (V)",
         "Chewie With Blaster Rifle",
@@ -47690,6 +47747,9 @@
         "Chandrila"
       ],
       "rarity": "R",
+      "rulings": [
+        "Her card title makes her a senator (as would 'former member of the Imperial Senate' in lore)."
+      ],
       "set": "204",
       "side": "Light"
     },
@@ -47745,7 +47805,7 @@
           "Episode I",
           "Coruscant"
         ],
-        "imageUrl": "https://res.starwarsccg.org/cards/Coruscant-Light/large/senatorpalpatineai.gif",
+        "imageUrl": "https://res.starwarsccg.org/cards/Coruscant-Light/large/senatorpalpatine_ai.gif",
         "lore": "Senator for the Naboo. Advised Amidala on actions required to highlight their conflict with the Trade Federation. Watches young Skywalker's future with great interest.",
         "politics": "4",
         "power": "1",
@@ -50477,7 +50537,7 @@
           "Episode I",
           "Coruscant"
         ],
-        "imageUrl": "https://res.starwarsccg.org/cards/Coruscant-Light/large/supremechancellorvalorumai.gif",
+        "imageUrl": "https://res.starwarsccg.org/cards/Coruscant-Light/large/supremechancellorvalorum_ai.gif",
         "lore": "Although Finis Valorum maintains the Galactic Senate's ultimate title, his real power is mired by endless bureaucracy, petty corruption, and incessant plotting.",
         "politics": "5",
         "power": "2",
@@ -53105,16 +53165,14 @@
         "Artoo & Threepio",
         "Captain Han Solo",
         "Chewbacca",
-        "Chewbacca",
-        "Protector",
+        "Chewbacca, Protector",
         "Chewie (V)",
         "Chewie With Bowcaster",
         "General Solo",
         "Han (V)",
         "Han Solo",
         "Lando Calrissian",
-        "Lando Calrissian",
-        "Scoundrel",
+        "Lando Calrissian, Scoundrel",
         "Rey",
         "Solo"
       ],
@@ -53198,7 +53256,11 @@
       ],
       "rarity": "C",
       "rulings": [
-        "If Falcon is about to be lost, it is not possible to send it to a docking bay with I'll Take The Leader. The Falcon would go out of play first."
+        "If Falcon is about to be lost, it is not possible to send it to a docking bay with I'll Take The Leader. The Falcon would go out of play first.",
+        "When Falcon flips to the vehicle side, any starship weapons are lost (even Concussion Missiles, which deploys on a freighter).",
+        "When Falcon flips to the vehicle side, any Devices or Effects (of any kind) which use a clause of their deployment text to deploy on and/or target the Falcon as a starship, are lost unless that same deployment clause can also target vehicles. Do not recheck any other deployment conditions.",
+        "Similar logic to the above two rulings applies when flipping Falcon to the starship side (i.e. lose vehicle weapons, lose any Devices or Effects of any kind unless the deployment clause can also target a starship).",
+        "Flipping from starship to vehicle causes attached Mynocks to detach."
       ],
       "set": "204",
       "side": "Light"
@@ -53863,6 +53925,9 @@
         }
       ],
       "rarity": "R",
+      "rulings": [
+        "In order for Luke to be transferred from an Imperial to Vader, all 3 characters (Luke, Imperial, Vader) must be able to move. For example if Vader is affected by Clash Of Sabers, Luke may not be transferred to Vader."
+      ],
       "set": "9",
       "side": "Light"
     },
@@ -54278,7 +54343,7 @@
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual7-Light/large/thisismyship.gif",
         "subType": "Used Or Lost",
-        "title": "•This is MY Ship!",
+        "title": "•This Is MY Ship!",
         "type": "Interrupt",
         "uniqueness": "*"
       },
@@ -54443,7 +54508,7 @@
           "Episode I",
           "Tatooine"
         ],
-        "imageUrl": "https://res.starwarsccg.org/cards/Tatooine-Light/large/threepiowithhispartsshowingai.gif",
+        "imageUrl": "https://res.starwarsccg.org/cards/Tatooine-Light/large/threepiowithhispartsshowing_ai.gif",
         "lore": "Protocol droid designed by Anakin in order to help his mother. C-3PO was not to be sold when Anakin left with Qui-Gon Jinn for Coruscant.",
         "power": "1",
         "subType": "Droid",
@@ -54495,6 +54560,10 @@
         }
       ],
       "rarity": "R",
+      "rulings": [
+        "Players may <u>not</u> look through the Reserve Deck to see where the cards are. A judge may be requested to count the Reserve Deck.",
+        "Player may activate Force 1 at a time, look at the top card of Reserve Deck, and stop activating based on what they see."
+      ],
       "set": "4",
       "side": "Light"
     },
@@ -54571,39 +54640,6 @@
       ],
       "rarity": "C",
       "set": "12",
-      "side": "Light"
-    },
-    {
-      "counterpart": "Drop! (V)",
-      "front": {
-        "destiny": "3",
-        "gametext": "Deploy on table. While no card stacked here, may stack opponent's just-played Interrupt here. Opponent may use 3 Force to place an Interrupt here in Used Pile. Once per turn, unless your protocol droid on table, may place a card from hand on bottom of Used Pile. (Immune to Alter.)",
-        "icons": [
-          "Grabber",
-          "Episode I",
-          "Coruscant",
-          "Set 3"
-        ],
-        "imageUrl": "https://res.starwarsccg.org/cards/Virtual3-Light/large/thrownback.gif",
-        "lore": "Being sent to dispose of two Jedi is the battle droid equivalent of a really bad day at the office.",
-        "title": "•Thrown Back (V)",
-        "type": "Effect",
-        "uniqueness": "*"
-      },
-      "gempId": "203_16",
-      "id": 5048,
-      "legacy": false,
-      "printings": [
-        {
-          "set": "203"
-        }
-      ],
-      "pulledBy": [
-        "The Signal",
-        "We Wish To Board At Once"
-      ],
-      "rarity": "C",
-      "set": "203",
       "side": "Light"
     },
     {
@@ -57983,8 +58019,7 @@
       "pulls": [
         "Chewbacca",
         "Chewbacca Of Kashyyyk",
-        "Chewbacca",
-        "Protector",
+        "Chewbacca, Protector",
         "Chewie",
         "Chewie (V)",
         "Chewie With Blaster Rifle"
@@ -59397,6 +59432,9 @@
         "Sense & Recoil In Fear"
       ],
       "rarity": "PM",
+      "rulings": [
+        "If a card has multiple sources of immunity to attrition (such as their own game text in addition to Yoda, MOTF), the highest immunity is used."
+      ],
       "set": "13",
       "side": "Light"
     },
@@ -59464,7 +59502,7 @@
           "Episode I",
           "Coruscant"
         ],
-        "imageUrl": "https://res.starwarsccg.org/cards/Coruscant-Light/large/yodaseniorcouncilmemberai.gif",
+        "imageUrl": "https://res.starwarsccg.org/cards/Coruscant-Light/large/yodaseniorcouncilmember_ai.gif",
         "lore": "Senior Jedi Council member. Responsible for the early training of Obi-Wan Kenobi. When Qui-Gon brought Anakin before the Council, Yoda voted not to train the boy.",
         "power": "3",
         "subType": "Jedi Master",
@@ -61121,8 +61159,9 @@
       ],
       "rarity": "R2",
       "rulings": [
+        "When this card's text places itself out of play, this Kessel Run is 'completed' (e.g. for purposes of Captain Lando Calrissian, Leebo, etc).",
         "If Light exhausts their Reserve Deck stacking destinies but the total is still not > 12, all of the following apply:<ul><li>All of the <u>stacked</u> destiny cards are returned to Reserve Deck in their original order.</li><li>Any destiny cards that were not stacked (e.g. taken into hand, lost, etc) are not returned.</li><li>This Kessel Run (V) card returns to the owner's hand.</li><li>Kessel Run (V) may not attempt deployment again this turn.</li></ul>",
-        "When this card's text places itself out of play, this Kessel Run is 'completed' (e.g. for purposes of Captain Lando Calrissian, Leebo, etc)."
+        "If Light attempts to deploy this with an empty Reserve Deck, it will return to Light's hand and it may not attempt deployment again this turn."
       ],
       "set": "213",
       "side": "Light"
@@ -61793,7 +61832,8 @@
         "Can be played as a response to the attempted deployment of an Effect, Political Effect, or Utinni Effect. If successful, the target has no result.",
         "'Immune to opponent's Objective' only works while initiating/playing it.",
         "It is protected from (for example) both sides of Hunt Down And Destroy The Jedi.",
-        "It is not protected from (for example) In Complete Control or I Will Make It Legal."
+        "It is not protected from (for example) In Complete Control or I Will Make It Legal.",
+        "'Immune to opponent's Objective' does <u>not</u> permit Alter to target Scum And Villainy against the 7-side of Carbon Chamber Testing."
       ],
       "set": "214",
       "side": "Light"
@@ -62347,7 +62387,7 @@
       ],
       "rarity": "C",
       "rulings": [
-        "If chosen as a Resistance Agent via I Want That Map, Han does not become a Resistance character.",
+        "When started frozen (inactive) by Profit, Light does <u>not</u> reveal top two cards of Reserve Deck and take one into hand.",
         "Destiny to total power is drawn before battle destiny."
       ],
       "set": "215",
@@ -65557,7 +65597,8 @@
       ],
       "rarity": "U",
       "rulings": [
-        "Second function: If opponent is retrieving multiple Force, this may be played after any individual unit of Force retrieval (e.g. opponent is retrieving 2 with Scum And Villainy, may play this after the first Force is retrieved)."
+        "2nd function: If opponent is retrieving multiple Force, this may be played after any individual unit of Force retrieval (e.g. opponent is retrieving 2 with Scum And Villainy, may play this after the first Force is retrieved).",
+        "3rd function: As the text does not specify otherwise, this may even cancel an epic duel."
       ],
       "set": "218",
       "side": "Light"
@@ -65863,6 +65904,7 @@
       ],
       "rarity": "PM",
       "rulings": [
+        "A character excluded from battle such as (Darth Vader affected by Imperial Barrier) is inactive and does not count as a character of ability > 3 for Master Luke (V).",
         "If opponent completes a battle destiny draw and Luke resets the total to 0, opponent may increase attrition (e.g. +1 with Bossk or add a destiny to attrition with Ponda Baba (V)).",
         "If opponent did not complete any battle destiny draws, there is no total for Luke to reset to 0, and opponent cannot increase attrition.",
         "Can only deploy a lightsaber from Lost Pile that is normally allowed to deploy on him (e.g. not Obi-Wan's Lightsaber)."
@@ -65902,6 +65944,7 @@
       ],
       "rarity": "PM",
       "rulings": [
+        "If the site is no longer a battleground (e.g. because Presence Of The Force is canceled), this Effect remains and still functions normally.",
         "Third sentence means to ignore any such modifiers on opponent's cards (those cards may be played normally).",
         "May not place the combo card Ghhhk & Those Rebels Won't Escape Us out of play.",
         "May not be deployed if the Ounee Ta Defensive Shield is on table. Likewise, Ounee Ta Defensive Shield may not be played if this Effect is on table.",
@@ -66568,7 +66611,7 @@
       "front": {
         "darkSideIcons": 1,
         "destiny": "0",
-        "gametext": "Light: Ezra and Kanan deploy -1 here. Unless you occupy, Vader may not deploy here and opponent's characters, vehicles, and starships deploy and move to here for +3 Force. Dark: ",
+        "gametext": "Light: Ezra and Kanan deploy -1 here. Unless you occupy, Vader may not deploy here and opponent's characters, vehicles, and starships deploy and move to here for +2 Force. Dark: ",
         "icons": [
           "Exterior",
           "Planet",
@@ -66591,8 +66634,8 @@
       ],
       "rarity": "U1",
       "rulings": [
-        "For Dark to transport a group of characters here with Elis Helrot, Dark must use +3 Force (not +3 per character).",
-        "EPP Mara could move here for free (Free + 3 = Free).",
+        "For Dark to transport a group of characters here with Elis Helrot, Dark must use +2 Force (not +2 per character).",
+        "EPP Mara could move here for free (Free + 2 = Free).",
         "This site is always placed at a far end. If a Lothal interior site (Imperial Complex) is on table, Jedi Temple goes at the other end."
       ],
       "set": "219",
@@ -66699,7 +66742,7 @@
       ],
       "front": {
         "destiny": "4",
-        "gametext": "If Lothal on table, deploy on table. Your Phoenix Squadron characters are deploy -1. Once per turn, may deploy Malachor, Mandalore, or Seelos (or Chopper, Wedge, Zeb, or an A-wing to a Lothal location) from Reserve Deck; reshuffle. [Immune to Alter.]",
+        "gametext": "If Lothal on table, deploy on table. Chopper, Sabine, and Zeb are deploy -1. Once per turn, may deploy Malachor, Mandalore, or Seelos (or Chopper, Wedge, Zeb, or an A-wing to a Lothal location) from Reserve Deck; reshuffle. [Immune to Alter.]",
         "icons": [
           "Set 19"
         ],
@@ -66718,6 +66761,10 @@
         }
       ],
       "rarity": "C",
+      "rulings": [
+        "When deploying an unpiloted A-wing (e.g. Green Squadron 1 or 3) from Reserve Deck, it may be deployed simultaneously with a pilot from hand.",
+        "When deploying a pilot (e.g. Wedge) from Reserve Deck, it may <u>not</u> be deployed simultaneously with a starship from hand."
+      ],
       "set": "219",
       "side": "Light"
     },
@@ -66852,7 +66899,7 @@
       ],
       "back": {
         "destiny": "7",
-        "gametext": "Zero Hour: Deploy Lothal system and a Lothal site. For remainder of game, Menace Fades and Projection Of A Skywalker are canceled. Jedi (except Ahsoka and Kanan), Resistance characters, and [Resistance] starships are deploy +1. Chopper, Ezra, Hera, Kanan, Sabine, and Zeb gain Phoenix Squadron. Once per turn, may deploy a Lothal site from Reserve Deck; reshuffle. Flip this card if Rebels control three Lothal locations (or you occupy three Lothal locations with Phoenix Squadron characters) and opponent controls no Lothal locations. Liberation Of Lothal: While this side up, if you Force drained at a battleground this turn, your other Force drains at battlegrounds are +1. Once per turn, may add or subtract X from a just drawn battle destiny (or opponent's weapon destiny), where X = number of battlegrounds you occupy with Phoenix Squadron characters. At Lothal system, the number of battle destiny draws may not be limited for either player. Flip this card if opponent controls more Lothal locations than you.",
+        "gametext": "Zero Hour: Deploy Lothal system and a Lothal site. For remainder of game, Menace Fades and Projection Of A Skywalker are canceled. Jedi (except Ahsoka and Kanan), Resistance characters, and [Resistance] starships are deploy +1. Chopper, Ezra, Hera, Kanan, Sabine, and Zeb gain Phoenix Squadron. Once per turn, may deploy a Lothal site from Reserve Deck; reshuffle. Flip this card if Rebels control three Lothal locations (or you occupy three Lothal locations with Phoenix Squadron characters) and opponent controls no Lothal locations. Liberation Of Lothal: While this side up, if you Force drained at a battleground this turn, your other Force drains at battlegrounds are +1. Once per turn during battle, may add or subtract X from a just drawn battle destiny (or opponent's weapon destiny), where X = number of battlegrounds you occupy with Phoenix Squadron characters. At Lothal system, the number of battle destiny draws may not be limited for either player. Flip this card if opponent controls more Lothal locations than you.",
         "icons": [
           "Set 19"
         ],
@@ -66862,7 +66909,7 @@
       },
       "front": {
         "destiny": "0",
-        "gametext": "Zero Hour: Deploy Lothal system and a Lothal site. For remainder of game, Menace Fades and Projection Of A Skywalker are canceled. Jedi (except Ahsoka and Kanan), Resistance characters, and [Resistance] starships are deploy +1. Chopper, Ezra, Hera, Kanan, Sabine, and Zeb gain Phoenix Squadron. Once per turn, may deploy a Lothal site from Reserve Deck; reshuffle. Flip this card if Rebels control three Lothal locations (or you occupy three Lothal locations with Phoenix Squadron characters) and opponent controls no Lothal locations. Liberation Of Lothal: While this side up, if you Force drained at a battleground this turn, your other Force drains at battlegrounds are +1. Once per turn, may add or subtract X from a just drawn battle destiny (or opponent's weapon destiny), where X = number of battlegrounds you occupy with Phoenix Squadron characters. At Lothal system, the number of battle destiny draws may not be limited for either player. Flip this card if opponent controls more Lothal locations than you.",
+        "gametext": "Zero Hour: Deploy Lothal system and a Lothal site. For remainder of game, Menace Fades and Projection Of A Skywalker are canceled. Jedi (except Ahsoka and Kanan), Resistance characters, and [Resistance] starships are deploy +1. Chopper, Ezra, Hera, Kanan, Sabine, and Zeb gain Phoenix Squadron. Once per turn, may deploy a Lothal site from Reserve Deck; reshuffle. Flip this card if Rebels control three Lothal locations (or you occupy three Lothal locations with Phoenix Squadron characters) and opponent controls no Lothal locations. Liberation Of Lothal: While this side up, if you Force drained at a battleground this turn, your other Force drains at battlegrounds are +1. Once per turn during battle, may add or subtract X from a just drawn battle destiny (or opponent's weapon destiny), where X = number of battlegrounds you occupy with Phoenix Squadron characters. At Lothal system, the number of battle destiny draws may not be limited for either player. Flip this card if opponent controls more Lothal locations than you.",
         "icons": [
           "Set 19"
         ],
