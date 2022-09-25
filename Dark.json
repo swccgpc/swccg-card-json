@@ -9683,6 +9683,7 @@
       "front": {
         "darkSideIcons": 1,
         "destiny": "0",
+        "errataVersion": "E1",
         "gametext": "Dark:  Force drain +1 here. Your aliens are deploy -1 and power +1 here.  Light:  Force drain +1 here.",
         "icons": [
           "Exterior",
@@ -17938,6 +17939,7 @@
       "counterpart": "Thrown Back",
       "front": {
         "destiny": "3",
+        "errataVersion": "E1",
         "gametext": "Use 3 Force to deploy on table. During your move phase, if opponent has 13 or more cards in hand, you may use 4 Force to place all but 8 (random choice) in Used Pile. Once during any control phase, you may place up to three cards from hand in Used Pile.",
         "icons": [
           "Episode I",
@@ -23188,6 +23190,7 @@
         ],
         "deploy": "4",
         "destiny": "1",
+        "errataVersion": "E1",
         "extraText": [
           "Force-Sensitive"
         ],
@@ -24278,6 +24281,7 @@
         ],
         "deploy": "3",
         "destiny": "2",
+        "errataVersion": "E1",
         "forfeit": "5",
         "gametext": "Draws one battle destiny in not able to otherwise. While at Audience Chamber (or stacked on your Objective), your other Weequays are deploy -1, power +1, and forfeit +2. Once per game, may deploy Aurra Sing, Slave I, or a Kowakian from Reserve Deck; reshuffle.",
         "icons": [
@@ -42683,6 +42687,7 @@
         ],
         "deploy": "6",
         "destiny": "1",
+        "errataVersion": "E1",
         "forfeit": "5",
         "gametext": "Deploys -1 for each other Sith character here (limit - 4). Once per game, may exchange a card in hand with a Sith character in Lost Pile. Immune to attrition < 3.",
         "icons": [
@@ -58836,6 +58841,7 @@
       },
       "front": {
         "destiny": "0",
+        "errataVersion": "E1",
         "gametext": "Shadow Collective: Deploy Maul's Chambers. If Massassi Throne Room on table, may deploy [Set 13] Maul to Maul's Chambers. {For} remainder of game, you may not deploy cards with ability (or [Episode I] droids) except characters with 'Black Sun,' 'Crimson Dawn,' or 'Hutt' in lore, assassins, gangsters, [Episode I] bounty hunters, and [Independent] starships. Once per turn, may deploy a non-unique blaster (or a card with 'First Light' in title) from Reserve Deck; reshuffle. {Flip} this card if you just 'hit' a character (or during your battle phase if your gangsters control two battlegrounds). You Know Who I Answer To: {May immediately} re-circulate and shuffle your Reserve Deck. {While} this side up, if your gangster leader in battle at same site as your non-unique blaster, may add one destiny to total power. During your draw phase, if Maul alone, may peek at the cards in your Force Pile. {Flip} this card at end of turn. If you are about to flip this card and you occupy three battlegrounds, opponent loses 1 Force.",
         "icons": [
           "Set 13"
@@ -59247,6 +59253,7 @@
         "armor": "6",
         "deploy": "7",
         "destiny": "1",
+        "errataVersion": "E1",
         "forfeit": "8",
         "gametext": "May add 6 pilots, 8 passengers, and 2 starfighters. Permanent pilot provides ability of 2. While alone at a battleground, adds Force icons to equalize them for both sides here. Immune to attrition < 4.",
         "hyperspeed": "3",
@@ -60377,6 +60384,7 @@
           0.5,
           5.5
         ],
+        "errataVersion": "E1",
         "extraText": [
           "Astromech Droid"
         ],
@@ -61307,6 +61315,7 @@
       ],
       "front": {
         "destiny": "4",
+        "errataVersion": "E1",
         "gametext": "Deploy on table. If Revenge Of The Sith on table, your Sidious may be targeted by Force Lightning and Lord Sidious may use his game text as if alone. Once per game, if Sidious with a Dark Jedi, may retrieve a character into hand. [Immune to Alter.]",
         "icons": [
           "Episode I",
