@@ -429,6 +429,7 @@
           "rifle"
         ],
         "destiny": "2",
+        "errataVersion": "E1",
         "gametext": "Use 4 Force to deploy on your warrior, free on 4-LOM. May target a character or creature for free at same site or exterior site up to 2 sites away. Draw destiny. Add 1 if Blaster Scope attached. If total destiny - distance to target > defense value, target hit.",
         "icons": [
           "Dagobah"
@@ -472,6 +473,7 @@
         ],
         "deploy": "4",
         "destiny": "2",
+        "errataVersion": "E1",
         "extraText": [
           "Servant Droid"
         ],
@@ -637,6 +639,7 @@
       "counterpart": "They're Tracking Us (V)",
       "front": {
         "destiny": "4",
+        "errataVersion": "E1",
         "gametext": "If opponent's starting location was Massassi Throne Room, opponent loses 1 Force when you play this Interrupt. Add or subtract 1 from opponent's just drawn destiny. OR Activate 1 Force. OR Until end of turn, battle destiny draws may not be canceled (unless being redrawn) or modified.",
         "icons": [
           "Set 1"
@@ -733,6 +736,7 @@
       "counterpart": "A Tremor In The Force",
       "front": {
         "destiny": "3",
+        "errataVersion": "E1",
         "gametext": "Once per game, during your deploy phase, 'insert' (face down) into opponent's Reserve Deck; reshuffle. When effect reaches top it is immediately lost, but opponent may not activate any more Force that turn. (Immune to Alter.)",
         "imageUrl": "https://res.starwarsccg.org/cards/Premiere-Dark/large/adisturbanceintheforce.gif",
         "lore": "The destruction of Alderaan caused a great disturbance in the Force '...as if millions of voices suddenly cried out in terror and were suddenly silenced.'",
@@ -1047,6 +1051,7 @@
       "counterpart": "Civil Disorder",
       "front": {
         "destiny": "3",
+        "errataVersion": "E1",
         "gametext": "Deploy on opponent's side of table. At the end of opponent's deploy phase, if they did not deploy a card with ability, opponent loses 2 Force. Effect lost if opponent has more cards with ability on table than you. (Immune to Alter.)",
         "icons": [
           "Cloud City"
@@ -1425,6 +1430,7 @@
         ],
         "deploy": "3",
         "destiny": "1",
+        "errataVersion": "E1",
         "extraText": [
           "Force-Attuned"
         ],
@@ -1528,6 +1534,7 @@
         ],
         "deploy": "0",
         "destiny": "0",
+        "errataVersion": "E1",
         "forfeit": "4",
         "gametext": "Adds 2 to the power of anything he pilots. Subtracts 1 from deploy cost of each of your capital starships at same system. Lost if Vader on table and opponent 'reacts' to same location as Ozzel.",
         "icons": [
@@ -1643,6 +1650,7 @@
         ],
         "deploy": "3",
         "destiny": "2",
+        "errataVersion": "E1",
         "forfeit": "2",
         "gametext": "Adds 2 to power of anything he pilots. Whenever you deploy a weapon or device from hand at same location, activate 1 Force as a 'kickback.' Limit of one Advosze per location.",
         "icons": [
@@ -2109,6 +2117,7 @@
       ],
       "front": {
         "destiny": "5",
+        "errataVersion": "E1",
         "gametext": "If an opponent's character at the Carbonite Chamber was just 'hit' by a lightsaber, deploy on that character. Character is instead immediately captured and 'frozen.' If captive released, lose Immediate Effect. (Immune to Control.)",
         "icons": [
           "Cloud City"
@@ -2142,6 +2151,7 @@
     {
       "front": {
         "destiny": "2",
+        "errataVersion": "E1",
         "gametext": "Deploy on your side of table. We Have A Prisoner and Oo-ta Goo-ta, Solo? play for free and are immune to Sense. If opponent's character is about to be forfeited, your bounty hunter present may capture that character (character is first restored to normal). (Immune to Alter.)",
         "icons": [
           "Jabba's Palace"
@@ -2697,6 +2707,7 @@
           "laser cannon"
         ],
         "destiny": "4",
+        "errataVersion": "E1",
         "gametext": "Use 3 Force to deploy on your transport vehicle. If your warrior aboard here, may target a character or creature using 3 Force. Draw destiny. Target hit if destiny +2 > defense value. May fire repeatedly for 2 Force each time.",
         "icons": [
           "Jabba's Palace"
@@ -2999,6 +3010,7 @@
         ],
         "deploy": "5",
         "destiny": "1",
+        "errataVersion": "E1",
         "extraText": [
           "Force-Sensitive"
         ],
@@ -3248,6 +3260,7 @@
           "rifle"
         ],
         "destiny": "2",
+        "errataVersion": "E1",
         "gametext": "Use 3 Force to deploy on your warrior. May target a character, creature or vehicle at same or adjacent site using 2 Force. Draw destiny. Target hit if destiny +1 > defense value.",
         "imageUrl": "https://res.starwarsccg.org/cards/Premiere-Dark/large/assaultrifle.gif",
         "lore": "BlasTech model DLT-19 'heavy blaster rifle.' Enhanced with extra power packs and greater range.",
@@ -3307,6 +3320,7 @@
       ],
       "front": {
         "destiny": "3",
+        "errataVersion": "E1",
         "gametext": "Use 3 Force to deploy on opponent's side of table. All opponent's starships with a [Nav Computer] icon are deploy +1.",
         "icons": [
           "A New Hope"
@@ -3371,6 +3385,7 @@
           "laser cannon"
         ],
         "destiny": "3",
+        "errataVersion": "E1",
         "gametext": "Use 2 Force to deploy on your AT-AT. May target a starfighter (use 3 as defense value), character, creature or vehicle at same or adjacent site using 2 Force. Draw destiny. Add 1 if targeting a character or creature, 2 if a vehicle. Target hit if total destiny > defense value.",
         "icons": [
           "Hoth"
@@ -3500,6 +3515,7 @@
       ],
       "front": {
         "destiny": "5",
+        "errataVersion": "E1",
         "gametext": "If you just initiated a battle at a Cloud City sector, add one battle destiny. OR During your deploy phase, deploy one TIE Assault Squadron for free (no replacement is necessary).",
         "icons": [
           "Cloud City"
@@ -3624,6 +3640,7 @@
           "rifle"
         ],
         "destiny": "7",
+        "errataVersion": "E1",
         "gametext": "Deploy on Aurra Sing. May target a character or creature for free. Target loses all immunity to attrition for remainder of turn. Draw destiny. Target hit if destiny +1 > defense value. Jedi hit by Aurra Sing are power = 0 for remainder of battle.",
         "icons": [
           "Episode I",
@@ -3909,6 +3926,7 @@
       "counterpart": "Ellorrs Madak",
       "front": {
         "destiny": "5",
+        "errataVersion": "E1",
         "gametext": "Deploy on your non-pilot character (except droids) to give that character [Pilot] skill.  Adds 2 to power of anything that character pilots. OR Deploy on your pilot. Adds 1 to power of anything that character pilots. (Immune to Alter.)",
         "imageUrl": "https://res.starwarsccg.org/cards/Premiere-Dark/large/banisskeeg.gif",
         "lore": "Duros are famous spacers and starship engineers. Many are forced to work for the Empire. Some, like Baniss Keeg, train pilots for deep space missions.",
@@ -4069,6 +4087,7 @@
     {
       "front": {
         "destiny": "4",
+        "errataVersion": "E1",
         "gametext": "Deploy on an exterior Tatooine site. Specify starting location. During your control phase, moves to next adjacent site (reversing direction as necessary). During battle here, if your tusken raider or bantha here may add one battle destiny.",
         "icons": [
           "Special Edition"
@@ -4101,6 +4120,7 @@
         "ability": "1",
         "deploy": "5",
         "destiny": "2",
+        "errataVersion": "E1",
         "forfeit": "3",
         "gametext": "Deploys only to a Jabba's Palace site. Power = 0 at any location other than a Tatooine site. Power +2 at any Jabba's Palace site while Jabba is on the table. Your transport vehicles lost from same site may go to your Used Pile rather than your Lost Pile.",
         "icons": [
@@ -4525,6 +4545,7 @@
         ],
         "deploy": "*",
         "destiny": "3",
+        "errataVersion": "E1",
         "forfeit": "2",
         "gametext": "* Replaces any male Rodian for free (Rodian goes to the Used Pile) or deploys for 3 Force. While at Audience Chamber, all your Rodians are power +2, and whenever Greedo threatens a smuggler, may add 2 to destiny draw.",
         "icons": [
@@ -4635,6 +4656,7 @@
       ],
       "front": {
         "destiny": "5",
+        "errataVersion": "E1",
         "gametext": "Deploy on a captured starship. Your characters present with captured starship may battle opponent's characters aboard it (as if present together at a site). Effect canceled if starship escapes or is stolen.",
         "icons": [
           "A New Hope"
@@ -4706,6 +4728,7 @@
         ],
         "deploy": "2",
         "destiny": "2",
+        "errataVersion": "E1",
         "forfeit": "4",
         "gametext": "May add 3 passengers.  Permanent pilot provides ability of 1. May move as a 'react.'  *Landspeed = 3.  OR  Up to 3 characters may shuttle to or from same site for free.",
         "icons": [
@@ -5093,6 +5116,7 @@
         ],
         "deploy": "1",
         "destiny": "2",
+        "errataVersion": "E1",
         "extraText": [
           "No Hyperdrive"
         ],
@@ -5260,6 +5284,7 @@
         ],
         "deploy": "2",
         "destiny": "2",
+        "errataVersion": "E1",
         "extraText": [
           "No Hyperdrive"
         ],
@@ -5391,6 +5416,7 @@
         ],
         "deploy": "4",
         "destiny": "2",
+        "errataVersion": "E1",
         "extraText": [
           "No Hyperdrive"
         ],
@@ -5524,6 +5550,7 @@
       ],
       "front": {
         "destiny": "3",
+        "errataVersion": "E1",
         "gametext": "During your control phase, fire (for free) one of your blasters carried by a trooper or one of your automated weapons. Any hit targets are immediately lost.",
         "icons": [
           "Cloud City"
@@ -5553,6 +5580,7 @@
     {
       "front": {
         "destiny": "3",
+        "errataVersion": "E1",
         "gametext": "Deploy on your side of table. At any time, you may transfer one of your character weapons from any site to the Blaster Rack. During your deploy phase, weapon may be transferred to your character on table for an expenditure of Force equal to the weapon's deploy cost.",
         "imageUrl": "https://res.starwarsccg.org/cards/Premiere-Dark/large/blasterrack.gif",
         "lore": "Imperial facilities like the Death Star and garrison bases have blaster racks at key locations to equip soldiers with weapons like blaster rifles and thermal detonators.",
@@ -5583,6 +5611,7 @@
       "counterpart": "Sai'torr Kal Fas (V)",
       "front": {
         "destiny": "3",
+        "errataVersion": "E1",
         "gametext": "Deploy on table. Once per turn, may deploy a matching weapon on your unique (•) character present at a site from Reserve Deck; reshuffle. (Immune to Alter.)",
         "icons": [
           "Set 0"
@@ -5623,6 +5652,7 @@
           "rifle"
         ],
         "destiny": "3",
+        "errataVersion": "E1",
         "gametext": "Use 2 Force to deploy on your warrior. May target a character, creature or vehicle using 2 Force. Draw destiny. Target hit if destiny +1 > defense value.",
         "imageUrl": "https://res.starwarsccg.org/cards/Premiere-Dark/large/blasterrifle.gif",
         "lore": "Stormtrooper BlasTech E-11 blaster rifle. Can convert from a pistol to a rifle configuration by using extendable stock. Carries 100 shots. Military issue only.",
@@ -5692,6 +5722,7 @@
       ],
       "front": {
         "destiny": "4",
+        "errataVersion": "E1",
         "gametext": "Deploy on [Dagobah] 4-LOM's Concussion Rifle or on your blaster weapon card. Allows that weapon to target at an adjacent site.",
         "imageUrl": "https://res.starwarsccg.org/cards/Premiere-Dark/large/blasterscope.gif",
         "lore": "The effectiveness of a blaster can sometimes be enhanced through an electronic targeting scope mounted on top, especially for long range targets.",
@@ -5724,6 +5755,7 @@
         ],
         "deploy": "6",
         "destiny": "2",
+        "errataVersion": "E1",
         "forfeit": "7",
         "gametext": "May add 2 pilots and 8 passengers. Immune to attrition < 4. When using AT-AT cannon to Target The Main Generator, adds 1 to total. Landspeed may not be increased.",
         "icons": [
@@ -5771,6 +5803,7 @@
         ],
         "deploy": "6",
         "destiny": "2",
+        "errataVersion": "E1",
         "forfeit": "6",
         "gametext": "May add 1 pilot and 8 passengers. Immune to attrition < 4. Permanent pilot aboard provides ability of 2. Landspeed may not be increased.",
         "icons": [
@@ -6018,6 +6051,7 @@
         ],
         "deploy": "3",
         "destiny": "4",
+        "errataVersion": "E1",
         "forfeit": "5",
         "gametext": "May add 1 pilot or passenger. May move as a 'react.' Power +1 at any Hoth site. Permanent pilot provides ability of 1.",
         "icons": [
@@ -6110,6 +6144,7 @@
         ],
         "deploy": "6",
         "destiny": "1",
+        "errataVersion": "E1",
         "forfeit": "6",
         "gametext": "May add 2 pilots and 8 passengers. Immune to attrition < 4. Landspeed may not be increased.",
         "icons": [
@@ -6286,6 +6321,7 @@
       "front": {
         "darkSideIcons": 1,
         "destiny": "0",
+        "errataVersion": "E1",
         "gametext": "Dark:  If you occupy, Force generation +1 here, and opponent's characters may not move from here.  Light:  Your Jedi deploy +2 here.",
         "icons": [
           "Interior",
@@ -6805,6 +6841,7 @@
           "rifle"
         ],
         "destiny": "1",
+        "errataVersion": "E1",
         "gametext": "Use 1 Force to deploy on Boba Fett, or 3 on your other bounty hunter. May deploy as a 'react.' May target a character, creature or vehicle using 2 Force. Draw destiny. Add 1 if targeting a vehicle. Target hit if total destiny > defense value. May fire repeatedly for 1 Force each time.",
         "icons": [
           "Cloud City"
@@ -6929,6 +6966,7 @@
         ],
         "deploy": "2",
         "destiny": "5",
+        "errataVersion": "E1",
         "extraText": [
           "FLIGHT: 2"
         ],
@@ -7057,6 +7095,7 @@
           "cannon"
         ],
         "destiny": "4",
+        "errataVersion": "E1",
         "gametext": "Use 1 Force to deploy on your TIE Advanced x1. May target a starship using 1 Force. Draw destiny. Subtract 1 if targeting a capital starship. Add 1 if targeting a starfighter. Target hit if total destiny > defense value.",
         "imageUrl": "https://res.starwarsccg.org/cards/Premiere-Dark/large/boostedtiecannon.gif",
         "lore": "Enhanced TIE blaster cannon prototype. Greater range and power. Improved targeting software. Requires more powerful energy cells. Tested by elite TIE squadrons.",
@@ -7129,6 +7168,7 @@
         ],
         "deploy": "4",
         "destiny": "1",
+        "errataVersion": "E1",
         "forfeit": "3",
         "gametext": "Adds 2 to power of anything he pilots. When piloting Hound's Tooth, draws one battle destiny if not able to otherwise. Adds 1 to attrition against opponent in battles at same site. While present, may reduce Chewie's forfeit to zero while here.",
         "icons": [
@@ -7393,6 +7433,7 @@
       ],
       "front": {
         "destiny": "4",
+        "errataVersion": "E1",
         "gametext": "Deploy on an opponent's non-droid character. If subsequently captured, seized by a bounty hunter and then transferred to a prison, retrieve Force equal to character's forfeit -2 and place Effect in Used Pile. (Immune to Alter.)",
         "icons": [
           "Cloud City"
@@ -7429,6 +7470,7 @@
       "conceptBy": "(Original concept by Justin Desai)",
       "front": {
         "destiny": "4",
+        "errataVersion": "E1",
         "gametext": "Deploy on table. Once per game, may take Finalizer into hand from Reserve Deck; reshuffle. Once per character, when you deploy Hux, Kylo, Phasma, or Snoke to an [Episode VII] battleground, may take any one card from Used Pile into hand; reshuffle. (Immune to Alter.)",
         "icons": [
           "Episode VII",
@@ -7736,6 +7778,7 @@
     {
       "front": {
         "destiny": "4",
+        "errataVersion": "E1",
         "gametext": "If opponent just initiated a Force drain at a non-shielded planet location, deploy on that location. Your characters, vehicles and starships may deploy here regardless of presence and location deployment restrictions. (Immune to Control.)",
         "icons": [
           "Jabba's Palace"
@@ -8076,6 +8119,7 @@
         ],
         "deploy": "3",
         "destiny": "2",
+        "errataVersion": "E1",
         "forfeit": "3",
         "gametext": "Once during each of your control phases, you may use 2 Force to take one Scanning Crew into hand from Reserve Deck; reshuffle.",
         "icons": [
@@ -8119,6 +8163,7 @@
         ],
         "deploy": "3",
         "destiny": "2",
+        "errataVersion": "E1",
         "forfeit": "5",
         "gametext": "Adds 2 to power of anything he pilots (3 if starship is Tyrant). When on a Star Destroyer, may use its tractor beam once during each of your control phases.",
         "icons": [
@@ -8160,6 +8205,7 @@
         ],
         "deploy": "3",
         "destiny": "1",
+        "errataVersion": "E1",
         "extraText": [
           "Force-Attuned"
         ],
@@ -8207,6 +8253,7 @@
         ],
         "deploy": "3",
         "destiny": "2",
+        "errataVersion": "E1",
         "forfeit": "5",
         "gametext": "Adds 3 to power of anything he pilots. Deploys -1 to Finalizer. While piloting Finalizer, it is immune to attrition <8 (< 10 while with a Resistance character or [Resistance] starship). May be targeted by Imperial Command as an admiral (even if a unit of Force).",
         "icons": [
@@ -8343,6 +8390,7 @@
         "ability": "3",
         "deploy": "3",
         "destiny": "2",
+        "errataVersion": "E1",
         "extraText": [
           "Force-Attuned"
         ],
@@ -8542,6 +8590,7 @@
       ],
       "front": {
         "destiny": "4",
+        "errataVersion": "E1",
         "gametext": "Deploy on Carbonite Chamber. Adds 3 to Carbon-Freezing destiny. Also, once during each of your turns, you may use 1 Force to take one Ugnaught, Prepare The Chamber or Carbon-Freezing into hand from Reserve Deck; reshuffle.",
         "icons": [
           "Cloud City"
@@ -8683,6 +8732,7 @@
         ],
         "deploy": "4",
         "destiny": "2",
+        "errataVersion": "E1",
         "extraText": [
           "Force-Attuned"
         ],
@@ -8778,6 +8828,7 @@
         "ability": "2",
         "deploy": "2",
         "destiny": "2",
+        "errataVersion": "E1",
         "forfeit": "3",
         "gametext": "Adds 2 to power of anything he pilots. Power +1 at same site as Tarkin. If a battle was just initiated at a system where Bast is present with your non-droid character, may 'evacuate' (relocate) both to a related site.",
         "icons": [
@@ -8845,6 +8896,7 @@
         "ability": "2",
         "deploy": "3",
         "destiny": "2",
+        "errataVersion": "E1",
         "forfeit": "3",
         "gametext": "May use 3 Force to 'hide' (be excluded) from a battle. May use 2 Force to target one device or weapon present which deploys on a site. Draw destiny. If destiny > target's deploy cost, target is lost.",
         "icons": [
@@ -9156,6 +9208,7 @@
           "blaster"
         ],
         "destiny": "2",
+        "errataVersion": "E1",
         "gametext": "Use 2 Force to deploy on your warrior at a Cloud City site. May target a character or creature using 2 Force. Draw destiny. Target hit (and may not be used to satisfy attrition) if destiny > defense value.",
         "icons": [
           "Cloud City"
@@ -9393,6 +9446,7 @@
       "front": {
         "darkSideIcons": 2,
         "destiny": "0",
+        "errataVersion": "E1",
         "gametext": "Dark:  If Weather Vane on table, characters 'hit' here are instead immediately relocated there.  Light:  If Weather Vane on table, characters 'hit' here are instead immediately relocated there.",
         "icons": [
           "Interior",
@@ -9629,6 +9683,7 @@
       "front": {
         "darkSideIcons": 1,
         "destiny": "0",
+        "errataVersion": "E1",
         "gametext": "Dark:  Force drain +1 here. Your aliens are deploy -1 and power +1 here.  Light:  Force drain +1 here.",
         "icons": [
           "Exterior",
@@ -9986,6 +10041,7 @@
       "counterpart": "Colo Claw Fish",
       "front": {
         "destiny": "4",
+        "errataVersion": "E1",
         "gametext": "Deploy on table. Cancels Opee Sea Killer. While no card here, you may place a card from hand face-up here. If you just drew weapon or battle destiny, you may exchange it for card here, which then counts as that destiny draw. (Immune to Alter.)",
         "icons": [
           "Episode I",
@@ -10446,6 +10502,7 @@
       ],
       "front": {
         "destiny": "0",
+        "errataVersion": "E1",
         "gametext": "Plays on table. While you occupy a battleground and opponent occupies less than two battlegrounds, cancel: Asteroid Sanctuary, opponent's Force drains at non-battleground locations, and opponent's Force retrieval.",
         "icons": [
           "Defensive Shield",
@@ -10472,6 +10529,7 @@
     {
       "front": {
         "destiny": "4",
+        "errataVersion": "E1",
         "gametext": "Deploy on table. Unless opponent occupies at least two battlegrounds, cancels: Asteroid Sanctuary, opponent's Force drains at non-battleground locations and opponent's Force retrieval. (Immune to Alter if you occupy any battleground.)",
         "icons": [
           "Special Edition"
@@ -10498,6 +10556,7 @@
       "counterpart": "Eject! Eject!",
       "front": {
         "destiny": "4",
+        "errataVersion": "E1",
         "gametext": "Use 1 Force to target a starfighter having one or more permanent pilots. Draw destiny. If destiny > 2, deploy on starfighter to remove all permanent pilots (otherwise, Effect is lost). May add one pilot for each permanent pilot removed. (Immune to Alter.)",
         "icons": [
           "A New Hope"
@@ -10556,6 +10615,7 @@
         "ability": "2",
         "deploy": "3",
         "destiny": "2",
+        "errataVersion": "E1",
         "forfeit": "3",
         "gametext": "Adds 2 to power of anything he pilots, and that starship or vehicle moves for free.",
         "icons": [
@@ -10593,6 +10653,7 @@
         ],
         "deploy": "3",
         "destiny": "2",
+        "errataVersion": "E1",
         "extraText": [
           "Force-Attuned"
         ],
@@ -10707,6 +10768,7 @@
         ],
         "deploy": "2",
         "destiny": "2",
+        "errataVersion": "E1",
         "forfeit": "3",
         "gametext": "Adds 2 to power of anything he pilots. Your shuttling, landing and taking off to or from same location is free. During your control phase, may take one Lambda shuttle or Landing Craft into hand from Reserve Deck; reshuffle.",
         "icons": [
@@ -10920,6 +10982,7 @@
         ],
         "deploy": "2",
         "destiny": "2",
+        "errataVersion": "E1",
         "forfeit": "3",
         "gametext": "Adds 1 to power and maneuver of anything he pilots. Opponent may not 'react' to or from same location.",
         "icons": [
@@ -11019,6 +11082,7 @@
         ],
         "deploy": "2",
         "destiny": "2",
+        "errataVersion": "E1",
         "forfeit": "3",
         "gametext": "Adds 2 to power of anything he pilots. When piloting Devastator, also adds 1 to hyperspeed. Where present, cancels game text of C-3PO or R2-D2.",
         "icons": [
@@ -11207,6 +11271,7 @@
     {
       "front": {
         "destiny": "5",
+        "errataVersion": "E1",
         "gametext": "Deploy on table. Once during your deploy phase, you may deploy a non-Interrupt card with 'door' in title from your Reserve Deck; reshuffle. At Endor sites where you have a scout, Rebel scouts are power -1 and forfeit -3. (Immune to Alter.)",
         "icons": [
           "Reflections 3"
@@ -11252,6 +11317,7 @@
         ],
         "deploy": "8",
         "destiny": "1",
+        "errataVersion": "E1",
         "forfeit": "9",
         "gametext": "May add 6 pilots, 8 passengers, 2 vehicles and 4 TIEs. Has ship-docking capability. Permanent pilot provides ability of 1. Just after initiating battle against Falcon, may peek at opponent's hand.",
         "hyperspeed": "3",
@@ -12362,6 +12428,7 @@
       "front": {
         "darkSideIcons": 2,
         "destiny": "0",
+        "errataVersion": "E1",
         "gametext": "Dark:  Emperor deploys free here. If your moff here, all Imperials are deploy -1 at sites.  Light:  Force drain +1 here. If you control, Emperor may not deploy to Coruscant.",
         "icons": [
           "Exterior",
@@ -12669,6 +12736,7 @@
     {
       "front": {
         "destiny": "4",
+        "errataVersion": "E1",
         "gametext": "If you have a piloted AT-AT present at a site, target opponent's non-creature vehicle present at same or adjacent exterior site. Draw destiny. If AT-AT has a vehicle weapon, add 1 to destiny draw. Target 'crashes' if total destiny > 3.",
         "icons": [
           "Hoth"
@@ -12827,6 +12895,7 @@
       "front": {
         "darkSideIcons": 2,
         "destiny": "0",
+        "errataVersion": "E1",
         "gametext": "Dark:  If you occupy, opponent may not Force drain at related locations.  Light:  Neither player may Force drain here.",
         "icons": [
           "Planet",
@@ -12893,6 +12962,7 @@
         ],
         "deploy": "4",
         "destiny": "2",
+        "errataVersion": "E1",
         "extraText": [
           "Force-Attuned"
         ],
@@ -12930,6 +13000,7 @@
       "front": {
         "darkSideIcons": 1,
         "destiny": "0",
+        "errataVersion": "E1",
         "gametext": "Dark:  Your starships may move here as a 'react'.  Light:  (none)",
         "icons": [
           "Planet"
@@ -13004,6 +13075,7 @@
         ],
         "deploy": "2",
         "destiny": "3",
+        "errataVersion": "E1",
         "forfeit": "3",
         "gametext": "Adds 3 to power of anything he pilots. Adds 1 to weapon destiny draws of anything he is aboard as a passenger.",
         "icons": [
@@ -13140,6 +13212,7 @@
     {
       "front": {
         "destiny": "4",
+        "errataVersion": "E1",
         "gametext": "Select one site under 'nighttime conditions.' Target every character there (except droids) and draw one destiny each. If destiny > ability, character 'sleeps' (power, forfeit and ability = 0, 'game text' unusable) until the end of your next turn.",
         "imageUrl": "https://res.starwarsccg.org/cards/Premiere-Dark/large/darkhours.gif",
         "lore": "After surviving Tarkin's extortion, kidnapping, threats of execution and the assault of the Interceptor droid, Princess Leia was asleep when her rescuers came.",
@@ -13175,6 +13248,7 @@
           "lightsaber"
         ],
         "destiny": "2",
+        "errataVersion": "E1",
         "gametext": "Use X Force to deploy on your warrior where X = (7 - warrior's ability). May add 1 to Force drain where present. May target a character or creature using X Force. Draw two destiny. Target hit if total destiny > defense value.",
         "imageUrl": "https://res.starwarsccg.org/cards/Premiere-Dark/large/darkjedilightsaber.gif",
         "lore": "Multifaceted jewels focus light into a deadly blade. Projects a meter-long beam of pure energy. A lightsaber is constructed personally by a Jedi as a part of training.",
@@ -13317,6 +13391,7 @@
       ],
       "front": {
         "destiny": "5",
+        "errataVersion": "E1",
         "gametext": "If opponent just initiated a duel, use 3 Force to cancel it. OR Take Deep Hatred into hand from Reserve Deck; reshuffle. OR If Maul has no combat cards, target a Jedi to place one of their combat cards (random selection) in opponent's Used Pile. (Immune to Sense.)",
         "icons": [
           "Episode I",
@@ -13355,6 +13430,7 @@
       "counterpart": "Blaster Proficiency",
       "front": {
         "destiny": "2",
+        "errataVersion": "E1",
         "gametext": "If you just targeted with a lightsaber, add 3 to your weapon destiny. OR Cancel Swing-And-A-Miss. OR Lose 1 Force to cause one opponent's character just 'hit' to be immediately placed in Lost Pile.",
         "icons": [
           "Cloud City"
@@ -13672,6 +13748,7 @@
         ],
         "deploy": "6",
         "destiny": "1",
+        "errataVersion": "E1",
         "extraText": [
           "Dark Jedi"
         ],
@@ -13898,6 +13975,7 @@
         "ability": "6",
         "deploy": "6",
         "destiny": "1",
+        "errataVersion": "E1",
         "extraText": [
           "Dark Jedi"
         ],
@@ -13966,6 +14044,7 @@
         "ability": "6",
         "deploy": "6",
         "destiny": "1",
+        "errataVersion": "E1",
         "extraText": [
           "Dark Jedi"
         ],
@@ -14239,6 +14318,7 @@
           "lightsaber"
         ],
         "destiny": "1",
+        "errataVersion": "E1",
         "gametext": "Deploy on Vader. May not be stolen. If present during battle, may 'throw' (place in Lost Pile) to add a destiny to attrition. May target a character for free. Draw two destiny. Target hit, and its forfeit = 0, if total destiny > defense value.",
         "icons": [
           "Set 8"
@@ -14499,6 +14579,7 @@
       ],
       "front": {
         "destiny": "3",
+        "errataVersion": "E1",
         "gametext": "Deploy on any system. Adds X to your total at that system, where X = number of your starships present. Your troopers and combat vehicles may shuttle to related sites for free.",
         "icons": [
           "Hoth"
@@ -14756,6 +14837,7 @@
       "front": {
         "darkSideIcons": 1,
         "destiny": "0",
+        "errataVersion": "E1",
         "gametext": "Dark:  Deploys only if Coolant Shaft on table. While That Thing's Operational on table, you may add one battle destiny during battles at Death Star II system and system it orbits.  Light:  When your starship moves from here, draw movement destiny. Add maneuver (if any). If total destiny < 2, starship is lost.",
         "icons": [
           "Mobile",
@@ -14787,6 +14869,7 @@
       "front": {
         "darkSideIcons": 1,
         "destiny": "0",
+        "errataVersion": "E1",
         "gametext": "Dark:  Deploys only if Death Star II system on table. Your TIEs at Death Star II locations may not Tallon Roll. Your non-Objective cards with 'Occupation' in title are canceled.  Light:  When your starship moves from here, draw movement destiny. Add maneuver (if any). If total destiny < 1, starship is lost.",
         "icons": [
           "Mobile",
@@ -15020,6 +15103,7 @@
       ],
       "front": {
         "destiny": "3",
+        "errataVersion": "E1",
         "gametext": "Use 2 Force to deploy on Docking Bay 327. At the end of a battle at Death Star system, may target an opponent's starship present (except a Mon Calamari star cruiser) using 2 Force. Draw two destiny. Target captured if total destiny > defense value.",
         "icons": [
           "A New Hope"
@@ -15275,6 +15359,7 @@
       "front": {
         "darkSideIcons": 1,
         "destiny": "0",
+        "errataVersion": "E1",
         "gametext": "Dark:  If you control, may deploy a docking bay directly from your Reserve Deck. Reshuffle deck.  Light:  If you control, with a Rebel with ability > 2 present, Force drain +2 here.",
         "icons": [
           "Interior",
@@ -15740,6 +15825,7 @@
         ],
         "deploy": "4",
         "destiny": "1",
+        "errataVersion": "E1",
         "forfeit": "3",
         "gametext": "Adds 2 to power of anything he pilots. Power +1 for each opponent's character present. While present, may reduce Han's forfeit to zero.",
         "icons": [
@@ -15891,6 +15977,7 @@
         ],
         "deploy": "5",
         "destiny": "2",
+        "errataVersion": "E1",
         "forfeit": "3",
         "gametext": "Adds 2 to the power of anything he pilots. Permanent weapon is •Dengar's Blaster Carbine (may target a character, creature or vehicle for free; draw destiny; target hit, and its forfeit = 0, if destiny +1 > defense value; may be fired twice per battle).",
         "icons": [
@@ -15941,6 +16028,7 @@
         ],
         "deploy": "4",
         "destiny": "2",
+        "errataVersion": "E1",
         "forfeit": "4",
         "gametext": "While opponent's [Reflections 2] objective on table, adds one battle destiny.  Permanent weapon is •Dengar's Blaster Carbine (twice per battle, may target a character or vehicle for free; draw destiny; target 'hit,' and its forfeit = 0, if destiny +1 > defense value).",
         "icons": [
@@ -15984,6 +16072,7 @@
           "blaster"
         ],
         "destiny": "2",
+        "errataVersion": "E1",
         "gametext": "Use 1 Force to deploy on Dengar, 3 on your other warrior. May target a character, creature or vehicle using 1 Force. Draw destiny. Target hit if destiny +1 > defense value. If hit by Dengar, target's forfeit = 0.",
         "icons": [
           "Dagobah"
@@ -16018,6 +16107,7 @@
     {
       "front": {
         "destiny": "1",
+        "errataVersion": "E1",
         "gametext": "Use 2 Force to deploy on Dengar, or 5 on your other bounty hunter. May target a non-droid character using 3 Force. Draw destiny. Character immediately captured if destiny +3 > defense value.",
         "icons": [
           "Jabba's Palace"
@@ -16148,6 +16238,7 @@
     {
       "front": {
         "destiny": "6",
+        "errataVersion": "E1",
         "gametext": "Deploy on table. My Favorite Decoration may not be placed out of play. At same site as Jabba's Prize, opponent's characters deploy +1 and your Force drains are +1. While Jabba's Prize with Scum And Villainy, your total power in all battles is +3. (Immune to Alter.)",
         "icons": [
           "Cloud City",
@@ -16373,6 +16464,7 @@
         ],
         "deploy": "1",
         "destiny": "2",
+        "errataVersion": "E1",
         "extraText": [
           "No Hyperdrive"
         ],
@@ -16676,6 +16768,7 @@
       "counterpart": "Disarmed",
       "front": {
         "destiny": "5",
+        "errataVersion": "E1",
         "gametext": "If both players have a character with a weapon present at same site, deploy on that opponent's character during any control phase. Character loses all weapons, is power -1 and may no longer carry weapons. (Immune to Alter.)",
         "imageUrl": "https://res.starwarsccg.org/cards/Premiere-Dark/large/disarmed.gif",
         "lore": "C-3PO's arm was pulled off by attacking Tusken Raiders. 'I don't think I can make it. You go on, Master Luke...I'm done for.'",
@@ -17158,6 +17251,7 @@
           "laser cannon"
         ],
         "destiny": "7",
+        "errataVersion": "E1",
         "gametext": "Use 4 Force to deploy on Jabba's Sail Barge or your sandcrawler; it is power +3 and immune to attrition < 5. If your warrior aboard here, may target a vehicle using 2 Force. Draw destiny. Target hit if destiny +2 > defense value.",
         "icons": [
           "Jabba's Palace"
@@ -17338,6 +17432,7 @@
         ],
         "deploy": "2",
         "destiny": "3",
+        "errataVersion": "E1",
         "forfeit": "3",
         "gametext": "Adds 2 to power of anything he pilots. The not-so-good doctor may 'operate' on any other character present that was just 'hit' or just Disarmed; 'patient' is lost.",
         "icons": [
@@ -17569,6 +17664,7 @@
     {
       "front": {
         "destiny": "5",
+        "errataVersion": "E1",
         "gametext": "Deploy at any interior site. Cannot be moved. Droids may not deploy to same site. Following the turn this device is deployed, all droids present are lost at end of any turn.",
         "imageUrl": "https://res.starwarsccg.org/cards/Premiere-Dark/large/droiddetector.gif",
         "lore": "To keep out the mechanicals he so detested, Wuher installed an automatic droid detector at the entrance to the Mos Eisley Cantina.",
@@ -17843,6 +17939,7 @@
       "counterpart": "Thrown Back",
       "front": {
         "destiny": "3",
+        "errataVersion": "E1",
         "gametext": "Use 3 Force to deploy on table. During your move phase, if opponent has 13 or more cards in hand, you may use 4 Force to place all but 8 (random choice) in Used Pile. Once during any control phase, you may place up to three cards from hand in Used Pile.",
         "icons": [
           "Episode I",
@@ -17951,6 +18048,7 @@
         "ability": "2",
         "deploy": "2",
         "destiny": "2",
+        "errataVersion": "E1",
         "forfeit": "4",
         "gametext": "Adds 3 to power of anything he pilots. When piloting Black 2, also adds 1 to maneuver and may draw one battle destiny if not able to otherwise.",
         "icons": [
@@ -17992,6 +18090,7 @@
         ],
         "deploy": "2",
         "destiny": "2",
+        "errataVersion": "E1",
         "forfeit": "3",
         "gametext": "Adds 3 to power of anything he pilots. When piloting Black 3, also adds 1 to maneuver and may draw one battle destiny if not able to otherwise.",
         "icons": [
@@ -18029,6 +18128,7 @@
         "ability": "2",
         "deploy": "2",
         "destiny": "2",
+        "errataVersion": "E1",
         "forfeit": "3",
         "gametext": "Adds 3 to power of anything he pilots. When piloting Black 4, also may draw one battle destiny if not able to otherwise. May use 1 Force to take one Lone Pilot into hand from Reserve Deck; reshuffle.",
         "icons": [
@@ -18317,6 +18417,7 @@
         ],
         "deploy": "3",
         "destiny": "5",
+        "errataVersion": "E1",
         "forfeit": "1",
         "gametext": "Deploy on any site. May be moved with two warriors for 1 additional Force. Your warrior present may target a starfighter (use 5 as defense value), character, creature or vehicle using 2 Force. Draw destiny. Target hit if destiny +1 > defense value.",
         "icons": [
@@ -18471,6 +18572,7 @@
         "destinyValues": [
           0
         ],
+        "errataVersion": "E1",
         "extraText": [
           "Power Droid"
         ],
@@ -18538,6 +18640,7 @@
       "counterpart": "Nabrun Leids",
       "front": {
         "destiny": "4",
+        "errataVersion": "E1",
         "gametext": "At any time (except during battle), target any or all of your characters at one site to 'transport' (relocate) to any one other site. Draw destiny. Use that much Force to 'transport,' or place Interrupt in Lost Pile.",
         "imageUrl": "https://res.starwarsccg.org/cards/Premiere-Dark/large/elishelrot.gif",
         "lore": "A Givin pilot who can seal his joints to withstand the vacuum of space. Makes slaving and spike runs to Kala'uun. Has made many special modifications to his ship, the Hinthra.",
@@ -18569,6 +18672,7 @@
         ],
         "deploy": "4",
         "destiny": "2",
+        "errataVersion": "E1",
         "forfeit": "5",
         "gametext": "May add 1 pilot and 3 passengers. Permanent pilot is •Elis, who provides ability of 2. Once per game, may use 1 Force to deploy a smuggler aboard from Reserve Deck; reshuffle. Immune to attrition < 5.",
         "hyperspeed": "4",
@@ -18666,6 +18770,7 @@
       "counterpart": "Panic",
       "front": {
         "destiny": "3",
+        "errataVersion": "E1",
         "gametext": "If opponent just initiated a battle where opponent has more than double your power, reveal up to 3 cards from your Reserve Deck. Of those 3, deploy anywhere (for free) any characters, starships, vehicles, devices or weapons. Any others are lost.",
         "imageUrl": "https://res.starwarsccg.org/cards/Premiere-Dark/large/emergencydeployment.gif",
         "lore": "TIE fighters are stored in large racks far above the hangar deck. Catapulted into space by powerful tractor beam generators, TIEs can quickly scramble to engage the enemy.",
@@ -18915,6 +19020,7 @@
       "counterpart": "Higher Ground",
       "front": {
         "destiny": "2",
+        "errataVersion": "E1",
         "gametext": "USED: During a battle at a site, instead of firing one character weapon, cause one opponent's character present to be power -4 until end of turn.  LOST: During a battle at a site, use 3 Force to cancel one battle destiny just drawn.",
         "icons": [
           "Cloud City"
@@ -19514,6 +19620,7 @@
           "laser cannon"
         ],
         "destiny": "5",
+        "errataVersion": "E1",
         "gametext": "Use 1 Force to deploy on your TIE. May target a starship using 1 Force. Draw destiny. Subtract 2 if targeting a capital starship. Target hit if destiny > defense value.",
         "icons": [
           "A New Hope"
@@ -19829,6 +19936,7 @@
     {
       "front": {
         "destiny": "4",
+        "errataVersion": "E1",
         "gametext": "Deploy on Bunker if you control that site. Your Force generation at Endor system may not be canceled. Once per turn, may deploy an Endor site from your reserve deck; reshuffle. Place Effect in Used Pile if opponent controls this site. (Immune to Alter.)",
         "icons": [
           "Set 7"
@@ -19901,6 +20009,7 @@
     {
       "front": {
         "destiny": "6",
+        "errataVersion": "E1",
         "gametext": "If your capital starship is about to be lost, unless Tarkin aboard, relocate your characters aboard to any one planet site or to one of your capital starships.",
         "imageUrl": "https://res.starwarsccg.org/cards/Premiere-Dark/large/evacuate.gif",
         "lore": "Escape pods are on many starships allowing those in peril to flee, an act considered cowardly by Imperial officers. 'We've analyzed their attack, sir, and there is a danger.'",
@@ -19932,6 +20041,7 @@
       ],
       "front": {
         "destiny": "4",
+        "errataVersion": "E1",
         "gametext": "USED: Cancel all Revolutions in play (owner loses 1 Force for each).  LOST: If Vader or Vader's Custom TIE was just lost, relocate that card to Used Pile. OR Relocate to Used Pile one Imperial just lost from any Death Star location.",
         "icons": [
           "A New Hope"
@@ -20325,6 +20435,7 @@
     {
       "front": {
         "destiny": "2",
+        "errataVersion": "E1",
         "gametext": "Use X Force during your control phase, where X = the total number of characters present or missing at exterior marker sites under 'nighttime conditions.' Those characters are lost.",
         "icons": [
           "Hoth"
@@ -20354,6 +20465,7 @@
           "rifle"
         ],
         "destiny": "2",
+        "errataVersion": "E1",
         "gametext": "Deploy on your First Order warrior. May target a character or vehicle for free. Draw destiny. Add 1 if fired by a stormtrooper. Target hit, and may not be used to satisfy attrition, if total destiny > defense value.",
         "icons": [
           "Episode VII",
@@ -20389,6 +20501,7 @@
       ],
       "front": {
         "destiny": "3",
+        "errataVersion": "E1",
         "gametext": "Deploy on Dagobah: Cave. Target an apprentice on Dagobah. All Jedi Test game text is suspended. If target present during any battle phase, opponent draws destiny. If destiny < 4, you retrieve 2 Force (also, if destiny = 0, target is lost). Otherwise, Utinni Effect canceled.",
         "icons": [
           "Dagobah"
@@ -20610,6 +20723,7 @@
       "counterpart": "Don't Do That Again (V) - Defensive Shield",
       "front": {
         "destiny": "0",
+        "errataVersion": "E1",
         "gametext": "Plays on table. Ice Storm, Lost In The Wilderness, Order To Engage, Sandwhirl, and Scramble are canceled. Once per game, may take an Immediate Effect into hand from Reserve Deck; reshuffle. Unless opponent occupies a battleground system, Staging Areas is suspended.",
         "icons": [
           "Defensive Shield",
@@ -20729,6 +20843,7 @@
       ],
       "front": {
         "destiny": "4",
+        "errataVersion": "E1",
         "gametext": "Deploy on any capital starship. When that starship is at a system or sector you control, your total power is +1 in battles at related sites.",
         "imageUrl": "https://res.starwarsccg.org/cards/Premiere-Dark/large/fearwillkeeptheminline.gif",
         "lore": "'The regional governors now have direct control over their territories. Fear will keep the local systems in line. Fear of this battle station.'",
@@ -20764,6 +20879,7 @@
         ],
         "deploy": "2",
         "destiny": "4",
+        "errataVersion": "E1",
         "forfeit": "3",
         "gametext": "While no droid present with Trevagg, to initiate battles at same location as Trevagg, player must use X Force, where X = total number of [Dark Side Force] and [Light Side Force] present with him.",
         "icons": [
@@ -20838,6 +20954,7 @@
     {
       "front": {
         "destiny": "4",
+        "errataVersion": "E1",
         "gametext": "Deploy on an Imperial of ability < 5 present with Vader, Emperor or one of your admirals, generals, or moffs. Imperial gains {leader} skill, is power +1, and is immune to Demotion, Report to Lord Vader, and What is Thy Bidding, My Master? (Immune to Alter.)",
         "icons": [
           "Dagobah"
@@ -21123,6 +21240,7 @@
         ],
         "deploy": "2",
         "destiny": "3",
+        "errataVersion": "E1",
         "forfeit": "3",
         "gametext": "Deploys -1 to same site as a First Order leader. Opponent's characters here are cumulatively defense value -1 (limit -3).",
         "icons": [
@@ -21191,6 +21309,7 @@
       ],
       "front": {
         "destiny": "3",
+        "errataVersion": "E1",
         "gametext": "Use 2 Force to deploy on your Star Destroyer. Your other starships may move as a 'react' to same system or sector (for free). If starship lost, you lose X Force, where X = starship's armor. (Immune to your Alter.)",
         "icons": [
           "Dagobah"
@@ -21398,6 +21517,7 @@
     {
       "front": {
         "destiny": "4",
+        "errataVersion": "E1",
         "gametext": "Deploy on a cloud sector (limit one per sector). Force you activate may be drawn into hand (one per turn for each of your Floating Refineries on table). Each cloud sector or gas miner drawn in this way by this device may be revealed to retrieve 1 Force.",
         "icons": [
           "Special Edition"
@@ -21571,6 +21691,7 @@
       "counterpart": "Blaster Deflection",
       "front": {
         "destiny": "4",
+        "errataVersion": "E1",
         "gametext": "USED: Cancel an attempt to target a Dark Jedi with a character weapon.  LOST: If one of your characters was just targeted by a weapon during a battle, use 3 Force to cancel the targeting.",
         "icons": [
           "Cloud City"
@@ -21880,6 +22001,7 @@
         ],
         "deploy": "2",
         "destiny": "2",
+        "errataVersion": "E1",
         "forfeit": "2",
         "gametext": "Adds 2 to power of anything he pilots. While at a site you control, Imperials are immune to Ke Chu Ke Kukuta? at that site.",
         "icons": [
@@ -21968,6 +22090,7 @@
     {
       "front": {
         "destiny": "6",
+        "errataVersion": "E1",
         "gametext": "Deploy on opponent's character alone at Wampa Cave. Character is power = 0 and may not move. May be canceled if opponent has a lightsaber or total ability > 4 present. If character eaten by a creature, cumulatively adds 2 to ferocity.",
         "icons": [
           "Hoth"
@@ -22003,6 +22126,7 @@
       ],
       "front": {
         "destiny": "3",
+        "errataVersion": "E1",
         "gametext": "During your control phase, peek at opponent's hand and target one non-Interrupt card you find there that has a deploy cost < total number of [Light Side] icons on table. Opponent must deploy a card of that title by the end of your next turn, or lose a card of that title from hand (if possible).",
         "icons": [
           "Dagobah"
@@ -22088,6 +22212,7 @@
       "counterpart": "Fusion Generator Supply Tanks",
       "front": {
         "destiny": "4",
+        "errataVersion": "E1",
         "gametext": "Deploy on your starship at a system or sector where a related docking bay is on table. Adds 1 to hyperspeed, power and maneuver.",
         "imageUrl": "https://res.starwarsccg.org/cards/Premiere-Dark/large/fusiongeneratorsupplytanks.gif",
         "lore": "Installed at many facilities throughout the Empire to provide power to the Imperial spacefleet. Supplies starships with energy necessary for sublight and hyperspace travel.",
@@ -22111,6 +22236,7 @@
       "front": {
         "deploy": "2",
         "destiny": "2",
+        "errataVersion": "E1",
         "extraText": [
           "Medical Droid"
         ],
@@ -22141,6 +22267,7 @@
     {
       "front": {
         "destiny": "4",
+        "errataVersion": "E1",
         "gametext": "Use 2 Force to deploy on any Tusken Raider. If a battle has just been initiated where present, target a character for free; draw two destiny. If total destiny > 5, target's weapons are 'knocked away' (may not be used this battle).",
         "imageUrl": "https://res.starwarsccg.org/cards/Premiere-Dark/large/gaderffiistick.gif",
         "lore": "Notorious 'gaffi' weapon favored by Tusken Raiders. Built from scavenged metal. Intimidates and evokes fear.",
@@ -22175,6 +22302,7 @@
         ],
         "deploy": "3",
         "destiny": "2",
+        "errataVersion": "E1",
         "forfeit": "2",
         "gametext": "Deploys free to same site as Mosep. Adds 2 to power of anything he pilots. While at Audience Chamber, adds 1 to your Force drains at Jabba's Palace sites.",
         "icons": [
@@ -22274,6 +22402,7 @@
     {
       "front": {
         "destiny": "4",
+        "errataVersion": "E1",
         "gametext": "Use 1 Force to deploy on your Gamorrean. Adds 1 to power. When present at a site, Gamorrean draws one battle destiny if not able to otherwise. May target a character or creature for free. Draw destiny. Target hit if destiny > defense value.",
         "icons": [
           "Jabba's Palace"
@@ -22606,6 +22735,7 @@
         ],
         "deploy": "3",
         "destiny": "2",
+        "errataVersion": "E1",
         "extraText": [
           "Force-Attuned"
         ],
@@ -22746,6 +22876,7 @@
         ],
         "deploy": "3",
         "destiny": "1",
+        "errataVersion": "E1",
         "extraText": [
           "Force-Attuned"
         ],
@@ -22885,6 +23016,7 @@
           "dejarik"
         ],
         "destiny": "1",
+        "errataVersion": "E1",
         "gametext": "During the damage segment of a battle you lost, if you have no cards left that can be forfeited, cancel all remaining battle damage. (Immune to Sense.) OR Cancel Nightfall.",
         "icons": [
           "A New Hope"
@@ -22925,6 +23057,7 @@
       "counterpart": "Houjix & Out Of Nowhere",
       "front": {
         "destiny": "2",
+        "errataVersion": "E1",
         "gametext": "USED: Cancel Nabrun Leids.  LOST: If you just forfeited all your cards that participated in a battle you lost, cancel all remaining battle damage (Immune to Sense). OR Cancel Hyper Escape, Closer!?, or one 'react.' OR During your move phase, cancel Landing Claw.",
         "icons": [
           "Reflections 2"
@@ -23107,6 +23240,7 @@
         ],
         "deploy": "4",
         "destiny": "1",
+        "errataVersion": "E1",
         "extraText": [
           "Force-Sensitive"
         ],
@@ -23163,6 +23297,7 @@
         ],
         "deploy": "4",
         "destiny": "1",
+        "errataVersion": "E1",
         "extraText": [
           "Force-Attuned"
         ],
@@ -23249,6 +23384,7 @@
     {
       "front": {
         "destiny": "3",
+        "errataVersion": "E1",
         "gametext": "Strikes at Dune Sea, Jundland Wastes, Beggar's Canyon, Lars' Moisture Farm, Jawa Camp, or Mos Eisley. Target opponent's character present at that site. Draw destiny. Target lost if destiny > ability.",
         "imageUrl": "https://res.starwarsccg.org/cards/Premiere-Dark/large/gravelstorm.gif",
         "lore": "Tatooine's twin suns cause turbulent storms that strike with little or no warning. Strong winds whip rocks through the air with enormous force.",
@@ -23553,6 +23689,7 @@
       ],
       "front": {
         "destiny": "3",
+        "errataVersion": "E1",
         "gametext": "Deploys for 1 Force to an unoccupied site. Deploys and moves like an undercover spy. When present with Han (or alien) of ability < 3, choose one to be immediately lost (treat as an 'all cards' situation). Seeker is also lost.",
         "imageUrl": "https://res.starwarsccg.org/cards/Premiere-Dark/large/hanseeker.gif",
         "lore": "Military version of a 'remote.' Programmed to stalk specific targets or secondary targets. Heat and light sensors track with fatal accuracy. Can stow away on starships.",
@@ -23936,6 +24073,7 @@
     {
       "front": {
         "destiny": "3",
+        "errataVersion": "E1",
         "gametext": "If an opponent's character with ability > 2 has just become missing, deploy on a Rebel with ability > 2 on same planet. Rebel may not participate in battle. Immediate Effect canceled if missing character is found or lost.",
         "icons": [
           "Hoth"
@@ -24143,6 +24281,7 @@
         ],
         "deploy": "3",
         "destiny": "2",
+        "errataVersion": "E1",
         "forfeit": "5",
         "gametext": "Draws one battle destiny in not able to otherwise. While at Audience Chamber (or stacked on your Objective), your other Weequays are deploy -1, power +1, and forfeit +2. Once per game, may deploy Aurra Sing, Slave I, or a Kowakian from Reserve Deck; reshuffle.",
         "icons": [
@@ -24614,6 +24753,7 @@
     {
       "front": {
         "destiny": "5",
+        "errataVersion": "E1",
         "gametext": "USED: If an opponent's weapon is about to 'hit' an Imperial present with a captive being escorted, the captive is 'hit' instead.  LOST: During the damage segment of a battle at a site, you may forfeit any captives present (once per battle per captive).",
         "icons": [
           "Cloud City"
@@ -24749,6 +24889,7 @@
     {
       "front": {
         "destiny": "5",
+        "errataVersion": "E1",
         "gametext": "Deploy on an opponent's smuggler, gambler, or thief. If subsequently captured, seized by a bounty hunter and then transfered to Jabba's Palace Dungeon, retrieve Force equal to character's forfeit (+6 if Han) and lose effect. (Immune to Alter.)",
         "icons": [
           "Jabba's Palace"
@@ -24894,6 +25035,7 @@
       ],
       "front": {
         "destiny": "5",
+        "errataVersion": "E1",
         "gametext": "Deploy on your IT-O. Once during each of your control phases, if present with a captive: You may ask one yes-or-no question about cards in opponent's hand. Opponent must answer truthfully or lose 1 Force. OR May add 1 to Force drain where present.",
         "icons": [
           "A New Hope"
@@ -25086,6 +25228,7 @@
       "counterpart": "Affect Mind",
       "front": {
         "destiny": "5",
+        "errataVersion": "E1",
         "gametext": "Use 1 Force to deploy on one of your Dark Jedi. Opponent's total ability at same location is reduced by 2, unless an opponent's Jedi is also present.",
         "imageUrl": "https://res.starwarsccg.org/cards/Premiere-Dark/large/ifindyourlackoffaithdisturbing.gif",
         "lore": "Darth Vader ruthlessly used the Force to strike down enemies and soldiers who displeased him. He could choke victims from afar without touching them.",
@@ -25148,6 +25291,7 @@
       ],
       "front": {
         "destiny": "3",
+        "errataVersion": "E1",
         "gametext": "Deploy on an opponent's gambler. Cancels gambler's game text. If a battle was just initiated, you may use X Force to exclude gambler from that battle, where X = gambler's ability.",
         "icons": [
           "Cloud City"
@@ -25252,6 +25396,7 @@
       },
       "front": {
         "destiny": "0",
+        "errataVersion": "E2",
         "gametext": "I Want That Map:Deploy Tuanul Village, any other [Episode VII] location, and I Will Finish What You Started. Opponent may reveal a unique (•) Resistance character from Reserve Deck; that card is a Resistance Agent. Otherwise, Luke is a Resistance Agent and loses immunity to attrition.{For} remainder of game, non-[Episode VII] Dark Jedi are lost and Resistance Agents are immune to Set For Stun.{Flip} this card if your First Order characters control two battlegrounds and a Resistance Agent is not present at a battleground site.And Now You'll Give It To Me:{While} this side up, where you have a First Order leader, opponent must first use or lose 1 Force to draw a card for battle destiny. Unless BB-8 on table, opponent's Force retrieval is canceled. If Kylo on table: During your turn, may stack an Interrupt from your Lost Pile face up on I Will Finish What You Started; and once per turn, may play an Interrupt stacked there as if from hand (then place that card out of play).{Flip} this card if you do not occupy two battlegrounds or if a Resistance Agent is present at a battleground site.",
         "icons": [
           "Episode VII",
@@ -25313,6 +25458,7 @@
     {
       "front": {
         "destiny": "4",
+        "errataVersion": "E1",
         "gametext": "Deploy on table. Opponent may deploy Amidala from Reserve Deck; reshuffle. If Maul present with Amidala and opponent has no Jedi there, she is captured. Once per game may take If The Trace Was Correct into hand from Reserve Deck; reshuffle. (Immune to Alter.)",
         "icons": [
           "Episode I",
@@ -25475,6 +25621,7 @@
       "counterpart": "It Can Wait",
       "front": {
         "destiny": "2",
+        "errataVersion": "E1",
         "gametext": "Use 3 Force to place an opponent's just deployed character, starship, vehicle, weapon, or device in opponent's hand. On opponent's next turn, that card (or one card of same title) may deploy for free.",
         "icons": [
           "Hoth"
@@ -25583,6 +25730,7 @@
         ],
         "deploy": "4",
         "destiny": "4",
+        "errataVersion": "E1",
         "forfeit": "3",
         "gametext": "May add 1 pilot (must be a smuggler or bounty hunter) and 2 passengers. Maneuver +3 and immune to attrition < 3 if IG-88 piloting. Ion Cannon may deploy aboard.",
         "hyperspeed": "3",
@@ -25631,6 +25779,7 @@
         ],
         "deploy": "5",
         "destiny": "1",
+        "errataVersion": "E1",
         "extraText": [
           "Assassin Droid"
         ],
@@ -25867,6 +26016,7 @@
           "cannon"
         ],
         "destiny": "1",
+        "errataVersion": "E1",
         "gametext": "Use 1 Force to deploy on IG-88, 4 on your other warrior. Adds 2 to power. May target X non-droid characters or creatures using X Force. Draw destiny for each. If destiny = 0, character is power -1 and forfeit -1 until end of turn. If destiny -1 > defense value, target hit.",
         "icons": [
           "Dagobah"
@@ -25905,6 +26055,7 @@
       ],
       "front": {
         "destiny": "3",
+        "errataVersion": "E1",
         "gametext": "Target opponent's starfighter making an Attack Run. Draw destiny. Add 1 for each of your TIEs in Death Star: Trench. If total destiny > maneuver, starfighter is lost. OR Add 1 to weapon destiny draws of any starfighter for remainder of this turn.",
         "icons": [
           "A New Hope"
@@ -26353,6 +26504,7 @@
           "DH-17 blaster"
         ],
         "destiny": "3",
+        "errataVersion": "E1",
         "gametext": "Use 1 Force to deploy on your warrior. May target a character, creature or vehicle using 1 Force. Draw destiny. Target hit if destiny > defense value.",
         "imageUrl": "https://res.starwarsccg.org/cards/Premiere-Dark/large/imperialblaster.gif",
         "lore": "A BlasTech DH-17 blaster pistol. Uses power packs and high-energy blaster gases. Shoots bolts of explosive coherent light energy.",
@@ -26495,6 +26647,7 @@
       "counterpart": "Menace Fades",
       "front": {
         "destiny": "4",
+        "errataVersion": "E1",
         "gametext": "Deploy on your side of table. Whenever you control any two Rebel Base locations, or any one planet site and two systems, the effects of Revolution and all opponent's Force drain bonuses are canceled. (Immune to Alter.)",
         "icons": [
           "Cloud City"
@@ -26528,6 +26681,7 @@
     {
       "front": {
         "destiny": "4",
+        "errataVersion": "E1",
         "gametext": "Deploy on table. Whenever you lose Force (except from Force drains, battle damage, or your card), may reduce loss (to a minimum of 1) by the number of battlegrounds you occupy. During battle, may place this Effect out of play to draw one battle destiny if unable to otherwise. (Immune to Alter.)",
         "icons": [
           "Cloud City",
@@ -26670,6 +26824,7 @@
       },
       "front": {
         "destiny": "0",
+        "errataVersion": "E1",
         "gametext": "Imperial Entanglements:Deploy Tatooine system (with Devastator there) and a Tatooine battleground site.{For} remainder of game, you may not deploy Sandwhirl, Admiral's Orders, Jabba's Palace sites, non-Imperial characters, non-Imperial starships, or systems. {While} this side up, opponent loses no Force to Tatooine Occupation or your Force drains at Tatooine system. Once per turn, may deploy a Tatooine battleground site from Reserve Deck; reshuffle.{Flip} this card if you control three Tatooine sites and opponent controls fewer than three Tatooine sites. No One To Stop Us This Time:{While} this side up, once during your control phase, may peek at up to X cards from the top of your Reserve Deck, where X = number of Tatooine locations you occupy; take one into hand and shuffle your Reserve Deck. Once per turn, may deploy a Tatooine battleground site from Reserve Deck; reshuffle. Opponent's characters require +1 Force to move from Tatooine sites using their landspeed. During your draw phase, you may retrieve one trooper.{Flip} this card if opponent controls more Tatooine sites than you.",
         "icons": [
           "Set 1"
@@ -26701,6 +26856,7 @@
         ],
         "deploy": "1",
         "destiny": "1",
+        "errataVersion": "E1",
         "forfeit": "1",
         "gametext": "Adds 1 to weapon destiny draws of anything he is aboard as a passenger.",
         "icons": [
@@ -26734,6 +26890,7 @@
         "ability": "1",
         "deploy": "3",
         "destiny": "3",
+        "errataVersion": "E1",
         "forfeit": "2",
         "gametext": "Adds 2 to power of anything he pilots. When piloting a Star Destroyer, also draws one battle destiny if not able to otherwise.",
         "icons": [
@@ -26913,6 +27070,7 @@
         "ability": "2",
         "deploy": "2",
         "destiny": "3",
+        "errataVersion": "E1",
         "forfeit": "2",
         "gametext": "Adds 2 to power of anything he pilots.",
         "icons": [
@@ -26978,6 +27136,7 @@
       "counterpart": "Rebel Reinforcements",
       "front": {
         "destiny": "4",
+        "errataVersion": "E1",
         "gametext": "If opponent has more total characters and starships on table than you have, use 1 Force to draw destiny. Retrieve that number of Stormtroopers and/or TIE/lns.",
         "imageUrl": "https://res.starwarsccg.org/cards/Premiere-Dark/large/imperialreinforcements.gif",
         "lore": "Imperial stormtroopers deploy in 8-10 trooper squads. Reinforcements are typically held in reserve according to standard Imperial operating procedures.",
@@ -27009,6 +27168,7 @@
         ],
         "deploy": "2",
         "destiny": "1",
+        "errataVersion": "E1",
         "forfeit": "3",
         "gametext": "Adds 1 to forfeit of your other troopers at same site. When moving with a 'squad' of exactly three other troopers, all four move for 1 Force. Imperial Trooper Guards at same site may move.",
         "icons": [
@@ -27080,6 +27240,7 @@
         ],
         "deploy": "2",
         "destiny": "3",
+        "errataVersion": "E1",
         "forfeit": "1",
         "gametext": "Power +4 when defending a battle. Cannot move.",
         "imageUrl": "https://res.starwarsccg.org/cards/Premiere-Dark/large/imperialtrooperguard.gif",
@@ -27116,6 +27277,7 @@
         ],
         "deploy": "2",
         "destiny": "4",
+        "errataVersion": "E1",
         "forfeit": "2",
         "gametext": "Deploys only aboard Executor or on any Death Star Site. Cannot move. May cancel opponent's Force Drains at adjacent Death Star or Executor sites.",
         "icons": [
@@ -27261,6 +27423,7 @@
       ],
       "front": {
         "destiny": "6",
+        "errataVersion": "E1",
         "gametext": "If you have a Star Destroyer in a battle, during the weapons segment use its tractor beam for free. Add 2 to tractor beam destiny if targeting a unique (•) starship. If not captured, target is power and maneuver -3 for remainder of turn.",
         "icons": [
           "Special Edition"
@@ -27373,6 +27536,7 @@
       "counterpart": "Infantry Mine",
       "front": {
         "destiny": "3",
+        "errataVersion": "E1",
         "gametext": "Deploy at same exterior site as your mining droid. 'Explodes' if a character deploys or moves (without using a vehicle or starfighter) to or across same site. Draw destiny. Character lost if destiny +2 > ability. Infantry Mine is also lost.",
         "icons": [
           "Hoth"
@@ -27405,6 +27569,7 @@
       ],
       "front": {
         "destiny": "6",
+        "errataVersion": "E1",
         "gametext": "If a battle was just initiated at same site as your Undercover spy, your characters at adjacent sites may move there as a 'react' (for free). OR Cancel Sabotage.",
         "icons": [
           "A New Hope"
@@ -27852,6 +28017,7 @@
           "ion cannon"
         ],
         "destiny": "5",
+        "errataVersion": "E1",
         "gametext": "Use 2 Force to deploy on your Star Destroyer. May target a starship using 1 Force. Draw destiny. If destiny +2 > defense value, all starship weapons deployed on target are lost, armor or maneuver = 0 and hyperspeed = 0.",
         "imageUrl": "https://res.starwarsccg.org/cards/Premiere-Dark/large/ioncannon.gif",
         "lore": "Fires blasts of ionized energy. Causes massive disruptions in weapon, engine and computer systems aboard a target. Disables starship defenses against tractor beams.",
@@ -27921,6 +28087,7 @@
       "front": {
         "deploy": "3",
         "destiny": "2",
+        "errataVersion": "E1",
         "extraText": [
           "Interrogator Droid"
         ],
@@ -28022,6 +28189,7 @@
     {
       "front": {
         "destiny": "4",
+        "errataVersion": "E1",
         "gametext": "Use 1 Force to target opponent's starfighter with maneuver at a system or sector where a battle just finished. Draw destiny. Starfighter lost if destiny > maneuver.",
         "imageUrl": "https://res.starwarsccg.org/cards/Premiere-Dark/large/ivegotaproblemhere.gif",
         "lore": "Debris fragments damaged Jek Porkins' X-wing, causing a cascade of computer and flight control failures.",
@@ -28047,6 +28215,7 @@
       ],
       "front": {
         "destiny": "5",
+        "errataVersion": "E1",
         "gametext": "Use 1 Force to target a starship's [Nav Computer] or astromech. Draw destiny. If destiny > 1, [Nav Computer] or astromech is lost. If starship's [Nav Computer] is lost, place Effect on starship (may add 1 astromech); otherwise, Effect lost.",
         "imageUrl": "https://res.starwarsccg.org/cards/Premiere-Dark/large/ivelostartoo.gif",
         "lore": "'WHAAAAAAAAAOOOOW!'",
@@ -28176,6 +28345,7 @@
         ],
         "deploy": "6",
         "destiny": "1",
+        "errataVersion": "E1",
         "extraText": [
           "Force-Sensitive"
         ],
@@ -28646,6 +28816,7 @@
         "armor": "5",
         "deploy": "5",
         "destiny": "3",
+        "errataVersion": "E1",
         "forfeit": "7",
         "gametext": "Deploys only on Tatooine; you may immediately deploy Passenger Deck from your Reserve Deck and reshuffle. May add 1 driver and 7 passengers. Your aliens deploy -1 aboard.",
         "icons": [
@@ -28813,6 +28984,7 @@
         "armor": "5",
         "deploy": "4",
         "destiny": "2",
+        "errataVersion": "E1",
         "forfeit": "6",
         "gametext": "May add 1 alien pilot and 6 passengers. Permanent pilot provides ability of 2. When deployed, you may deploy an alien leader aboard from Reserve Deck; reshuffle. Immune to attrition < 5.",
         "hyperspeed": "4",
@@ -29356,6 +29528,7 @@
           "blaster"
         ],
         "destiny": "4",
+        "errataVersion": "E1",
         "gametext": "Deploy on your Jawa. May target a character or creature for free. Draw destiny. If destiny -1 > defense value, target hit. If destiny = 0, Jawa Blaster 'explodes' (weapon and character firing it are lost).",
         "icons": [
           "A New Hope"
@@ -29901,6 +30074,7 @@
       "front": {
         "darkSideIcons": 2,
         "destiny": "0",
+        "errataVersion": "E1",
         "gametext": "Dark:  Your starships deploy -1 here, -2 if Tarkin is aboard a starship here. If you control, Kessel Run is canceled.  Light:  Total ability of 6 or more required for you to draw battle destiny here.",
         "icons": [
           "Planet"
@@ -29976,6 +30150,7 @@
       "counterpart": "Sai'torr Kal Fas",
       "front": {
         "destiny": "4",
+        "errataVersion": "E1",
         "gametext": "Deploy on your non-warrior character (except droids) to give that character [Warrior] skill. OR Deploy on your warrior. That character is power +1. (Immune to Alter.)",
         "imageUrl": "https://res.starwarsccg.org/cards/Premiere-Dark/large/ketmaliss.gif",
         "lore": "Assassins are highly valued by Jabba the Hutt and other gangsters. Prince Xizor's 'shadow killer,' has unknown but undoubtably lethal business in Mos Eisley.",
@@ -30111,6 +30286,7 @@
           "dejarik"
         ],
         "destiny": "3",
+        "errataVersion": "E1",
         "gametext": "If opponent just forfeited or lost a character, use 1 Force to regenerate one of your own characters. Retrieve the character closest to the top of your Lost Pile into your hand.",
         "imageUrl": "https://res.starwarsccg.org/cards/Premiere-Dark/large/kintanstrider.gif",
         "lore": "A dejarik of a ferocious creature with incredible healing abilities. Extinct on the homeworld of Kintan, but used as a guard beasts by many Hutt gangsters.",
@@ -30183,6 +30359,7 @@
         ],
         "deploy": "3",
         "destiny": "3",
+        "errataVersion": "E1",
         "extraText": [
           "Force-Attuned"
         ],
@@ -30232,6 +30409,7 @@
         ],
         "deploy": "4",
         "destiny": "2",
+        "errataVersion": "E1",
         "forfeit": "2",
         "gametext": "Deploys only on Tatooine. Adds 1 to power of anything he pilots. Power = 1 + ability of opponent's highest-ability character present.",
         "icons": [
@@ -30335,6 +30513,7 @@
       ],
       "front": {
         "destiny": "4",
+        "errataVersion": "E1",
         "gametext": "Insert in opponent's Reserve Deck. When Effect reaches top it is lost, but opponent may not initiate any battles for remainder of turn. (Immune to Alter.)",
         "icons": [
           "Dagobah"
@@ -30365,6 +30544,7 @@
       "counterpart": "Anger, Fear, Aggression (V)",
       "front": {
         "destiny": "4",
+        "errataVersion": "E1",
         "gametext": "Deploy on table with up to any number of Defensive Shields from outside your deck face-down under here. Four times per game, may play a Defensive Shield from here (as if from hand). Unless canceling your Interrupt, opponent may not play Recoil In Fear until the end of your first turn.",
         "icons": [
           "Dagobah",
@@ -31045,6 +31225,7 @@
     {
       "front": {
         "destiny": "4",
+        "errataVersion": "E1",
         "gametext": "If your character is about to be hit, use 1 Force (free if by a [Permanent Weapon] weapon); for remainder of turn, its forfeit may not be reduced and it may not be used to satisfy attrition. OR Cancel Disarmed. (Immune to Sense.) OR Cancel a 'react'. OR During your move phase, target any or all of your characters at one site to 'transport' (relocate) to an exterior or battleground site. Draw destiny. Use that much Force to 'transport,' or place Interrupt in Lost Pile.",
         "icons": [
           "Episode I",
@@ -31084,6 +31265,7 @@
         ],
         "deploy": "2",
         "destiny": "1",
+        "errataVersion": "E1",
         "extraText": [
           "Force-Attuned"
         ],
@@ -31182,6 +31364,7 @@
     {
       "front": {
         "destiny": "4",
+        "errataVersion": "E1",
         "gametext": "Deploy between any two interior mobile sites. To pass, a character must have (power + ability) > 4 or use a Lift Tube (all other vehicles are blocked). Laser Gate defense value = 3; may be targeted (as if a character) by a character weapon from either site.",
         "icons": [
           "A New Hope"
@@ -31210,6 +31393,7 @@
     {
       "front": {
         "destiny": "3",
+        "errataVersion": "E1",
         "gametext": "Use 2 Force to deploy on an interior site. May target a seeker (use defense value = 1), character or creature for free. Draw destiny. Target hit if destiny -1 > defense value. Laser Projector may be targeted by any weapon (use defense value = 1).",
         "imageUrl": "https://res.starwarsccg.org/cards/Premiere-Dark/large/laserprojector.gif",
         "lore": "Laser system activated by distress signal from guards. Used at security checkpoints and detention block control rooms. Targeting guided by centralized droid controller.",
@@ -31374,6 +31558,7 @@
       ],
       "front": {
         "destiny": "3",
+        "errataVersion": "E1",
         "gametext": "Deploys for 1 Force to an unoccupied site. Deploys and moves like an undercover spy. When present with Leia (or warrior) of ability < 3, choose one to be immediately lost (treat as an 'all cards' situation). Seeker is also lost.",
         "icons": [
           "A New Hope"
@@ -31512,6 +31697,7 @@
         "ability": "2",
         "deploy": "2",
         "destiny": "2",
+        "errataVersion": "E1",
         "forfeit": "4",
         "gametext": "Adds 2 to power of any starship he pilots. On Tyrant, also adds one to Armor. When in battle with an Imperial leader, subtracts 1 from opponent's total battle destiny.",
         "icons": [
@@ -31814,6 +32000,7 @@
         "ability": "2",
         "deploy": "3",
         "destiny": "2",
+        "errataVersion": "E1",
         "forfeit": "4",
         "gametext": "During your control phase, may use 1 Force to search your Reserve Deck, take one Human Shield into hand and reshuffle. When escorting a captive, captive is forfeit +2 and Sheckil is immune to attrition < 4.",
         "icons": [
@@ -31888,6 +32075,7 @@
         "ability": "2",
         "deploy": "2",
         "destiny": "2",
+        "errataVersion": "E1",
         "forfeit": "3",
         "gametext": "Deploy -1 for starship weapons of any starship he pilots. Adds 2 to power of anything he pilots. Subtracts 1 from maneuver of any starfighter he pilots.",
         "icons": [
@@ -32070,6 +32258,7 @@
           "rifle"
         ],
         "destiny": "2",
+        "errataVersion": "E1",
         "gametext": "Use 2 Force to deploy on your warrior. If your power droid or fusion generator present, may target a character, creature or vehicle using 2 Force. Draw destiny. Target hit if destiny +1 > defense value. May fire repeatedly for 2 Force each time.",
         "imageUrl": "https://res.starwarsccg.org/cards/Premiere-Dark/large/lightrepeatingblasterrifle.gif",
         "lore": "BlasTech model T-21 light repeating blaster. Excellent power, good range. Carries energy for 25 shots. Unlimited firepower when attached to a power generator.",
@@ -32163,6 +32352,7 @@
       ],
       "front": {
         "destiny": "5",
+        "errataVersion": "E1",
         "gametext": "If the opponent has two cards or less in hand, opponent must immediately lose 2 Force (4 Force if it is your turn). If the opponent has Fusion Generator Supply Tanks aboard a starship, loss is reduced by 2.",
         "imageUrl": "https://res.starwarsccg.org/cards/Premiere-Dark/large/limitedresources.gif",
         "lore": "The Empire dominates consumption of resources. Despite being efficient, Rebel logistical and maintenance officers often are compelled to expend emergency reserves.",
@@ -32191,6 +32381,7 @@
       "front": {
         "deploy": "2",
         "destiny": "3",
+        "errataVersion": "E1",
         "extraText": [
           "Mining Droid"
         ],
@@ -32227,6 +32418,7 @@
         ],
         "deploy": "2",
         "destiny": "3",
+        "errataVersion": "E1",
         "forfeit": "3",
         "gametext": "For each other musician present, adds a 'cover charge' of 1 to the Force required to move or deploy each character to same site.",
         "icons": [
@@ -32359,6 +32551,7 @@
       ],
       "front": {
         "destiny": "4",
+        "errataVersion": "E1",
         "gametext": "Use 1 Force at the beginning of your battle phase to allow any two of your Stormtroopers in the Cantina to battle any one opponent's character (your choice). You may add one battle destiny. No other battles may occur in Cantina this turn.",
         "imageUrl": "https://res.starwarsccg.org/cards/Premiere-Dark/large/localtrouble.gif",
         "lore": "'Look like somebody's beginning to take an interest in your handiwork.' Imperial stormtroopers coerce local residents to assist them in the apprehension of Rebel scum.",
@@ -32384,6 +32577,7 @@
       ],
       "front": {
         "destiny": "2",
+        "errataVersion": "E1",
         "gametext": "Deploy on table. At the end of each player's deploy phase, if they did not deploy a location, they lose 1 Force. Effect canceled if any player deploys three or more locations in a single turn.",
         "icons": [
           "Dagobah"
@@ -32421,6 +32615,7 @@
       "counterpart": "Full Throttle",
       "front": {
         "destiny": "4",
+        "errataVersion": "E1",
         "gametext": "If your pilot (or permanent pilot) is defending a battle alone at a system or sector, add one battle destiny. OR If Motti is defending a battle alone at a system or sector, add two battle destiny.",
         "imageUrl": "https://res.starwarsccg.org/cards/Premiere-Dark/large/lonepilot.gif",
         "lore": "One lone TIE fighter, acting as a scout near the Death Star, suddenly encountered the Millennium Falcon.",
@@ -32448,6 +32643,7 @@
       "counterpart": "Warrior's Courage",
       "front": {
         "destiny": "4",
+        "errataVersion": "E1",
         "gametext": "If any warrior is defending a battle alone at a site, add one battle destiny. OR If Tagge is defending a battle alone at a site, add two battle destiny.",
         "imageUrl": "https://res.starwarsccg.org/cards/Premiere-Dark/large/lonewarrior.gif",
         "lore": "Though generally deployed in squads, all Imperial warriors are trained in the close combat techniques and have a reputation for ferocity when cornered.",
@@ -32504,6 +32700,7 @@
         ],
         "deploy": "8",
         "destiny": "1",
+        "errataVersion": "E1",
         "extraText": [
           "Dark Jedi"
         ],
@@ -32554,6 +32751,7 @@
         ],
         "deploy": "6",
         "destiny": "1",
+        "errataVersion": "E1",
         "extraText": [
           "Dark Jedi"
         ],
@@ -32713,6 +32911,7 @@
     {
       "front": {
         "destiny": "4",
+        "errataVersion": "E1",
         "gametext": "If a pilot was just lost from a system or sector, deploy on that location and stack pilot here. Pilot may be rescued or captured by any capital starship present here during any move phase, and may be targeted by weapons (except during battle) as if present (treat as a starfighter with defense value = 0). Lost if no pilot here.",
         "icons": [
           "Dagobah"
@@ -32807,6 +33006,7 @@
         ],
         "deploy": "2",
         "destiny": "3",
+        "errataVersion": "E1",
         "forfeit": "5",
         "gametext": "While at Docking Control Room 327, adds 2 to your total power at Docking Bay 327. Once during each of your control phases, if at same site as an Undercover spy, may draw destiny. Spy's 'cover is broken' if destiny = spy's ability.",
         "icons": [
@@ -32947,6 +33147,7 @@
       ],
       "front": {
         "destiny": "3",
+        "errataVersion": "E1",
         "gametext": "Deploys for 1 Force to an unoccupied site. Deploys and moves like an undercover spy. When present with Luke of ability < 4 or pilot of ability < 3, choose one to be immediately lost (treat as an 'all cards' situation). Seeker is also lost.",
         "imageUrl": "https://res.starwarsccg.org/cards/Premiere-Dark/large/lukeseeker.gif",
         "lore": "Military version of a 'remote.' Programmed to stalk specific targets or secondary targets. Heat and light sensors track with fatal accuracy. Can stow away on starships.",
@@ -33195,6 +33396,7 @@
       "counterpart": "Magnetic Suction Tube",
       "front": {
         "destiny": "3",
+        "errataVersion": "E1",
         "gametext": "Deploy on your Sandcrawler. Once during each of your control phases, may target one character present. Draw destiny. If destiny > character's ability, 'suck up' character (relocate to related interior Sandcrawler site or owner's Used Pile).",
         "icons": [
           "A New Hope"
@@ -34035,6 +34237,7 @@
           "lightsaber"
         ],
         "destiny": "1",
+        "errataVersion": "E1",
         "gametext": "Deploy on Maul. Adds 1 to Maul's lightsaber combat total. May lose 1 Force to add 2 to Force drain where present. Twice per battle, may target a character. Draw two destiny. Target hit, and its forfeit = 0, if total > defense value. While on Maul, may not be stolen.",
         "icons": [
           "Episode I",
@@ -34245,6 +34448,7 @@
         ],
         "deploy": "2",
         "destiny": "2",
+        "errataVersion": "E1",
         "forfeit": "3",
         "gametext": "Adds 2 to power of anything he pilots or drives. When driving a transport vehicle, adds one battle destiny. When piloting at a cloud sector, once per turn adds one battle destiny during battle at a related exterior site.",
         "icons": [
@@ -34410,6 +34614,7 @@
         ],
         "deploy": "3",
         "destiny": "3",
+        "errataVersion": "E1",
         "forfeit": "3",
         "gametext": "Once during each of your control phases, may reveal opponent's hand by using X Force, where X = number of cards in opponent's hand. All unique (•) male Rebels and unique (•) male aliens there are lost.",
         "imageUrl": "https://res.starwarsccg.org/cards/Premiere-Dark/large/miiyoomonith.gif",
@@ -34436,6 +34641,7 @@
       "counterpart": "We're Leaving",
       "front": {
         "destiny": "2",
+        "errataVersion": "E1",
         "gametext": "Use 3 Force to deploy on table. During the damage segment of a battle your opponent initiated, if you have no cards left that can be forfeited, you may place this Effect out of play to cancel all remaining battle damage. (Immune to Alter.)",
         "icons": [
           "Episode I",
@@ -34602,6 +34808,7 @@
         ],
         "deploy": "2",
         "destiny": "4",
+        "errataVersion": "E1",
         "forfeit": "5",
         "gametext": "May add 1 driver and 1 passenger. Moves free if Jabba or any bounty hunter aboard. May move for free as a 'react' to a battle where your thief, smuggler or bounty hunter is participating.",
         "icons": [
@@ -34720,6 +34927,7 @@
     {
       "front": {
         "destiny": "4",
+        "errataVersion": "E1",
         "gametext": "If Tarkin is defending a battle alone, add two battle destiny. OR If any alien is defending a battle alone, add one battle destiny.",
         "imageUrl": "https://res.starwarsccg.org/cards/Premiere-Dark/large/momentoftriumph.gif",
         "lore": "A ruthless ruler of Outer Rim Territories. Grand Moff Tarkin used the Death Star to destroy Alderaan, creating the doctrine of rule by fear.",
@@ -34785,6 +34993,7 @@
           "dejarik"
         ],
         "destiny": "2",
+        "errataVersion": "E1",
         "gametext": "USED: If opponent has 13 or more cards in hand, place all but 8 (random selection) in Used Pile.  LOST: Use 4 Force to reveal opponent's hand. All cards opponent has two or more of in hand are lost.",
         "icons": [
           "A New Hope"
@@ -34821,6 +35030,7 @@
           "blaster"
         ],
         "destiny": "5",
+        "errataVersion": "E1",
         "gametext": "Use 1 Force to deploy on your alien warrior (free if on Tatooine). May target a character for free. Draw destiny. Target is forfeit -2 for remainder of turn if destiny +2 > defense value.",
         "icons": [
           "Jabba's Palace"
@@ -34858,6 +35068,7 @@
         ],
         "deploy": "3",
         "destiny": "3",
+        "errataVersion": "E1",
         "forfeit": "5",
         "gametext": "When opponent is losing Force from Force drains at the same or an adjacent site, lost Force must come from Reserve Deck if possible.",
         "icons": [
@@ -35009,6 +35220,7 @@
       ],
       "front": {
         "destiny": "7",
+        "errataVersion": "E1",
         "gametext": "Deploy on Chewie if Han was just lost or just became missing. Opponent cannot play Let The Wookiee Win or Wookiee Roar. Opponent must also lose 1 Force at end of every player's turn. If Han on table, Effect canceled.",
         "icons": [
           "Hoth"
@@ -35043,6 +35255,7 @@
       "front": {
         "deploy": "0",
         "destiny": "0",
+        "errataVersion": "E1",
         "extraText": [
           "Messenger Droid"
         ],
@@ -35218,6 +35431,7 @@
       "front": {
         "darkSideIcons": 2,
         "destiny": "0",
+        "errataVersion": "E1",
         "gametext": "Dark:  While Anakin or Vader here, gains one [Dark Side] icon and one [Light Side] icon.  Light:  If Vader on table, unless Amidala at a Mustafar location, Force drain -1 here.",
         "icons": [
           "Planet",
@@ -35330,6 +35544,7 @@
       },
       "front": {
         "destiny": "0",
+        "errataVersion": "E1",
         "gametext": "My Kind Of Scum:Deploy Desert Heart and a Jabba's Palace site. May deploy Well Guarded. Reveal one unique (•) alien from your deck whose lore specifies its species. This card is your Rep.{For} remainder of game, your Rep is a leader. Well Guarded is immune to Alter. You may not deploy 'insert' cards or operatives. While frozen Han on table, Rebels are immune to No Bargain and Bad Feeling Have I.{Flip} this card if you occupy two battleground sites (must occupy a third with a non-unique alien of your Rep's species if a non-Tatooine location is on table).Fearless And Inventive:{While} this side up, once per turn you may cancel a Force drain or a just-drawn battle destiny by placing here from hand a copy of your Rep. Once during each of your control phases, you may retrieve a non-unique alien of your Rep's species. While Jabba and Bib on table, your battle destiny draws are each +2. Wounded Wookiee is destiny +3. Unless a non-Tatooine location is on table, your aliens are forfeit +2. For remainder of game, your Rep may deploy from here as if from hand.{Flip} this card if you do not occupy 2 battleground sites.",
         "icons": [
           "Premium"
@@ -35482,6 +35697,7 @@
         ],
         "deploy": "3",
         "destiny": "3",
+        "errataVersion": "E1",
         "extraText": [
           "SWARM: 3"
         ],
@@ -35687,6 +35903,7 @@
       "front": {
         "darkSideIcons": 2,
         "destiny": "0",
+        "errataVersion": "E1",
         "gametext": "Dark:  Unless Gungan Energy Shield on table, your AATs are each power +2 here.  Light:  Once per game may take Gungan Energy Shield into hand from Reserve Deck; reshuffle.",
         "icons": [
           "Exterior",
@@ -35863,6 +36080,7 @@
       "front": {
         "darkSideIcons": 3,
         "destiny": "0",
+        "errataVersion": "E1",
         "gametext": "Dark:  Any characters of ability < 5 'hit' here (and all cards on them) are placed in owner's Used Pile.  Light:  Any characters of ability < 5 'hit' here (and all cards on them) are placed in owner's Used Pile.",
         "icons": [
           "Interior",
@@ -36409,6 +36627,7 @@
       "counterpart": "Double Agent",
       "front": {
         "destiny": "6",
+        "errataVersion": "E1",
         "gametext": "If both players have a spy at same site, draw destiny. Add 2 if opponent's spy is Undercover. Opponent's spy is lost if destiny > 2.",
         "imageUrl": "https://res.starwarsccg.org/cards/Premiere-Dark/large/nevaryalnal.gif",
         "lore": "Immense Ranat scavenger from Aralia. Slyly spies for anyone willing to pay his price. Outcast. Works as a laborer for Hrchek, the Saurin droid trader.",
@@ -36438,6 +36657,7 @@
           "dejarik"
         ],
         "destiny": "3",
+        "errataVersion": "E1",
         "gametext": "If opponent just deployed four or more characters to same location this turn, prevent all of those characters from battling this turn. OR if opponent just 'reacted' to a battle, cancel the battle.",
         "icons": [
           "A New Hope"
@@ -36475,6 +36695,7 @@
           "dejarik"
         ],
         "destiny": "3",
+        "errataVersion": "E1",
         "gametext": "Deploy on table. If your character, starship, or vehicle in battle is about to be lost before the damage segment, it is instead lost at end of battle (if forfeited, forfeit for 0). (Immune to Alter.)",
         "icons": [
           "Set 1"
@@ -37082,6 +37303,7 @@
     {
       "front": {
         "destiny": "3",
+        "errataVersion": "E1",
         "gametext": "Deploy on a site. Adds 1 to the total weapon destiny of each of your automated weapons at same and adjacent sites. During battle, may add the power of one of your characters at an adjacent site you control to your total.",
         "imageUrl": "https://res.starwarsccg.org/cards/Premiere-Dark/large/observationholocam.gif",
         "lore": "Remote surveillance viewers with droid controllers supplement security. Can activate alarms and automated weapons when needed, bringing help to endangered locations.",
@@ -37234,6 +37456,7 @@
         ],
         "deploy": "4",
         "destiny": "2",
+        "errataVersion": "E1",
         "extraText": [
           "No Hyperdrive"
         ],
@@ -37278,6 +37501,7 @@
         ],
         "deploy": "2",
         "destiny": "2",
+        "errataVersion": "E1",
         "forfeit": "5",
         "gametext": "Adds 2 to power of anything he pilots. When at a Death Star site, Imperial starships may move to the Death Star system as a 'react.'",
         "icons": [
@@ -37313,6 +37537,7 @@
       ],
       "front": {
         "destiny": "6",
+        "errataVersion": "E1",
         "gametext": "Cancel an attempt by opponent to target your droid to be stolen, 'hit' or lost. Droid is protected from all such attempts for remainder of turn. OR Switch OFF any binary droid for remainder of turn.",
         "icons": [
           "Hoth"
@@ -38373,6 +38598,7 @@
       "counterpart": "Firefight",
       "front": {
         "destiny": "6",
+        "errataVersion": "E1",
         "gametext": "During a battle, if you have weapons at at least 2 sites adjacent to that battle, add 3 to your total power and add one battle destiny. OR For remainder of turn, your biker scout at an exterior site is power +1 and adds 1 to each of that character's weapon destiny draws.",
         "icons": [
           "Endor"
@@ -38474,6 +38700,7 @@
       "counterpart": "Leia Of Alderaan (V)",
       "front": {
         "destiny": "3",
+        "errataVersion": "E1",
         "gametext": "Deploy on your leader. Opponent may not cancel or reduce Force drains at same battleground. If on Emperor, may place Effect in Lost Pile to retrieve an Imperial leader.",
         "icons": [
           "Set 5"
@@ -39067,6 +39294,7 @@
         ],
         "deploy": "2",
         "destiny": "3",
+        "errataVersion": "E1",
         "forfeit": "3",
         "gametext": "Power +3 when battling at same site as Dr. Evazan, unless opponent has a lightsaber present. Adds 2 to power of anything he pilots.",
         "icons": [
@@ -39106,6 +39334,7 @@
         ],
         "deploy": "2",
         "destiny": "3",
+        "errataVersion": "E2",
         "forfeit": "3",
         "gametext": "Adds 2 to power of anything he pilots.  At same site, non-Jedi Luke may not swing a lightsaber at aliens (or return aliens to hand using his game text). During battle, if with a smuggler, may add one destiny to attrition or make that smuggler forfeit = 0.",
         "icons": [
@@ -39324,6 +39553,7 @@
       "counterpart": "Combined Attack",
       "front": {
         "destiny": "4",
+        "errataVersion": "E1",
         "gametext": "During a battle, target opponent's character or vehicle present with two (or more) of your weapons. Add all weapon destiny draws together. Apply that total separately for each weapon in an order of your choosing.",
         "imageUrl": "https://res.starwarsccg.org/cards/Premiere-Dark/large/preciseattack.gif",
         "lore": "'Only Imperial stormtroopers are so precise.'",
@@ -39534,6 +39764,7 @@
       "counterpart": "Legendary Starfighter",
       "front": {
         "destiny": "3",
+        "errataVersion": "E1",
         "gametext": "If opponent just lost a starship in a battle you won, deploy on your participating starfighter. Once during each of opponent's move phases, opponent loses 1 Force (2 if starfighter is a TIE/ln). Also, that starfighter is power +2. (Immune to Control.)",
         "icons": [
           "Special Edition"
@@ -39643,6 +39874,7 @@
     {
       "front": {
         "destiny": "4",
+        "errataVersion": "E1",
         "gametext": "Deploy on your Probe Droid. Adds 2 to X for that droid. OR Use 1 Force to deploy on one of your other droids. When at a site you control, once during each of your control phases, you may peek at one card randomly selected from opponent's hand.",
         "icons": [
           "Hoth"
@@ -39676,6 +39908,7 @@
         ],
         "deploy": "2",
         "destiny": "2",
+        "errataVersion": "E1",
         "extraText": [
           "Probe Droid"
         ],
@@ -39713,6 +39946,7 @@
           "laser cannon"
         ],
         "destiny": "3",
+        "errataVersion": "E1",
         "gametext": "Deploy on your probe droid. May target an artillery weapon (use 5 as defense value), character or creature for free. Draw destiny. Artillery weapon lost if destiny > defense value. Character or creature hit if destiny > defense value.",
         "icons": [
           "Hoth"
@@ -39817,6 +40051,7 @@
       ],
       "front": {
         "destiny": "4",
+        "errataVersion": "E1",
         "gametext": "Use 2 Force to deploy on an opponent's droid (except R2-D2 and C- 3PO), 1 on your droid. When either player draws a destiny matching the number of characters at same site, droid 'explodes' (all characters present are lost).",
         "icons": [
           "A New Hope"
@@ -39851,6 +40086,7 @@
       ],
       "front": {
         "destiny": "3",
+        "errataVersion": "E1",
         "gametext": "Cancel Anger, Fear, Aggression when it is inserted or revealed. OR If your opponent just initiated a battle or Force drain, opponent must choose to use 2 Force, or cancel that battle or Force drain.",
         "icons": [
           "Cloud City"
@@ -40186,6 +40422,7 @@
     {
       "front": {
         "destiny": "4",
+        "errataVersion": "E1",
         "gametext": "Deploy on table. Aurra, Bossk, and Cad are destiny +2. Once per game, may reveal up to two unique (•) aliens from hand and/or Reserve Deck (reshuffle); for remainder of game, those cards are assassins and Black Sun agents. (Immune to Alter.)",
         "icons": [
           "Tatooine",
@@ -40326,6 +40563,7 @@
         ],
         "deploy": "2",
         "destiny": "3",
+        "errataVersion": "E1",
         "extraText": [
           "Astromech Droid"
         ],
@@ -40367,6 +40605,7 @@
         ],
         "deploy": "2",
         "destiny": "2",
+        "errataVersion": "E1",
         "extraText": [
           "Astromech Droid"
         ],
@@ -40404,6 +40643,7 @@
         ],
         "deploy": "1",
         "destiny": "4",
+        "errataVersion": "E1",
         "extraText": [
           "Vehicle Repair Droid"
         ],
@@ -40436,6 +40676,7 @@
         ],
         "deploy": "2",
         "destiny": "4",
+        "errataVersion": "E1",
         "extraText": [
           "Astromech Droid"
         ],
@@ -41148,6 +41389,7 @@
       ],
       "front": {
         "destiny": "4",
+        "errataVersion": "E1",
         "gametext": "If any bounty hunter is defending a battle alone, add one battle destiny. OR If Bossk, Greedo or Boba Fett is defending a battle alone, add two battle destiny.",
         "icons": [
           "Dagobah"
@@ -41179,6 +41421,7 @@
         "ability": "1",
         "deploy": "2",
         "destiny": "3",
+        "errataVersion": "E1",
         "forfeit": "4",
         "gametext": "Adds 1 to power of anything he pilots. When piloting Black 2, Black 3 or Black 4, also adds 1 to maneuver and draws one battle destiny if not able to otherwise.",
         "icons": [
@@ -41275,6 +41518,7 @@
       ],
       "front": {
         "destiny": "5",
+        "errataVersion": "E1",
         "gametext": "Use 2 Force to deploy on any war room at a Rebel Base. Target a Rebel with forfeit > 4 or an opponent's leader. Opponent may not initiate a battle or a Force drain at same location as target. Utinni Effect canceled when reached by target.",
         "icons": [
           "Hoth"
@@ -41337,6 +41581,7 @@
       "counterpart": "Access Denied",
       "front": {
         "destiny": "4",
+        "errataVersion": "E1",
         "gametext": "Insert face up in your Reserve Deck. When Effect reaches top it is lost, along with all opponent's 'insert' cards there. Reshuffle. (Immune to Alter.) OR Deploy between two mobile sites. Opponent's characters may pass only if aboard a Lift Tube or opponent uses +1 Force each.",
         "icons": [
           "Cloud City"
@@ -41528,6 +41773,7 @@
         ],
         "deploy": "2",
         "destiny": "3",
+        "errataVersion": "E1",
         "forfeit": "2",
         "gametext": "Adds 1 to power of each of your bounty hunters and smugglers (but subtracts 1 from Greedo's power) at same site. Adds 1 to power of anything he pilots.",
         "icons": [
@@ -41770,6 +42016,7 @@
         ],
         "deploy": "2",
         "destiny": "3",
+        "errataVersion": "E1",
         "forfeit": "3",
         "gametext": "Once per game, may take Jawa Blaster or a card with 'sandcrawler' in title or game text into hand from Reserve Deck; reshuffle. During opponent's turn, if present at a Tatooine battleground and there is more than 1 Force in opponent's Force Pile, you may use 1 Force in opponent's Force Pile.",
         "icons": [
@@ -42114,6 +42361,7 @@
         ],
         "deploy": "2",
         "destiny": "3",
+        "errataVersion": "E1",
         "extraText": [
           "No Hyperdrive"
         ],
@@ -42229,6 +42477,7 @@
         ],
         "deploy": "3",
         "destiny": "2",
+        "errataVersion": "E1",
         "forfeit": "5",
         "gametext": "Deploys only to a Tatooine site. May add 1 driver and 7 passengers. Cannot move to mobile sites. Adds 1 to forfeit of each Jawa at same exterior site.",
         "imageUrl": "https://res.starwarsccg.org/cards/Premiere-Dark/large/sandcrawler.gif",
@@ -42256,6 +42505,7 @@
       "front": {
         "darkSideIcons": 0,
         "destiny": "0",
+        "errataVersion": "E1",
         "gametext": "Dark:  Deploy on your sandcrawler. Each Jawa is forfeit +2 here. 'Nighttime conditions' here.  Light:  Your characters may enter/exit here for 1 Force each. 'Nighttime conditions' here.",
         "icons": [
           "Interior",
@@ -42437,6 +42687,7 @@
         ],
         "deploy": "6",
         "destiny": "1",
+        "errataVersion": "E1",
         "forfeit": "5",
         "gametext": "Deploys -1 for each other Sith character here (limit - 4). Once per game, may exchange a card in hand with a Sith character in Lost Pile. Immune to attrition < 3.",
         "icons": [
@@ -43340,6 +43591,7 @@
       "counterpart": "This Is All Your Fault",
       "front": {
         "destiny": "4",
+        "errataVersion": "E1",
         "gametext": "Lose a droid to cancel all attrition against you at same site this turn. OR Re-target an opponent's weapon to one of your droids at same site. If droid is 'hit', use original target's forfeit number.",
         "icons": [
           "Hoth"
@@ -43515,6 +43767,7 @@
       "counterpart": "Sense & Recoil In Fear",
       "front": {
         "destiny": "3",
+        "errataVersion": "E1",
         "gametext": "USED: Target your highest-ability character and one just-played Interrupt. Draw destiny. If destiny < ability of target character, cancel target Interrupt.  LOST: Use 3 Force. Each player places hand onto Reserve Deck (if possible), then places Used Pile onto Reserve Deck; reshuffle. Each player then draws cards from Reserve Deck equal to the number of cards just placed from hand onto Reserve Deck (if any).",
         "icons": [
           "Reflections 2"
@@ -44181,6 +44434,7 @@
     {
       "front": {
         "destiny": "5",
+        "errataVersion": "E1",
         "gametext": "If Agents Of Black Sun on table, deploy on table. May use 1 Force to deploy Imperial Square from Reserve Deck; reshuffle. Once per turn, if Emperor on Coruscant, may draw top card of Force Pile (if during your turn and you occupy three battlegrounds, opponent also loses 1 Force). (Immune to Alter.)",
         "icons": [
           "Set 9"
@@ -44206,6 +44460,7 @@
     {
       "front": {
         "destiny": "3",
+        "errataVersion": "E1",
         "gametext": "If a battle you won just ended at an interior site and you have a character of ability > 3 present there, relocate one opponent's character present to an adjacent site. (If on Cloud City, may relocate that character to Weather Vane instead.)",
         "icons": [
           "Cloud City"
@@ -44351,6 +44606,7 @@
       ],
       "front": {
         "destiny": "4",
+        "errataVersion": "E1",
         "gametext": "Deploy on your side of table. Once per turn, you may lose 1 Force to draw the top card of your Reserve Deck into your hand. If that card is a space creature, you may immediately deploy it for free.",
         "icons": [
           "Dagobah"
@@ -44463,6 +44719,7 @@
       ],
       "front": {
         "destiny": "3",
+        "errataVersion": "E1",
         "gametext": "Deploy on Wakeelmui system. Retrieve 1 Force each time you deploy a TIE. Also, once per turn you may relocate a TIE just lost from table to Used Pile. (Immune to Alter while you occupy Wakeelmui.)",
         "icons": [
           "Special Edition"
@@ -44723,6 +44980,7 @@
       "counterpart": "Jedi Levitation (V)",
       "front": {
         "destiny": "4",
+        "errataVersion": "E1",
         "gametext": "USED: If you just drew a character for destiny, take that card into hand to cancel and redraw that destiny.  LOST: Once per game, exchange a Dark Jedi in hand with a Dark Jedi in Lost Pile.",
         "icons": [
           "Tatooine",
@@ -44867,6 +45125,7 @@
         ],
         "deploy": "3",
         "destiny": "2",
+        "errataVersion": "E1",
         "forfeit": "3",
         "gametext": "Deploy -1 to a Tatooine site. May add 1 driver and 5 passengers. May move as a 'react.' If lost, any characters aboard may 'jump off' (disembark).",
         "icons": [
@@ -45072,6 +45331,7 @@
         ],
         "deploy": "2",
         "destiny": "3",
+        "errataVersion": "E1",
         "extraText": [
           "CLAWS: 2"
         ],
@@ -45200,6 +45460,7 @@
       "counterpart": "Sorry About The Mess",
       "front": {
         "destiny": "3",
+        "errataVersion": "E1",
         "gametext": "During your control phase, fire one of your weapons. If URoRRuR'R'R firing, may add 2 to each weapon destiny draw. (A seeker may be targeted by a character weapon, as if a character with defense value of 4.) Any 'hit' targets are immediately lost.",
         "icons": [
           "A New Hope"
@@ -45265,6 +45526,7 @@
         ],
         "deploy": "5",
         "destiny": "1",
+        "errataVersion": "E1",
         "forfeit": "4",
         "gametext": "Deploys -3 to same site as any smuggler or bounty. During your deploy phase, a Vibro-Ax may deploy for free on Snoova from Reserve Deck; reshuffle. When Snoova excludes a target with a Vibro-Ax, he may capture target instead.",
         "icons": [
@@ -45307,6 +45569,7 @@
         ],
         "deploy": "2",
         "destiny": "3",
+        "errataVersion": "E1",
         "forfeit": "3",
         "gametext": "Deploys only on Hoth. Power -1 when not at a Hoth site.",
         "icons": [
@@ -45713,6 +45976,7 @@
       ],
       "front": {
         "destiny": "4",
+        "errataVersion": "E1",
         "gametext": "Deploy on a prison. When one of your troopers 'delivers' (imprisons) a captive here, you may search your Lost Pile, take any one card into hand and then lose effect. (Each captive may be 'delivered' only once until they are released or leave table)",
         "icons": [
           "Cloud City"
@@ -45754,6 +46018,7 @@
           "hologram"
         ],
         "destiny": "7",
+        "errataVersion": "E1",
         "gametext": "Deploy on table. The Phantom Menace is canceled. You lose no Force to Kylo or Kylo's Lightsaber. if Kylo (or Kylo's Lightsaber) just lost, may place this Effect in Lost Pile to take that card into hand. (Immune to Alter.)",
         "icons": [
           "Episode VII",
@@ -45856,6 +46121,7 @@
       ],
       "front": {
         "destiny": "4",
+        "errataVersion": "E1",
         "gametext": "Deploy on Kessel system (may not be moved). Target one captive and one trooper to escort captive. When targets reach Utinni Effect, retrieve Force equal to captive's forfeit (captive and Utinni Effect lost). If trooper lost en route, captive released.",
         "icons": [
           "A New Hope"
@@ -46621,6 +46887,7 @@
       "counterpart": "Echo Trooper Backpack",
       "front": {
         "destiny": "5",
+        "errataVersion": "E1",
         "gametext": "Deploy on your trooper. May use any number of weapons and devices. Trooper is immune to attrition < 3 when at a planet site.",
         "imageUrl": "https://res.starwarsccg.org/cards/Premiere-Dark/large/stormtrooperbackpack.gif",
         "lore": "Standard-issue Imperial equipment with full survival and encampment gear, plus ammunition and food for an extended deployment. Makes each trooper self-sufficient.",
@@ -46651,6 +46918,7 @@
         ],
         "deploy": "1",
         "destiny": "3",
+        "errataVersion": "E1",
         "forfeit": "1",
         "gametext": "Deploys free to same site as an Imperial leader.  Once per turn, may target a non-unique Imperial warrior present; target is power +1 for remainder of turn. When forfeited at same site as an Imperial leader or (non-cadet trooper), also satisfies all remaining attrition against you.",
         "icons": [
@@ -46854,6 +47122,7 @@
       "counterpart": "Blast The Door, Kid!",
       "front": {
         "destiny": "4",
+        "errataVersion": "E1",
         "gametext": "If a battle was just initiated at an interior site, use 1 Force; for remainder of battle all characters of ability > 2 and all leaders (on both sides) are simultaneously excluded from that battle.",
         "icons": [
           "A New Hope"
@@ -47005,6 +47274,7 @@
     {
       "front": {
         "destiny": "3",
+        "errataVersion": "E1",
         "gametext": "Deploy on Death Star system at parsec 0. May target a capital starship at Death Star system, or at a system it orbits, using 4 Force. Draw two destiny. Target hit if total destiny > defense value.",
         "icons": [
           "A New Hope"
@@ -47366,6 +47636,7 @@
       "counterpart": "Merc Sunlet",
       "front": {
         "destiny": "4",
+        "errataVersion": "E1",
         "gametext": "Deploy on your non-thief to give that character thief skill. Once during each of your control phases, may target one device at same site. Draw destiny. If destiny < target's destiny number, it is stolen. OR Deploy on a weapon to prevent theft. (Immune to Alter.)",
         "icons": [
           "A New Hope"
@@ -47625,6 +47896,7 @@
       ],
       "front": {
         "destiny": "4",
+        "errataVersion": "E1",
         "gametext": "Target two starfighters (your TIE/ln and any Rebel starfighter) present at same system or sector. Each player draws destiny. Opponent totals destiny and starship's power. You total destiny, TIE's power and TIE's maneuver. Lowest total loses starfighter.",
         "imageUrl": "https://res.starwarsccg.org/cards/Premiere-Dark/large/tallonroll.gif",
         "lore": "Maneuver named after Adar Tallon, tactician of the Old Republic who revolutionized starfighter combat. Pursuing fighter rolls and turns, maintaining speed and target lock.",
@@ -47766,6 +48038,7 @@
         ],
         "deploy": "4",
         "destiny": "1",
+        "errataVersion": "E1",
         "extraText": [
           "Force-Attuned"
         ],
@@ -47804,6 +48077,7 @@
     {
       "front": {
         "destiny": "4",
+        "errataVersion": "E1",
         "gametext": "Deploy on Death Star. During your control phase, for each battleground system controlled by your Star Destroyer within 2 parsecs of Death Star, opponent loses 1 Force. Canceled if opponent controls this system.",
         "icons": [
           "Set 0"
@@ -47834,6 +48108,7 @@
     {
       "front": {
         "destiny": "5",
+        "errataVersion": "E1",
         "gametext": "Deploy on opponent's spy or Rebel leader. If subsequently captured, seized by a bounty hunter or Imperial and then transferred to Detention Block Corridor, retrieve Force equal to character's forfeit (+4 if Leia) and lose Effect. (Immune to Alter.)",
         "icons": [
           "Special Edition"
@@ -48627,6 +48902,7 @@
       "front": {
         "darkSideIcons": 2,
         "destiny": "0",
+        "errataVersion": "E1",
         "gametext": "Dark:  Your characters here and at Watto's Junkyard are immune to opponent's Sandwhirl.  Light:  For remainder of game, sites may not deploy between this site and Watto's Junkyard.",
         "icons": [
           "Exterior",
@@ -48847,6 +49123,7 @@
         "ability": "1",
         "deploy": "1",
         "destiny": "3",
+        "errataVersion": "E1",
         "forfeit": "2",
         "gametext": "When on Tatooine, may cancel any result of Krayt Dragon Bones. While at Audience Chamber, all your Tusken Raiders are power = 3 and forfeit +2.",
         "icons": [
@@ -49127,6 +49404,7 @@
         ],
         "deploy": "2",
         "destiny": "3",
+        "errataVersion": "E1",
         "forfeit": "4",
         "gametext": "May add 2 pilots or passengers. May move as a 'react' for free. When Arnet piloting, immune to attrition < 4 and adds 1 to attrition against opponent here.",
         "icons": [
@@ -49419,6 +49697,7 @@
       "counterpart": "Grappling Hook",
       "front": {
         "destiny": "5",
+        "errataVersion": "E1",
         "gametext": "If opponent just played an Interrupt, use 1 Force to deploy on table. That Interrupt is played out but is then 'grabbed' (played here but is out of play). Any new Interrupts of the same name are unique (•). (Immune to Control.)",
         "icons": [
           "Grabber",
@@ -49527,6 +49806,7 @@
     {
       "front": {
         "destiny": "4",
+        "errataVersion": "E1",
         "gametext": "If you have a probe droid at a site during your control phase, move one of your starships to the related system. That starship cannot move again this turn.",
         "icons": [
           "Hoth"
@@ -49558,6 +49838,7 @@
       ],
       "front": {
         "destiny": "6",
+        "errataVersion": "E1",
         "gametext": "If Vader and Obi-Wan are present at same site, use 1 Force to initiate a duel between them.  Compare their power, and add 2 if that character is armed with a lightsaber.  Loser (lowest total) of duel is placed out of play.",
         "imageUrl": "https://res.starwarsccg.org/cards/Premiere-Dark/large/thecircleisnowcomplete.gif",
         "lore": "Vader and Obi-Wan Kenobi fought a final lightsaber duel near Hangar Bay 327 on the Death Star. 'When I left you I was but the learner; now I am the master.'",
@@ -49741,6 +50022,7 @@
       ],
       "front": {
         "destiny": "6",
+        "errataVersion": "E1",
         "gametext": "If Luke was just 'frozen,' deploy on Emperor or Detention Block Corridor. Target Luke and Vader. When reached by targets, place Utinni Effect on Luke and opponent must lose Force from Life Force equal to half their Life Force (round down). If Luke released, lose Utinni Effect. (Immune to Alter.)",
         "icons": [
           "Cloud City"
@@ -50102,6 +50384,7 @@
     {
       "front": {
         "destiny": "4",
+        "errataVersion": "E1",
         "gametext": "USED: If your Imperial of ability > 2 just won a battle, randomly take into hand one card stacked on I Feel The Conflict. (Immune to Sense.)  LOST: If Vader in battle, subtract 2 from each of opponent's battle destiny draws.",
         "icons": [
           "Tatooine"
@@ -50261,6 +50544,7 @@
       "counterpart": "What're You Tryin' To Push On Us?",
       "front": {
         "destiny": "3",
+        "errataVersion": "E1",
         "gametext": "Use 3 Force to deploy on table and stack one just-played Interrupt here. To play any new Interrupt of the same name, player must first stack it here and use +1 Force for each Interrupt in stack, even if Interrupt is normally free. (Immune to Control.)",
         "icons": [
           "Grabber",
@@ -50722,6 +51006,7 @@
         ],
         "deploy": "7",
         "destiny": "5",
+        "errataVersion": "E1",
         "forfeit": "5",
         "gametext": "Deploys -2 to a Jabba's Palace site.  If opponent just initiated battle at same site, may use X Force (limit 2) to add twice X to power. Your alien leaders present may not be targeted by weapons. End of your turn: Use 2 Force to maintain OR Lose 1 Force to place in Used Pile OR Place out of play.",
         "icons": [
@@ -50817,6 +51102,7 @@
         ],
         "deploy": "2",
         "destiny": "2",
+        "errataVersion": "E1",
         "forfeit": "3",
         "gametext": "Deploys free to your [Independent Starship] starship. Adds 2 to power of anything he pilots. When with Lieutenant Tanbris in a battle at a system, adds 2 to each of your battle destiny draws.",
         "icons": [
@@ -51017,6 +51303,7 @@
         ],
         "deploy": "3",
         "destiny": "3",
+        "errataVersion": "E1",
         "forfeit": "2",
         "gametext": "Deploy -1 to same system as any Imperial capital starship. May add 1 pilot. Boosted TIE Cannon may deploy aboard.",
         "hyperspeed": "2",
@@ -51327,6 +51614,7 @@
         ],
         "deploy": "2",
         "destiny": "3",
+        "errataVersion": "E1",
         "extraText": [
           "No Hyperdrive"
         ],
@@ -51446,6 +51734,7 @@
         ],
         "deploy": "2",
         "destiny": "2",
+        "errataVersion": "E1",
         "forfeit": "2",
         "gametext": "Twice during each of your control phases, may use 2 Force to draw 2 destiny for 2 chances at a destiny = 2. If successful, may steal or destroy up to 2 weapons or 2 devices present.",
         "icons": [
@@ -51598,6 +51887,7 @@
       ],
       "front": {
         "destiny": "3",
+        "errataVersion": "E1",
         "gametext": "Use 2 Force to deploy on your Star Destroyer. At the end of a battle at same system or sector, may target an opponent's starship present (except Mon Calamari Star Cruiser) using 2 Force. Draw destiny. Target captured if destiny > defense value.",
         "icons": [
           "A New Hope"
@@ -51820,6 +52110,7 @@
       ],
       "front": {
         "destiny": "4",
+        "errataVersion": "E1",
         "gametext": "If you have a piloted AT-AT or AT-ST present at a site, target opponent's character, 'crashed' vehicle or unpiloted vehicle without armor present. Draw destiny. Character lost if destiny > ability. Vehicle lost if destiny < 7.",
         "icons": [
           "Hoth"
@@ -52034,6 +52325,7 @@
         ],
         "deploy": "0",
         "destiny": "2",
+        "errataVersion": "E1",
         "forfeit": "3",
         "gametext": "Deploys only on Cloud City, but may move elsewhere. Power +2 when participating in a battle you initiate. Opponent may use 2 Force to 'bribe' (exclude) Blendin from battle.",
         "icons": [
@@ -52190,6 +52482,7 @@
           "turbolaser battery"
         ],
         "destiny": "2",
+        "errataVersion": "E1",
         "gametext": "Use 3 Force to deploy on your Star Destroyer or any mobile system. May target a starship using 2 Force. Draw two destiny. Subtract 2 if targeting a capital starship. Otherwise, subtract 5. Target hit if total destiny > defense value.",
         "imageUrl": "https://res.starwarsccg.org/cards/Premiere-Dark/large/turbolaserbattery.gif",
         "lore": "High-powered blasters. Require power generators, cryogenic cooling units and large crews. More effective against capital starships than starfighters.",
@@ -52552,6 +52845,7 @@
         ],
         "deploy": "2",
         "destiny": "2",
+        "errataVersion": "E1",
         "forfeit": "4",
         "gametext": "May add 1 driver and 2 passengers. May move as a 'react.'",
         "imageUrl": "https://res.starwarsccg.org/cards/Premiere-Dark/large/ubrikkian9000z001.gif",
@@ -52700,6 +52994,7 @@
     {
       "front": {
         "destiny": "3",
+        "errataVersion": "E1",
         "gametext": "Use 3 Force. Each player places hand onto Reserve Deck (if possible), then places Used Pile onto Reserve Deck; reshuffle. Each player then draws cards from Reserve Deck equal to the number of cards just placed from hand onto Reserve Deck (if any).",
         "icons": [
           "Dagobah"
@@ -52726,6 +53021,7 @@
       "counterpart": "Undercover",
       "front": {
         "destiny": "5",
+        "errataVersion": "E1",
         "gametext": "Deploy on your spy at a site and cross spy to opponent's side. Spy is now Undercover. During your deploy phase, may voluntarily 'break cover' (lose Effect) if at a site. (Immune to Alter.)",
         "icons": [
           "A New Hope"
@@ -52898,6 +53194,7 @@
           "rifle"
         ],
         "destiny": "5",
+        "errataVersion": "E1",
         "gametext": "Use 1 Force to deploy on URoRRuR'R'R or Chief Bast, 3 on your non-droid character. May target a character or creature using 1 Force. Draw destiny. Subtract 1 if targeting a character. Add 2 if targeting a creature. Target hit if total destiny > defense value.",
         "icons": [
           "A New Hope"
@@ -53084,6 +53381,7 @@
       ],
       "front": {
         "destiny": "5",
+        "errataVersion": "E2",
         "gametext": "Vader follows (using landspeed for free) an opponent's character that just moved from same site. OR If Vader in battle alone, your total battle destiny is +1 for each character in battle. OR If Vader in battle, cancel Dodge, It's A Trap!, or Obi-Wan's Journal.",
         "icons": [
           "Tatooine",
@@ -53119,6 +53417,7 @@
     {
       "front": {
         "destiny": "4",
+        "errataVersion": "E1",
         "gametext": "Deploy on a Rebel of ability > 2. If subsequently captured, seized by a bounty hunter and then transferred to a prison where Vader is present, retrieve Force equal to character's forfeit (+4 if Luke) and lose Effect. (Immune to Alter.)",
         "icons": [
           "Cloud City"
@@ -53228,6 +53527,7 @@
         ],
         "deploy": "2",
         "destiny": "2",
+        "errataVersion": "E1",
         "forfeit": "5",
         "gametext": "May add 1 pilot. Vader deploys -2 aboard. While Vader piloting, immune to attrition < 5, and during battle, may cancel game text of a passenger (or pilot of ability < 4) here.",
         "hyperspeed": "3",
@@ -53301,6 +53601,7 @@
           "lightsaber"
         ],
         "destiny": "1",
+        "errataVersion": "E1",
         "gametext": "Deploy on Vader. May add 1 to Force drain where present. May target a character or creature for free. Draw two destiny. Target hit, and its forfeit = 0, if total destiny > defense value.",
         "imageUrl": "https://res.starwarsccg.org/cards/Premiere-Dark/large/vaderslightsaber.gif",
         "lore": "Custom-built by Darth Vader. After the Clone Wars, he wielded this weapon while hunting down the last of the Jedi. Cuts through almost anything except another lightsaber blade.",
@@ -53583,6 +53884,7 @@
         ],
         "deploy": "3",
         "destiny": "1",
+        "errataVersion": "E1",
         "extraText": [
           "Force-Attuned"
         ],
@@ -53625,6 +53927,7 @@
       "counterpart": "Vehicle Mine",
       "front": {
         "destiny": "3",
+        "errataVersion": "E1",
         "gametext": "Deploy at same exterior site as your mining droid. 'Explodes' if starfighter (use 5 as defense value) or non-creature vehicle deploys or moves to or across same site. Draw destiny. Target lost if destiny +2 > defense value. Vehicle Mine is also lost.",
         "icons": [
           "Hoth"
@@ -53802,6 +54105,7 @@
       "counterpart": "Vibro-Ax",
       "front": {
         "destiny": "4",
+        "errataVersion": "E1",
         "gametext": "Use 3 Force to deploy on any alien warrior. Adds 1 to power. May target a character using 1 Force. Both players draw destiny. Target immediately excluded from battle if warrior's power + your destiny > target's power + opponent's destiny.",
         "icons": [
           "Jabba's Palace"
@@ -53967,6 +54271,7 @@
         ],
         "deploy": "2",
         "destiny": "3",
+        "errataVersion": "E1",
         "extraText": [
           "SLITHER: 3"
         ],
@@ -54292,6 +54597,7 @@
     {
       "front": {
         "destiny": "5",
+        "errataVersion": "E1",
         "gametext": "If you have a piloted AT-AT present at a site, target opponent's artillery weapon at same or adjacent exterior site. Draw destiny. Target lost if destiny +1 > forfeit. Also, one opponent's character at same site as target (random selection) lost if destiny +1 > 6.",
         "icons": [
           "Hoth"
@@ -54345,6 +54651,7 @@
     {
       "front": {
         "destiny": "5",
+        "errataVersion": "E1",
         "gametext": "If you have a piloted AT-AT present at a site, target any number of opponent's troopers present at same or adjacent exterior site. Draw destiny. If destiny > number of troopers targeted, they are lost.",
         "icons": [
           "Hoth"
@@ -54410,6 +54717,7 @@
         "ability": "2",
         "deploy": "2",
         "destiny": "3",
+        "errataVersion": "E1",
         "forfeit": "3",
         "gametext": "Adds 2 to power of anything he pilots. May use 1 Force to take one tractor beam, Our First Catch Of The Day or Besieged into hand from Reserve Deck; reshuffle.",
         "icons": [
@@ -54613,6 +54921,7 @@
       ],
       "front": {
         "destiny": "3",
+        "errataVersion": "E1",
         "gametext": "Use 1 Force if opponent's character is about to be lost or forfeited from battle. It is captured instead (character is first restored to normal). OR Use X Force to capture all characters on board a captured starship, where X = twice the number of characters.",
         "icons": [
           "A New Hope"
@@ -54875,6 +55184,7 @@
       "front": {
         "deploy": "2",
         "destiny": "3",
+        "errataVersion": "E1",
         "extraText": [
           "Maintenance Droid"
         ],
@@ -55007,6 +55317,7 @@
         ],
         "deploy": "4",
         "destiny": "2",
+        "errataVersion": "E1",
         "forfeit": "3",
         "gametext": "Deploys only on Tatooine. May fire one weapon during your control phase (at double use of Force). May use 2 Force to 'assassinate' any character just 'hit' by Weequay Marksman (victim is immediately lost).",
         "icons": [
@@ -55134,6 +55445,7 @@
     {
       "front": {
         "destiny": "4",
+        "errataVersion": "E1",
         "gametext": "Deploy on your general or commander. When battling, adds 1 to your total battle destiny (or 2 if Igar). Once during each of your control phases, may take one Imperial Propaganda into hand from Reserve Deck; reshuffle. Your Force drains are +1 at holosites.",
         "icons": [
           "Endor"
@@ -55588,6 +55900,7 @@
         ],
         "deploy": "3",
         "destiny": "3",
+        "errataVersion": "E1",
         "forfeit": "2",
         "gametext": "Deploys only at Tatooine. Power +2 when defending a battle at a Jabba's Palace site. Adds 2 to power of anything he pilots (3 if piloting an [Independent Starship] starship or if Jabba is aboard).",
         "icons": [
@@ -55827,6 +56140,7 @@
       "front": {
         "darkSideIcons": 2,
         "destiny": "0",
+        "errataVersion": "E1",
         "gametext": "Dark:  Once per game, may exchange an alien in hand with a non-spy Black Sun agent in Lost Pile.  Light:  Once per game, if you control, may retrieve a Corellian.",
         "icons": [
           "Underground",
@@ -56410,6 +56724,7 @@
     {
       "front": {
         "destiny": "4",
+        "errataVersion": "E1",
         "gametext": "USED: Use 1 Force to take a [First Order] shuttle into hand from Reserve Deck; reshuffle.  STARTING: Deploy Jakku: Landing Site, Bow To The First Order, and one Effect that deploys on table and is always immune to Alter. Place this Interrupt in hand.",
         "icons": [
           "Episode VII",
@@ -56963,6 +57278,7 @@
         ],
         "deploy": "4",
         "destiny": "1",
+        "errataVersion": "E1",
         "extraText": [
           "Force-Sensitive"
         ],
@@ -57016,6 +57332,7 @@
         ],
         "deploy": "6",
         "destiny": "1",
+        "errataVersion": "E1",
         "forfeit": "5",
         "gametext": "May add 1 pilot and 3 passengers. Permanent pilot is •Zuckuss, who provides ability of 4 and adds 2 to power. Unless opponent has total ability > 6 piloting here, may reset opponent's total battle destiny here to 0.",
         "hyperspeed": "5",
@@ -57053,6 +57370,7 @@
           "rifle"
         ],
         "destiny": "1",
+        "errataVersion": "E1",
         "gametext": "Deploy on Zuckuss, or use 1 Force to deploy on any other bounty hunter. May target a character or creature using 2 Force. Draw destiny. Character captured if destiny -1 > defense value. Creature lost if destiny +1 > defense value.",
         "icons": [
           "Dagobah"
@@ -57137,6 +57455,7 @@
         ],
         "deploy": "3",
         "destiny": "3",
+        "errataVersion": "E1",
         "extraText": [
           "Force-Attuned"
         ],
@@ -57265,6 +57584,7 @@
         ],
         "deploy": "4",
         "destiny": "3",
+        "errataVersion": "E1",
         "extraText": [
           "Force-Sensitive"
         ],
@@ -57331,6 +57651,7 @@
     {
       "front": {
         "destiny": "3",
+        "errataVersion": "E1",
         "gametext": "If you have deployed a site (except Imperial Square) with exactly two [Dark Side] (and no other locations), deploy a related (or mobile) battleground site and up to three Effects that deploy for free and are always immune to Alter. Place Interrupt in Lost Pile.",
         "icons": [
           "Cloud City",
@@ -58520,6 +58841,7 @@
       },
       "front": {
         "destiny": "0",
+        "errataVersion": "E1",
         "gametext": "Shadow Collective: Deploy Maul's Chambers. If Massassi Throne Room on table, may deploy [Set 13] Maul to Maul's Chambers. {For} remainder of game, you may not deploy cards with ability (or [Episode I] droids) except characters with 'Black Sun,' 'Crimson Dawn,' or 'Hutt' in lore, assassins, gangsters, [Episode I] bounty hunters, and [Independent] starships. Once per turn, may deploy a non-unique blaster (or a card with 'First Light' in title) from Reserve Deck; reshuffle. {Flip} this card if you just 'hit' a character (or during your battle phase if your gangsters control two battlegrounds). You Know Who I Answer To: {May immediately} re-circulate and shuffle your Reserve Deck. {While} this side up, if your gangster leader in battle at same site as your non-unique blaster, may add one destiny to total power. During your draw phase, if Maul alone, may peek at the cards in your Force Pile. {Flip} this card at end of turn. If you are about to flip this card and you occupy three battlegrounds, opponent loses 1 Force.",
         "icons": [
           "Set 13"
@@ -58692,6 +59014,7 @@
     {
       "front": {
         "destiny": "4",
+        "errataVersion": "E1",
         "gametext": "If I Will Finish What You Started on table, deploy on table. While [Episode VII] Emperor on Exegol, attrition against opponent is +2 at same location as Kylo, Rey, or Snoke and, once per game, may deploy an [Episode VII] battleground system from Reserve Deck; reshuffle. (Immune to Alter.)",
         "icons": [
           "Episode VII",
@@ -58930,6 +59253,7 @@
         "armor": "6",
         "deploy": "7",
         "destiny": "1",
+        "errataVersion": "E1",
         "forfeit": "8",
         "gametext": "May add 6 pilots, 8 passengers, and 2 starfighters. Permanent pilot provides ability of 2. While alone at a battleground, adds Force icons to equalize them for both sides here. Immune to attrition < 4.",
         "hyperspeed": "3",
@@ -59002,6 +59326,7 @@
         ],
         "deploy": "4",
         "destiny": "1",
+        "errataVersion": "E1",
         "extraText": [
           "Force-Attuned"
         ],
@@ -59360,6 +59685,7 @@
       "front": {
         "darkSideIcons": 2,
         "destiny": "0",
+        "errataVersion": "E1",
         "gametext": "Dark:  May deploy non-[Theed Palace] Sidious here from Reserve Deck; reshuffle. If your [Special Edition] objective on table, gains one [Light Side] icon and opponent's Force drains are +2 here.  Light:  -",
         "icons": [
           "Exterior",
@@ -60058,6 +60384,7 @@
           0.5,
           5.5
         ],
+        "errataVersion": "E1",
         "extraText": [
           "Astromech Droid"
         ],
@@ -60988,6 +61315,7 @@
       ],
       "front": {
         "destiny": "4",
+        "errataVersion": "E1",
         "gametext": "Deploy on table. If Revenge Of The Sith on table, your Sidious may be targeted by Force Lightning and Lord Sidious may use his game text as if alone. Once per game, if Sidious with a Dark Jedi, may retrieve a character into hand. [Immune to Alter.]",
         "icons": [
           "Episode I",
@@ -62141,7 +62469,6 @@
       "rulings": [
         "The movement action requires the loss of 1 Force as well as the normal movement cost (e.g. for most characters, Dark will lose 1 Force and then use 1 Force.  For EPP Mara with her conditions met, Dark will lose 1 Force and then move her for free)."
       ],
-
       "set": "219",
       "side": "Dark"
     },
