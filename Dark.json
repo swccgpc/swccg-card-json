@@ -867,6 +867,11 @@
         }
       ],
       "rarity": "R",
+      "rulings": [
+        "(7-side) When calculating immunity to attrition, start with the base immunity and apply any modifiers (such as Darth Tyranus). Finally, apply the limit (limit of < 5 from this objective) last.",
+        "For example, General Kenobi (normally immune < 6) would be reduced to < 5 by Tyranus first. Then the limit of < 5 would be applied to no further effect.",
+        "For example, Qui-Gon Jinn (fully immune to attrition) would not be affected by Tyranus at all. Then the limit of < 5 would be applied to Qui-Gon."
+      ],
       "set": "211",
       "side": "Dark"
     },
@@ -4307,7 +4312,7 @@
         "Combat Cloud Car",
         "Dune Walker",
         "Imperial Walker",
-        "Marquand In Blizzard 6 (V)",
+        "Marquand In Blizzard 6",
         "Multi Troop Transport",
         "Single Trooper Aerial Platform",
         "Speeder Bike",
@@ -4785,6 +4790,9 @@
         }
       ],
       "rarity": "U",
+      "rulings": [
+        "May deploy even if there is no Bespin System or Cloud City site on table."
+      ],
       "set": "5",
       "side": "Dark"
     },
@@ -8037,8 +8045,9 @@
         ],
         "deploy": "2",
         "destiny": "3",
+        "errataVersion": "E1",
         "forfeit": "3",
-        "gametext": "Deploys -2 aboard Scimitar 2. Adds 2 to power of anything he pilots. When forfeited from a TIE/sa, also satisfies all remaining attrition and battle damage against you.",
+        "gametext": "Deploys -2 aboard Scimitar 2. Adds 2 to power of anything he pilots. When forfeited from a TIE/sa he is piloting, also satisfies all remaining attrition and battle damage against you.",
         "icons": [
           "Pilot",
           "Death Star II"
@@ -9914,6 +9923,9 @@
         }
       ],
       "rarity": "C",
+      "rulings": [
+        "May only deploy to a planet system card or to Bespin: Cloud City. For example, cannot deploy connected to Tatooine: Mos Eisley without the Tatooine system on table. Cannot deploy connected to Cloud City: Casino without the Bespin system or Bespin: Cloud City sector on table."
+      ],
       "set": "5",
       "side": "Dark"
     },
@@ -10971,6 +10983,9 @@
         "Yavin 4"
       ],
       "rarity": "R",
+      "rulings": [
+        "This card is not a captain."
+      ],
       "set": "9",
       "side": "Dark"
     },
@@ -11859,6 +11874,9 @@
         "Blizzard 4"
       ],
       "rarity": "R",
+      "rulings": [
+        "This card is not a commander."
+      ],
       "set": "8",
       "side": "Dark"
     },
@@ -17939,7 +17957,6 @@
       "counterpart": "Thrown Back",
       "front": {
         "destiny": "3",
-        "errataVersion": "E1",
         "gametext": "Use 3 Force to deploy on table. During your move phase, if opponent has 13 or more cards in hand, you may use 4 Force to place all but 8 (random choice) in Used Pile. Once during any control phase, you may place up to three cards from hand in Used Pile.",
         "icons": [
           "Episode I",
@@ -23330,7 +23347,8 @@
       "rarity": "R1",
       "rulings": [
         "May cancel any type of destiny such as battle destiny, weapon destiny, Sense destiny, etc.",
-        "May cancel a duel destiny (if the duel takes place during a battle where Tarkin is with Vader)."
+        "May cancel a duel destiny (if the duel takes place during a battle where Tarkin is with Vader).",
+        "This card is not a commander ('commanded' doesn't count)."
       ],
       "set": "1",
       "side": "Dark"
@@ -23376,7 +23394,8 @@
       ],
       "rarity": "R1",
       "rulings": [
-        "If he adds a battle destiny, he can no longer draw one battle destiny if unable to otherwise that battle."
+        "If he adds a battle destiny, he can no longer draw one battle destiny if unable to otherwise that battle.",
+        "This card is not a commander ('commanded' doesn't count)."
       ],
       "set": "200",
       "side": "Dark"
@@ -24283,7 +24302,7 @@
         "destiny": "2",
         "errataVersion": "E1",
         "forfeit": "5",
-        "gametext": "Draws one battle destiny in not able to otherwise. While at Audience Chamber (or stacked on your Objective), your other Weequays are deploy -1, power +1, and forfeit +2. Once per game, may deploy Aurra Sing, Slave I, or a Kowakian from Reserve Deck; reshuffle.",
+        "gametext": "Draws one battle destiny in not able to otherwise. While at Audience Chamber (or stacked on your Objective), your other Weequays are deploy -1, power +1, and forfeit +2. Once per game, may deploy Aurra, Slave I, or a Kowakian from Reserve Deck; reshuffle.",
         "icons": [
           "Pilot",
           "Warrior",
@@ -24549,7 +24568,7 @@
       "front": {
         "darkSideIcons": 2,
         "destiny": "0",
-        "gametext": "Dark:  Once per game, may exchange an Interrupt from hand with bottom card of your Reserve Deck.  Light:  Ice Storm is canceled at Hoth sites.",
+        "gametext": "Dark:  Once per game, may exchange an Interrupt from hand with bottom card of your Reserve Deck. Ice Storm is canceled at Hoth sites.  Light:",
         "icons": [
           "Exterior",
           "Planet",
@@ -26803,7 +26822,8 @@
       ],
       "rarity": "U1",
       "rulings": [
-        "Mara Jade, The Emperor's Hand (for example) does not make this card lost."
+        "Mara Jade, The Emperor's Hand (for example) does not make this card lost.",
+        "<u>Both</u> of the bonuses (Dark retrieving an Imperial, and Dark taking a just drawn Imperial into hand) require Dark to occupy at least as many locations as opponent."
       ],
       "set": "201",
       "side": "Dark"
@@ -26814,6 +26834,7 @@
       ],
       "back": {
         "destiny": "7",
+        "errataVersion": "E1",
         "gametext": "Imperial Entanglements:Deploy Tatooine system (with Devastator there) and a Tatooine battleground site.{For} remainder of game, you may not deploy Sandwhirl, Admiral's Orders, Jabba's Palace sites, non-Imperial characters, non-Imperial starships, or systems.{While} this side up, opponent loses no Force to Tatooine Occupation or your Force drains at Tatooine system. Once per turn, may deploy a Tatooine battleground site from Reserve Deck; reshuffle.{Flip} this card if you control three Tatooine sites and opponent controls fewer than three Tatooine sites. No One To Stop Us This Time: {While} this side up, once during your control phase, may peek at up to X cards from the top of your Reserve Deck, where X = number of Tatooine locations you occupy; take one into hand and shuffle your Reserve Deck. Once per turn, may deploy a Tatooine battleground site from Reserve Deck; reshuffle. Opponent's characters require +1 Force to move from Tatooine sites using their landspeed. During your draw phase, you may retrieve one trooper.{Flip} this card if opponent controls more Tatooine sites than you.",
         "icons": [
           "Set 1"
@@ -29754,7 +29775,7 @@
       ],
       "rarity": "PM",
       "rulings": [
-        "May cancel any opponent's battle destiny except the first one.",
+        "May cancel any opponent's battle destiny except the first one. This works even if the first destiny was substituted (e.g. by Darklighter Spin).",
         "If firing a repeating weapon (e.g. Light Repeating Blaster Rifle), only the first shot can be made free. The text can be used to add 2 to weapon destiny on a repeat firing instead, but it won't be free.",
         "Jodo is not a 'character with Mandalorian Armor' so if his game text is canceled, he may not use Hidden Weapons."
       ],
@@ -31689,6 +31710,10 @@
         "Aratech Corporation (V)"
       ],
       "rarity": "U",
+      "rulings": [
+        "This card is not a general.",
+        "This card is not a commander ('commanded' doesn't count)."
+      ],
       "set": "8",
       "side": "Dark"
     },
@@ -31812,6 +31837,7 @@
         "ability": "2",
         "deploy": "0",
         "destiny": "6",
+        "errataVersion": "E1",
         "forfeit": "3",
         "gametext": "When drawn for destiny, use 1 Force or this card is lost. Adds 2 to power of anything he pilots. During your deploy phase, may use 3 Force to relocate Kylo from here to same site as a Resistance Agent.",
         "icons": [
@@ -32143,8 +32169,9 @@
         "ability": "2",
         "deploy": "2",
         "destiny": "2",
+        "errataVersion": "E1",
         "forfeit": "3",
-        "gametext": "Deploys -1 to Executor. While aboard a capital starship, adds 1 to armor and its defense value may not be reduced. While Fear Will Keep Them In Line here, when you win a battle at a related site where you have an Imperial, opponent loses 2 Force.",
+        "gametext": "Deploys -1 to Executor. While aboard a capital starship, adds 1 to armor and its defense value may not be reduced. If Fear Will Keep Them In Line here and your Imperial just won a battle at a related site, opponent loses 2 Force.",
         "icons": [
           "Pilot",
           "Warrior",
@@ -34057,6 +34084,9 @@
         }
       ],
       "rarity": "PM",
+      "rulings": [
+        "This card is the same Marquand persona as the Major Marquand character card. Both cannot be on table at the same time, and neither card may persona replace the other."
+      ],
       "set": "210",
       "side": "Dark"
     },
@@ -40918,6 +40948,7 @@
       ],
       "back": {
         "destiny": "7",
+        "errataVersion": "E1",
         "gametext": "Ralltiir Operations:Deploy Ralltiir system.{For} remainder of game, spaceport sites are immune to Always Thinking With Your Stomach, He Hasn't Come Back Yet, and Ounee Ta. Your Force generation is +1 at each Ralltiir location. {While} this side up, once per turn, may deploy a site (or non-unique Imperial) to Ralltiir from Reserve Deck; reshuffle.{Flip} this card if Imperials control at least three Ralltiir sites and opponent controls no Ralltiir locations.In The Hands Of The Empire:{While} this side up, opponent's Force drains are -1 at their locations. Your total battle destiny is +X, where X = number of Ralltiir locations your Imperials occupy. {Flip} this card if opponent controls at least two Ralltiir locations.",
         "icons": [
           "Set 10"
@@ -40928,6 +40959,7 @@
       },
       "front": {
         "destiny": "0",
+        "errataVersion": "E1",
         "gametext": "Ralltiir Operations:Deploy Ralltiir system.{For} remainder of game, spaceport sites are immune to Always Thinking With Your Stomach, He Hasn't Come Back Yet, and Ounee Ta. Your Force generation is +1 at each Ralltiir location. {While} this side up, once per turn, may deploy a site (or non-unique Imperial) to Ralltiir from Reserve Deck; reshuffle.{Flip} this card if Imperials control at least three Ralltiir sites and opponent controls no Ralltiir locations.In The Hands Of The Empire:{While} this side up, opponent's Force drains are -1 at their locations. Your total battle destiny is +X, where X = number of Ralltiir locations your Imperials occupy. {Flip} this card if opponent controls at least two Ralltiir locations.",
         "icons": [
           "Set 10"
@@ -41566,7 +41598,13 @@
       ],
       "rarity": "C2",
       "rulings": [
-        "May not be deployed on an opponent's Undercover spy."
+        "May not be deployed on an opponent's Undercover spy.",
+        "The phase 'cannot utilize game text' means the droid's game text is canceled (e.g. the game text cancelation can be prevented by Pride Of The Empire (V), in which case the droid still cannot move).",
+        "This device may only deploy on (or transfer to) a droid that is at a site.",
+        "This device may even deploy an opponent's droid.",
+        "The owner of the Restraining Bolt may transfer it to a droid present with it at a site, even an opponent's droid.",
+        "If stolen by a non-droid character (e.g. using Swilla Corey), that character carries it but the Restraining Bolt is inactive while it is on a non-droid character. Even while stolen and inactive, the new owner may still transfer it (see above rulings for transfer details).",
+        "If stolen by a droid character (e.g. using Retractable Arm), the droid character carrying the stolen Restraining Bolt is then affected by it (droid cannot move and droid's game text canceled. The new owner of the stolen Restraining Bolt may transfer it (see above rulings for transfer details)."
       ],
       "set": "1",
       "side": "Dark"
@@ -42529,7 +42567,7 @@
       ],
       "rarity": "R1",
       "rulings": [
-        "Must deploy to a specific Sandcrawler on table (may be unique or non-unique, and may belong to either player).  This site, and any cards at it, are lost when that Sandcrawler is lost.",
+        "Must deploy to a specific Sandcrawler on table (may be unique or non-unique, and must belong to Dark).  This site, and any cards at it, are lost when that Sandcrawler is lost.",
         "This site is 'adjacent' to the site where the Sandcrawler vehicle is (for example, Expand The Empire can expand text to or from here).",
         "This site is 'related' to all sites on the same planet that the Sandcrawler is on.",
         "This site does <u>not</u> take on the name of the planet (e.g. it is not a Tatooine site, a character here is not 'on Tatooine' or 'on Cloud City' even if the Sandcrawler is, etc)."
@@ -42571,6 +42609,10 @@
         "We Must Accelerate Our Plans"
       ],
       "rarity": "PM",
+      "rulings": [
+        "When a player uses the card from Sando Aqua Monster instead of drawing a weapon or battle destiny, they are performing a substituted destiny draw. The destiny value from the card on Sando is used, and it cannot be modified, canceled or reset and does not count towards limits on the number of destinies that may be drawn.",
+        "Although the substituted destiny value from Sando Aqua Monster may not subsequently be modified (e.g. by Prepared Defenses), the destiny value of the stacked card could have already been subject to global modifiers (e.g. the Senate objectives can make senators globally destiny +2 or +3). Such global modifiers affect the card while it is on Sando, so they apply when the destiny substitution occurs."
+      ],
       "set": "13",
       "side": "Dark"
     },
@@ -44122,6 +44164,9 @@
         "Blizzard 4"
       ],
       "rarity": "R",
+      "rulings": [
+        "This card is not a commander ('commanded' doesn't count)."
+      ],
       "set": "7",
       "side": "Dark"
     },
@@ -44784,6 +44829,9 @@
         "The Phantom Menace"
       ],
       "rarity": "U",
+      "rulings": [
+        "This card is not a commander ('commanded' doesn't count)."
+      ],
       "set": "14",
       "side": "Dark"
     },
@@ -44973,6 +45021,10 @@
         }
       ],
       "rarity": "C",
+      "rulings": [
+        "(Lost function) If Dark's draws and Light's draws add up to the same total, neither player has a lower total, and so neither player will be at risk of losing 6 Force to Sith Fury.",
+        "(Lost function) If Dark only has 1 card in Reserve Deck (or Light only has 2 cards in Reserve Deck), they still draw destiny and may still have the higher total. But if a player has 0 cards in Reserve Deck, they have no Sith Fury total and lose automatically (unless both players have 0 cards in Reserve Deck, in which case it is a tie and neither player will be at risk of losing 6 Force to Sith Fury)."
+      ],
       "set": "11",
       "side": "Dark"
     },
@@ -45481,6 +45533,10 @@
         }
       ],
       "rarity": "U1",
+      "rulings": [
+        "During initiation of this Interrupt, a player chooses a weapon to fire, not a target to fire at. Opponent's response (such as Sense) is played before the target to fire at is chosen. A response to the weapon targeting (e.g. Blaster Deflection) is played slightly later, after that target is chosen.",
+        "I Have A Bad Feeling About This may retarget to a different weapon that can fire, but cannot choose a new target to fire at (because no target to fire at has been selected yet)."
+      ],
       "set": "2",
       "side": "Dark"
     },
@@ -45512,6 +45568,10 @@
         }
       ],
       "rarity": "PM",
+      "rulings": [
+        "(First Lost function) During initiation of this Interrupt, a player chooses a weapon to fire, not a target to fire at. Opponent's response (such as Sense) is played before the target to fire at is chosen. A response to the weapon targeting (e.g. Blaster Deflection) is played slightly later, after that target is chosen.",
+        "(First Lost function) I Have A Bad Feeling About This may retarget to a different weapon that can fire, but cannot choose a new target to fire at (because no target to fire at has been selected yet)."
+      ],
       "set": "10",
       "side": "Dark"
     },
@@ -49532,6 +49592,9 @@
       "conceptBy": "(Original concept by Ryan Jellison)",
       "front": {
         "armor": "3",
+        "characteristics": [
+          "enclosed"
+        ],
         "deploy": "3",
         "destiny": "3",
         "forfeit": "4",
@@ -49558,6 +49621,10 @@
         {
           "set": "202"
         }
+      ],
+      "pulledBy": [
+        "Aratech Corporation (V)",
+        "Battle Deployment"
       ],
       "rarity": "R",
       "set": "202",
@@ -49855,6 +49922,9 @@
         }
       ],
       "rarity": "R1",
+      "rulings": [
+        "In the event of a tie, there is no winner or loser, so neither character is placed out of play."
+      ],
       "set": "1",
       "side": "Dark"
     },
@@ -55900,7 +55970,6 @@
         ],
         "deploy": "3",
         "destiny": "3",
-        "errataVersion": "E1",
         "forfeit": "2",
         "gametext": "Deploys only at Tatooine. Power +2 when defending a battle at a Jabba's Palace site. Adds 2 to power of anything he pilots (3 if piloting an [Independent Starship] starship or if Jabba is aboard).",
         "icons": [
@@ -55939,8 +56008,9 @@
         ],
         "deploy": "2",
         "destiny": "3",
+        "errataVersion": "E1",
         "forfeit": "4",
-        "gametext": "Adds 3 to power of anything he pilots. May deploy with any cruiser using Combat Response. While aboard an [Independent] starship, opponent's battle and weapon destiny draws here are -1.",
+        "gametext": "Adds 3 to power of anything he pilots. May deploy with any cruiser using Combat Response. While aboard a piloted [Independent] starship, opponent's battle and weapon destiny draws here are -1.",
         "icons": [
           "Pilot",
           "Jabba's Palace",
@@ -58515,7 +58585,7 @@
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual13-Dark/large/executorcontrolstation.gif",
         "lightSideIcons": 0,
         "subType": "Site",
-        "title": "•Executor: Control Station",
+        "title": "•Executor: Control Station (V)",
         "type": "Location",
         "uniqueness": "*"
       },
@@ -58789,6 +58859,7 @@
       ],
       "back": {
         "destiny": "7",
+        "errataVersion": "E1",
         "gametext": "Hunt Down And Destroy The Jedi: Deploy Vader's Castle, [Set 13] Visage Of The Emperor, and a [Cloud City] site with exactly one [Dark Side]. {For} remainder of game, you may not deploy characters except bounty hunters, droids, and Imperials. Where you have an Inquisitor, your total battle destiny is +1 (+2 if with a 'Hatred' card). Inquisitors are destiny +1. {While} this side up, once per turn, may deploy a [Cloud City] or Malachor battleground site from Reserve Deck; reshuffle. {Flip} this card if Vader is at a battleground site unless Luke, a Jedi, or a Padawan at a battleground site. Their Fire Has Gone Out Of The Universe: {While} this side up, you lose no Force from Visage Of The Emperor. While Vader armed with a lightsaber, opponent's Force drain bonuses are canceled. {Flip} this card if Vader not on table or if Luke, a Jedi, or a Padawan at a battleground site; once per game, may take Vader and your cards on him into hand from a site you control.",
         "icons": [
           "Set 13"
@@ -58799,6 +58870,7 @@
       },
       "front": {
         "destiny": "0",
+        "errataVersion": "E1",
         "gametext": "Hunt Down And Destroy The Jedi: Deploy Vader's Castle, [Set 13] Visage Of The Emperor, and a [Cloud City] site with exactly one [Dark Side]. {For} remainder of game, you may not deploy characters except bounty hunters, droids, and Imperials. Where you have an Inquisitor, your total battle destiny is +1 (+2 if with a 'Hatred' card). Inquisitors are destiny +1. {While} this side up, once per turn, may deploy a [Cloud City] or Malachor battleground site from Reserve Deck; reshuffle. {Flip} this card if Vader is at a battleground site unless Luke, a Jedi, or a Padawan at a battleground site. Their Fire Has Gone Out Of The Universe: {While} this side up, you lose no Force from Visage Of The Emperor. While Vader armed with a lightsaber, opponent's Force drain bonuses are canceled. {Flip} this card if Vader not on table or if Luke, a Jedi, or a Padawan at a battleground site; once per game, may take Vader and your cards on him into hand from a site you control.",
         "icons": [
           "Set 13"
@@ -58831,6 +58903,7 @@
       ],
       "back": {
         "destiny": "7",
+        "errataVersion": "E1",
         "gametext": "Shadow Collective: Deploy Maul's Chambers. If Massassi Throne Room on table, may deploy [Set 13] Maul to Maul's Chambers. {For} remainder of game, you may not deploy cards with ability (or [Episode I] droids) except characters with 'Black Sun,' 'Crimson Dawn,' or 'Hutt' in lore, assassins, gangsters, [Episode I] bounty hunters, and [Independent] starships. Once per turn, may deploy a non-unique blaster (or a card with 'First Light' in title) from Reserve Deck; reshuffle. {Flip} this card if you just 'hit' a character (or during your battle phase if your gangsters control two battlegrounds). You Know Who I Answer To: {May immediately} re-circulate and shuffle your Reserve Deck. {While} this side up, if your gangster leader in battle at same site as your non-unique blaster, may add one destiny to total power. During your draw phase, if Maul alone, may peek at the cards in your Force Pile. {Flip} this card at end of turn. If you are about to flip this card and you occupy three battlegrounds, opponent loses 1 Force.",
         "icons": [
           "Set 13"
@@ -58841,7 +58914,6 @@
       },
       "front": {
         "destiny": "0",
-        "errataVersion": "E1",
         "gametext": "Shadow Collective: Deploy Maul's Chambers. If Massassi Throne Room on table, may deploy [Set 13] Maul to Maul's Chambers. {For} remainder of game, you may not deploy cards with ability (or [Episode I] droids) except characters with 'Black Sun,' 'Crimson Dawn,' or 'Hutt' in lore, assassins, gangsters, [Episode I] bounty hunters, and [Independent] starships. Once per turn, may deploy a non-unique blaster (or a card with 'First Light' in title) from Reserve Deck; reshuffle. {Flip} this card if you just 'hit' a character (or during your battle phase if your gangsters control two battlegrounds). You Know Who I Answer To: {May immediately} re-circulate and shuffle your Reserve Deck. {While} this side up, if your gangster leader in battle at same site as your non-unique blaster, may add one destiny to total power. During your draw phase, if Maul alone, may peek at the cards in your Force Pile. {Flip} this card at end of turn. If you are about to flip this card and you occupy three battlegrounds, opponent loses 1 Force.",
         "icons": [
           "Set 13"
@@ -58859,6 +58931,9 @@
         }
       ],
       "rarity": "C",
+      "rulings": [
+        "Dark cannot use persona replacement to play characters that aren't normally allowed (for example, cannot persona replace Set 13 Maul with Darth Maul Young Apprentice)."
+      ],
       "set": "213",
       "side": "Dark"
     },
@@ -59255,7 +59330,7 @@
         "destiny": "1",
         "errataVersion": "E1",
         "forfeit": "8",
-        "gametext": "May add 6 pilots, 8 passengers, and 2 starfighters. Permanent pilot provides ability of 2. While alone at a battleground, adds Force icons to equalize them for both sides here. Immune to attrition < 4.",
+        "gametext": "May add 6 pilots, 8 passengers, and 2 starfighters. Permanent pilot provides ability of 2. While alone at an [Episode VII] system, adds Force icons to equalize them for both sides here. Immune to attrition < 4.",
         "hyperspeed": "3",
         "icons": [
           "Pilot",
@@ -60821,7 +60896,8 @@
       "rarity": "U",
       "rulings": [
         "Cannot use Hidden Weapons.",
-        "Note the second sentence looks for your Mandalorian, but the third sentence looks for any Mandalorian."
+        "Note the second sentence looks for your Mandalorian, but the third sentence looks for any Mandalorian.",
+        "(Third sentence) When his condition is met during battle, blocks all types of opponent's movement away from the location, including relocating (e.g. Path Of Least Resistance)."
       ],
       "set": "217",
       "side": "Dark"

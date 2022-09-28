@@ -5357,6 +5357,9 @@
         "Mindful Of The Future"
       ],
       "rarity": "U",
+      "rulings": [
+        "May deploy even if there is no Bespin System or Cloud City site on table."
+      ],
       "set": "5",
       "side": "Light"
     },
@@ -6101,6 +6104,9 @@
         "Wokling (V)"
       ],
       "rarity": "U",
+      "rulings": [
+        "While Bo Shuda is deployed on Audience Chamber, Audience Chamber is not a battleground."
+      ],
       "set": "6",
       "side": "Light"
     },
@@ -7175,6 +7181,9 @@
         }
       ],
       "rarity": "R",
+      "rulings": [
+        "If stolen, Dark may use Bright Hope (V)'s game text if it is in battle with a Rebel capital starship."
+      ],
       "set": "203",
       "side": "Light"
     },
@@ -10271,6 +10280,9 @@
         }
       ],
       "rarity": "C",
+      "rulings": [
+        "May only deploy to a planet system card or to Bespin: Cloud City. For example, cannot deploy connected to Tatooine: Mos Eisley without the Tatooine system on table. Cannot deploy connected to Cloud City: Casino without the Bespin system or Bespin: Cloud City sector on table."
+      ],
       "set": "5",
       "side": "Light"
     },
@@ -11077,7 +11089,7 @@
       ],
       "rarity": "R",
       "rulings": [
-        "May cancel any opponent's battle destiny except the first one."
+        "May cancel any opponent's battle destiny except the first one. This works even if the first destiny was substituted (e.g. by Watch Your Back!)."
       ],
       "set": "205",
       "side": "Light"
@@ -11669,7 +11681,7 @@
     {
       "front": {
         "destiny": "4",
-        "gametext": "During battle, target opponent's starfighter with your snub fighter. Starfighter's gametext (except related to any capacity and the ability and identity of any permanent pilots) is canceled. OR If your pilot of ability < 3 was just lost from aboard a snub fighter, take pilot into hand.",
+        "gametext": "During battle, target opponent's starfighter with your snub fighter. Starfighter's game text (except related to any capacity and the ability and identity of any permanent pilots) is canceled. OR If your pilot of ability < 3 was just lost from aboard a snub fighter, take pilot into hand.",
         "icons": [
           "Set 8"
         ],
@@ -13620,6 +13632,11 @@
         }
       ],
       "rarity": "PM",
+      "rulings": [
+        "Dash's action can only be initiated if attrition exists (opponent successfully completed a battle destiny draw, even if it was a 0).",
+        "Dash's action is initiated in the power segment after battle destinies (and any attrition destinies) are drawn.",
+        "Dash's action subtracts from attrition against his owner (Light)."
+      ],
       "set": "210",
       "side": "Light"
     },
@@ -14618,6 +14635,9 @@
       "side": "Light"
     },
     {
+      "combo": [
+        "You Do Have Your Moments (V) - Cause a redraw, triggering Dice's text again."
+      ],
       "front": {
         "ability": "3",
         "characteristics": [
@@ -14650,6 +14670,11 @@
         }
       ],
       "rarity": "R2",
+      "rulings": [
+        "Last sentence triggers once per destiny draw, not once per interrupt. For example, a Maul Strikes duel triggers for each destiny draw.",
+        "If opponent's destiny is canceled and redrawn (e.g. by Sith Fury (V)), the new draw will trigger Dice Ibegon (V) again.",
+        "If opponent wishes to use a substituted destiny draw, they must first satisfy Dice Ibegon's trigger."
+      ],
       "set": "207",
       "side": "Light"
     },
@@ -14659,6 +14684,7 @@
       ],
       "back": {
         "destiny": "7",
+        "errataVersion": "E1",
         "gametext": "Diplomatic Mission To Alderaan:Deploy Tatooine system (with Tantive IV, non-[Reflections 2] R2-D2, and Stolen Data Tapes there) and Dune Sea.{For} remainder of game, you may not deploy Sandwhirl or [Episode I] Jedi.{While} this side up, your Force drains at Tatooine system are -1. Once per turn, may deploy Alderaan or a Tatooine battleground site from Reserve Deck; reshuffle. Until the start of your turn, Tantive IV may be forfeited to satisfy all battle damage against you.{Flip} this card if Stolen Data Tapes 'delivered' and Rebels control two battlegrounds (a site and a system).A Weakness Can Be Found:{While} this this side up, your total battle destiny is +X, where X = number of battlegrounds occupied by Rebels of ability < 4. Once per turn, may deploy Alderaan or a Tatooine battleground site from Reserve Deck; reshuffle. Once per turn, if you just won a battle, may retrieve 1 Force.{Flip} this card if you do not occupy a battleground site and a battleground system (or you do not control any locations).",
         "icons": [
           "Set 3"
@@ -16248,13 +16274,14 @@
     {
       "front": {
         "destiny": "4",
+        "errataVersion": "E1",
         "gametext": "USED: Cancel Broken Concentration, Lateral Damage, or Limited Resources. OR Place a card just stacked on Droid Racks or Strategic Reserves in opponent's Lost Pile. (Immune to Sense) OR If you just drew a starship for destiny, take that starship into hand to cancel and redraw that destiny.  LOST: Use 3 Force to retrieve an Effect of any kind or a non-[Maintenance] starship into hand.",
         "icons": [
           "Set 9"
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual9-Light/large/effectiverepairsstarshiplevitation.gif",
         "subType": "Used Or Lost",
-        "title": "•Effective Repairs & •Starship Levitation",
+        "title": "Effective Repairs & Starship Levitation",
         "type": "Interrupt",
         "uniqueness": "*"
       },
@@ -20050,7 +20077,7 @@
           "Force-Sensitive"
         ],
         "forfeit": "8",
-        "gametext": "While at a war room or battleground, game text of Admiral's Orders is suspended and whenever you initiate a battle with a Resistance character, retrieve 1 Force (2 if initiating against a First Order character). Immune to attrition < 4.",
+        "gametext": "While at a war room or battleground, game text of Admiral's Orders is canceled and whenever you initiate a battle with a Resistance character, retrieve 1 Force (2 if initiating against a First Order character). Immune to attrition < 4.",
         "icons": [
           "Episode VII",
           "Warrior",
@@ -20477,7 +20504,8 @@
       ],
       "rarity": "U",
       "rulings": [
-        "May deploy Phantom from Reserve Deck even if Ghost is landed and/or unpiloted."
+        "May deploy Phantom from Reserve Deck even if Ghost is landed and/or unpiloted.",
+        "When using this card to deploy Phantom, it may deploy simultaneously with a pilot from hand. It may deploy either aboard Ghost, aboard another starship with capacity, or directly to the location. If deploying Phantom directly to a system or sector, it <u>must</u> be deployed simultaneously with a pilot from hand."
       ],
       "set": "207",
       "side": "Light"
@@ -23307,6 +23335,7 @@
       ],
       "back": {
         "destiny": "7",
+        "errataVersion": "E1",
         "gametext": "Hidden Base:Deploy Rendezvous Point. Place a planet system (with a parsec number from 1 to 8) from outside your deck face down on your side of table (not in play); that card indicates the planet where your 'Hidden Base' is located.{While} this side up, once during each of your deploy phases, may deploy one system from Reserve Deck; reshuffle. Opponent loses no more than 1 Force from each of your Force drains at systems and sectors.{Flip} this card any time after you have deployed five battleground systems and your 'Hidden Base' system.Systems Will Slip Through Your Fingers:{While} this side up, to draw a card from Force Pile, opponent must first use 1 Force. For each battleground system you control, you may cancel one opponent's Force drain (limit twice per turn). You may not deploy any systems. At each system opponent occupies during any deploy phase, opponent may 'probe' there by placing one card from hand face down beneath that system.{Place} out of play if 'Hidden Base' system is 'probed.' Dark side places 'probe' cards in Used Pile (and may retrieve 1 Force for each Probe Droid used to 'probe').",
         "icons": [
           "Special Edition"
@@ -23317,6 +23346,7 @@
       },
       "front": {
         "destiny": "0",
+        "errataVersion": "E1",
         "gametext": "Hidden Base:Deploy Rendezvous Point. Place a planet system (with a parsec number from 1 to 8) from outside your deck face down on your side of table (not in play); that card indicates the planet where your 'Hidden Base' is located.{While} this side up, once during each of your deploy phases, may deploy one system from Reserve Deck; reshuffle. Opponent loses no more than 1 Force from each of your Force drains at systems and sectors.{Flip} this card any time after you have deployed five battleground systems and your 'Hidden Base' system.Systems Will Slip Through Your Fingers:{While} this side up, to draw a card from Force Pile, opponent must first use 1 Force. For each battleground system you control, you may cancel one opponent's Force drain (limit twice per turn). You may not deploy any systems. At each system opponent occupies during any deploy phase, opponent may 'probe' there by placing one card from hand face down beneath that system.{Place} out of play if 'Hidden Base' system is 'probed.' Dark side places 'probe' cards in Used Pile (and may retrieve 1 Force for each Probe Droid used to 'probe').",
         "icons": [
           "Special Edition"
@@ -24245,6 +24275,10 @@
         }
       ],
       "rarity": "C2",
+      "rulings": [
+        "Does not count in calculations on epic events such as Commence Primary Ignition, Attack Run, Target The Main Generator, and That Thing's Operational.",
+        "However, the Force icon at this site <u>does</u> count towards Light's Force loss if the Hoth system is blown away by Commence Primary Ignition (the Force loss technically does not come from the Epic Event)."
+      ],
       "set": "3",
       "side": "Light"
     },
@@ -24888,7 +24922,7 @@
     {
       "front": {
         "destiny": "4",
-        "gametext": "If your female character is defending a battle alone at a site, add one destiny to total power (if Rey, she is also immune to attrition). OR Cancel a weapon destiny targeting your female character. OR Add 1 to your Force drain where you have a female character.",
+        "gametext": "If your female character is defending a battle alone at a site, add one destiny to total power (if Rey, she is also immune to attrition). OR Cancel a just drawn weapon destiny targeting your female character. OR Add 1 to your Force drain where you have a female character.",
         "icons": [
           "Set 7"
         ],
@@ -26464,6 +26498,7 @@
         ],
         "deploy": "0",
         "destiny": "7",
+        "errataVersion": "E2",
         "forfeit": "2",
         "gametext": "If either player just deployed a card with ability here, you may use 1 Force to place The Mythrol out of play; if card was Din Djarin or a bounty hunter, you may activate 2 Force. If about to leave table, place out of play.",
         "icons": [
@@ -26710,7 +26745,8 @@
       "front": {
         "darkSideIcons": 0,
         "destiny": "0",
-        "gametext": "Light:  Once per game, may deploy Rey here from Reserve Deck; reshuffle. Rey deploys -2 here.  Dark:  If Rey present, she may not be targeted by weapons.",
+        "errataVersion": "E1",
+        "gametext": "Light:  Once per game, may deploy Rey here from Reserve Deck; reshuffle. Rey deploys -2 here. If Rey present, she may not be targeted by weapons.  Dark:",
         "icons": [
           "Interior",
           "Planet",
@@ -28409,7 +28445,6 @@
       "front": {
         "darkSideIcons": 2,
         "destiny": "0",
-        "errataVersion": "E1",
         "gametext": "Light:  If you control, Force drain +1 here.  Dark:  If you control, Kessel Run is prevented (canceled).",
         "icons": [
           "Planet"
@@ -29231,7 +29266,8 @@
         "Show that the starfighter is attached by physically placing it on the opponent's capital starship.",
         "While starfighter attached ('concealed'):<ul><li>The starfighter and cards aboard it are inactive (except for Homing Beacon and the Landing Claw itself).</li><li>Prevents opponent from Force draining.</li><li>If the capital starship is lost, the starfighter is also lost.</li><li>The capital starship 'carries' the starfighter, the starfighter is not considered to be moving.</li><li>If the capital starship lands, the starfighter remains attached.</li><li>If the capital starship is landed when the starfighter detaches (or Landing Claw is canceled), the starfighter becomes landed there if possible, otherwise it is lost.</li></ul>",
         "When the starfighter detaches (or Landing Claw is canceled), the starfighter returns to normal (is no longer attached/'concealed').",
-        "Starfighter may either detach as a top level action, or when the capital starship is about to move (after destination has been specified and its movement cost has been paid)."
+        "Starfighter may either detach as a top level action, or when the capital starship is about to move (after destination has been specified and its movement cost has been paid).",
+        "Although an attached Light starship blocks Dark's Force drains, it does not prevent Dark from controlling a system (e.g. Dark can cancel Cloud City Celebration while a Light starship is attached)."
       ],
       "set": "4",
       "side": "Light"
@@ -32460,6 +32496,10 @@
         }
       ],
       "rarity": "R",
+      "rulings": [
+        "Cannot persona replace another Luke at a site opponent occupies.",
+        "May deploy (or persona replace) at a <u>system or sector</u> opponent occupies."
+      ],
       "set": "210",
       "side": "Light"
     },
@@ -33583,6 +33623,9 @@
         }
       ],
       "rarity": "U1",
+      "rulings": [
+        "The phrase 'at the end of each turn' means both Light's turns and Dark's turns."
+      ],
       "set": "207",
       "side": "Light"
     },
@@ -38139,6 +38182,7 @@
       ],
       "back": {
         "destiny": "7",
+        "errataVersion": "E1",
         "gametext": "Old Allies:Deploy Jakku system and Niima Outpost Shipyard (with [Episode VII] Falcon there). May deploy Graveyard Of Giants.{For} remainder of game, you may not deploy Harc Seff, Luke, or Jedi. Your Destiny is suspended. Opponent's [Reflections 2] objective targets Rey instead of Luke. While Rey at a battleground site, Visage Of The Emperor is suspended.{While} this side up, once per turn, may deploy a Jakku location from Reserve Deck; reshuffle.{Flip} this card if you control Jakku system and occupy two Jakku battleground sites (or vice versa).We Need Your Help{While} this side up, once per turn, may deploy a Jakku location from Reserve Deck; reshuffle. Once during opponent's control phase, if you control two Jakku battlegrounds and are about to lose Force (except to a Force drain at a Jakku location), may reduce that Force loss to 1 (may not be further reduced). Once per battle involving your Resistance character, may subtract 2 from a just drawn destiny. While with Han, your [Episode VII] characters and [Episode VII] starships are defense value +2.{Flip} this card if you do not occupy two battlegrounds.",
         "icons": [
           "Premium",
@@ -39333,10 +39377,6 @@
       "side": "Light"
     },
     {
-      "combo": [
-        "Hunting Party + Sandwhirl First you spin them around, then you bag them.",
-        "Hunting Party + Skiffs As the missing people will be in the desert, most likely, you'll need some cheap, fast landspeed to shuttle your bounty hunters around in."
-      ],
       "conceptBy": "(Original concept by Brian Fred)",
       "front": {
         "ability": "2",
@@ -45297,7 +45337,13 @@
       ],
       "rarity": "C2",
       "rulings": [
-        "May not be deployed on an opponent's Undercover spy."
+        "May not be deployed on an opponent's Undercover spy.",
+        "The phase 'cannot utilize game text' means the droid's game text is canceled (e.g. the game text cancelation can be prevented by Pride Of The Empire (V), in which case the droid still cannot move).",
+        "This device may only deploy on (or transfer to) a droid that is at a site.",
+        "This device may even deploy an opponent's droid.",
+        "The owner of the Restraining Bolt may transfer it to a droid present with it at a site, even an opponent's droid.",
+        "If stolen by a non-droid character (e.g. using Swilla Corey), that character carries it but the Restraining Bolt is inactive while it is on a non-droid character. Even while stolen and inactive, the new owner may still transfer it (see above rulings for transfer details).",
+        "If stolen by a droid character (e.g. using Retractable Arm), the droid character carrying the stolen Restraining Bolt is then affected by it (droid cannot move and droid's game text canceled. The new owner of the stolen Restraining Bolt may transfer it (see above rulings for transfer details)."
       ],
       "set": "1",
       "side": "Light"
@@ -46499,6 +46545,9 @@
         }
       ],
       "rarity": "C",
+      "rulings": [
+        "This card is not a commander ('commanded' doesn't count)."
+      ],
       "set": "14",
       "side": "Light"
     },
@@ -47046,7 +47095,7 @@
       ],
       "rarity": "R1",
       "rulings": [
-        "Must deploy to a specific Sandcrawler on table (may be unique or non-unique, and may belong to either player).  This site, and any cards at it, are lost when that Sandcrawler is lost.",
+        "Must deploy to a specific Sandcrawler on table (may be unique or non-unique, and must belong to Light).  This site, and any cards at it, are lost when that Sandcrawler is lost.",
         "This site is 'adjacent' to the site where the Sandcrawler vehicle is (for example, Expand The Empire can expand text to or from here).",
         "This site is 'related' to all sites on the same planet that the Sandcrawler is on.",
         "This site does <u>not</u> take on the name of the planet (e.g. it is not a Tatooine site, a character here is not 'on Tatooine' or 'on Cloud City' even if the Sandcrawler is, etc)."
@@ -47088,6 +47137,10 @@
         "We Wish To Board At Once"
       ],
       "rarity": "PM",
+      "rulings": [
+        "When a player uses the card from Sando Aqua Monster instead of drawing a weapon or battle destiny, they are performing a substituted destiny draw. The destiny value from the card on Sando is used, and it cannot be modified, canceled or reset and does not count towards limits on the number of destinies that may be drawn.",
+        "Although the substituted destiny value from Sando Aqua Monster may not subsequently be modified (e.g. by Heading For The Medical Frigate), the destiny value of the stacked card could have already been subject to global modifiers (e.g. the Senate objectives can make senators globally destiny +2 or +3). Such global modifiers affect the card while it is on Sando, so they apply when the destiny substitution occurs."
+      ],
       "set": "13",
       "side": "Light"
     },
@@ -49477,7 +49530,9 @@
       ],
       "rarity": "U1",
       "rulings": [
-        "Han, Chewie, And The Falcon gets the +1 bonus for Han firing."
+        "Han, Chewie, And The Falcon gets the +1 bonus for Han firing.",
+        "During initiation of this Interrupt, a player chooses a weapon to fire, not a target to fire at. Opponent's response (such as Sense) is played before the target to fire at is chosen. A response to the weapon targeting (e.g. Force Field) is played slightly later, after that target is chosen.",
+        "Surprise may retarget to a different weapon that can fire, but cannot choose a new target to fire at (because no target to fire at has been selected yet)."
       ],
       "set": "2",
       "side": "Light"
@@ -49519,6 +49574,10 @@
         "Finn"
       ],
       "rarity": "PM",
+      "rulings": [
+        "(First Lost function) During initiation of this Interrupt, a player chooses a weapon to fire, not a target to fire at. Opponent's response (such as Sense) is played before the target to fire at is chosen. A response to the weapon targeting (e.g. Force Field) is played slightly later, after that target is chosen.",
+        "(First Lost function) Surprise may retarget to a different weapon that can fire, but cannot choose a new target to fire at (because no target to fire at has been selected yet)."
+      ],
       "set": "10",
       "side": "Light"
     },
@@ -53475,6 +53534,7 @@
       "back": {
         "deploy": "0",
         "destiny": "7",
+        "errataVersion": "E2",
         "forfeit": "7",
         "gametext": "May not be placed in Reserve Deck. If Falcon about to leave table, place it out of play. May add 2 pilots and 2 passengers. Has ship-docking capability. While [Episode VII] Han or Rey piloting, maneuver +2 and immune to attrition < 4 (< 6 if both). Once during your move phase, if at a site, may flip this card (even if unpiloted).May not be placed in Reserve Deck. If Falcon about to leave table, place it out of play. May add 2 pilots and 2 passengers. Immune to Trample and Unsalvageable, even if unpiloted. While Finn or Rey aboard, immune to attrition < 4 (< 6 if both). Once during your move phase, if piloted, may flip this card.",
         "hyperspeed": "6",
@@ -53636,6 +53696,7 @@
       ],
       "back": {
         "destiny": "7",
+        "errataVersion": "E1",
         "gametext": "The Galaxy May Need A Legend:Deploy Ahch-To system and any [Episode VII] battleground.{For} remainder of game, Luke deploys only to Ahch-To. You may not Force drain on Ahch-To. You may not deploy [Episode I] locations or non-[Episode VII] Luke. You may not deploy Jedi while a Jedi on table. Once per game, may take any one card into hand from Force Pile; reshuffle. {While} this side up, once per turn, may use 1 Force to deploy an Ahch-To location or [Episode VII] battleground from Reserve Deck; reshuffle. {May flip} this card if Luke on Ahch-To and a battle was just initiated involving a Resistance character. We Need Luke Skywalker:{Immediately} place Luke out of play (ignore [Death Star II] objective restrictions, if any). For remainder of battle, opponent may not fire weapons.{While} this side up, opponent's immunity to attrition is limited to < 5. Once during your turn, may peek at the top card of your Force Pile and Reserve Deck; place both cards (in any order) on top of one of those piles. Where you have two unique (•) Resistance characters: once per turn, if you just Force drained, opponent loses 1 Force; and once per turn during battle, may cancel an opponent's just drawn destiny to cause a re-draw.",
         "icons": [
           "Episode VII",
@@ -53666,6 +53727,10 @@
         }
       ],
       "rarity": "R",
+      "rulings": [
+        "While a Jedi on table, also cannot use persona replacement to replace a Jedi with a Jedi, or to replace a non-Jedi with a Jedi.",
+        "Be With Me creates an exception to the above ruling, allowing Set 14 Rey to deploy (and thereby also allowing her to persona replace another Rey)."
+      ],
       "set": "211",
       "side": "Light"
     },
@@ -53742,6 +53807,7 @@
       ],
       "back": {
         "destiny": "7",
+        "errataVersion": "E1",
         "gametext": "The Hyperdrive Generator's Gone:Deploy Watto's Junkyard, City Outskirts, and Credits Will Do Fine.{For} remainder of game, you may not deploy cards with ability except unique (•) aliens, Republic characters and starships, and [Episode I] Jedi. Your Destiny is suspended. While this side up, once per game may take Coruscant and/or Tatooine system into hand from Reserve Deck; reshuffle. You may not deploy any systems. Maul is immune to attrition.{Flip} this card if there are 4 or more cards beneath Credits Will Do Fine.We'll Need A New One:{While} this side up, your unique (•) Republic characters are power +1 and forfeit +2. Aliens may not have their deploy cost modified and Imperials deploy +1 to Tatooine sites. Whenever you draw battle destiny (unless canceled), may retrieve 1 Force (Force retrieved in this way may be taken into hand.) While Queen's Royal Starship at a planet system, once during each of opponent's control phases may activate up to 2 Force. Once during each of your control phases, opponent loses 1 Force for each battleground site you occupy with a senator.",
         "icons": [
           "Episode I",
@@ -53753,7 +53819,6 @@
       },
       "front": {
         "destiny": "0",
-        "errataVersion": "E1",
         "gametext": "The Hyperdrive Generator's Gone:Deploy Watto's Junkyard, City Outskirts, and Credits Will Do Fine.{For} remainder of game, you may not deploy cards with ability except unique (•) aliens, Republic characters and starships, and [Episode I] Jedi. Your Destiny is suspended. While this side up, once per game may take Coruscant and/or Tatooine system into hand from Reserve Deck; reshuffle. You may not deploy any systems. Maul is immune to attrition.{Flip} this card if there are 4 or more cards beneath Credits Will Do Fine.We'll Need A New One:{While} this side up, your unique (•) Republic characters are power +1 and forfeit +2. Aliens may not have their deploy cost modified and Imperials deploy +1 to Tatooine sites. Whenever you draw battle destiny (unless canceled), may retrieve 1 Force (Force retrieved in this way may be taken into hand.) While Queen's Royal Starship at a planet system, once during each of opponent's control phases may activate up to 2 Force. Once during each of your control phases, opponent loses 1 Force for each battleground site you occupy with a senator.",
         "icons": [
           "Episode I",
@@ -54293,6 +54358,7 @@
       ],
       "back": {
         "destiny": "7",
+        "errataVersion": "E1",
         "gametext": "They Have No Idea We're Coming:Deploy Scarif system, Data Vault (with Stardust there), and Massassi War Room.{For} remainder of game, you may not deploy Jedi. Baze, Chirrut, and Rebel troopers are spies.{While} this side up, once per turn, may deploy a Rebel starship (except Home One or [Reflections 3] Falcon) or a Scarif site from Reserve Deck; reshuffle. {Flip} this card if you control two Scarif locations.Until We Win, Or The Chances Are Spent:{While} this side up, your spies are defense value +2 (and power +1 if with Stardust) and are immune to Undercover. While Stardust on your spy, opponent may not cancel your Force drains at battlegrounds. Once per turn, may place a Rebel in your Lost Pile out of play to make a regular move with your Rebel spy during your control phase or cancel an attempt to target your non-Undercover Rebel spy with a weapon.{Flip} this card if you do not occupy two Scarif locations (unless Rogue One at a Scarif site you occupy).",
         "icons": [
           "Premium",
@@ -54304,6 +54370,7 @@
       },
       "front": {
         "destiny": "0",
+        "errataVersion": "E1",
         "gametext": "They Have No Idea We're Coming:Deploy Scarif system, Data Vault (with Stardust there), and Massassi War Room.{For} remainder of game, you may not deploy Jedi. Baze, Chirrut, and Rebel troopers are spies.{While} this side up, once per turn, may deploy a Rebel starship (except Home One or [Reflections 3] Falcon) or a Scarif site from Reserve Deck; reshuffle. {Flip} this card if you control two Scarif locations.Until We Win, Or The Chances Are Spent:{While} this side up, your spies are defense value +2 (and power +1 if with Stardust) and are immune to Undercover. While Stardust on your spy, opponent may not cancel your Force drains at battlegrounds. Once per turn, may place a Rebel in your Lost Pile out of play to make a regular move with your Rebel spy during your control phase or cancel an attempt to target your non-Undercover Rebel spy with a weapon.{Flip} this card if you do not occupy two Scarif locations (unless Rogue One at a Scarif site you occupy).",
         "icons": [
           "Premium",
@@ -54894,11 +54961,9 @@
       "side": "Light"
     },
     {
-      "conceptBy": "(Original concept by Matthew Carulli)",
       "counterpart": "Drop!",
       "front": {
         "destiny": "3",
-        "errataVersion": "E1",
         "gametext": "Use 3 Force to deploy on table. During your move phase, if opponent has 13 or more cards in hand, you may use 4 Force to place all but 8 (random choice) in Used Pile. Once during any control phase, you may place up to three cards from hand in Used Pile.",
         "icons": [
           "Episode I",
@@ -56594,6 +56659,7 @@
       ],
       "back": {
         "destiny": "7",
+        "errataVersion": "E1",
         "gametext": "Watch Your Step:Deploy Cantina, Docking Bay 94 and Tatooine System.{For} remainder of game, opponent activates no Force at your Cantina. Your cards with ability are deploy +6 except Luke, smugglers, freighters, and [Independent] starships. Opponent's game text on Kessel is canceled.{While} this side up, once during each of your deploy phases, may take Corellia or Kessel into hand from Reserve Deck; reshuffle.{Flip} this card if you occupy two battlegrounds with smugglers or have completed two Kessel Runs.This Place Can Be A Little Rough:{While} this side up, your Force generation is +1 at each system you control with a smuggler. Opponent's Force generation at non-battleground locations is limited to 1. When you have two or more smugglers in a battle, add one battle destiny. Each of your smugglers is forfeit +2. Once during each turn, may play one interrupt from Lost Pile as if from hand (then place that card out of play). Sense, Alter, and Keep Your Eyes Open may not be played.{Flip} this card if you do not occupy two battlegrounds (unless you have completed two Kessel Runs).",
         "icons": [
           "Reflections 2"
@@ -56604,7 +56670,6 @@
       },
       "front": {
         "destiny": "0",
-        "errataVersion": "E1",
         "gametext": "Watch Your Step:Deploy Cantina, Docking Bay 94 and Tatooine System.{For} remainder of game, opponent activates no Force at your Cantina. Your cards with ability are deploy +6 except Luke, smugglers, freighters, and [Independent] starships. Opponent's game text on Kessel is canceled.{While} this side up, once during each of your deploy phases, may take Corellia or Kessel into hand from Reserve Deck; reshuffle.{Flip} this card if you occupy two battlegrounds with smugglers or have completed two Kessel Runs.This Place Can Be A Little Rough:{While} this side up, your Force generation is +1 at each system you control with a smuggler. Opponent's Force generation at non-battleground locations is limited to 1. When you have two or more smugglers in a battle, add one battle destiny. Each of your smugglers is forfeit +2. Once during each turn, may play one interrupt from Lost Pile as if from hand (then place that card out of play). Sense, Alter, and Keep Your Eyes Open may not be played.{Flip} this card if you do not occupy two battlegrounds (unless you have completed two Kessel Runs).",
         "icons": [
           "Reflections 2"
@@ -58901,29 +58966,7 @@
         "Wild Karrde",
         "Tatooine",
         "Tatooine (EP1)",
-        "Tatooine: Anchorhead",
-        "Tatooine: Beggar's Canyon",
-        "Tatooine: Cantina",
-        "Tatooine: City Outskirts",
-        "Tatooine: Desert",
-        "Tatooine: Docking Bay 94",
-        "Tatooine: Dune Sea",
-        "Tatooine: Hutt Canyon",
-        "Tatooine: Hutt Trade Route (Desert)",
-        "Tatooine: Jabba's Palace",
-        "Tatooine: Jawa Camp",
-        "Tatooine: Jawa Canyon",
-        "Tatooing: Jundland Wastes",
-        "Tatooine: Lars' Moisture Farm",
-        "Tatooine: Lars' Moisture Farm (V)",
-        "Tatooine: Marketplace",
-        "Tatooine: Mos Eisley",
-        "Tatooine: Mos Espa",
-        "Tatooine: Most Espa Docking Bay",
-        "Tatooine: Podrace Arena",
-        "Tatooine: Podracer Bay",
-        "Tatooine: Tosche Station",
-        "Tatooine: Watto's Junkyard"
+        "Any Tatooine battleground (including Jabba's Palace battlegrounds)"
       ],
       "rarity": "U",
       "set": "208",
@@ -61745,7 +61788,8 @@
       "front": {
         "darkSideIcons": 2,
         "destiny": "0",
-        "gametext": "Light:  For remainder of game, while you occupy Kessel, Force drain +1 there and Kessel Run may not be canceled.  Dark:  If you control, Kessel Run is prevented (canceled).",
+        "errataVersion": "E1",
+        "gametext": "Light:  Force drain +1 here. For remainder of game, Kessel Run is immune to Alter and may not be canceled. Dark:",
         "icons": [
           "Planet",
           "Set 13"
@@ -64464,7 +64508,8 @@
         "Cannot be used by Dark to meet the conditions for initiating Hidden Weapons.",
         "Cannot be targeted by Dark to receive the consequences of Hidden Weapons.",
         "Adds battle destiny automatically during the power segment if Boba is still participating in the battle and the condition is met at that time.",
-        "Any card that targets Boba Fett (e.g. Mandalorian Mishap) may target Boba."
+        "Any card that targets Boba Fett (e.g. Mandalorian Mishap) may target Boba.",
+        "This card is a Fett (e.g. Boba deploys -1 at Kamino: Clone Training Center, and Mace Windu (V) prevents Boba from adding a battle destiny)."
       ],
       "set": "217",
       "side": "Light"
@@ -66938,6 +66983,7 @@
       "front": {
         "darkSideIcons": 1,
         "destiny": "0",
+        "errataVersion": "E1",
         "gametext": "Light: Ezra and Kanan deploy -1 here. Unless you occupy, Vader may not deploy here and opponent's characters, vehicles, and starships deploy and move to here for +2 Force. Dark: ",
         "icons": [
           "Exterior",
@@ -67069,6 +67115,7 @@
       ],
       "front": {
         "destiny": "4",
+        "errataVersion": "E1",
         "gametext": "If Lothal on table, deploy on table. Chopper, Sabine, and Zeb are deploy -1. Once per turn, may deploy Malachor, Mandalore, or Seelos (or Chopper, Wedge, Zeb, or an A-wing to a Lothal location) from Reserve Deck; reshuffle. [Immune to Alter.]",
         "icons": [
           "Set 19"
@@ -67225,6 +67272,7 @@
       ],
       "back": {
         "destiny": "7",
+        "errataVersion": "E1",
         "gametext": "Zero Hour: Deploy Lothal system and a Lothal site. For remainder of game, Menace Fades and Projection Of A Skywalker are canceled. Jedi (except Ahsoka and Kanan), Resistance characters, and [Resistance] starships are deploy +1. Chopper, Ezra, Hera, Kanan, Sabine, and Zeb gain Phoenix Squadron. Once per turn, may deploy a Lothal site from Reserve Deck; reshuffle. Flip this card if Rebels control three Lothal locations (or you occupy three Lothal locations with Phoenix Squadron characters) and opponent controls no Lothal locations. Liberation Of Lothal: While this side up, if you Force drained at a battleground this turn, your other Force drains at battlegrounds are +1. Once per turn during battle, may add or subtract X from a just drawn battle destiny (or opponent's weapon destiny), where X = number of battlegrounds you occupy with Phoenix Squadron characters. At Lothal system, the number of battle destiny draws may not be limited for either player. Flip this card if opponent controls more Lothal locations than you.",
         "icons": [
           "Set 19"
