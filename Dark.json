@@ -1113,7 +1113,8 @@
       ],
       "rarity": "U",
       "rulings": [
-        "Result will trigger successfully even if character has no immunity to attrition to lose."
+        "Result will trigger successfully even if character has no immunity to attrition to lose.",
+        "For a card to be considered 'duplicated on table', it must be active on table. Not inactive (e.g. Undercover, captive, missing) and not supporting (e.g. stacked on a grabber such as Tentacle)."
       ],
       "set": "5",
       "side": "Dark"
@@ -2065,6 +2066,9 @@
         "We Must Accelerate Our Plans"
       ],
       "rarity": "C",
+      "rulings": [
+        "If the card We're In Attack Position Now (or Capital Support) is on table, the deploy -1/-2 text of that card is applicable, stacking with the deploy -1 bonuses of this Effect."
+      ],
       "set": "208",
       "side": "Dark"
     },
@@ -5328,7 +5332,9 @@
       ],
       "rarity": "U2",
       "rulings": [
-        "When using the react text to deploy for free, the pilot is also free."
+        "To use the react text, you must have a piloted TIE there. It's even possible that other TIE was itself just deployed as a react a moment earlier.",
+        "When using the react text to deploy for free, the pilot is also free.",
+        "When using Black 4's text to deploy it and a pilot for free, and Goldenrod on table, must use 2 Force for the pilot (but 0 for Black 4)."
       ],
       "set": "2",
       "side": "Dark"
@@ -8806,6 +8812,11 @@
     {
       "front": {
         "ability": "1",
+        "characteristics": [
+          "Chevin",
+          "mercenary",
+          "slaver"
+        ],
         "deploy": "3",
         "destiny": "3",
         "forfeit": "2",
@@ -8829,6 +8840,9 @@
         }
       ],
       "rarity": "C",
+      "rulings": [
+        "If prevented from being used to satisfy attrition (e.g. by Crack Shot), his text will not satisfy all remaining attrition."
+      ],
       "set": "6",
       "side": "Dark"
     },
@@ -10592,7 +10606,8 @@
       ],
       "rarity": "C2",
       "rulings": [
-        "If this card removes a unique permanent pilot, that persona's uniqueness still applies (e.g. if played on Gold Leader In Gold 1, the character Dutch still cannot be deployed)."
+        "If this card removes a unique permanent pilot, that persona's uniqueness still applies (e.g. if played on Gold Leader In Gold 1, the character Dutch still cannot be deployed).",
+        "An unpiloted starship cannot use its game text (e.g. Lando In Millennium Falcon cannot use the immune to attrition < 5 text), but once the starship is piloted again, the starship's game text becomes usable again (except text that specifically says it comes from the removed permanent pilot)."
       ],
       "set": "2",
       "side": "Dark"
@@ -14285,6 +14300,9 @@
         "The Empire's Back"
       ],
       "rarity": "R1",
+      "rulings": [
+        "'Immune to Sorry About The Mess' prevents the control phase firing function and prevents the place in Lost Pile function of the combo card. It does not prevent the 3 being added to weapon destiny function of the combo card."
+      ],
       "set": "208",
       "side": "Dark"
     },
@@ -18862,7 +18880,9 @@
       ],
       "rarity": "UR",
       "rulings": [
-        "Must be present at a location (not inside a starship or enclosed vehicle) to subtract 3 from attempts to cross Vader.  Vader does not need to be present at the location."
+        "Must be present at a location (not inside a starship or enclosed vehicle) to subtract 3 from attempts to cross Vader.  Vader does not need to be present at the location.",
+        "Cannot deploy, move, or persona replace to a site opponent occupies.",
+        "May deploy, move, or persona replace to a <u>system or sector</u> opponent occupies."
       ],
       "set": "9",
       "side": "Dark"
@@ -27041,6 +27061,10 @@
         "Surface Defense (V)"
       ],
       "rarity": "C2",
+      "rulings": [
+        "Preventing destiny draws from being modified even prevents global modifiers such as from the Silence Is Golden (V) and the Senate Objective.",
+        "Preventing destiny draws from being modified can be circumvented with a substituted destiny that has been modified <u>before</u> the substitution (e.g. Darklighter Spin on a modified maneuver value, or a senator on Sando Aqua Monster that is already receiving a global modifier from the Senate Objective)."
+      ],
       "set": "200",
       "side": "Dark"
     },
@@ -28282,7 +28306,7 @@
           "Force-Attuned"
         ],
         "forfeit": "5",
-        "gametext": "To use his landspeed requires +1 Force. Your aliens are deploy -1 to same location. While at Audience Chamber, adds 2 to forfeit of all your non-unique aliens and makes Scum and Villainy immune to Alter. Immune to attrition < 4.",
+        "gametext": "To use his landspeed requires +1 Force. Your aliens are deploy -1 to same location. While at Audience Chamber, adds 2 to forfeit of all your non-unique aliens and makes Scum And Villainy immune to Alter. Immune to attrition < 4.",
         "icons": [
           "Warrior",
           "Special Edition"
@@ -28392,6 +28416,11 @@
         }
       ],
       "rarity": "R",
+      "rulings": [
+        "+2 Force to move is <u>only</u> for landspeed. It is <u>not</u> for Elis Helrot, Docking Bay Transit, Shuttling, etc.",
+        "While Jabba at Audience Chamber, the 'adds 1 to forfeit' bonus and 'activate 1 Force' bonus are global, not limited to the Audience Chamber.",
+        "Dark can even Force drain for 0 at a location with no Light icons, then receive the 'activate 1 Force' bonus as a result."
+      ],
       "set": "6",
       "side": "Dark"
     },
@@ -31670,6 +31699,9 @@
         }
       ],
       "rarity": "U",
+      "rulings": [
+        "Do not shuffle the Used Pile."
+      ],
       "set": "5",
       "side": "Dark"
     },
@@ -37589,7 +37621,8 @@
       "rarity": "C2",
       "rulings": [
         "May even cancel the firing of a weapon that was retargeted to the droid by Self-Destruct Mechanism.",
-        "If canceling an attempt to fire a weapon at a droid, play during the response step (before weapon destiny is drawn)."
+        "If canceling an attempt to fire a weapon at a droid, play during the response step (before weapon destiny is drawn).",
+        "The phrase 'Droid is protected' means that further attempts are not allowed (they are prevented, not canceled)."
       ],
       "set": "3",
       "side": "Dark"
@@ -39537,6 +39570,9 @@
         "Murttoc Yine"
       ],
       "rarity": "R",
+      "rulings": [
+        "To use his 'recycled' text, the just-lost transport vehicle must have been lost from same or related site."
+      ],
       "set": "202",
       "side": "Dark"
     },
@@ -39853,6 +39889,9 @@
       "side": "Dark"
     },
     {
+      "combo": [
+        "Wounded Warrior - Prevent battle destiny draws by getting opponent under 6 ability."
+      ],
       "front": {
         "ability": "3",
         "characteristics": [
@@ -42435,7 +42474,9 @@
       ],
       "rarity": "U",
       "rulings": [
-        "When using the react text to deploy for free, the pilot is also free."
+        "To use the react text, you must have a piloted TIE there. It's even possible that other TIE was itself just deployed as a react a moment earlier.",
+        "When using the react text to deploy for free, the pilot is also free.",
+        "When using Saber 4's text to deploy it and a pilot for free, and Goldenrod on table, must use 2 Force for the pilot (but 0 for Saber 4)."
       ],
       "set": "9",
       "side": "Dark"
@@ -43113,7 +43154,8 @@
       "rarity": "R",
       "rulings": [
         "Works while (for example) Mara Jade, The Emperor's Hand on table.",
-        "Works while (for example) Darth Vader piloting an Independent starship."
+        "Works while (for example) Darth Vader piloting an Independent starship.",
+        "If Dark does not have any active cards with ability on table at all, they do not receive the benefits of this card."
       ],
       "set": "6",
       "side": "Dark"
@@ -43961,6 +44003,10 @@
         "Blizzard 4"
       ],
       "rarity": "U",
+      "rulings": [
+        "When his text is applied, satisfies all remaining attrition even if there is no battle damage, and vice versa.",
+        "If prevented from being used to satisfy attrition (e.g. Crack Shot), his text still satisfies all remaining battle damage, but not attrition."
+      ],
       "set": "8",
       "side": "Dark"
     },
@@ -47000,6 +47046,9 @@
         }
       ],
       "rarity": "PM",
+      "rulings": [
+        "If prevented from being used to satisfy attrition (e.g. by Crack Shot), his text will not satisfy all remaining attrition."
+      ],
       "set": "106",
       "side": "Dark"
     },
@@ -49977,6 +50026,9 @@
         }
       ],
       "rarity": "R",
+      "rulings": [
+        "This card even adds Dark icons at sites where there is a Hatred card on a character, such as due to There Are Many Hunting You Now."
+      ],
       "set": "210",
       "side": "Dark"
     },
@@ -51576,6 +51628,9 @@
         "Short Range Fighters"
       ],
       "rarity": "C",
+      "rulings": [
+        "If something allows this TIE to fire at the start of the battle and then fire again (e.g. Defensive Fire (V)) this is redundant with the TIE Interceptor text that already allows 2 shots. It will not add a 3rd shot."
+      ],
       "set": "9",
       "side": "Dark"
     },
@@ -53115,7 +53170,11 @@
       ],
       "rarity": "U2",
       "rulings": [
-        "If the character is persona replaced by a non-spy version, Undercover is lost and the character ceases to be Undercover."
+        "If the character is persona replaced by a non-spy version, Undercover is lost and the character ceases to be Undercover.",
+        "The Undercover character prevents the opponent from Force draining at same site, and allows the owner to deploy to same site even without presence or Force icons. These benefits are the same even if the Undercover character is a droid.",
+        "The Undercover character is inactive (for example it does not participate in battles) but outside of battle it may be targeted by Interrupts and anything that could make it dueled, hit, or lost.",
+        "The owner may voluntarily break cover during their deploy phase.",
+        "If the character's cover is broken (either voluntarily or by another card such as Corran Horn), then Undercover is lost."
       ],
       "set": "2",
       "side": "Dark"
@@ -55600,6 +55659,9 @@
       "side": "Dark"
     },
     {
+      "abbr": [
+        "WIAPN"
+      ],
       "canceledBy": [
         "Kuat Drive Yards (V)"
       ],
@@ -56046,6 +56108,9 @@
     {
       "cancels": [
         "Leia's game text for remainder of turn"
+      ],
+      "combo": [
+        "Prince Xizor - Prevent battle destiny draws by getting opponent under 6 ability."
       ],
       "front": {
         "destiny": "4",
@@ -58016,6 +58081,10 @@
         }
       ],
       "rarity": "C",
+      "rulings": [
+        "This card is the same persona as Count Dooku, and cards that target Dooku (e.g. Dooku's Lightsaber, Evil Is Everywhere) target this card.",
+        "'Immune to Sorry About The Mess' prevents the control phase firing function and prevents the place in Lost Pile function of the combo card. It does not prevent the 3 being added to weapon destiny function of the combo card."
+      ],
       "set": "213",
       "side": "Dark"
     },
@@ -60134,6 +60203,9 @@
       "side": "Dark"
     },
     {
+      "combo": [
+        "Wounded Warrior - Prevent battle destiny draws by getting opponent under 7 ability."
+      ],
       "front": {
         "destiny": "3",
         "gametext": "If drawn for destiny, may take into hand. Draw top card of Force Pile. OR During opponent's control phase, target a location. Total ability of 7 or more required for opponent to draw battle destiny there for remainder of turn.",
@@ -60491,7 +60563,8 @@
         "BB-9E cannot cancel game text if BB-9E is at a system or sector.",
         "BB-9E does not cancel the game text of captives.",
         "BB-9E automatically cancels game text whenever applicable (it is not optional).",
-        "BB-9E may be placed in Used Pile even if there are no Undercover spies there."
+        "BB-9E may be placed in Used Pile even if there are no Undercover spies there.",
+        "'Immune to Sorry About The Mess' prevents the control phase firing function and prevents the place in Lost Pile function of the combo card. It does not prevent the 3 being added to weapon destiny function of the combo card."
       ],
       "set": "217",
       "side": "Dark"
@@ -61953,7 +62026,8 @@
     },
     {
       "abbr": [
-        "AGTCP/TRIOR"
+        "AGTCP/TRIOR",
+        "Thrawn"
       ],
       "back": {
         "destiny": "7",
@@ -61985,9 +62059,11 @@
       ],
       "rarity": "U",
       "rulings": [
+        "(Both sides) This Objective must flip as an automatic action as soon as the flip conditions are met.",
+        "(0-side) 'Flip this card during any deploy phase' means it will flip during either player's deploy phase.",
         "(0-side) 'Imperial Star Destroyers' refers to Imperial affiliation (not First Order, Rebel, Independent, etc).  It does not refer to Imperial-class. Thus Dominator and Executor are deploy -1.",
         "(7-side) After studying an artwork card, place it in Lost Pile even if it was not possible to perform the specified action (e.g., even if there was no character to exclude from battle or no immunity to attrition to cancel).",
-        "(7-side) For a multi-destiny artwork card such as R2-D2, the destiny value is chosen by the card owner (typically Light) at the time that the card is studied."
+        "(7-side) For a multi-destiny artwork card such as R2-D2, the destiny value is chosen by the card owner (typically Light) <u>after</u> Dark chooses it to be studied."
       ],
       "set": "219",
       "side": "Dark"
@@ -62449,6 +62525,9 @@
         }
       ],
       "rarity": "U",
+      "rulings": [
+        "The Underground icon does not prevent cards from shuttling between this site and the Lothal system."
+      ],
       "set": "219",
       "side": "Dark"
     },

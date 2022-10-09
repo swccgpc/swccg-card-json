@@ -234,7 +234,11 @@
       ],
       "rarity": "U",
       "rulings": [
-        "If the droid is persona replaced, A Gift transfers to the new version, who remains an Undercover spy."
+        "If the droid is persona replaced, A Gift transfers to the new version, who remains an Undercover spy.",
+        "The droid prevents the opponent from Force draining at same site, and allows the owner to deploy to same site even without presence or Force icons.",
+        "The droid is inactive (for example it does not participate in battles) but outside of battle it may be targeted by Interrupts and anything that could make it hit or lost.",
+        "Light may voluntarily break cover during their deploy phase.",
+        "If the droid's cover is broken (either voluntarily or by another card such as Lt. Pol Treidum), then A Gift is lost."
       ],
       "set": "6",
       "side": "Light"
@@ -2439,8 +2443,7 @@
         "Padme Naberrie",
         "Padme Naberrie (V)",
         "Queen Amidala",
-        "Queen Amidala",
-        "Ruler Of Naboo"
+        "Queen Amidala, Ruler Of Naboo"
       ],
       "printings": [
         {
@@ -4685,9 +4688,7 @@
       "pulls": [
         "Admiral Ackbar",
         "Admiral Ackbar (V)",
-        "Admiral U",
-        "O",
-        "Statura",
+        "Admiral U.O. Statura",
         "General Airen Cracken",
         "General Calrissian",
         "General Carlist Rieekan",
@@ -8549,7 +8550,8 @@
       ],
       "rarity": "U",
       "rulings": [
-        "Result will trigger successfully even if character has no immunity to attrition to lose."
+        "Result will trigger successfully even if character has no immunity to attrition to lose.",
+        "For a card to be considered 'duplicated on table', it must be active on table. Not inactive (e.g. Undercover, captive, missing) and not supporting (e.g. stacked on a grabber such as Tentacle)."
       ],
       "set": "5",
       "side": "Light"
@@ -11580,6 +11582,9 @@
         }
       ],
       "rarity": "U2",
+      "rulings": [
+        "This card is <u>not</u> a transport."
+      ],
       "set": "1",
       "side": "Light"
     },
@@ -11862,6 +11867,9 @@
         "2-1B (Too-Onebee)"
       ],
       "rarity": "U",
+      "rulings": [
+        "If a character is hit outside of battle (e.g. by Sniper), they are immediately lost before Delevar can optionally respond."
+      ],
       "set": "208",
       "side": "Light"
     },
@@ -15783,7 +15791,8 @@
       ],
       "rarity": "C2",
       "rulings": [
-        "If canceling an attempt to fire a weapon at a droid, play during the response step (before weapon destiny is drawn)."
+        "If canceling an attempt to fire a weapon at a droid, play during the response step (before weapon destiny is drawn).",
+        "The phrase 'Droid is protected' means that further attempts are not allowed (they are prevented, not canceled)."
       ],
       "set": "1",
       "side": "Light"
@@ -16282,8 +16291,7 @@
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual9-Light/large/effectiverepairsstarshiplevitation.gif",
         "subType": "Used Or Lost",
         "title": "Effective Repairs & Starship Levitation",
-        "type": "Interrupt",
-        "uniqueness": "*"
+        "type": "Interrupt"
       },
       "gempId": "209_19",
       "id": 5503,
@@ -16441,7 +16449,8 @@
       ],
       "rarity": "C2",
       "rulings": [
-        "If this card removes a unique permanent pilot, that persona's uniqueness still applies (e.g. if played on Gold Leader In Gold 1, the character Dutch still cannot be deployed)."
+        "If this card removes a unique permanent pilot, that persona's uniqueness still applies (e.g. if played on Gold Leader In Gold 1, the character Dutch still cannot be deployed).",
+        "An unpiloted starship cannot use its game text (e.g. Zuckuss In Mist Hunter cannot use the total battle destiny reset text), but once the starship is piloted again, the starship's game text becomes usable again (except text that specifically says it comes from the removed permanent pilot)."
       ],
       "set": "2",
       "side": "Light"
@@ -17714,6 +17723,10 @@
         "We Wish To Board At Once"
       ],
       "rarity": "U1",
+      "rulings": [
+        "Preventing destiny draws from being modified even prevents global modifiers such as from the Silence Is Golden (V) and the Senate Objective.",
+        "Preventing destiny draws from being modified can be circumvented with a substituted destiny that has been modified <u>before</u> the substitution (e.g. Darklighter Spin on a modified maneuver value, or a senator on Sando Aqua Monster that is already receiving a global modifier from the Senate Objective)."
+      ],
       "set": "200",
       "side": "Light"
     },
@@ -18087,12 +18100,12 @@
         "deploy": "1",
         "destiny": "3",
         "forfeit": "1",
-        "gametext": "Power and forfeit +1 for each Light side icon at same Endor site. When forfeited at same site as your Ewok of ability > 1, may satisfy all remaining attrition against you.",
+        "gametext": "Deploys only on Endor. Power and forfeit +1 for each [Light Side] icon at same Endor site. When forfeited at same site as your Ewok of ability > 1, may satisfy all remaining attrition against you.",
         "icons": [
           "Endor"
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/Endor-Light/large/ewoktribesman.gif",
-        "lore": "Members of Chief Chirpa's Ewok tribe are courageous in battle. They seek to impress older members of the tribe. Deploys only on Endor.",
+        "lore": "Members of Chief Chirpa's Ewok tribe are courageous in battle. They seek to impress older members of the tribe.",
         "power": "0",
         "subType": "Alien",
         "title": "Ewok Tribesman",
@@ -18114,6 +18127,9 @@
         "Nar Shaddaa Wind Chimes & Out Of Somewhere"
       ],
       "rarity": "C",
+      "rulings": [
+        "If prevented from being used to satisfy attrition (e.g. by Precision Targeting), his text will not satisfy all remaining attrition."
+      ],
       "set": "8",
       "side": "Light"
     },
@@ -19550,7 +19566,9 @@
       ],
       "rarity": "R",
       "rulings": [
-        "This card is <u>not</u> a matching pilot for Tala 1."
+        "This card is <u>not</u> a matching pilot for Tala 1.",
+        "Check all of your cards with ability, even the ones that cannot apply ability toward drawing battle destiny (e.g. starship passengers, characters affected by Wounded Warrior, etc). If all of them are scouts and/or spies, adds one battle destiny and may perform the peek action.",
+        "If with [Tatooine] Darth Maul, setting Light's total ability = 0, Light would still check all their individual cards with ability there and if they are all scouts and/or spies, Cracken's text would still work."
       ],
       "set": "200",
       "side": "Light"
@@ -19964,6 +19982,9 @@
       "side": "Light"
     },
     {
+      "abbr": [
+        "Genobi"
+      ],
       "front": {
         "ability": "6",
         "characteristics": [
@@ -20238,7 +20259,7 @@
           "Force-Attuned"
         ],
         "forfeit": "8",
-        "gametext": "Adds 3 to power of anything he pilots. During battle, may use 1 Force to play an Interrupt from your Reserve Deck (then place that card out of play). Once per turn, may take a non-Interrupt card with 'door' in game text into hand from Reserve Deck; reshuffle.",
+        "gametext": "Adds 3 to power of anything he pilots. During battle, may use 1 Force take an Interrupt into hand from Reserve Deck (reshuffle), play it, then place that card out of play. Once per turn, may take a non-Interrupt card with 'door' in game text into hand from Reserve Deck; reshuffle.",
         "icons": [
           "Pilot",
           "Warrior",
@@ -23368,6 +23389,7 @@
         "If the Hidden Base is a battleground system, it counts towards the 5 battleground systems needed to flip.",
         "The Hidden Base marker from outside the deck matches the system on table if they have the same card title (even if they are from different sets).",
         "Systems deployed by Light count towards flipping even if subsequently converted or blown away.",
+        "Flipping this Objective is an optional top-level action. If the conditions are met, Light may choose to flip whenever they are entitled to a top-level action, even during the weapons segment of a battle.",
         "While on the 7-side, all blown away systems are considered to have been probed (even systems blown away earlier in the game)."
       ],
       "set": "7",
@@ -27807,7 +27829,7 @@
         "destiny": "2",
         "errataVersion": "E1",
         "forfeit": "5",
-        "gametext": "When in a battle, if both players draw only one battle destiny and yours is higher, reduces opponent's destiny to zero. Landspeed = 3. Adds 2 to power of anything she pilots. May not be aboard starfighters or enclosed vehicles.",
+        "gametext": "When in a battle, if both players draw only one battle destiny and yours is higher, reduces opponent's total battle destiny to zero. Landspeed = 3. Adds 2 to power of anything she pilots. May not be aboard starfighters or enclosed vehicles.",
         "icons": [
           "Pilot"
         ],
@@ -31237,6 +31259,10 @@
         }
       ],
       "rarity": "R",
+      "rulings": [
+        "Consider a Dark character inside a starfighter or vehicle that is landed inside a capital starship. That character is also aboard the capital starship, and still becomes forfeit = 0 when Tarn's starfighter fires at the capital starship.",
+        "If the attempt to fire a starship weapon is canceled, Tarn does not cause the characters aboard the target to become forfeit = 0."
+      ],
       "set": "7",
       "side": "Light"
     },
@@ -31550,6 +31576,9 @@
       "side": "Light"
     },
     {
+      "abbr": [
+        "LMFBM"
+      ],
       "combo": [
         "Like My Father Before Me + Luke Skywalker, Jedi Knight"
       ],
@@ -31582,6 +31611,9 @@
         "Luke's Lightsaber"
       ],
       "rarity": "U",
+      "rulings": [
+        "Although you are allowed to attempt to deploy Luke's Lightsaber when he is a captive at a battleground, it fails to deploy on him (he is inactive)."
+      ],
       "set": "202",
       "side": "Light"
     },
@@ -38847,6 +38879,9 @@
         }
       ],
       "rarity": "U",
+      "rulings": [
+        "The Lost function is played during weapons segment, scheduling the -2 modifier(s) for later."
+      ],
       "set": "9",
       "side": "Light"
     },
@@ -39373,6 +39408,9 @@
         "Nar Shaddaa Wind Chimes & Out Of Somewhere"
       ],
       "rarity": "PM",
+      "rulings": [
+        "This card is <u>not</u> an Ishi Tib."
+      ],
       "set": "112",
       "side": "Light"
     },
@@ -39412,6 +39450,11 @@
         "Nar Shaddaa Wind Chimes"
       ],
       "rarity": "PM",
+      "rulings": [
+        "This card is <u>not</u> an Ishi Tib.",
+        "This card deploys -3 if You're A Slave? on table. Then, while active on table, it causes other Palace Raiders to deploy -3.",
+        "The deploy -3 text is not cumulative (not even if one is on table and one is in hand - the result will be deploy -3, not deploy -6)."
+      ],
       "set": "202",
       "side": "Light"
     },
@@ -40586,6 +40629,9 @@
         "Rapid Fire"
       ],
       "rarity": "U1",
+      "rulings": [
+        "If the weapon destiny is canceled (e.g. by Grand Moff Tarkin) - it is a failed destiny draw situation. The outcome resolves in favor of the opponent, meaning that the vehicle that was trying to use the Power Harpoon will crash (same as if the weapon destiny = 0)."
+      ],
       "set": "3",
       "side": "Light"
     },
@@ -40887,9 +40933,7 @@
         "Leia Of Alderaan",
         "Leia of Alderaan (V)",
         "Reflection",
-        "Admiral U",
-        "O",
-        "Statura",
+        "Admiral U.O. Statura",
         "Captain Raymus Antilles",
         "Chief Chirpa",
         "Colonel Salm",
@@ -41517,6 +41561,9 @@
         "Sabe"
       ],
       "rarity": "R",
+      "rulings": [
+        "'Immune to Sniper' prevents the control phase sniping function and prevents the place in Lost Pile function of the combo card. It does not prevent the 3 being added to weapon destiny function of the combo card."
+      ],
       "set": "14",
       "side": "Light"
     },
@@ -42190,7 +42237,7 @@
           "Astromech & Protocol"
         ],
         "forfeit": "7",
-        "gametext": "If about to be leave table (even from Overwhelmed) from Tatooine system and Stolen Data Tapes deployed on this character, may instead be relocated to Dune Sea. Immune to A Gift, Firepower, devices, and opponent's Interrupts.",
+        "gametext": "If about to leave table (for any reason, even if inactive) from Tatooine system and Stolen Data Tapes here (or at Dune Sea), relocate R2-D2 & C-3PO to Dune Sea. Immune to A Gift, devices, and opponent's Interrupts.",
         "icons": [
           "Set 3"
         ],
@@ -42218,6 +42265,9 @@
         "Were You Looking For Me?"
       ],
       "rarity": "U2",
+      "rulings": [
+        "Provided that their conditions are met, R2-D2 & C-3PO will relocate to the Dune Sea even if they are being affected by an 'all cards situation' such as Program Trap, Overwhelmed, etc."
+      ],
       "set": "203",
       "side": "Light"
     },
@@ -43330,9 +43380,7 @@
       "pulls": [
         "Admiral Ackbar",
         "Admiral Ackbar (V)",
-        "Admiral U",
-        "O",
-        "Statura",
+        "Admiral U.O. Statura",
         "General Airen Cracken",
         "General Calrissian",
         "General Carlist Rieekan",
@@ -43721,6 +43769,9 @@
         "Pucumir Thryss (to same Cloud City site)"
       ],
       "rarity": "PM",
+      "rulings": [
+        "If prevented from being used to satisfy attrition (e.g. by Precision Targeting), his text will not satisfy all remaining attrition."
+      ],
       "set": "106",
       "side": "Light"
     },
@@ -46770,8 +46821,7 @@
         "Padme Naberrie",
         "Padme Naberrie (V)",
         "Queen Amidala",
-        "Queen Amidala",
-        "Ruler Of Naboo"
+        "Queen Amidala, Ruler Of Naboo"
       ],
       "rarity": "R",
       "set": "12",
@@ -50144,8 +50194,8 @@
     {
       "front": {
         "destiny": "6",
-        "errataVersion": "E1",
-        "gametext": "Deploy on Data Vault. At any time, may relocate Stardust to your spy present. During your control phase, if on your spy at a battleground you occupy, opponent loses 1 Force. If about to leave table, relocate to Data Vault (if possible). (Immune to Alter.)",
+        "errataVersion": "E2",
+        "gametext": "Deploy on Data Vault. At any time, may relocate Stardust to your spy present. During your control phase, if on your spy at a battleground you occupy, opponent loses 1 Force. If about to leave table (for any reason, even if inactive), relocate to Data Vault. (Immune to Alter.)",
         "icons": [
           "Set 9"
         ],
@@ -50164,6 +50214,9 @@
         }
       ],
       "rarity": "R1",
+      "rulings": [
+        "Stardust will relocate to the Data Vault even if it is being affected by an 'all cards situation' such as Program Trap, Overwhelmed, etc."
+      ],
       "set": "209",
       "side": "Light"
     },
@@ -50343,7 +50396,8 @@
     {
       "front": {
         "destiny": "6",
-        "gametext": "Deploy on R2-D2. If about to leave table (even from Overwhelmed),relocate to Dune Sea (if possible). If at Dune Sea, may relocate to your character there. If at Alderaan (or a 'blown away' system), tapes 'delivered'; relocate this Effect to table and may take any card into hand from Reserve Deck; reshuffle. (Immune to Alter.)",
+        "errataVersion": "E1",
+        "gametext": "Deploy on R2-D2. If about to leave table (for any reason, even if inactive), relocate to Dune Sea. If at Dune Sea, may relocate to your character there. If at Alderaan (or a 'blown away' system), tapes 'delivered'; relocate this Effect to table and may take any card into hand from Reserve Deck; reshuffle. (Immune to Alter.)",
         "icons": [
           "Set 3"
         ],
@@ -50367,13 +50421,17 @@
         "Wokling (V)"
       ],
       "rarity": "R1",
+      "rulings": [
+        "Stolen Data Tapes will relocate to the Dune Sea even if it is being affected by an 'all cards situation' such as Program Trap, Overwhelmed, etc."
+      ],
       "set": "203",
       "side": "Light"
     },
     {
       "front": {
         "destiny": "6",
-        "gametext": "Deploy on R2-D2. If about to leave table (even from Overwhelmed),relocate to Dune Sea (if possible). If at Dune Sea, may relocate to your character there. If at Alderaan (or a 'blown away' system), tapes 'delivered'; relocate this Effect to table and may take any card into hand from Reserve Deck; reshuffle. (Immune to Alter.)",
+        "errataVersion": "E1",
+        "gametext": "Deploy on R2-D2. If about to leave table (for any reason, even if inactive), relocate to Dune Sea. If at Dune Sea, may relocate to your character there. If at Alderaan (or a 'blown away' system), tapes 'delivered'; relocate this Effect to table and may take any card into hand from Reserve Deck; reshuffle. (Immune to Alter.)",
         "icons": [
           "Set 3"
         ],
@@ -50397,6 +50455,9 @@
         "Wokling (V)"
       ],
       "rarity": "R1",
+      "rulings": [
+        "Stolen Data Tapes will relocate to the Dune Sea even if it is being affected by an 'all cards situation' such as Program Trap, Overwhelmed, etc."
+      ],
       "set": "203",
       "side": "Light"
     },
@@ -51231,6 +51292,9 @@
         }
       ],
       "rarity": "U2",
+      "rulings": [
+        "When counting spies out of play, two spies of the same title or same persona still count as two spies."
+      ],
       "set": "209",
       "side": "Light"
     },
@@ -52150,22 +52214,18 @@
         "Luke Skywalker, Rebel Scout (V)",
         "Mace Windu",
         "Mace Windu (V)",
-        "Mace Windu",
-        "Jedi Master",
+        "Mace Windu, Jedi Master",
         "Master Qui-Gon",
         "Master Qui-Gon (V)",
         "Obi-Wan Kenobi",
         "Obi-Wan Kenobi (V)",
-        "Obi-Wan Kenobi",
-        "Jedi Knight",
+        "Obi-Wan Kenobi, Jedi Knight",
         "Obi-Wan With Lightsaber",
         "Qui-Gon Jinn",
         "Qui-Gon Jinn With Lightsaber",
-        "Qui-Gon Jinn",
-        "Jedi Master",
+        "Qui-Gon Jinn, Jedi Master",
         "Yoda (V)",
-        "Yoda",
-        "Keeper Of The Peace"
+        "Yoda, Keeper Of The Peace"
       ],
       "rarity": "U",
       "set": "11",
@@ -53729,7 +53789,8 @@
       "rarity": "R",
       "rulings": [
         "While a Jedi on table, also cannot use persona replacement to replace a Jedi with a Jedi, or to replace a non-Jedi with a Jedi.",
-        "Be With Me creates an exception to the above ruling, allowing Set 14 Rey to deploy (and thereby also allowing her to persona replace another Rey)."
+        "Be With Me creates an exception to the above ruling, allowing Set 14 Rey to deploy (and thereby also allowing her to persona replace another Rey).",
+        "(0 side) May flip even if the Resistance character is introduced to the battle during the 'battle just initiated' responses (e.g. Light may deploy Finn as a react, then flip)."
       ],
       "set": "211",
       "side": "Light"
@@ -56086,7 +56147,11 @@
       ],
       "rarity": "U2",
       "rulings": [
-        "If the character is persona replaced by a non-spy version, Undercover is lost and the character ceases to be Undercover."
+        "If the character is persona replaced by a non-spy version, Undercover is lost and the character ceases to be Undercover.",
+        "The Undercover character prevents the opponent from Force draining at same site, and allows the owner to deploy to same site even without presence or Force icons. These benefits are the same even if the Undercover character is a droid.",
+        "The Undercover character is inactive (for example it does not participate in battles) but outside of battle it may be targeted by Interrupts and anything that could make it dueled, hit, or lost.",
+        "The owner may voluntarily break cover during their deploy phase.",
+        "If the character's cover is broken (either voluntarily or by another card such as Lt. Pol Treidum), then Undercover is lost."
       ],
       "set": "2",
       "side": "Light"
@@ -59725,6 +59790,10 @@
         }
       ],
       "rarity": "U",
+      "rulings": [
+        "Preventing destiny draws from being modified even prevents global modifiers such as from the Silence Is Golden (V) and the Senate Objective.",
+        "Preventing destiny draws from being modified can be circumvented with a substituted destiny that has been modified <u>before</u> the substitution (e.g. Darklighter Spin on a modified maneuver value, or a senator on Sando Aqua Monster that is already receiving a global modifier from the Senate Objective)."
+      ],
       "set": "202",
       "side": "Light"
     },
@@ -62041,6 +62110,9 @@
         }
       ],
       "rarity": "C",
+      "rulings": [
+        "When counting spies out of play, two spies of the same title or same persona still count as two spies."
+      ],
       "set": "214",
       "side": "Light"
     },
@@ -62786,7 +62858,7 @@
         "type": "Character",
         "uniqueness": "*"
       },
-      "gempId": "212_12",
+      "gempId": "215_12",
       "id": 6886,
       "legacy": false,
       "printings": [
@@ -64462,8 +64534,9 @@
       "rarity": "C",
       "rulings": [
         "Jedi stacked on Communing are counted as Jedi out of play.",
-        "For the 3rd section, a non-character card can add battle destinies (e.g. I'm Getting Pretty Good At This) but cannot cause a character to add battle destinies (e.g. Meditation).",
-        "For the 4th section, when using the Legend objective, Light can deploy Set 14 Rey even if they have a Jedi on table. But they cannot deploy a Jedi if they have Set 14 Rey on table."
+        "(3rd section) A non-character card can add battle destinies (e.g. I'm Getting Pretty Good At This) but cannot cause a character to add battle destinies (e.g. Meditation).",
+        "(3rd section) Characters that draw multiple battle destiny 'if unable to otherwise' still do so while with Set 14 Rey.",
+        "(4th section) When using the Legend objective, Light can deploy Set 14 Rey even if they have a Jedi on table. But they cannot deploy a Jedi if they have Set 14 Rey on table."
       ],
       "set": "217",
       "side": "Light"
