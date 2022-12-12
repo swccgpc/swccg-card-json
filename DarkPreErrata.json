@@ -1,0 +1,559 @@
+{
+  "cards": [
+    {
+      "abbr": [
+        "ADTFTR&TO",
+        "A Dark Time combo"
+      ],
+      "cancels": [
+        "It Could Be Worse",
+        "Projection Of A Skywalker (sometimes)",
+        "Force retrieval from General Leia Organa, Rey With Lightsaber, Rey All Of The Jedi, and Rose Tico."
+      ],
+      "front": {
+        "destiny": "5",
+        "gametext": "For remainder of turn, opponent's Force retrieval using Resistance characters' game text is canceled. OR For remainder of turn, opponent may not cancel your battle destiny draws. OR Search opponent's Lost Pile; place one device you find there out of play. OR Cancel It Could Be Worse. OR Cancel Projection Of A Skywalker at an opponent's planet site.",
+        "icons": [
+          "Set 18"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual18-Dark/large/adarktimefortherebelliontarkinsorders.gif",
+        "subType": "Used",
+        "title": "•A Dark Time For The Rebellion & •Tarkin's Orders",
+        "type": "Interrupt",
+        "uniqueness": "*"
+      },
+      "gempId": "218_7",
+      "id": 20000,
+      "legacy": false,
+      "nextId": 7047,
+      "printings": [
+        {
+          "set": "218"
+        }
+      ],
+      "rarity": "C1",
+      "rulings": [
+        "First function: Rey, All Of The Jedi may perform her action that places a card out of play. Only the retrieval is canceled.",
+        "Second function: The number of battle destiny draws may still be limited."
+      ],
+      "set": "218",
+      "side": "Dark"
+    },
+    {
+      "abbr": [
+        "AGTCP/TRIOR",
+        "Thrawn"
+      ],
+      "back": {
+        "destiny": "7",
+        "gametext": "A Great Tactician Creates Plans: Deploy Lothal system, Advanced Projects Laboratory, Imperial Complex, and Thrawn’s Art Collection. For remainder of game, you may not deploy [Episode I] (or [Episode VII]) cards with ability or [Presence], or any admiral (except Thrawn). While this side up, Imperial Star Destroyers deploy -1 (-3 if Chimaera). Once per turn, may deploy a battleground system (or a site to Lothal) from Reserve Deck; reshuffle. Flip this card during any deploy phase if Thrawn at a battleground and two or more artwork cards on table. The Result Is Often Resentment: While this side up, if a battle was just initiated involving an Imperial leader or piloted TIE defender, may ‘study’ one artwork card. If it is a weapon, cancel the battle. Otherwise, if possible, if its printed destiny number is: (0-2) opponent’s immunity to attrition is canceled; (3-4) opponent excludes their character from battle; (5+) add 3 to your total power. Place artwork card in owner's Lost Pile. Flip this card if Thrawn not on table or (except during battle) if no artwork cards on table.",
+        "icons": [
+          "Set 19"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual19-Dark/large/theresultisoftenresentment.gif",
+        "title": "A Great Tactician Creates Plans / The Result Is Often Resentment",
+        "type": "Objective"
+      },
+      "front": {
+        "destiny": "0",
+        "gametext": "A Great Tactician Creates Plans: Deploy Lothal system, Advanced Projects Laboratory, Imperial Complex, and Thrawn’s Art Collection. For remainder of game, you may not deploy [Episode I] (or [Episode VII]) cards with ability or [Presence], or any admiral (except Thrawn). While this side up, Imperial Star Destroyers deploy -1 (-3 if Chimaera). Once per turn, may deploy a battleground system (or a site to Lothal) from Reserve Deck; reshuffle. Flip this card during any deploy phase if Thrawn at a battleground and two or more artwork cards on table. The Result Is Often Resentment: While this side up, if a battle was just initiated involving an Imperial leader or piloted TIE defender, may ‘study’ one artwork card. If it is a weapon, cancel the battle. Otherwise, if possible, if its printed destiny number is: (0-2) opponent’s immunity to attrition is canceled; (3-4) opponent excludes their character from battle; (5+) add 3 to your total power. Place artwork card in owner's Lost Pile. Flip this card if Thrawn not on table or (except during battle) if no artwork cards on table.",
+        "icons": [
+          "Set 19"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual19-Dark/large/agreattacticiancreatesplans.gif",
+        "title": "A Great Tactician Creates Plans / The Result Is Often Resentment",
+        "type": "Objective"
+      },
+      "gempId": "219_1",
+      "id": 20001,
+      "legacy": false,
+      "nextId": 7073,
+      "printings": [
+        {
+          "set": "219"
+        }
+      ],
+      "rarity": "U",
+      "rulings": [
+        "(Both sides) This Objective must flip as an automatic action as soon as the flip conditions are met.",
+        "(0-side) 'Flip this card during any deploy phase' means it will flip during either player's deploy phase.",
+        "(0-side) 'Imperial Star Destroyers' refers to Imperial affiliation (not First Order, Rebel, Independent, etc).  It does not refer to Imperial-class. Thus Dominator and Executor are deploy -1.",
+        "(7-side) After studying an artwork card, place it in Lost Pile even if it was not possible to perform the specified action (e.g., even if there was no character to exclude from battle or no immunity to attrition to cancel).",
+        "(7-side) For a multi-destiny artwork card such as R2-D2, the destiny value is chosen by the card owner (typically Light) <u>after</u> Dark chooses it to be studied."
+      ],
+      "set": "219",
+      "side": "Dark"
+    },
+    {
+      "abbr": [
+        "AED"
+      ],
+      "front": {
+        "destiny": "2",
+        "gametext": "Deploy on table. Attempts to 'blow away' Alderaan are +5. If Alderaan has been 'blown away,' adds one [Light Side] icon at Death Star system and opponent's total battle destiny is -1. Once per game, may take Superlaser into hand from Reserve Deck; reshuffle. (Immune to Alter.)",
+        "icons": [
+          "Set 17"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual17-Dark/large/aneffectivedemonstration.gif",
+        "lore": "Blank.",
+        "title": "•An Effective Demonstration",
+        "type": "Effect",
+        "uniqueness": "*"
+      },
+      "gempId": "217_1",
+      "id": 20002,
+      "legacy": false,
+      "nextId": 6953,
+      "printings": [
+        {
+          "set": "217"
+        }
+      ],
+      "pulledBy": [
+        "Twi'lek Advisor",
+        "We Must Accelerate Our Plans"
+      ],
+      "pulls": [
+        "Superlaser",
+        "Superlaser (V)"
+      ],
+      "rarity": "U",
+      "rulings": [
+        "The opponent's total battle destiny -1 applies everywhere.",
+        "Cannot pull Superlaser Mark II."
+      ],
+      "set": "217",
+      "side": "Dark"
+    },
+    {
+      "front": {
+        "deploy": "2",
+        "destiny": "½ or 5½",
+        "destinyValues": [
+          0.5,
+          5.5
+        ],
+        "errataSymbol": "E1",
+        "extraText": [
+          "Astromech Droid"
+        ],
+        "forfeit": "4",
+        "gametext": "Deploys -1 to same site as BB-8. Cancels game text of BB-8 and/or Rose at same site. During your move phase, may place in Used Pile; 'break cover' of all Undercover spies here (if any). Immune to Restraining Bolt and Sorry About The Mess.",
+        "icons": [
+          "Nav Computer",
+          "Episode VII",
+          "Set 17"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual17-Dark/large/bb9e.gif",
+        "lore": "Blank.",
+        "power": "2",
+        "subType": "Droid",
+        "title": "•BB-9E",
+        "type": "Character",
+        "uniqueness": "*"
+      },
+      "gempId": "217_2",
+      "id": 20003,
+      "legacy": false,
+      "nextId": 6954,
+      "printings": [
+        {
+          "set": "217"
+        }
+      ],
+      "rarity": "C2",
+      "rulings": [
+        "BB-9E cannot cancel game text if BB-9E is at a system or sector.",
+        "BB-9E does not cancel the game text of captives.",
+        "BB-9E automatically cancels game text whenever applicable (it is not optional).",
+        "BB-9E may be placed in Used Pile even if there are no Undercover spies there.",
+        "'Immune to Sorry About The Mess' prevents the control phase firing function and prevents the place in Lost Pile function of the combo card. It does not prevent the 3 being added to weapon destiny function of the combo card."
+      ],
+      "set": "217",
+      "side": "Dark"
+    },
+    {
+      "front": {
+        "destiny": "5",
+        "gametext": "Deploy on table. Lost if your non-Imperial character (or starship) on table. Unless you occupy fewer locations than opponent: if you win a battle, retrieve an Imperial; and, during battle, may take an Imperial just drawn for destiny into hand to cancel and redraw that destiny. [Immune to Alter.]",
+        "icons": [
+          "Set 1"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual1-Dark/large/imperialenforcement.gif",
+        "lore": "When Vader's forces impose the New Order upon a region, Rebel resources and lifelines are quickly eliminated.",
+        "title": "•Imperial Enforcement",
+        "type": "Effect",
+        "uniqueness": "*"
+      },
+      "gempId": "201_30",
+      "id": 20004,
+      "legacy": false,
+      "nextId": 1271,
+      "printings": [
+        {
+          "set": "201"
+        }
+      ],
+      "pulledBy": [
+        "Twi'lek Advisor",
+        "We Must Accelerate Our Plans"
+      ],
+      "rarity": "U1",
+      "rulings": [
+        "Mara Jade, The Emperor's Hand (for example) does not make this Effect lost.",
+        "Imperial starships (Dark starships with no allegiance icon such as Independent, Republic, etc) do not make this Effect lost.",
+        "<u>Both</u> of the bonuses (Dark retrieving an Imperial, and Dark taking a just drawn Imperial into hand) require Dark to occupy at least as many locations as opponent."
+      ],
+      "set": "201",
+      "side": "Dark"
+    },
+    {
+      "front": {
+        "destiny": "4",
+        "gametext": "If Ralltiir Operations on table, deploy on table. Forfeit values are not modified by Do They Have A Code Clearance?. Once per battle, when you draw battle destiny, may exchange a card in hand with a card of same card type in Lost Pile. [Immune to Alter.]",
+        "icons": [
+          "Death Star II",
+          "Set 10"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual10-Dark/large/insignificantrebellion.gif",
+        "lore": "'Your fleet is lost. And your friends on the Endor moon will not survive. There is no escape, my young apprentice.'",
+        "title": "•Insignificant Rebellion (V)",
+        "type": "Effect",
+        "uniqueness": "*"
+      },
+      "gempId": "210_47",
+      "id": 20005,
+      "legacy": false,
+      "nextId": 6788,
+      "printings": [
+        {
+          "set": "210"
+        }
+      ],
+      "pulledBy": [
+        "Moment Of Triumph (V)"
+      ],
+      "rarity": "U",
+      "set": "210",
+      "side": "Dark"
+    },
+    {
+      "front": {
+        "darkSideIcons": 2,
+        "destiny": "0",
+        "gametext": "Dark: While you control, at related battleground sites you control with an Imperial leader, your Force drains are +1. Light: If Ghost and Phantom piloted here, Force drain +1 here. If no Rebel starships piloted here, Force drain -1 here.",
+        "icons": [
+          "Planet",
+          "Set 19"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual19-Dark/large/lothal.gif",
+        "lightSideIcons": 1,
+        "parsec": "6",
+        "subType": "System",
+        "title": "•Lothal",
+        "type": "Location",
+        "uniqueness": "*"
+      },
+      "gempId": "219_10",
+      "id": 20006,
+      "legacy": false,
+      "nextId": 7082,
+      "printings": [
+        {
+          "set": "219"
+        }
+      ],
+      "rarity": "U2",
+      "set": "219",
+      "side": "Dark"
+    },
+    {
+      "abbr": [
+        "LAPL"
+      ],
+      "front": {
+        "darkSideIcons": 1,
+        "destiny": "0",
+        "gametext": "Dark: Once per game, may deploy TIE Defender Project or Thrawn here from Reserve Deck; reshuffle. Light: If you control with a Rebel, Force drain +1 here.",
+        "icons": [
+          "Exterior",
+          "Planet",
+          "Scomp Link",
+          "Set 19"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual19-Dark/large/lothaladvancedprojectslaboratory.gif",
+        "lightSideIcons": 1,
+        "subType": "Site",
+        "title": "•Lothal: Advanced Projects Laboratory",
+        "type": "Location",
+        "uniqueness": "*"
+      },
+      "gempId": "219_11",
+      "id": 20007,
+      "legacy": false,
+      "nextId": 7083,
+      "printings": [
+        {
+          "set": "219"
+        }
+      ],
+      "rarity": "U",
+      "set": "219",
+      "side": "Dark"
+    },
+    {
+      "front": {
+        "ability": "6",
+        "characteristics": [
+          "Crimson Dawn",
+          "leader",
+          "gangster"
+        ],
+        "deploy": "4",
+        "destiny": "½",
+        "destinyValues": [
+          0.5
+        ],
+        "extraText": [
+          "Dark Jedi"
+        ],
+        "forfeit": "8",
+        "gametext": "Never deploys to a battleground. Opponent may not cancel your destiny draws. Once per turn, may add 1 to a just drawn battle or weapon destiny. Once per turn, may subtract 1 from a just drawn battle or weapon destiny. Immune to attrition < 5.",
+        "icons": [
+          "Warrior",
+          "Set 13"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual13-Dark/large/maul.gif",
+        "lore": "Crimson Dawn leader. Gangster.",
+        "power": "4",
+        "subType": "Sith",
+        "title": "•Maul",
+        "type": "Character",
+        "uniqueness": "*"
+      },
+      "gempId": "213_10",
+      "id": 20008,
+      "legacy": false,
+      "nextId": 6800,
+      "printings": [
+        {
+          "set": "213"
+        }
+      ],
+      "rarity": "C",
+      "rulings": [
+        "Does not need to be at the battle location to add or subtract 1 from a just drawn destiny.",
+        "However, if Maul does happen to be at the battle location, then he must be participating in the battle (not excluded) in order to add or subtract 1."
+      ],
+      "set": "213",
+      "side": "Dark"
+    },
+    {
+      "abbr": [
+        "PER"
+      ],
+      "front": {
+        "ability": "7",
+        "characteristics": [
+          "Leader",
+          "Dark Jedi Master"
+        ],
+        "deploy": "4",
+        "destiny": "4",
+        "forfeit": "9",
+        "gametext": "Never deploys or moves (even if carried) to a location with a [Light Side] icon. Once per turn, may draw bottom card of your Force Pile. Once per game, if about to be lost, may take him into hand. Immune to attrition.",
+        "icons": [
+          "Episode VII",
+          "Set 14"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual14-Dark/large/palpatineemperorreturned.gif",
+        "lore": "Leader.",
+        "power": "2",
+        "subType": "Dark Jedi Master/First Order",
+        "title": "•Palpatine, Emperor Returned",
+        "type": "Character",
+        "uniqueness": "*"
+      },
+      "gempId": "214_8",
+      "id": 20009,
+      "legacy": false,
+      "nextId": 6851,  
+      "printings": [
+        {
+          "set": "214"
+        }
+      ],
+      "rarity": "U1",
+      "rulings": [
+        "This card qualifies as Emperor, as Palpatine, and as Sidious.",
+        "If his game text is canceled, the text cannot be used to take him into hand when about to be lost.",
+        "If he is hit during battle and then excluded from the battle (e.g. by Clash Of Sabers) he is inactive and so cannot use his text to be taken into hand. He is immediately lost due to being hit while outside of a battle.",
+        "A Light Side Force icon could be added to the same location as Palpatine, Emperor Returned (e.g. due to Presence Of The Force). This does not violate Palpatine's text or cause him to be removed from table."
+      ],
+      "set": "214",
+      "side": "Dark"
+    },
+    {
+      "abbr": [
+        "RO/ITHOTEV",
+        "ROPSV"
+      ],
+      "back": {
+        "destiny": "7",
+        "errataSymbol": "E1",
+        "gametext": "Ralltiir Operations:Deploy Ralltiir system.{For} remainder of game, spaceport sites are immune to Always Thinking With Your Stomach, He Hasn't Come Back Yet, and Ounee Ta. Your Force generation is +1 at each Ralltiir location. {While} this side up, once per turn, may deploy a site (or non-unique Imperial) to Ralltiir from Reserve Deck; reshuffle.{Flip} this card if Imperials control at least three Ralltiir sites and opponent controls no Ralltiir locations.In The Hands Of The Empire:{While} this side up, opponent's Force drains are -1 at their locations. Your total battle destiny is +X, where X = number of Ralltiir locations your Imperials occupy. {Flip} this card if opponent controls at least two Ralltiir locations.",
+        "icons": [
+          "Set 10"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual10-Dark/large/inthehandsoftheempire.gif",
+        "title": "Ralltiir Operations / In The Hands Of The Empire (V)",
+        "type": "Objective"
+      },
+      "front": {
+        "destiny": "0",
+        "errataSymbol": "E1",
+        "gametext": "Ralltiir Operations:Deploy Ralltiir system.{For} remainder of game, spaceport sites are immune to Always Thinking With Your Stomach, He Hasn't Come Back Yet, and Ounee Ta. Your Force generation is +1 at each Ralltiir location. {While} this side up, once per turn, may deploy a site (or non-unique Imperial) to Ralltiir from Reserve Deck; reshuffle.{Flip} this card if Imperials control at least three Ralltiir sites and opponent controls no Ralltiir locations.In The Hands Of The Empire:{While} this side up, opponent's Force drains are -1 at their locations. Your total battle destiny is +X, where X = number of Ralltiir locations your Imperials occupy. {Flip} this card if opponent controls at least two Ralltiir locations.",
+        "icons": [
+          "Set 10"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual10-Dark/large/ralltiiroperations.gif",
+        "title": "Ralltiir Operations / In The Hands Of The Empire (V)",
+        "type": "Objective"
+      },
+      "gempId": "210_42",
+      "id": 20010,
+      "legacy": false,
+      "nextId": 6590,
+      "printings": [
+        {
+          "set": "210"
+        }
+      ],
+      "rarity": "R",
+      "set": "210",
+      "side": "Dark"
+    },
+    {
+      "front": {
+        "destiny": "3",
+        "gametext": "Deploy on table. Your droids are destiny +1. Once per turn, if you just drew a non-[Presence] droid for destiny, may take that droid into hand. Once per turn, may deploy Droid Workshop, Forced Servitude, Incinerator, or Wuher from Reserve Deck; reshuffle. (Immune to Alter.)",
+        "icons": [
+          "Set 10"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual10-Dark/large/silenceisgolden.gif",
+        "lore": "'Excuse me, sir, might I in--'",
+        "title": "Silence Is Golden (V)",
+        "type": "Effect"
+      },
+      "gempId": "210_45",
+      "id": 20011,
+      "legacy": false,
+      "nextId": 6642,
+      "printings": [
+        {
+          "set": "210"
+        }
+      ],
+      "pulls": [
+        "Cloud City: Incinerator",
+        "Forced Servitude",
+        "Jabba's Palace: Droid Workshop",
+        "Wuher"
+      ],
+      "rarity": "U2",
+      "set": "210",
+      "side": "Dark"
+    },
+    {
+      "counterpart": "Jedi Levitation (V)",
+      "front": {
+        "destiny": "4",
+        "errataSymbol": "E1",
+        "gametext": "USED: If you just drew a character for destiny, take that card into hand to cancel and redraw that destiny.  LOST: Once per game, exchange a Dark Jedi in hand with a Dark Jedi in Lost Pile.",
+        "icons": [
+          "Tatooine",
+          "Set 0"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual0-Dark/large/sithfury.gif",
+        "lore": "At his peak, no one could stand up to the Dark Lord of the Sith. His superior tactics devastated those who opposed him.",
+        "subType": "Used Or Lost",
+        "title": "•Sith Fury (V)",
+        "type": "Interrupt",
+        "uniqueness": "*"
+      },
+      "gempId": "200_123",
+      "id": 20012,
+      "legacy": false,
+      "nextId": 4003,
+      "printings": [
+        {
+          "set": "200"
+        }
+      ],
+      "pulls": [
+        "Count Dooku",
+        "Darth Maul",
+        "Darth Maul With Lightsaber",
+        "Darth Maul, Lone Hunter",
+        "Darth Maul, Young Apprentice",
+        "Darth Sidious",
+        "Darth Vader",
+        "Darth Vader (V)",
+        "Darth Vader With Lightsaber",
+        "Darth Vader, Dark Lord Of The Sith",
+        "Darth Vader, Emperor's Enforcer",
+        "Emperor Palpatine",
+        "Emperor Palpatine, Foreseer",
+        "Lord Maul",
+        "Lord Maul With Lightsaber",
+        "Lord Sidious",
+        "Lord Vader",
+        "The Emperor",
+        "Vader"
+      ],
+      "rarity": "C",
+      "set": "200",
+      "side": "Dark"
+    },
+    {
+      "abbr": [
+        "TSOT/WTITJA",
+        "DS Demo Deck"
+      ],
+      "back": {
+        "destiny": "7",
+        "gametext": "Twin Suns Of Tatooine:Deploy Tatooine system and a non-Jabba's Palace Tatooine battleground site. {For} remainder of game, you may not deploy Jabba's Palace sites or Sandwhirl. {While} this side up, once per turn, may use 1 Force to deploy a Tatooine battleground site from Reserve Deck; reshuffle. {Flip} this card if you control two Tatooine battleground sites (at least one with a Dark Jedi) and occupy Tatooine system, and opponent controls no Tatooine sites.Well Trained In The Jedi Arts:{While} this side up, once per game, may deploy Tatooine Occupation from Reserve Deck; reshuffle. Once during your control phase, may peek at the top two cards of your Reserve Deck; take one into hand and shuffle Reserve Deck. For opponent to move a character or vehicle from same site as your Dark Jedi requires +1 Force. {Flip} this card if opponent controls more Tatooine sites than you.",
+        "icons": [
+          "Premium",
+          "Set P"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/DemoDeck-Dark/large/welltrainedinthejediarts.gif",
+        "title": "Twin Suns Of Tatooine / Well Trained In The Jedi Arts",
+        "type": "Objective"
+      },
+      "front": {
+        "destiny": "0",
+        "gametext": "Twin Suns Of Tatooine:Deploy Tatooine system and a non-Jabba's Palace Tatooine battleground site. {For} remainder of game, you may not deploy Jabba's Palace sites or Sandwhirl. {While} this side up, once per turn, may use 1 Force to deploy a Tatooine battleground site from Reserve Deck; reshuffle. {Flip} this card if you control two Tatooine battleground sites (at least one with a Dark Jedi) and occupy Tatooine system, and opponent controls no Tatooine sites.Well Trained In The Jedi Arts:{While} this side up, once per game, may deploy Tatooine Occupation from Reserve Deck; reshuffle. Once during your control phase, may peek at the top two cards of your Reserve Deck; take one into hand and shuffle Reserve Deck. For opponent to move a character or vehicle from same site as your Dark Jedi requires +1 Force. {Flip} this card if opponent controls more Tatooine sites than you.",
+        "icons": [
+          "Premium",
+          "Set P"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/DemoDeck-Dark/large/twinsunsoftatooine.gif",
+        "title": "Twin Suns Of Tatooine / Well Trained In The Jedi Arts",
+        "type": "Objective"
+      },
+      "gempId": "301_4",
+      "id": 20013,
+      "legacy": false,
+      "nextId": 6716,
+      "printings": [
+        {
+          "set": "301"
+        }
+      ],
+      "rarity": "R",
+      "set": "301",
+      "side": "Dark"
+    }
+  ]
+}
