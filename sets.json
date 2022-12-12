@@ -502,8 +502,19 @@
     "legacy": false,
     "cycle_code": "full",
     "date_release": "2022-08-15",
-    "position": 218,
+    "position": 219,
     "size": 48
+  },
+  {
+    "id": "220",
+    "name": "Virtual Set 20",
+    "gempName": "Set 20",
+    "abbr": "V20",
+    "legacy": false,
+    "cycle_code": "full",
+    "date_release": "2022-12-12",
+    "position": 220,
+    "size": 8
   },
   {
     "id": "301",
