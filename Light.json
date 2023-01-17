@@ -1168,7 +1168,8 @@
         "ability": "3",
         "characteristics": [
           "admiral",
-          "leader"
+          "leader",
+          "Mon Calamari"
         ],
         "deploy": "0",
         "destiny": "2",
@@ -1316,7 +1317,7 @@
       ],
       "counterpart": "I Find Your Lack Of Faith Disturbing",
       "front": {
-        "destiny": "5",
+        "destiny": "0",
         "errataSymbol": "E1",
         "gametext": "Use 1 Force to deploy on one of your Jedi. Unless a Dark Jedi is also present, opponent's total ability at same location is reduced by 2.",
         "imageUrl": "https://res.starwarsccg.org/cards/Premiere-Light/large/affectmind.gif",
@@ -1342,7 +1343,7 @@
       "side": "Light"
     },
     {
-      "counterpart": "I Find Your Lack Of Faith Disturbing (V) - Defensive Shield",
+      "counterpart": "I Find Your Lack Of Faith Disturbing (V)",
       "front": {
         "destiny": "5",
         "gametext": "Plays on table. Bad Feeling Have I is canceled. Unless Inner Strength on table, opponent may use only one combat card per turn. Let Them Make The First Move may target only Undercover spies and R2-D2.",
@@ -1698,7 +1699,7 @@
           "Premium",
           "Set P"
         ],
-        "imageUrl": "https://res.starwarsccg.org/cards/DemoDeck-Light/large/ahsokatanowithlightsabers.gif",
+        "imageUrl": "https://res.starwarsccg.org/cards/VirtualPremium-Light/large/ahsokatanowithlightsabers.gif",
         "lore": "Female Togruta Padawan.",
         "power": "4",
         "subType": "Republic",
@@ -9234,7 +9235,7 @@
           "Cloud City",
           "Set P"
         ],
-        "imageUrl": "https://res.starwarsccg.org/cards/DemoDeck-Light/large/youtrulybelongherewithus.gif",
+        "imageUrl": "https://res.starwarsccg.org/cards/VirtualPremium-Light/large/youtrulybelongherewithus.gif",
         "title": "City In The Clouds / You Truly Belong Here With Us",
         "type": "Objective"
       },
@@ -9248,7 +9249,7 @@
           "Cloud City",
           "Set P"
         ],
-        "imageUrl": "https://res.starwarsccg.org/cards/DemoDeck-Light/large/cityintheclouds.gif",
+        "imageUrl": "https://res.starwarsccg.org/cards/VirtualPremium-Light/large/cityintheclouds.gif",
         "title": "City In The Clouds / You Truly Belong Here With Us",
         "type": "Objective"
       },
@@ -10094,7 +10095,6 @@
       "front": {
         "darkSideIcons": 2,
         "destiny": "0",
-        "errataSymbol": "E1",
         "gametext": "Light:  Your characters with lightsabers are each power +2 here.  Dark:  -",
         "icons": [
           "Interior",
@@ -11328,7 +11328,7 @@
           "Coruscant"
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/Coruscant-Light/large/control.gif",
-        "lore": "Qui-Gon's sense of control assisted him in his final confrontation with Darth Maul. The ability to heal oneself in battle, mentally and physically, can be a huge advantage.",
+        "lore": "Qui-Gon's sense of control assisted him in his final confrontation with Darth Maul. The ability to heal one's self in battle, mentally and physically, can be a huge advantage.",
         "subType": "Lost",
         "title": "Control",
         "type": "Interrupt"
@@ -12723,8 +12723,8 @@
       ],
       "rarity": "C",
       "rulings": [
-        "If a player loses Force from hand to stack here, it is first revealed to both players.",
-        "If a player loses Force from Life Force to stack here, it is not revealed.",
+        "If a player loses Force from hand to stack here, it is first revealed to both players, then stacked face down.",
+        "If a player loses Force from Life Force to stack here, it is not revealed to anyone. Stack it face down, unseen.",
         "Text referring to cards stacked 'on'/'under'/'beneath' this Effect all means the same thing.",
         "Neither player may view Dark's cards after they are stacked face down here."
       ],
@@ -13598,7 +13598,7 @@
           "Reflections 2"
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/ReflectionsII-Light/large/dashrendar.gif",
-        "lore": "Emperor banished Rendar family from Coruscant. Became gambler and smuggler. Brought down AT-AT at the Battle of Hoth. Works for Rebel Alliance from time to time. Corellian.",
+        "lore": "Emperor banished Rendar family from Coruscant. Became gambler and smuggler. Brought down AT-AT at the Battle of Hoth. Works for Rebel Alliance from time to time.",
         "power": "3",
         "subType": "Alien",
         "title": "•Dash Rendar",
@@ -13627,6 +13627,11 @@
     {
       "front": {
         "ability": "3",
+        "characteristics": [
+          "gambler",
+          "smuggler",
+          "Corellian"
+        ],
         "deploy": "3",
         "destiny": "3",
         "extraText": [
@@ -13640,7 +13645,7 @@
           "Set 10"
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual10-Light/large/dashrendar.gif",
-        "lore": "Emperor banished Rendar family from Coruscant. Became gambler and smuggler. Brought down AT-AT at the Battle of Hoth. Works for Rebel Alliance from time to time. Corellian.",
+        "lore": "Emperor banished Rendar family from Coruscant. Became gambler and smuggler. Brought down AT-AT at the Battle of Hoth. Works for Rebel Alliance from time to time.",
         "power": "3",
         "subType": "Alien",
         "title": "•Dash Rendar (V)",
@@ -13895,6 +13900,7 @@
       "front": {
         "darkSideIcons": 1,
         "destiny": "0",
+        "errataSymbol": "D-E1",
         "gametext": "Light:  If you control, Force Drain +1 here and all imprisoned characters on Death Star are released.  Dark:  -",
         "icons": [
           "Interior",
@@ -13999,6 +14005,7 @@
       "front": {
         "darkSideIcons": 1,
         "destiny": "0",
+        "errataSymbol": "D-E1",
         "gametext": "Light:  If you control, Luke and Obi-Wan are power +2 on Death Star.  Dark:  If you control, opponent needs 2 ability to control each Death Star site.",
         "icons": [
           "Interior",
@@ -14930,6 +14937,7 @@
       ],
       "front": {
         "destiny": "4",
+        "errataSymbol": "D-E1",
         "gametext": "Deploy on table. Sense and Alter are now Lost Interrupts. Also, when and player makes a destiny draw for Sense or Alter, and that destiny draw is successful, that player loses 2 Force. (Immune to Alter.)",
         "icons": [
           "Dagobah"
@@ -15149,6 +15157,9 @@
       "side": "Light"
     },
     {
+      "abbr": [
+        "DDTA"
+      ],
       "counterpart": "Fanfare - Defensive Shield",
       "front": {
         "destiny": "0",
@@ -15192,10 +15203,16 @@
         "What're You Tryin' To Push On Us?"
       ],
       "rarity": "PM",
+      "rulings": [
+        "This will suspend the entire You Cannot Hide Forever & Mobilization Points combo card."
+      ],
       "set": "13",
       "side": "Light"
     },
     {
+      "abbr": [
+        "DDTA"
+      ],
       "front": {
         "destiny": "4",
         "gametext": "Deploy on table. Once per game may take any Immediate Effect into hand from Reserve Deck; reshuffle. While opponent occupies no battleground systems, Mobilization Points is suspended. (Immune to Alter.)",
@@ -15241,12 +15258,18 @@
         "What're You Tryin' To Push On Us?"
       ],
       "rarity": "C",
+      "rulings": [
+        "This will suspend the entire You Cannot Hide Forever & Mobilization Points combo card."
+      ],
       "set": "11",
       "side": "Light"
     },
     {
+      "abbr": [
+        "DDTA"
+      ],
       "front": {
-        "destiny": "4",
+        "destiny": "0",
         "gametext": "Plays on table. Always Thinking With Your Stomach, Ice Storm, and Sandwhirl are canceled. Once per game, may take an Immediate Effect into hand from Reserve Deck; reshuffle. Unless opponent occupies a battleground system, Mobilization Points is suspended.",
         "icons": [
           "Defensive Shield",
@@ -15271,11 +15294,17 @@
         }
       ],
       "rarity": "PM",
+      "rulings": [
+        "This will suspend the entire You Cannot Hide Forever & Mobilization Points combo card."
+      ],
       "set": "200d",
       "side": "Light",
       "sourceType": "effect"
     },
     {
+      "abbr": [
+        "DDTA"
+      ],
       "counterpart": "Fanfare (V) - Defensive Shield",
       "front": {
         "destiny": "0",
@@ -15323,6 +15352,9 @@
         "What're You Tryin' To Push On Us?"
       ],
       "rarity": "PM",
+      "rulings": [
+        "This will suspend the entire You Cannot Hide Forever & Mobilization Points combo card."
+      ],
       "set": "200d",
       "side": "Light",
       "sourceType": "defensive shield"
@@ -16604,6 +16636,11 @@
       "conceptBy": "(Original concept by Brian Fred)",
       "front": {
         "ability": "2",
+        "characteristics": [
+          "Duros",
+          "scout",
+          "smuggler"
+        ],
         "deploy": "3",
         "destiny": "3",
         "forfeit": "4",
@@ -17616,7 +17653,7 @@
       "front": {
         "destiny": "5",
         "errataSymbol": "E1",
-        "gametext": "Use 1 Force to take a dejarik into hand from Reserve Deck; reshuffle. OR For remainder of turn, you lose no Force to Cloud City Occupation, Rebel Base Occupation, Tatooine Occupation, That Thing's Operational, You May Start Your Landing, or You'll Be Dead!.",
+        "gametext": "Use 1 Force to take a dejarik into hand from Reserve Deck; reshuffle. OR For remainder of turn, you lose no Force to Cloud City Occupation, Rebel Base Occupation, Tatooine Occupation, That Thing's Operational, You May Start Your Landing, or You'll Be Dead!",
         "icons": [
           "Set 4"
         ],
@@ -20508,6 +20545,7 @@
     {
       "front": {
         "characteristics": [
+          "freighter",
           "Rebel (starship)"
         ],
         "deploy": "3",
@@ -20524,7 +20562,7 @@
         "lore": "Phoenix Squadron",
         "maneuver": "4",
         "power": "4",
-        "subType": "Starfighter: Modified VCX Feighter",
+        "subType": "Starfighter: Modified VCX Freighter",
         "title": "•Ghost",
         "type": "Starship",
         "uniqueness": "*"
@@ -21017,6 +21055,9 @@
       "side": "Light"
     },
     {
+      "abbr": [
+        "GLiG1v"
+      ],
       "cancels": [
         "A 'react' at same system"
       ],
@@ -21312,8 +21353,8 @@
       "counterpart": "Tentacle",
       "front": {
         "destiny": "5",
-        "errataSymbol": "E1",
-        "gametext": "If opponent just played an Interrupt, use 1 Force to deploy on table. That Interrupt is played out but is then 'grappled' (placed here but is out of play). Any new Interrupts of the same name are now unique (•). (Immune to Control.)",
+        "errataSymbol": "D-E2",
+        "gametext": "If opponent just played an Interrupt, use 1 Force to deploy on table and stack that Interrupt here. All Interrupts of that title are unique (•). (Immune to Control.)",
         "icons": [
           "A New Hope",
           "Grabber"
@@ -24701,8 +24742,8 @@
       ],
       "rarity": "U",
       "rulings": [
-        "If a player loses Force from hand to stack here, it is first revealed to both players.",
-        "If a player loses Force from Life Force to stack here, it is not revealed.",
+        "If a player loses Force from hand to stack here, it is first revealed to both players, then stacked face down.",
+        "If a player loses Force from Life Force to stack here, it is not revealed to anyone. Stack it face down, unseen.",
         "Text referring to cards stacked 'on'/'under'/'beneath' this Effect all means the same thing.",
         "Neither player may view Dark's cards after they are stacked face down here."
       ],
@@ -26578,7 +26619,7 @@
           "Carbon-Frozen"
         ],
         "forfeit": "0",
-        "gametext": "The Mythrol’s game text may not be canceled. If about to leave table, place out of play. Plays only during start of game by revealing from outside your deck to replace a just-deployed Jabba's Prize imprisoned in Security Tower. If not revealed, place this card under your Starting Effect. [Set 1] Despair targets The Mythrol instead of Jabba's Prize. Cancels Stunning Leader here. If just released, either flip this card or place it out of play.",
+        "gametext": "The Mythrol's game text may not be canceled. If about to leave table, place out of play. Plays only during start of game by revealing from outside your deck to replace a just-deployed Jabba's Prize imprisoned in Security Tower. If not revealed, place this card under your Starting Effect. [Set 1] Despair targets The Mythrol instead of Jabba's Prize. Cancels Stunning Leader here. If just released, either flip this card or place it out of play.",
         "icons": [
           "Set 0"
         ],
@@ -30345,7 +30386,6 @@
         "A Force drain at a related site (twice per game)"
       ],
       "combo": [
-        "Leia, Rebel Princess+",
         "Leia, Rebel Princess + Jerus Jannick",
         "Leia, Rebel Princess + Warrior's Courage Add two battle destinies if Leia is defending a battle alone at a site."
       ],
@@ -30396,7 +30436,9 @@
       "rarity": "PM",
       "rulings": [
         "Mara Jade, The Emperor's Hand is an alien (not a non-alien).",
-        "If a non-alien is excluded and this causes Leia's text to make Light control the site, the excluded character is still active for the purposes of Objective flip conditions (e.g. Imperial Entanglements) and for the purposes of preventing cards like Search And Destroy from leaving table."
+        "If a non-alien is <u>excluded from battle</u> and this causes Leia's text to make Light control the site <u>during that battle</u>, the excluded character is still active for the purposes of Objective flip conditions (e.g. Imperial Entanglements) and for the purposes of preventing cards like Search And Destroy from leaving table.",
+        "First sentence - Leia at a system or cloud sector may cancel a force drain at a related site.",
+        "Second sentence - Due to her errata, opponent only needs a non-alien at the location (not necessarily present at the location) to avoid having total ability = 0."
       ],
       "set": "13",
       "side": "Light"
@@ -36247,6 +36289,9 @@
       "side": "Light"
     },
     {
+      "abbr": [
+        "BNC"
+      ],
       "front": {
         "darkSideIcons": 0,
         "destiny": "0",
@@ -37054,7 +37099,8 @@
     },
     {
       "abbr": [
-        "NTMTO"
+        "NTMTO",
+        "Numbers"
       ],
       "canceledBy": [
         "Torture",
@@ -43324,6 +43370,7 @@
       ],
       "rarity": "C",
       "rulings": [
+        "Only deploys on a pilot with a Rebel icon or a Resistance icon.  An alien (e.g. Harc Seff) piloting a Rebel starship (e.g. Red 2) is not a 'Rebel pilot'.",
         "Only check if the currently played Interrupt function is immune to Sense. If not, it may be canceled."
       ],
       "set": "205",
@@ -45395,8 +45442,8 @@
         "When Light Force drains, Dark gets first optional response, and may cancel the drain (e.g. with Control), preventing Light from responding with a destiny draw attempt to liberate the system.",
         "When Light liberates a system, the Force drain +1 bonus is immediately applied to the very same Force drain that triggered the liberation.",
         "When Dark Force drains, placing the stacked card in owner's Used Pile is an automatic response, occurring before optional responses such as Light using Control or Blue Squadron 1 to cancel the drain.",
-        "If a player loses Force from hand to stack under a system, it is first revealed to both players.",
-        "If a player loses Force from Life Force to stack under a system, it is not revealed.",
+        "If a player loses Force from hand to stack under a system, it is first revealed to both players, then stacked face down.",
+        "If a player loses Force from Life Force to stack under a system, it is not revealed to anyone. Stack it face down, unseen.",
         "Only Dark may view Dark's cards after they are stacked face down under a system."
       ],
       "set": "208",
@@ -53742,7 +53789,7 @@
     {
       "front": {
         "destiny": "5",
-        "gametext": "If Luke and an Imperial with ability > 2 are involved in the same battle, you may add one battle destiny (add 2 if Imperial is Vader).",
+        "gametext": "If Luke and an Imperial with ability > 2 are involved in the same battle, you may add one battle destiny (add two destiny if Imperial is Vader).",
         "imageUrl": "https://res.starwarsccg.org/cards/Premiere-Light/large/theforceisstrongwiththisone.gif",
         "lore": "Luke's piloting skills and Force abilities made his X-wing a difficult target for Darth Vader as they raced down the Death Star trench.",
         "subType": "Lost",
@@ -54324,7 +54371,7 @@
           "Set D"
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual9-Light/large/thereisanother.gif",
-        "lore": "Princess Leia Organa. Alderaanian senator. Targeted by Vader for capture and interrogation. The Datk Lord of the Sith wanted her alive.",
+        "lore": "Princess Leia Organa. Alderaanian senator. Targeted by Vader for capture and interrogation. The Dark Lord of the Sith wanted her alive.",
         "title": "•There Is Another",
         "type": "Defensive Shield",
         "uniqueness": "*"
@@ -60584,7 +60631,7 @@
     },
     {
       "front": {
-        "destiny": "5",
+        "destiny": "0",
         "gametext": "Plays on table. Scanning Crew is canceled. If an 'insert' card was just inserted or revealed, it is canceled. You lose no Force to Boonta Eve Podrace. While you occupy three battlegrounds, Watto's Box is suspended.",
         "icons": [
           "Death Star II",
@@ -61435,7 +61482,7 @@
           "Set 13"
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual13-Light/large/quigonjinnserenejedi.gif",
-        "lore": "Qui-Gon's sense of control assisted him in his final confrontation with Darth Maul. The ability to heal oneself in battle, mentally and physically, can be a huge advantage.",
+        "lore": "Qui-Gon's sense of control assisted him in his final confrontation with Darth Maul. The ability to heal one's self in battle, mentally and physically, can be a huge advantage.",
         "power": "6",
         "subType": "Jedi Master",
         "title": "•Qui-Gon Jinn, Serene Jedi",
@@ -61578,8 +61625,9 @@
       ],
       "rarity": "PM",
       "rulings": [
+        "'Two Jedi' counts himself.",
+        "'Two Jedi' does not count inactive Jedi such as a missing Jedi, a captive Jedi, or a Jedi who is excluded from the battle.",
         "Yoda's relocation is free.",
-        "'Two jedi' counts himself.",
         "Relocating does not allow Yoda to embark or disembark."
       ],
       "set": "213",
@@ -63766,8 +63814,8 @@
       ],
       "rarity": "C",
       "rulings": [
-        "If a player loses Force from hand to stack here, it is first revealed to both players.",
-        "If a player loses Force from Life Force to stack here, it is not revealed.",
+        "If a player loses Force from hand to stack here, it is first revealed to both players, then stacked face down.",
+        "If a player loses Force from Life Force to stack here, it is not revealed to anyone. Stack it face down, unseen.",
         "Increases the typical '4 ability' requirement for drawing battle destiny.",
         "Also increases any special requirements such as on A Jedi's Strength.",
         "A training destiny draw is 'at' the location of the apprentice."
@@ -65088,6 +65136,10 @@
       ],
       "front": {
         "ability": "5",
+        "characteristics": [
+          "female",
+          "smuggler"
+        ],
         "deploy": "5",
         "destiny": "1",
         "extraText": [
@@ -67583,7 +67635,7 @@
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual20-Light/large/nabootheedpalacegenerator.gif",
         "lightSideIcons": 2,
         "subType": "Site",
-        "title": "•Naboo: Theed Palace Generator",
+        "title": "•Naboo: Theed Palace Generator (V)",
         "type": "Location",
         "uniqueness": "*"
       },
