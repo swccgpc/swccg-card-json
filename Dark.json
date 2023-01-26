@@ -352,7 +352,8 @@
         "subType": "Droid",
         "title": "•4-LOM With Concussion Rifle",
         "type": "Character",
-        "uniqueness": "*"
+        "uniqueness": "*",
+	"underlyingCard": true
       },
       "gempId": "109_6",
       "id": 10,
@@ -371,7 +372,11 @@
         "This weapon is not a blaster."
       ],
       "set": "109",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"4-LOM With Concussion Rifle (V)",
+	"4-LOM With Concussion Rifle (V) (AI)"
+      ]
     },
     {
       "combo": [
@@ -488,7 +493,8 @@
         "subType": "Droid",
         "title": "•5D6-RA-7 (Fivedesix)",
         "type": "Character",
-        "uniqueness": "*"
+        "uniqueness": "*",
+	"underlyingCard": true
       },
       "gempId": "1_163",
       "id": 12,
@@ -500,7 +506,10 @@
       ],
       "rarity": "R1",
       "set": "1",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"5D6-RA-7 (Fivedesix) (V)"
+      ]
     },
     {
       "front": {
@@ -681,7 +690,8 @@
         "lore": "'It has seen the end of Kenobi and will soon see the end of the Rebellion.'",
         "title": "•A Day Long Remembered",
         "type": "Effect",
-        "uniqueness": "*"
+        "uniqueness": "*",
+	"underlyingCard": true
       },
       "gempId": "7_219",
       "id": 20,
@@ -697,7 +707,10 @@
       ],
       "rarity": "U",
       "set": "7",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"A Day Long Remembered (V)"
+      ]
     },
     {
       "abbr": [
@@ -924,7 +937,8 @@
         "lore": "Imperial officers aboard the Death Star considered the Rebellion a minor threat.",
         "title": "•A Useless Gesture",
         "type": "Defensive Shield",
-        "uniqueness": "*"
+        "uniqueness": "*",
+	"underlyingCard": true
       },
       "gempId": "13_51",
       "id": 40,
@@ -939,7 +953,10 @@
         "After this is played, Ketwol may perform one more exchange, even if Ketwol had performed exchanges previously."
       ],
       "set": "13",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"A Useless Gesture (V)"
+      ]
     },
     {
       "front": {
@@ -1455,7 +1472,8 @@
         "subType": "Imperial",
         "title": "•Admiral Motti",
         "type": "Character",
-        "uniqueness": "*"
+        "uniqueness": "*",
+	"underlyingCard": true
       },
       "gempId": "1_164",
       "id": 60,
@@ -1474,7 +1492,10 @@
       ],
       "rarity": "R2",
       "set": "1",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Admiral Motti (V)"
+      ]
     },
     {
       "combo": [
@@ -2090,7 +2111,8 @@
         "lore": "The TIE fighter's energy management system allows its pilot to transfer all power from engines to weapons at a moment's notice.",
         "subType": "Used Or Lost",
         "title": "All Power To Weapons",
-        "type": "Interrupt"
+        "type": "Interrupt",
+	"underlyingCard": true
       },
       "gempId": "7_246",
       "id": 86,
@@ -2116,7 +2138,10 @@
       ],
       "rarity": "C",
       "set": "7",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Black 5"
+      ]
     },
     {
       "canceledBy": [
@@ -2291,7 +2316,8 @@
         "lore": "Those who can use the Force are able to manipulate the objects around them to their advantage.",
         "subType": "Lost",
         "title": "Alter",
-        "type": "Interrupt"
+        "type": "Interrupt",
+	"underlyingCard": true
       },
       "gempId": "12_145",
       "id": 98,
@@ -2308,7 +2334,10 @@
         "Can be played as a response to the attempted deployment of an Effect or Utinni Effect. If successful, the target has no result."
       ],
       "set": "12",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Alter (Premiere)"
+      ]
     },
     {
       "canceledBy": [
@@ -2953,7 +2982,8 @@
         "lore": "Aratech Corporation sent support staff to various Imperial outposts and garrisons. Gave advanced briefings and training to biker scout personnel.",
         "title": "•Aratech Corporation",
         "type": "Effect",
-        "uniqueness": "*"
+        "uniqueness": "*",
+	"underlyingCard": true
       },
       "gempId": "8_117",
       "id": 124,
@@ -2971,7 +3001,10 @@
       ],
       "rarity": "R",
       "set": "8",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Aratech Corporation (V)"
+      ]
     },
     {
       "front": {
@@ -3039,7 +3072,8 @@
         "subType": "Alien/Imperial",
         "title": "•Arica",
         "type": "Character",
-        "uniqueness": "*"
+        "uniqueness": "*",
+	"underlyingCard": true
       },
       "gempId": "10_31",
       "id": 130,
@@ -3064,7 +3098,10 @@
         "If breaking cover to fire a repeating weapon (e.g. Light Repeating Blaster Rifle), it may fire repeatedly but only the first shot is free."
       ],
       "set": "10",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Arica (V)"
+      ]
     },
     {
       "abbr": [
@@ -5143,7 +5180,8 @@
         "subType": "Starfighter: TIE/LN",
         "title": "•Black 2",
         "type": "Starship",
-        "uniqueness": "*"
+        "uniqueness": "*",
+	"underlyingCard": true
       },
       "gempId": "1_299",
       "id": 247,
@@ -5163,7 +5201,10 @@
       ],
       "rarity": "R1",
       "set": "1",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Black 2 (V)"
+      ]
     },
     {
       "cancels": [
@@ -5602,7 +5643,8 @@
         "imageUrl": "https://res.starwarsccg.org/cards/Premiere-Dark/large/blasterrack.gif",
         "lore": "Imperial facilities like the Death Star and garrison bases have blaster racks at key locations to equip soldiers with weapons like blaster rifles and thermal detonators.",
         "title": "Blaster Rack",
-        "type": "Effect"
+        "type": "Effect",
+	"underlyingCard": true
       },
       "gempId": "1_211",
       "id": 262,
@@ -5622,7 +5664,10 @@
         "Placing a weapon on Blaster Rack is a top-level action."
       ],
       "set": "1",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Blaster Rack (V)"
+      ]
     },
     {
       "counterpart": "Sai'torr Kal Fas (V)",
@@ -5675,7 +5720,8 @@
         "lore": "Stormtrooper BlasTech E-11 blaster rifle. Can convert from a pistol to a rifle configuration by using extendable stock. Carries 100 shots. Military issue only.",
         "subType": "Character",
         "title": "Blaster Rifle",
-        "type": "Weapon"
+        "type": "Weapon",
+	"underlyingCard": true
       },
       "gempId": "1_312",
       "id": 264,
@@ -5695,7 +5741,10 @@
       ],
       "rarity": "C2",
       "set": "1",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Blaster Rifle (V)"
+      ]
     },
     {
       "combo": [
@@ -5835,7 +5884,8 @@
         "subType": "Combat: AT-AT",
         "title": "•Blizzard 2",
         "type": "Vehicle",
-        "uniqueness": "*"
+        "uniqueness": "*",
+	"underlyingCard": true
       },
       "gempId": "3_155",
       "id": 269,
@@ -5852,7 +5902,10 @@
       ],
       "rarity": "R2",
       "set": "3",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Blizzard 2 (V)"
+      ]
     },
     {
       "combo": [
@@ -6083,7 +6136,8 @@
         "subType": "Combat: AT-ST",
         "title": "•Blizzard Scout 1",
         "type": "Vehicle",
-        "uniqueness": "*"
+        "uniqueness": "*",
+	"underlyingCard": true
       },
       "gempId": "3_156",
       "id": 272,
@@ -6100,7 +6154,10 @@
       ],
       "rarity": "R1",
       "set": "3",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Blizzard Scount 1 (V)"
+      ]
     },
     {
       "abbr": [
@@ -6664,7 +6721,8 @@
         "subType": "Starfighter: Firespray-Class Attack Ship",
         "title": "•Boba Fett In Slave I",
         "type": "Starship",
-        "uniqueness": "*"
+        "uniqueness": "*",
+	"underlyingCard": true
       },
       "gempId": "109_8",
       "id": 290,
@@ -6680,7 +6738,10 @@
       ],
       "rarity": "PM",
       "set": "109",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Boba Fett In Slave I (V)"
+      ]
     },
     {
       "combo": [
@@ -7199,7 +7260,8 @@
         "subType": "Alien",
         "title": "•Bossk",
         "type": "Character",
-        "uniqueness": "*"
+        "uniqueness": "*",
+	"underlyingCard": true
       },
       "gempId": "4_92",
       "id": 308,
@@ -7220,7 +7282,10 @@
       ],
       "rarity": "R",
       "set": "4",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Bossk (V)"
+      ]
     },
     {
       "front": {
@@ -7297,7 +7362,8 @@
         "subType": "Capital: Modified Corellian Freighter",
         "title": "•Bossk In Hound's Tooth",
         "type": "Starship",
-        "uniqueness": "*"
+        "uniqueness": "*",
+	"underlyingCard": true
       },
       "gempId": "7_301",
       "id": 310,
@@ -7309,7 +7375,10 @@
       ],
       "rarity": "R",
       "set": "7",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Bossk In Hound's Tooth (V)"
+      ]
     },
     {
       "abbr": [
@@ -9106,7 +9175,8 @@
         "subType": "Used Or Lost",
         "title": "•Close Call",
         "type": "Interrupt",
-        "uniqueness": "*"
+        "uniqueness": "*",
+	"underlyingCard": true
       },
       "gempId": "4_138",
       "id": 421,
@@ -9118,7 +9188,10 @@
       ],
       "rarity": "C",
       "set": "4",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Close Call (V)"
+      ]
     },
     {
       "canceledBy": [
@@ -9754,7 +9827,8 @@
         "subType": "Site",
         "title": "•Cloud City: Security Tower",
         "type": "Location",
-        "uniqueness": "*"
+        "uniqueness": "*",
+	"underlyingCard": true
       },
       "gempId": "5_172",
       "id": 457,
@@ -9773,7 +9847,10 @@
       ],
       "rarity": "C",
       "set": "5",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Close Call (V)"
+      ]
     },
     {
       "front": {
@@ -10397,7 +10474,8 @@
         "subType": "Used Or Starting",
         "title": "•Combat Readiness",
         "type": "Interrupt",
-        "uniqueness": "*"
+        "uniqueness": "*",
+	"underlyingCard": true
       },
       "gempId": "8_136",
       "id": 480,
@@ -10414,7 +10492,10 @@
         "The site(s) may be deployed even if the starting location was converted, or failed to convert an opponent's starting location."
       ],
       "set": "8",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Combat Readiness (V)"
+      ]
     },
     {
       "abbr": [
@@ -10464,7 +10545,8 @@
         "lore": "Being stationed at Endor during the construction of the second Dearth Star allows Imperial pilots time to train in the latest starfighter combat techniques.",
         "title": "•Combat Response",
         "type": "Effect",
-        "uniqueness": "*"
+        "uniqueness": "*",
+	"underlyingCard": true
       },
       "gempId": "9_121",
       "id": 482,
@@ -10483,7 +10565,10 @@
       ],
       "rarity": "C",
       "set": "9",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Combat Response (V)"
+      ]
     },
     {
       "cancels": [
@@ -11364,7 +11449,8 @@
         "subType": "Capital: Imperial-Class Star Destroyer",
         "title": "•Conquest",
         "type": "Starship",
-        "uniqueness": "*"
+        "uniqueness": "*",
+	"underlyingCard": true
       },
       "gempId": "2_152",
       "id": 519,
@@ -11380,7 +11466,10 @@
       ],
       "rarity": "R1",
       "set": "2",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Conquest (V)"
+      ]
     },
     {
       "cancels": [
@@ -13375,7 +13464,8 @@
         "lore": "Imperial TIE fighters, while easily damaged, are very fast and agile. Sophisticated tactics are executed to take advantage of Rebel X-wing and Y-wing weaknesses.",
         "subType": "Used",
         "title": "Dark Maneuvers",
-        "type": "Interrupt"
+        "type": "Interrupt",
+	"underlyingCard": true
       },
       "gempId": "1_241",
       "id": 622,
@@ -13387,7 +13477,11 @@
       ],
       "rarity": "C2",
       "set": "1",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Count Dooku",
+	"Count Dooku (AI)"
+      ]
     },
     {
       "canceledBy": [
@@ -13540,7 +13634,8 @@
         "subType": "Alien",
         "title": "•Daroe",
         "type": "Character",
-        "uniqueness": "*"
+        "uniqueness": "*",
+	"underlyingCard": true
       },
       "gempId": "11_53",
       "id": 628,
@@ -13555,7 +13650,10 @@
       ],
       "rarity": "R",
       "set": "11",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"R'tic H'weei"
+      ]
     },
     {
       "conceptBy": "(Original concept by Ryan Jellison and Tom Marlin)",
@@ -14009,7 +14107,8 @@
         "subType": "Imperial",
         "title": "•Darth Vader",
         "type": "Character",
-        "uniqueness": "*"
+        "uniqueness": "*",
+	"underlyingCard": true
       },
       "gempId": "1_168",
       "id": 634,
@@ -14039,7 +14138,10 @@
         "This card is a Black Squadron pilot."
       ],
       "set": "1",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Darth Vader (V)"
+      ]
     },
     {
       "abbr": [
@@ -15053,7 +15155,8 @@
         "lore": "Death Star troopers on sentry duty observe and direct incoming starships and monitor other critical sites. They perform sensor scans for life forms and weapons.",
         "title": "•Death Star Sentry",
         "type": "Effect",
-        "uniqueness": "*"
+        "uniqueness": "*",
+	"underlyingCard": true
       },
       "gempId": "1_213",
       "id": 665,
@@ -15074,7 +15177,10 @@
         "Also increases any special requirements such as on Prince Xizor."
       ],
       "set": "1",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Death Star Sentry (V)"
+      ]
     },
     {
       "cancels": [
@@ -15668,7 +15774,8 @@
         "subType": "Used",
         "title": "•Defensive Fire",
         "type": "Interrupt",
-        "uniqueness": "*"
+        "uniqueness": "*",
+	"underlyingCard": true
       },
       "gempId": "4_140",
       "id": 688,
@@ -15680,7 +15787,10 @@
       ],
       "rarity": "C",
       "set": "4",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Defensive Fire (V)"
+      ]
     },
     {
       "canceledBy": [
@@ -16008,7 +16118,8 @@
         "subType": "Alien",
         "title": "•Dengar With Blaster Carbine",
         "type": "Character",
-        "uniqueness": "*"
+        "uniqueness": "*",
+	"underlyingCard": true
       },
       "gempId": "110_7",
       "id": 703,
@@ -16028,7 +16139,10 @@
       ],
       "rarity": "PM",
       "set": "110",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Dengar With Blaster Carbine (V)"
+      ]
     },
     {
       "abbr": [
@@ -17463,7 +17577,8 @@
         "subType": "Alien",
         "title": "•Dr. Evazan",
         "type": "Character",
-        "uniqueness": "*"
+        "uniqueness": "*",
+	"underlyingCard": true
       },
       "gempId": "1_172",
       "id": 768,
@@ -17479,7 +17594,10 @@
       ],
       "rarity": "R2",
       "set": "1",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"You'll Be Dead!"
+      ]
     },
     {
       "abbr": [
@@ -19864,7 +19982,8 @@
         "imageUrl": "https://res.starwarsccg.org/cards/Coruscant-Dark/large/establishcontrol.gif",
         "lore": "Keeping supply routes clear allows rapid distribution of resources to where they are most required.",
         "title": "Establish Control",
-        "type": "Effect"
+        "type": "Effect",
+	"underlyingCard": true
       },
       "gempId": "12_134",
       "id": 884,
@@ -19880,7 +19999,10 @@
       ],
       "rarity": "U",
       "set": "12",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Establish Control (V)"
+      ]
     },
     {
       "canceledBy": [
@@ -20609,7 +20731,8 @@
         "lore": "The Boonta Eve crowds are always looking for new and exciting developments at every Podrace.",
         "title": "•Fanfare",
         "type": "Defensive Shield",
-        "uniqueness": "*"
+        "uniqueness": "*",
+	"underlyingCard": true
       },
       "gempId": "13_68",
       "id": 927,
@@ -20643,7 +20766,10 @@
       ],
       "rarity": "PM",
       "set": "13",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Fanfare (V)"
+      ]
     },
     {
       "cancels": [
@@ -20662,7 +20788,8 @@
         "lore": "The Boonta Eve crowds are always looking for new and exciting developments at every Podrace.",
         "title": "•Fanfare",
         "type": "Effect",
-        "uniqueness": "*"
+        "uniqueness": "*",
+	"underlyingCard": true
       },
       "gempId": "11_69",
       "id": 926,
@@ -20699,7 +20826,10 @@
       ],
       "rarity": "C",
       "set": "11",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Fanfare (Tatooine) (V)"
+      ]
     },
     {
       "front": {
@@ -20866,7 +20996,8 @@
         "imageUrl": "https://res.starwarsccg.org/cards/Premiere-Dark/large/fearwillkeeptheminline.gif",
         "lore": "'The regional governors now have direct control over their territories. Fear will keep the local systems in line. Fear of this battle station.'",
         "title": "Fear Will Keep Them In Line",
-        "type": "Effect"
+        "type": "Effect",
+	"underlyingCard": true
       },
       "gempId": "1_216",
       "id": 932,
@@ -20882,7 +21013,10 @@
       ],
       "rarity": "R2",
       "set": "1",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Tarkin Doctrine"
+      ]
     },
     {
       "canceledBy": [
@@ -21719,7 +21853,8 @@
         "subType": "Used Or Lost",
         "title": "•Force Field",
         "type": "Interrupt",
-        "uniqueness": "*"
+        "uniqueness": "*",
+	"underlyingCard": true
       },
       "gempId": "5_142",
       "id": 968,
@@ -21731,7 +21866,10 @@
       ],
       "rarity": "R",
       "set": "5",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Force Field (V)"
+      ]
     },
     {
       "cancels": [
@@ -21865,7 +22003,8 @@
         "subType": "Used",
         "title": "•Force Push",
         "type": "Interrupt",
-        "uniqueness": "*"
+        "uniqueness": "*",
+	"underlyingCard": true
       },
       "gempId": "13_70",
       "id": 971,
@@ -21880,7 +22019,10 @@
         "If the revealed card is destiny 4 or less, it is un-revealed and placed back under the Jedi."
       ],
       "set": "13",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Force Push (V)"
+      ]
     },
     {
       "front": {
@@ -22911,7 +23053,8 @@
         "subType": "Imperial",
         "title": "•General Veers",
         "type": "Character",
-        "uniqueness": "*"
+        "uniqueness": "*",
+	"underlyingCard": true
       },
       "gempId": "3_87",
       "id": 1029,
@@ -22930,7 +23073,10 @@
       ],
       "rarity": "R1",
       "set": "3",
-      "side": "Dark"
+      "side": "Dark",
+      "undelyingCardFor": [
+	"General Veers (V)"
+      ]
     },
     {
       "combo": [
@@ -23331,7 +23477,8 @@
         "subType": "Imperial",
         "title": "•Grand Moff Tarkin",
         "type": "Character",
-        "uniqueness": "*"
+        "uniqueness": "*",
+	"underlyingCard": true
       },
       "gempId": "1_179",
       "id": 1061,
@@ -23352,7 +23499,10 @@
         "This card is not a commander ('commanded' doesn't count)."
       ],
       "set": "1",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Grand Moff Tarkin (V)"
+      ]
     },
     {
       "front": {
@@ -23410,7 +23560,8 @@
         "lore": "Tatooine's twin suns cause turbulent storms that strike with little or no warning. Strong winds whip rocks through the air with enormous force.",
         "subType": "Lost",
         "title": "Gravel Storm",
-        "type": "Interrupt"
+        "type": "Interrupt",
+	"underlyingCard": true
       },
       "gempId": "1_247",
       "id": 1064,
@@ -23422,7 +23573,10 @@
       ],
       "rarity": "U2",
       "set": "1",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Coarse And Rough And Irritating"
+      ]
     },
     {
       "front": {
@@ -24708,7 +24862,8 @@
         "subType": "Capital: Modified Corellian Freighter",
         "title": "•Hound's Tooth",
         "type": "Starship",
-        "uniqueness": "*"
+        "uniqueness": "*",
+	"underlyingCard": true
       },
       "gempId": "4_168",
       "id": 1185,
@@ -24725,7 +24880,10 @@
       ],
       "rarity": "R",
       "set": "4",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Hound's Tooth (V)"
+      ]
     },
     {
       "front": {
@@ -25176,7 +25334,8 @@
         "subType": "Used",
         "title": "•I Can't Shake Him!",
         "type": "Interrupt",
-        "uniqueness": "*"
+        "uniqueness": "*",
+	"underlyingCard": true
       },
       "gempId": "7_253",
       "id": 1204,
@@ -25207,7 +25366,10 @@
       ],
       "rarity": "C",
       "set": "7",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"I Can't Shake Him! (V)"
+      ]
     },
     {
       "counterpart": "Antilles Maneuver (V)",
@@ -25253,7 +25415,8 @@
         "imageUrl": "https://res.starwarsccg.org/cards/Premiere-Dark/large/ifindyourlackoffaithdisturbing.gif",
         "lore": "Darth Vader ruthlessly used the Force to strike down enemies and soldiers who displeased him. He could choke victims from afar without touching them.",
         "title": "I Find Your Lack Of Faith Disturbing",
-        "type": "Effect"
+        "type": "Effect",
+	"underlyingCard": true
       },
       "gempId": "1_217",
       "id": 1208,
@@ -25269,7 +25432,10 @@
       ],
       "rarity": "R1",
       "set": "1",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"I Find Your Lack Of Faith Disturbing (V)"
+      ]
     },
     {
       "cancels": [
@@ -25816,7 +25982,8 @@
         "subType": "Droid",
         "title": "•IG-88",
         "type": "Character",
-        "uniqueness": "*"
+        "uniqueness": "*",
+	"underlyingCard": true
       },
       "gempId": "4_101",
       "id": 1245,
@@ -25842,7 +26009,10 @@
         "Canceling IG-88's game text or excluding him from battle could result in a battle ending immediately (in cases where his game text is required for the battle to occur)."
       ],
       "set": "4",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"IG-88 (V)"
+      ]
     },
     {
       "front": {
@@ -26187,7 +26357,8 @@
         "lore": "Vader's hologram exacts loyalty from his legions.",
         "title": "•Image Of The Dark Lord",
         "type": "Effect",
-        "uniqueness": "*"
+        "uniqueness": "*",
+	"underlyingCard": true
       },
       "gempId": "3_105",
       "id": 1253,
@@ -26205,7 +26376,10 @@
       ],
       "rarity": "R2",
       "set": "3",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Image Of The Dark Lord (V)"
+      ]
     },
     {
       "canceledBy": [
@@ -26259,7 +26433,8 @@
         "subType": "Used",
         "title": "•Imbalance",
         "type": "Interrupt",
-        "uniqueness": "*"
+        "uniqueness": "*",
+	"underlyingCard": true
       },
       "gempId": "4_144",
       "id": 1255,
@@ -26271,7 +26446,10 @@
       ],
       "rarity": "U",
       "set": "4",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Imbalance & Kintan Strider"
+      ]
     },
     {
       "cancels": [
@@ -26675,7 +26853,8 @@
         "imageUrl": "https://res.starwarsccg.org/cards/CloudCity-Dark/large/imperialdecree.gif",
         "lore": "To Imperial command personnel: The Rebellion must be crushed! Minor acts of sedition are to be ignored. The destruction of the Alliance is your primary goal.",
         "title": "Imperial Decree",
-        "type": "Effect"
+        "type": "Effect",
+	"underlyingCard": true
       },
       "gempId": "5_120",
       "id": 1268,
@@ -26696,7 +26875,10 @@
         "For example, if DS Force drains at the LS site Tatooine: Obi-Wan's Hut, the +1 bonus in the site's game text is not canceled because it is a DS Force drain."
       ],
       "set": "5",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Imperial Decree (V)"
+      ]
     },
     {
       "front": {
@@ -28390,7 +28572,8 @@
         "subType": "Alien",
         "title": "•Jabba The Hutt",
         "type": "Character",
-        "uniqueness": "*"
+        "uniqueness": "*",
+	"underlyingCard": true
       },
       "gempId": "6_109",
       "id": 1346,
@@ -28407,7 +28590,10 @@
         "Dark can even Force drain for 0 at a location with no Light icons, then receive the 'activate 1 Force' bonus as a result."
       ],
       "set": "6",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Jabba The Hutt (V)"
+      ]
     },
     {
       "abbr": [
@@ -30557,7 +30743,8 @@
         "lore": "'A Jedi uses the Force for knowledge and defense, never for attack.'",
         "title": "•Knowledge And Defense",
         "type": "Effect",
-        "uniqueness": "*"
+        "uniqueness": "*",
+	"underlyingCard": true
       },
       "gempId": "4_125",
       "id": 1450,
@@ -30573,7 +30760,10 @@
       ],
       "rarity": "C",
       "set": "4",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Knowledge And Defense (V)"
+      ]
     },
     {
       "counterpart": "Anger, Fear, Aggression (V)",
@@ -30755,7 +30945,8 @@
         "lore": "Company that produces current generation of Star Destroyers, as well as Nebulon-B Frigates. Ship yards are extremely well defended.",
         "title": "•Kuat Drive Yards",
         "type": "Effect",
-        "uniqueness": "*"
+        "uniqueness": "*",
+	"underlyingCard": true
       },
       "gempId": "7_232",
       "id": 1458,
@@ -30791,7 +30982,10 @@
       ],
       "rarity": "R",
       "set": "7",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Kuat Drive Yards (V)"
+      ]
     },
     {
       "abbr": [
@@ -31899,7 +32093,8 @@
         "subType": "Imperial",
         "title": "•Lieutenant Endicott",
         "type": "Character",
-        "uniqueness": "*"
+        "uniqueness": "*",
+	"underlyingCard": true
       },
       "gempId": "9_111",
       "id": 1525,
@@ -31914,7 +32109,10 @@
       ],
       "rarity": "U",
       "set": "9",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"DS-61-5"
+      ]
     },
     {
       "combo": [
@@ -32436,7 +32634,8 @@
         "power": "0",
         "subType": "Droid",
         "title": "LIN-V8M (Elleyein-Veeateemm)",
-        "type": "Character"
+        "type": "Character",
+	"underlyingCard": true
       },
       "gempId": "1_186",
       "id": 1557,
@@ -32451,7 +32650,10 @@
         "May defuse any number of mines per turn, whether 'laid' or 'buried.'"
       ],
       "set": "1",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Droideka"
+      ]
     },
     {
       "front": {
@@ -32507,7 +32709,8 @@
         "subType": "Lost",
         "title": "•Little Real Power",
         "type": "Interrupt",
-        "uniqueness": "*"
+        "uniqueness": "*",
+	"underlyingCard": true
       },
       "gempId": "12_151",
       "id": 1559,
@@ -32519,7 +32722,10 @@
       ],
       "rarity": "C",
       "set": "12",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Vote Of No Confidence"
+      ]
     },
     {
       "counterpart": "Sic-Six",
@@ -33638,7 +33844,8 @@
         "subType": "Imperial",
         "title": "•Major Turr Phennir",
         "type": "Character",
-        "uniqueness": "*"
+        "uniqueness": "*",
+	"underlyingCard": true
       },
       "gempId": "9_116",
       "id": 1631,
@@ -33657,7 +33864,10 @@
       ],
       "rarity": "U",
       "set": "9",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Maarek Stele, The Emperor's Reach"
+      ]
     },
     {
       "front": {
@@ -33945,7 +34155,8 @@
         "subType": "Alien/Imperial",
         "title": "•Mara Jade, The Emperor's Hand",
         "type": "Character",
-        "uniqueness": "*"
+        "uniqueness": "*",
+	"underlyingCard": true
       },
       "gempId": "110_10",
       "id": 1644,
@@ -33996,7 +34207,10 @@
         "May <u>not</u> use The Circle Is Now Complete in place of Vader, with or without Epic Duel."
       ],
       "set": "110",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Mara Jade With Lightsaber"
+      ]
     },
     {
       "front": {
@@ -37752,7 +37966,8 @@
         "subType": "Starfighter: TIE Defender",
         "title": "•Onyx 1",
         "type": "Starship",
-        "uniqueness": "*"
+        "uniqueness": "*",
+	"underlyingCard": true
       },
       "gempId": "9_160",
       "id": 1840,
@@ -37772,7 +37987,10 @@
       ],
       "rarity": "R",
       "set": "9",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Colonel Jendon in Onyx 1"
+      ]
     },
     {
       "front": {
@@ -37795,7 +38013,8 @@
         "subType": "Starfighter: TIE Defender",
         "title": "•Onyx 2",
         "type": "Starship",
-        "uniqueness": "*"
+        "uniqueness": "*",
+	"underlyingCard": true
       },
       "gempId": "9_161",
       "id": 1841,
@@ -37815,7 +38034,10 @@
       ],
       "rarity": "U",
       "set": "9",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Onyx 2 (V)"
+      ]
     },
     {
       "counterpart": "Red 8 (V)",
@@ -39319,7 +39541,8 @@
         "subType": "Alien",
         "title": "•Ponda Baba",
         "type": "Character",
-        "uniqueness": "*"
+        "uniqueness": "*",
+	"underlyingCard": true
       },
       "gempId": "1_190",
       "id": 1922,
@@ -39335,7 +39558,10 @@
       ],
       "rarity": "U1",
       "set": "1",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Ponda Baba (V)"
+      ]
     },
     {
       "conceptBy": "(Original concept by Mike Raveling - Minnesota States 2008)",
@@ -40001,7 +40227,8 @@
         "lore": "Probe droids use electromagnetic, seismic, acoustic, olfactory and optical sensors. They report their findings using an omnisignal unicode.",
         "subType": "Used",
         "title": "Probe Telemetry",
-        "type": "Interrupt"
+        "type": "Interrupt",
+	"underlyingCard": true
       },
       "gempId": "3_132",
       "id": 1953,
@@ -40013,7 +40240,10 @@
       ],
       "rarity": "C2",
       "set": "3",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Probot"
+      ]
     },
     {
       "front": {
@@ -41618,7 +41848,8 @@
         "imageUrl": "https://res.starwarsccg.org/cards/CloudCity-Dark/large/restrictedaccess.gif",
         "lore": "In an effort to direct Luke toward Vader, Captain Bewil used his control of hatchways and lift tubes to cut off Luke's support, limiting his options and resources.",
         "title": "Restricted Access",
-        "type": "Effect"
+        "type": "Effect",
+	"underlyingCard": true
       },
       "gempId": "5_122",
       "id": 2101,
@@ -41637,7 +41868,10 @@
         "If face up in Reserve Deck for any reason, it is active (not part of Life Force)."
       ],
       "set": "5",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Imperial Detention"
+      ]
     },
     {
       "canceledBy": [
@@ -45017,7 +45251,8 @@
         "subType": "Used Or Lost",
         "title": "•Sith Fury",
         "type": "Interrupt",
-        "uniqueness": "*"
+        "uniqueness": "*",
+	"underlyingCard": true
       },
       "gempId": "11_86",
       "id": 2270,
@@ -45033,7 +45268,10 @@
         "(Lost function) If Dark only has 1 card in Reserve Deck (or Light only has 2 cards in Reserve Deck), they still draw destiny and may still have the higher total. But if a player has 0 cards in Reserve Deck, they have no Sith Fury total and lose automatically (unless both players have 0 cards in Reserve Deck, in which case it is a tie and neither player will be at risk of losing 6 Force to Sith Fury)."
       ],
       "set": "11",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Sith Fury (V)"
+      ]
     },
     {
       "counterpart": "Jedi Levitation (V)",
@@ -45092,7 +45330,8 @@
         "power": "1",
         "subType": "Droid",
         "title": "Sith Probe Droid",
-        "type": "Character"
+        "type": "Character",
+	"underlyingCard": true
       },
       "gempId": "11_64",
       "id": 2271,
@@ -45111,7 +45350,10 @@
         "This card is a probe droid (e.g. for Captain Piett)."
       ],
       "set": "11",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Sith Probe Droid (V)"
+      ]
     },
     {
       "conceptBy": "(Original concept by Lee Clarke - ACT Championship 2005)",
@@ -45454,7 +45696,8 @@
         "subType": "Used Or Lost",
         "title": "•Sneak Attack",
         "type": "Interrupt",
-        "uniqueness": "*"
+        "uniqueness": "*",
+	"underlyingCard": true
       },
       "gempId": "8_153",
       "id": 2288,
@@ -45466,7 +45709,10 @@
       ],
       "rarity": "C",
       "set": "8",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Sneak Attack (V)"
+      ]
     },
     {
       "front": {
@@ -45724,7 +45970,8 @@
         "lore": "The high command of the Emperor's fleet is selected as much for loyalty and obedience as for martial skills. A wise admiral knows better than to question Palpatine.",
         "title": "•Something Special Planned For Them",
         "type": "Effect",
-        "uniqueness": "*"
+        "uniqueness": "*",
+	"underlyingCard": true
       },
       "gempId": "9_132",
       "id": 2303,
@@ -45742,7 +45989,10 @@
       ],
       "rarity": "C",
       "set": "9",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Something Special Planned For Them (V)"
+      ]
     },
     {
       "counterpart": "Strikeforce (V)",
@@ -46812,7 +47062,8 @@
         "subType": "Starfighter: Surronian Conqueror",
         "title": "•Stinger",
         "type": "Starship",
-        "uniqueness": "*"
+        "uniqueness": "*",
+	"underlyingCard": true
       },
       "gempId": "10_49",
       "id": 2351,
@@ -46827,7 +47078,10 @@
       ],
       "rarity": "PM",
       "set": "10",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Stinger (V)"
+      ]
     },
     {
       "conceptBy": "(Original concept by Michael Bahr - PC Volunteer Award 2006)",
@@ -47482,7 +47736,8 @@
         "lore": "'The battle station is heavily shielded and carries a firepower greater than half the starfleet.'",
         "subType": "Used Or Starting",
         "title": "Surface Defense",
-        "type": "Interrupt"
+        "type": "Interrupt",
+	"underlyingCard": true
       },
       "gempId": "7_263",
       "id": 2382,
@@ -47497,7 +47752,10 @@
         "May be played even if the battleground has been converted."
       ],
       "set": "7",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Surface Defense (V)"
+      ]
     },
     {
       "abbr": [
@@ -47700,7 +47958,8 @@
         "imageUrl": "https://res.starwarsccg.org/cards/ANewHope-Dark/large/swillacorey.gif",
         "lore": "Petty criminals throughout the galaxy often earn extra money by teaching their trade to initiates. Thievery has become more popular as the Empire tightens its grip.",
         "title": "Swilla Corey",
-        "type": "Effect"
+        "type": "Effect",
+	"underlyingCard": true
       },
       "gempId": "2_126",
       "id": 2392,
@@ -47716,7 +47975,10 @@
       ],
       "rarity": "C2",
       "set": "2",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Ysanne Isard"
+      ]
     },
     {
       "front": {
@@ -52057,7 +52319,8 @@
         "subType": "Capital: Trade Federation Battleship",
         "title": "<>Trade Federation Droid Control Ship",
         "type": "Starship",
-        "uniqueness": "<>"
+        "uniqueness": "<>",
+	"underlyingCard": true
       },
       "gempId": "12_185",
       "id": 2622,
@@ -52069,7 +52332,10 @@
       ],
       "rarity": "R",
       "set": "12",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Blockade Support Ship"
+      ]
     },
     {
       "front": {
@@ -53774,7 +54040,8 @@
         "subType": "Starfighter: Lambda-Class Shuttle",
         "title": "•Vader's Personal Shuttle",
         "type": "Starship",
-        "uniqueness": "*"
+        "uniqueness": "*",
+	"underlyingCard": true
       },
       "gempId": "7_309",
       "id": 2704,
@@ -53797,7 +54064,10 @@
       ],
       "rarity": "R",
       "set": "7",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Vader's Personal Shuttle (V)"
+      ]
     },
     {
       "cancels": [
@@ -54290,7 +54560,8 @@
         "subType": "Alien",
         "title": "•••Vigo",
         "type": "Character",
-        "uniqueness": "***"
+        "uniqueness": "***",
+	"underlyingCard": true
       },
       "gempId": "10_53",
       "id": 2716,
@@ -54305,7 +54576,10 @@
       ],
       "rarity": "PM",
       "set": "10",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Vigo (V)"
+      ]
     },
     {
       "front": {
@@ -54413,7 +54687,8 @@
         "subType": "Starfighter: Starviper-Class Assault Fighter",
         "title": "•Virago",
         "type": "Starship",
-        "uniqueness": "*"
+        "uniqueness": "*",
+	"underlyingCard": true
       },
       "gempId": "10_54",
       "id": 2719,
@@ -54428,7 +54703,10 @@
       ],
       "rarity": "PM",
       "set": "10",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Elis in Hinthra"
+      ]
     },
     {
       "combo": [
@@ -55219,7 +55497,8 @@
         "subType": "Used Or Lost",
         "title": "•Weapon Of An Ungrateful Son",
         "type": "Interrupt",
-        "uniqueness": "*"
+        "uniqueness": "*",
+	"underlyingCard": true
       },
       "gempId": "5_161",
       "id": 2775,
@@ -55231,7 +55510,10 @@
       ],
       "rarity": "U",
       "set": "5",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Dooku's Lightsaber"
+      ]
     },
     {
       "counterpart": "Weather Vane",
@@ -56569,7 +56851,8 @@
         "lore": "'Give yourself to the dark side. It is the only way you can save your friends.'",
         "title": "•You Cannot Hide Forever",
         "type": "Effect",
-        "uniqueness": "*"
+        "uniqueness": "*",
+	"underlyingCard": true
       },
       "gempId": "9_133",
       "id": 2877,
@@ -56623,7 +56906,10 @@
       ],
       "rarity": "U",
       "set": "9",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"You Cannot Hide Forever (Death Star II) (V)"
+      ]
     },
     {
       "abbr": [
@@ -56641,7 +56927,8 @@
         "lore": "'Give yourself to the dark side. It is the only way you can save your friends.'",
         "title": "•You Cannot Hide Forever",
         "type": "Defensive Shield",
-        "uniqueness": "*"
+        "uniqueness": "*",
+	"underlyingCard": true
       },
       "gempId": "13_99",
       "id": 2878,
@@ -56653,7 +56940,10 @@
       ],
       "rarity": "PM",
       "set": "13",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"You Cannot Hide Forever (V)"
+      ]
     },
     {
       "abbr": [

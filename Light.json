@@ -1324,7 +1324,8 @@
         "lore": "'What was that?' The Jedi power known as 'affect mind' is often used to create minor distractions, allowing Jedi to elude enemies rather than engage them in battle.",
         "title": "•Affect Mind",
         "type": "Effect",
-        "uniqueness": "*"
+        "uniqueness": "*",
+	"underlyingCard": true
       },
       "gempId": "1_43",
       "id": 68,
@@ -1340,7 +1341,10 @@
       ],
       "rarity": "R1",
       "set": "1",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Affect Mind (V)"
+      ]
     },
     {
       "counterpart": "I Find Your Lack Of Faith Disturbing (V)",
@@ -2189,7 +2193,8 @@
         "lore": "A user of the Force can alter the environment to affect the minds of others. 'The Force can have a strong influence on the weak-minded.'",
         "subType": "Used",
         "title": "Alter",
-        "type": "Interrupt"
+        "type": "Interrupt",
+	"underlyingCard": true
       },
       "gempId": "1_71",
       "id": 95,
@@ -2210,7 +2215,10 @@
         "Can be played as a response to the attempted deployment of an Effect or Utinni Effect. If successful, the target has no result."
       ],
       "set": "1",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Alter (Premiere) (V)"
+      ]
     },
     {
       "canceledBy": [
@@ -2812,7 +2820,8 @@
         "lore": "'The dark side of the Force are they. Easily they flow, quick to join you in a fight.'",
         "title": "•Anger, Fear, Aggression",
         "type": "Effect",
-        "uniqueness": "*"
+        "uniqueness": "*",
+	"underlyingCard": true
       },
       "gempId": "4_16",
       "id": 111,
@@ -2828,7 +2837,10 @@
       ],
       "rarity": "C",
       "set": "4",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Anger, Fear, Aggression (V)"
+      ]
     },
     {
       "abbr": [
@@ -3060,7 +3072,8 @@
         "subType": "Used",
         "title": "•Antilles Maneuver",
         "type": "Interrupt",
-        "uniqueness": "*"
+        "uniqueness": "*",
+	"underlyingCard": true
       },
       "gempId": "7_83",
       "id": 118,
@@ -3076,7 +3089,10 @@
       ],
       "rarity": "C",
       "set": "7",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Antilles Maneuver (V)"
+      ]
     },
     {
       "abbr": [
@@ -4793,7 +4809,8 @@
         "subType": "Lost",
         "title": "•Baseless Accusations",
         "type": "Interrupt",
-        "uniqueness": "*"
+        "uniqueness": "*",
+	"underlyingCard": true
       },
       "gempId": "12_56",
       "id": 202,
@@ -4805,7 +4822,10 @@
       ],
       "rarity": "C",
       "set": "12",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"The Republic No Longer Functions"
+      ]
     },
     {
       "counterpart": "Battle Order",
@@ -5073,7 +5093,8 @@
         "lore": "Symbol for the Cloud City Miner's Guild (not affiliated with the Galactic Miner's Guild). Named after the beldons, giant creatures who generate Tibanna gas.",
         "title": "•Beldon's Eye",
         "type": "Effect",
-        "uniqueness": "*"
+        "uniqueness": "*",
+	"underlyingCard": true
       },
       "gempId": "5_18",
       "id": 217,
@@ -5090,7 +5111,10 @@
       ],
       "rarity": "R",
       "set": "5",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Beldon's Eye (V)"
+      ]
     },
     {
       "front": {
@@ -5559,7 +5583,8 @@
         "imageUrl": "https://res.starwarsccg.org/cards/CloudCity-Light/large/bionichand.gif",
         "lore": "Uses state-of-the-art digital processors. Although Luke had lost his hand, the Alliance could rebuild it. They had the technology. They could make it better, stronger, faster.",
         "title": "Bionic Hand",
-        "type": "Device"
+        "type": "Device",
+	"underlyingCard": true
       },
       "gempId": "5_12",
       "id": 244,
@@ -5578,7 +5603,10 @@
         "Adds 1 to total weapon destiny, not to each draw."
       ],
       "set": "5",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Luke's Bionic Hand"
+      ]
     },
     {
       "canceledBy": [
@@ -5687,7 +5715,8 @@
         "lore": "A Merr-Sonn Model 44 blaster pistol. Uses power packs and high-energy blaster gases to shoot bolts of explosive coherent light energy.",
         "subType": "Character",
         "title": "Blaster",
-        "type": "Weapon"
+        "type": "Weapon",
+	"underlyingCard": true
       },
       "gempId": "1_152",
       "id": 259,
@@ -5702,7 +5731,12 @@
       ],
       "rarity": "C2",
       "set": "1",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Captain Rex, 501st Legion",
+	"Captain Rex, 501st Legion (AI)",
+	"Captain Rex, 501st Legion (Holo AI)"
+      ]
     },
     {
       "cancels": [
@@ -5795,7 +5829,8 @@
         "lore": "BlasTech E-11 blaster rifle. Standard issue for Imperial forces. So numerous that many have been stolen by Rebels. Extendable stock. Carries energy for 100 shots.",
         "subType": "Character",
         "title": "Blaster Rifle",
-        "type": "Weapon"
+        "type": "Weapon",
+	"underlyingCard": true
       },
       "gempId": "1_153",
       "id": 265,
@@ -5810,7 +5845,10 @@
       ],
       "rarity": "C1",
       "set": "1",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Blaster Rifle (V)"
+      ]
     },
     {
       "front": {
@@ -7025,7 +7063,8 @@
         "subType": "Starfighter: N-1 Starfighter",
         "title": "•Bravo Fighter",
         "type": "Starship",
-        "uniqueness": "*"
+        "uniqueness": "*",
+	"underlyingCard": true
       },
       "gempId": "14_58",
       "id": 326,
@@ -7044,7 +7083,10 @@
         "May not attempt to blow away Blockade Flagship unless its starship card is on table."
       ],
       "set": "14",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Bravo Fighter (V)"
+      ]
     },
     {
       "front": {
@@ -8296,7 +8338,8 @@
         "subType": "Used Or Starting",
         "title": "•Careful Planning",
         "type": "Interrupt",
-        "uniqueness": "*"
+        "uniqueness": "*",
+	"underlyingCard": true
       },
       "gempId": "8_44",
       "id": 381,
@@ -8313,7 +8356,10 @@
         "The site(s) may be deployed even if the starting location was converted, or failed to convert an opponent's starting location."
       ],
       "set": "8",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Careful Planning (V)"
+      ]
     },
     {
       "abbr": [
@@ -8790,7 +8836,8 @@
         "subType": "Rebel",
         "title": "•Chewie",
         "type": "Character",
-        "uniqueness": "*"
+        "uniqueness": "*",
+	"underlyingCard": true
       },
       "gempId": "104_1",
       "id": 5416,
@@ -8802,7 +8849,10 @@
       ],
       "rarity": "PM",
       "set": "104",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Chewie (V)"
+      ]
     },
     {
       "abbr": [
@@ -9820,7 +9870,8 @@
         "power": "2",
         "subType": "Alien",
         "title": "Cloud City Trooper",
-        "type": "Character"
+        "type": "Character",
+	"underlyingCard": true
       },
       "gempId": "5_3",
       "id": 436,
@@ -9841,7 +9892,11 @@
         "The phrase 'on Cloud City' means at a Cloud City site, not the Bespin: Cloud City sector."
       ],
       "set": "5",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Commander Cody",
+	"Commander Cody (AI)"
+      ]
     },
     {
       "counterpart": "Cloud City: Carbonite Chamber",
@@ -10407,7 +10462,8 @@
         "subType": "Rebel",
         "title": "•Colonel Cracken",
         "type": "Character",
-        "uniqueness": "*"
+        "uniqueness": "*",
+	"underlyingCard": true
       },
       "gempId": "9_8",
       "id": 471,
@@ -10425,7 +10481,10 @@
       ],
       "rarity": "R",
       "set": "9",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"General Airen Cracken"
+      ]
     },
     {
       "front": {
@@ -10730,7 +10789,8 @@
         "subType": "Rebel",
         "title": "•Commander Luke Skywalker",
         "type": "Character",
-        "uniqueness": "*"
+        "uniqueness": "*",
+	"underlyingCard": true
       },
       "gempId": "3_3",
       "id": 498,
@@ -10760,7 +10820,10 @@
       ],
       "rarity": "R1",
       "set": "3",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Commander Luke Skywalker (V)"
+      ]
     },
     {
       "front": {
@@ -12219,7 +12282,8 @@
         "subType": "System",
         "title": "•Coruscant",
         "type": "Location",
-        "uniqueness": "*"
+        "uniqueness": "*",
+	"underlyingCard": true
       },
       "gempId": "12_73",
       "id": 561,
@@ -12238,7 +12302,11 @@
       ],
       "rarity": "C",
       "set": "12",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Nar Shaddaa",
+	"Nar Shaddaa (AI)"
+      ]
     },
     {
       "counterpart": "Coruscant",
@@ -13704,7 +13772,8 @@
         "subType": "Rebel",
         "title": "•Daughter Of Skywalker",
         "type": "Character",
-        "uniqueness": "*"
+        "uniqueness": "*",
+	"underlyingCard": true
       },
       "gempId": "8_8",
       "id": 644,
@@ -13737,7 +13806,10 @@
         "Both sides of the Objective are retargeted to Leia instead of Luke."
       ],
       "set": "8",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Daughter Of Skywalker (V)"
+      ]
     },
     {
       "abbr": [
@@ -14376,7 +14448,8 @@
         "subType": "Rebel",
         "title": "•Derek 'Hobbie' Klivian",
         "type": "Character",
-        "uniqueness": "*"
+        "uniqueness": "*",
+	"underlyingCard": true
       },
       "gempId": "3_5",
       "id": 707,
@@ -14395,7 +14468,10 @@
       ],
       "rarity": "U1",
       "set": "3",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Derek 'Hobbie' Klivian (V)"
+      ]
     },
     {
       "front": {
@@ -15173,7 +15249,8 @@
         "lore": "The Jedi won't tolerate silly behavior for very long.",
         "title": "•Don't Do That Again",
         "type": "Defensive Shield",
-        "uniqueness": "*"
+        "uniqueness": "*",
+	"underlyingCard": true
       },
       "gempId": "13_16",
       "id": 755,
@@ -15207,7 +15284,10 @@
         "This will suspend the entire You Cannot Hide Forever & Mobilization Points combo card."
       ],
       "set": "13",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Don't Do That Again (V)"
+      ]
     },
     {
       "abbr": [
@@ -15224,7 +15304,8 @@
         "lore": "The Jedi won't tolerate silly behavior for very long.",
         "title": "•Don't Do That Again",
         "type": "Effect",
-        "uniqueness": "*"
+        "uniqueness": "*",
+	"underlyingCard": true
       },
       "gempId": "11_17",
       "id": 754,
@@ -15262,7 +15343,10 @@
         "This will suspend the entire You Cannot Hide Forever & Mobilization Points combo card."
       ],
       "set": "11",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Don't Do That Again (Tatooine) (V)"
+      ]
     },
     {
       "abbr": [
@@ -15440,7 +15524,8 @@
         "lore": "Han did not take kindly to Jabba's posturing.",
         "subType": "Used Or Starting",
         "title": "Don't Tread On Me",
-        "type": "Interrupt"
+        "type": "Interrupt",
+	"underlyingCard": true
       },
       "gempId": "7_88",
       "id": 760,
@@ -15455,7 +15540,10 @@
         "May be played even if the battleground has been converted."
       ],
       "set": "7",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Don't Tread On Me (V)"
+      ]
     },
     {
       "abbr": [
@@ -15615,7 +15703,8 @@
         "lore": "News of Imperial defeat inspires the citizens of the galaxy. A major loss seriously undermines the Empire's ability to function.",
         "title": "•Down With The Emperor!",
         "type": "Effect",
-        "uniqueness": "*"
+        "uniqueness": "*",
+	"underlyingCard": true
       },
       "gempId": "7_59",
       "id": 766,
@@ -15632,7 +15721,10 @@
       ],
       "rarity": "U",
       "set": "7",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Down With The Emperor! (V)"
+      ]
     },
     {
       "abbr": [
@@ -18943,7 +19035,8 @@
         "lore": "Before swinging across the treacherous abyss, Leia gave Luke a kiss for luck. Despite an incessant storm of laserblasts, they made it.",
         "title": "•For Luck",
         "type": "Effect",
-        "uniqueness": "*"
+        "uniqueness": "*",
+	"underlyingCard": true
       },
       "gempId": "102_1",
       "id": 966,
@@ -18963,7 +19056,10 @@
         "If Alter is played in response to the attempted deployment of this Effect, this Effect's game text may not be used yet."
       ],
       "set": "102",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"For Luck (V)"
+      ]
     },
     {
       "front": {
@@ -19099,7 +19195,8 @@
         "lore": "'I'm looking for someone.' 'Looking? Found someone you have I would say.'",
         "subType": "Lost",
         "title": "Found Someone You Have",
-        "type": "Interrupt"
+        "type": "Interrupt",
+	"underlyingCard": true
       },
       "gempId": "4_51",
       "id": 976,
@@ -19111,7 +19208,10 @@
       ],
       "rarity": "U",
       "set": "4",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Found Someone You Have (V)"
+      ]
     },
     {
       "front": {
@@ -20270,7 +20370,8 @@
         "subType": "Rebel",
         "title": "•General Solo",
         "type": "Character",
-        "uniqueness": "*"
+        "uniqueness": "*",
+	"underlyingCard": true
       },
       "gempId": "8_15",
       "id": 1025,
@@ -20302,7 +20403,10 @@
       ],
       "rarity": "R",
       "set": "8",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"General Solo (V)"
+      ]
     },
     {
       "front": {
@@ -21035,7 +21139,8 @@
         "subType": "Starfighter: Y-Wing",
         "title": "•Gold Leader In Gold 1",
         "type": "Starship",
-        "uniqueness": "*"
+        "uniqueness": "*",
+	"underlyingCard": true
       },
       "gempId": "103_1",
       "id": 5552,
@@ -21052,7 +21157,10 @@
         "The permanent pilot <u>is</u> the same persona as the character card Dutch, so both cannot be on table at same time."
       ],
       "set": "103",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Gold Leader In Gold 1 (V)"
+      ]
     },
     {
       "abbr": [
@@ -22300,7 +22408,8 @@
         "subType": "Alien",
         "title": "•Han",
         "type": "Character",
-        "uniqueness": "*"
+        "uniqueness": "*",
+	"underlyingCard": true
       },
       "gempId": "102_2",
       "id": 1094,
@@ -22322,7 +22431,10 @@
       ],
       "rarity": "PM",
       "set": "102",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Han (V)"
+      ]
     },
     {
       "combo": [
@@ -22685,7 +22797,8 @@
         "subType": "Character",
         "title": "•Han's Heavy Blaster Pistol",
         "type": "Weapon",
-        "uniqueness": "*"
+        "uniqueness": "*",
+	"underlyingCard": true
       },
       "gempId": "1_154",
       "id": 1106,
@@ -22709,7 +22822,10 @@
       ],
       "rarity": "R2",
       "set": "1",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Han's Heavy Blaster Pistol (V)"
+      ]
     },
     {
       "front": {
@@ -22817,7 +22933,8 @@
         "subType": "Alien",
         "title": "•Harc Seff",
         "type": "Character",
-        "uniqueness": "*"
+        "uniqueness": "*",
+	"underlyingCard": true
       },
       "gempId": "7_20",
       "id": 1109,
@@ -22836,7 +22953,10 @@
       ],
       "rarity": "U",
       "set": "7",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Harc Seff (V)"
+      ]
     },
     {
       "front": {
@@ -24948,7 +25068,8 @@
         "lore": "'Jedi mod spienko eek.'",
         "title": "•I Must Be Allowed To Speak",
         "type": "Effect",
-        "uniqueness": "*"
+        "uniqueness": "*",
+	"underlyingCard": true
       },
       "gempId": "6_55",
       "id": 1218,
@@ -24965,7 +25086,10 @@
       ],
       "rarity": "R",
       "set": "6",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"I Must Be Allowed To Speak (V)"
+      ]
     },
     {
       "abbr": [
@@ -25451,7 +25575,8 @@
         "subType": "Lost",
         "title": "•Impressive, Most Impressive",
         "type": "Interrupt",
-        "uniqueness": "*"
+        "uniqueness": "*",
+	"underlyingCard": true
       },
       "gempId": "5_52",
       "id": 1293,
@@ -25463,7 +25588,10 @@
       ],
       "rarity": "R",
       "set": "5",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Impressive, Most Impressive (V)"
+      ]
     },
     {
       "cancels": [
@@ -27269,7 +27397,8 @@
         "lore": "A Jedi can adjust the force within and around an object, causing it to move as the Jedi wills.",
         "subType": "Lost",
         "title": "Jedi Levitation",
-        "type": "Interrupt"
+        "type": "Interrupt",
+	"underlyingCard": true
       },
       "gempId": "4_53",
       "id": 1384,
@@ -27287,7 +27416,10 @@
       ],
       "rarity": "R",
       "set": "4",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Jedi Levitation (V)"
+      ]
     },
     {
       "counterpart": "Sith Fury (V)",
@@ -29143,7 +29275,8 @@
         "lore": "Dejarik hologram of venomous swamp creature from Noe'ha'on. Keen senses of smell and vision. Dangerous hunter. Lays eggs - hundreds of ravenously hungry hatchlings.",
         "title": "•K'lor'slug",
         "type": "Effect",
-        "uniqueness": "*"
+        "uniqueness": "*",
+	"underlyingCard": true
       },
       "gempId": "1_53",
       "id": 1402,
@@ -29167,7 +29300,10 @@
         "If using multiple Force to raise total power (e.g. using 3 Force to raise total power by 3), it is still a single weapons segment action (not multiple separate actions of 1 Force each)."
       ],
       "set": "1",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"K'lor'slug (V)"
+      ]
     },
     {
       "counterpart": "N'gok War Beast",
@@ -29962,7 +30098,8 @@
         "subType": "Alien",
         "title": "•Leesub Sirln",
         "type": "Character",
-        "uniqueness": "*"
+        "uniqueness": "*",
+	"underlyingCard": true
       },
       "gempId": "1_16",
       "id": 1489,
@@ -29977,7 +30114,10 @@
         "This character is female."
       ],
       "set": "1",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Leesub Sirln (V)"
+      ]
     },
     {
       "combo": [
@@ -30078,7 +30218,8 @@
         "subType": "Rebel",
         "title": "•Leia",
         "type": "Character",
-        "uniqueness": "*"
+        "uniqueness": "*",
+	"underlyingCard": true
       },
       "gempId": "102_3",
       "id": 1491,
@@ -30096,7 +30237,10 @@
       ],
       "rarity": "PM",
       "set": "102",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Leia (V)"
+      ]
     },
     {
       "cancels": [
@@ -31751,7 +31895,8 @@
         "subType": "Alien",
         "title": "•Lobot",
         "type": "Character",
-        "uniqueness": "*"
+        "uniqueness": "*",
+	"underlyingCard": true
       },
       "gempId": "5_6",
       "id": 1562,
@@ -31770,7 +31915,10 @@
         "Uniqueness rules prevent LS Lobot and DS Lobot (same card title) from being on table at the same time."
       ],
       "set": "5",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Lobot (V)"
+      ]
     },
     {
       "front": {
@@ -32284,7 +32432,8 @@
         "subType": "Rebel",
         "title": "•Luke Skywalker",
         "type": "Character",
-        "uniqueness": "*"
+        "uniqueness": "*",
+	"underlyingCard": true
       },
       "gempId": "1_19",
       "id": 1593,
@@ -32314,7 +32463,10 @@
       ],
       "rarity": "R1",
       "set": "1",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Luke Skywalker (V)"
+      ]
     },
     {
       "abbr": [
@@ -32471,7 +32623,8 @@
         "subType": "Rebel",
         "title": "•Luke Skywalker, Rebel Scout",
         "type": "Character",
-        "uniqueness": "*"
+        "uniqueness": "*",
+	"underlyingCard": true
       },
       "gempId": "10_10",
       "id": 1596,
@@ -32503,7 +32656,10 @@
         "Luke is counted as a character when determining the Dark Side destiny draw required for Always Thinking With Your Stomach. If the draw is successful, Luke cannot be chosen to be missing."
       ],
       "set": "10",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Luke Skywalker, Rebel Scout (V)"
+      ]
     },
     {
       "abbr": [
@@ -34128,7 +34284,8 @@
         "imageUrl": "https://res.starwarsccg.org/cards/SpecialEdition-Light/large/maneuveringflaps.gif",
         "lore": "Enhanced steering mechanisms on Rebel T-47s provide increased maneuverability in planetary atmospheres.",
         "title": "Maneuvering Flaps",
-        "type": "Effect"
+        "type": "Effect",
+	"underlyingCard": true
       },
       "gempId": "7_69",
       "id": 1641,
@@ -34144,7 +34301,10 @@
       ],
       "rarity": "C",
       "set": "7",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Maneuvering Flaps (V)"
+      ]
     },
     {
       "front": {
@@ -34453,7 +34613,8 @@
         "subType": "Jedi Master",
         "title": "•Master Qui-Gon",
         "type": "Character",
-        "uniqueness": "*"
+        "uniqueness": "*",
+	"underlyingCard": true
       },
       "gempId": "12_16",
       "id": 1651,
@@ -34473,7 +34634,11 @@
       ],
       "rarity": "R",
       "set": "12",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Master Qui-Gon (V)",
+	"Master Qui-Gon (V) (AI)"
+      ]
     },
     {
       "front": {
@@ -34630,7 +34795,8 @@
         "subType": "Alien",
         "title": "•Max Rebo",
         "type": "Character",
-        "uniqueness": "*"
+        "uniqueness": "*",
+	"underlyingCard": true
       },
       "gempId": "6_28",
       "id": 1660,
@@ -34645,7 +34811,10 @@
         "This card is not a leader. A common online 'misprint' incorrectly says leader in lore, but physical copies do not."
       ],
       "set": "6",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"The Mythrol"
+      ]
     },
     {
       "front": {
@@ -34867,7 +35036,8 @@
         "lore": "Merr-Sonn Mark II repeating blaster. Accepts power cells from a very wide variety of sources, a benefit for Rebels accustomed to scavenging for supplies.",
         "subType": "Artillery",
         "title": "Medium Repeating Blaster Cannon",
-        "type": "Weapon"
+        "type": "Weapon",
+	"underlyingCard": true
       },
       "gempId": "3_77",
       "id": 1664,
@@ -34889,7 +35059,10 @@
         "This weapon is a blaster."
       ],
       "set": "3",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Captain Yutani With Blaster Cannon"
+      ]
     },
     {
       "combo": [
@@ -37715,7 +37888,8 @@
         "subType": "Republic",
         "title": "•Obi-Wan Kenobi, Padawan Learner",
         "type": "Character",
-        "uniqueness": "*"
+        "uniqueness": "*",
+	"underlyingCard": true
       },
       "gempId": "11_6",
       "id": 1806,
@@ -37736,7 +37910,11 @@
       ],
       "rarity": "R",
       "set": "11",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Obi-Wan Kenobi, Padawan Learner (V)",
+	"Obi-Wan Kenobi, Padawan Learner (V) (AI)"
+      ]
     },
     {
       "front": {
@@ -38568,7 +38746,8 @@
         "subType": "Alien",
         "title": "•Oola",
         "type": "Character",
-        "uniqueness": "*"
+        "uniqueness": "*",
+	"underlyingCard": true
       },
       "gempId": "6_29",
       "id": 1842,
@@ -38580,7 +38759,11 @@
       ],
       "rarity": "R",
       "set": "6",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Aayla Secura",
+	"Aayla Secura (AI)"
+      ]
     },
     {
       "canceledBy": [
@@ -41446,7 +41629,8 @@
         "subType": "Starfighter: Baudo-Class Star Yacht",
         "title": "•Pulsar Skate",
         "type": "Starship",
-        "uniqueness": "*"
+        "uniqueness": "*",
+	"underlyingCard": true
       },
       "gempId": "10_20",
       "id": 1965,
@@ -41473,7 +41657,10 @@
       ],
       "rarity": "PM",
       "set": "10",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Booster In Pulsar Skate"
+      ]
     },
     {
       "combo": [
@@ -41523,7 +41710,8 @@
         "subType": "Used",
         "title": "•Put That Down",
         "type": "Interrupt",
-        "uniqueness": "*"
+        "uniqueness": "*",
+	"underlyingCard": true
       },
       "gempId": "5_65",
       "id": 1970,
@@ -41535,7 +41723,10 @@
       ],
       "rarity": "C",
       "set": "5",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Put That Down (V)"
+      ]
     },
     {
       "front": {
@@ -42226,7 +42417,8 @@
         "subType": "Droid",
         "title": "•R-3PO (Ar-Threepio)",
         "type": "Character",
-        "uniqueness": "*"
+        "uniqueness": "*",
+	"underlyingCard": true
       },
       "gempId": "3_14",
       "id": 1997,
@@ -42241,7 +42433,10 @@
       ],
       "rarity": "R2",
       "set": "3",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"R-3PO (Ar-Threepio) (V)"
+      ]
     },
     {
       "front": {
@@ -42858,7 +43053,8 @@
         "subType": "Starfighter: Corellian Republic Cruiser",
         "title": "•Radiant VII",
         "type": "Starship",
-        "uniqueness": "*"
+        "uniqueness": "*",
+	"underlyingCard": true
       },
       "gempId": "12_92",
       "id": 2012,
@@ -42878,7 +43074,10 @@
       ],
       "rarity": "R",
       "set": "12",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Obi-Wan in Radiant VII"
+      ]
     },
     {
       "counterpart": "Raithal",
@@ -44006,7 +44205,8 @@
         "subType": "Starfighter: X-Wing",
         "title": "•Red 1",
         "type": "Starship",
-        "uniqueness": "*"
+        "uniqueness": "*",
+	"underlyingCard": true
       },
       "gempId": "1_144",
       "id": 2057,
@@ -44028,7 +44228,10 @@
         "This <u>is not</u> the same starship persona as Red Squadron 1, so both could be on table at same time."
       ],
       "set": "1",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Red 1 (V)"
+      ]
     },
     {
       "front": {
@@ -44457,7 +44660,8 @@
         "subType": "Starfighter: X-Wing",
         "title": "•Red 8",
         "type": "Starship",
-        "uniqueness": "*"
+        "uniqueness": "*",
+	"underlyingCard": true
       },
       "gempId": "7_147",
       "id": 2065,
@@ -44476,7 +44680,10 @@
       ],
       "rarity": "U",
       "set": "7",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Red 8 (V)"
+      ]
     },
     {
       "counterpart": "Onyx 2 (V)",
@@ -44678,7 +44885,8 @@
         "subType": "Starfighter: X-Wing",
         "title": "•Red Squadron 1",
         "type": "Starship",
-        "uniqueness": "*"
+        "uniqueness": "*",
+	"underlyingCard": true
       },
       "gempId": "9_81",
       "id": 2069,
@@ -44706,7 +44914,10 @@
         "When deploying to Endor, only Wedge is free, not this starship card."
       ],
       "set": "9",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Wedge In Red Squadron 1"
+      ]
     },
     {
       "combo": [
@@ -46825,7 +47036,8 @@
         "subType": "Rebel",
         "title": "•Ryle Torsyn",
         "type": "Character",
-        "uniqueness": "*"
+        "uniqueness": "*",
+	"underlyingCard": true
       },
       "gempId": "7_40",
       "id": 2144,
@@ -46840,7 +47052,10 @@
       ],
       "rarity": "U",
       "set": "7",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Commander Narra"
+      ]
     },
     {
       "canceledBy": [
@@ -47064,7 +47279,8 @@
         "subType": "Republic",
         "title": "•Sache",
         "type": "Character",
-        "uniqueness": "*"
+        "uniqueness": "*",
+	"underlyingCard": true
       },
       "gempId": "12_26",
       "id": 2153,
@@ -47079,7 +47295,10 @@
       ],
       "rarity": "U",
       "set": "12",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Dorme"
+      ]
     },
     {
       "combo": [
@@ -47123,7 +47342,8 @@
         "imageUrl": "https://res.starwarsccg.org/cards/Premiere-Light/large/saitorrkalfas.gif",
         "lore": "Saurin female from planet Durkteel. Bodyguard of Hrchek, a Saurin droid trader. Sai'torr will teach battle skills to those who prove themselves worthy.",
         "title": "Sai'torr Kal Fas",
-        "type": "Effect"
+        "type": "Effect",
+	"underlyingCard": true
       },
       "gempId": "1_64",
       "id": 2157,
@@ -47140,7 +47360,10 @@
       ],
       "rarity": "C2",
       "set": "1",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Sai'torr Kal Fas (V)"
+      ]
     },
     {
       "counterpart": "Blaster Rack (V)",
@@ -47344,7 +47567,8 @@
         "subType": "Mobile",
         "title": "<>Sandwhirl",
         "type": "Effect",
-        "uniqueness": "<>"
+        "uniqueness": "<>",
+	"underlyingCard": true
       },
       "gempId": "6_57",
       "id": 2171,
@@ -47361,7 +47585,10 @@
       ],
       "rarity": "U",
       "set": "6",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"I Don't Like Sand"
+      ]
     },
     {
       "front": {
@@ -49626,7 +49853,8 @@
         "power": "0",
         "subType": "Transport",
         "title": "SoroSuub V-35 Landspeeder",
-        "type": "Vehicle"
+        "type": "Vehicle",
+	"underlyingCard": true
       },
       "gempId": "1_151",
       "id": 2307,
@@ -49638,7 +49866,10 @@
       ],
       "rarity": "C2",
       "set": "1",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Acclamator-Class Assault Ship"
+      ]
     },
     {
       "abbr": [
@@ -49661,7 +49892,8 @@
         "subType": "Lost",
         "title": "•Sorry About The Mess",
         "type": "Interrupt",
-        "uniqueness": "*"
+        "uniqueness": "*",
+	"underlyingCard": true
       },
       "gempId": "2_57",
       "id": 2308,
@@ -49678,7 +49910,10 @@
         "Surprise may retarget to a different weapon that can fire, but cannot choose a new target to fire at (because no target to fire at has been selected yet)."
       ],
       "set": "2",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"A Good Blaster At Your Side"
+      ]
     },
     {
       "abbr": [
@@ -50328,7 +50563,8 @@
         "lore": "A Jedi can move large objects with the power of the mind.",
         "subType": "Used Or Lost",
         "title": "Starship Levitation",
-        "type": "Interrupt"
+        "type": "Interrupt",
+	"underlyingCard": true
       },
       "gempId": "4_60",
       "id": 2344,
@@ -50343,7 +50579,10 @@
       ],
       "rarity": "U",
       "set": "4",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Starship Levitation (V)"
+      ]
     },
     {
       "counterpart": "TIE Sentry Ships (V)",
@@ -50742,7 +50981,8 @@
         "lore": "Admiral Ackbar's hit-and-fade tactics force the Imperial Navy to spread throughout the galaxy in a futile attempt to engage the Rebels.",
         "title": "•Strikeforce",
         "type": "Effect",
-        "uniqueness": "*"
+        "uniqueness": "*",
+	"underlyingCard": true
       },
       "gempId": "9_42",
       "id": 2365,
@@ -50760,7 +51000,11 @@
       ],
       "rarity": "C",
       "set": "9",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Mon Calamari Dockyards",
+	"Strikeforce (V)"
+      ]
     },
     {
       "counterpart": "Something Special Planned For Them (V)",
@@ -52245,7 +52489,8 @@
         "subType": "Site",
         "title": "•Tatooine: Cantina",
         "type": "Location",
-        "uniqueness": "*"
+        "uniqueness": "*",
+	"underlyingCard": true
       },
       "gempId": "1_128",
       "id": 2440,
@@ -52263,7 +52508,11 @@
       ],
       "rarity": "R2",
       "set": "1",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Coruscant: Night Club",
+	"Coruscant: Night Club (AI)"
+      ]
     },
     {
       "front": {
@@ -54088,7 +54337,8 @@
         "lore": "Protocol droids are programmed to interface with a variety of computer technologies. Quick and precise interpretation can dramatically increase operational efficiency.",
         "title": "•The Professor",
         "type": "Effect",
-        "uniqueness": "*"
+        "uniqueness": "*",
+	"underlyingCard": true
       },
       "gempId": "4_40",
       "id": 2539,
@@ -54105,7 +54355,10 @@
       ],
       "rarity": "R",
       "set": "4",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Goldenrod"
+      ]
     },
     {
       "front": {
@@ -55344,7 +55597,8 @@
         "lore": "A timer-activated explosive device designed to be placed by a mining droid. Typically used in ore and spice mines for demolition. Also has many military applications.",
         "subType": "Automated",
         "title": "Timer Mine",
-        "type": "Weapon"
+        "type": "Weapon",
+	"underlyingCard": true
       },
       "gempId": "1_162",
       "id": 2610,
@@ -55363,7 +55617,11 @@
         "Timer Mines are not allowed to use docking bay transit."
       ],
       "set": "1",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Anakin Skywalker, Padawan Learner",
+	"Anakin Skywalker, Padawan Learner (AI)"
+      ]
     },
     {
       "front": {
@@ -58414,7 +58672,8 @@
         "lore": "Every Ewok is taught to be protective of the younger members of their clan.",
         "title": "•Wokling",
         "type": "Effect",
-        "uniqueness": "*"
+        "uniqueness": "*",
+	"underlyingCard": true
       },
       "gempId": "8_42",
       "id": 2819,
@@ -58430,7 +58689,10 @@
       ],
       "rarity": "R",
       "set": "8",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Wokling (V)"
+      ]
     },
     {
       "conceptBy": "(Original concept by Eric Hunter - Gen Con Winner 2002)",
@@ -59649,7 +59911,8 @@
         "lore": "Rebel sentries are stationed on raised sensor platforms. On watch for Imperial scouts and other hazards, they supplement data gathered by Yavin Base's main sensors.",
         "title": "•Yavin Sentry",
         "type": "Effect",
-        "uniqueness": "*"
+        "uniqueness": "*",
+	"underlyingCard": true
       },
       "gempId": "1_68",
       "id": 2860,
@@ -59669,7 +59932,10 @@
         "Also increases any special requirements such as on A Jedi's Strength."
       ],
       "set": "1",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Yavin Sentry (V)"
+      ]
     },
     {
       "cancels": [
@@ -60413,7 +60679,8 @@
         "subType": "Used",
         "title": "•You Will Take Me To Jabba Now",
         "type": "Interrupt",
-        "uniqueness": "*"
+        "uniqueness": "*",
+	"underlyingCard": true
       },
       "gempId": "6_80",
       "id": 2890,
@@ -60428,7 +60695,10 @@
       ],
       "rarity": "C",
       "set": "6",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Simple Tricks And Nonsense"
+      ]
     },
     {
       "front": {
@@ -60476,7 +60746,8 @@
         "lore": "Luke knew that while the dark side was quicker and more seductive, eventually evil would turn on itself.",
         "title": "•Your Insight Serves You Well",
         "type": "Effect",
-        "uniqueness": "*"
+        "uniqueness": "*",
+	"underlyingCard": true
       },
       "gempId": "9_47",
       "id": 2898,
@@ -60521,7 +60792,10 @@
       ],
       "rarity": "U",
       "set": "9",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Your Insight Serves You Well (Death Star II) (V)"
+      ]
     },
     {
       "abbr": [
@@ -60554,7 +60828,8 @@
         "lore": "Luke knew that while the dark side was quicker and more seductive, eventually evil would turn on itself.",
         "title": "•Your Insight Serves You Well",
         "type": "Defensive Shield",
-        "uniqueness": "*"
+        "uniqueness": "*",
+	"underlyingCard": true
       },
       "gempId": "13_49",
       "id": 2899,
@@ -60566,7 +60841,10 @@
       ],
       "rarity": "PM",
       "set": "13",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Your Insight Serves You Well (V)"
+      ]
     },
     {
       "cancels": [
@@ -60969,7 +61247,8 @@
         "subType": "Starfighter: Modified Z-95 Headhunter",
         "title": "•••Z-95 Bespin Defense Fighter",
         "type": "Starship",
-        "uniqueness": "***"
+        "uniqueness": "***",
+	"underlyingCard": true
       },
       "gempId": "109_5",
       "id": 2909,
@@ -60985,7 +61264,10 @@
       ],
       "rarity": "PM",
       "set": "109",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Overseer"
+      ]
     },
     {
       "combo": [
