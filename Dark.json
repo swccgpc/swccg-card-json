@@ -371,7 +371,11 @@
         "This weapon is not a blaster."
       ],
       "set": "109",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"4-LOM With Concussion Rifle (V)",
+	"4-LOM With Concussion Rifle (V) (AI)"
+      ]
     },
     {
       "combo": [
@@ -500,7 +504,10 @@
       ],
       "rarity": "R1",
       "set": "1",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"5D6-RA-7 (Fivedesix) (V)"
+      ]
     },
     {
       "front": {
@@ -697,7 +704,10 @@
       ],
       "rarity": "U",
       "set": "7",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"A Day Long Remembered (V)"
+      ]
     },
     {
       "abbr": [
@@ -939,7 +949,10 @@
         "After this is played, Ketwol may perform one more exchange, even if Ketwol had performed exchanges previously."
       ],
       "set": "13",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"A Useless Gesture (V)"
+      ]
     },
     {
       "front": {
@@ -1474,7 +1487,10 @@
       ],
       "rarity": "R2",
       "set": "1",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Admiral Motti (V)"
+      ]
     },
     {
       "combo": [
@@ -2116,7 +2132,10 @@
       ],
       "rarity": "C",
       "set": "7",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Black 5"
+      ]
     },
     {
       "canceledBy": [
@@ -2308,7 +2327,10 @@
         "Can be played as a response to the attempted deployment of an Effect or Utinni Effect. If successful, the target has no result."
       ],
       "set": "12",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Alter (Premiere) (V)"
+      ]
     },
     {
       "canceledBy": [
@@ -2971,7 +2993,10 @@
       ],
       "rarity": "R",
       "set": "8",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Aratech Corporation (V)"
+      ]
     },
     {
       "front": {
@@ -3064,7 +3089,10 @@
         "If breaking cover to fire a repeating weapon (e.g. Light Repeating Blaster Rifle), it may fire repeatedly but only the first shot is free."
       ],
       "set": "10",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Arica (V)"
+      ]
     },
     {
       "abbr": [
@@ -5163,7 +5191,10 @@
       ],
       "rarity": "R1",
       "set": "1",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Black 2 (V)"
+      ]
     },
     {
       "cancels": [
@@ -5622,7 +5653,10 @@
         "Placing a weapon on Blaster Rack is a top-level action."
       ],
       "set": "1",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Blaster Rack (V)"
+      ]
     },
     {
       "counterpart": "Sai'torr Kal Fas (V)",
@@ -5695,7 +5729,10 @@
       ],
       "rarity": "C2",
       "set": "1",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Blaster Rifle (V)"
+      ]
     },
     {
       "combo": [
@@ -5852,7 +5889,10 @@
       ],
       "rarity": "R2",
       "set": "3",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Blizzard 2 (V)"
+      ]
     },
     {
       "combo": [
@@ -6100,7 +6140,10 @@
       ],
       "rarity": "R1",
       "set": "3",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Blizzard Scount 1 (V)"
+      ]
     },
     {
       "abbr": [
@@ -6680,7 +6723,10 @@
       ],
       "rarity": "PM",
       "set": "109",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Boba Fett In Slave I (V)"
+      ]
     },
     {
       "combo": [
@@ -7220,7 +7266,10 @@
       ],
       "rarity": "R",
       "set": "4",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Bossk (V)"
+      ]
     },
     {
       "front": {
@@ -7309,7 +7358,10 @@
       ],
       "rarity": "R",
       "set": "7",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Bossk In Hound's Tooth (V)"
+      ]
     },
     {
       "abbr": [
@@ -9118,7 +9170,10 @@
       ],
       "rarity": "C",
       "set": "4",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Close Call (V)"
+      ]
     },
     {
       "canceledBy": [
@@ -9773,7 +9828,10 @@
       ],
       "rarity": "C",
       "set": "5",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Cloud City: Security Tower (V)"
+      ]
     },
     {
       "front": {
@@ -10414,7 +10472,10 @@
         "The site(s) may be deployed even if the starting location was converted, or failed to convert an opponent's starting location."
       ],
       "set": "8",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Combat Readiness (V)"
+      ]
     },
     {
       "abbr": [
@@ -10483,7 +10544,10 @@
       ],
       "rarity": "C",
       "set": "9",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Combat Response (V)"
+      ]
     },
     {
       "cancels": [
@@ -11380,7 +11444,10 @@
       ],
       "rarity": "R1",
       "set": "2",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Conquest (V)"
+      ]
     },
     {
       "cancels": [
@@ -13387,7 +13454,11 @@
       ],
       "rarity": "C2",
       "set": "1",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Count Dooku",
+	"Count Dooku (AI)"
+      ]
     },
     {
       "canceledBy": [
@@ -13555,7 +13626,10 @@
       ],
       "rarity": "R",
       "set": "11",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"R'tic H'weei"
+      ]
     },
     {
       "conceptBy": "(Original concept by Ryan Jellison and Tom Marlin)",
@@ -14039,7 +14113,10 @@
         "This card is a Black Squadron pilot."
       ],
       "set": "1",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Darth Vader (V)"
+      ]
     },
     {
       "abbr": [
@@ -15074,7 +15151,10 @@
         "Also increases any special requirements such as on Prince Xizor."
       ],
       "set": "1",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Death Star Sentry (V)"
+      ]
     },
     {
       "cancels": [
@@ -15680,7 +15760,10 @@
       ],
       "rarity": "C",
       "set": "4",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Defensive Fire (V)"
+      ]
     },
     {
       "canceledBy": [
@@ -16028,7 +16111,10 @@
       ],
       "rarity": "PM",
       "set": "110",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Dengar With Blaster Carbine (V)"
+      ]
     },
     {
       "abbr": [
@@ -17479,7 +17565,10 @@
       ],
       "rarity": "R2",
       "set": "1",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"You'll Be Dead!"
+      ]
     },
     {
       "abbr": [
@@ -19880,7 +19969,10 @@
       ],
       "rarity": "U",
       "set": "12",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Establish Control (V)"
+      ]
     },
     {
       "canceledBy": [
@@ -20643,7 +20735,10 @@
       ],
       "rarity": "PM",
       "set": "13",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Fanfare (V)"
+      ]
     },
     {
       "cancels": [
@@ -20699,7 +20794,10 @@
       ],
       "rarity": "C",
       "set": "11",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Fanfare (Tatooine) (V)"
+      ]
     },
     {
       "front": {
@@ -20882,7 +20980,10 @@
       ],
       "rarity": "R2",
       "set": "1",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Tarkin Doctrine"
+      ]
     },
     {
       "canceledBy": [
@@ -21731,7 +21832,10 @@
       ],
       "rarity": "R",
       "set": "5",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Force Field (V)"
+      ]
     },
     {
       "cancels": [
@@ -21880,7 +21984,10 @@
         "If the revealed card is destiny 4 or less, it is un-revealed and placed back under the Jedi."
       ],
       "set": "13",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Force Push (V)"
+      ]
     },
     {
       "front": {
@@ -22930,7 +23037,10 @@
       ],
       "rarity": "R1",
       "set": "3",
-      "side": "Dark"
+      "side": "Dark",
+      "undelyingCardFor": [
+	"General Veers (V)"
+      ]
     },
     {
       "combo": [
@@ -23352,7 +23462,10 @@
         "This card is not a commander ('commanded' doesn't count)."
       ],
       "set": "1",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Grand Moff Tarkin (V)"
+      ]
     },
     {
       "front": {
@@ -23422,7 +23535,10 @@
       ],
       "rarity": "U2",
       "set": "1",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Coarse And Rough And Irritating"
+      ]
     },
     {
       "front": {
@@ -24725,7 +24841,10 @@
       ],
       "rarity": "R",
       "set": "4",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Hound's Tooth (V)"
+      ]
     },
     {
       "front": {
@@ -25207,7 +25326,10 @@
       ],
       "rarity": "C",
       "set": "7",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"I Can't Shake Him! (V)"
+      ]
     },
     {
       "counterpart": "Antilles Maneuver (V)",
@@ -25269,7 +25391,10 @@
       ],
       "rarity": "R1",
       "set": "1",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"I Find Your Lack Of Faith Disturbing (V)"
+      ]
     },
     {
       "cancels": [
@@ -25842,7 +25967,10 @@
         "Canceling IG-88's game text or excluding him from battle could result in a battle ending immediately (in cases where his game text is required for the battle to occur)."
       ],
       "set": "4",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"IG-88 (V)"
+      ]
     },
     {
       "front": {
@@ -26205,7 +26333,10 @@
       ],
       "rarity": "R2",
       "set": "3",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Image Of The Dark Lord (V)"
+      ]
     },
     {
       "canceledBy": [
@@ -26271,7 +26402,10 @@
       ],
       "rarity": "U",
       "set": "4",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Imbalance & Kintan Strider"
+      ]
     },
     {
       "cancels": [
@@ -26696,7 +26830,10 @@
         "For example, if DS Force drains at the LS site Tatooine: Obi-Wan's Hut, the +1 bonus in the site's game text is not canceled because it is a DS Force drain."
       ],
       "set": "5",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Imperial Decree (V)"
+      ]
     },
     {
       "front": {
@@ -28407,7 +28544,10 @@
         "Dark can even Force drain for 0 at a location with no Light icons, then receive the 'activate 1 Force' bonus as a result."
       ],
       "set": "6",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Jabba The Hutt (V)"
+      ]
     },
     {
       "abbr": [
@@ -30573,7 +30713,10 @@
       ],
       "rarity": "C",
       "set": "4",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Knowledge And Defense (V)"
+      ]
     },
     {
       "counterpart": "Anger, Fear, Aggression (V)",
@@ -30791,7 +30934,10 @@
       ],
       "rarity": "R",
       "set": "7",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Kuat Drive Yards (V)"
+      ]
     },
     {
       "abbr": [
@@ -31914,7 +32060,11 @@
       ],
       "rarity": "U",
       "set": "9",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"DS-61-5",
+	"DS-61-5 (AI)"
+      ]
     },
     {
       "combo": [
@@ -32451,7 +32601,11 @@
         "May defuse any number of mines per turn, whether 'laid' or 'buried.'"
       ],
       "set": "1",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Droideka",
+	"Droideka (AI)"
+      ]
     },
     {
       "front": {
@@ -32519,7 +32673,10 @@
       ],
       "rarity": "C",
       "set": "12",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Vote Of No Confidence"
+      ]
     },
     {
       "counterpart": "Sic-Six",
@@ -33657,7 +33814,10 @@
       ],
       "rarity": "U",
       "set": "9",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Maarek Stele, The Emperor's Reach"
+      ]
     },
     {
       "front": {
@@ -33996,7 +34156,10 @@
         "May <u>not</u> use The Circle Is Now Complete in place of Vader, with or without Epic Duel."
       ],
       "set": "110",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Mara Jade With Lightsaber"
+      ]
     },
     {
       "front": {
@@ -37772,7 +37935,10 @@
       ],
       "rarity": "R",
       "set": "9",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Colonel Jendon in Onyx 1"
+      ]
     },
     {
       "front": {
@@ -37815,7 +37981,10 @@
       ],
       "rarity": "U",
       "set": "9",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Onyx 2 (V)"
+      ]
     },
     {
       "counterpart": "Red 8 (V)",
@@ -39335,7 +39504,10 @@
       ],
       "rarity": "U1",
       "set": "1",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Ponda Baba (V)"
+      ]
     },
     {
       "conceptBy": "(Original concept by Mike Raveling - Minnesota States 2008)",
@@ -40013,7 +40185,10 @@
       ],
       "rarity": "C2",
       "set": "3",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Probot"
+      ]
     },
     {
       "front": {
@@ -41637,7 +41812,10 @@
         "If face up in Reserve Deck for any reason, it is active (not part of Life Force)."
       ],
       "set": "5",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Imperial Detention"
+      ]
     },
     {
       "canceledBy": [
@@ -45033,7 +45211,10 @@
         "(Lost function) If Dark only has 1 card in Reserve Deck (or Light only has 2 cards in Reserve Deck), they still draw destiny and may still have the higher total. But if a player has 0 cards in Reserve Deck, they have no Sith Fury total and lose automatically (unless both players have 0 cards in Reserve Deck, in which case it is a tie and neither player will be at risk of losing 6 Force to Sith Fury)."
       ],
       "set": "11",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Sith Fury (V)"
+      ]
     },
     {
       "counterpart": "Jedi Levitation (V)",
@@ -45111,7 +45292,10 @@
         "This card is a probe droid (e.g. for Captain Piett)."
       ],
       "set": "11",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Sith Probe Droid (V)"
+      ]
     },
     {
       "conceptBy": "(Original concept by Lee Clarke - ACT Championship 2005)",
@@ -45466,7 +45650,10 @@
       ],
       "rarity": "C",
       "set": "8",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Sneak Attack (V)"
+      ]
     },
     {
       "front": {
@@ -45742,7 +45929,10 @@
       ],
       "rarity": "C",
       "set": "9",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Something Special Planned For Them (V)"
+      ]
     },
     {
       "counterpart": "Strikeforce (V)",
@@ -46827,7 +47017,10 @@
       ],
       "rarity": "PM",
       "set": "10",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Stinger (V)"
+      ]
     },
     {
       "conceptBy": "(Original concept by Michael Bahr - PC Volunteer Award 2006)",
@@ -47497,7 +47690,10 @@
         "May be played even if the battleground has been converted."
       ],
       "set": "7",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Surface Defense (V)"
+      ]
     },
     {
       "abbr": [
@@ -47716,7 +47912,10 @@
       ],
       "rarity": "C2",
       "set": "2",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Ysanne Isard"
+      ]
     },
     {
       "front": {
@@ -52069,7 +52268,10 @@
       ],
       "rarity": "R",
       "set": "12",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Blockade Support Ship"
+      ]
     },
     {
       "front": {
@@ -53797,7 +53999,10 @@
       ],
       "rarity": "R",
       "set": "7",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Vader's Personal Shuttle (V)"
+      ]
     },
     {
       "cancels": [
@@ -54305,7 +54510,10 @@
       ],
       "rarity": "PM",
       "set": "10",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Vigo (V)"
+      ]
     },
     {
       "front": {
@@ -54428,7 +54636,10 @@
       ],
       "rarity": "PM",
       "set": "10",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Elis in Hinthra"
+      ]
     },
     {
       "combo": [
@@ -55231,7 +55442,11 @@
       ],
       "rarity": "U",
       "set": "5",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Dooku's Lightsaber",
+	"Dooku's Lightsaber (AI)"
+      ]
     },
     {
       "counterpart": "Weather Vane",
@@ -56623,7 +56838,10 @@
       ],
       "rarity": "U",
       "set": "9",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"You Cannot Hide Forever (Death Star II) (V)"
+      ]
     },
     {
       "abbr": [
@@ -56653,7 +56871,10 @@
       ],
       "rarity": "PM",
       "set": "13",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"You Cannot Hide Forever (V)"
+      ]
     },
     {
       "abbr": [

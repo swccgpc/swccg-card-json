@@ -1340,7 +1340,10 @@
       ],
       "rarity": "R1",
       "set": "1",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Affect Mind (V)"
+      ]
     },
     {
       "counterpart": "I Find Your Lack Of Faith Disturbing (V)",
@@ -2210,7 +2213,10 @@
         "Can be played as a response to the attempted deployment of an Effect or Utinni Effect. If successful, the target has no result."
       ],
       "set": "1",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Alter (Premiere) (V)"
+      ]
     },
     {
       "canceledBy": [
@@ -2828,7 +2834,10 @@
       ],
       "rarity": "C",
       "set": "4",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Anger, Fear, Aggression (V)"
+      ]
     },
     {
       "abbr": [
@@ -3076,7 +3085,10 @@
       ],
       "rarity": "C",
       "set": "7",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Antilles Maneuver (V)"
+      ]
     },
     {
       "abbr": [
@@ -4805,7 +4817,10 @@
       ],
       "rarity": "C",
       "set": "12",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"The Republic No Longer Functions"
+      ]
     },
     {
       "counterpart": "Battle Order",
@@ -5090,7 +5105,10 @@
       ],
       "rarity": "R",
       "set": "5",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Beldon's Eye (V)"
+      ]
     },
     {
       "front": {
@@ -5578,7 +5596,10 @@
         "Adds 1 to total weapon destiny, not to each draw."
       ],
       "set": "5",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Luke's Bionic Hand"
+      ]
     },
     {
       "canceledBy": [
@@ -5702,7 +5723,12 @@
       ],
       "rarity": "C2",
       "set": "1",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Captain Rex, 501st Legion",
+	"Captain Rex, 501st Legion (AI)",
+	"Captain Rex, 501st Legion (Holo AI)"
+      ]
     },
     {
       "cancels": [
@@ -5810,7 +5836,10 @@
       ],
       "rarity": "C1",
       "set": "1",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Blaster Rifle (V)"
+      ]
     },
     {
       "front": {
@@ -7044,7 +7073,10 @@
         "May not attempt to blow away Blockade Flagship unless its starship card is on table."
       ],
       "set": "14",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Bravo Fighter (V)"
+      ]
     },
     {
       "front": {
@@ -8313,7 +8345,10 @@
         "The site(s) may be deployed even if the starting location was converted, or failed to convert an opponent's starting location."
       ],
       "set": "8",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Careful Planning (V)"
+      ]
     },
     {
       "abbr": [
@@ -8802,7 +8837,10 @@
       ],
       "rarity": "PM",
       "set": "104",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Chewie (V)"
+      ]
     },
     {
       "abbr": [
@@ -9841,7 +9879,11 @@
         "The phrase 'on Cloud City' means at a Cloud City site, not the Bespin: Cloud City sector."
       ],
       "set": "5",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Commander Cody",
+	"Commander Cody (AI)"
+      ]
     },
     {
       "counterpart": "Cloud City: Carbonite Chamber",
@@ -10425,7 +10467,10 @@
       ],
       "rarity": "R",
       "set": "9",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"General Airen Cracken"
+      ]
     },
     {
       "front": {
@@ -10760,7 +10805,10 @@
       ],
       "rarity": "R1",
       "set": "3",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Commander Luke Skywalker (V)"
+      ]
     },
     {
       "front": {
@@ -12238,7 +12286,11 @@
       ],
       "rarity": "C",
       "set": "12",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Nar Shaddaa",
+	"Nar Shaddaa (AI)"
+      ]
     },
     {
       "counterpart": "Coruscant",
@@ -13737,7 +13789,10 @@
         "Both sides of the Objective are retargeted to Leia instead of Luke."
       ],
       "set": "8",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Daughter Of Skywalker (V)"
+      ]
     },
     {
       "abbr": [
@@ -14395,7 +14450,10 @@
       ],
       "rarity": "U1",
       "set": "3",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Derek 'Hobbie' Klivian (V)"
+      ]
     },
     {
       "front": {
@@ -15207,7 +15265,10 @@
         "This will suspend the entire You Cannot Hide Forever & Mobilization Points combo card."
       ],
       "set": "13",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Don't Do That Again (V)"
+      ]
     },
     {
       "abbr": [
@@ -15262,7 +15323,10 @@
         "This will suspend the entire You Cannot Hide Forever & Mobilization Points combo card."
       ],
       "set": "11",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Don't Do That Again (Tatooine) (V)"
+      ]
     },
     {
       "abbr": [
@@ -15455,7 +15519,10 @@
         "May be played even if the battleground has been converted."
       ],
       "set": "7",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Don't Tread On Me (V)"
+      ]
     },
     {
       "abbr": [
@@ -15632,7 +15699,10 @@
       ],
       "rarity": "U",
       "set": "7",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Down With The Emperor! (V)"
+      ]
     },
     {
       "abbr": [
@@ -18963,7 +19033,10 @@
         "If Alter is played in response to the attempted deployment of this Effect, this Effect's game text may not be used yet."
       ],
       "set": "102",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"For Luck (V)"
+      ]
     },
     {
       "front": {
@@ -19111,7 +19184,10 @@
       ],
       "rarity": "U",
       "set": "4",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Found Someone You Have (V)"
+      ]
     },
     {
       "front": {
@@ -20302,7 +20378,10 @@
       ],
       "rarity": "R",
       "set": "8",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"General Solo (V)"
+      ]
     },
     {
       "front": {
@@ -21052,7 +21131,10 @@
         "The permanent pilot <u>is</u> the same persona as the character card Dutch, so both cannot be on table at same time."
       ],
       "set": "103",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Gold Leader In Gold 1 (V)"
+      ]
     },
     {
       "abbr": [
@@ -22322,7 +22404,10 @@
       ],
       "rarity": "PM",
       "set": "102",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Han (V)"
+      ]
     },
     {
       "combo": [
@@ -22709,7 +22794,10 @@
       ],
       "rarity": "R2",
       "set": "1",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Han's Heavy Blaster Pistol (V)"
+      ]
     },
     {
       "front": {
@@ -22836,7 +22924,10 @@
       ],
       "rarity": "U",
       "set": "7",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Harc Seff (V)"
+      ]
     },
     {
       "front": {
@@ -24965,7 +25056,10 @@
       ],
       "rarity": "R",
       "set": "6",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"I Must Be Allowed To Speak (V)"
+      ]
     },
     {
       "abbr": [
@@ -25463,7 +25557,10 @@
       ],
       "rarity": "R",
       "set": "5",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Impressive, Most Impressive (V)"
+      ]
     },
     {
       "cancels": [
@@ -27287,7 +27384,10 @@
       ],
       "rarity": "R",
       "set": "4",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Jedi Levitation (V)"
+      ]
     },
     {
       "counterpart": "Sith Fury (V)",
@@ -29167,7 +29267,10 @@
         "If using multiple Force to raise total power (e.g. using 3 Force to raise total power by 3), it is still a single weapons segment action (not multiple separate actions of 1 Force each)."
       ],
       "set": "1",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"K'lor'slug (V)"
+      ]
     },
     {
       "counterpart": "N'gok War Beast",
@@ -29977,7 +30080,10 @@
         "This character is female."
       ],
       "set": "1",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Leesub Sirln (V)"
+      ]
     },
     {
       "combo": [
@@ -30096,7 +30202,10 @@
       ],
       "rarity": "PM",
       "set": "102",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Leia (V)"
+      ]
     },
     {
       "cancels": [
@@ -31770,7 +31879,10 @@
         "Uniqueness rules prevent LS Lobot and DS Lobot (same card title) from being on table at the same time."
       ],
       "set": "5",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Lobot (V)"
+      ]
     },
     {
       "front": {
@@ -32314,7 +32426,10 @@
       ],
       "rarity": "R1",
       "set": "1",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Luke Skywalker (V)"
+      ]
     },
     {
       "abbr": [
@@ -32503,7 +32618,10 @@
         "Luke is counted as a character when determining the Dark Side destiny draw required for Always Thinking With Your Stomach. If the draw is successful, Luke cannot be chosen to be missing."
       ],
       "set": "10",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Luke Skywalker, Rebel Scout (V)"
+      ]
     },
     {
       "abbr": [
@@ -34144,7 +34262,10 @@
       ],
       "rarity": "C",
       "set": "7",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Maneuvering Flaps (V)"
+      ]
     },
     {
       "front": {
@@ -34473,7 +34594,11 @@
       ],
       "rarity": "R",
       "set": "12",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Master Qui-Gon (V)",
+	"Master Qui-Gon (V) (AI)"
+      ]
     },
     {
       "front": {
@@ -34645,7 +34770,10 @@
         "This card is not a leader. A common online 'misprint' incorrectly says leader in lore, but physical copies do not."
       ],
       "set": "6",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"The Mythrol"
+      ]
     },
     {
       "front": {
@@ -34889,7 +35017,10 @@
         "This weapon is a blaster."
       ],
       "set": "3",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Captain Yutani With Blaster Cannon"
+      ]
     },
     {
       "combo": [
@@ -37736,7 +37867,11 @@
       ],
       "rarity": "R",
       "set": "11",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Obi-Wan Kenobi, Padawan Learner (V)",
+	"Obi-Wan Kenobi, Padawan Learner (V) (AI)"
+      ]
     },
     {
       "front": {
@@ -38580,7 +38715,11 @@
       ],
       "rarity": "R",
       "set": "6",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Aayla Secura",
+	"Aayla Secura (AI)"
+      ]
     },
     {
       "canceledBy": [
@@ -41473,7 +41612,10 @@
       ],
       "rarity": "PM",
       "set": "10",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Booster In Pulsar Skate"
+      ]
     },
     {
       "combo": [
@@ -41535,7 +41677,10 @@
       ],
       "rarity": "C",
       "set": "5",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Put That Down (V)"
+      ]
     },
     {
       "front": {
@@ -42241,7 +42386,10 @@
       ],
       "rarity": "R2",
       "set": "3",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"R-3PO (Ar-Threepio) (V)"
+      ]
     },
     {
       "front": {
@@ -42878,7 +43026,10 @@
       ],
       "rarity": "R",
       "set": "12",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Obi-Wan in Radiant VII"
+      ]
     },
     {
       "counterpart": "Raithal",
@@ -44028,7 +44179,10 @@
         "This <u>is not</u> the same starship persona as Red Squadron 1, so both could be on table at same time."
       ],
       "set": "1",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Red 1 (V)"
+      ]
     },
     {
       "front": {
@@ -44476,7 +44630,10 @@
       ],
       "rarity": "U",
       "set": "7",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Red 8 (V)"
+      ]
     },
     {
       "counterpart": "Onyx 2 (V)",
@@ -44706,7 +44863,10 @@
         "When deploying to Endor, only Wedge is free, not this starship card."
       ],
       "set": "9",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Wedge In Red Squadron 1"
+      ]
     },
     {
       "combo": [
@@ -46840,7 +47000,10 @@
       ],
       "rarity": "U",
       "set": "7",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Commander Narra"
+      ]
     },
     {
       "canceledBy": [
@@ -47079,7 +47242,10 @@
       ],
       "rarity": "U",
       "set": "12",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Dorme"
+      ]
     },
     {
       "combo": [
@@ -47140,7 +47306,10 @@
       ],
       "rarity": "C2",
       "set": "1",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Sai'torr Kal Fas (V)"
+      ]
     },
     {
       "counterpart": "Blaster Rack (V)",
@@ -47361,7 +47530,10 @@
       ],
       "rarity": "U",
       "set": "6",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"I Don't Like Sand"
+      ]
     },
     {
       "front": {
@@ -49638,7 +49810,10 @@
       ],
       "rarity": "C2",
       "set": "1",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Acclamator-Class Assault Ship"
+      ]
     },
     {
       "abbr": [
@@ -49678,7 +49853,10 @@
         "Surprise may retarget to a different weapon that can fire, but cannot choose a new target to fire at (because no target to fire at has been selected yet)."
       ],
       "set": "2",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"A Good Blaster At Your Side"
+      ]
     },
     {
       "abbr": [
@@ -50343,7 +50521,10 @@
       ],
       "rarity": "U",
       "set": "4",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Starship Levitation (V)"
+      ]
     },
     {
       "counterpart": "TIE Sentry Ships (V)",
@@ -50760,7 +50941,11 @@
       ],
       "rarity": "C",
       "set": "9",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Mon Calamari Dockyards",
+	"Strikeforce (V)"
+      ]
     },
     {
       "counterpart": "Something Special Planned For Them (V)",
@@ -52263,7 +52448,11 @@
       ],
       "rarity": "R2",
       "set": "1",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Coruscant: Night Club",
+	"Coruscant: Night Club (AI)"
+      ]
     },
     {
       "front": {
@@ -54105,7 +54294,10 @@
       ],
       "rarity": "R",
       "set": "4",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Goldenrod"
+      ]
     },
     {
       "front": {
@@ -55363,7 +55555,11 @@
         "Timer Mines are not allowed to use docking bay transit."
       ],
       "set": "1",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Anakin Skywalker, Padawan Learner",
+	"Anakin Skywalker, Padawan Learner (AI)"
+      ]
     },
     {
       "front": {
@@ -58430,7 +58626,10 @@
       ],
       "rarity": "R",
       "set": "8",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Wokling (V)"
+      ]
     },
     {
       "conceptBy": "(Original concept by Eric Hunter - Gen Con Winner 2002)",
@@ -59669,7 +59868,10 @@
         "Also increases any special requirements such as on A Jedi's Strength."
       ],
       "set": "1",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Yavin Sentry (V)"
+      ]
     },
     {
       "cancels": [
@@ -60428,7 +60630,10 @@
       ],
       "rarity": "C",
       "set": "6",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Simple Tricks And Nonsense"
+      ]
     },
     {
       "front": {
@@ -60521,7 +60726,10 @@
       ],
       "rarity": "U",
       "set": "9",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Your Insight Serves You Well (Death Star II) (V)"
+      ]
     },
     {
       "abbr": [
@@ -60566,7 +60774,10 @@
       ],
       "rarity": "PM",
       "set": "13",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Your Insight Serves You Well (V)"
+      ]
     },
     {
       "cancels": [
@@ -60985,7 +61196,10 @@
       ],
       "rarity": "PM",
       "set": "109",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Overseer"
+      ]
     },
     {
       "combo": [
