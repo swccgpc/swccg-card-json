@@ -2332,7 +2332,7 @@
       "set": "12",
       "side": "Dark",
       "underlyingCardFor": [
-	"Alter (Premiere) (V)"
+	"Alter (Coruscant) (V)"
       ]
     },
     {
@@ -2376,7 +2376,10 @@
         "Can be played as a response to the attempted deployment of an Effect or Utinni Effect. If successful, the target has no result."
       ],
       "set": "1",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Alter (Premiere) (V)"
+      ]
     },
     {
       "canceledBy": [

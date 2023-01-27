@@ -2174,7 +2174,10 @@
         "Can be played as a response to the attempted deployment of an Effect or Utinni Effect. If successful, the target has no result."
       ],
       "set": "12",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Alter (Coruscant) (V)"
+      ]
     },
     {
       "canceledBy": [
