@@ -33484,8 +33484,7 @@
       "set": "12",
       "side": "Light",
       "underlyingCardFor": [
-	"Mace Windu (V)",
-	"Mace Windu (V) (AI)"
+	"Mace Windu (V)"
       ]
     },
     {
@@ -33521,7 +33520,10 @@
       ],
       "rarity": "R",
       "set": "12",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Mace Windu (V) (AI)"
+      ]
     },
     {
       "combo": [
@@ -34628,8 +34630,7 @@
       "set": "12",
       "side": "Light",
       "underlyingCardFor": [
-	"Master Qui-Gon (V)",
-	"Master Qui-Gon (V) (AI)"
+	"Master Qui-Gon (V)"
       ]
     },
     {
@@ -34665,7 +34666,10 @@
       ],
       "rarity": "R",
       "set": "12",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Master Qui-Gon (V) (AI)"
+      ]
     },
     {
       "abbr": [
@@ -37910,8 +37914,7 @@
       "set": "11",
       "side": "Light",
       "underlyingCardFor": [
-	"Obi-Wan Kenobi, Padawan Learner (V)",
-	"Obi-Wan Kenobi, Padawan Learner (V) (AI)"
+	"Obi-Wan Kenobi, Padawan Learner (V)"
       ]
     },
     {
@@ -37947,7 +37950,9 @@
       ],
       "rarity": "R",
       "set": "11",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Obi-Wan Kenobi, Padawan Learner (V) (AI)"
     },
     {
       "front": {
