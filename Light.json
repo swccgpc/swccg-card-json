@@ -501,7 +501,10 @@
         "Owner may choose any of these options to take into hand:<ul><li>1 Echo site</li><li>2 Echo sites</li><li>1 Echo Effect</li><li>1 Echo site and 1 Echo Effect</li><li>1 planet system with 2 Light icons</li></ul>"
       ],
       "set": "111",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"A New Secret Base (V)"
+      ]
     },
     {
       "abbr": [
@@ -846,7 +849,11 @@
       ],
       "rarity": "C",
       "set": "9",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Green Leader In Green Squadron 1",
+	"Green Leader In Green Squadron 1 (AI)"
+      ]
     },
     {
       "combo": [
@@ -2167,7 +2174,10 @@
         "Can be played as a response to the attempted deployment of an Effect or Utinni Effect. If successful, the target has no result."
       ],
       "set": "12",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Alter (Coruscant) (V)"
+      ]
     },
     {
       "canceledBy": [
@@ -2912,7 +2922,10 @@
       ],
       "rarity": "U",
       "set": "4",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	 "Anoat (V)"
+      ]
     },
     {
       "combo": [
@@ -3916,7 +3929,10 @@
       ],
       "rarity": "U",
       "set": "14",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Ascension Guns (V)"
+      ]
     },
     {
       "conceptBy": "(Original concept by Pat Johnson)",
@@ -17717,7 +17733,10 @@
         "May not relocate weapons and devices deployed directly upon a starship or vehicle (e.g. Rectenna or Heavy Turbolaser Battery)."
       ],
       "set": "1",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Escape Pod (V)"
+      ]
     },
     {
       "front": {
@@ -23197,7 +23216,10 @@
         "If played against a repeating weapon, all repeated firings (even against another target) are also affected."
       ],
       "set": "1",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Hear Me Baby, Hold Together (V)"
+      ]
     },
     {
       "cancels": [
@@ -27461,7 +27483,10 @@
       ],
       "rarity": "U1",
       "set": "1",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Mace Windu's Lightsaber"
+      ]
     },
     {
       "front": {
@@ -29525,7 +29550,10 @@
       ],
       "rarity": "R",
       "set": "5",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Lando Calrissian (V)"
+      ]
     },
     {
       "cancels": [
@@ -33454,7 +33482,10 @@
       ],
       "rarity": "R",
       "set": "12",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Mace Windu (V)"
+      ]
     },
     {
       "front": {
@@ -33489,7 +33520,10 @@
       ],
       "rarity": "R",
       "set": "12",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Mace Windu (V) (AI)"
+      ]
     },
     {
       "combo": [
@@ -34596,8 +34630,7 @@
       "set": "12",
       "side": "Light",
       "underlyingCardFor": [
-	"Master Qui-Gon (V)",
-	"Master Qui-Gon (V) (AI)"
+	"Master Qui-Gon (V)"
       ]
     },
     {
@@ -34633,7 +34666,10 @@
       ],
       "rarity": "R",
       "set": "12",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Master Qui-Gon (V) (AI)"
+      ]
     },
     {
       "abbr": [
@@ -35102,7 +35138,10 @@
       ],
       "rarity": "R",
       "set": "7",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Melas (V)"
+      ]
     },
     {
       "front": {
@@ -36712,7 +36751,10 @@
       ],
       "rarity": "U",
       "set": "14",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Naboo: Theed Palace Hallway (V)"
+      ]
     },
     {
       "front": {
@@ -37708,7 +37750,10 @@
       ],
       "rarity": "R1",
       "set": "1",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Obi-Wan Kenobi (V)"
+      ]
     },
     {
       "abbr": [
@@ -37869,8 +37914,7 @@
       "set": "11",
       "side": "Light",
       "underlyingCardFor": [
-	"Obi-Wan Kenobi, Padawan Learner (V)",
-	"Obi-Wan Kenobi, Padawan Learner (V) (AI)"
+	"Obi-Wan Kenobi, Padawan Learner (V)"
       ]
     },
     {
@@ -37906,7 +37950,10 @@
       ],
       "rarity": "R",
       "set": "11",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Obi-Wan Kenobi, Padawan Learner (V) (AI)"
+      ]
     },
     {
       "front": {
@@ -40099,7 +40146,10 @@
       ],
       "rarity": "C2",
       "set": "3",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Perimeter Scan (V)"
+      ]
     },
     {
       "cancels": [
@@ -40982,7 +41032,10 @@
         "'Former member of the Imperial Senate' in lore makes her a senator."
       ],
       "set": "5",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Princess Leia (V)"
+      ]
     },
     {
       "front": {
@@ -42559,7 +42612,10 @@
         "If a draw doesn't fit any range, such as Brainiac (3.14), no result."
       ],
       "set": "2",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"R2-D2 (Artoo-Detoo) (V)"
+      ]
     },
     {
       "canceledBy": [
@@ -43803,7 +43859,10 @@
       ],
       "rarity": "PM",
       "set": "104",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Dash in Rogue 12"
+      ]
     },
     {
       "counterpart": "Imperial Squad Leader",
@@ -47166,7 +47225,10 @@
       ],
       "rarity": "U1",
       "set": "2",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Sabotage (V)"
+      ]
     },
     {
       "canceledBy": [
@@ -48055,7 +48117,10 @@
       ],
       "rarity": "U",
       "set": "12",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"We'll Take The Long Way"
+      ]
     },
     {
       "front": {
@@ -48174,7 +48239,10 @@
       ],
       "rarity": "PM",
       "set": "112",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Seeking An Audience (V)"
+      ]
     },
     {
       "counterpart": "Jabba's Haven",
@@ -52064,7 +52132,11 @@
       ],
       "rarity": "R1",
       "set": "2",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Tantive IV (V)",
+	"Tantive IV (V) (AI)"
+      ]
     },
     {
       "front": {
@@ -59184,7 +59256,10 @@
       ],
       "rarity": "U",
       "set": "12",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Yane (V)"
+      ]
     },
     {
       "front": {
