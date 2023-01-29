@@ -3996,7 +3996,10 @@
         "If canceled while character is piloting, character moves to a passenger slot if available, otherwise character is placed in Used Pile."
       ],
       "set": "1",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Baniss Keeg, Pilot Instructor"
+      ]	
     },
     {
       "cancels": [
@@ -9561,7 +9564,10 @@
       ],
       "rarity": "C",
       "set": "5",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Coruscant: Xizor's Palace"
+      ]
     },
     {
       "front": {
@@ -10953,7 +10959,10 @@
       ],
       "rarity": "U",
       "set": "4",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"General Nevar"
+      ]
     },
     {
       "combo": [
@@ -11117,7 +11126,10 @@
       ],
       "rarity": "U",
       "set": "4",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Commander Nemet (V)"
+      ]
     },
     {
       "conceptBy": "(Original concept by UK Community)",
@@ -12234,7 +12246,10 @@
       ],
       "rarity": "C",
       "set": "12",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Coruscant (V)"
+      ]
     },
     {
       "counterpart": "Coruscant",
@@ -13646,6 +13661,7 @@
       "set": "11",
       "side": "Dark",
       "underlyingCardFor": [
+	"Daroe (V)",
 	"R'tic H'weei"
       ]
     },
@@ -14786,7 +14802,10 @@
       ],
       "rarity": "R",
       "set": "7",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Binder"
+      ]
     },
     {
       "abbr": [
@@ -15867,7 +15886,10 @@
       ],
       "rarity": "U2",
       "set": "3",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Deflector Shield Generators (V)"
+      ]
     },
     {
       "front": {
@@ -19779,7 +19801,10 @@
       ],
       "rarity": "C2",
       "set": "2",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Black 6"
+      ]
     },
     {
       "counterpart": "A Vergence In The Force",
@@ -25859,7 +25884,11 @@
       ],
       "rarity": "U",
       "set": "11",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Darth Maul, Lone Hunter",
+	"Darth Maul, Lone Hunter (AI)"
+      ]
     },
     {
       "front": {
@@ -27460,7 +27489,11 @@
       ],
       "rarity": "C2",
       "set": "1",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Agent Kallus",
+	"Agent Kallus (AI)"
+      ]
     },
     {
       "cancels": [
@@ -38552,7 +38585,10 @@
       ],
       "rarity": "R",
       "set": "6",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Ortugg (V)"
+      ]
     },
     {
       "conceptBy": "(Original concept by Phillip Gladney)",
@@ -39701,7 +39737,10 @@
       ],
       "rarity": "R",
       "set": "6",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Pote Snitkin (V)"
+      ]
     },
     {
       "conceptBy": "(Original concept by Clayton Atkin)",
@@ -41084,7 +41123,12 @@
       ],
       "rarity": "C",
       "set": "7",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"General Grievous",
+	"General Grievous (AI)",
+	"General Grievous (Holo AI)"
+      ]
     },
     {
       "counterpart": "Ralltiir",
@@ -41729,7 +41773,10 @@
       ],
       "rarity": "U",
       "set": "6",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Jabba's Trophies"
+      ]
     },
     {
       "counterpart": "Ultimatum - Defensive Shield",
@@ -44091,7 +44138,10 @@
       ],
       "rarity": "F",
       "set": "7",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Falleen's Fist"
+      ]
     },
     {
       "front": {
@@ -48581,7 +48631,10 @@
       ],
       "rarity": "C2",
       "set": "1",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Tatooine (V)"
+      ]
     },
     {
       "counterpart": "Tatooine",
@@ -49837,7 +49890,10 @@
       ],
       "rarity": "R",
       "set": "8",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Tempest Scout 3 (V)"
+      ]
     },
     {
       "conceptBy": "(Original concept by Ryan Jellison)",
@@ -56717,7 +56773,10 @@
       ],
       "rarity": "C2",
       "set": "1",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Xizor's Palace: Uplink Station"
+      ]
     },
     {
       "counterpart": "Yavin 4: Jungle",
@@ -57596,7 +57655,10 @@
       ],
       "rarity": "C",
       "set": "6",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Cad Bane"
+      ]
     },
     {
       "front": {
