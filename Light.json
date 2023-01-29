@@ -4037,7 +4037,10 @@
       ],
       "rarity": "F",
       "set": "7",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"K-2SO (Kay-Tuesso)"
+      ]
     },
     {
       "counterpart": "Asteroid Field",
@@ -5305,7 +5308,10 @@
       ],
       "rarity": "U2",
       "set": "1",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Jyn Erso"
+      ]
     },
     {
       "front": {
@@ -6616,7 +6622,10 @@
       ],
       "rarity": "C",
       "set": "7",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Bodhi Rook"
+      ]
     },
     {
       "front": {
@@ -7455,7 +7464,10 @@
         "Light's vehicle moves for free as long as it is headed in Cal's direction when it starts to move."
       ],
       "set": "3",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Cal Alder (V)"
+      ]
     },
     {
       "counterpart": "Greedo (V)",
@@ -14427,7 +14439,10 @@
       ],
       "rarity": "R",
       "set": "12",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Depa Billaba (V)"
+      ]
     },
     {
       "front": {
@@ -14784,7 +14799,10 @@
       ],
       "rarity": "R2",
       "set": "1",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Dice Ibegon (V)"
+      ]
     },
     {
       "combo": [
@@ -15878,7 +15896,10 @@
       ],
       "rarity": "C",
       "set": "8",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Baze Malbus With Cannon"
+      ]
     },
     {
       "canceledBy": [
@@ -20068,7 +20089,10 @@
         "This text does not increase (or double) the deploy cost or destiny number on Rebel Planners."
       ],
       "set": "1",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Major Caluan Ematt"
+      ]
     },
     {
       "front": {
@@ -21039,7 +21063,10 @@
       ],
       "rarity": "U",
       "set": "7",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Ghost"
+      ]
     },
     {
       "front": {
@@ -21325,7 +21352,10 @@
         "This <u>is not</u> the same starship persona as Gold 1, so both could be on table at same time."
       ],
       "set": "9",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"The Falcon"
+      ]
     },
     {
       "front": {
@@ -21805,7 +21835,11 @@
         "For example, if LS Force drains at the DS site Cloud City: Interrogation Room, the +1 bonus in the site's game text is not canceled because it is a LS Force drain."
       ],
       "set": "4",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Chirrut Imwe",
+	"Chirrut Imwe (AI)"
+      ]
     },
     {
       "front": {
@@ -23117,7 +23151,10 @@
       ],
       "rarity": "R",
       "set": "5",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Rebellions Are Built On Hope"
+      ]
     },
     {
       "cancels": [
@@ -23373,7 +23410,10 @@
       ],
       "rarity": "R1",
       "set": "1",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Help Me Obi-Wan Kenobi (V)"
+      ]
     },
     {
       "front": {
@@ -25625,7 +25665,10 @@
       ],
       "rarity": "R",
       "set": "7",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"What Chance Do We Have?"
+      ]
     },
     {
       "front": {
@@ -25923,7 +25966,10 @@
       ],
       "rarity": "C2",
       "set": "3",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Sabine Wren"
+      ]
     },
     {
       "front": {
@@ -26311,7 +26357,10 @@
       ],
       "rarity": "C2",
       "set": "1",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"I Think I Can Handle Myself"
+      ]
     },
     {
       "abbr": [
@@ -29030,7 +29079,10 @@
       ],
       "rarity": "U",
       "set": "9",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Kin Kian (V)"
+      ]
     },
     {
       "front": {
@@ -29180,7 +29232,7 @@
       "side": "Light",
       "underlyingCardFor": [
 	"Captain Hera Syndulla",
-	"Captain Hera Syndulla (AI (AI))"
+	"Captain Hera Syndulla (AI)"
       ]
     },
     {
@@ -30408,8 +30460,8 @@
       "set": "5",
       "side": "Light",
       "underlyingCardFor": [
-	"Leia Of Alderaan (V)",
-	"City In The Clouds / You Truly Belong Here With Us"
+	"City In The Clouds / You Truly Belong Here With Us",
+	"Leia Of Alderaan (V)"
       ]
     },
     {
@@ -33266,7 +33318,10 @@
       ],
       "rarity": "U1",
       "set": "2",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Luke's Hunting Rifle (V)"
+      ]
     },
     {
       "front": {
@@ -34114,7 +34169,10 @@
       ],
       "rarity": "U",
       "set": "9",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Major Taslin Brance"
+      ]
     },
     {
       "front": {
@@ -35220,7 +35278,11 @@
       ],
       "rarity": "U2",
       "set": "3",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Rogue One",
+	"Rogue One (AI)"
+      ]
     },
     {
       "front": {
@@ -36224,7 +36286,10 @@
       ],
       "rarity": "C",
       "set": "4",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"This Is MY Ship!"
+      ]
     },
     {
       "front": {
@@ -37168,7 +37233,7 @@
         "Jawa",
         "Jawa (EP1)",
         "Kashyyyk Operative",
-        "iffex Operative",
+        "Kiffex Operative",
         "Kirdo III Operative",
         "Kitonak",
         "Klatooinian Revolutionary",
@@ -37369,7 +37434,11 @@
         "X-wing Laser Cannon may <u>not</u> deploy on Nebulon-B Frigate."
       ],
       "set": "9",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Profundity",
+	"Profundity (AI)"
+      ]
     },
     {
       "front": {
@@ -43645,7 +43714,10 @@
       ],
       "rarity": "C2",
       "set": "2",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Captain Cassian Andor"
+      ]
     },
     {
       "counterpart": "Dreaded Imperial Starfleet",
@@ -45399,7 +45471,10 @@
       ],
       "rarity": "R",
       "set": "4",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"General Leia Organa"
+      ]
     },
     {
       "front": {
@@ -52808,6 +52883,7 @@
       "set": "6",
       "side": "Light",
       "underlyingCardFor": [
+	"Jakku: Docking Bay",
 	"Jakku: Ravager Crash Site"
       ]
     },
@@ -55162,7 +55238,10 @@
       ],
       "rarity": "C",
       "set": "7",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"They're Tracking Us (V)"
+      ]
     },
     {
       "cancels": [
@@ -60286,7 +60365,10 @@
       ],
       "rarity": "R",
       "set": "4",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Yoda (V)"
+      ]
     },
     {
       "front": {
