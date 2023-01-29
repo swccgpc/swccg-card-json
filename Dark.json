@@ -2605,7 +2605,11 @@
       ],
       "rarity": "C",
       "set": "6",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Asajj Ventress With Lightsabers",
+	"Asajj Ventress With Lightsabers (AI)"
+      ]
     },
     {
       "front": {
@@ -6945,7 +6949,10 @@
       ],
       "rarity": "R",
       "set": "5",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Boba Fett's Blaster Rifle (V)"
+      ]
     },
     {
       "canceledBy": [
@@ -7938,7 +7945,10 @@
       ],
       "rarity": "R",
       "set": "5",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Captain Bewil (V)"
+      ]
     },
     {
       "front": {
@@ -8586,7 +8596,10 @@
       "pulledBy": [],
       "rarity": "U",
       "set": "9",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"General Hux"
+      ]
     },
     {
       "abbr": [
@@ -8871,7 +8884,11 @@
         "Can only target Leia if she is a Rebel with ability > 2."
       ],
       "set": "1",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Captain Phasma",
+	"Captain Phasma (AI)"
+      ]
     },
     {
       "front": {
@@ -10125,7 +10142,10 @@
       ],
       "rarity": "C2",
       "set": "1",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Force Freeze"
+      ]
     },
     {
       "abbr": [
@@ -11817,7 +11837,10 @@
       ],
       "rarity": "U",
       "set": "8",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"FN-2003"
+      ]
     },
     {
       "front": {
@@ -14522,7 +14545,10 @@
         "If game text is canceled, the asterisk is treated as an unmodifiable zero."
       ],
       "set": "1",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Dathcha (V)"
+      ]
     },
     {
       "front": {
@@ -15694,7 +15720,10 @@
       ],
       "rarity": "R2",
       "set": "3",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Bow To The First Order"
+      ]
     },
     {
       "front": {
@@ -16002,7 +16031,10 @@
       ],
       "rarity": "R",
       "set": "4",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Dengar (V)"
+      ]
     },
     {
       "combo": [
@@ -19124,7 +19156,10 @@
       ],
       "rarity": "U",
       "set": "9",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Emperor Palpatine, Foreseer"
+      ]
     },
     {
       "canceledBy": [
@@ -20311,7 +20346,11 @@
       ],
       "rarity": "R",
       "set": "4",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Finalizer",
+	"Finalizer (AI)"
+      ]
     },
     {
       "front": {
@@ -22353,7 +22392,10 @@
         "The phrase 'movement is blocked' means the cards cannot move."
       ],
       "set": "1",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Stormtrooper Patrol"
+      ]
     },
     {
       "canceledBy": [
@@ -23711,7 +23753,10 @@
       ],
       "rarity": "R1",
       "set": "2",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Greedo (V)"
+      ]
     },
     {
       "counterpart": "Cal Alder (V)",
@@ -23898,7 +23943,10 @@
       ],
       "rarity": "R2",
       "set": "1",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Kylo Ren's Lightsaber"
+      ]
     },
     {
       "front": {
@@ -25047,7 +25095,10 @@
       ],
       "rarity": "R",
       "set": "7",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Hunting Party (V)"
+      ]
     },
     {
       "combo": [
@@ -25299,7 +25350,10 @@
       ],
       "rarity": "R",
       "set": "5",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"I Am Your Father (V)"
+      ]
     },
     {
       "counterpart": "Like My Father Before Me",
@@ -26739,7 +26793,10 @@
       ],
       "rarity": "C2",
       "set": "1",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"F-11D Blaster Rifle"
+      ]
     },
     {
       "cancels": [
@@ -29098,7 +29155,10 @@
         "May deploy Passenger Deck even though Jabba's Sail Barge is unpiloted."
       ],
       "set": "6",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Jabba's Sail Barge (V)"
+      ]
     },
     {
       "front": {
@@ -31437,7 +31497,10 @@
       ],
       "rarity": "C",
       "set": "8",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Kylo Ren's Command Shuttle"
+      ]
     },
     {
       "counterpart": "Odin Nesloor",
@@ -32516,7 +32579,11 @@
         "Lift Tubes are never considered unpiloted."
       ],
       "set": "1",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"B2 Battle Droid",
+	"B2 Battle Droid (AI)"
+      ]
     },
     {
       "canceledBy": [
@@ -38954,7 +39021,10 @@
       ],
       "rarity": "R",
       "set": "9",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Overseeing It Personally (V)"
+      ]
     },
     {
       "canceledBy": [
@@ -39517,7 +39587,10 @@
       ],
       "rarity": "R",
       "set": "5",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Point Man (V)"
+      ]
     },
     {
       "cancels": [
@@ -42104,7 +42177,10 @@
       ],
       "rarity": "C2",
       "set": "2",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Zam Wesell"
+      ]
     },
     {
       "canceledBy": [
@@ -42732,7 +42808,10 @@
       ],
       "rarity": "F",
       "set": "7",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"A Trophy Sacrificed"
+      ]
     },
     {
       "front": {
@@ -43195,7 +43274,10 @@
       ],
       "rarity": "U",
       "set": "9",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Captain Jonus in Scimitar 2"
+      ]
     },
     {
       "front": {
@@ -45209,7 +45291,10 @@
       ],
       "rarity": "R",
       "set": "9",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Sim Aloo (V)"
+      ]
     },
     {
       "front": {
@@ -47233,7 +47318,10 @@
       ],
       "rarity": "C3",
       "set": "1",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"First Order Stormtrooper"
+      ]
     },
     {
       "counterpart": "Echo Trooper Backpack",
@@ -47565,7 +47653,11 @@
       ],
       "rarity": "C",
       "set": "9",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Jakku",
+	"Jakku (AI)"
+      ]
     },
     {
       "canceledBy": [
@@ -47594,7 +47686,10 @@
       ],
       "rarity": "U1",
       "set": "1",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Twin Suns Of Tatooine / Well Trained In The Jedi Arts"
+      ]
     },
     {
       "canceledBy": [
@@ -48388,7 +48483,10 @@
       ],
       "rarity": "PM",
       "set": "102",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Tarkin (V)"
+      ]
     },
     {
       "front": {
@@ -49020,7 +49118,10 @@
       ],
       "rarity": "C1",
       "set": "1",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Jakku: Landing Site"
+      ]
     },
     {
       "counterpart": "Tatooine: Jawa Canyon",
@@ -49154,7 +49255,10 @@
       ],
       "rarity": "U2",
       "set": "1",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Jakku: Tuanul Village"
+      ]
     },
     {
       "counterpart": "Tatooine: Marketplace",
@@ -50427,7 +50531,10 @@
       ],
       "rarity": "R",
       "set": "5",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Luke Skywalker, The Emperor's Prize"
+      ]
     },
     {
       "front": {
@@ -54069,7 +54176,10 @@
         "Vader cannot duel a captive Luke (such as a Luke that's been captured via Bring Him Before Me or There Is Good In Him)."
       ],
       "set": "101",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Kylo Ren"
+      ]
     },
     {
       "front": {
@@ -54388,7 +54498,10 @@
       ],
       "rarity": "R",
       "set": "6",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Velken Tezeri (V)"
+      ]
     },
     {
       "front": {
@@ -55725,7 +55838,10 @@
       ],
       "rarity": "C",
       "set": "6",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Hondo Ohnaka"
+      ]
     },
     {
       "front": {
