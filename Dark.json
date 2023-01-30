@@ -2705,7 +2705,10 @@
         "Starships using the 'react' text may only move between Anoat and the nearest related asteroid sector (in either direction)."
       ],
       "set": "4",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"D'Qar"
+      ]
     },
     {
       "counterpart": "Anoat Operative",
@@ -6409,7 +6412,10 @@
         "If Blockade Flagship is 'blown away' (see Bravo Fighter), this site and all cards here are lost, and Blockade Flagship sites cannot be deployed for remainder of game."
       ],
       "set": "14",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Invisible Hand: Docking Bay"
+      ]
     },
     {
       "front": {
@@ -6445,7 +6451,10 @@
       ],
       "rarity": "PM",
       "set": "13",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Invisible Hand: Hallway 328"
+      ]
     },
     {
       "abbr": [
@@ -7929,7 +7938,10 @@
         "If deployed on a non-shielded location (e.g. Hoth: Defensive Perimeter) and then that location becomes shielded later, Cane Adiss remains there and will allow cards to deploy there regardless of the shield."
       ],
       "set": "6",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Lady Proxima"
+      ]
     },
     {
       "front": {
@@ -8266,7 +8278,10 @@
       ],
       "rarity": "U1",
       "set": "2",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Captain Khurgee (V)"
+      ]
     },
     {
       "combo": [
@@ -8737,7 +8752,10 @@
       ],
       "rarity": "U",
       "set": "5",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Carbonite Chamber Console (V)"
+      ]
     },
     {
       "front": {
@@ -9579,7 +9597,10 @@
       ],
       "rarity": "U",
       "set": "7",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Coruscant: 500 Republica"
+      ]
     },
     {
       "counterpart": "Cloud City: Chasm Walkway",
@@ -9719,7 +9740,10 @@
       ],
       "rarity": "C",
       "set": "5",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Coruscant: Private Platform (Docking Bay)"
+      ]
     },
     {
       "counterpart": "Cloud City: Incinerator",
@@ -13099,7 +13123,10 @@
       ],
       "rarity": "C",
       "set": "6",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"IG MagnaGuard"
+      ]
     },
     {
       "counterpart": "Dagobah",
@@ -13483,7 +13510,10 @@
       ],
       "rarity": "U1",
       "set": "1",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Dark Jedi Lightsaber (V)"
+      ]
     },
     {
       "front": {
@@ -17919,7 +17949,10 @@
       ],
       "rarity": "PM",
       "set": "106",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Invisible Hand"
+      ]
     },
     {
       "front": {
@@ -18345,7 +18378,10 @@
       ],
       "rarity": "U1",
       "set": "1",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Lt. Poldin Lehuse"
+      ]
     },
     {
       "front": {
@@ -18710,7 +18746,10 @@
         "This weapon is a blaster."
       ],
       "set": "3",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Sergeant Narthax With E-web Blaster"
+      ]
     },
     {
       "canceledBy": [
@@ -19238,7 +19277,8 @@
       "set": "9",
       "side": "Dark",
       "underlyingCardFor": [
-	"Emperor Palpatine, Foreseer"
+	"Emperor Palpatine, Foreseer",
+	"Insidious Prisoner"
       ]
     },
     {
@@ -20504,7 +20544,10 @@
       ],
       "rarity": "U",
       "set": "4",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Invisible Hand: Bridge"
+      ]
     },
     {
       "front": {
@@ -20618,7 +20661,10 @@
       ],
       "rarity": "C",
       "set": "4",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Invisible Hand: Observatory Entrance"
+      ]
     },
     {
       "front": {
@@ -23550,7 +23596,8 @@
       "side": "Dark",
       "underlyingCardFor": [
 	"Grand Admiral Thrawn (V)",
-	"Grand Admiral Thrawn (V) (AI)"
+	"Grand Admiral Thrawn (V) (AI)",
+	"Mitth'raw'nuruodo"
       ]
     },
     {
@@ -24345,7 +24392,10 @@
       ],
       "rarity": "R",
       "set": "5",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"He's All Yours, Bounty Hunter (V)"
+      ]
     },
     {
       "front": {
@@ -28230,7 +28280,10 @@
         "As an exception, Naboo is considered a battleground during the 'start of game' when being checked by cards such as Careful Planning (V)."
       ],
       "set": "14",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"A Stunning Move / A Valuable Hostage"
+      ]
     },
     {
       "front": {
@@ -40309,7 +40362,10 @@
       ],
       "rarity": "C",
       "set": "7",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Pride Of The Empire (V)"
+      ]
     },
     {
       "front": {
@@ -40941,7 +40997,10 @@
         "If player searched Reserve Deck and can't complete the action, only Reserve Deck is verified.  A judge may be called to check the hand for any unique aliens."
       ],
       "set": "11",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Quietly Observing (V)"
+      ]
     },
     {
       "front": {
@@ -41694,7 +41753,10 @@
       ],
       "rarity": "R",
       "set": "6",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Ree-Yees (V)"
+      ]
     },
     {
       "front": {
@@ -43846,7 +43908,10 @@
       ],
       "rarity": "R",
       "set": "11",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Sebulba (V)"
+      ]
     },
     {
       "front": {
@@ -43878,7 +43943,10 @@
       ],
       "rarity": "R",
       "set": "11",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Sebulba (V) (AI)"
+      ]
     },
     {
       "front": {
@@ -51361,6 +51429,7 @@
       "set": "12",
       "side": "Dark",
       "underlyingCardFor": [
+	"Always Two There Are",
 	"They Will Be No Match For You (V)"
       ]
     },
@@ -52785,7 +52854,10 @@
       ],
       "rarity": "U",
       "set": "14",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Trade Federation Tactics (V)"
+      ]
     },
     {
       "front": {
@@ -53400,7 +53472,8 @@
       "set": "6",
       "side": "Dark",
       "underlyingCardFor": [
-	"The Grand Inquisitor"
+	"The Grand Inquisitor",
+	"Twi'lek Advisor (V)"
       ]
     },
     {
@@ -54100,7 +54173,10 @@
       ],
       "rarity": "C",
       "set": "11",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Vader's Anger (V)"
+      ]
     },
     {
       "abbr": [
@@ -54814,7 +54890,10 @@
       ],
       "rarity": "R",
       "set": "7",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Vengeance (V)"
+      ]
     },
     {
       "front": {
