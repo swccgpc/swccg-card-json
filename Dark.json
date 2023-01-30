@@ -1591,7 +1591,10 @@
       ],
       "rarity": "R1",
       "set": "3",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Admiral Ozzel (V)"
+      ]
     },
     {
       "combo": [
@@ -1903,7 +1906,10 @@
       ],
       "rarity": "R",
       "set": "5",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"I Never Ask For Anything Twice"
+      ]
     },
     {
       "front": {
@@ -3653,7 +3659,10 @@
         "Stolen lightsabers cannot be transferred to Aurra (unless they are actually capable of deploying on her)."
       ],
       "set": "11",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Aurra Sing With Blaster Rifle"
+      ]
     },
     {
       "front": {
@@ -3693,7 +3702,10 @@
       ],
       "rarity": "R",
       "set": "11",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Aurra Sing With Blaster Rifle (AI)"
+      ]
     },
     {
       "front": {
@@ -4825,7 +4837,11 @@
       ],
       "rarity": "C2",
       "set": "2",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Admiral Trench",
+	"Admiral Trench (AI)"
+      ]
     },
     {
       "combo": [
@@ -4897,7 +4913,10 @@
       ],
       "rarity": "R",
       "set": "6",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Margo"
+      ]
     },
     {
       "front": {
@@ -10208,7 +10227,8 @@
       "set": "1",
       "side": "Dark",
       "underlyingCardFor": [
-	"Force Freeze"
+	"Force Freeze",
+	"Moff Gideon"
       ]
     },
     {
@@ -13477,7 +13497,10 @@
         "A character affected by multiple copies of Dark Hours remains asleep until all copies leave table."
       ],
       "set": "1",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Dathomir: Maul's Chambers"
+      ]
     },
     {
       "counterpart": "Jedi Lightsaber",
@@ -16078,7 +16101,10 @@
       ],
       "rarity": "U",
       "set": "6",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"First Light: Reception Area"
+      ]
     },
     {
       "combo": [
@@ -17099,7 +17125,10 @@
       ],
       "rarity": "F",
       "set": "7",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Black Sun Blaster"
+      ]
     },
     {
       "combo": [
@@ -20546,6 +20575,7 @@
       "set": "4",
       "side": "Dark",
       "underlyingCardFor": [
+	"Executor: Control Station (V)",
 	"Invisible Hand: Bridge"
       ]
     },
@@ -20863,7 +20893,10 @@
       ],
       "rarity": "R",
       "set": "4",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Failure At The Cave (V)"
+      ]
     },
     {
       "front": {
@@ -21141,6 +21174,7 @@
       "set": "4",
       "side": "Dark",
       "underlyingCardFor": [
+	"Far More Frightening Than Death",
 	"Xizor's Bounty"
       ]
     },
@@ -21177,7 +21211,10 @@
       ],
       "rarity": "PM",
       "set": "13",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Evil Is Everywhere"
+      ]
     },
     {
       "abbr": [
@@ -22820,7 +22857,10 @@
       ],
       "rarity": "C",
       "set": "6",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Hylobon Enforcer"
+      ]
     },
     {
       "front": {
@@ -24632,7 +24672,10 @@
       ],
       "rarity": "U",
       "set": "4",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Working Much More Closely"
+      ]
     },
     {
       "cancels": [
@@ -25228,7 +25271,10 @@
         "Dark does not lose 2 Force to deploy Visage Of The Emperor when this Objective is on the 7 side."
       ],
       "set": "7",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Hunt Down And Destroy The Jedi / Their Fire Has Gone Out Of The Universe (V)"
+      ]
     },
     {
       "combo": [
@@ -26683,7 +26729,8 @@
       "set": "4",
       "side": "Dark",
       "underlyingCardFor": [
-	"Imbalance & Kintan Strider"
+	"Imbalance & Kintan Strider",
+	"Maul"
       ]
     },
     {
@@ -26989,7 +27036,10 @@
       ],
       "rarity": "C2",
       "set": "1",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Imperial Code Cylinder (V)"
+      ]
     },
     {
       "counterpart": "Rebel Leadership (V)",
@@ -28075,7 +28125,10 @@
       ],
       "rarity": "U",
       "set": "6",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"A Lawless Time"
+      ]
     },
     {
       "front": {
@@ -29044,7 +29097,10 @@
       ],
       "rarity": "U",
       "set": "6",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Malachor: Sith Temple Upper Chamber"
+      ]
     },
     {
       "canceledBy": [
@@ -29157,7 +29213,10 @@
       ],
       "rarity": "U",
       "set": "6",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Malachor: Sith Temple Entrance"
+      ]
     },
     {
       "canceledBy": [
@@ -30651,7 +30710,10 @@
       ],
       "rarity": "C2",
       "set": "1",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Shadow Collective / You Know Who I Answer To"
+      ]
     },
     {
       "counterpart": "Kiffex",
@@ -30791,7 +30853,10 @@
       ],
       "rarity": "C1",
       "set": "1",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Dryden Vos"
+      ]
     },
     {
       "front": {
@@ -35574,7 +35639,10 @@
       ],
       "rarity": "C",
       "set": "6",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Crimson Dawn Blaster"
+      ]
     },
     {
       "combo": [
@@ -37935,7 +38003,10 @@
       ],
       "rarity": "R",
       "set": "5",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Seventh Sister"
+      ]
     },
     {
       "front": {
@@ -37975,7 +38046,10 @@
       ],
       "rarity": "R",
       "set": "5",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Eighth Brother"
+      ]
     },
     {
       "front": {
@@ -38868,6 +38942,7 @@
       "set": "6",
       "side": "Dark",
       "underlyingCardFor": [
+	"Aemon Gremm With Percussive Cannon",
 	"Ortugg (V)"
       ]
     },
@@ -40136,7 +40211,10 @@
       ],
       "rarity": "C2",
       "set": "1",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Darth Tyranus"
+      ]
     },
     {
       "counterpart": "Crack Shot",
@@ -40364,6 +40442,7 @@
       "set": "7",
       "side": "Dark",
       "underlyingCardFor": [
+	"Allegiant General Pryde",
 	"Pride Of The Empire (V)"
       ]
     },
@@ -40571,6 +40650,7 @@
       "set": "3",
       "side": "Dark",
       "underlyingCardFor": [
+	"ID9 Probe Droid",
 	"Probot"
       ]
     },
@@ -41249,7 +41329,10 @@
       ],
       "rarity": "C2",
       "set": "1",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Ninth Sister"
+      ]
     },
     {
       "counterpart": "R5-D4 (Arfive-Defour)",
@@ -41286,7 +41369,10 @@
       ],
       "rarity": "C2",
       "set": "2",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Fifth Brother"
+      ]
     },
     {
       "front": {
@@ -41887,7 +41973,10 @@
       ],
       "rarity": "C",
       "set": "7",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"There Are Many Hunting You Now"
+      ]
     },
     {
       "front": {
@@ -42453,7 +42542,10 @@
       ],
       "rarity": "C",
       "set": "4",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Planetary Rings"
+      ]
     },
     {
       "front": {
@@ -46065,7 +46157,10 @@
         "The phrase 'on Cloud City' means at a Cloud City site, not the Bespin: Cloud City sector."
       ],
       "set": "5",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Slip Sliding Away (V)"
+      ]
     },
     {
       "counterpart": "Take The Initiative",
@@ -46622,6 +46717,7 @@
       "set": "7",
       "side": "Dark",
       "underlyingCardFor": [
+	"First Light: Dryden's Study",
 	"Jedha: Jedha City",
 	"Jedha: Jedha City (AI)"
       ]
@@ -49140,7 +49236,10 @@
       ],
       "rarity": "R2",
       "set": "1",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"First Light: Bar"
+      ]
     },
     {
       "counterpart": "Tatooine: Desert",
@@ -55264,7 +55363,8 @@
       "set": "4",
       "side": "Dark",
       "underlyingCardFor": [
-	"Shadows Of The Empire"
+	"Shadows Of The Empire",
+	"Visage Of The Emperor (V)"
       ]
     },
     {
@@ -55430,7 +55530,10 @@
       ],
       "rarity": "U",
       "set": "7",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+	"Wakeelmui (V)"
+      ]
     },
     {
       "front": {
@@ -57400,6 +57503,7 @@
       "set": "9",
       "side": "Dark",
       "underlyingCardFor": [
+	"I've Been Searching For You For Some Time",
 	"You Cannot Hide Forever (Death Star II) (V)"
       ]
     },

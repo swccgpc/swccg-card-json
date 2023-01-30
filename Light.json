@@ -2560,7 +2560,10 @@
         "Only works if Luke is about to go to Lost Pile, not if Luke is about to go out of play."
       ],
       "set": "9",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Anakin Skywalker (V)"
+      ]
     },
     {
       "front": {
@@ -3930,7 +3933,10 @@
       ],
       "rarity": "C",
       "set": "5",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Tobias Beckett"
+      ]
     },
     {
       "front": {
@@ -8737,7 +8743,10 @@
       ],
       "rarity": "R2",
       "set": "2",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Chewbacca (V)"
+      ]
     },
     {
       "front": {
@@ -9885,7 +9894,10 @@
         "The phrase 'on Cloud City' means at a Cloud City site, not the Bespin: Cloud City sector."
       ],
       "set": "5",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Captain Lando Calrissian"
+      ]
     },
     {
       "counterpart": "Cloud City Engineer",
@@ -10082,7 +10094,10 @@
       ],
       "rarity": "C",
       "set": "5",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Death Star II: Chasm Walkway"
+      ]
     },
     {
       "front": {
@@ -11512,7 +11527,10 @@
         "Can be played as a response to the completed deployment of an Immediate or Mobile Effect, after it has any automatic results."
       ],
       "set": "12",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Qui-Gon Jinn, Serene Jedi"
+      ]
     },
     {
       "cancels": [
@@ -11643,7 +11661,10 @@
       ],
       "rarity": "R1",
       "set": "2",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Corellia (V)"
+      ]
     },
     {
       "front": {
@@ -16655,7 +16676,10 @@
         "Does not double attrition."
       ],
       "set": "3",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Rio Durant"
+      ]
     },
     {
       "canceledBy": [
@@ -22999,7 +23023,10 @@
         "Both functions of this Interrupt are top level actions."
       ],
       "set": "1",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"I've Got A Really Good Feeling About This"
+      ]
     },
     {
       "front": {
@@ -23021,7 +23048,10 @@
       ],
       "rarity": "C2",
       "set": "1",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Han's Dice (V)"
+      ]
     },
     {
       "front": {
@@ -28994,7 +29024,10 @@
       ],
       "rarity": "U2",
       "set": "1",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Kessel (V)"
+      ]
     },
     {
       "canceledBy": [
@@ -29034,7 +29067,10 @@
         "When the smuggler returns to the first system to make this card lost by its own game text, this Kessel Run is 'completed' (e.g. for purposes of Captain Lando Calrissian, Leebo, etc)."
       ],
       "set": "1",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Kessel Run (V)"
+      ]
     },
     {
       "front": {
@@ -29726,7 +29762,10 @@
       ],
       "rarity": "R1",
       "set": "1",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Qi'ra"
+      ]
     },
     {
       "front": {
@@ -33745,7 +33784,10 @@
       ],
       "rarity": "U",
       "set": "9",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Leia's Resistance Transport"
+      ]
     },
     {
       "front": {
@@ -35328,7 +35370,10 @@
       ],
       "rarity": "R",
       "set": "7",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Meditation (V)"
+      ]
     },
     {
       "front": {
@@ -37975,7 +38020,10 @@
         "On rare occasions, when this Interrupt attempts to place a character out of the play, another action may cause the character to instead end up at a different location, or returned to hand, or to a stack or pile. In such cases, this Interrupt simply fails and is placed in the Lost Pile."
       ],
       "set": "1",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Val"
+      ]
     },
     {
       "canceledBy": [
@@ -47510,7 +47558,10 @@
       ],
       "rarity": "U1",
       "set": "1",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"He's The Best Smuggler Around"
+      ]
     },
     {
       "front": {
@@ -50225,7 +50276,10 @@
       ],
       "rarity": "R2",
       "set": "1",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Han... Solo"
+      ]
     },
     {
       "front": {
@@ -50861,7 +50915,10 @@
         "If the Han/Chewie/Lando pilot(s) are forfeited first, the starship is no longer forfeit +2 when it is forfeited afterwards (as such, the forfeit +2 text is rarely utilized except via permanent pilots)."
       ],
       "set": "1",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"L3-37 (Elthree-Threeseven)"
+      ]
     },
     {
       "counterpart": "Speeder Bike",
@@ -51408,7 +51465,10 @@
       ],
       "rarity": "R",
       "set": "4",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Rock"
+      ]
     },
     {
       "combo": [
@@ -57986,7 +58046,10 @@
       ],
       "rarity": "U",
       "set": "6",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Savareen Standoff"
+      ]
     },
     {
       "front": {
@@ -60885,7 +60948,10 @@
         "If a card has multiple sources of immunity to attrition (such as their own game text in addition to Yoda, MOTF), the highest immunity is used."
       ],
       "set": "13",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Yoda, Master Of The Force (V)"
+      ]
     },
     {
       "combo": [
@@ -61264,7 +61330,10 @@
       ],
       "rarity": "R1",
       "set": "3",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Clumsy And Stupid"
+      ]
     },
     {
       "abbr": [
