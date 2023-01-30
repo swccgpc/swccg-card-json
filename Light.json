@@ -816,7 +816,10 @@
       ],
       "rarity": "C",
       "set": "9",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Tallie Lintra In Blue 1"
+      ]
     },
     {
       "front": {
@@ -3025,7 +3028,10 @@
       ],
       "rarity": "C",
       "set": "7",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Ahsoka Tano"
+      ]
     },
     {
       "front": {
@@ -3192,7 +3198,10 @@
       ],
       "rarity": "C",
       "set": "9",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Kamino"
+      ]
     },
     {
       "combo": [
@@ -5157,7 +5166,8 @@
       "set": "5",
       "side": "Light",
       "underlyingCardFor": [
-	"Beldon's Eye (V)"
+	"Beldon's Eye (V)",
+	"Beldon's Eye & All My Urchins"
       ]
     },
     {
@@ -10466,7 +10476,8 @@
       "set": "1",
       "side": "Light",
       "underlyingCardFor": [
-	"Graveyard Of Giants"
+	"Graveyard Of Giants",
+	"Vice Admiral Holdo"
       ]
     },
     {
@@ -11111,7 +11122,10 @@
       ],
       "rarity": "U2",
       "set": "2",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Commander Vanden Willard (V)"
+      ]
     },
     {
       "front": {
@@ -13127,7 +13141,10 @@
         "If stolen, place the previous owner's cards underneath in the owner's Used Pile."
       ],
       "set": "5",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Cyborg Construct (V)"
+      ]
     },
     {
       "front": {
@@ -13265,7 +13282,10 @@
       ],
       "rarity": "U",
       "set": "4",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Ahch-To"
+      ]
     },
     {
       "front": {
@@ -13303,7 +13323,10 @@
         "Unpiloted starfighters may deploy here simultaneously with a pilot character only if that character was already permitted to deploy to Dagobah."
       ],
       "set": "4",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Ahch-To: Jedi Temple"
+      ]
     },
     {
       "front": {
@@ -13336,7 +13359,10 @@
       ],
       "rarity": "U",
       "set": "4",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Ahch-To: Luke's Hut"
+      ]
     },
     {
       "front": {
@@ -13369,7 +13395,10 @@
       ],
       "rarity": "U",
       "set": "4",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Ahch-To: Jedi Village"
+      ]
     },
     {
       "front": {
@@ -13411,7 +13440,10 @@
       ],
       "rarity": "C",
       "set": "4",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Ahch-To: Cliffs"
+      ]
     },
     {
       "front": {
@@ -14111,7 +14143,10 @@
       ],
       "rarity": "U2",
       "set": "1",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Kamino: Clone Training Center"
+      ]
     },
     {
       "counterpart": "Death Star: Detention Block Corridor",
@@ -14186,7 +14221,10 @@
       ],
       "rarity": "C2",
       "set": "1",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Kamino: Clone Birthing Center"
+      ]
     },
     {
       "front": {
@@ -16750,7 +16788,10 @@
       ],
       "rarity": "C2",
       "set": "1",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Maz Kanata"
+      ]
     },
     {
       "front": {
@@ -18958,7 +18999,10 @@
       ],
       "rarity": "C",
       "set": "8",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Make Ten Men Feel Like A Hundred"
+      ]
     },
     {
       "front": {
@@ -19430,7 +19474,10 @@
       ],
       "rarity": "U",
       "set": "8",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Libertine"
+      ]
     },
     {
       "cancels": [
@@ -26861,7 +26908,10 @@
       ],
       "rarity": "PM",
       "set": "112",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Maz's Castle: Antechamber"
+      ]
     },
     {
       "cancels": [
@@ -26934,7 +26984,10 @@
       ],
       "rarity": "U",
       "set": "6",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Maz's Castle: Hidden Recess"
+      ]
     },
     {
       "back": {
@@ -27722,6 +27775,7 @@
       "set": "1",
       "side": "Light",
       "underlyingCardFor": [
+	"Jedi Lightsaber (V)",
 	"Mace Windu's Lightsaber"
       ]
     },
@@ -35754,7 +35808,10 @@
         "The 'deploy -2' text only applies when using this objective to deploy Yoda from Reserve Deck."
       ],
       "set": "7",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"The Galaxy May Need A Legend / We Need Luke Skywalker"
+      ]
     },
     {
       "counterpart": "Neimoidian Advisor",
@@ -41780,7 +41837,10 @@
       ],
       "rarity": "U",
       "set": "6",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Force Projection"
+      ]
     },
     {
       "front": {
@@ -43537,7 +43597,10 @@
       ],
       "rarity": "C1",
       "set": "2",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Takodana"
+      ]
     },
     {
       "combo": [
@@ -44127,7 +44190,10 @@
         "Two copies of this card piloting the same starship only increases the starship's power by 2, not 4."
       ],
       "set": "1",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Puck"
+      ]
     },
     {
       "canceledBy": [
@@ -44184,7 +44250,10 @@
       ],
       "rarity": "C1",
       "set": "1",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Rebel Trooper Reinforcements"
+      ]
     },
     {
       "front": {
@@ -44645,7 +44714,8 @@
       "set": "1",
       "side": "Light",
       "underlyingCardFor": [
-	"Red 1 (V)"
+	"Red 1 (V)",
+	"Red 12"
       ]
     },
     {
@@ -45386,7 +45456,11 @@
       ],
       "rarity": "U",
       "set": "9",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"BB-8 In Black Squadron 1",
+	"BB-8 In Black Squadron 1 (AI)"
+      ]
     },
     {
       "front": {
@@ -45768,7 +45842,10 @@
       ],
       "rarity": "R",
       "set": "5",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Rendezvous Point On Tatooine (V)"
+      ]
     },
     {
       "front": {
@@ -50178,7 +50255,10 @@
       ],
       "rarity": "C2",
       "set": "2",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Cloning Cylinders"
+      ]
     },
     {
       "cancels": [
@@ -50892,7 +50972,10 @@
       ],
       "rarity": "C",
       "set": "9",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Squadron Assignments (V)"
+      ]
     },
     {
       "front": {
@@ -53287,7 +53370,10 @@
       ],
       "rarity": "C",
       "set": "7",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Takodana: Maz's Castle"
+      ]
     },
     {
       "counterpart": "Tatooine: Jawa Camp",
@@ -55007,7 +55093,10 @@
       ],
       "rarity": "C",
       "set": "6",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"See You Around, Kid"
+      ]
     },
     {
       "front": {
@@ -55894,7 +55983,10 @@
       ],
       "rarity": "U",
       "set": "8",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Where's Han?"
+      ]
     },
     {
       "counterpart": "Drop!",
@@ -60028,7 +60120,10 @@
       ],
       "rarity": "C2",
       "set": "1",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Yavin 4 (V)"
+      ]
     },
     {
       "front": {
@@ -61574,7 +61669,10 @@
       ],
       "rarity": "PM",
       "set": "13",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Your Ship? (V)"
+      ]
     },
     {
       "cancels": [
