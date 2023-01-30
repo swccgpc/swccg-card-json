@@ -3501,7 +3501,11 @@
       ],
       "rarity": "U",
       "set": "5",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Rey With Lightsaber",
+	"Rey With Lightsaber (AI)"
+      ]
     },
     {
       "front": {
@@ -4620,7 +4624,10 @@
       ],
       "rarity": "C",
       "set": "9",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Lightmaker"
+      ]
     },
     {
       "abbr": [
@@ -10081,7 +10088,11 @@
       ],
       "rarity": "U",
       "set": "7",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Scarif: Data Vault",
+	"Scarif: Data Vault (AI)"
+      ]
     },
     {
       "counterpart": "Cloud City: Downtown Plaza",
@@ -11640,7 +11651,10 @@
       ],
       "rarity": "U",
       "set": "7",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Galen Erso"
+      ]
     },
     {
       "front": {
@@ -12173,7 +12187,10 @@
       ],
       "rarity": "U",
       "set": "9",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Commander Ruescott Melshi"
+      ]
     },
     {
       "front": {
@@ -12760,7 +12777,10 @@
         "The USED function works even if the shuttle (or shuttle vehicle) is landed or unpiloted."
       ],
       "set": "8",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"They Have No Idea We're Coming / Until We Win, Or The Chances Are Spent"
+      ]
     },
     {
       "counterpart": "Precision Targeting",
@@ -14926,7 +14946,10 @@
       ],
       "rarity": "C",
       "set": "7",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Admiral Raddus"
+      ]
     },
     {
       "combo": [
@@ -16351,7 +16374,10 @@
       ],
       "rarity": "C3",
       "set": "3",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Taidu Sefla"
+      ]
     },
     {
       "abbr": [
@@ -16425,7 +16451,10 @@
       ],
       "rarity": "C",
       "set": "7",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"CT-5385 (Tup)"
+      ]
     },
     {
       "counterpart": "Stormtrooper Backpack",
@@ -17223,7 +17252,10 @@
       ],
       "rarity": "U",
       "set": "8",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Scarif: Turbolift Complex"
+      ]
     },
     {
       "counterpart": "Endor: Bunker",
@@ -17562,7 +17594,11 @@
       ],
       "rarity": "C",
       "set": "8",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Scarif: Landing Pad Nine (Docking Bay)",
+	"Scarif: Landing Pad Nine (Docking Bay) (AI)"
+      ]
     },
     {
       "front": {
@@ -18539,7 +18575,10 @@
         "Characters inside open vehicles will automatically disembark to move away. Characters inside starships and enclosed vehicles are not present and so do not move away."
       ],
       "set": "3",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Lieutenant Kaydel Connix"
+      ]
     },
     {
       "front": {
@@ -18966,7 +19005,10 @@
       ],
       "rarity": "F",
       "set": "7",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Odin Nesloor & First Aid"
+      ]
     },
     {
       "front": {
@@ -20118,6 +20160,7 @@
       "set": "1",
       "side": "Light",
       "underlyingCardFor": [
+	"General Dodonna (V)",
 	"Major Caluan Ematt"
       ]
     },
@@ -20618,7 +20661,10 @@
         "Deploying to a Home One site counts as deploying to a Star Cruiser only if Home One is on table."
       ],
       "set": "9",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"General Walex Blissex (V)"
+      ]
     },
     {
       "front": {
@@ -33231,7 +33277,7 @@
       "set": "5",
       "side": "Light",
       "underlyingCardFor": [
-	"Luke's Blaster PistoPistol (V)"
+	"Luke's Blaster Pistol (V)"
       ]
     },
     {
@@ -39118,7 +39164,10 @@
       ],
       "rarity": "U2",
       "set": "3",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Scarif"
+      ]
     },
     {
       "canceledBy": [
@@ -41132,7 +41181,10 @@
       ],
       "rarity": "C",
       "set": "7",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Stardust"
+      ]
     },
     {
       "combo": [
@@ -41550,7 +41602,10 @@
       ],
       "rarity": "PM",
       "set": "111",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"There Is Another"
+      ]
     },
     {
       "front": {
@@ -44272,7 +44327,10 @@
       ],
       "rarity": "C1",
       "set": "2",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Rose Tico"
+      ]
     },
     {
       "combo": [
@@ -44797,7 +44855,8 @@
       "set": "2",
       "side": "Light",
       "underlyingCardFor": [
-	"Corran Horn In Rogue 9"
+	"Corran Horn In Rogue 9",
+	"Red 5 (V)"
       ]
     },
     {
@@ -45859,7 +45918,10 @@
       ],
       "rarity": "C",
       "set": "5",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Rescue In The Clouds (V)"
+      ]
     },
     {
       "abbr": [
@@ -46100,7 +46162,11 @@
       ],
       "rarity": "U2",
       "set": "1",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"General Kenobi",
+	"General Kenobi (AI)"
+      ]
     },
     {
       "counterpart": "Kill Them Immediately",
@@ -49334,7 +49400,10 @@
       ],
       "rarity": "C2",
       "set": "1",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Lak Sivrak"
+      ]
     },
     {
       "abbr": [
@@ -50909,6 +50978,7 @@
       "set": "4",
       "side": "Light",
       "underlyingCardFor": [
+	"Effective Repairs & Starship Levitation",
 	"Starship Levitation (V)"
       ]
     },
@@ -50994,7 +51064,10 @@
       ],
       "rarity": "U",
       "set": "7",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Saw Gerrera"
+      ]
     },
     {
       "front": {
@@ -51682,7 +51755,10 @@
         "This is not a 'battle' and cards may not be forfeited."
       ],
       "set": "1",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"A Brave Resistance"
+      ]
     },
     {
       "cancels": [
@@ -53025,7 +53101,8 @@
       "set": "1",
       "side": "Light",
       "underlyingCardFor": [
-	"Jakku: Starship Graveyard"
+	"Jakku: Starship Graveyard",
+	"Scarif: Beach"
       ]
     },
     {
@@ -54896,7 +54973,10 @@
         "May deploy on a Star Destroyer/vehicle that does not have any immunity to attrition."
       ],
       "set": "9",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Relatively Unprotected"
+      ]
     },
     {
       "cancels": [
@@ -57462,7 +57542,10 @@
       ],
       "rarity": "U",
       "set": "4",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Knights Of The Old Republic"
+      ]
     },
     {
       "abbr": [
@@ -60135,7 +60218,10 @@
       ],
       "rarity": "U1",
       "set": "2",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Yavin 4: Massassi Ruins (V)"
+      ]
     },
     {
       "front": {
@@ -61521,7 +61607,10 @@
         "The phrase 'on Cloud City' means at a Cloud City site, not the Bespin: Cloud City sector."
       ],
       "set": "6",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Yoxgit (V)"
+      ]
     },
     {
       "front": {
@@ -61716,7 +61805,10 @@
       ],
       "rarity": "PM",
       "set": "106",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Blue 11"
+      ]
     },
     {
       "front": {
