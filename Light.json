@@ -2413,7 +2413,10 @@
         "The player playing Ambush chooses the order to send cards to Used Pile, including the 'cards on them' such as devices. However, if a card is selected to go to Used Pile while there are still other cards on it, place the selected card and the cards on it in owners' Used Pile(s) simultaneously (per Leaves Table rules, the owner of that group of cards then determines the order)."
       ],
       "set": "5",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Ambush (V)"
+      ]
     },
     {
       "front": {
@@ -2519,7 +2522,10 @@
       ],
       "rarity": "PM",
       "set": "13",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Jedi Business"
+      ]
     },
     {
       "front": {
@@ -2697,7 +2703,10 @@
       ],
       "rarity": "R1",
       "set": "3",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Anakin's Lightsaber (V)"
+      ]
     },
     {
       "front": {
@@ -4828,7 +4837,10 @@
       ],
       "rarity": "U",
       "set": "6",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Ancient Watering Hole"
+      ]
     },
     {
       "front": {
@@ -5676,7 +5688,10 @@
       ],
       "rarity": "C2",
       "set": "2",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Clone Trooper"
+      ]
     },
     {
       "front": {
@@ -6467,7 +6482,10 @@
         "His lore does not make him a member of Rogue Squadron."
       ],
       "set": "1",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"BoShek (V)"
+      ]
     },
     {
       "front": {
@@ -13427,7 +13445,11 @@
       ],
       "rarity": "R",
       "set": "4",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Ahch-To: Saddle",
+	"Ahch-To: Saddle (AI)"
+      ]
     },
     {
       "front": {
@@ -13777,7 +13799,10 @@
       ],
       "rarity": "PM",
       "set": "10",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Dash Rendar (V)"
+      ]
     },
     {
       "front": {
@@ -16181,7 +16206,10 @@
       ],
       "rarity": "R1",
       "set": "1",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Dutch (V)"
+      ]
     },
     {
       "front": {
@@ -24609,7 +24637,10 @@
         "When you deploy this location (even at start of game), if there is no 4th, 5th, or 6th marker site on table already, you must immediately deploy the 4th marker from Reserve Deck. If it is not found there, Main Power Generators does not deploy."
       ],
       "set": "3",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Hoth: Main Power Generators (1st Marker) (V)"
+      ]
     },
     {
       "front": {
@@ -27747,7 +27778,10 @@
       ],
       "rarity": "R",
       "set": "6",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Jedi Mind Trick (V)"
+      ]
     },
     {
       "front": {
@@ -31113,7 +31147,10 @@
       ],
       "rarity": "C",
       "set": "9",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"It's True, All Of It"
+      ]
     },
     {
       "counterpart": "Leave Them To Me - Defensive Shield",
@@ -33154,7 +33191,10 @@
         "Both functions of this Interrupt are top level actions."
       ],
       "set": "1",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Luke Skywalker, The Last Jedi"
+      ]
     },
     {
       "front": {
@@ -33571,7 +33611,10 @@
       ],
       "rarity": "U2",
       "set": "1",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"V-4X-D Ski Speeder"
+      ]
     },
     {
       "front": {
@@ -37448,7 +37491,10 @@
         "This movement is not a 'react'."
       ],
       "set": "1",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Ezra Bridger"
+      ]
     },
     {
       "front": {
@@ -40276,7 +40322,10 @@
       ],
       "rarity": "U",
       "set": "8",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Paploo (V)"
+      ]
     },
     {
       "front": {
@@ -40841,7 +40890,10 @@
       ],
       "rarity": "R",
       "set": "12",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Plo Koon (V)"
+      ]
     },
     {
       "front": {
@@ -42725,7 +42777,10 @@
       ],
       "rarity": "C2",
       "set": "2",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Quite A Mercenary (V)"
+      ]
     },
     {
       "front": {
@@ -44252,7 +44307,10 @@
         "Suspends the 'cannot move' text on Rebel Guards at same site."
       ],
       "set": "2",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Clone Squad Leader"
+      ]
     },
     {
       "abbr": [
@@ -44693,7 +44751,10 @@
       ],
       "rarity": "U",
       "set": "7",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Blue Squadron 1"
+      ]
     },
     {
       "combo": [
@@ -45811,7 +45872,11 @@
       ],
       "rarity": "U",
       "set": "14",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Kit Fisto",
+	"Kit Fisto (AI)"
+      ]
     },
     {
       "canceledBy": [
@@ -47308,7 +47373,10 @@
       ],
       "rarity": "R1",
       "set": "3",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"Part Of The Tribe"
+      ]
     },
     {
       "cancels": [
@@ -54679,7 +54747,10 @@
       ],
       "rarity": "U",
       "set": "12",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+	"The Hyperdrive Generator's Gone / We'll Need A New One (V)"
+      ]
     },
     {
       "abbr": [
