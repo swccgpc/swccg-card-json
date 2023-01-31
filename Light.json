@@ -780,7 +780,10 @@
         "Can only place itself from table into Used Pile, not any other card."
       ],
       "set": "12",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        "Your Thoughts Dwell On Your Mother"
+      ]
     },
     {
       "combo": [
@@ -6151,7 +6154,10 @@
       ],
       "rarity": "U",
       "set": "9",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        "Bo-Katan"
+      ]
     },
     {
       "front": {
@@ -7626,7 +7632,10 @@
       ],
       "rarity": "U2",
       "set": "1",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        "Be With Me"
+      ]
     },
     {
       "front": {
@@ -8383,7 +8392,10 @@
         "The battle ends immediately if either side has no presence, but the participating captives provide presence if applicable."
       ],
       "set": "5",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        "Grakchawwaa"
+      ]
     },
     {
       "canceledBy": [
@@ -8679,7 +8691,10 @@
       ],
       "rarity": "C",
       "set": "11",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        "The Destiny Of A Jedi"
+      ]
     },
     {
       "counterpart": "Abyss",
@@ -13339,7 +13354,8 @@
       "set": "4",
       "side": "Light",
       "underlyingCardFor": [
-	"Ahch-To"
+        "Ahch-To",
+        "Dagobah (V)"
       ]
     },
     {
@@ -13416,7 +13432,8 @@
       "set": "4",
       "side": "Light",
       "underlyingCardFor": [
-	"Ahch-To: Luke's Hut"
+        "Ahch-To: Luke's Hut",
+        "Ajan Kloss: Training Course"
       ]
     },
     {
@@ -16620,7 +16637,10 @@
         "Does not allow the character to use weapons/devices that they cannot use otherwise."
       ],
       "set": "3",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        "Everything We Need"
+      ]
     },
     {
       "cancels": [
@@ -18626,7 +18646,10 @@
         "Baragwin may repeatedly check the top card of Lost Pile to see if it is an eligible target for retrieval (unless his action has already retrieved that turn)."
       ],
       "set": "1",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        "Kanan Jarrus, Jedi Knight"
+      ]
     },
     {
       "front": {
@@ -18935,7 +18958,10 @@
         "Hydroponics Station and Vaporator may deploy here even if it's not on Tatooine (only when using this site to deploy them from Reserve Deck)."
       ],
       "set": "7",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        "Tatooine: Skywalker Hut"
+      ]
     },
     {
       "front": {
@@ -19658,7 +19684,10 @@
       ],
       "rarity": "C2",
       "set": "1",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        "Endor: Anakin's Funeral Pyre"
+      ]
     },
     {
       "counterpart": "Frostbite",
@@ -23501,7 +23530,10 @@
       ],
       "rarity": "C",
       "set": "9",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        "Admiral Kilian"
+      ]
     },
     {
       "abbr": [
@@ -23774,7 +23806,10 @@
         "Cannot forfeit opponent's devices."
       ],
       "set": "5",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        "Hero Of A Thousand Devices (V)"
+      ]
     },
     {
       "front": {
@@ -24295,7 +24330,10 @@
         "If Home One is lost from table, this site remains on table."
       ],
       "set": "9",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        "Profundity: Docking Bay"
+      ]
     },
     {
       "front": {
@@ -32093,7 +32131,10 @@
         "Lift Tubes are never considered unpiloted."
       ],
       "set": "1",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        "The Rise Of Skywalker"
+      ]
     },
     {
       "abbr": [
@@ -35722,7 +35763,10 @@
         "For example, if LS Force drains at the DS site Cloud City: Interrogation Room, the +1 bonus in the site's game text is not canceled because it is a LS Force drain."
       ],
       "set": "9",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        "Kef Bir: Oceanic Wreckage"
+      ]
     },
     {
       "counterpart": "Swilla Corey",
@@ -36207,7 +36251,10 @@
       ],
       "rarity": "C",
       "set": "7",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        "Cliegg Lars"
+      ]
     },
     {
       "combo": [
@@ -37994,7 +38041,10 @@
       ],
       "rarity": "U1",
       "set": "1",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        "The Force Is Strong In My Family"
+      ]
     },
     {
       "canceledBy": [
@@ -39607,7 +39657,11 @@
         "If deployed during the start of game, may take top card of Lost Pile (if any) into hand. In this case Light's starting hand will have 1 more card than usual."
       ],
       "set": "112",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        "Ounee Ta (V)",
+        "Ounee Ta (Jabba's Palace Sealed Deck) (V)"
+      ]
     },
     {
       "canceledBy": [
@@ -39636,7 +39690,10 @@
       ],
       "rarity": "PM",
       "set": "13",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        "Ounee Ta (V)"
+      ]
     },
     {
       "abbr": [
@@ -42997,7 +43054,8 @@
       "set": "2",
       "side": "Light",
       "underlyingCardFor": [
-	"Quite A Mercenary (V)"
+        "Boba",
+        "Quite A Mercenary (V)"
       ]
     },
     {
@@ -43342,7 +43400,8 @@
       "set": "7",
       "side": "Light",
       "underlyingCardFor": [
-	"C1-10P (Chopper)"
+        "C1-10P (Chopper)",
+        "R3-A2 (Arthree-Aytoo) (V)"
       ]
     },
     {
@@ -45425,6 +45484,7 @@
       "set": "7",
       "side": "Light",
       "underlyingCardFor": [
+        "Mara Jade",
         "Odd Ball's Torrent Starfighter"
       ]
     },
@@ -46470,8 +46530,9 @@
       "set": "1",
       "side": "Light",
       "underlyingCardFor": [
-	"General Kenobi",
-	"General Kenobi (AI)"
+        "General Kenobi",
+        "General Kenobi (AI)",
+        "Return Of A Jedi (V)"
       ]
     },
     {
@@ -48802,7 +48863,8 @@
       "set": "12",
       "side": "Light",
       "underlyingCardFor": [
-	"We'll Take The Long Way"
+        "Another Pathetic Lifeform & Secutiry Control",
+        "We'll Take The Long Way"
       ]
     },
     {
@@ -51305,8 +51367,9 @@
       "set": "4",
       "side": "Light",
       "underlyingCardFor": [
-	"Effective Repairs & Starship Levitation",
-	"Starship Levitation (V)"
+        "Effective Repairs & Starship Levitation",
+        "My Parents Were Strong",
+        "Starship Levitation (V)"
       ]
     },
     {
@@ -54056,7 +54119,10 @@
       ],
       "rarity": "U",
       "set": "11",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        "Tatooine: Slave Quarters (V)"
+      ]
     },
     {
       "front": {
@@ -56550,7 +56616,10 @@
       ],
       "rarity": "U",
       "set": "11",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        "Now, This Is Podracing!"
+      ]
     },
     {
       "front": {
