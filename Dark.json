@@ -617,7 +617,10 @@
       ],
       "rarity": "C",
       "set": "4",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+        "Revenge Of The Sith"
+      ]
     },
     {
       "front": {
@@ -4720,7 +4723,10 @@
       ],
       "rarity": "U",
       "set": "12",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+        "Begin Landing Your Troops & Fighters Straight Ahead"
+      ]
     },
     {
       "front": {
@@ -5915,7 +5921,10 @@
       ],
       "rarity": "R1",
       "set": "3",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+        "Blizzard 1 (V)"
+      ]
     },
     {
       "combo": [
@@ -7760,7 +7769,10 @@
       ],
       "rarity": "R",
       "set": "5",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+        "Unlimited Power!"
+      ]
     },
     {
       "abbr": [
@@ -8411,7 +8423,10 @@
         "Characters hit by weapons may be forfeited before forfeiting Needa."
       ],
       "set": "4",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+        "Captain Needa (V)"
+      ]
     },
     {
       "front": {
@@ -10337,7 +10352,10 @@
       ],
       "rarity": "U",
       "set": "9",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+        "Deputy Director Harus Ison"
+      ]
     },
     {
       "combo": [
@@ -12497,7 +12515,10 @@
       ],
       "rarity": "C",
       "set": "12",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+        "Coruscant Guard (V)"
+      ]
     },
     {
       "front": {
@@ -17568,7 +17589,8 @@
       "set": "5",
       "side": "Dark",
       "underlyingCardFor": [
-	"Double Back (V)"
+        "Double Back (V)",
+        "Gar Saxon"
       ]
     },
     {
@@ -20186,7 +20208,10 @@
       ],
       "rarity": "PM",
       "set": "102",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+        "Eriadu (V)"
+      ]
     },
     {
       "front": {
@@ -22626,7 +22651,8 @@
       "set": "1",
       "side": "Dark",
       "underlyingCardFor": [
-	"Stormtrooper Patrol"
+        "Close The Blast Doors!",
+        "Stormtrooper Patrol"
       ]
     },
     {
@@ -22687,7 +22713,10 @@
       ],
       "rarity": "C2",
       "set": "1",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+        "Wat Tambor"
+      ]
     },
     {
       "counterpart": "FX-7 (Effex-Seven)",
@@ -22855,7 +22884,10 @@
       ],
       "rarity": "U",
       "set": "11",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+          "Tragedy Of Plagueis"
+      ]
     },
     {
       "front": {
@@ -24315,7 +24347,10 @@
       ],
       "rarity": "C",
       "set": "7",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+        "Officer Valin Hess"
+      ]
     },
     {
       "counterpart": "Heavy Turbolaser Battery",
@@ -25141,7 +25176,10 @@
       ],
       "rarity": "C2",
       "set": "3",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+        "Hoth: North Ridge (4th Marker) (V)"
+      ]
     },
     {
       "front": {
@@ -29239,7 +29277,10 @@
       ],
       "rarity": "U",
       "set": "6",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+        "Malachor: Sith Temple Gateway"
+      ]
     },
     {
       "canceledBy": [
@@ -31256,7 +31297,10 @@
       ],
       "rarity": "U1",
       "set": "2",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+        "Qi'ra, Top Lieutenant"
+      ]
     },
     {
       "front": {
@@ -31727,7 +31771,10 @@
       ],
       "rarity": "R2",
       "set": "1",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+        "Burg"
+      ]
     },
     {
       "front": {
@@ -31923,7 +31970,10 @@
         "The phrase 'on Cloud City' means at a Cloud City site, not the Bespin: Cloud City sector."
       ],
       "set": "5",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+        "Lando Calrissian, Vader's Broker"
+      ]
     },
     {
       "front": {
@@ -32898,8 +32948,9 @@
       "set": "1",
       "side": "Dark",
       "underlyingCardFor": [
-	"B2 Battle Droid",
-	"B2 Battle Droid (AI)"
+        "B2 Battle Droid",
+        "B2 Battle Droid (AI)",
+        "Rise Of The Sith"
       ]
     },
     {
@@ -35596,7 +35647,10 @@
       ],
       "rarity": "R2",
       "set": "1",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+        "Moment Of Triumph (V)"
+      ]
     },
     {
       "counterpart": "Mon Calamari",
@@ -39630,7 +39684,10 @@
       ],
       "rarity": "C",
       "set": "12",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+        "Passel Argente (V)"
+      ]
     },
     {
       "counterpart": "Patrol Craft",
@@ -43639,7 +43696,10 @@
       ],
       "rarity": "U",
       "set": "9",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+        "Sidious' Lightsaber"
+      ]
     },
     {
       "front": {
@@ -45457,7 +45517,10 @@
       ],
       "rarity": "U",
       "set": "4",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+        "An Effective Demonstration"
+      ]
     },
     {
       "canceledBy": [
@@ -48818,7 +48881,10 @@
       ],
       "rarity": "C2",
       "set": "1",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+        "BB-9E"
+      ]
     },
     {
       "combo": [
@@ -56361,7 +56427,8 @@
       "set": "6",
       "side": "Dark",
       "underlyingCardFor": [
-	"Hondo Ohnaka"
+        "Grummgar",
+        "Hondo Ohnaka"
       ]
     },
     {
