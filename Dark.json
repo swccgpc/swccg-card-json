@@ -582,7 +582,10 @@
         "For example, if DS Force drains at the LS site Tatooine: Obi-Wan's Hut, the +1 modifier in the site's game text is not canceled because it is a DS Force drain."
       ],
       "set": "7",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+        "On The Verge Of Greatness / Taking Control Of The Weapon"
+      ]
     },
     {
       "canceledBy": [
@@ -3802,7 +3805,10 @@
       ],
       "rarity": "R",
       "set": "4",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+        "Avenger (V)"
+      ]
     },
     {
       "canceledBy": [
@@ -9773,7 +9779,8 @@
       "set": "5",
       "side": "Dark",
       "underlyingCardFor": [
-	"Coruscant: Private Platform (Docking Bay)"
+        "Coruscant: Private Platform (Docking Bay)",
+        "Mustafar: Private Platform (Docking Bay)"
       ]
     },
     {
@@ -9912,7 +9919,10 @@
       ],
       "rarity": "U",
       "set": "7",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+        "Coruscant: The Works"
+      ]
     },
     {
       "front": {
@@ -12557,7 +12567,10 @@
       ],
       "rarity": "C",
       "set": "12",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+        "Scarif: Landing Pad Five (Docking Bay)"
+      ]
     },
     {
       "front": {
@@ -13064,7 +13077,10 @@
         "If a weapon firing is canceled, that weapon did not fire and does not count towards Crossfire."
       ],
       "set": "8",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+        "Crossfire (Endor) (V)"
+      ]
     },
     {
       "front": {
@@ -13090,7 +13106,10 @@
       ],
       "rarity": "PM",
       "set": "13",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+        "Crossfire (V)"
+      ]
     },
     {
       "cancels": [
@@ -15006,7 +15025,10 @@
       ],
       "rarity": "R2",
       "set": "2",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+        "Death Star (V)"
+      ]
     },
     {
       "front": {
@@ -15500,7 +15522,10 @@
       ],
       "rarity": "U2",
       "set": "1",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+        "Scarif: Citadel Tower"
+      ]
     },
     {
       "front": {
@@ -16065,7 +16090,8 @@
       "set": "3",
       "side": "Dark",
       "underlyingCardFor": [
-	"Deflector Shield Generators (V)"
+        "Deflector Shield Generators (V)",
+        "Shield Gate"
       ]
     },
     {
@@ -16127,7 +16153,8 @@
       "set": "6",
       "side": "Dark",
       "underlyingCardFor": [
-	"First Light: Reception Area"
+        "Alien Mob",
+        "First Light: Reception Area"
       ]
     },
     {
@@ -16753,7 +16780,10 @@
       ],
       "rarity": "R1",
       "set": "1",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+        "Devastator (V)"
+      ]
     },
     {
       "front": {
@@ -20563,7 +20593,10 @@
       ],
       "rarity": "U",
       "set": "4",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+        "Scarif: Command Center"
+      ]
     },
     {
       "front": {
@@ -24621,7 +24654,10 @@
       ],
       "rarity": "C",
       "set": "11",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+        "Darth Vader, Betrayer Of The Jedi"
+      ]
     },
     {
       "canceledBy": [
@@ -36417,7 +36453,10 @@
       ],
       "rarity": "U",
       "set": "12",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+        "Naboo (V)"
+      ]
     },
     {
       "front": {
@@ -38828,7 +38867,10 @@
       ],
       "rarity": "C2",
       "set": "3",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+        "Scarif"
+      ]
     },
     {
       "front": {
@@ -40795,7 +40837,10 @@
       ],
       "rarity": "U",
       "set": "5",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+        "Projective Telepathy (V)"
+      ]
     },
     {
       "front": {
@@ -45779,7 +45824,8 @@
       "set": "11",
       "side": "Dark",
       "underlyingCardFor": [
-	"Sith Fury (V)"
+        "A Sith Legend",
+        "Sith Fury (V)"
       ]
     },
     {
@@ -48146,7 +48192,10 @@
       ],
       "rarity": "R2",
       "set": "2",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+        "Superlaser (V)"
+      ]
     },
     {
       "front": {
@@ -49312,7 +49361,10 @@
       ],
       "rarity": "C",
       "set": "6",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+        "Scarif: Beach"
+      ]
     },
     {
       "front": {
@@ -60172,10 +60224,7 @@
         "It is not protected from (for example) Sanity And Compassion."
       ],
       "set": "214",
-      "side": "Dark",
-      "underlyingCardFor": [
-        "Alter & Collateral Damage (V)"
-      ]
+      "side": "Dark"
     },
     {
       "front": {
