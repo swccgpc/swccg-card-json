@@ -425,7 +425,10 @@
         "Passengers aboard starships or enclosed vehicles do not count towards the 6 ability requirement. If the requirement is not met, Dark does not get any battle destiny draws (even if they have multiple battle destiny adders such as Boba Fett Bounty Hunter, Mighty Jabba, etc). However, 'draws if unable to otherwise' still works without 6 ability."
       ],
       "set": "4",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        "Rey, All Of The Jedi"
+      ]
     },
     {
       "abbr": [
@@ -1967,7 +1970,8 @@
       "set": "7",
       "side": "Light",
       "underlyingCardFor": [
-	"Bail Organa"
+        "Bail Organa",
+        "Larma D'Acy"
       ]
     },
     {
@@ -2282,7 +2286,10 @@
         "A successful draw on either function causes Force loss to Do, Or Do Not or There Is No Try."
       ],
       "set": "10",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        "Alter & Friendly Fire (V)"
+      ]
     },
     {
       "front": {
@@ -5910,7 +5917,8 @@
       "set": "1",
       "side": "Light",
       "underlyingCardFor": [
-	"Blaster Rifle (V)"
+        "Blaster Rifle (V)",
+        "Stolen Stormtrooper Blaster Rifle"
       ]
     },
     {
@@ -7426,7 +7434,10 @@
         "A character may not be used in multiple pairs."
       ],
       "set": "1",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        "C-3PO (See-Threepio) (V)"
+      ]
     },
     {
       "front": {
@@ -8553,7 +8564,10 @@
       ],
       "rarity": "R1",
       "set": "2",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        "Cell 2187 (V)"
+      ]
     },
     {
       "front": {
@@ -10096,7 +10110,8 @@
       "set": "5",
       "side": "Light",
       "underlyingCardFor": [
-	"Death Star II: Chasm Walkway"
+        "Death Star: Central Core",
+        "Death Star II: Chasm Walkway"
       ]
     },
     {
@@ -11998,7 +12013,10 @@
         "The device may deploy on (for example) a character at the location."
       ],
       "set": "8",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        "Jannah"
+      ]
     },
     {
       "front": {
@@ -13701,7 +13719,10 @@
       ],
       "rarity": "C",
       "set": "7",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        "Cal Kestis"
+      ]
     },
     {
       "front": {
@@ -14166,7 +14187,8 @@
       "set": "1",
       "side": "Light",
       "underlyingCardFor": [
-	"Kamino: Clone Training Center"
+        "Death Star: Detention Block Corridor (V)",
+        "Kamino: Clone Training Center"
       ]
     },
     {
@@ -14204,7 +14226,10 @@
       ],
       "rarity": "C",
       "set": "7",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        "Death Star: Detention Block Corridor (V)"
+      ]
     },
     {
       "counterpart": "Death Star: Docking Bay 327",
@@ -14244,7 +14269,8 @@
       "set": "1",
       "side": "Light",
       "underlyingCardFor": [
-	"Kamino: Clone Birthing Center"
+        "Death Star: Hangar 327",
+        "Kamino: Clone Birthing Center"
       ]
     },
     {
@@ -14305,7 +14331,10 @@
       ],
       "rarity": "U1",
       "set": "1",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        "Death Star: Trash Compactor (V)"
+      ]
     },
     {
       "combo": [
@@ -16017,7 +16046,8 @@
       "set": "8",
       "side": "Light",
       "underlyingCardFor": [
-	"Baze Malbus With Cannon"
+        "Baze Malbus With Cannon",
+        "Corporal Pao"
       ]
     },
     {
@@ -17457,7 +17487,10 @@
       ],
       "rarity": "R",
       "set": "8",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        "Endor: Chief Chirpa's Hut (V)"
+      ]
     },
     {
       "counterpart": "Endor: Dense Forest",
@@ -17492,7 +17525,10 @@
       ],
       "rarity": "C",
       "set": "8",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        "Kashyyyk: Forest Depths"
+      ]
     },
     {
       "combo": [
@@ -17534,7 +17570,8 @@
       "set": "8",
       "side": "Light",
       "underlyingCardFor": [
-	"Endor: Ewok Village (V)"
+        "Endor: Ewok Village (V)",
+        "Kashyyyk: Kachirho"
       ]
     },
     {
@@ -21857,7 +21894,10 @@
       ],
       "rarity": "U",
       "set": "9",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        "Plo Koon's Jedi Starfighter"
+      ]
     },
     {
       "front": {
@@ -24133,7 +24173,10 @@
       ],
       "rarity": "U",
       "set": "6",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        "Beaumont Kin"
+      ]
     },
     {
       "combo": [
@@ -31179,7 +31222,10 @@
         "After being stacked on a character, this card is in a Supporting (not Active) state and thus may no longer be targeted by Sense, grabbers, etc."
       ],
       "set": "2",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        "Let The Wookiee Win (V)"
+      ]
     },
     {
       "counterpart": "Nothing Can Get Through Our Shield",
@@ -31242,7 +31288,8 @@
       "set": "9",
       "side": "Light",
       "underlyingCardFor": [
-	"It's True, All Of It"
+        "Han Solo, Optimistic General",
+        "It's True, All Of It"
       ]
     },
     {
@@ -32357,7 +32404,10 @@
       ],
       "rarity": "U",
       "set": "7",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        "Ahsoka's Shoto Lightsaber"
+      ]
     },
     {
       "abbr": [
@@ -36430,7 +36480,10 @@
       ],
       "rarity": "C",
       "set": "6",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        "Uncivilized Blaster"
+      ]
     },
     {
       "combo": [
@@ -39603,7 +39656,10 @@
         "The Lost function is played during weapons segment, scheduling the -2 modifier(s) for later."
       ],
       "set": "9",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        "Our Only Hope (V)"
+      ]
     },
     {
       "canceledBy": [
@@ -39632,7 +39688,10 @@
       ],
       "rarity": "U2",
       "set": "2",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        "A Power Loss"
+      ]
     },
     {
       "abbr": [
@@ -45313,7 +45372,10 @@
       ],
       "rarity": "U",
       "set": "7",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        "Odd Ball's Torrent Starfighter"
+      ]
     },
     {
       "front": {
@@ -46184,7 +46246,10 @@
       ],
       "rarity": "R",
       "set": "7",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        "Rescue The Princess / Sometimes I Amaze Even Myself (V)"
+      ]
     },
     {
       "abbr": [
@@ -50051,7 +50116,10 @@
       ],
       "rarity": "C",
       "set": "7",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        "Slight Weapons Malfunction (V)"
+      ]
     },
     {
       "canceledBy": [
@@ -56382,7 +56450,10 @@
         "May be persona replaced (will no longer be Undercover)."
       ],
       "set": "7",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        "TK-422 (V)"
+      ]
     },
     {
       "cancels": [
@@ -56617,7 +56688,10 @@
       ],
       "rarity": "F",
       "set": "7",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        "For The Republic!"
+      ]
     },
     {
       "combo": [
@@ -59874,7 +59948,10 @@
       ],
       "rarity": "C2",
       "set": "1",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        "ARC-170 Starfighter"
+      ]
     },
     {
       "front": {
@@ -61135,7 +61212,10 @@
       ],
       "rarity": "U",
       "set": "4",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        "Din Djarin"
+      ]
     },
     {
       "front": {
