@@ -738,7 +738,10 @@
       ],
       "rarity": "U1",
       "set": "1",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        "I Am Part Of The Living Force"
+      ]
     },
     {
       "counterpart": "Enter The Bureaucrat",
@@ -4448,7 +4451,10 @@
         "Lost function - Will not 'steal back' a weapon that Dark has stolen from Light."
       ],
       "set": "4",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        "Grogu"
+      ]
     },
     {
       "conceptBy": "(Original concept by Kevin Shannon)",
@@ -4861,7 +4867,8 @@
       "set": "6",
       "side": "Light",
       "underlyingCardFor": [
-	"Ancient Watering Hole"
+        "Alien Rabble",
+        "Ancient Watering Hole"
       ]
     },
     {
@@ -6841,7 +6848,10 @@
       ],
       "rarity": "R2",
       "set": "2",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        "Bowcaster (V)"
+      ]
     },
     {
       "combo": [
@@ -8813,7 +8823,10 @@
       ],
       "rarity": "R",
       "set": "8",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        "Chewbacca, Defender Of Kashyyyk"
+      ]
     },
     {
       "front": {
@@ -10295,7 +10308,10 @@
       ],
       "rarity": "U",
       "set": "5",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        "Coruscant: Jedi Temple Meditation Room"
+      ]
     },
     {
       "front": {
@@ -13518,8 +13534,9 @@
       "set": "4",
       "side": "Light",
       "underlyingCardFor": [
-	"Ahch-To: Saddle",
-	"Ahch-To: Saddle (AI)"
+        "Ahch-To: Saddle",
+        "Ahch-To: Saddle (AI)",
+        "Dagobah: Yoda's Hut (V)"
       ]
     },
     {
@@ -14187,7 +14204,6 @@
       "set": "1",
       "side": "Light",
       "underlyingCardFor": [
-        "Death Star: Detention Block Corridor (V)",
         "Kamino: Clone Training Center"
       ]
     },
@@ -16782,7 +16798,10 @@
         "If the activation option is chosen, each player may still decline to activate anything."
       ],
       "set": "11",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        "Master Qui-Gon Jinn, An Old Friend"
+      ]
     },
     {
       "counterpart": "Come With Me",
@@ -17683,7 +17702,10 @@
       ],
       "rarity": "U",
       "set": "8",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        "Kashyyyk: Sacred Falls"
+      ]
     },
     {
       "counterpart": "Endor: Landing Platform (Docking Bay)",
@@ -17726,8 +17748,9 @@
       "set": "8",
       "side": "Light",
       "underlyingCardFor": [
-	"Scarif: Landing Pad Nine (Docking Bay)",
-	"Scarif: Landing Pad Nine (Docking Bay) (AI)"
+        "Kashyyyk: Work Settlement #121",
+        "Scarif: Landing Pad Nine (Docking Bay)",
+        "Scarif: Landing Pad Nine (Docking Bay) (AI)"
       ]
     },
     {
@@ -19572,7 +19595,10 @@
       ],
       "rarity": "R",
       "set": "12",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        "Free Ride & Endor Celebration (V)"
+      ]
     },
     {
       "cancels": [
@@ -26198,7 +26224,8 @@
       "set": "3",
       "side": "Light",
       "underlyingCardFor": [
-	"Sabine Wren"
+        "Heavy Infantry Mandalorian",
+        "Sabine Wren"
       ]
     },
     {
@@ -27655,7 +27682,10 @@
       ],
       "rarity": "U1",
       "set": "1",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        "Offworld Jawas"
+      ]
     },
     {
       "front": {
@@ -28714,7 +28744,10 @@
       ],
       "rarity": "U",
       "set": "9",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        "Paige Tico"
+      ]
     },
     {
       "counterpart": "Kashyyyk",
@@ -28755,7 +28788,10 @@
         "(Dark side text) Passengers do not count towards the 6 ability requirement. If the requirement is not met, Dark does not get any battle destiny draws (even if they have multiple battle destiny adders such as Boba Fett Bounty Hunter, IG-88 In IG-2000, etc). However, 'draws if unable to otherwise' still works without 6 ability."
       ],
       "set": "2",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        "Wookiee Homestead"
+      ]
     },
     {
       "counterpart": "Kashyyyk Operative",
@@ -28797,7 +28833,10 @@
       ],
       "rarity": "U",
       "set": "7",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        "Tarfful"
+      ]
     },
     {
       "combo": [
@@ -29151,7 +29190,10 @@
       ],
       "rarity": "R",
       "set": "7",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        "Ketwol (V)"
+      ]
     },
     {
       "combo": [
@@ -38609,7 +38651,10 @@
       ],
       "rarity": "R",
       "set": "4",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        "Master Kenobi"
+      ]
     },
     {
       "front": {
@@ -41263,7 +41308,10 @@
       ],
       "rarity": "C",
       "set": "4",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        "Jedi Holocron"
+      ]
     },
     {
       "front": {
@@ -42232,7 +42280,10 @@
       ],
       "rarity": "R",
       "set": "5",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        "Lando, Hero Of The Rebellion"
+      ]
     },
     {
       "cancels": [
@@ -53889,7 +53940,10 @@
       ],
       "rarity": "R1",
       "set": "1",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        "Tatooine: Obi-Wan's Hut (V)"
+      ]
     },
     {
       "counterpart": "Tatooine: Podrace Arena",
@@ -54520,7 +54574,10 @@
       ],
       "rarity": "C2",
       "set": "1",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        "Figrin D'an & The Modal Nodes"
+      ]
     },
     {
       "cancels": [
@@ -55298,7 +55355,10 @@
       ],
       "rarity": "U",
       "set": "9",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        "Master Yoda"
+      ]
     },
     {
       "front": {
@@ -57484,7 +57544,10 @@
       ],
       "rarity": "C2",
       "set": "3",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        "Anakin Skywalker, Jedi Knight"
+      ]
     },
     {
       "combo": [
@@ -59107,7 +59170,10 @@
       ],
       "rarity": "C",
       "set": "14",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        "This Is Where The Fun Begins"
+      ]
     },
     {
       "cancels": [
@@ -59436,7 +59502,10 @@
       ],
       "rarity": "U",
       "set": "7",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        "Communing"
+      ]
     },
     {
       "front": {
@@ -59544,7 +59613,10 @@
       ],
       "rarity": "F",
       "set": "7",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        "Wookiee Warrior"
+      ]
     },
     {
       "front": {
@@ -59570,7 +59642,10 @@
       ],
       "rarity": "C",
       "set": "8",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        "Wookiee Guide (V)"
+      ]
     },
     {
       "front": {
@@ -59605,7 +59680,10 @@
       ],
       "rarity": "R1",
       "set": "2",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        "Wookiee Roar (V)"
+      ]
     },
     {
       "combo": [
@@ -60224,7 +60302,10 @@
       ],
       "rarity": "U",
       "set": "12",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        "Yarua (V)"
+      ]
     },
     {
       "counterpart": "Yavin 4",
