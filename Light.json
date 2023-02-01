@@ -2961,7 +2961,8 @@
       "set": "4",
       "side": "Light",
       "underlyingCardFor": [
-	 "Anoat (V)"
+        "Anoat (V)",
+        "Malachor"
       ]
     },
     {
@@ -3249,7 +3250,10 @@
       ],
       "rarity": "U",
       "set": "6",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        "Babu Frik"
+      ]
     },
     {
       "combo": [
@@ -3630,7 +3634,10 @@
       ],
       "rarity": "R",
       "set": "6",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        "Artoo (V)"
+      ]
     },
     {
       "cancels": [
@@ -4871,7 +4878,8 @@
       "side": "Light",
       "underlyingCardFor": [
         "Alien Rabble",
-        "Ancient Watering Hole"
+        "Ancient Watering Hole",
+        "Steady, Steady & Bargaining Table"
       ]
     },
     {
@@ -10403,7 +10411,10 @@
       ],
       "rarity": "C",
       "set": "5",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        "Lothal: Comm Tower E-272 (Ezra's Roost)"
+      ]
     },
     {
       "counterpart": "Cloud City: Upper Plaza Corridor",
@@ -10745,7 +10756,10 @@
       ],
       "rarity": "C2",
       "set": "1",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        "Ezra's Blaster Lightsaber"
+      ]
     },
     {
       "counterpart": "Battle Deployment",
@@ -23891,7 +23905,10 @@
       ],
       "rarity": "U",
       "set": "7",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        "Ezra, Hero Of Phoenix Squadron"
+      ]
     },
     {
       "front": {
@@ -28063,7 +28080,10 @@
       ],
       "rarity": "R1",
       "set": "1",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        "Coruscant: Jedi Temple"
+      ]
     },
     {
       "front": {
@@ -29176,6 +29196,7 @@
       "set": "1",
       "side": "Light",
       "underlyingCardFor": [
+        "Lothal",
         "Kessel (V)",
         "Polis Massa"
       ]
@@ -31400,7 +31421,8 @@
       "side": "Light",
       "underlyingCardFor": [
         "Han Solo, Optimistic General",
-        "It's True, All Of It"
+        "It's True, All Of It",
+        "Phoenix Squadron Operations"
       ]
     },
     {
@@ -32520,7 +32542,8 @@
       "set": "7",
       "side": "Light",
       "underlyingCardFor": [
-        "Ahsoka's Shoto Lightsaber"
+        "Ahsoka's Shoto Lightsaber",
+        "Fenn Rau"
       ]
     },
     {
@@ -32562,7 +32585,10 @@
         "If a ♢ site says it may not deploy to a Subjugated planet, it may not be deployed by this Objective at start of game."
       ],
       "set": "7",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        "Zero Hour / Liberation Of Lothal"
+      ]
     },
     {
       "front": {
@@ -34772,7 +34798,8 @@
       "set": "6",
       "side": "Light",
       "underlyingCardFor": [
-	"Mandalorian Mishap (V)"
+        "Mandalore",
+        "Mandalorian Mishap (V)"
       ]
     },
     {
@@ -35983,7 +36010,10 @@
       ],
       "rarity": "R1",
       "set": "1",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        "Millennium Falcon (V)"
+      ]
     },
     {
       "abbr": [
@@ -37277,7 +37307,10 @@
       ],
       "rarity": "PM",
       "set": "13",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        "Naboo: Theed Palace Generator (V)"
+      ]
     },
     {
       "abbr": [
@@ -39575,7 +39608,10 @@
       ],
       "rarity": "C",
       "set": "7",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        "This Is Our Rebellion"
+      ]
     },
     {
       "front": {
@@ -41965,7 +42001,8 @@
       "set": "111",
       "side": "Light",
       "underlyingCardFor": [
-	"There Is Another"
+        "Prisoner 2187 (V)",
+        "There Is Another"
       ]
     },
     {
@@ -44026,7 +44063,10 @@
       ],
       "rarity": "C",
       "set": "7",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        "Cara Dune With Heavy Blaster Rifle"
+      ]
     },
     {
       "combo": [
@@ -49908,7 +49948,10 @@
       ],
       "rarity": "C",
       "set": "5",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        "Dexter Jettster"
+      ]
     },
     {
       "cancels": [
@@ -50966,7 +51009,10 @@
       "pulledBy": [],
       "rarity": "F",
       "set": "7",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        "Lothal: Capital City"
+      ]
     },
     {
       "counterpart": "Spaceport Docking Bay",
@@ -51988,7 +52034,10 @@
         "Causes all of your forfeited weapons go to Used Pile, even if not forfeited via this Effect (e.g. artillery weapons being forfeited normally)."
       ],
       "set": "9",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        "Beskar Deflection"
+      ]
     },
     {
       "front": {
@@ -53112,7 +53161,10 @@
       ],
       "rarity": "R2",
       "set": "1",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        "Lothal: Tarkintown"
+      ]
     },
     {
       "combo": [
@@ -56318,7 +56370,10 @@
       ],
       "rarity": "C",
       "set": "12",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        "Thrown Back (V)"
+      ]
     },
     {
       "combo": [
@@ -57534,7 +57589,10 @@
       ],
       "rarity": "R1",
       "set": "1",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        "Utinni! (V)"
+      ]
     },
     {
       "front": {
@@ -58407,7 +58465,10 @@
       ],
       "rarity": "U",
       "set": "5",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        "Weather Vane (V)"
+      ]
     },
     {
       "front": {
@@ -60727,7 +60788,8 @@
       "set": "2",
       "side": "Light",
       "underlyingCardFor": [
-	"Yavin 4: Massassi Ruins (V)"
+        "Lothal: Jedi Temple",
+        "Yavin 4: Massassi Ruins (V)"
       ]
     },
     {
