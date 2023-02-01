@@ -8735,7 +8735,10 @@
         "For a card to be considered 'duplicated on table', it must be active on table. Not inactive (e.g. Undercover, captive, missing) and not supporting (e.g. stacked on a grabber such as Tentacle)."
       ],
       "set": "5",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        "Death Star II: Turbolift Walkway"
+      ]
     },
     {
       "front": {
@@ -11443,7 +11446,10 @@
       ],
       "rarity": "C",
       "set": "5",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        "Computer Interface (V)"
+      ]
     },
     {
       "cancels": [
@@ -13032,7 +13038,10 @@
       ],
       "rarity": "C",
       "set": "9",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        "Rebel Leadership & Critical Error Revealed"
+      ]
     },
     {
       "front": {
@@ -14350,7 +14359,10 @@
       ],
       "rarity": "PM",
       "set": "101",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        "Death Star: Level 6 Core Shaft Corridor (V)"
+      ]
     },
     {
       "front": {
@@ -17003,7 +17015,8 @@
       "set": "1",
       "side": "Light",
       "underlyingCardFor": [
-	"Ellorrs Madak, Pilot Instructor"
+        "Best Starpilot In The Galaxy",
+        "Ellorrs Madak, Pilot Instructor"
       ]
     },
     {
@@ -18599,7 +18612,10 @@
         "If prevented from being used to satisfy attrition (e.g. by Precision Targeting), his text will not satisfy all remaining attrition."
       ],
       "set": "8",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        "Sagwa"
+      ]
     },
     {
       "front": {
@@ -18859,7 +18875,11 @@
         "The character needs to have been lost from the battle (or duel) on Cloud City."
       ],
       "set": "5",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        "Fall Of The Legend (V)",
+        "Master Windu"
+      ]
     },
     {
       "canceledBy": [
@@ -21473,7 +21493,10 @@
       ],
       "rarity": "U",
       "set": "7",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        "Liswarr"
+      ]
     },
     {
       "abbr": [
@@ -25503,7 +25526,8 @@
       "set": "6",
       "side": "Light",
       "underlyingCardFor": [
-	"I Must Be Allowed To Speak (V)"
+        "I Must Be Allowed To Speak (V)",
+        "I Must Be Allowed To Speak & Smuggler's Blues"
       ]
     },
     {
@@ -26178,7 +26202,10 @@
       ],
       "rarity": "C",
       "set": "12",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        "Master Qui-Gon With Lightsaber"
+      ]
     },
     {
       "front": {
@@ -26823,7 +26850,10 @@
         "The USED function is not immune to Sense."
       ],
       "set": "5",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        "Fleet Admiral Gial Ackbar"
+      ]
     },
     {
       "front": {
@@ -29167,7 +29197,8 @@
       "side": "Light",
       "underlyingCardFor": [
         "Lothal",
-        "Kessel (V)"
+        "Kessel (V)",
+        "Polis Massa"
       ]
     },
     {
@@ -35145,7 +35176,10 @@
       ],
       "rarity": "PM",
       "set": "110",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        "Master Luke (V)"
+      ]
     },
     {
       "front": {
@@ -36362,7 +36396,10 @@
       ],
       "rarity": "C",
       "set": "9",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        "Kef Bir: Oceanic Ruins"
+      ]
     },
     {
       "front": {
@@ -39977,7 +40014,10 @@
       ],
       "rarity": "PM",
       "set": "10",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        "Outrider (V)"
+      ]
     },
     {
       "conceptBy": "(Original concept by Angelo Consoli - World Champion 2002)",
@@ -42411,7 +42451,8 @@
       "set": "5",
       "side": "Light",
       "underlyingCardFor": [
-	"Put That Down (V)"
+        "Local Defense & Put That Down",
+        "Put That Down (V)"
       ]
     },
     {
@@ -46502,7 +46543,10 @@
       ],
       "rarity": "U1",
       "set": "1",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        "A Good Blaster At Your Side & Restricted Deployment"
+      ]
     },
     {
       "front": {
@@ -53938,7 +53982,10 @@
       ],
       "rarity": "U2",
       "set": "1",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        "Tatooine: Mos Eisley (V)"
+      ]
     },
     {
       "counterpart": "Tatooine: Mos Espa",
@@ -57225,7 +57272,10 @@
         "This starship is always considered to be stolen (e.g. for Bodhi Rook)."
       ],
       "set": "8",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        "Tydirium (V)"
+      ]
     },
     {
       "front": {
@@ -58031,7 +58081,8 @@
       "set": "4",
       "side": "Light",
       "underlyingCardFor": [
-	"Knights Of The Old Republic"
+        "Knights Of The Old Republic",
+        "Take A Seat, Young Skywalker"
       ]
     },
     {

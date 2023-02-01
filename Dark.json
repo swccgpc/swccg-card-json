@@ -651,7 +651,8 @@
       "set": "3",
       "side": "Dark",
       "underlyingCardFor": [
-	"A Dark Time For The Rebellion (V)"
+        "A Dark Time For The Rebellion (V)",
+        "A Dark Time For The Rebellion & Tarkin's Orders"
       ]
     },
     {
@@ -780,7 +781,10 @@
       ],
       "rarity": "U1",
       "set": "1",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+        "Hosnian Prime"
+      ]
     },
     {
       "combo": [
@@ -13190,7 +13194,10 @@
       ],
       "rarity": "PM",
       "set": "109",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+        "Crush The Rebellion (V)"
+      ]
     },
     {
       "front": {
@@ -17616,7 +17623,8 @@
       "side": "Dark",
       "underlyingCardFor": [
         "Double Back (V)",
-        "Gar Saxon"
+        "Gar Saxon",
+        "He's No Good To Me Dead"
       ]
     },
     {
@@ -25945,7 +25953,10 @@
       ],
       "rarity": "R2",
       "set": "1",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+        "I Have You Now (V)"
+      ]
     },
     {
       "front": {
@@ -28091,7 +28102,10 @@
         "A starship captured and stolen mid-battle with In Range becomes inactive that battle."
       ],
       "set": "7",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+        "Imperial Command & In Range"
+      ]
     },
     {
       "counterpart": "Superficial Damage",
@@ -34488,7 +34502,10 @@
       ],
       "rarity": "U",
       "set": "12",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+        "Malastare (V)"
+      ]
     },
     {
       "front": {
@@ -37523,7 +37540,10 @@
       ],
       "rarity": "C",
       "set": "11",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+        "Ni Chuba Na? (V)"
+      ]
     },
     {
       "front": {
@@ -38939,7 +38959,10 @@
       ],
       "rarity": "U",
       "set": "7",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+        "Seal Off The Bridge"
+      ]
     },
     {
       "counterpart": "Ord Mantell",
@@ -52527,7 +52550,10 @@
         "These cards may <u>not</u> deploy on TIE Defender Mark I: Ion Cannon, Laser Cannon Battery."
       ],
       "set": "7",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+        "Alpha 1"
+      ]
     },
     {
       "front": {
