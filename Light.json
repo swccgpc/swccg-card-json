@@ -1364,7 +1364,7 @@
       "set": "1",
       "side": "Light",
       "underlyingCardFor": [
-	"Affect Mind (V)"
+        {"title":"Affect Mind (V)","cardId":69}
       ]
     },
     {
@@ -2247,7 +2247,7 @@
       "set": "1",
       "side": "Light",
       "underlyingCardFor": [
-	"Alter (Premiere) (V)"
+        {"title":"Alter (Premiere) (V)","cardId":5335}
       ]
     },
     {
@@ -2883,7 +2883,7 @@
       "set": "4",
       "side": "Light",
       "underlyingCardFor": [
-	"Anger, Fear, Aggression (V)"
+        {"title":"Anger, Fear, Aggression (V)","cardId":4080}
       ]
     },
     {
@@ -3141,7 +3141,7 @@
       "set": "7",
       "side": "Light",
       "underlyingCardFor": [
-	"Antilles Maneuver (V)"
+        {"title":"Antilles Maneuver (V)","cardId":4001}
       ]
     },
     {
@@ -4909,7 +4909,7 @@
       "set": "12",
       "side": "Light",
       "underlyingCardFor": [
-	"The Republic No Longer Functions"
+        {"title":"The Republic No Longer Functions","cardId":5966}
       ]
     },
     {
@@ -5197,8 +5197,8 @@
       "set": "5",
       "side": "Light",
       "underlyingCardFor": [
-	"Beldon's Eye (V)",
-	"Beldon's Eye & All My Urchins"
+        {"title":"Beldon's Eye (V)","cardId":218},
+        "Beldon's Eye & All My Urchins"
       ]
     },
     {
@@ -5692,7 +5692,7 @@
       "set": "5",
       "side": "Light",
       "underlyingCardFor": [
-	"Luke's Bionic Hand"
+        {"title":"Luke's Bionic Hand","cardId":245}
       ]
     },
     {
@@ -5822,9 +5822,9 @@
       "set": "1",
       "side": "Light",
       "underlyingCardFor": [
-	"Captain Rex, 501st Legion",
-	"Captain Rex, 501st Legion (AI)",
-	"Captain Rex, 501st Legion (Holo AI)"
+        {"title":"Captain Rex, 501st Legion","cardId":4066},
+        {"title":"Captain Rex, 501st Legion (AI)","cardId":7023},
+        {"title":"Captain Rex, 501st Legion (Holo AI)","cardId":7147}
       ]
     },
     {
@@ -5935,7 +5935,7 @@
       "set": "1",
       "side": "Light",
       "underlyingCardFor": [
-        "Blaster Rifle (V)",
+        {"title":"Blaster Rifle (V)","cardId":4095},
         "Stolen Stormtrooper Blaster Rifle"
       ]
     },
@@ -8479,7 +8479,7 @@
       "set": "8",
       "side": "Light",
       "underlyingCardFor": [
-	"Careful Planning (V)"
+        {"title":"Careful Planning (V)","cardId":382}
       ]
     },
     {
@@ -8986,7 +8986,7 @@
       "set": "104",
       "side": "Light",
       "underlyingCardFor": [
-	"Chewie (V)"
+        {"title":"Chewie (V)","cardId":401}
       ]
     },
     {
@@ -10039,8 +10039,8 @@
       "set": "5",
       "side": "Light",
       "underlyingCardFor": [
-	"Commander Cody",
-	"Commander Cody (AI)"
+        {"title":"Commander Cody","cardId":4069},
+        {"title":"Commander Cody (AI)","cardId":7025}
       ]
     },
     {
@@ -10648,7 +10648,7 @@
       "set": "9",
       "side": "Light",
       "underlyingCardFor": [
-	"General Airen Cracken"
+        {"title":"General Airen Cracken","cardId":4071}
       ]
     },
     {
@@ -10992,7 +10992,7 @@
       "set": "3",
       "side": "Light",
       "underlyingCardFor": [
-	"Commander Luke Skywalker (V)"
+        {"title":"Commander Luke Skywalker (V)","cardId":499}
       ]
     },
     {
@@ -12507,8 +12507,8 @@
       "set": "12",
       "side": "Light",
       "underlyingCardFor": [
-	"Nar Shaddaa",
-	"Nar Shaddaa (AI)"
+        {"title":"Nar Shaddaa","cardId":4085},
+        {"title":"Nar Shaddaa (AI)","cardId":7033}
       ]
     },
     {
@@ -14050,7 +14050,7 @@
       "set": "8",
       "side": "Light",
       "underlyingCardFor": [
-	"Daughter Of Skywalker (V)"
+        {"title":"Daughter Of Skywalker (V)","cardId":4067}
       ]
     },
     {
@@ -14734,7 +14734,7 @@
       "set": "3",
       "side": "Light",
       "underlyingCardFor": [
-	"Derek 'Hobbie' Klivian (V)"
+        {"title":"Derek 'Hobbie' Klivian (V)","cardId":4072}
       ]
     },
     {
@@ -15555,7 +15555,7 @@
       "set": "13",
       "side": "Light",
       "underlyingCardFor": [
-	"Don't Do That Again (V)"
+        {"title":"Don't Do That Again (V)","cardId":4404}
       ]
     },
     {
@@ -15613,7 +15613,7 @@
       "set": "11",
       "side": "Light",
       "underlyingCardFor": [
-	"Don't Do That Again (Tatooine) (V)"
+        {"title":"Don't Do That Again (Tatooine) (V)","cardId":5492}
       ]
     },
     {
@@ -15809,7 +15809,7 @@
       "set": "7",
       "side": "Light",
       "underlyingCardFor": [
-	"Don't Tread On Me (V)"
+        {"title":"Don't Tread On Me (V)","cardId":4015}
       ]
     },
     {
@@ -15989,7 +15989,7 @@
       "set": "7",
       "side": "Light",
       "underlyingCardFor": [
-	"Down With The Emperor! (V)"
+        {"title":"Down With The Emperor! (V)","cardId":767}
       ]
     },
     {
@@ -19410,7 +19410,7 @@
       "set": "102",
       "side": "Light",
       "underlyingCardFor": [
-	"For Luck (V)"
+        {"title":"For Luck (V)","cardId":967}
       ]
     },
     {
@@ -19561,7 +19561,7 @@
       "set": "4",
       "side": "Light",
       "underlyingCardFor": [
-	"Found Someone You Have (V)"
+        {"title":"Found Someone You Have (V)","cardId":977}
       ]
     },
     {
@@ -20774,7 +20774,7 @@
       "set": "8",
       "side": "Light",
       "underlyingCardFor": [
-	"General Solo (V)"
+        {"title":"General Solo (V)","cardId":1026}
       ]
     },
     {
@@ -21539,7 +21539,7 @@
       "set": "103",
       "side": "Light",
       "underlyingCardFor": [
-	"Gold Leader In Gold 1 (V)"
+        {"title":"Gold Leader In Gold 1 (V)","cardId":1053}
       ]
     },
     {
@@ -22825,7 +22825,7 @@
       "set": "102",
       "side": "Light",
       "underlyingCardFor": [
-	"Han (V)"
+        {"title":"Han (V)","cardId":1095}
       ]
     },
     {
@@ -23224,7 +23224,7 @@
       "set": "1",
       "side": "Light",
       "underlyingCardFor": [
-	"Han's Heavy Blaster Pistol (V)"
+        {"title":"Han's Heavy Blaster Pistol (V)","cardId":1107}
       ]
     },
     {
@@ -23354,7 +23354,7 @@
       "set": "7",
       "side": "Light",
       "underlyingCardFor": [
-	"Harc Seff (V)"
+        {"title":"Harc Seff (V)","cardId":1110}
       ]
     },
     {
@@ -25526,7 +25526,7 @@
       "set": "6",
       "side": "Light",
       "underlyingCardFor": [
-        "I Must Be Allowed To Speak (V)",
+        {"title":"I Must Be Allowed To Speak (V)","cardId":1219},
         "I Must Be Allowed To Speak & Smuggler's Blues"
       ]
     },
@@ -26031,7 +26031,7 @@
       "set": "5",
       "side": "Light",
       "underlyingCardFor": [
-	"Impressive, Most Impressive (V)"
+        {"title":"Impressive, Most Impressive (V)","cardId":1294}
       ]
     },
     {
@@ -27886,7 +27886,7 @@
       "set": "4",
       "side": "Light",
       "underlyingCardFor": [
-	"Jedi Levitation (V)"
+        {"title":"Jedi Levitation (V)","cardId":1385}
       ]
     },
     {
@@ -29809,7 +29809,7 @@
       "set": "1",
       "side": "Light",
       "underlyingCardFor": [
-	"K'lor'slug (V)"
+        {"title":"K'lor'slug (V)","cardId":1403}
       ]
     },
     {
@@ -30628,7 +30628,7 @@
       "set": "1",
       "side": "Light",
       "underlyingCardFor": [
-	"Leesub Sirln (V)"
+        {"title":"Leesub Sirln (V)","cardId":4073}
       ]
     },
     {
@@ -30754,7 +30754,7 @@
       "set": "102",
       "side": "Light",
       "underlyingCardFor": [
-	"Leia (V)"
+        {"title":"Leia (V)","cardId":1492}
       ]
     },
     {
@@ -32459,7 +32459,7 @@
       "set": "5",
       "side": "Light",
       "underlyingCardFor": [
-	"Lobot (V)"
+        {"title":"Lobot (V)","cardId":1563}
       ]
     },
     {
@@ -33019,7 +33019,7 @@
       "set": "1",
       "side": "Light",
       "underlyingCardFor": [
-	"Luke Skywalker (V)"
+        {"title":"Luke Skywalker (V)","cardId":1594}
       ]
     },
     {
@@ -33211,7 +33211,7 @@
       "set": "10",
       "side": "Light",
       "underlyingCardFor": [
-	"Luke Skywalker, Rebel Scout (V)"
+        {"title":"Luke Skywalker, Rebel Scout (V)","cardId":1597}
       ]
     },
     {
@@ -34886,7 +34886,7 @@
       "set": "7",
       "side": "Light",
       "underlyingCardFor": [
-	"Maneuvering Flaps (V)"
+        {"title":"Maneuvering Flaps (V)","cardId":1642}
       ]
     },
     {
@@ -35224,7 +35224,7 @@
       "set": "12",
       "side": "Light",
       "underlyingCardFor": [
-	"Master Qui-Gon (V)"
+        {"title":"Master Qui-Gon (V)","cardId":4074}
       ]
     },
     {
@@ -35262,7 +35262,7 @@
       "set": "12",
       "side": "Light",
       "underlyingCardFor": [
-	"Master Qui-Gon (V) (AI)"
+        {"title":"Master Qui-Gon (V) (AI)","cardId":5732}
       ]
     },
     {
@@ -35402,7 +35402,7 @@
       "set": "6",
       "side": "Light",
       "underlyingCardFor": [
-	"The Mythrol"
+        {"title":"The Mythrol","cardId":5621}
       ]
     },
     {
@@ -35656,7 +35656,7 @@
       "set": "3",
       "side": "Light",
       "underlyingCardFor": [
-	"Captain Yutani With Blaster Cannon"
+        {"title":"Captain Yutani With Blaster Cannon","cardId":4068}
       ]
     },
     {
@@ -38568,7 +38568,7 @@
       "set": "11",
       "side": "Light",
       "underlyingCardFor": [
-	"Obi-Wan Kenobi, Padawan Learner (V)"
+        {"title":"Obi-Wan Kenobi, Padawan Learner (V)","cardId":4075}
       ]
     },
     {
@@ -39424,8 +39424,8 @@
       "set": "6",
       "side": "Light",
       "underlyingCardFor": [
-	"Aayla Secura",
-	"Aayla Secura (AI)"
+        {"title":"Aayla Secura","cardId":5002},
+        {"title":"Aayla Secura (AI)","cardId":5312}
       ]
     },
     {
@@ -42383,7 +42383,7 @@
       "set": "10",
       "side": "Light",
       "underlyingCardFor": [
-	"Booster In Pulsar Skate"
+        {"title":"Booster In Pulsar Skate","cardId":4087}
       ]
     },
     {
@@ -42452,7 +42452,7 @@
       "side": "Light",
       "underlyingCardFor": [
         "Local Defense & Put That Down",
-        "Put That Down (V)"
+        {"title":"Put That Down (V)","cardId":4084}
       ]
     },
     {
@@ -43171,7 +43171,7 @@
       "set": "3",
       "side": "Light",
       "underlyingCardFor": [
-	"R-3PO (Ar-Threepio) (V)"
+        {"title":"R-3PO (Ar-Threepio) (V)","cardId":4076}
       ]
     },
     {
@@ -43818,7 +43818,7 @@
       "set": "12",
       "side": "Light",
       "underlyingCardFor": [
-	"Obi-Wan in Radiant VII"
+        {"title":"Obi-Wan in Radiant VII","cardId":4088}
       ]
     },
     {
@@ -45012,8 +45012,8 @@
       "set": "1",
       "side": "Light",
       "underlyingCardFor": [
-	"Red 1 (V)",
-	"Red 12"
+        {"title":"Red 1 (V)","cardId":4089},
+        "Red 12"
       ]
     },
     {
@@ -45474,7 +45474,7 @@
       "set": "7",
       "side": "Light",
       "underlyingCardFor": [
-	"Red 8 (V)"
+        {"title":"Red 8 (V)","cardId":4090}
       ]
     },
     {
@@ -45711,7 +45711,7 @@
       "set": "9",
       "side": "Light",
       "underlyingCardFor": [
-	"Wedge In Red Squadron 1"
+        {"title":"Wedge In Red Squadron 1","cardId":4093}
       ]
     },
     {
@@ -47888,7 +47888,7 @@
       "set": "7",
       "side": "Light",
       "underlyingCardFor": [
-	"Commander Narra"
+        {"title":"Commander Narra","cardId":4070}
       ]
     },
     {
@@ -48133,7 +48133,7 @@
       "set": "12",
       "side": "Light",
       "underlyingCardFor": [
-	"Dorme"
+        {"title":"Dorme","cardId":5001}
       ]
     },
     {
@@ -48197,7 +48197,7 @@
       "set": "1",
       "side": "Light",
       "underlyingCardFor": [
-	"Sai'torr Kal Fas (V)"
+        {"title":"Sai'torr Kal Fas (V)","cardId":2158}
       ]
     },
     {
@@ -48421,8 +48421,8 @@
       "set": "6",
       "side": "Light",
       "underlyingCardFor": [
-	"I Don't Like Sand",
-	"Why Does Everyone Want To Go Back To Jakku?!"
+        {"title":"I Don't Like Sand","cardId":890},
+        "Why Does Everyone Want To Go Back To Jakku?!"
       ]
     },
     {
@@ -50737,7 +50737,7 @@
       "set": "1",
       "side": "Light",
       "underlyingCardFor": [
-	"Acclamator-Class Assault Ship"
+        {"title":"Acclamator-Class Assault Ship","cardId":4086}
       ]
     },
     {
@@ -50780,7 +50780,7 @@
       "set": "2",
       "side": "Light",
       "underlyingCardFor": [
-	"A Good Blaster At Your Side"
+        {"title":"A Good Blaster At Your Side","cardId":4079}
       ]
     },
     {
@@ -51459,7 +51459,7 @@
       "underlyingCardFor": [
         "Effective Repairs & Starship Levitation",
         "My Parents Were Strong",
-        "Starship Levitation (V)"
+        {"title":"Starship Levitation (V)","cardId":2345}
       ]
     },
     {
@@ -51885,8 +51885,8 @@
       "set": "9",
       "side": "Light",
       "underlyingCardFor": [
-	"Mon Calamari Dockyards",
-	"Strikeforce (V)"
+        {"title":"Mon Calamari Dockyards","cardId":4083},
+        {"title":"Strikeforce (V)","cardId":4081}
       ]
     },
     {
@@ -53412,8 +53412,8 @@
       "set": "1",
       "side": "Light",
       "underlyingCardFor": [
-	"Coruscant: Night Club",
-	"Coruscant: Night Club (AI)"
+        {"title":"Coruscant: Night Club","cardId":5003},
+        {"title":"Coruscant: Night Club (AI)","cardId":7026}
       ]
     },
     {
@@ -55300,7 +55300,7 @@
       "set": "4",
       "side": "Light",
       "underlyingCardFor": [
-	"Goldenrod"
+        {"title":"Goldenrod","cardId":4410}
       ]
     },
     {
@@ -56588,8 +56588,8 @@
       "set": "1",
       "side": "Light",
       "underlyingCardFor": [
-	"Anakin Skywalker, Padawan Learner",
-	"Anakin Skywalker, Padawan Learner (AI)"
+        {"title":"Anakin Skywalker, Padawan Learner","cardId":4065},
+        {"title":"Anakin Skywalker, Padawan Learner (AI)","cardId":5340}
       ]
     },
     {
@@ -59717,7 +59717,7 @@
       "set": "8",
       "side": "Light",
       "underlyingCardFor": [
-	"Wokling (V)"
+        {"title":"Wokling (V)","cardId":2820}
       ]
     },
     {
@@ -60990,7 +60990,7 @@
       "set": "1",
       "side": "Light",
       "underlyingCardFor": [
-	"Yavin Sentry (V)"
+        {"title":"Yavin Sentry (V)","cardId":2861}
       ]
     },
     {
@@ -61767,7 +61767,7 @@
       "set": "6",
       "side": "Light",
       "underlyingCardFor": [
-	"Simple Tricks And Nonsense"
+        {"title":"Simple Tricks And Nonsense","cardId":4406}
       ]
     },
     {
@@ -61863,8 +61863,8 @@
       "set": "9",
       "side": "Light",
       "underlyingCardFor": [
-	"He Is The Chosen One / He Will Bring Balance",
-	"Your Insight Serves You Well (Death Star II) (V)"
+        "He Is The Chosen One / He Will Bring Balance",
+        {"title":"Your Insight Serves You Well (Death Star II) (V)","cardId":6048}
       ]
     },
     {
@@ -61912,7 +61912,7 @@
       "set": "13",
       "side": "Light",
       "underlyingCardFor": [
-	"Your Insight Serves You Well (V)"
+        {"title":"Your Insight Serves You Well (V)","cardId":4407}
       ]
     },
     {
@@ -62340,7 +62340,7 @@
       "set": "109",
       "side": "Light",
       "underlyingCardFor": [
-	"Overseer"
+        {"title":"Overseer","cardId":4092}
       ]
     },
     {
