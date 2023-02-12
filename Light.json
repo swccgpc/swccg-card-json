@@ -2198,7 +2198,7 @@
       "set": "12",
       "side": "Light",
       "underlyingCardFor": [
-	"Alter (Coruscant) (V)"
+        {"title":"Alter (Coruscant) (V)","cardId":5333}
       ]
     },
     {
@@ -38606,7 +38606,7 @@
       "set": "11",
       "side": "Light",
       "underlyingCardFor": [
-	"Obi-Wan Kenobi, Padawan Learner (V) (AI)"
+        {"title":"Obi-Wan Kenobi, Padawan Learner (V) (AI)","cardId":5769}
       ]
     },
     {
