@@ -554,6 +554,43 @@
       "rarity": "R",
       "set": "301",
       "side": "Dark"
+    },
+    {
+      "front": {
+        "darkSideIcons": 2,
+        "destiny": "0",
+        "errataDate": "2022-12-12",
+        "errataNotes": "Original was a 2/1 system instead of 2/0. Original Text: Dark: While you control, at related battleground sites you control with an Imperial leader, your Force drains are +1. Light: If Ghost and Phantom piloted here, Force drain +1 here. If no Rebel starships piloted here, Force drain -1 here.",
+        "errataSymbol": "E1",
+        "gametext": "Dark: While you occupy with an admiral, gains one [Dark Side] icon. Light: While you control, opponent occupies with an admiral, or Lothal converted, gains one [Light Side] icon.",
+        "icons": [
+          "Planet",
+          "Set 19"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual19-Dark/large/lothal.gif",
+        "lightSideIcons": 0,
+        "parsec": "6",
+        "subType": "System",
+        "title": "•Lothal",
+        "type": "Location",
+        "uniqueness": "*"
+      },
+      "gempId": "219_10",
+      "id": 200014,
+      "legacy": false,
+      "previousId": 20006,
+      "printings": [
+        {
+          "set": "219"
+        }
+      ],
+      "rarity": "U2",
+      "rulings": [
+        "Only follow the 'While Lothal converted' text of the topmost (active) Lothal system card.  It is applicable if there exists one (or more) converted copies of Lothal underneath.",
+        "Disregard the text of the copies of Lothal underneath."
+      ],
+      "set": "219",
+      "side": "Dark"
     }
   ]
 }

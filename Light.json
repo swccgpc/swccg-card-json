@@ -241,7 +241,10 @@
         "If the droid's cover is broken (either voluntarily or by another card such as Lt. Pol Treidum), then A Gift is lost."
       ],
       "set": "6",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        "A Gift (V)"
+      ]
     },
     {
       "front": {
@@ -25203,7 +25206,10 @@
         "These cards do <u>not</u> work: Nick Of Time, Skull."
       ],
       "set": "11",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        "I Can't Believe He's Gone (V)"
+      ]
     },
     {
       "combo": [
@@ -39202,10 +39208,10 @@
       "rarity": "C2",
       "rulings": [
         "It is not possible to revive a character and forfeit them again in the same battle.",
-        "A character who has been made 'forfeit = 0' can still be forfeited, and therefore, can still be revived by Old Ben.",
+        "A character who has been made 'forfeit = 0' can still be forfeited, and therefore, can still be revived.",
         "The revived character is a 'fresh copy' unaffected by any previously applied status effects such as 'forfeit = 0' or 'game text canceled for remainder of turn'.",
         "The revived character could even battle again this turn (e.g. by moving to another site with Nabrun Leids and battling there).",
-        "Old Ben only allows the revival of the exact card that was forfeited, not another copy of that card or persona."
+        "Can only revive the exact card that was forfeited, not another copy of that card or persona."
       ],
       "set": "1",
       "side": "Light",
@@ -51840,19 +51846,26 @@
         "General Carlist Rieekan (V)",
         "General Crix Madine",
         "General Dodonna",
+        "General Dodonna (V)",
         "General Jar Jar",
+        "General Kenobi",
         "General Leia Organa",
         "General McQuarrie",
         "General Solo",
         "General Solo (V)",
         "General Walex Blissex",
+        "General Walex Blissex (V)",
         "Gungan General",
+        "Han Solo, Optimistic General",
         "Mon Mothma",
         "Senator Mon Mothma"
       ],
       "rarity": "R",
       "set": "9",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        "Strike Planning (V)"
+      ]
     },
     {
       "front": {
@@ -57032,7 +57045,10 @@
       ],
       "rarity": "U",
       "set": "4",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        "Han's Medal"
+      ]
     },
     {
       "abbr": [
@@ -69503,6 +69519,151 @@
         "This weapon is a blaster (e.g. for Blaster Proficiency)."
       ],
       "set": "200",
+      "side": "Light"
+    },
+    {
+      "abbr": [
+        "AGv"
+      ],
+      "front": {
+        "destiny": "4",
+        "gametext": "If you just moved a droid to Audience Chamber, deploy on table. You may not cancel battles. Force loss from Or Be Destroyed may not be reduced and is limited to 3. While Han with your non-'hit' Chewie, Lando, or Luke, Han may not be targeted by weapons. [Immune to Control.]",
+        "icons": [
+          "Jabba's Palace",
+          "Set 21"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual21-Light/large/agift.gif",
+        "lore": "'As a token of my good will, I present to you a gift: these two droids. Both are hardworking and will serve you well.'",
+        "subType": "Immediate",
+        "title": "•A Gift (V)",
+        "type": "Effect",
+        "uniqueness": "*"
+      },
+      "gempId": "221_3",
+      "id": 7151,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "221"
+        }
+      ],
+      "rarity": "U",
+      "set": "221",
+      "side": "Light"
+    },
+    {
+      "abbr": [
+        "HM"
+      ],
+      "front": {
+        "destiny": "5",
+        "gametext": "Deploy on Han or a Wookiee. Once per game, when deployed, may take any one card into hand from Force Pile; reshuffle. If on Chewie, may place this device in Used Pile to cancel a just drawn destiny targeting the ability or defense value of a Wookiee here.",
+        "icons": [
+          "Episode VII",
+          "Set 21"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual21-Light/large/hansmedal.gif",
+        "lore": "Blank",
+        "title": "•Han's Medal",
+        "type": "Device",
+        "uniqueness": "*"
+      },
+      "gempId": "221_4",
+      "id": 7152,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "221"
+        }
+      ],
+      "rarity": "U",
+      "set": "221",
+      "side": "Light"
+    },
+    {
+      "abbr": [
+        "ICBHGv"
+      ],
+      "front": {
+        "destiny": "5",
+        "gametext": "If Obi-Wan 'communing,' deploy on table. Once per battle, may activate 1 Force or add 1 to a just drawn destiny. Once per game, if a battle at a Tatooine site just ended, may 'revive' (return to that site from Lost Pile) a Rebel forfeited from that site this turn. [Immune to Alter.]",
+        "icons": [
+          "Tatooine",
+          "Set 21"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual21-Light/large/icantbelievehesgone.gif",
+        "lore": "Even though Luke felt the pain of losing his mentor, Obi-Wan continued to give him strength and guidance through the Force.",
+        "title": "•I Can't Believe He's Gone (V)",
+        "type": "Effect",
+        "uniqueness": "*"
+      },
+      "gempId": "221_5",
+      "id": 7153,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "221"
+        }
+      ],
+      "rarity": "C",
+      "rulings": [
+        "It is not possible to revive a character and forfeit them again in the same battle.",
+        "A character who has been made 'forfeit = 0' can still be forfeited, and therefore, can still be revived.",
+        "The revived character is a 'fresh copy' unaffected by any previously applied status effects such as 'forfeit = 0' or 'game text canceled for remainder of turn'.",
+        "The revived character could even battle again this turn (e.g. by moving to another site with Nabrun Leids and battling there).",
+        "Can only revive the exact card that was forfeited, not another copy of that card or persona."
+      ],
+      "set": "221",
+      "side": "Light"
+    },
+    {
+      "abbr": [
+        "SPv"
+      ],
+      "front": {
+        "destiny": "5",
+        "gametext": "If an [A New Hope] objective on table, deploy on table. Twice per game, may take Mon Mothma or any general into hand from Reserve Deck; reshuffle. During your first turn, while Stolen Data Tapes at Dune Sea, [Set 1] Obi-Wan deploys -6 there. [Immune to Alter.]",
+        "icons": [
+          "Death Star II",
+          "Set 21"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual21-Light/large/strikeplanning.gif",
+        "lore": "'General Solo, is your strike team assembled?'",
+        "title": "•Strike Planning (V)",
+        "type": "Effect",
+        "uniqueness": "*"
+      },
+      "gempId": "221_6",
+      "id": 7154,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "221"
+        }
+      ],
+      "pulls": [
+        "General Airen Cracken",
+        "General Calrissian",
+        "General Carlist Rieekan",
+        "General Carlist Rieekan (V)",
+        "General Crix Madine",
+        "General Dodonna",
+        "General Dodonna (V)",
+        "General Jar Jar",
+        "General Kenobi",
+        "General Leia Organa",
+        "General McQuarrie",
+        "General Solo",
+        "General Solo (V)",
+        "General Walex Blissex",
+        "General Walex Blissex (V)",
+        "Gungan General",
+        "Han Solo, Optimistic General",
+        "Mon Mothma",
+        "Senator Mon Mothma"
+      ],
+      "rarity": "R",
+      "set": "221",
       "side": "Light"
     }
   ]
