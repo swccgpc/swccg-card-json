@@ -54907,7 +54907,8 @@
       "set": "7",
       "side": "Dark",
       "underlyingCardFor": [
-	"Vader's Personal Shuttle (V)"
+        "Colonel Jendon In Vader's Personal Shuttle",
+        "Vader's Personal Shuttle (V)"
       ]
     },
     {
@@ -56643,7 +56644,8 @@
       "set": "6",
       "side": "Dark",
       "underlyingCardFor": [
-        "Magistrate Morgan Elsbeth"
+        "Magistrate Morgan Elsbeth",
+        "Well Guarded (V)"
       ]
     },
     {
@@ -63527,16 +63529,16 @@
       "front": {
         "darkSideIcons": 2,
         "destiny": "0",
-        "errataDate": "2022-12-12",
-        "errataNotes": "Original was a 2/1 system instead of 2/0. Original Text: Dark: While you control, at related battleground sites you control with an Imperial leader, your Force drains are +1. Light: If Ghost and Phantom piloted here, Force drain +1 here. If no Rebel starships piloted here, Force drain -1 here.",
-        "errataSymbol": "E1",
-        "gametext": "Dark: While you occupy with an admiral, gains one [Dark Side] icon. Light: While you control, opponent occupies with an admiral, or Lothal converted, gains one [Light Side] icon.",
+        "errataDate": "2023-03-06",
+        "errataNotes": "E1 was a 2/0 system with this text: Dark: While you occupy with an admiral, gains one [Dark Side] icon. Light: While you control, opponent occupies with an admiral, or Lothal converted, gains one [Light Side] icon. Original was a 2/1 system with this text: Dark: While you control, at related battleground sites you control with an Imperial leader, your Force drains are +1. Light: If Ghost and Phantom piloted here, Force drain +1 here. If no Rebel starships piloted here, Force drain -1 here.",
+        "errataSymbol": "E2",
+        "gametext": "Dark: While you occupy, gains one [Dark Side] icon. Light: While you occupy, gains one [Light Side] icon. Unless Ghost or Phantom piloted here, Force drain -1 here.",
         "icons": [
           "Planet",
           "Set 19"
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual19-Dark/large/lothal.gif",
-        "lightSideIcons": 0,
+        "lightSideIcons": 1,
         "parsec": "6",
         "subType": "System",
         "title": "•Lothal",
@@ -63546,17 +63548,13 @@
       "gempId": "219_10",
       "id": 7082,
       "legacy": false,
-      "previousId": 20006,
+      "previousId": 20014,
       "printings": [
         {
           "set": "219"
         }
       ],
       "rarity": "U2",
-      "rulings": [
-        "Only follow the 'While Lothal converted' text of the topmost (active) Lothal system card.  It is applicable if there exists one (or more) converted copies of Lothal underneath.",
-        "Disregard the text of the copies of Lothal underneath."
-      ],
       "set": "219",
       "side": "Dark"
     },
@@ -64773,6 +64771,78 @@
       ],
       "rarity": "C2",
       "set": "212",
+      "side": "Dark"
+    },
+    {
+      "abbr": [
+        "CJIVPS"
+      ],
+      "front": {
+        "characteristics": [
+          "Imperial (starship)"
+        ],
+        "deploy": "5",
+        "destiny": "3",
+        "forfeit": "5",
+        "gametext": "Deploys -2 to Mustafar. May add 1 pilot and 3 passengers. Permanent pilot is •Jendon, who provides ability of 2. If Vader armed with a lightsaber weapon card at a battleground, Force drain +1 here.",
+        "hyperspeed": "3",
+        "icons": [
+          "Scomp Link",
+          "Pilot",
+          "Nav Computer",
+          "Set 21"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual21-Dark/large/coloneljendoninvaderspersonalshuttle.gif",
+        "lore": "Customized transport of Lord Vader. Employs advanced sensor jamming gear. Modified with enhanced tactical displays constructed to the Dark Lord's specifications.",
+        "maneuver": "5",
+        "power": "5",
+        "subType": "Starfighter: Lambda-Class Shuttle",
+        "title": "•Colonel Jendon In Vader's Personal Shuttle",
+        "type": "Starship",
+        "uniqueness": "*"
+      },
+      "gempId": "221_1",
+      "id": 7149,
+      "legacy": false,
+      "matching": [
+        "Any Vader persona pilot"
+      ],
+      "printings": [
+        {
+          "set": "221"
+        }
+      ],
+      "rarity": "R",
+      "set": "221",
+      "side": "Dark"
+    },
+    {
+      "abbr": [
+        "WGv"
+      ],
+      "front": {
+        "destiny": "6",
+        "gametext": "Deploy on table. Your Gamorreans, Niktos, and Weequays are guards. Your guards are forfeit +1. Your alien leaders with your guard are defense value +1. During battle, may reduce a character's defense value by 1 for each of your guards present. [Immune to Alter.]",
+        "icons": [
+          "Jabba's Palace",
+          "Set 21"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual21-Dark/large/wellguarded.gif",
+        "lore": "Most of Jabba's guards had been sold to the Hutt and were too scared (or too dumb) to leave. Jabba assigned his best guards to watch over his most prized possessions.",
+        "title": "•Well Guarded (V)",
+        "type": "Effect",
+        "uniqueness": "*"
+      },
+      "gempId": "221_2",
+      "id": 7150,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "221"
+        }
+      ],
+      "rarity": "U",
+      "set": "221",
       "side": "Dark"
     }
   ]
