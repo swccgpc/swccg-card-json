@@ -734,6 +734,139 @@
       ],
       "set": "209",
       "side": "Light"
+    },
+    {
+      "abbr": [
+        "ICBHGv"
+      ],
+      "front": {
+        "destiny": "5",
+        "gametext": "If Obi-Wan 'communing,' deploy on table. Once per battle, may activate 1 Force or add 1 to a just drawn destiny. Once per game, if a battle at a Tatooine site just ended, may 'revive' (return to that site from Lost Pile) a Rebel forfeited from that site this turn. [Immune to Alter.]",
+        "icons": [
+          "Tatooine",
+          "Set 21"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual21-Light/large/icantbelievehesgone.gif",
+        "lore": "Even though Luke felt the pain of losing his mentor, Obi-Wan continued to give him strength and guidance through the Force.",
+        "title": "•I Can't Believe He's Gone (V)",
+        "type": "Effect",
+        "uniqueness": "*"
+      },
+      "gempId": "221_5",
+      "id": 40019,
+      "legacy": false,
+      "nextId": 7153,
+      "printings": [
+        {
+          "set": "221"
+        }
+      ],
+      "rarity": "C",
+      "rulings": [
+        "It is not possible to revive a character and forfeit them again in the same battle.",
+        "A character who has been made 'forfeit = 0' can still be forfeited, and therefore, can still be revived.",
+        "The revived character is a 'fresh copy' unaffected by any previously applied status effects such as 'forfeit = 0' or 'game text canceled for remainder of turn'.",
+        "The revived character could even battle again this turn (e.g. by moving to another site with Nabrun Leids and battling there).",
+        "Can only revive the exact card that was forfeited, not another copy of that card or persona."
+      ],
+      "set": "221",
+      "side": "Light"
+    },
+    {
+      "abbr": [
+        "MLv"
+      ],
+      "front": {
+        "ability": "5",
+        "deploy": "5",
+        "destiny": "1",
+        "extraText": [
+          "Force-Sensitive"
+        ],
+        "forfeit": "8",
+        "gametext": "While at a site, unless opponent's character of ability > 3 here, reset opponent's total battle destiny here to 0. Once per game, may deploy a lightsaber on Luke from Lost Pile. Opponent's aliens deploy +1 to same and related Tatooine sites. Immune to attrition < 4.",
+        "icons": [
+          "Premium",
+          "Pilot",
+          "Warrior",
+          "Set 18"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual18-Light/large/masterluke.gif",
+        "lore": "Until being reunited with Yoda, Luke suspected that he had completed his training. Has a strong influence on the weak minded.",
+        "power": "5",
+        "subType": "Rebel",
+        "title": "•Master Luke (V)",
+        "type": "Character",
+        "uniqueness": "*"
+      },
+      "gempId": "218_25",
+      "id": 40020,
+      "legacy": false,
+      "matching": [
+        "Artoo-Detoo In Red 5",
+        "Red 5",
+        "Red 5 (V)"
+      ],
+      "matchingWeapon": [
+        "Anakin's Lightsaber",
+        "Anakin's Lightsaber (V)",
+        "Luke's Lightsaber"
+      ],
+      "nextId": 7066,
+      "printings": [
+        {
+          "set": "218"
+        }
+      ],
+      "pulledBy": [
+        "Luke's Back"
+      ],
+      "pulls": [
+        "Pulls the following from Lost Pile only:",
+        "Anakin's Lightsaber",
+        "Anakin's Lightsaber (V)",
+        "Jedi Lightsaber",
+        "Luke's Lightsaber"
+      ],
+      "rarity": "PM",
+      "rulings": [
+        "A character excluded from battle such as (Darth Vader affected by Imperial Barrier) is inactive and does not count as a character of ability > 3 for Master Luke (V).",
+        "If opponent completes a battle destiny draw and Luke resets the total to 0, opponent may increase attrition (e.g. +1 with Bossk or add a destiny to attrition with Ponda Baba (V)).",
+        "If opponent did not complete any battle destiny draws, there is no total for Luke to reset to 0, and opponent cannot increase attrition.",
+        "Can only deploy a lightsaber from Lost Pile that is normally allowed to deploy on him (e.g. not Obi-Wan's Lightsaber)."
+      ],
+      "set": "218",
+      "side": "Light"
+    },
+    {
+      "front": {
+        "destiny": "4",
+        "gametext": "USED: Deploy Ghost and Hera simultaneously from your hand and/or Reserve Deck (for -1 Force each).  LOST: If Chopper, Ezra, Hera, Kanan, Sabine or Zeb in a battle, they each add 1 to your total battle destiny.",
+        "icons": [
+          "Set 7"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual7-Light/large/thisismyship.gif",
+        "subType": "Used Or Lost",
+        "title": "•This Is MY Ship!",
+        "type": "Interrupt",
+        "uniqueness": "*"
+      },
+      "gempId": "207_15",
+      "id": 40021,
+      "legacy": false,
+      "nextId": 5177,
+      "printings": [
+        {
+          "set": "207"
+        }
+      ],
+      "pulls": [
+        "Captain Hera Syndulla",
+        "Ghost"
+      ],
+      "rarity": "C",
+      "set": "207",
+      "side": "Light"
     }
   ]
 }

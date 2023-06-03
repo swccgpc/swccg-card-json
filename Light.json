@@ -509,7 +509,7 @@
       "set": "111",
       "side": "Light",
       "underlyingCardFor": [
-	"A New Secret Base (V)"
+        "A New Secret Base (V)"
       ]
     },
     {
@@ -830,7 +830,7 @@
       "set": "9",
       "side": "Light",
       "underlyingCardFor": [
-	"Tallie Lintra In Blue 1"
+        "Tallie Lintra In Blue 1"
       ]
     },
     {
@@ -866,8 +866,8 @@
       "set": "9",
       "side": "Light",
       "underlyingCardFor": [
-	"Green Leader In Green Squadron 1",
-	"Green Leader In Green Squadron 1 (AI)"
+        "Green Leader In Green Squadron 1",
+        "Green Leader In Green Squadron 1 (AI)"
       ]
     },
     {
@@ -1133,7 +1133,7 @@
       "set": "9",
       "side": "Light",
       "underlyingCardFor": [
-	"Admiral Ackbar (V)"
+        "Admiral Ackbar (V)"
       ]
     },
     {
@@ -1367,7 +1367,7 @@
       "set": "1",
       "side": "Light",
       "underlyingCardFor": [
-	"Affect Mind (V)"
+        "Affect Mind (V)"
       ]
     },
     {
@@ -36733,7 +36733,7 @@
       "set": "4",
       "side": "Light",
       "underlyingCardFor": [
-	"This Is MY Ship!"
+        "This Is MY Ship!"
       ]
     },
     {
@@ -56078,7 +56078,10 @@
     {
       "front": {
         "destiny": "4",
-        "gametext": "USED: Deploy Ghost and Hera simultaneously from your hand and/or Reserve Deck (for -1 Force each); reshuffle.  LOST: If Chopper, Ezra, Hera, Kanan, Sabine or Zeb in a battle, they each add 1 to your total battle destiny.",
+        "errataDate": "2023-06-01",
+        "errataNotes": "Original card accidentally omitted the word 'reshuffle' although it was always intended to be there.",
+        "errataSymbol": "E1",
+        "gametext": "USED: Deploy Ghost and Hera simultaneously (for -1 Force each) from your hand and/or Reserve Deck; reshuffle.  LOST: If Chopper, Ezra, Hera, Kanan, Sabine or Zeb in a battle, they each add 1 to your total battle destiny.",
         "icons": [
           "Set 7"
         ],
@@ -56091,6 +56094,7 @@
       "gempId": "207_15",
       "id": 5177,
       "legacy": false,
+      "previousId": 40021,
       "printings": [
         {
           "set": "207"
@@ -56101,6 +56105,11 @@
         "Ghost"
       ],
       "rarity": "C",
+      "rulings": [
+        "If one or both cards cannot be found, opponent only verifies Reserve Deck. A judge may be required to verify combined contents of hand and Reserve Deck to check for the cards.",
+        "May search Reserve Deck, then decide to deploy both cards entirely from hand (this does not trigger verification).",
+        "May deploy both cards from hand only (without searching Reserve Deck)."
+      ],
       "set": "207",
       "side": "Light"
     },
@@ -67816,11 +67825,14 @@
         "ability": "5",
         "deploy": "5",
         "destiny": "1",
+        "errataDate": "2023-06-01",
+        "errataNotes": "Original card started with 'While at a site' (there was no 'alone' requirement). Also, the second-to-last sentence used to say 'Opponent's aliens deploy +1 to same and related Tatooine sites.'",
+        "errataSymbol": "E1",
         "extraText": [
           "Force-Sensitive"
         ],
         "forfeit": "8",
-        "gametext": "While at a site, unless opponent's character of ability > 3 here, reset opponent's total battle destiny here to 0. Once per game, may deploy a lightsaber on Luke from Lost Pile. Opponent's aliens deploy +1 to same and related Tatooine sites. Immune to attrition < 4.",
+        "gametext": "While alone at a site, unless opponent's character of ability > 3 here, reset opponent's total battle destiny here to 0. Once per game, may deploy a lightsaber on Luke from Lost Pile. Opponent's aliens deploy +1 to same site. Immune to attrition < 4.",
         "icons": [
           "Premium",
           "Pilot",
@@ -67848,6 +67860,7 @@
         "Anakin's Lightsaber (V)",
         "Luke's Lightsaber"
       ],
+      "previousId": 40020,
       "printings": [
         {
           "set": "218"
@@ -69586,7 +69599,10 @@
       ],
       "front": {
         "destiny": "5",
-        "gametext": "If Obi-Wan 'communing,' deploy on table. Once per battle, may activate 1 Force or add 1 to a just drawn destiny. Once per game, if a battle at a Tatooine site just ended, may 'revive' (return to that site from Lost Pile) a Rebel forfeited from that site this turn. [Immune to Alter.]",
+        "errataDate": "2023-06-01",
+        "errataNotes": "Original card said 'just drawn destiny' so it worked on any destiny drawn during a battle.",
+        "errataSymbol": "E1",
+        "gametext": "If Obi-Wan 'communing,' deploy on table. Once per battle, may activate 1 Force or add 1 to a just drawn battle destiny. Once per game, if a battle at a Tatooine site just ended, may 'revive' (return to that site from Lost Pile) a Rebel forfeited from that site this turn. [Immune to Alter.]",
         "icons": [
           "Tatooine",
           "Set 21"
@@ -69600,6 +69616,7 @@
       "gempId": "221_5",
       "id": 7153,
       "legacy": false,
+      "previousId": 40019,
       "printings": [
         {
           "set": "221"
