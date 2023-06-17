@@ -605,7 +605,10 @@
         "Only refers to Padme Naberrie, not other Amidala cards."
       ],
       "set": "13",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        {"title": "•A Remote Planet (V)", "cardId": 7192}
+      ]
     },
     {
       "combo": [
@@ -785,7 +788,8 @@
       "set": "12",
       "side": "Light",
       "underlyingCardFor": [
-        "Your Thoughts Dwell On Your Mother"
+        {"title": "•Anakin's Destiny", "cardId": 7195},
+        {"title": "•Your Thoughts Dwell On Your Mother", "cardId": 7005}
       ]
     },
     {
@@ -4253,7 +4257,10 @@
       ],
       "rarity": "R",
       "set": "4",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        {"title": "•At Peace (V)", "cardId": 7197}
+      ]
     },
     {
       "front": {
@@ -4945,7 +4952,10 @@
       ],
       "rarity": "U",
       "set": "8",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        {"title": "•Battle Of Christophsis", "cardId": 7198}
+      ]
     },
     {
       "counterpart": "Battle Order - Defensive Shield",
@@ -10451,7 +10461,10 @@
       ],
       "rarity": "C",
       "set": "5",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        {"title": "•Christophsis: Chaleydonia", "cardId": 7201}
+      ]
     },
     {
       "counterpart": "Cloud City: West Gallery",
@@ -13009,7 +13022,10 @@
         "Neither player may view Dark's cards after they are stacked face down here."
       ],
       "set": "12",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        {"title": "•Credits Will Do Fine (V)", "cardId": 7204}
+      ]
     },
     {
       "front": {
@@ -13835,7 +13851,10 @@
       ],
       "rarity": "C",
       "set": "5",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        {"title": "•Grievous Will Run And Hide", "cardId": 7213}
+      ]
     },
     {
       "combo": [
@@ -15223,7 +15242,10 @@
       ],
       "rarity": "R",
       "set": "5",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        {"title": "Hunt For The Droid General / He's A Coward", "cardId": 7215}
+      ]
     },
     {
       "counterpart": "Disruptor Pistol",
@@ -16598,7 +16620,10 @@
       ],
       "rarity": "C1",
       "set": "3",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        {"title": "•Admiral Yularen", "cardId": 7193}
+      ]
     },
     {
       "front": {
@@ -16849,7 +16874,8 @@
       "set": "11",
       "side": "Light",
       "underlyingCardFor": [
-        "Master Qui-Gon Jinn, An Old Friend"
+        {"title": "•Either Way, You Win (V)", "cardId": 7205},
+        {"title": "•Master Qui-Gon Jinn, An Old Friend", "cardId": 6940}
       ]
     },
     {
@@ -17976,7 +18002,10 @@
       ],
       "rarity": "U",
       "set": "11",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        {"title": "•Battle Of Geonosis", "cardId": 7199}
+      ]
     },
     {
       "counterpart": "Strategic Reserves",
@@ -18242,7 +18271,10 @@
       ],
       "rarity": "U",
       "set": "11",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        {"title": "•Eventually You'll Lose (V)", "cardId": 7207}
+      ]
     },
     {
       "front": {
@@ -19849,7 +19881,10 @@
       ],
       "rarity": "C2",
       "set": "1",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        {"title": "<>Supply Route", "cardId": 7222}
+      ]
     },
     {
       "combo": [
@@ -21204,7 +21239,7 @@
       "set": "5",
       "side": "Light",
       "underlyingCardFor": [
-        {"title": "A Jedi's Fury", "cardId": 7191},
+        {"title": "•A Jedi's Fury", "cardId": 7191}
       ]
     },
     {
@@ -25248,7 +25283,10 @@
         "Light can only place their own copy of Boonta Eve Podrace out of play, not the opponent's copy."
       ],
       "set": "11",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        {"title": "•Anakin Skywalker, Junkyard Slave", "cardId": 7194}
+      ]
     },
     {
       "abbr": [
@@ -39393,7 +39431,10 @@
       ],
       "rarity": "PM",
       "set": "13",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        {"title": "•Only Jedi Carry That Weapon (V)", "cardId": 7216}
+      ]
     },
     {
       "combo": [
@@ -41110,7 +41151,10 @@
       ],
       "rarity": "U2",
       "set": "1",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        {"title": "Generation One Armor Always Holds Up", "cardId": 7209}
+      ]
     },
     {
       "canceledBy": [
@@ -42969,7 +43013,10 @@
       ],
       "rarity": "R",
       "set": "11",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        {"title": "•Qui-Gon Jinn's Lightsaber (V)", "cardId": 7217}
+      ]
     },
     {
       "front": {
@@ -42996,7 +43043,10 @@
       ],
       "rarity": "R",
       "set": "11",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        {"title": "•Qui-Gon Jinn's Lightsaber (V) (AI)", "cardId": 7218}
+      ]
     },
     {
       "front": {
@@ -43903,7 +43953,8 @@
       "set": "2",
       "side": "Light",
       "underlyingCardFor": [
-	"Takodana"
+        {"title": "•Christophsis", "cardId": 7200},
+    	  {"title": "•Takodana", "cardId": 5936}
       ]
     },
     {
@@ -44499,7 +44550,8 @@
       "set": "1",
       "side": "Light",
       "underlyingCardFor": [
-	"Puck"
+        {"title": "Clone Pilot", "cardId": 7203},
+        {"title": "•Puck", "cardId": 6849}
       ]
     },
     {
@@ -46345,7 +46397,10 @@
       ],
       "rarity": "C",
       "set": "12",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        {"title": "•Resolute", "cardId": 7219}
+      ]
     },
     {
       "front": {
@@ -47168,7 +47223,10 @@
       ],
       "rarity": "U",
       "set": "7",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        {"title": "•Geonosis", "cardId": 7210}
+      ]
     },
     {
       "combo": [
@@ -48532,7 +48590,10 @@
       ],
       "rarity": "U1",
       "set": "2",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        {"title": "Scanner Techs (V)", "cardId": 7220}
+      ]
     },
     {
       "front": {
@@ -48956,8 +49017,9 @@
       "set": "12",
       "side": "Light",
       "underlyingCardFor": [
-        "Another Pathetic Lifeform & Security Control",
-        "We'll Take The Long Way"
+        {"title": "•Security Control (V)", "cardId": 7221},
+        {"title": "•Another Pathetic Lifeform & •Security Control", "cardId": 6980},
+        {"title": "•We'll Take The Long Way", "cardId": 4112}
       ]
     },
     {
@@ -51377,7 +51439,10 @@
       ],
       "rarity": "C",
       "set": "9",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        {"title": "<>Assembly Area", "cardId": 7196}
+      ]
     },
     {
       "front": {
@@ -51403,7 +51468,10 @@
       ],
       "rarity": "R",
       "set": "7",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        {"title": "•Galactic Republic Navy", "cardId": 7208}
+      ]
     },
     {
       "front": {
@@ -53838,7 +53906,10 @@
       ],
       "rarity": "PM",
       "set": "106",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        {"title": "•Geonosis: Badlands Of N'g'zi", "cardId": 7211}
+      ]
     },
     {
       "counterpart": "Tatooine: Lars' Moisture Farm",
@@ -54038,7 +54109,10 @@
       ],
       "rarity": "C",
       "set": "11",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        {"title": "•Tatooine: Mos Espa (V)", "cardId": 7223}
+      ]
     },
     {
       "counterpart": "Tatooine: Mos Espa Docking Bay",
@@ -54344,7 +54418,10 @@
       ],
       "rarity": "C2",
       "set": "3",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        {"title": "•Endurance", "cardId": 7206}
+      ]
     },
     {
       "counterpart": "Krayt Dragon Bones",
@@ -60689,7 +60766,10 @@
       ],
       "rarity": "U1",
       "set": "2",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        {"title": "<>Clone Command Center", "cardId": 7202}
+      ]
     },
     {
       "counterpart": "Yavin 4: Docking Bay",
@@ -61739,7 +61819,10 @@
         "Opponent loses 2 Force if Vader not on table at all."
       ],
       "set": "9",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        {"title": "•His Destiny", "cardId": 7214}
+      ]
     },
     {
       "front": {
@@ -69685,7 +69768,7 @@
       "rarity": "R",
       "set": "221",
       "side": "Light"
-    }
+    },
     {
       "abbr": [
         "AJF"
@@ -70103,7 +70186,7 @@
         "power": "1",
         "subType": "Republic",
         "title": "Clone Pilot",
-        "type": "Character",
+        "type": "Character"
       },
       "gempId": "221_55",
       "id": 7203,
@@ -70291,7 +70374,7 @@
         "lore": "Blank",
         "subType": "Used",
         "title": "Generation One Armor Always Holds Up",
-        "type": "Interrupt",
+        "type": "Interrupt"
       },
       "gempId": "221_61",
       "id": 7209,
@@ -70385,7 +70468,7 @@
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual21-Light/large/grapplinghook.gif",
         "lore": "Stormtrooper utility belts contain basic tools such as a grappling hook to grab onto protrusions. The hook can also be used to ensnare escaping targets.",
         "title": "Grappling Hook (V)",
-        "type": "Effect",
+        "type": "Effect"
       },
       "gempId": "221_64",
       "id": 7212,
@@ -70397,7 +70480,10 @@
       ],
       "rarity": "C2",
       "set": "221",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        {"title": "Grappling Hook (V)", "cardId": 7212}
+      ]
     },
     {
       "abbr": [
@@ -70482,7 +70568,7 @@
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual21-Light/large/huntforthedroidgeneral.gif",
         "title": "Hunt For The Droid General / He's A Coward",
-        "type": "Objective",
+        "type": "Objective"
       },
       "gempId": "221_67",
       "id": 7215,
@@ -70639,7 +70725,7 @@
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual21-Light/large/scannertechs.gif",
         "lore": "Specialized scanner technicians examine scanner output to identify the presence of life forms. Experienced operators can even identify species and gender.",
         "title": "Scanner Techs (V)",
-        "type": "Effect",
+        "type": "Effect"
       },
       "gempId": "221_72",
       "id": 7220,
