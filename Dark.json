@@ -1268,7 +1268,10 @@
       ],
       "rarity": "C",
       "set": "8",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+        {"title": "Accelerate (V)", "cardId": 7155}
+      ]
     },
     {
       "canceledBy": [
