@@ -9712,7 +9712,8 @@
       "set": "5",
       "side": "Dark",
       "underlyingCardFor": [
-	"Coruscant: Xizor's Palace"
+        {"title": "•Cloud City: Chasm Walkway (V)", "cardId": 7159},
+        {"title": "•Coruscant: Xizor's Palace", "cardId": 5029}
       ]
     },
     {
@@ -35521,7 +35522,7 @@
       "set": "4",
       "side": "Dark",
       "underlyingCardFor": [
-        {"title": "•Mist Hunter", "cardId": 7190}
+        {"title": "•Zuckuss And 4-LOM In Mist Hunter", "cardId": 7190}
       ]
     },
     {
@@ -49522,7 +49523,7 @@
       "set": "2",
       "side": "Dark",
       "underlyingCardFor": [
-        {"title": "•Tatooine: Bluffs", "cardId": 7183}
+        {"title": "•Tatooine: Imperial Landing Site", "cardId": 7183}
       ]
     },
     {
