@@ -605,7 +605,10 @@
         "Only refers to Padme Naberrie, not other Amidala cards."
       ],
       "set": "13",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        {"title": "A Remote Planet (V)", "cardId": 7192}
+      ]
     },
     {
       "combo": [
@@ -785,7 +788,8 @@
       "set": "12",
       "side": "Light",
       "underlyingCardFor": [
-        "Your Thoughts Dwell On Your Mother"
+        {"title": "Anakin's Destiny", "cardId": 7195},
+        {"title": "Your Thoughts Dwell On Your Mother", "cardId": 7005}
       ]
     },
     {
@@ -4253,7 +4257,10 @@
       ],
       "rarity": "R",
       "set": "4",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        {"title": "At Peace (V)", "cardId": 7197}
+      ]
     },
     {
       "front": {
@@ -4945,7 +4952,10 @@
       ],
       "rarity": "U",
       "set": "8",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        {"title": "Battle Of Christophsis", "cardId": 7198}
+      ]
     },
     {
       "counterpart": "Battle Order - Defensive Shield",
@@ -10451,7 +10461,10 @@
       ],
       "rarity": "C",
       "set": "5",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        {"title": "Christophsis: Chaleydonia", "cardId": 7201}
+      ]
     },
     {
       "counterpart": "Cloud City: West Gallery",
@@ -13009,7 +13022,10 @@
         "Neither player may view Dark's cards after they are stacked face down here."
       ],
       "set": "12",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        {"title": "Credits Will Do Fine (V)", "cardId": 7204}
+      ]
     },
     {
       "front": {
@@ -13835,7 +13851,10 @@
       ],
       "rarity": "C",
       "set": "5",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        {"title": "Grievous Will Run And Hide", "cardId": 7213}
+      ]
     },
     {
       "combo": [
@@ -15223,7 +15242,10 @@
       ],
       "rarity": "R",
       "set": "5",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        {"title": "Hunt For The Droid General / He's A Coward", "cardId": 7215}
+      ]
     },
     {
       "counterpart": "Disruptor Pistol",
@@ -16598,7 +16620,10 @@
       ],
       "rarity": "C1",
       "set": "3",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        {"title": "Admiral Yularen", "cardId": 7193}
+      ]
     },
     {
       "front": {
@@ -16849,7 +16874,8 @@
       "set": "11",
       "side": "Light",
       "underlyingCardFor": [
-        "Master Qui-Gon Jinn, An Old Friend"
+        {"title": "Either Way, You Win (V)", "cardId": 7205},
+        {"title": "Master Qui-Gon Jinn, An Old Friend", "cardId": 6940}
       ]
     },
     {
@@ -17976,7 +18002,10 @@
       ],
       "rarity": "U",
       "set": "11",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        {"title": "Battle Of Geonosis", "cardId": 7199}
+      ]
     },
     {
       "counterpart": "Strategic Reserves",
@@ -18242,7 +18271,10 @@
       ],
       "rarity": "U",
       "set": "11",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        {"title": "Eventually You'll Lose (V)", "cardId": 7207}
+      ]
     },
     {
       "front": {
@@ -19849,7 +19881,10 @@
       ],
       "rarity": "C2",
       "set": "1",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        {"title": "Supply Route", "cardId": 7222}
+      ]
     },
     {
       "combo": [
@@ -21202,7 +21237,10 @@
       ],
       "rarity": "R",
       "set": "5",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        {"title": "A Jedi's Fury", "cardId": 7191}
+      ]
     },
     {
       "front": {
@@ -25245,7 +25283,10 @@
         "Light can only place their own copy of Boonta Eve Podrace out of play, not the opponent's copy."
       ],
       "set": "11",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        {"title": "Anakin Skywalker, Junkyard Slave", "cardId": 7194}
+      ]
     },
     {
       "abbr": [
@@ -39390,7 +39431,10 @@
       ],
       "rarity": "PM",
       "set": "13",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        {"title": "Only Jedi Carry That Weapon (V)", "cardId": 7216}
+      ]
     },
     {
       "combo": [
@@ -41107,7 +41151,10 @@
       ],
       "rarity": "U2",
       "set": "1",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        {"title": "Generation One Armor Always Holds Up", "cardId": 7209}
+      ]
     },
     {
       "canceledBy": [
@@ -42966,7 +43013,10 @@
       ],
       "rarity": "R",
       "set": "11",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        {"title": "Qui-Gon Jinn's Lightsaber (V)", "cardId": 7217}
+      ]
     },
     {
       "front": {
@@ -42993,7 +43043,10 @@
       ],
       "rarity": "R",
       "set": "11",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        {"title": "Qui-Gon Jinn's Lightsaber (V) (AI)", "cardId": 7218}
+      ]
     },
     {
       "front": {
@@ -43900,7 +43953,8 @@
       "set": "2",
       "side": "Light",
       "underlyingCardFor": [
-	"Takodana"
+        {"title": "Christophsis", "cardId": 7200},
+    	  {"title": "Takodana", "cardId": 5936}
       ]
     },
     {
@@ -44496,7 +44550,8 @@
       "set": "1",
       "side": "Light",
       "underlyingCardFor": [
-	"Puck"
+        {"title": "Clone Pilot", "cardId": 7203},
+        {"title": "Puck", "cardId": 6849}
       ]
     },
     {
@@ -46342,7 +46397,10 @@
       ],
       "rarity": "C",
       "set": "12",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        {"title": "Resolute", "cardId": 7219}
+      ]
     },
     {
       "front": {
@@ -47165,7 +47223,10 @@
       ],
       "rarity": "U",
       "set": "7",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        {"title": "Geonosis", "cardId": 7210}
+      ]
     },
     {
       "combo": [
@@ -48529,7 +48590,10 @@
       ],
       "rarity": "U1",
       "set": "2",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        {"title": "Scanner Techs (V)", "cardId": 7220}
+      ]
     },
     {
       "front": {
@@ -48953,8 +49017,9 @@
       "set": "12",
       "side": "Light",
       "underlyingCardFor": [
-        "Another Pathetic Lifeform & Security Control",
-        "We'll Take The Long Way"
+        {"title": "Security Control (V)", "cardId": 7221},
+        {"title": "Another Pathetic Lifeform & •Security Control", "cardId": 6980},
+        {"title": "We'll Take The Long Way", "cardId": 4112}
       ]
     },
     {
@@ -51374,7 +51439,10 @@
       ],
       "rarity": "C",
       "set": "9",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        {"title": "Assembly Area", "cardId": 7196}
+      ]
     },
     {
       "front": {
@@ -51400,7 +51468,10 @@
       ],
       "rarity": "R",
       "set": "7",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        {"title": "Galactic Republic Navy", "cardId": 7208}
+      ]
     },
     {
       "front": {
@@ -53835,7 +53906,10 @@
       ],
       "rarity": "PM",
       "set": "106",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        {"title": "Geonosis: Badlands Of N'g'zi", "cardId": 7211}
+      ]
     },
     {
       "counterpart": "Tatooine: Lars' Moisture Farm",
@@ -54035,7 +54109,10 @@
       ],
       "rarity": "C",
       "set": "11",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        {"title": "Tatooine: Mos Espa (V)", "cardId": 7223}
+      ]
     },
     {
       "counterpart": "Tatooine: Mos Espa Docking Bay",
@@ -54341,7 +54418,10 @@
       ],
       "rarity": "C2",
       "set": "3",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        {"title": "Endurance", "cardId": 7206}
+      ]
     },
     {
       "counterpart": "Krayt Dragon Bones",
@@ -60686,7 +60766,10 @@
       ],
       "rarity": "U1",
       "set": "2",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        {"title": "Clone Command Center", "cardId": 7202}
+      ]
     },
     {
       "counterpart": "Yavin 4: Docking Bay",
@@ -61736,7 +61819,10 @@
         "Opponent loses 2 Force if Vader not on table at all."
       ],
       "set": "9",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        {"title": "His Destiny", "cardId": 7214}
+      ]
     },
     {
       "front": {
@@ -69680,6 +69766,1074 @@
         "Senator Mon Mothma"
       ],
       "rarity": "R",
+      "set": "221",
+      "side": "Light"
+    },
+    {
+      "abbr": [
+        "AJF"
+      ],
+      "front": {
+        "destiny": "5",
+        "gametext": "If His Destiny on table, choose: USED: If a character of ability > 4 was just 'hit' during battle, opponent loses 1 Force. OR Peek at the bottom card of your Force Pile; may move it to the top of that pile. LOST: Cancel game text of a Dark Jedi with Luke for remainder of turn.",
+        "icons": [
+          "Death Star II",
+          "Set 21"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual21-Light/large/ajedisfury.gif",
+        "lore": "It had been decades since Vader had felt the sting of an enemy's blade.",
+        "subType": "Used Or Lost",
+        "title": "•A Jedi's Fury",
+        "type": "Interrupt",
+        "uniqueness": "*"
+      },
+      "gempId": "221_43",
+      "id": 7191,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "221"
+        }
+      ],
+      "rarity": "R",
+      "set": "221",
+      "side": "Light"
+    },
+    {
+      "abbr": [
+        "ARPv"
+      ],
+      "front": {
+        "destiny": "5",
+        "gametext": "If Credits Will Do Fine on table, deploy on Mos Espa. Opponent's first Force lost to a Force drain here is stacked on Credits Will Do Fine. If you just deployed Amidala, Jar Jar, or a Jedi here, may take Either Way, You Win into hand from Reserve Deck; reshuffle.",
+        "icons": [
+          "Reflections III",
+          "Episode I",
+          "Tatooine",
+          "Set 21"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual21-Light/large/aremoteplanet.gif",
+        "lore": "In unfamiliar and potentially hostile territory, Qui-Gon knew that success would require patience and caution.",
+        "title": "•A Remote Planet (V)",
+        "type": "Effect",
+        "uniqueness": "*"
+      },
+      "gempId": "221_44",
+      "id": 7192,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "221"
+        }
+      ],
+      "rarity": "PM",
+      "set": "221",
+      "side": "Light"
+    },
+    {
+      "abbr": [
+        "AY"
+      ],
+      "front": {
+        "ability": "3",
+        "deploy": "3",
+        "destiny": "1",
+        "extraText": [
+          "Force-Attuned"
+        ],
+        "forfeit": "5",
+        "gametext": "Adds 3 to power of anything he pilots. While piloting a [Clone Army] capital starship, adds one battle destiny and its power may not be reduced by opponent. While with Anakin (or while piloting Resolute), opponent may not cancel or substitute battle destiny draws here.",
+        "icons": [
+          "Episode I",
+          "Pilot",
+          "Warrior",
+          "Clone Army",
+          "Set 21"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual21-Light/large/admiralyularen.gif",
+        "lore": "Leader.",
+        "power": "3",
+        "subType": "Republic",
+        "title": "•Admiral Yularen",
+        "type": "Character",
+        "uniqueness": "*"
+      },
+      "gempId": "221_45",
+      "id": 7193,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "221"
+        }
+      ],
+      "rarity": "C1",
+      "set": "221",
+      "side": "Light"
+    },
+    {
+      "abbr": [
+        "ASJS"
+      ],
+      "front": {
+        "ability": "4",
+        "deploy": "4",
+        "destiny": "6",
+        "extraText": [
+          "Force-Sensitive"
+        ],
+        "forfeit": "6",
+        "gametext": "Adds 2 to power of anything he pilots. Deploys only to Skywalker Hut or Watto's Junkyard. During battle, may cause a 'credit' to be lost to choose: if with Obi-Wan, add one destiny to total power; if with Qui-Gon, add one battle destiny; if with Shmi, add one destiny to attrition.",
+        "icons": [
+          "Pilot",
+          "Tatooine",
+          "Episode I",
+          "Set 21"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual21-Light/large/anakinskywalkerjunkyardslave.gif",
+        "lore": "Mechanic.",
+        "power": "2",
+        "subType": "Alien",
+        "title": "•Anakin Skywalker, Junkyard Slave",
+        "type": "Character",
+        "uniqueness": "*"
+      },
+      "gempId": "221_46",
+      "id": 7194,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "221"
+        }
+      ],
+      "rarity": "R",
+      "set": "221",
+      "side": "Light"
+    },
+    {
+      "abbr": [
+        "AD"
+      ],
+      "front": {
+        "destiny": "4",
+        "gametext": "LOST: Cancel an attempt to 'choke' (or target with Force Lightning) your character of ability > 4. STARTING: If He Is The Chosen One on table, deploy His Destiny and two Effects that deploy for free and are always immune to Alter. Place Interrupt in Lost Pile.",
+        "icons": [
+          "Death Star II",
+          "Set 21"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual21-Light/large/anakinsdestiny.gif",
+        "lore": "'A vergence, you say?'",
+        "subType": "Lost Or Starting",
+        "title": "•Anakin's Destiny",
+        "type": "Interrupt",
+        "uniqueness": "*"
+      },
+      "gempId": "221_47",
+      "id": 7195,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "221"
+        }
+      ],
+      "rarity": "U",
+      "set": "221",
+      "side": "Light"
+    },
+    {
+      "abbr": [
+        "AA"
+      ],
+      "front": {
+        "darkSideIcons": 1,
+        "destiny": "0",
+        "gametext": "Light: During your move phase, a pair of [Clone Army] characters may move between here and a site you occupy. Dark: Deploys only to same planet as Clone Command Center. Your droids are power +1 here.",
+        "icons": [
+          "Exterior",
+          "Planet",
+          "Episode I",
+          "Clone Army",
+          "Set 21"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual21-Light/large/assemblyarea.gif",
+        "lightSideIcons": 2,
+        "subType": "Site",
+        "title": "<>Assembly Area",
+        "type": "Location",
+        "uniqueness": "<>"
+      },
+      "gempId": "221_48",
+      "id": 7196,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "221"
+        }
+      ],
+      "rarity": "C",
+      "set": "221",
+      "side": "Light"
+    },
+    {
+      "abbr": [
+        "APv"
+      ],
+      "front": {
+        "destiny": "3",
+        "gametext": "Deploy on Dagobah system. Your Force retrieval is canceled. Your [Dagobah] characters deploy -1 to Dagobah. Your training destiny draws are +1. Jedi Test #2 may not move. Jedi Test #4 searches your Reserve Deck for free. [Immune to Alter.]",
+        "icons": [
+          "Dagobah",
+          "Special Edition",
+          "Set 21"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual21-Light/large/atpeace.gif",
+        "lore": "To recover from the strenuous Jedi training routine and revitalize the mind and body, an apprentice must rest to be calm and at peace.",
+        "title": "•At Peace (V)",
+        "type": "Effect",
+        "uniqueness": "*"
+      },
+      "gempId": "221_49",
+      "id": 7197,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "221"
+        }
+      ],
+      "rarity": "R",
+      "set": "221",
+      "side": "Light"
+    },
+    {
+      "abbr": [
+        "BOC"
+      ],
+      "front": {
+        "destiny": "4",
+        "gametext": "If a Christophsis location on table, deploy on table. Once per turn, if you just deployed a clone to Christophsis, may draw top card of Used Pile. Once per turn, if your clone in battle with a Jedi or Padawan, may lose 1 Force to add one destiny to total power. [Immune to Alter.]",
+        "icons": [
+          "Episode I",
+          "Clone Army",
+          "Set 21"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual21-Light/large/battleofchristophsis.gif",
+        "lore": "Blank",
+        "title": "•Battle Of Christophsis",
+        "type": "Effect",
+        "uniqueness": "*"
+      },
+      "gempId": "221_50",
+      "id": 7198,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "221"
+        }
+      ],
+      "rarity": "U",
+      "set": "221",
+      "side": "Light"
+    },
+    {
+      "abbr": [
+        "BOG"
+      ],
+      "front": {
+        "destiny": "4",
+        "gametext": "If a Geonosis location on table, deploy on table. Once per battle, may deploy or move a clone as a 'react' to same location as your Jedi or Padawan. While your clone in battle with a Jedi or Padawan, opponent's total battle destiny is -1 (-2 if Yoda in battle). [Immune to Alter.]",
+        "icons": [
+          "Episode I",
+          "Clone Army",
+          "Set 21"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual21-Light/large/battleofgeonosis.gif",
+        "lore": "Blank",
+        "title": "•Battle Of Geonosis",
+        "type": "Effect",
+        "uniqueness": "*"
+      },
+      "gempId": "221_51",
+      "id": 7199,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "221"
+        }
+      ],
+      "rarity": "U",
+      "set": "221",
+      "side": "Light"
+    },
+    {
+      "front": {
+        "darkSideIcons": 1,
+        "destiny": "0",
+        "gametext": "Light: If you occupy with a [Clone Army] starship, opponent must use +1 Force to move or deploy a starship to here. Dark: If you control with a [Separatist] starship, opponent must use +1 Force to move or deploy a starship to here.",
+        "icons": [
+          "Planet",
+          "Episode I",
+          "Clone Army",
+          "Set 21"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual21-Light/large/christophsis.gif",
+        "lightSideIcons": 2,
+        "parsec": "6",
+        "subType": "System",
+        "title": "•Christophsis",
+        "type": "Location",
+        "uniqueness": "*"
+      },
+      "gempId": "221_52",
+      "id": 7200,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "221"
+        }
+      ],
+      "rarity": "C1",
+      "set": "221",
+      "side": "Light"
+    },
+    {
+      "abbr": [
+        "CC"
+      ],
+      "front": {
+        "darkSideIcons": 1,
+        "destiny": "0",
+        "gametext": "Light: Your total power here is +1 for each of your piloted starships at Christophsis system. Dark: Force drain -1 here. Ventress is power +2 here.",
+        "icons": [
+          "Exterior",
+          "Planet",
+          "Episode I",
+          "Clone Army",
+          "Set 21"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual21-Light/large/christophsischaleydonia.gif",
+        "lightSideIcons": 2,
+        "subType": "Site",
+        "title": "•Christophsis: Chaleydonia",
+        "type": "Location",
+        "uniqueness": "*"
+      },
+      "gempId": "221_53",
+      "id": 7201,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "221"
+        }
+      ],
+      "rarity": "C",
+      "set": "221",
+      "side": "Light"
+    },
+    {
+      "abbr": [
+        "CCC"
+      ],
+      "front": {
+        "darkSideIcons": 0,
+        "destiny": "0",
+        "gametext": "Light: Deploys only if a [Clone Army] objective on table. Once per turn, may deploy a Kamino site or [Clone Army] battleground from Reserve Deck; reshuffle. Dark: ",
+        "icons": [
+          "Exterior",
+          "Planet",
+          "Episode I",
+          "Scomp Link",
+          "Clone Army",
+          "Set 21"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual21-Light/large/clonecommandcenter.gif",
+        "lightSideIcons": 2,
+        "subType": "Site",
+        "title": "<>Clone Command Center",
+        "type": "Location",
+        "uniqueness": "<>"
+      },
+      "gempId": "221_54",
+      "id": 7202,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "221"
+        }
+      ],
+      "rarity": "U1",
+      "set": "221",
+      "side": "Light"
+    },
+    {
+      "abbr": [
+        "CP"
+      ],
+      "front": {
+        "ability": "2",
+        "armor": "3",
+        "deploy": "2",
+        "destiny": "3",
+        "forfeit": "3",
+        "gametext": "Adds 2 to power and 1 to defense value of anything he pilots. While piloting a [Clone Army] starship or [Clone Army] vehicle, forfeit +1 and draws one battle destiny if unable to otherwise. If stacked face up on Cloning Cylinders, may turn him face down to cancel Lateral Damage.",
+        "icons": [
+          "Episode I",
+          "Pilot",
+          "Warrior",
+          "Clone Army",
+          "Set 21"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual21-Light/large/clonepilot.gif",
+        "lore": "Clone trooper.",
+        "power": "1",
+        "subType": "Republic",
+        "title": "Clone Pilot",
+        "type": "Character"
+      },
+      "gempId": "221_55",
+      "id": 7203,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "221"
+        }
+      ],
+      "rarity": "C2",
+      "set": "221",
+      "side": "Light"
+    },
+    {
+      "abbr": [
+        "CWDFv"
+      ],
+      "front": {
+        "destiny": "3",
+        "gametext": "If your [Coruscant] objective on table, deploy on table. If you just initiated a Force drain (or won a battle) at Watto's Junkyard, opponent loses 1 Force (cannot be reduced) and stacks lost card here face down. Cards stacked here are `credits.' [Immune to Alter.]",
+        "icons": [
+          "Coruscant",
+          "Episode I",
+          "Set 21"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual21-Light/large/creditswilldofine.gif",
+        "lore": "'No, they won't!'",
+        "title": "•Credits Will Do Fine (V)",
+        "type": "Effect",
+        "uniqueness": "*"
+      },
+      "gempId": "221_56",
+      "id": 7204,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "221"
+        }
+      ],
+      "rarity": "C",
+      "set": "221",
+      "side": "Light"
+    },
+    {
+      "abbr": [
+        "EWYWv"
+      ],
+      "front": {
+        "destiny": "4",
+        "gametext": "If [Tatooine] or [Coruscant] Qui-Gon in battle, he is power +1 for each `credit.' OR Once per game, if a battle just initiated at Watto's Junkyard involving Qui-Gon, target a character. Lightsabers may not be fired this battle. Unless target is Watto or a Dark Jedi, cancel target's game text.",
+        "icons": [
+          "Tatooine",
+          "Episode I",
+          "Set 21"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual21-Light/large/eitherwayyouwin.gif",
+        "lore": "'Deal!'",
+        "subType": "Used",
+        "title": "•Either Way, You Win (V)",
+        "type": "Interrupt",
+        "uniqueness": "*"
+      },
+      "gempId": "221_57",
+      "id": 7205,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "221"
+        }
+      ],
+      "rarity": "U",
+      "set": "221",
+      "side": "Light"
+    },
+    {
+      "front": {
+        "armor": "6",
+        "deploy": "6",
+        "destiny": "2",
+        "forfeit": "7",
+        "gametext": "May add 5 pilots, 5 passengers, 5 vehicles, and 5 starfighters. Permanent pilot provides ability of 2. Kilian, Mace, and clones deploy -1 aboard and shuttle from here for free. Immune to attrition < 3.",
+        "hyperspeed": "4",
+        "icons": [
+          "Episode I",
+          "Scomp Link",
+          "Republic",
+          "Clone Army",
+          "Pilot",
+          "Nav Computer",
+          "Set 21"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual21-Light/large/endurance.gif",
+        "lore": "Blank",
+        "power": "7",
+        "subType": "Capital: Venator-Class Attack Cruiser",
+        "title": "•Endurance",
+        "type": "Starship",
+        "uniqueness": "*"
+      },
+      "gempId": "221_58",
+      "id": 7206,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "221"
+        }
+      ],
+      "rarity": "C2",
+      "set": "221",
+      "side": "Light"
+    },
+    {
+      "abbr": [
+        "EYLv"
+      ],
+      "front": {
+        "destiny": "4",
+        "gametext": "USED: If The Hyperdrive Generator's Gone on table, take Skywalker Hut or Jar Jar into hand from Reserve Deck; reshuffle. LOST: If opponent's card was just stacked on Credits Will Do Fine, for remainder of turn, your Force drains may not be reduced.",
+        "icons": [
+          "Tatooine",
+          "Episode I",
+          "Set 21"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual21-Light/large/eventuallyyoulllose.gif",
+        "lore": "In the end, Watto finally came to understand the agony of defeat.",
+        "subType": "Used Or Lost",
+        "title": "•Eventually You'll Lose (V)",
+        "type": "Interrupt",
+        "uniqueness": "*"
+      },
+      "gempId": "221_59",
+      "id": 7207,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "221"
+        }
+      ],
+      "rarity": "U",
+      "set": "221",
+      "side": "Light"
+    },
+    {
+      "abbr": [
+        "GRN"
+      ],
+      "front": {
+        "destiny": "5",
+        "gametext": "Deploy on table. Unique (•) [Clone Army] capital starships are deploy -1 and immunity to attrition +1. Once per turn, may reveal a [Clone Army] starship from hand to take an [Episode I] pilot character from Reserve Deck (or vice versa) and deploy both simultaneously; reshuffle. [Immune to Alter.]",
+        "icons": [
+          "Episode I",
+          "Set 21"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual21-Light/large/galacticrepublicnavy.gif",
+        "lore": "Blank",
+        "title": "•Galactic Republic Navy",
+        "type": "Effect",
+        "uniqueness": "*"
+      },
+      "gempId": "221_60",
+      "id": 7208,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "221"
+        }
+      ],
+      "rarity": "R",
+      "set": "221",
+      "side": "Light"
+    },
+    {
+      "abbr": [
+        "GOAAHU"
+      ],
+      "front": {
+        "destiny": "4",
+        "gametext": "For remainder of turn, your clones are armor +2. OR Cancel You Are Beaten. OR If your clone in battle, cancel an attempt by opponent to target your character to be lost. [Immune to Sense.] OR If you just drew a clone for destiny, add 1 to that destiny.",
+        "icons": [
+          "Episode I",
+          "Clone Army",
+          "Set 21"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual21-Light/large/generationonearmoralwaysholdsup.gif",
+        "lore": "Blank",
+        "subType": "Used",
+        "title": "Generation One Armor Always Holds Up",
+        "type": "Interrupt"
+      },
+      "gempId": "221_61",
+      "id": 7209,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "221"
+        }
+      ],
+      "rarity": "U2",
+      "set": "221",
+      "side": "Light"
+    },
+    {
+      "front": {
+        "darkSideIcons": 1,
+        "destiny": "0",
+        "gametext": "Light: Your [Clone Army] starships are power +1 here. Your starships at the nearest related asteroid sector may move here as a `react.' Dark: Unless your Fett (or [Separatist] starship) here or at a related asteroid sector, Force drain -1 here.",
+        "icons": [
+          "Planet",
+          "Episode I",
+          "Clone Army",
+          "Set 21"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual21-Light/large/geonosis.gif",
+        "lightSideIcons": 2,
+        "parsec": "7",
+        "subType": "System",
+        "title": "•Geonosis",
+        "type": "Location",
+        "uniqueness": "*"
+      },
+      "gempId": "221_62",
+      "id": 7210,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "221"
+        }
+      ],
+      "rarity": "U",
+      "set": "221",
+      "side": "Light"
+    },
+    {
+      "abbr": [
+        "GBON"
+      ],
+      "front": {
+        "darkSideIcons": 1,
+        "destiny": "0",
+        "gametext": "Light: Your [Clone Army] characters and [Clone Army] vehicles are power +1 here. Dark: Your [Separatist] characters and [Separatist] vehicles are power +1 here.",
+        "icons": [
+          "Exterior",
+          "Planet",
+          "Episode I",
+          "Clone Army",
+          "Set 21"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual21-Light/large/geonosisbadlandsofngzi.gif",
+        "lightSideIcons": 2,
+        "subType": "Site",
+        "title": "•Geonosis: Badlands Of N'g'zi",
+        "type": "Location",
+        "uniqueness": "*"
+      },
+      "gempId": "221_63",
+      "id": 7211,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "221"
+        }
+      ],
+      "rarity": "PM",
+      "set": "221",
+      "side": "Light"
+    },
+    {
+      "abbr": [
+        "GHv"
+      ],
+      "front": {
+        "destiny": "5",
+        "gametext": "Deploy on table. Imperial Barrier is a Lost Interrupt. If no card stacked here, may stack one Interrupt just played here. To play any new Interrupt of the same name, player must first stack it here. Once per game, may shuffle any deck or pile. [Immune to Alter.]",
+        "icons": [
+          "A New Hope",
+          "Grabber",
+          "Set 21"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual21-Light/large/grapplinghook.gif",
+        "lore": "Stormtrooper utility belts contain basic tools such as a grappling hook to grab onto protrusions. The hook can also be used to ensnare escaping targets.",
+        "title": "Grappling Hook (V)",
+        "type": "Effect"
+      },
+      "gempId": "221_64",
+      "id": 7212,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "221"
+        }
+      ],
+      "rarity": "C2",
+      "set": "221",
+      "side": "Light",
+      "underlyingCardFor": [
+        {"title": "Grappling Hook (V)", "cardId": 7212}
+      ]
+    },
+    {
+      "abbr": [
+        "GWRAH"
+      ],
+      "front": {
+        "destiny": "4",
+        "gametext": "Deploy on a battleground. [Clone Army] Jedi deploy -1 here. If you just won a battle (or just Force drained here), relocate this card to your [Clone Army] objective. If opponent just won a battle, opponent may relocate this Effect to an [Episode I] battleground. [Immune to Alter.]",
+        "icons": [
+          "Episode I",
+          "Set 21"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual21-Light/large/grievouswillrunandhide.gif",
+        "lore": "Blank",
+        "title": "•Grievous Will Run And Hide",
+        "type": "Effect",
+        "uniqueness": "*"
+      },
+      "gempId": "221_65",
+      "id": 7213,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "221"
+        }
+      ],
+      "rarity": "C",
+      "set": "221",
+      "side": "Light"
+    },
+    {
+      "abbr": [
+        "HD"
+      ],
+      "front": {
+        "destiny": "0",
+        "gametext": "If He Is The Chosen One on table, deploy on table. Opponent's total Force generation is -1 (and your total power everywhere is +1) for each [Endor] or [Death Star II] battleground you occupy (limit 2). Once per turn, if a card was just stacked on I Feel The Conflict, may peek at the top two cards of your Reserve Deck; take one into hand and shuffle your Reserve Deck. May lose 2 Force to cancel You Are Beaten or an attempt to steal Luke's Lightsaber. During your move phase, may turn a card stacked on I Feel The Conflict face up to relocate Luke between a battleground site and your Death Star II site.",
+        "icons": [
+          "Death Star II",
+          "Set 21"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual21-Light/large/hisdestiny.gif",
+        "title": "•His Destiny",
+        "type": "Epic Event",
+        "uniqueness": "*"
+      },
+      "gempId": "221_66",
+      "id": 7214,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "221"
+        }
+      ],
+      "rarity": "R",
+      "set": "221",
+      "side": "Light"
+    },
+    {
+      "abbr": [
+        "HFTDG/HAC"
+      ],
+      "back": {
+        "destiny": "7",
+        "gametext": "Hunt For The Droid General: Deploy a [Clone Army] battleground, Clone Command Center (to same planet), Cloning Cylinders, and Grievous Will Run And Hide. For remainder of game, you may not deploy non-[Episode I] cards with ability. [Reflections II] objectives target Anakin instead of Luke. Your Destiny is suspended. Jedi gain [Pilot] skill. Your [Episode I] sites are immune to No Escape. At end of opponent's turn, if you occupy more battlegrounds than opponent, opponent loses 1 Force. Flip this card if Grievous Will Run And Hide here unless Grievous alone at a battleground. He's A Coward: While this side up, your Force drains are +1 where you have a clone with a Jedi or Padawan. X = number of battlegrounds your [Clone Army] cards occupy. If you just initiated a battle: peek at the top card of your Reserve Deck or Used Pile (may take it into hand or place it on bottom of Reserve Deck), then if X > 1, retrieve a [Clone Army] card into hand, then if X > 2, your clone may make a regular move (using landspeed for free) to the battle location. Flip this card if Grievous Will Run And Hide at a battleground or Grievous alone at a battleground.",
+        "icons": [
+          "Clone Army",
+          "Episode I",
+          "Set 21"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual21-Light/large/hesacoward.gif",
+        "title": "Hunt For The Droid General / He's A Coward",
+        "type": "Objective"
+      },
+      "front": {
+        "destiny": "0",
+        "gametext": "Hunt For The Droid General: Deploy a [Clone Army] battleground, Clone Command Center (to same planet), Cloning Cylinders, and Grievous Will Run And Hide. For remainder of game, you may not deploy non-[Episode I] cards with ability. [Reflections II] objectives target Anakin instead of Luke. Your Destiny is suspended. Jedi gain [Pilot] skill. Your [Episode I] sites are immune to No Escape. At end of opponent's turn, if you occupy more battlegrounds than opponent, opponent loses 1 Force. Flip this card if Grievous Will Run And Hide here unless Grievous alone at a battleground. He's A Coward: While this side up, your Force drains are +1 where you have a clone with a Jedi or Padawan. X = number of battlegrounds your [Clone Army] cards occupy. If you just initiated a battle: peek at the top card of your Reserve Deck or Used Pile (may take it into hand or place it on bottom of Reserve Deck), then if X > 1, retrieve a [Clone Army] card into hand, then if X > 2, your clone may make a regular move (using landspeed for free) to the battle location. Flip this card if Grievous Will Run And Hide at a battleground or Grievous alone at a battleground.",
+        "icons": [
+          "Clone Army",
+          "Episode I",
+          "Set 21"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual21-Light/large/huntforthedroidgeneral.gif",
+        "title": "Hunt For The Droid General / He's A Coward",
+        "type": "Objective"
+      },
+      "gempId": "221_67",
+      "id": 7215,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "221"
+        }
+      ],
+      "rarity": "R",
+      "set": "221",
+      "side": "Light"
+    },
+    {
+      "abbr": [
+        "OJCTWv"
+      ],
+      "front": {
+        "destiny": "0",
+        "gametext": "Plays on table. For opponent to steal a weapon from target character using a non-[Episode I] card, must first draw destiny. Unless destiny +1 > target's ability, attempt fails and stealing card is placed out of play. [Episode I] blasters are immune to An Entire Legion Of My Best Troops.",
+        "icons": [
+          "Reflections III",
+          "Episode I",
+          "Set D"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual21-Light/large/onlyjedicarrythatweapon.gif",
+        "lore": "An elegant weapon for a more civilized age.",
+        "title": "•Only Jedi Carry That Weapon (V)",
+        "type": "Defensive Shield",
+        "uniqueness": "*"
+      },
+      "gempId": "221_68",
+      "id": 7216,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "221"
+        }
+      ],
+      "rarity": "PM",
+      "set": "221",
+      "side": "Light"
+    },
+    {
+      "abbr": [
+        "QJLv"
+      ],
+      "front": {
+        "destiny": "1",
+        "gametext": "Deploy on Qui-Gon or [Episode I] Obi-Wan. May add 1 to Force drain where present. May target a character or creature. Draw two destiny. Target hit, and its forfeit = 0, if total destiny > defense value. While at Watto's Junkyard, Undercover spies here are lost.",
+        "icons": [
+          "Tatooine",
+          "Episode I",
+          "Set 21"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual21-Light/large/quigonjinnslightsaber.gif",
+        "lore": "Qui-Gon was forced to defend himself when Darth Maul tracked them down on Tatooine. He was barely able to escape, in order to fight another day.",
+        "subType": "Character Weapon",
+        "title": "•Qui-Gon Jinn's Lightsaber (V)",
+        "type": "Weapon",
+        "uniqueness": "*"
+      },
+      "gempId": "221_69",
+      "id": 7217,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "221"
+        }
+      ],
+      "rarity": "R",
+      "set": "221",
+      "side": "Light"
+    },
+    {
+      "abbr": [
+        "QJLv"
+      ],
+      "front": {
+        "destiny": "1",
+        "gametext": "Deploy on Qui-Gon or [Episode I] Obi-Wan. May add 1 to Force drain where present. May target a character or creature. Draw two destiny. Target hit, and its forfeit = 0, if total destiny > defense value. While at Watto's Junkyard, Undercover spies here are lost.",
+        "icons": [
+          "Tatooine",
+          "Episode I",
+          "Set 21"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual21-Light/large/quigonjinnslightsaber_ai.gif",
+        "lore": "Qui-Gon was forced to defend himself when Darth Maul tracked them down on Tatooine. He was barely able to escape, in order to fight another day.",
+        "subType": "Character Weapon",
+        "title": "•Qui-Gon Jinn's Lightsaber (V) (AI)",
+        "type": "Weapon",
+        "uniqueness": "*"
+      },
+      "gempId": "221_70",
+      "id": 7218,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "221"
+        }
+      ],
+      "rarity": "R",
+      "set": "221",
+      "side": "Light"
+    },
+    {
+      "front": {
+        "armor": "6",
+        "deploy": "6",
+        "destiny": "2",
+        "forfeit": "7",
+        "gametext": "May add 5 pilots, 5 passengers, 5 vehicles, and 5 starfighters. Permanent pilot provides ability of 2. While Anakin or Yularen piloting, immune to attrition < 5 and your [Clone Army] cards at related sites are power +1.",
+        "hyperspeed": "4",
+        "icons": [
+          "Episode I",
+          "Scomp Link",
+          "Republic",
+          "Clone Army",
+          "Pilot",
+          "Nav Computer",
+          "Set 21"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual21-Light/large/resolute.gif",
+        "lore": "Blank",
+        "power": "7",
+        "subType": "Capital: Venator-Class Attack Cruiser",
+        "title": "•Resolute",
+        "type": "Starship",
+        "uniqueness": "*"
+      },
+      "gempId": "221_71",
+      "id": 7219,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "221"
+        }
+      ],
+      "rarity": "C",
+      "set": "221",
+      "side": "Light"
+    },
+    {
+      "abbr": [
+        "STv"
+      ],
+      "front": {
+        "destiny": "5",
+        "gametext": "Deploy on a location. At same battleground, opponent may not cancel or reduce your Force drains here. You initiate battles here for free. If you just initiated battle here, may draw top card of Reserve Deck. Total battle destiny and forfeit values may not be increased here.",
+        "icons": [
+          "A New Hope",
+          "Set 21"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual21-Light/large/scannertechs.gif",
+        "lore": "Specialized scanner technicians examine scanner output to identify the presence of life forms. Experienced operators can even identify species and gender.",
+        "title": "Scanner Techs (V)",
+        "type": "Effect"
+      },
+      "gempId": "221_72",
+      "id": 7220,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "221"
+        }
+      ],
+      "rarity": "U1",
+      "set": "221",
+      "side": "Light"
+    },
+    {
+      "abbr": [
+        "SCv"
+      ],
+      "front": {
+        "destiny": "4",
+        "gametext": "If your [Episode I] objective on table, deploy on table. Your Republic characters of ability < 4 are forfeit +1. Game text of your clones may not be canceled. Once per turn, may deploy an [Episode I] weapon on your character present at a site from Reserve Deck; reshuffle. [Immune to Alter.]",
+        "icons": [
+          "Coruscant",
+          "Episode I",
+          "Set 21"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual21-Light/large/securitycontrol.gif",
+        "lore": "Actions borne of the love for one's planet can heavily outweigh those generated from simple battle orders.",
+        "title": "•Security Control (V)",
+        "type": "Effect",
+        "uniqueness": "*"
+      },
+      "gempId": "221_73",
+      "id": 7221,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "221"
+        }
+      ],
+      "rarity": "U",
+      "set": "221",
+      "side": "Light"
+    },
+    {
+      "abbr": [
+        "SR"
+      ],
+      "front": {
+        "darkSideIcons": 1,
+        "destiny": "0",
+        "gametext": "Light: Once during opponent's turn, if your clone here with a Jedi or Padawan, may activate 1 Force. Dark: Deploys only to same planet as Clone Command Center. Your vehicles are power +1 here.",
+        "icons": [
+          "Exterior",
+          "Planet",
+          "Episode I",
+          "Clone Army",
+          "Set 21"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual21-Light/large/supplyroute.gif",
+        "lightSideIcons": 2,
+        "subType": "Site",
+        "title": "<>Supply Route",
+        "type": "Location",
+        "uniqueness": "<>"
+      },
+      "gempId": "221_74",
+      "id": 7222,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "221"
+        }
+      ],
+      "rarity": "C2",
+      "set": "221",
+      "side": "Light"
+    },
+    {
+      "abbr": [
+        "TMEv"
+      ],
+      "front": {
+        "darkSideIcons": 1,
+        "destiny": "0",
+        "gametext": "Light: If you occupy, may deploy [Tatooine] A Remote Planet here. Dark: While Mos Espa converted, your Force generation is +2 here.",
+        "icons": [
+          "Exterior",
+          "Planet",
+          "Tatooine",
+          "Episode I",
+          "Set 21"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual21-Light/large/tatooinemosespa.gif",
+        "lightSideIcons": 2,
+        "subType": "Site",
+        "title": "•Tatooine: Mos Espa (V)",
+        "type": "Location",
+        "uniqueness": "*"
+      },
+      "gempId": "221_75",
+      "id": 7223,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "221"
+        }
+      ],
+      "rarity": "C",
       "set": "221",
       "side": "Light"
     }

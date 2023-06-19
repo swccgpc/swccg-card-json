@@ -1268,7 +1268,10 @@
       ],
       "rarity": "C",
       "set": "8",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+        {"title": "Accelerate (V)", "cardId": 7155}
+      ]
     },
     {
       "canceledBy": [
@@ -9709,7 +9712,8 @@
       "set": "5",
       "side": "Dark",
       "underlyingCardFor": [
-	"Coruscant: Xizor's Palace"
+        {"title": "Cloud City: Chasm Walkway (V)", "cardId": 7159},
+        {"title": "Coruscant: Xizor's Palace", "cardId": 5029}
       ]
     },
     {
@@ -11415,7 +11419,10 @@
       ],
       "rarity": "U2",
       "set": "1",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+        {"title": "Commander Praji (V)", "cardId": 7160}
+      ]
     },
     {
       "abbr": [
@@ -11537,7 +11544,10 @@
       ],
       "rarity": "C2",
       "set": "3",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+        {"title": "ComScan Detection (V)", "cardId": 7161}
+      ]
     },
     {
       "counterpart": "Concussion Missiles",
@@ -11917,7 +11927,10 @@
       ],
       "rarity": "U",
       "set": "8",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+        {"title": "Corporal Avarik (V)", "cardId": 7162}
+      ]
     },
     {
       "cancels": [
@@ -12004,7 +12017,8 @@
       "set": "8",
       "side": "Dark",
       "underlyingCardFor": [
-	"FN-2003"
+        {"title": "Corporal Drazin (V)", "cardId": 7163},
+        {"title": "FN-2003", "cardId": 5094}
       ]
     },
     {
@@ -12173,7 +12187,10 @@
         "This card is not a commander."
       ],
       "set": "8",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+        {"title": "Corporal Oberk (V)", "cardId": 7164}
+      ]
     },
     {
       "combo": [
@@ -13483,7 +13500,10 @@
       ],
       "rarity": "R1",
       "set": "1",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+        {"title": "Dark Collaboration (V)", "cardId": 7165}
+      ]
     },
     {
       "abbr": [
@@ -17729,7 +17749,10 @@
       ],
       "rarity": "C",
       "set": "5",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+        {"title": "Asajj Ventress' Lightsabers", "cardId": 7157}
+      ]
     },
     {
       "front": {
@@ -23395,7 +23418,10 @@
       ],
       "rarity": "R2",
       "set": "1",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+        {"title": "General Tagge (V)", "cardId": 7168}
+      ]
     },
     {
       "front": {
@@ -25538,7 +25564,10 @@
       ],
       "rarity": "PM",
       "set": "112",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+        {"title": "Hutt Influence (V)", "cardId": 7169}
+      ]
     },
     {
       "front": {
@@ -25621,7 +25650,8 @@
       "set": "2",
       "side": "Dark",
       "underlyingCardFor": [
-	"An Inkling Of Its Destructive Potential"
+        {"title": "Hyperwave Scan (V)", "cardId": 7170},
+        {"title": "An Inkling Of Its Destructive Potential", "cardId": 6089}
       ]
     },
     {
@@ -26060,7 +26090,10 @@
       ],
       "rarity": "R",
       "set": "4",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+        {"title": "Deactivated Hyperdrive", "cardId": 7166}
+      ]
     },
     {
       "front": {
@@ -26933,7 +26966,10 @@
       ],
       "rarity": "C",
       "set": "8",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+        {"title": "Lieutenant Dedra Meero", "cardId": 7173}
+      ]
     },
     {
       "abbr": [
@@ -27844,7 +27880,10 @@
         "Suspends the 'cannot move' text on Imperial Trooper Guards at same site."
       ],
       "set": "2",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+        {"title": "Captain Mod Terrik", "cardId": 7158}
+      ]
     },
     {
       "front": {
@@ -30480,7 +30519,10 @@
       ],
       "rarity": "U",
       "set": "11",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+        {"title": "Vader's Malediction", "cardId": 7188}
+      ]
     },
     {
       "combo": [
@@ -30636,7 +30678,10 @@
         "The affected alien's ability works normally for all other purposes (even during battle) such as for checking defense value swinging a Jedi Lightsaber, or being targeted by Trample."
       ],
       "set": "1",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+        {"title": "Juri Juice (V)", "cardId": 7172}
+      ]
     },
     {
       "counterpart": "Kashyyyk",
@@ -33044,7 +33089,10 @@
       ],
       "rarity": "R1",
       "set": "1",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+        {"title": "First Light", "cardId": 7167}
+      ]
     },
     {
       "cancels": [
@@ -35472,7 +35520,10 @@
       ],
       "rarity": "R",
       "set": "4",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+        {"title": "Zuckuss And 4-LOM In Mist Hunter", "cardId": 7190}
+      ]
     },
     {
       "abbr": [
@@ -40392,7 +40443,10 @@
       ],
       "rarity": "PM",
       "set": "112",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+        {"title": "Power Of The Hutt (V)", "cardId": 7175}
+      ]
     },
     {
       "counterpart": "Combined Attack",
@@ -41006,7 +41060,10 @@
       ],
       "rarity": "U1",
       "set": "1",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+        {"title": "Asajj Ventress", "cardId": 7156}
+      ]
     },
     {
       "front": {
@@ -42855,7 +42912,10 @@
       ],
       "rarity": "C",
       "set": "9",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+        {"title": "Royal Escort (V)", "cardId": 7176}
+      ]
     },
     {
       "front": {
@@ -44631,7 +44691,10 @@
       ],
       "rarity": "R1",
       "set": "1",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+        {"title": "Send a Detachment Down (V)", "cardId": 7177}
+      ]
     },
     {
       "canceledBy": [
@@ -45174,7 +45237,10 @@
       ],
       "rarity": "U",
       "set": "8",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+        {"title": "Sergeant Tarl (V)", "cardId": 7178}
+      ]
     },
     {
       "front": {
@@ -45454,7 +45520,10 @@
       ],
       "rarity": "U",
       "set": "5",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+        {"title": "Shattered Hope (V)", "cardId": 7179}
+      ]
     },
     {
       "cancels": [
@@ -47944,7 +48013,10 @@
         "Does not allow the character to use weapons/devices that they cannot use otherwise."
       ],
       "set": "1",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+        {"title": "TD-4445", "cardId": 7186}
+      ]
     },
     {
       "front": {
@@ -49408,7 +49480,10 @@
       ],
       "rarity": "R",
       "set": "7",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+        {"title": "Tatooine Occupation (V)", "cardId": 7180}
+      ]
     },
     {
       "front": {
@@ -49446,7 +49521,10 @@
         "Expand The Empire does not change anything (bluffing is only possible at the Bluffs site)."
       ],
       "set": "2",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+        {"title": "Tatooine: Imperial Landing Site", "cardId": 7183}
+      ]
     },
     {
       "combo": [
@@ -49484,7 +49562,8 @@
       "set": "1",
       "side": "Dark",
       "underlyingCardFor": [
-	"First Light: Bar"
+        {"title": "Tatooine: Cantina (V)", "cardId": 7181},
+        {"title": "First Light: Bar", "cardId": 6813}
       ]
     },
     {
@@ -49658,7 +49737,10 @@
       ],
       "rarity": "U",
       "set": "6",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+        {"title": "Tatooine: Great Pit of Carkoon (V)", "cardId": 7182}
+      ]
     },
     {
       "canceledBy": [
@@ -49735,7 +49817,8 @@
       "set": "1",
       "side": "Dark",
       "underlyingCardFor": [
-	"Jakku: Landing Site"
+        {"title": "Tatooine: Jawa Camp (V)", "cardId": 7184},
+        {"title": "Jakku: Landing Site", "cardId": 5105}
       ]
     },
     {
@@ -49908,7 +49991,10 @@
       ],
       "rarity": "C",
       "set": "12",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+        {"title": "Jakku: Niima Marketplace", "cardId": 7171}
+      ]
     },
     {
       "abbr": [
@@ -49944,7 +50030,10 @@
       ],
       "rarity": "C1",
       "set": "1",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+        {"title": "Tatooine: Mos Eisley (V)", "cardId": 7185}
+      ]
     },
     {
       "counterpart": "Tatooine: Mos Espa",
@@ -50825,7 +50914,10 @@
         "Once this grabs an Interrupt, it immediately prevents any further copies of the same name from being played that turn."
       ],
       "set": "2",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+        {"title": "Tentacle (V)", "cardId": 7187}
+      ]
     },
     {
       "front": {
@@ -52181,7 +52273,10 @@
       ],
       "rarity": "C",
       "set": "4",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+        {"title": "Major Partagaz", "cardId": 7174}
+      ]
     },
     {
       "front": {
@@ -54856,7 +54951,8 @@
       "set": "101",
       "side": "Dark",
       "underlyingCardFor": [
-	"Kylo Ren"
+        {"title": "Vader's Obsession (V)", "cardId": 7189},
+        {"title": "Kylo Ren", "cardId": 5097}
       ]
     },
     {
@@ -64842,6 +64938,1166 @@
         }
       ],
       "rarity": "U",
+      "set": "221",
+      "side": "Dark"
+    },
+    {
+      "front": {
+        "destiny": "6",
+        "gametext": "For remainder of turn, your speeder bikes are power and forfeit +1. OR Subtract 2 from a just drawn destiny targeting the ability or defense value of a biker scout piloting a speeder bike.",
+        "icons": [
+          "Endor",
+          "Set 21"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual21-Dark/large/accelerate.gif",
+        "lore": "The Empire trains its personnel to operate a variety of specialized equipment in demanding environments. This training allows troops to take seemingly risky actions.",
+        "subType": "Used",
+        "title": "Accelerate (V)",
+        "type": "Interrupt"
+      },
+      "gempId": "221_7",
+      "id": 7155,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "221"
+        }
+      ],
+      "rarity": "C",
+      "set": "221",
+      "side": "Dark"
+    },
+    {
+      "abbr": [
+        "AV"
+      ],
+      "front": {
+        "ability": "5",
+        "deploy": "5",
+        "destiny": "1",
+        "extraText": [
+          "Force-Sensitive"
+        ],
+        "forfeit": "7",
+        "gametext": "Deploys -1 if Dooku on table. Whenever a player loses a battle here, that player loses 1 Force. While armed, opponent's weapon destiny draws targeting Ventress are -1. Opponent may not cancel battles here. Immune to [Permanent Weapon] weapons and attrition < 4.",
+        "icons": [
+          "Episode I",
+          "Pilot",
+          "Warrior",
+          "Separatist",
+          "Set 21"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual21-Dark/large/asajjventress.gif",
+        "lore": "Female Dathomirian assassin.",
+        "power": "5",
+        "subType": "Sith",
+        "title": "•Asajj Ventress",
+        "type": "Character",
+        "uniqueness": "*"
+      },
+      "gempId": "221_8",
+      "id": 7156,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "221"
+        }
+      ],
+      "rarity": "U1",
+      "set": "221",
+      "side": "Dark"
+    },
+    {
+      "abbr": [
+        "AVL"
+      ],
+      "front": {
+        "destiny": "1",
+        "gametext": "Deploy on a Sith. If present at opponent's site, may add 1 to Force drain here. May target a character (twice per battle if on Ventress). Draw two destiny. Subtract 2 from total if this weapon already fired this battle. Target hit, and its forfeit = 0, if total destiny > defense value.",
+        "icons": [
+          "Episode I",
+          "Set 21"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual21-Dark/large/asajjventresslightsabers.gif",
+        "lore": "Blank",
+        "subType": "Character Weapon",
+        "title": "•Asajj Ventress' Lightsabers",
+        "type": "Weapon",
+        "uniqueness": "*"
+      },
+      "gempId": "221_9",
+      "id": 7157,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "221"
+        }
+      ],
+      "rarity": "C",
+      "set": "221",
+      "side": "Dark"
+    },
+    {
+      "abbr": [
+        "CMT"
+      ],
+      "front": {
+        "ability": "2",
+        "armor": "4",
+        "deploy": "2",
+        "destiny": "3",
+        "forfeit": "4",
+        "gametext": "Power +1 if Stardust or Stolen Data Tapes on table. While with another trooper, attrition against opponent here is +1. During your move phase, when moving with a 'squad' of up to two other stormtroopers, they all move (using landspeed) for 1 Force.",
+        "icons": [
+          "Warrior",
+          "Set 21"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual21-Dark/large/captainmodterrik.gif",
+        "lore": "Captain Mod Terrik, a typical officer of the Desert Sands sandtrooper unit. Fearless and highly motivated. Willing to sacrifice as many troops as necessary. Leader.",
+        "power": "2",
+        "subType": "Imperial",
+        "title": "•Captain Mod Terrik",
+        "type": "Character",
+        "uniqueness": "*"
+      },
+      "gempId": "221_10",
+      "id": 7158,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "221"
+        }
+      ],
+      "rarity": "C3",
+      "set": "221",
+      "side": "Dark"
+    },
+    {
+      "abbr": [
+        "CCCWv"
+      ],
+      "front": {
+        "darkSideIcons": 2,
+        "destiny": "0",
+        "gametext": "Dark: If Vader's Malediction on table and Vader alone here, opponent's Interrupts are Lost Interrupts. Light: If you occupy, opponent's Chasm Walkway game text here is canceled. May not be converted.",
+        "icons": [
+          "Cloud City",
+          "Interior",
+          "Mobile",
+          "Scomp Link",
+          "Set 21"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual21-Dark/large/cloudcitychasmwalkway.gif",
+        "lightSideIcons": 1,
+        "subType": "Site",
+        "title": "•Cloud City: Chasm Walkway (V)",
+        "type": "Location",
+        "uniqueness": "*"
+      },
+      "gempId": "221_11",
+      "id": 7159,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "221"
+        }
+      ],
+      "rarity": "C",
+      "set": "221",
+      "side": "Dark",
+      "underlyingCardFor": [
+        {"title": "•Cloud City: Chasm Walkway (V)", "cardId": 7159}
+      ]
+    },
+    {
+      "abbr": [
+        "CPv"
+      ],
+      "front": {
+        "ability": "2",
+        "deploy": "2",
+        "destiny": "2",
+        "forfeit": "4",
+        "gametext": "Adds 2 to power of anything he pilots. While aboard Devastator, adds 1 to armor and hyperspeed and, once during your deploy phase, your trooper at a related site may make a regular move using landspeed.",
+        "icons": [
+          "Pilot",
+          "Warrior",
+          "Set 21"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual21-Dark/large/commanderpraji.gif",
+        "lore": "Vader's aide on the Devastator. Personally supervised search for Death Star plans on Tatooine by Vader's order. Was graduated with honors from Imperial Navy Academy on Carida.",
+        "power": "2",
+        "subType": "Imperial",
+        "title": "•Commander Praji (V)",
+        "type": "Character",
+        "uniqueness": "*"
+      },
+      "gempId": "221_12",
+      "id": 7160,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "221"
+        }
+      ],
+      "rarity": "U2",
+      "set": "221",
+      "side": "Dark"
+    },
+    {
+      "abbr": [
+        "CDv",
+        "CSDv"
+      ],
+      "front": {
+        "destiny": "4",
+        "gametext": "During your turn, target opponent's spy at a site you control; target is lost. (Immune to Droid Shutdown.) [Immune to Sense.] OR Cancel Dodge, I Think I Can Handle Myself, or a Force drain initiated by a lone Falcon. OR Target a starship weapon; it may not fire this turn.",
+        "icons": [
+          "Hoth",
+          "Set 21"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual21-Dark/large/comscandetection.gif",
+        "lore": "The Imperial Navy boasts the best communications network in the galaxy. Sophisticated control technology allows the Empire to dispatch armed forces without delay.",
+        "subType": "Used",
+        "title": "ComScan Detection (V)",
+        "type": "Interrupt"
+      },
+      "gempId": "221_13",
+      "id": 7161,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "221"
+        }
+      ],
+      "rarity": "C1",
+      "set": "221",
+      "side": "Dark"
+    },
+    {
+      "abbr": [
+        "CAv"
+      ],
+      "front": {
+        "ability": "1",
+        "deploy": "2",
+        "destiny": "3",
+        "forfeit": "4",
+        "gametext": "Adds 3 to power of any speeder bike he pilots. While piloting a speeder bike, draws one battle destiny if unable to otherwise. Once per game, may take a speeder bike (or an Effect with 'speeder bike' in game text) into hand from Reserve Deck; reshuffle.",
+        "icons": [
+          "Endor",
+          "Pilot",
+          "Warrior",
+          "Set 21"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual21-Dark/large/corporalavarik.gif",
+        "lore": "Frequently engaged in brawls at the local enlisted clubs on homeworld of Corulag. Stormtrooper assigned to biker scout unit. Monitors Yuzzum activity.",
+        "power": "2",
+        "subType": "Imperial",
+        "title": "•Corporal Avarik (V)",
+        "type": "Character",
+        "uniqueness": "*"
+      },
+      "gempId": "221_14",
+      "id": 7162,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "221"
+        }
+      ],
+      "rarity": "U",
+      "set": "221",
+      "side": "Dark"
+    },
+    {
+      "abbr": [
+        "CDv"
+      ],
+      "front": {
+        "ability": "2",
+        "deploy": "2",
+        "destiny": "3",
+        "forfeit": "3",
+        "gametext": "Deploys -1 to Endor. Your Lando and your [Endor] leaders may not be targeted by weapons here. While at a Cloud City site, modifiers to Force drains here may not be canceled. Once per game, may take Blasted Droid into hand from Reserve Deck; reshuffle.",
+        "icons": [
+          "Endor",
+          "Warrior",
+          "Set 21"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual21-Dark/large/corporaldrazin.gif",
+        "lore": "Stormtrooper assigned to Commander Igar's honor guard. Accompanied Vader on Drazin's homeworld of Bespin. Shot C-3PO there.",
+        "power": "2",
+        "subType": "Imperial",
+        "title": "•Corporal Drazin (V)",
+        "type": "Character",
+        "uniqueness": "*"
+      },
+      "gempId": "221_15",
+      "id": 7163,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "221"
+        }
+      ],
+      "rarity": "U",
+      "set": "221",
+      "side": "Dark"
+    },
+    {
+      "abbr": [
+        "COv"
+      ],
+      "front": {
+        "ability": "2",
+        "deploy": "2",
+        "destiny": "3",
+        "forfeit": "3",
+        "gametext": "Adds 2 to power of anything he pilots (3 if a speeder bike). When deployed, may deploy a battleground or speeder bike from Used Pile; reshuffle. When firing a Scout Blaster, adds 1 to his total weapon destiny (2 if targeting an alien).",
+        "icons": [
+          "Endor",
+          "Pilot",
+          "Warrior",
+          "Set 21"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual21-Dark/large/corporaloberk.gif",
+        "lore": "Originally from Ukio. Stormtrooper assigned to search for Rebel activity on Endor. Trying to impress the commander of his biker scout detachment.",
+        "power": "2",
+        "subType": "Imperial",
+        "title": "•Corporal Oberk (V)",
+        "type": "Character",
+        "uniqueness": "*"
+      },
+      "gempId": "221_16",
+      "id": 7164,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "221"
+        }
+      ],
+      "rarity": "R",
+      "set": "221",
+      "side": "Dark"
+    },
+    {
+      "abbr": [
+        "DCv"
+      ],
+      "front": {
+        "destiny": "5",
+        "gametext": "Cancel Rebel Barrier. OR If your non-Ozzel ISB agent leader in battle, cancel It's A Trap! or opponent's 'react' away from that battle. OR If three non-Ozzel ISB agent leaders are in battle together, add two battle destiny.",
+        "icons": [
+          "Set 21"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual21-Dark/large/darkcollaboration.gif",
+        "lore": "Imperial leaders are ruthlessly effective when working together. Tarkin, Motti and Tagge presented a deadly combination as they plotted to 'crush the Rebellion.'",
+        "subType": "Lost",
+        "title": "•Dark Collaboration (V)",
+        "type": "Interrupt",
+        "uniqueness": "*"
+      },
+      "gempId": "221_17",
+      "id": 7165,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "221"
+        }
+      ],
+      "rarity": "R1",
+      "set": "221",
+      "side": "Dark"
+    },
+    {
+      "abbr": [
+        "DH"
+      ],
+      "front": {
+        "destiny": "6",
+        "gametext": "Deploy on table. [Reflections III] Falcon loses immunity to attrition. During opponent's draw phase, if you occupy a battleground site and opponent does not, may place in Used Pile (if Systems Will Slip Through Your Fingers or a 'liberated' system on table, opponent loses 3 Force).",
+        "icons": [
+          "Set 21"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual21-Dark/large/deactivatedhyperdrive.gif",
+        "lore": "Blank",
+        "title": "•Deactivated Hyperdrive",
+        "type": "Effect",
+        "uniqueness": "*"
+      },
+      "gempId": "221_18",
+      "id": 7166,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "221"
+        }
+      ],
+      "rarity": "R",
+      "set": "221",
+      "side": "Dark"
+    },
+    {
+      "abbr": [
+        "FL"
+      ],
+      "front": {
+        "armor": "9",
+        "deploy": "5",
+        "destiny": "2",
+        "forfeit": "7",
+        "gametext": "May add 3 pilots and 6 passengers. Permanent pilot provides ability of 3. Deploys and moves like a starfighter. Your total battle destiny here is +1 for each gangster aboard. Immune to attrition < 5.",
+        "hyperspeed": "3",
+        "icons": [
+          "Scomp Link",
+          "Independent",
+          "Pilot",
+          "Nav Computer",
+          "Set 21"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual21-Dark/large/firstlight.gif",
+        "lore": "Crimson Dawn.",
+        "power": "5",
+        "subType": "Capital: Nau'ur-Class Yacht",
+        "title": "•First Light",
+        "type": "Starship",
+        "uniqueness": "*"
+      },
+      "gempId": "221_19",
+      "id": 7167,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "221"
+        }
+      ],
+      "rarity": "R1",
+      "set": "221",
+      "side": "Dark"
+    },
+    {
+      "abbr": [
+        "GTv"
+      ],
+      "front": {
+        "ability": "3",
+        "deploy": "3",
+        "destiny": "1",
+        "extraText": [
+          "Force-Attuned"
+        ],
+        "forfeit": "5",
+        "gametext": "Your non-[Maintenance] troopers have armor = 4. At same and adjacent sites where you have a non-pilot trooper, your total power is +3. Once per game, if with two troopers, may re-circulate.",
+        "icons": [
+          "Warrior",
+          "Set 21"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual21-Dark/large/generaltagge.gif",
+        "lore": "Oversees defense operations of Death Star. Outstanding tactician. No-nonsense leader. Member of House of Tagge, a powerful noble family and corporate conglomerate.",
+        "power": "3",
+        "subType": "Imperial",
+        "title": "•General Tagge (V)",
+        "type": "Character",
+        "uniqueness": "*"
+      },
+      "gempId": "221_20",
+      "id": 7168,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "221"
+        }
+      ],
+      "rarity": "R2",
+      "set": "221",
+      "side": "Dark"
+    },
+    {
+      "abbr": [
+        "HIv"
+      ],
+      "front": {
+        "destiny": "4",
+        "gametext": "Deploy on table. I Must Be Allowed To Speak may only target opponent's locations (even if converted). At Tatooine battlegrounds where you have an alien and a gambler, gangster, or Dug, Force drains may not be canceled or reduced by opponent. [Immune to Alter.]",
+        "icons": [
+          "Premium",
+          "Set 21"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual21-Dark/large/huttinfluence.gif",
+        "lore": "Jabba's criminal empire extends to all reaches of the Outer Rim.",
+        "title": "•Hutt Influence (V)",
+        "type": "Effect",
+        "uniqueness": "*"
+      },
+      "gempId": "221_21",
+      "id": 7169,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "221"
+        }
+      ],
+      "rarity": "PM",
+      "set": "221",
+      "side": "Dark"
+    },
+    {
+      "abbr": [
+        "HSv"
+      ],
+      "front": {
+        "destiny": "5",
+        "gametext": "Deploy on a location. At same battleground, opponent may not cancel or reduce your Force drains here. You initiate battles here for free. If you just initiated battle here, may draw top card of Reserve Deck. Total battle destiny and forfeit values may not be increased here.",
+        "icons": [
+          "A New Hope",
+          "Set 21"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual21-Dark/large/hyperwavescan.gif",
+        "lore": "Full Imperial scans include full-spectrum transceivers, dedicated energy receptors, crystal gravfield traps, and hyperwave signal interceptors.",
+        "title": "Hyperwave Scan (V)",
+        "type": "Effect"
+      },
+      "gempId": "221_22",
+      "id": 7170,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "221"
+        }
+      ],
+      "rarity": "U1",
+      "set": "221",
+      "side": "Dark"
+    },
+    {
+      "abbr": [
+        "JNM"
+      ],
+      "front": {
+        "darkSideIcons": 2,
+        "destiny": "0",
+        "gametext": "Dark: During your move phase, your [Episode VII] characters may move from here to a battleground site. Light: If Finn or Rey here, opponent's First Order characters may not move from here.",
+        "icons": [
+          "Exterior",
+          "Planet",
+          "Episode VII",
+          "Set 21"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual21-Dark/large/jakkuniimamarketplace.gif",
+        "lightSideIcons": 1,
+        "subType": "Site",
+        "title": "•Jakku: Niima Marketplace",
+        "type": "Location",
+        "uniqueness": "*"
+      },
+      "gempId": "221_23",
+      "id": 7171,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "221"
+        }
+      ],
+      "rarity": "C",
+      "set": "221",
+      "side": "Dark"
+    },
+    {
+      "abbr": [
+        "JJv"
+      ],
+      "front": {
+        "destiny": "4",
+        "gametext": "Deploy on table. May deploy Cantina from Reserve Deck; reshuffle. Your Cantina may not be converted. Once per turn, if you just deployed an alien to Cantina, may peek at the top two cards of your Reserve Deck; take one into hand and shuffle your Reserve Deck. Immune to Blue Milk. [Immune to Alter.]",
+        "icons": [
+          "Set 21"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual21-Dark/large/jurijuice.gif",
+        "lore": "Popular beverage served in many cantinas and tapcafes. Has intoxicating effect on many species. Favorite drink of Kabe, Chadra-Fan thief of Mos Eisley.",
+        "title": "•Juri Juice (V)",
+        "type": "Effect",
+        "uniqueness": "*"
+      },
+      "gempId": "221_24",
+      "id": 7172,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "221"
+        }
+      ],
+      "rarity": "R2",
+      "set": "221",
+      "side": "Dark"
+    },
+    {
+      "abbr": [
+        "LDM"
+      ],
+      "front": {
+        "ability": "3",
+        "deploy": "3",
+        "destiny": "3",
+        "extraText": [
+          "Force-Attuned"
+        ],
+        "forfeit": "5",
+        "gametext": "When deployed, may target an opponent's spy present to be power = 0 until end of turn. Once per turn, if an ISB agent on table, may place a card from hand on Used Pile; the next ISB agent you deploy this turn is deploy -1.",
+        "icons": [
+          "Warrior",
+          "Set 21"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual21-Dark/large/lieutenantdedrameero.gif",
+        "lore": "Female ISB leader.",
+        "power": "3",
+        "subType": "Imperial",
+        "title": "•Lieutenant Dedra Meero",
+        "type": "Character",
+        "uniqueness": "*"
+      },
+      "gempId": "221_25",
+      "id": 7173,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "221"
+        }
+      ],
+      "rarity": "C",
+      "set": "221",
+      "side": "Dark"
+    },
+    {
+      "abbr": [
+        "MP"
+      ],
+      "front": {
+        "ability": "4",
+        "deploy": "3",
+        "destiny": "3",
+        "extraText": [
+          "Force-Sensitive"
+        ],
+        "forfeit": "5",
+        "gametext": "When deployed, may shuffle any player's Reserve Deck, Lost Pile, or Used Pile. ISB agent leaders at same and related sites (or at all locations while Partagaz present at a Coruscant site) are power and defense value +1.",
+        "icons": [
+          "Set 21"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual21-Dark/large/majorpartagaz.gif",
+        "lore": "ISB leader.",
+        "power": "2",
+        "subType": "Imperial",
+        "title": "•Major Partagaz",
+        "type": "Character",
+        "uniqueness": "*"
+      },
+      "gempId": "221_26",
+      "id": 7174,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "221"
+        }
+      ],
+      "rarity": "C",
+      "set": "221",
+      "side": "Dark"
+    },
+    {
+      "abbr": [
+        "POTHv"
+      ],
+      "front": {
+        "destiny": "4",
+        "gametext": "Deploy on table. While Nal Hutta on table and your alien at Audience Chamber, [Reflections III] Leia's game text is canceled and, once during opponent's turn, may activate 1 Force. Once per turn, may deploy Hutt Influence, Bib, or a barge from Reserve Deck; reshuffle. [Immune to Alter.]",
+        "icons": [
+          "Premium",
+          "Set 21"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual21-Dark/large/powerofthehutt.gif",
+        "lore": "Jabba runs his organization out of a palace built around a B'omarr monastery. His fortress near the border of the western Dune Sea is safe from enemies in Mos Eisley.",
+        "title": "•Power Of The Hutt (V)",
+        "type": "Effect",
+        "uniqueness": "*"
+      },
+      "gempId": "221_27",
+      "id": 7175,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "221"
+        }
+      ],
+      "rarity": "PM",
+      "set": "221",
+      "side": "Dark"
+    },
+    {
+      "abbr": [
+        "REv"
+      ],
+      "front": {
+        "destiny": "4",
+        "gametext": "Deploy on table. Your scouts piloting speeder bikes are defense value = 5 and immune to Clash Of Sabers. Once per game, your speeder bike piloted by a scout may follow an opponent's character that just moved from same site. [Immune to Alter.]",
+        "icons": [
+          "Death Star II",
+          "Set 21"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual21-Dark/large/royalescort.gif",
+        "lore": "When away from the Imperial Palace on Coruscant, the Emperor is protected by legions of troops. Typically this force includes soldiers trained to fight in the local environment.",
+        "title": "•Royal Escort (V)",
+        "type": "Effect",
+        "uniqueness": "*"
+      },
+      "gempId": "221_28",
+      "id": 7176,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "221"
+        }
+      ],
+      "rarity": "C",
+      "set": "221",
+      "side": "Dark"
+    },
+    {
+      "abbr": [
+        "SADDv"
+      ],
+      "front": {
+        "destiny": "4",
+        "gametext": "Deploy on table. While you occupy Tatooine system, your Force generation is +1 at Tatooine sites you occupy with a trooper and, during your deploy phase, may exchange a non-[Maintenance] Imperial trooper in hand with one in Reserve Deck; reshuffle. [Immune to Alter.]",
+        "icons": [
+          "Set 21"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual21-Dark/large/sendadetachmentdown.gif",
+        "lore": "Vader sent Imperial stormtroopers to the surface of Tatooine in search of the stolen Death Star plans. 'There'll be no one to stop us this time.'",
+        "title": "•Send a Detachment Down (V)",
+        "type": "Effect",
+        "uniqueness": "*"
+      },
+      "gempId": "221_29",
+      "id": 7177,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "221"
+        }
+      ],
+      "rarity": "R1",
+      "set": "221",
+      "side": "Dark"
+    },
+    {
+      "abbr": [
+        "STv"
+      ],
+      "front": {
+        "ability": "2",
+        "deploy": "2",
+        "destiny": "3",
+        "forfeit": "3",
+        "gametext": "When deployed, power +2 for remainder of turn. During battle with two of your troopers (or two ISB agents), may target a Rebel present with Tarl; target is immune to attrition and target's game text is canceled.",
+        "icons": [
+          "Endor",
+          "Warrior",
+          "Set 21"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual21-Dark/large/sergeanttarl.gif",
+        "lore": "Took part in the capture of the Rebel Blockade Runner Tantive IV. Stormtrooper trained on Corulag. Corellia native.",
+        "power": "2",
+        "subType": "Imperial",
+        "title": "•Sergeant Tarl (V)",
+        "type": "Character",
+        "uniqueness": "*"
+      },
+      "gempId": "221_30",
+      "id": 7178,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "221"
+        }
+      ],
+      "rarity": "U",
+      "set": "221",
+      "side": "Dark"
+    },
+    {
+      "abbr": [
+        "SHv"
+      ],
+      "front": {
+        "destiny": "3",
+        "gametext": "During battle, add one battle destiny.",
+        "icons": [
+          "Cloud City",
+          "Set 21"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual21-Dark/large/shatteredhope.gif",
+        "lore": "Using the power of the dark side, Vader caused Luke to lose his confidence and question his sense of direction.",
+        "subType": "Lost",
+        "title": "•Shattered Hope (V)",
+        "type": "Interrupt",
+        "uniqueness": "*"
+      },
+      "gempId": "221_31",
+      "id": 7179,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "221"
+        }
+      ],
+      "rarity": "U",
+      "set": "221",
+      "side": "Dark"
+    },
+    {
+      "abbr": [
+        "TCv"
+      ],
+      "front": {
+        "darkSideIcons": 2,
+        "destiny": "0",
+        "gametext": "Dark: Once per turn, may deploy Djas Puhr, Tonnika Sisters, or [Jabba's Palace] Wuher here from Reserve Deck; reshuffle. Light: Unless Obi-Wan here (or at Mos Eisley), you may not move to here during your control phase.",
+        "icons": [
+          "Interior",
+          "Planet",
+          "Set 21"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual21-Dark/large/tatooinecantina.gif",
+        "lightSideIcons": 2,
+        "subType": "Site",
+        "title": "•Tatooine: Cantina (V)",
+        "type": "Location",
+        "uniqueness": "*"
+      },
+      "gempId": "221_33",
+      "id": 7181,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "221"
+        }
+      ],
+      "rarity": "R2",
+      "set": "221",
+      "side": "Dark"
+    },
+    {
+      "abbr": [
+        "TGPOCv"
+      ],
+      "front": {
+        "darkSideIcons": 1,
+        "destiny": "0",
+        "gametext": "Dark: If Jabba at Audience Chamber, [Set 4] Jabba's Sail Barge deploys -2 here. Light: Once per game, may deploy Boba Fett here from Reserve Deck (reshuffle) or Lost Pile.",
+        "icons": [
+          "Jabba's Palace",
+          "Exterior",
+          "Planet",
+          "Set 21"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual21-Dark/large/tatooinegreatpitofcarkoon.gif",
+        "lightSideIcons": 1,
+        "subType": "Site",
+        "title": "•Tatooine: Great Pit of Carkoon (V)",
+        "type": "Location",
+        "uniqueness": "*"
+      },
+      "gempId": "221_34",
+      "id": 7182,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "221"
+        }
+      ],
+      "rarity": "U",
+      "set": "221",
+      "side": "Dark"
+    },
+    {
+      "abbr": [
+        "TILS"
+      ],
+      "front": {
+        "darkSideIcons": 2,
+        "destiny": "0",
+        "gametext": "Dark: Once per turn, if your Imperial here, may deploy a [Hoth] device from Reserve Deck; reshuffle. Light: Once per turn, a player who controls this site may raise their converted related location to the top.",
+        "icons": [
+          "A New Hope",
+          "Exterior",
+          "Planet",
+          "Set 21"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual21-Dark/large/tatooineimperiallandingsite.gif",
+        "lightSideIcons": 1,
+        "subType": "Site",
+        "title": "•Tatooine: Imperial Landing Site",
+        "type": "Location",
+        "uniqueness": "*"
+      },
+      "gempId": "221_35",
+      "id": 7183,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "221"
+        }
+      ],
+      "rarity": "R1",
+      "set": "221",
+      "side": "Dark"
+    },
+    {
+      "abbr": [
+        "TJCv"
+      ],
+      "front": {
+        "darkSideIcons": 2,
+        "destiny": "0",
+        "gametext": "Dark: If your trooper here and no aliens on Tatooine, Force drain +1 at Jawa Camp. Light: Jawas deploy here for 1 Force from their owner only. Obi-Wan moves to here for free.",
+        "icons": [
+          "Exterior",
+          "Planet",
+          "Set 21"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual21-Dark/large/tatooinejawacamp.gif",
+        "lightSideIcons": 1,
+        "subType": "Site",
+        "title": "•Tatooine: Jawa Camp (V)",
+        "type": "Location",
+        "uniqueness": "*"
+      },
+      "gempId": "221_36",
+      "id": 7184,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "221"
+        }
+      ],
+      "rarity": "C1",
+      "set": "221",
+      "side": "Dark"
+    },
+    {
+      "abbr": [
+        "TMEv"
+      ],
+      "front": {
+        "darkSideIcons": 2,
+        "destiny": "0",
+        "gametext": "Dark: Imperial stormtroopers here are forfeit +1 (and power +1 if a sandtrooper). Light: Imperial stormtroopers here may not be targeted by Clash Of Sabers or blasters.",
+        "icons": [
+          "Exterior",
+          "Planet",
+          "Set 21"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual21-Dark/large/tatooinemoseisley.gif",
+        "lightSideIcons": 1,
+        "subType": "Site",
+        "title": "•Tatooine: Mos Eisley (V)",
+        "type": "Location",
+        "uniqueness": "*"
+      },
+      "gempId": "221_37",
+      "id": 7185,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "221"
+        }
+      ],
+      "rarity": "C1",
+      "set": "221",
+      "side": "Dark"
+    },
+    {
+      "abbr": [
+        "TOv"
+      ],
+      "front": {
+        "destiny": "4",
+        "gametext": "Deploy on table. During your control phase, if you occupy Tatooine system, opponent loses 1 Force for each Tatooine battleground site you occupy with a unique (•) trooper. While you have three troopers on Tatooine, immune to Alter and Endor Celebration.",
+        "icons": [
+          "Special Edition",
+          "Set 21"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual21-Dark/large/tatooineoccupation.gif",
+        "lore": "Sandtroopers commanded by Governor Aryon do not enjoy their assignment. They find a means of venting their frustrations by harassing the local inhabitants.",
+        "title": "•Tatooine Occupation (V)",
+        "type": "Effect",
+        "uniqueness": "*"
+      },
+      "gempId": "221_32",
+      "id": 7180,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "221"
+        }
+      ],
+      "rarity": "R",
+      "set": "221",
+      "side": "Dark"
+    },
+    {
+      "front": {
+        "ability": "2",
+        "armor": "4",
+        "deploy": "2",
+        "destiny": "3",
+        "forfeit": "3",
+        "gametext": "Once per game, may reveal from hand to take a dewback into hand from outside your deck and deploy both simultaneously. Deploys -2 aboard a dewback. Your characters aboard dewbacks here may not be targeted by axes or lightsabers.",
+        "icons": [
+          "Warrior",
+          "Set 21"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual21-Dark/large/td4445.gif",
+        "lore": "Sandtrooper.",
+        "power": "2",
+        "subType": "Imperial",
+        "title": "•TD-4445",
+        "type": "Character",
+        "uniqueness": "*"
+      },
+      "gempId": "221_38",
+      "id": 7186,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "221"
+        }
+      ],
+      "rarity": "C2",
+      "set": "221",
+      "side": "Dark"
+    },
+    {
+      "front": {
+        "destiny": "5",
+        "gametext": "Deploy on table. Rebel Barrier is a Lost Interrupt. If no card stacked here, may stack one Interrupt just played here. To play any new Interrupt of the same name, player must first stack it here. Once per game, may shuffle any deck or pile. [Immune to Alter.]",
+        "icons": [
+          "A New Hope",
+          "Grabber",
+          "Set 21"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual21-Dark/large/tentacle.gif",
+        "lore": "Dianogas use their seven tentacles for both locomotion and catching food. The few survivors of such attacks claim that a dianoga tentacle has the strength of a hydro-clamp.",
+        "title": "Tentacle (V)",
+        "type": "Effect"
+      },
+      "gempId": "221_39",
+      "id": 7187,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "221"
+        }
+      ],
+      "rarity": "C2",
+      "set": "221",
+      "side": "Dark"
+    },
+    {
+      "abbr": [
+        "VM"
+      ],
+      "front": {
+        "destiny": "3",
+        "gametext": "If Vader is your apprentice, deploy on table. Vader's game text may not be canceled. While Vader alone, armed with a [Death Star II] lightsaber, and present at a site, your Force drains there are +1. If you just drew Vader for destiny, may take him into hand. [Immune to Alter.]",
+        "icons": [
+          "Cloud City",
+          "Set 21"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual21-Dark/large/vadersmalediction.gif",
+        "lore": "'... And together, we can rule the galaxy as father and son!'",
+        "title": "•Vader's Malediction",
+        "type": "Effect",
+        "uniqueness": "*"
+      },
+      "gempId": "221_40",
+      "id": 7188,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "221"
+        }
+      ],
+      "rarity": "U",
+      "set": "221",
+      "side": "Dark"
+    },
+    {
+      "abbr": [
+        "VOv"
+      ],
+      "front": {
+        "destiny": "6",
+        "gametext": "If Vader is your apprentice, choose: take The Works into hand from Reserve Deck; reshuffle. OR Cancel Uncontrollable Fury. (Immune to Run Luke, Run!) OR At start of your battle phase, move Vader (using landspeed) to a site you do not occupy.",
+        "icons": [
+          "Set 21"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual21-Dark/large/vadersobsession.gif",
+        "lore": "Vader sought to hunt down and destroy all Jedi. After completing the circle with Obi-Wan, he turned his attention to the young Skywalker.",
+        "subType": "Lost",
+        "title": "•Vader's Obsession (V)",
+        "type": "Interrupt",
+        "uniqueness": "*"
+      },
+      "gempId": "221_41",
+      "id": 7189,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "221"
+        }
+      ],
+      "rarity": "PM",
+      "set": "221",
+      "side": "Dark"
+    },
+    {
+      "abbr": [
+        "ZA4IMH"
+      ],
+      "front": {
+        "deploy": "5",
+        "destiny": "2",
+        "forfeit": "7",
+        "gametext": "May add 1 pilot. Permanent pilots are •Zuckuss, who provides ability of 4, and •4-LOM. Players may not add power destinies or draw more than one battle destiny here. Immune to attrition < 5.",
+        "hyperspeed": "5",
+        "icons": [
+          "Scomp Link",
+          "Independent",
+          "Pilot",
+          "Pilot",
+          "Nav Computer",
+          "Set 21"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual21-Dark/large/zuckussand4lominmisthunter.gif",
+        "lore": "Commissioned by a group of Gand venture capitalists headed by Zuckuss. Manufactured by Byblos Drive Yards. Uses repulsorlift technology developed for combat cloud cars.",
+        "maneuver": "5",
+        "power": "5",
+        "subType": "Starfighter: Byblos G-1a Transport",
+        "title": "•Zuckuss And 4-LOM In Mist Hunter",
+        "type": "Starship",
+        "uniqueness": "*"
+      },
+      "gempId": "221_42",
+      "id": 7190,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "221"
+        }
+      ],
+      "rarity": "R",
       "set": "221",
       "side": "Dark"
     }
