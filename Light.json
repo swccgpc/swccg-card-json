@@ -21922,7 +21922,10 @@
         "Once this grabs an Interrupt, it immediately prevents any further copies of the same name from being played that turn."
       ],
       "set": "2",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        {"title": "Grappling Hook (V)", "cardId": 7212}
+      ]
     },
     {
       "front": {
@@ -49018,7 +49021,7 @@
       "side": "Light",
       "underlyingCardFor": [
         {"title": "Security Control (V)", "cardId": 7221},
-        {"title": "Another Pathetic Lifeform & •Security Control", "cardId": 6980},
+        {"title": "Another Pathetic Lifeform & Security Control", "cardId": 6980},
         {"title": "We'll Take The Long Way", "cardId": 4112}
       ]
     },
@@ -70480,10 +70483,7 @@
       ],
       "rarity": "C2",
       "set": "221",
-      "side": "Light",
-      "underlyingCardFor": [
-        {"title": "Grappling Hook (V)", "cardId": 7212}
-      ]
+      "side": "Light"
     },
     {
       "abbr": [
