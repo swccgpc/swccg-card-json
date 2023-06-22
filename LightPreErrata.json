@@ -284,7 +284,7 @@
       ],
       "back": {
         "destiny": "7",
-        "gametext": "He Is The Chosen One:Deploy Jedi Council Chamber (with Prophecy Of The Force there), Ewok Village, and I Feel The Conflict.{For} remainder of game, you may not deploy [Episode I] or [Episode VII] characters or locations (except Obi-Wan and Yoda). Luke may not be captured by Bring Him Before Me unless there are two cards stacked on Insignificant Rebellion during any move phase.{While} this side up, you may initiate battles for free.{Flip} this card if Luke or a Jedi at a battleground site (unless an opponent's character of ability > 4 is). He Will Bring Balance:{While} this side up, once during your control phase, may peek at up to X cards from the top of your Reserve Deck, where X = number of battlegrounds you occupy; take one into hand and shuffle your Reserve Deck. During your draw phase, may retrieve any one card; opponent may stack a card from hand on I Feel The Conflict to place that out of play instead.{Flip} this card (unless Vader crossed over) if opponent's character of ability > 4 at a battleground site or you do not have Luke (or a Jedi) at a battleground site.",
+        "gametext": "He Is The Chosen One:Deploy Jedi Council Chamber (with Prophecy Of The Force there), Ewok Village, and I Feel The Conflict.{For} remainder of game, you may not deploy [Episode I] or [Episode VII] characters or locations (except Obi-Wan and Yoda). Luke may not be captured by Bring Him Before Me unless there are two cards stacked on Insignificant Rebellion during any move phase.{While} this side up, you may initiate battles for free.{Flip} this card if Luke or a Jedi at a battleground site (unless an opponent's character of ability > 4 is). He Will Bring Balance:{While} this side up, once during your control phase, may peek at up to X cards from the top of your Reserve Deck, where X = number of battlegrounds you occupy; take one into hand and shuffle your Reserve Deck. During your draw phase, may retrieve any one card; opponent may stack a card from hand on I Feel The Conflict to place that card out of play instead.{Flip} this card (unless Vader crossed over) if opponent's character of ability > 4 at a battleground site or you do not have Luke (or a Jedi) at a battleground site.",
         "icons": [
           "Set 8"
         ],
@@ -295,7 +295,7 @@
       "front": {
         "destiny": "0",
         "errataSymbol": "E1",
-        "gametext": "He Is The Chosen One:Deploy Jedi Council Chamber (with Prophecy Of The Force there), Ewok Village, and I Feel The Conflict.{For} remainder of game, you may not deploy [Episode I] or [Episode VII] characters or locations (except Obi-Wan and Yoda). Luke may not be captured by Bring Him Before Me unless there are two cards stacked on Insignificant Rebellion during any move phase.{While} this side up, you may initiate battles for free.{Flip} this card if Luke or a Jedi at a battleground site (unless an opponent's character of ability > 4 is). He Will Bring Balance:{While} this side up, once during your control phase, may peek at up to X cards from the top of your Reserve Deck, where X = number of battlegrounds you occupy; take one into hand and shuffle your Reserve Deck. During your draw phase, may retrieve any one card; opponent may stack a card from hand on I Feel The Conflict to place that out of play instead.{Flip} this card (unless Vader crossed over) if opponent's character of ability > 4 at a battleground site or you do not have Luke (or a Jedi) at a battleground site.",
+        "gametext": "He Is The Chosen One:Deploy Jedi Council Chamber (with Prophecy Of The Force there), Ewok Village, and I Feel The Conflict.{For} remainder of game, you may not deploy [Episode I] or [Episode VII] characters or locations (except Obi-Wan and Yoda). Luke may not be captured by Bring Him Before Me unless there are two cards stacked on Insignificant Rebellion during any move phase.{While} this side up, you may initiate battles for free.{Flip} this card if Luke or a Jedi at a battleground site (unless an opponent's character of ability > 4 is). He Will Bring Balance:{While} this side up, once during your control phase, may peek at up to X cards from the top of your Reserve Deck, where X = number of battlegrounds you occupy; take one into hand and shuffle your Reserve Deck. During your draw phase, may retrieve any one card; opponent may stack a card from hand on I Feel The Conflict to place that card out of play instead.{Flip} this card (unless Vader crossed over) if opponent's character of ability > 4 at a battleground site or you do not have Luke (or a Jedi) at a battleground site.",
         "icons": [
           "Set 8"
         ],
@@ -306,7 +306,7 @@
       "gempId": "208_25",
       "id": 40007,
       "legacy": false,
-      "nextId": 5572,
+      "nextId": 40022,
       "printings": [
         {
           "set": "208"
@@ -866,6 +866,50 @@
       ],
       "rarity": "C",
       "set": "207",
+      "side": "Light"
+    },
+    {
+      "abbr": [
+        "HITCO/HWBB"
+      ],
+      "back": {
+        "destiny": "7",
+        "gametext": "He Is The Chosen One: Deploy Anakin's Funeral Pyre (with Prophecy Of The Force there), Ewok Village, and I Feel The Conflict. For remainder of game, you may not deploy [Episode I] or [Episode VII] characters or locations (except Obi-Wan, Yoda, and Lars' Moisture Farm). If Luke just won a battle, may re-circulate and shuffle Reserve Deck. Emperor's Power does not increase deploy costs at battlegrounds. While this side up, you may initiate battles for free. Flip this card if Luke or a Jedi at a battleground site (unless an opponent's character of ability > 4 is). He Will Bring Balance:{While} this side up, once during your control phase, may peek at up to X cards from the top of your Reserve Deck, where X = number of battlegrounds you occupy; take one into hand and shuffle your Reserve Deck. During your draw phase, may retrieve any one card; opponent may stack a card from hand on I Feel The Conflict to place that card out of play instead.{Flip} this card (unless Vader crossed over) if opponent's character of ability > 4 at a battleground site or you do not have Luke (or a Jedi) at a battleground site.",
+        "icons": [
+          "Set 8"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual8-Light/large/hewillbringbalance.gif",
+        "title": "He Is The Chosen One / He Will Bring Balance",
+        "type": "Objective"
+      },
+      "front": {
+        "destiny": "0",
+        "errataDate": "2022-12-12",
+        "errataNotes": "E1 Text: Deploy Jedi Council Chamber (with Prophecy Of The Force there), Ewok Village, and I Feel The Conflict. For remainder of game, you may not deploy [Episode I] or [Episode VII] characters or locations (except Obi-Wan and Yoda). Luke may not be captured by Bring Him Before Me unless there are two cards stacked on Insignificant Rebellion during any move phase. While this side up, you may initiate battles for free. Flip this card if Luke or a Jedi at a battleground site (unless an opponent's character of ability > 4 is).",
+        "errataSymbol": "E2",
+        "gametext": "He Is The Chosen One: Deploy Anakin's Funeral Pyre (with Prophecy Of The Force there), Ewok Village, and I Feel The Conflict. For remainder of game, you may not deploy [Episode I] or [Episode VII] characters or locations (except Obi-Wan, Yoda, and Lars' Moisture Farm). If Luke just won a battle, may re-circulate and shuffle Reserve Deck. Emperor's Power does not increase deploy costs at battlegrounds. While this side up, you may initiate battles for free. Flip this card if Luke or a Jedi at a battleground site (unless an opponent's character of ability > 4 is). He Will Bring Balance:{While} this side up, once during your control phase, may peek at up to X cards from the top of your Reserve Deck, where X = number of battlegrounds you occupy; take one into hand and shuffle your Reserve Deck. During your draw phase, may retrieve any one card; opponent may stack a card from hand on I Feel The Conflict to place that card out of play instead.{Flip} this card (unless Vader crossed over) if opponent's character of ability > 4 at a battleground site or you do not have Luke (or a Jedi) at a battleground site.",
+        "icons": [
+          "Set 8"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual8-Light/large/heisthechosenone.gif",
+        "title": "He Is The Chosen One / He Will Bring Balance",
+        "type": "Objective"
+      },
+      "gempId": "208_25",
+      "id": 40022,
+      "legacy": false,
+      "nextId": 5572,
+      "printings": [
+        {
+          "set": "208"
+        }
+      ],
+      "rarity": "R",
+      "rulings": [
+        "(0-side) An empty Used Pile does not prevent Light from performing the 're-circulate and shuffle Reserve Deck' action.",
+        "(7-side) When playing against Bring Him Before Me, Light <u>may</u> select Luke as the card to be retrieved, but Dark <u>may not</u> stack a card from hand on I Feel The Conflict to place that Luke out of play instead."
+      ],
+      "set": "208",
       "side": "Light"
     }
   ]
