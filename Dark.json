@@ -3755,9 +3755,7 @@
       "legacy": false,
       "matchingWeapon": [
         "Aurra Sing",
-        "Aurra Sing (V)",
-        "Aurra Sing",
-        "Deadly Assassin (V)"
+        "Aurra Sing (V)"
       ],
       "printings": [
         {
@@ -5808,9 +5806,6 @@
       "gempId": "1_312",
       "id": 264,
       "legacy": false,
-      "matchingWeapon": [
-        "Djas Puhr (V)"
-      ],
       "printings": [
         {
           "set": "1"
@@ -6464,7 +6459,6 @@
         "Death Star: Docking Control Room 327",
         "Imperial Arrest Order",
         "Imperial Arrest Order & Secret Plans",
-        "Join Us Or Die (V)",
         "We Must Accelerate Our Plans"
       ],
       "rarity": "U",
@@ -8040,8 +8034,7 @@
         }
       ],
       "pulledBy": [
-        "Blizzard 4",
-        "Dark Collaboration (V)"
+        "Blizzard 4"
       ],
       "pulls": [
         "Heart Of The Chasm",
@@ -8895,8 +8888,7 @@
     },
     {
       "canceledBy": [
-        "Hear Me Baby",
-        "Hold Together (V)"
+        "Hear Me Baby, Hold Together (V)"
       ],
       "cancels": [
         "Blaster Proficiency",
@@ -9811,8 +9803,7 @@
         "Begin Landing Your Troops",
         "Death Star: Docking Control Room 327",
         "Imperial Arrest Order",
-        "Imperial Arrest Order & Secret Plans",
-        "Join Us Or Die (V)"
+        "Imperial Arrest Order & Secret Plans"
       ],
       "rarity": "C",
       "set": "5",
@@ -10885,10 +10876,6 @@
         {
           "set": "1"
         }
-      ],
-      "pulledBy": [
-        "Aurra Sing",
-        "Deadly Assassin (V)"
       ],
       "rarity": "C1",
       "set": "1",
@@ -12073,7 +12060,7 @@
         "deploy": "1",
         "destiny": "3",
         "forfeit": "2",
-        "gametext": "While Grenwick is on Death Star, your Death Star Sentry is not unique ( •), is doubled, deploys free, applies all three of its modifiers and is immune to Alter. Power -1 when not on Death Star.",
+        "gametext": "While Grenwick is on Death Star, your Death Star Sentry is not unique (•), is doubled, deploys free, applies all three of its modifiers and is immune to Alter. Power -1 when not on Death Star.",
         "icons": [
           "Warrior",
           "Special Edition"
@@ -12626,8 +12613,7 @@
         "Begin Landing Your Troops & Fighters Straight Ahead",
         "Death Star: Docking Control Room 327",
         "Imperial Arrest Order",
-        "Imperial Arrest Order & Secret Plans",
-        "Join Us Or Die (V)"
+        "Imperial Arrest Order & Secret Plans"
       ],
       "rarity": "C",
       "set": "12",
@@ -12667,8 +12653,7 @@
         "Begin Landing Your Troops & Fighters Straight Ahead",
         "Death Star: Docking Control Room 327",
         "Imperial Arrest Order",
-        "Imperial Arrest Order & Secret Plans",
-        "Join Us Or Die (V)"
+        "Imperial Arrest Order & Secret Plans"
       ],
       "rarity": "C",
       "set": "7",
@@ -12937,8 +12922,7 @@
     },
     {
       "canceledBy": [
-        "Hear Me Baby",
-        "Hold Together (V)",
+        "Hear Me Baby, Hold Together (V)",
         "It's A Hit!",
         "Major Olander Brit",
         "Surprise Counter Assault"
@@ -13484,7 +13468,7 @@
         "destiny": "5",
         "gametext": "If Tarkin and either Tagge or Motti are in a battle together, you may add two battle destiny. OR Cancel Restricted Deployment or Rebel Barrier.",
         "imageUrl": "https://res.starwarsccg.org/cards/Premiere-Dark/large/darkcollaboration.gif",
-        "lore": "Imperial leaders are ruthlessly effective when working together. Tarkin, Motti and Tagge presented a deadly combination as they plotted to 'crush the Rebellion.'",
+        "lore": "Imperial leaders are ruthlessly effective when working together. Tarkin, Motti and Tagge presented a deadly combination as they plotted to, 'crush the Rebellion.'",
         "subType": "Lost",
         "title": "•Dark Collaboration",
         "type": "Interrupt",
@@ -15745,7 +15729,6 @@
         "Death Star: Docking Control Room 327",
         "Imperial Arrest Order",
         "Imperial Arrest Order & Secret Plans",
-        "Join Us Or Die (V)",
         "Set Your Course For Alderaan/The Ultimate Power In The Universe"
       ],
       "rarity": "C2",
@@ -16108,8 +16091,7 @@
     },
     {
       "canceledBy": [
-        "Hear Me Baby",
-        "Hold Together (V)"
+        "Hear Me Baby, Hold Together (V)"
       ],
       "front": {
         "destiny": "3",
@@ -17345,13 +17327,16 @@
         "Double Back"
       ],
       "rarity": "R2",
+      "rulings": [
+        "This card is not an assassin."
+      ],
       "set": "201",
       "side": "Dark"
     },
     {
       "front": {
         "destiny": "5",
-        "gametext": "Deploy on table. Unique ( •) Imperials of ability = 3 are forfeit +3. If opponent just retrieved Force using an Interrupt or Utinni Effect, you may place that card here. Opponent's Force retrieval is reduced by X, where X = number of cards here. (Immune to Alter.)",
+        "gametext": "Deploy on table. Unique (•) Imperials of ability = 3 are forfeit +3. If opponent just retrieved Force using an Interrupt or Utinni Effect, you may place that card here. Opponent's Force retrieval is reduced by X, where X = number of cards here. (Immune to Alter.)",
         "icons": [
           "Grabber",
           "Coruscant"
@@ -18471,7 +18456,7 @@
         "deploy": "2",
         "destiny": "4",
         "forfeit": "3",
-        "gametext": "Adds 3 to power of any TIE he pilots. Once during each of your deploy phases, you may take one unique ( •) TIE Interceptor into hand from Reserve Deck; reshuffle.",
+        "gametext": "Adds 3 to power of any TIE he pilots. Once during each of your deploy phases, you may take one unique (•) TIE Interceptor into hand from Reserve Deck; reshuffle.",
         "icons": [
           "Pilot",
           "Death Star II"
@@ -20014,8 +19999,7 @@
         "Death Star: Docking Control Room 327",
         "Establish Secret Base (V)",
         "Imperial Arrest Order",
-        "Imperial Arrest Order & Secret Plans",
-        "Join Us Or Die (V)"
+        "Imperial Arrest Order & Secret Plans"
       ],
       "rarity": "C",
       "set": "8",
@@ -20754,8 +20738,7 @@
         "Commander Gherant",
         "Death Star: Docking Control Room 327",
         "Imperial Arrest Order",
-        "Imperial Arrest Order & Secret Plans",
-        "Join Us Or Die (V)"
+        "Imperial Arrest Order & Secret Plans"
       ],
       "rarity": "U",
       "rulings": [
@@ -24621,8 +24604,7 @@
     {
       "canceledBy": [
         "Fett's Blaster Rifle (V)",
-        "Hear Me Baby",
-        "Hold Together (V)"
+        "Hear Me Baby, Hold Together (V)"
       ],
       "front": {
         "destiny": "2",
@@ -25109,8 +25091,7 @@
         "Begin Landing Your Troops",
         "Death Star: Docking Control Room 327",
         "Imperial Arrest Order",
-        "Imperial Arrest Order & Secret Plans",
-        "Join Us Or Die (V)"
+        "Imperial Arrest Order & Secret Plans"
       ],
       "rarity": "C2",
       "set": "3",
@@ -25957,8 +25938,7 @@
         "IHYN"
       ],
       "canceledBy": [
-        "Hear Me Baby",
-        "Hold Together (V)",
+        "Hear Me Baby, Hold Together (V)",
         "The Force Is Strong With This One (V)"
       ],
       "front": {
@@ -26253,8 +26233,6 @@
         "IJASKAW"
       ],
       "canceledBy": [
-        "Hear Me Baby",
-        "Hold Together (V)",
         "Protector",
         "Who's Scruffy-Looking?"
       ],
@@ -30162,9 +30140,6 @@
         {
           "set": "9"
         }
-      ],
-      "pulledBy": [
-        "Dark Collaboration (V)"
       ],
       "pulls": [
         "Top card from Reserve Deck for 1 Force"
@@ -35496,7 +35471,7 @@
           "Dagobah"
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/Dagobah-Dark/large/misthunter.gif",
-        "lore": "Commissioned by a group of Gand venture capitalists headed by Zuckuss. Manufactured by Byblos Drive Yards. Uses repulsor lift technology developed for combat cloud cars.",
+        "lore": "Commissioned by a group of Gand venture capitalists headed by Zuckuss. Manufactured by Byblos Drive Yards. Uses repulsorlift technology developed for combat cloud cars.",
         "maneuver": "3",
         "power": "2",
         "subType": "Starfighter: Byblos G-1A Transport",
@@ -39043,8 +39018,7 @@
       ],
       "pulledBy": [
         "Commander Merrejk",
-        "Kuat Drive Yards (V)",
-        "The Inner Circle (V)"
+        "Kuat Drive Yards (V)"
       ],
       "rarity": "C2",
       "set": "3",
@@ -39502,8 +39476,7 @@
     },
     {
       "canceledBy": [
-        "Hear Me Baby",
-        "Hold Together (V)"
+        "Hear Me Baby Hold Together (V) helps against a 0"
       ],
       "counterpart": "Sabotage (V)",
       "front": {
@@ -40314,10 +40287,6 @@
           "set": "3"
         }
       ],
-      "pulledBy": [
-        "Aurra Sing",
-        "Deadly Assassin (V)"
-      ],
       "rarity": "C2",
       "set": "3",
       "side": "Dark"
@@ -40401,7 +40370,8 @@
       ],
       "rarity": "R",
       "rulings": [
-        "To use his 'recycled' text, the just-lost transport vehicle must have been lost from same or related site."
+        "To use his 'recycled' text, the just-lost transport vehicle must have been lost from same or related site.",
+        "Cannot 'recycle' a vehicle he is aboard, unless something permits Pote to 'jump off' (e.g. Skiff). Otherwise, vehicle and Pote are lost simultaneously so Pote cannot save it."
       ],
       "set": "202",
       "side": "Dark"
@@ -42258,7 +42228,7 @@
           "Endor"
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/Endor-Dark/large/relentlesstracking.gif",
-        "lore": "Biker scouts commonly work as a team to track enemies of the Empire. A pair of scouts on speeder bike is difficult to elude.",
+        "lore": "Biker scouts commonly work as a team to track enemies of the Empire. A pair of scouts on speeder bikes is difficult to elude.",
         "title": "•Relentless Tracking",
         "type": "Effect",
         "uniqueness": "*"
@@ -42891,7 +42861,7 @@
           "Death Star II"
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/DeathStarII-Dark/large/royalescort.gif",
-        "lore": "When away from the Imperial Palace on Coruscant, the Emperor is protected by legions of troops. Typically this force includes soldiers trained to fight in local environment.",
+        "lore": "When away from the Imperial Palace on Coruscant, the Emperor is protected by legions of troops. Typically this force includes soldiers trained to fight in the local environment.",
         "title": "•Royal Escort",
         "type": "Effect",
         "uniqueness": "*"
@@ -46989,7 +46959,6 @@
         "Death Star: Docking Control Room 327",
         "Imperial Arrest Order",
         "Imperial Arrest Order & Secret Plans",
-        "Join Us Or Die (V)",
         "Kashyyyk: Slaving Camp Headquarters (V)"
       ],
       "rarity": "F",
@@ -55139,7 +55108,7 @@
           "Force-Attuned"
         ],
         "forfeit": "3",
-        "gametext": "Must deploy on Hoth, but may move elsewhere. May not be deployed if three or more of opponent's unique ( •) characters on table. Snowtroopers at same site are forfeit +1.",
+        "gametext": "Must deploy on Hoth, but may move elsewhere. May not be deployed if three or more of opponent's unique (•) characters on table. Snowtroopers at same site are forfeit +1.",
         "icons": [
           "Warrior",
           "Premium"
@@ -64391,6 +64360,9 @@
       "printings": [
         {
           "set": "220"
+        },
+        {
+          "set": "200d"
         }
       ],
       "rarity": "U",
@@ -64399,7 +64371,7 @@
         "When 2 cards are revealed to prevent them from being placed in Used Pile, the hand will still be reduced to the size required by Grimtaash or Thrown Back.",
         "If a player has 2 of the same card and reveals 1 to prevent it from being checked for duplicates, the other copy is not lost. If a player has 3 of the same card and reveals 2 of them, the other copy is not lost. If a player has 3 of the same card and reveals only 1 of them, the other 2 are duplicates of each other and are lost."
       ],
-      "set": "220",
+      "set": "200d",
       "side": "Dark"
     },
     {
@@ -65292,7 +65264,7 @@
           "Set 21"
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual21-Dark/large/darkcollaboration.gif",
-        "lore": "Imperial leaders are ruthlessly effective when working together. Tarkin, Motti and Tagge presented a deadly combination as they plotted to 'crush the Rebellion.'",
+        "lore": "Imperial leaders are ruthlessly effective when working together. Tarkin, Motti and Tagge presented a deadly combination as they plotted to, 'crush the Rebellion.'",
         "subType": "Lost",
         "title": "•Dark Collaboration (V)",
         "type": "Interrupt",
