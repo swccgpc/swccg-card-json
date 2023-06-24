@@ -911,6 +911,375 @@
       ],
       "set": "208",
       "side": "Light"
+    },
+    {
+      "conceptBy": "(Original concept by Tim Simon)",
+      "front": {
+        "destiny": "4",
+        "gametext": "Take a device (except Landing Claw) into hand from Reserve Deck; reshuffle. OR Target one opponent's droid present with your Jedi in battle. For remainder of turn, target is power -1 and may not fire weapons.",
+        "icons": [
+          "Set 2"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual2-Light/large/forcelevitation.gif",
+        "lore": "Blank.",
+        "subType": "Used",
+        "title": "•Force Levitation",
+        "type": "Interrupt",
+        "uniqueness": "*"
+      },
+      "gempId": "202_6",
+      "id": 40023,
+      "legacy": false,
+      "nextId": 5016,
+      "printings": [
+        {
+          "set": "202"
+        }
+      ],
+      "rarity": "U",
+      "set": "202",
+      "side": "Light"
+    },
+    {
+      "front": {
+        "destiny": "4",
+        "gametext": "If your female character is defending a battle alone at a site, add one destiny to total power (if Rey, she is also immune to attrition). OR Cancel a just drawn weapon destiny targeting your female character. OR Add 1 to your Force drain where you have a female character.",
+        "icons": [
+          "Set 7"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual7-Light/large/ithinkicanhandlemyself.gif",
+        "subType": "Used",
+        "title": "•I Think I Can Handle Myself",
+        "type": "Interrupt",
+        "uniqueness": "*"
+      },
+      "gempId": "207_13",
+      "id": 40024,
+      "legacy": false,
+      "nextId": 5598,
+      "printings": [
+        {
+          "set": "207"
+        }
+      ],
+      "rarity": "C2",
+      "set": "207",
+      "side": "Light"
+    },
+    {
+      "conceptBy": "(Original concept by Brian Fred)",
+      "front": {
+        "ability": "2",
+        "characteristics": [
+          "smuggler"
+        ],
+        "deploy": "2",
+        "destiny": "2",
+        "forfeit": "3",
+        "gametext": "Adds 2 to power of anything he pilots. This character (and other Palace Raiders) are deploy -3 if You're A Slave? on table. While driving a vehicle, it is power +3, defense value +1, and moves for free.",
+        "icons": [
+          "Pilot",
+          "Warrior",
+          "Premium",
+          "Set 2"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual2-Light/large/palaceraider.gif",
+        "lore": "Smugglers from many worlds are hunted by the Empire for providing arms and supplies to the Alliance. The Outer Rim is their refuge.",
+        "power": "1",
+        "subType": "Alien",
+        "title": "Palace Raider (V)",
+        "type": "Character"
+      },
+      "gempId": "202_2",
+      "id": 40025,
+      "legacy": false,
+      "nextId": 5012,
+      "printings": [
+        {
+          "set": "202"
+        }
+      ],
+      "pulledBy": [
+        "Nar Shaddaa Wind Chimes"
+      ],
+      "rarity": "PM",
+      "rulings": [
+        "This card is <u>not</u> an Ishi Tib.",
+        "This card deploys -3 if You're A Slave? on table. Then, while active on table, it causes other Palace Raiders to deploy -3.",
+        "The deploy -3 text is not cumulative (not even if one is on table and one is in hand - the result will be deploy -3, not deploy -6)."
+      ],
+      "set": "202",
+      "side": "Light"
+    },
+    {
+      "combo": [
+        "Corellia + Kessel Run Because of its low parsec number, Corellia makes an ideal planet to begin a Kessel Run from."
+      ],
+      "front": {
+        "darkSideIcons": 1,
+        "destiny": "0",
+        "errataSymbol": "E1",
+        "gametext": "Light:  Your Falcon and your Corellian corvettes may deploy here as a 'react.'  Dark:  Each of your starships are hyperspeed +1 when moving from here.",
+        "icons": [
+          "Planet",
+          "A New Hope"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/ANewHope-Light/large/corellia.gif",
+        "lightSideIcons": 1,
+        "parsec": "1",
+        "subType": "System",
+        "title": "•Corellia",
+        "type": "Location",
+        "uniqueness": "*"
+      },
+      "gempId": "2_61",
+      "id": 40026,
+      "legacy": false,
+      "nextId": 527,
+      "printings": [
+        {
+          "set": "2"
+        }
+      ],
+      "pulledBy": [
+        "A New Secret Base (V)",
+        "Hidden Base",
+        "Mindful Of The Future",
+        "Watch Your Step",
+        "Yavin 4 Base Operations"
+      ],
+      "rarity": "R1",
+      "set": "2",
+      "side": "Light",
+      "underlyingCardFor": [
+        "Corellia (V)"
+      ]
+    },
+    {
+      "counterpart": "Nevar Yalnal",
+      "front": {
+        "destiny": "6",
+        "errataSymbol": "E1",
+        "gametext": "If both players have a spy at same site, draw destiny. Add 2 if opponent's spy is Undercover. Opponent's spy is lost if destiny > 2. OR Opponent's Tonnika Sisters present at a site cross to your side.",
+        "icons": [
+          "A New Hope"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/ANewHope-Light/large/doubleagent.gif",
+        "lore": "Typical of impersonators, Shada double-crossed everyone. Her true affiliations still remain a mystery.",
+        "subType": "Lost",
+        "title": "Double Agent",
+        "type": "Interrupt"
+      },
+      "gempId": "2_48",
+      "id": 40027,
+      "legacy": false,
+      "nextId": 762,
+      "printings": [
+        {
+          "set": "2"
+        }
+      ],
+      "pulledBy": [
+        "Major Palo Torshan"
+      ],
+      "rarity": "R2",
+      "set": "2",
+      "side": "Light"
+    },
+    {
+      "front": {
+        "characteristics": [
+          "cannon",
+          "laser cannon"
+        ],
+        "deploy": "3",
+        "destiny": "4",
+        "errataSymbol": "E1",
+        "forfeit": "3",
+        "gametext": "Deploy on any exterior planet site. Your warrior present may target a creature, character or vehicle at same or adjacent site using 2 Force. Draw destiny. Add 2 if targeting a creature or character. Target hit if destiny > defense value.",
+        "icons": [
+          "Hoth"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Hoth-Light/large/golanlaserbattery.gif",
+        "lore": "Modified Golan Arms DForfeit: 9 anti-infantry battery. Proton-shielded control cylinder capped by one or more rotating turret-mounted laser cannons.",
+        "subType": "Artillery",
+        "title": "Golan Laser Battery",
+        "type": "Weapon"
+      },
+      "gempId": "3_75",
+      "id": 40028,
+      "legacy": false,
+      "nextId": 1044,
+      "printings": [
+        {
+          "set": "3"
+        }
+      ],
+      "pulledBy": [
+        "Captain Yutani",
+        "Portable Scanner"
+      ],
+      "rarity": "U1",
+      "set": "3",
+      "side": "Light"
+    },
+    {
+      "abbr": [
+        "EPP Baze"
+      ],
+      "front": {
+        "ability": "3",
+        "deploy": "4",
+        "destiny": "2",
+        "forfeit": "5",
+        "gametext": "If about to be lost, may fire Baze's Cannon. Permanent weapon is •Baze's Cannon (may target a character for free; draw destiny;  add 1 if targeting a character of ability < 3; target hit, and it's forfeit = 0, if destiny +1 > defense value).",
+        "icons": [
+          "Permanent Weapon",
+          "Warrior",
+          "Set 7"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual7-Light/large/bazemalbuswithcannon.gif",
+        "lore": "Blank.",
+        "power": "4",
+        "subType": "Rebel",
+        "title": "•Baze Malbus With Cannon",
+        "type": "Character",
+        "uniqueness": "*"
+      },
+      "gempId": "207_1",
+      "id": 40029,
+      "legacy": false,
+      "nextId": 5164,
+      "printings": [
+        {
+          "set": "207"
+        }
+      ],
+      "rarity": "C",
+      "rulings": [
+        "May fire during battle and then fire again when about to be lost from that same battle (whether being lost during the weapons segment, forfeited during the damage segment, or at any other time)."
+      ],
+      "set": "207",
+      "side": "Light"
+    },
+    {
+      "canceledBy": [
+        "Point Man"
+      ],
+      "front": {
+        "destiny": "5",
+        "errataSymbol": "E1",
+        "gametext": "Deploy on a superlaser. May not fire at a planet until 'recharged.' Opponent may use Force (stacking it here); accumulating 8 Force recharges superlaser. When fired at a planet, Effect is canceled. If Effect canceled, accumulated Force is placed in Used Pile.",
+        "icons": [
+          "A New Hope"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/ANewHope-Light/large/commencerecharging.gif",
+        "lore": "The huge strain on the little-tested power generator matrix of the superlaser's fusion reactor can require full recharging before the system can be used again.",
+        "title": "•Commence Recharging",
+        "type": "Effect",
+        "uniqueness": "*"
+      },
+      "gempId": "2_31",
+      "id": 40030,
+      "legacy": false,
+      "nextId": 509,
+      "printings": [
+        {
+          "set": "2"
+        }
+      ],
+      "pulledBy": [
+        "The Signal",
+        "We Wish To Board At Once",
+        "Wokling (V)"
+      ],
+      "rarity": "R2",
+      "rulings": [
+        "The cards are stacked face down without revealing them.",
+        "If canceled, player whose turn it is may put the stacked cards in Dark's Used Pile in any order (since the cards cannot be seen, reordering them may be useless).",
+        "The X Force needed by Commence Primary Ignition must also still be paid as usual."
+      ],
+      "set": "2",
+      "side": "Light"
+    },
+    {
+      "combo": [
+        "Corporal Janse + A280 Sharpshooter Rifle + Firefight",
+        "Corporal Janse + A280 Sharpshooter Rifle + Sorry About The Mess"
+      ],
+      "front": {
+        "ability": "2",
+        "characteristics": [
+          "scout"
+        ],
+        "deploy": "2",
+        "destiny": "3",
+        "forfeit": "4",
+        "gametext": "When firing a character weapon, adds 1 to each weapon destiny draw. When Janse fires an A280 Sharpshooter Rifle at a character at an adjacent site and is using Sorry About The Mess, it is a Used Interrupt.",
+        "icons": [
+          "Warrior",
+          "Endor"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Endor-Light/large/corporaljanse.gif",
+        "lore": "Sharpshooter from Ukio. Recently joined the Alliance. Former BlasTech employee who evaluated new weapon designs. Served as a Scout on hunting expeditions.",
+        "power": "2",
+        "subType": "Rebel",
+        "title": "•Corporal Janse",
+        "type": "Character",
+        "uniqueness": "*"
+      },
+      "gempId": "8_6",
+      "id": 40031,
+      "legacy": false,
+      "nextId": 543,
+      "printings": [
+        {
+          "set": "8"
+        }
+      ],
+      "pulledBy": [
+        "General Crix Madine"
+      ],
+      "rarity": "U",
+      "set": "8",
+      "side": "Light"
+    },
+    {
+      "front": {
+        "destiny": "5",
+        "errataSymbol": "E1",
+        "gametext": "Use 1 Force to take a dejarik into hand from Reserve Deck; reshuffle. OR For remainder of turn, you lose no Force to Cloud City Occupation, Rebel Base Occupation, Tatooine Occupation, That Thing's Operational, You May Start Your Landing, or You'll Be Dead!",
+        "icons": [
+          "Set 4"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual4-Light/large/escapepodweredoomed.gif",
+        "lore": "Blank.",
+        "subType": "Used",
+        "title": "Escape Pod & We're Doomed",
+        "type": "Interrupt"
+      },
+      "gempId": "204_18",
+      "id": 40032,
+      "legacy": false,
+      "nextId": 5073,
+      "printings": [
+        {
+          "set": "204"
+        }
+      ],
+      "pulledBy": [
+        "Hopping Mad"
+      ],
+      "pulls": [
+        "Grimtaash",
+        "Houjix",
+        "K'lor'slug",
+        "K'lor`slug (V)",
+        "Mantellian Savrip"
+      ],
+      "rarity": "C2",
+      "set": "204",
+      "side": "Light"
     }
   ]
 }
