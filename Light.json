@@ -5024,8 +5024,11 @@
         "ability": "3",
         "deploy": "4",
         "destiny": "2",
+        "errataDate": "2023-02-01",
+        "errataNotes": "Added the word 'total' as a clarification. No gameplay change.",
+        "errataSymbol": "E1",
         "forfeit": "5",
-        "gametext": "If about to be lost, may fire Baze's Cannon. Permanent weapon is •Baze's Cannon (may target a character for free; draw destiny;  add 1 if targeting a character of ability < 3; target hit, and it's forfeit = 0, if destiny +1 > defense value).",
+        "gametext": "If about to be lost, may fire Baze's Cannon. Permanent weapon is •Baze's Cannon (may target a character for free; draw destiny;  add 1 if targeting a character of ability < 3; target hit, and it's forfeit = 0, if total destiny +1 > defense value).",
         "icons": [
           "Permanent Weapon",
           "Warrior",
@@ -5042,6 +5045,7 @@
       "gempId": "207_1",
       "id": 5164,
       "legacy": false,
+      "previousId": 40029,
       "printings": [
         {
           "set": "207"
@@ -10563,8 +10567,8 @@
       "set": "1",
       "side": "Light",
       "underlyingCardFor": [
-	"Graveyard Of Giants",
-	"Vice Admiral Holdo"
+        "Graveyard Of Giants",
+        "Vice Admiral Holdo"
       ]
     },
     {
@@ -11400,8 +11404,10 @@
       ],
       "front": {
         "destiny": "5",
+        "errataDate": "2023-02-01",
+        "errataNotes": "Card is completely reworded to be much more clear how it works.",
         "errataSymbol": "E1",
-        "gametext": "Deploy on a superlaser. May not fire at a planet until 'recharged.' Opponent may use Force (stacking it here); accumulating 8 Force recharges superlaser. When fired at a planet, Effect is canceled. If Effect canceled, accumulated Force is placed in Used Pile.",
+        "gametext": "Deploy on a superlaser. May not fire at a planet unless 8 cards stacked here. If fewer than 8 cards stacked here, opponent may stack top card of Force Pile here. If just fired at a system, Effect is canceled. If Effect canceled, cards stacked here are placed in Used Pile.",
         "icons": [
           "A New Hope"
         ],
@@ -11414,6 +11420,7 @@
       "gempId": "2_31",
       "id": 509,
       "legacy": false,
+      "previousId": 40030,
       "printings": [
         {
           "set": "2"
@@ -11426,7 +11433,8 @@
       ],
       "rarity": "R2",
       "rulings": [
-        "Stack the 8 Force directly on Commence Recharging.",
+        "The cards are stacked face down without revealing them.",
+        "If canceled, player whose turn it is may put the stacked cards in Dark's Used Pile in any order (since the cards cannot be seen, reordering them may be useless).",
         "The X Force needed by Commence Primary Ignition must also still be paid as usual."
       ],
       "set": "2",
@@ -11708,8 +11716,10 @@
       "front": {
         "darkSideIcons": 1,
         "destiny": "0",
+        "errataDate": "2023-02-01",
+        "errataNotes": "Cleaned up Dark's wording. No gameplay change.",
         "errataSymbol": "E1",
-        "gametext": "Light:  Your Falcon and your Corellian corvettes may deploy here as a 'react.'  Dark:  Each of your starships are hyperspeed +1 when moving from here.",
+        "gametext": "Light:  Your Falcon and your Corellian corvettes may deploy here as a 'react.'  Dark:  Your starships are hyperspeed +1 when moving from here.",
         "icons": [
           "Planet",
           "A New Hope"
@@ -11725,6 +11735,7 @@
       "gempId": "2_61",
       "id": 527,
       "legacy": false,
+      "previousId": 40026,
       "printings": [
         {
           "set": "2"
@@ -11741,7 +11752,7 @@
       "set": "2",
       "side": "Light",
       "underlyingCardFor": [
-	"Corellia (V)"
+        "Corellia (V)"
       ]
     },
     {
@@ -12177,8 +12188,11 @@
         ],
         "deploy": "2",
         "destiny": "3",
+        "errataDate": "2023-02-01",
+        "errataNotes": "Wording clarified from 'When Janse fires' to 'If Janse just targeted with' in second sentence.",
+        "errataSymbol": "E1",
         "forfeit": "4",
-        "gametext": "When firing a character weapon, adds 1 to each weapon destiny draw. When Janse fires an A280 Sharpshooter Rifle at a character at an adjacent site and is using Sorry About The Mess, it is a Used Interrupt.",
+        "gametext": "When firing a character weapon, adds 1 to each weapon destiny draw. If Janse just targeted with an A280 Sharpshooter Rifle at a character at an adjacent site and is using Sorry About The Mess, it is a Used Interrupt.",
         "icons": [
           "Warrior",
           "Endor"
@@ -12194,6 +12208,7 @@
       "gempId": "8_6",
       "id": 543,
       "legacy": false,
+      "previousId": 40031,
       "printings": [
         {
           "set": "8"
@@ -15941,14 +15956,13 @@
       "side": "Light"
     },
     {
-      "combo": [
-        "Double Agent + Light Side spy."
-      ],
       "counterpart": "Nevar Yalnal",
       "front": {
         "destiny": "6",
+        "errataDate": "2023-02-01",
+        "errataNotes": "Added the word 'total' as a clarification. No gameplay change.",
         "errataSymbol": "E1",
-        "gametext": "If both players have a spy at same site, draw destiny. Add 2 if opponent's spy is Undercover. Opponent's spy is lost if destiny > 2. OR Opponent's Tonnika Sisters present at a site cross to your side.",
+        "gametext": "If both players have a spy at same site, draw destiny. Add 2 if opponent's spy is Undercover. Opponent's spy is lost if total destiny > 2. OR Opponent's Tonnika Sisters present at a site cross to your side.",
         "icons": [
           "A New Hope"
         ],
@@ -15961,6 +15975,7 @@
       "gempId": "2_48",
       "id": 762,
       "legacy": false,
+      "previousId": 40027,
       "printings": [
         {
           "set": "2"
@@ -18097,8 +18112,10 @@
     {
       "front": {
         "destiny": "5",
-        "errataSymbol": "E1",
-        "gametext": "Use 1 Force to take a dejarik into hand from Reserve Deck; reshuffle. OR For remainder of turn, you lose no Force to Cloud City Occupation, Rebel Base Occupation, Tatooine Occupation, That Thing's Operational, You May Start Your Landing, or You'll Be Dead!",
+        "errataDate": "2023-02-01",
+        "errataNotes": "The E1 version added the text to cancel You'll Be Dead! The E2 version added the 'if any' text, clarifying that this Interrupt may be played even if none of the targets are on table.",
+        "errataSymbol": "E2",
+        "gametext": "Use 1 Force to take a dejarik into hand from Reserve Deck; reshuffle. OR For remainder of turn, you lose no Force to the following cards on table (if any): Cloud City Occupation, Rebel Base Occupation, Tatooine Occupation, That Thing's Operational, You May Start Your Landing, or You'll Be Dead!",
         "icons": [
           "Set 4"
         ],
@@ -18111,6 +18128,7 @@
       "gempId": "204_18",
       "id": 5073,
       "legacy": false,
+      "previousId": 40032,
       "printings": [
         {
           "set": "204"
@@ -18127,6 +18145,9 @@
         "Mantellian Savrip"
       ],
       "rarity": "C2",
+      "rulings": [
+        "The second function may be played even if none of the targets (Cloud City Occupation, etc.) are on table."
+      ],
       "set": "204",
       "side": "Light"
     },
@@ -18805,13 +18826,14 @@
       ],
       "rarity": "C2",
       "rulings": [
+        "If some or all characters fail to move away, the battle will still be canceled.",
         "Close The Blast Doors! will cause Light to lose 1 Force for each character that moves away, and then also lose 1 Force for canceling the battle.",
         "Characters inside open vehicles will automatically disembark to move away. Characters inside starships and enclosed vehicles are not present and so do not move away."
       ],
       "set": "3",
       "side": "Light",
       "underlyingCardFor": [
-	"Lieutenant Kaydel Connix"
+        "Lieutenant Kaydel Connix"
       ]
     },
     {
@@ -19479,12 +19501,15 @@
       "conceptBy": "(Original concept by Tim Simon)",
       "front": {
         "destiny": "4",
+        "errataDate": "2023-02-01",
+        "errataNotes": "Original card had blank lore. No gameplay change.",
+        "errataSymbol": "E1",
         "gametext": "Take a device (except Landing Claw) into hand from Reserve Deck; reshuffle. OR Target one opponent's droid present with your Jedi in battle. For remainder of turn, target is power -1 and may not fire weapons.",
         "icons": [
           "Set 2"
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual2-Light/large/forcelevitation.gif",
-        "lore": "Blank.",
+        "lore": "Telekinesis is one of the powers awakened during a Jedi's apprenticeship. Using this ability, a student of the Force can learn to levitate objects.",
         "subType": "Used",
         "title": "•Force Levitation",
         "type": "Interrupt",
@@ -19493,6 +19518,7 @@
       "gempId": "202_6",
       "id": 5016,
       "legacy": false,
+      "previousId": 40023,
       "printings": [
         {
           "set": "202"
@@ -20667,7 +20693,7 @@
           "Set 7"
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual7-Light/large/generalleiaorgana.gif",
-        "lore": "Leader.",
+        "lore": "Female leader.",
         "power": "4",
         "subType": "Resistance",
         "title": "•General Leia Organa",
@@ -21243,9 +21269,11 @@
         ],
         "deploy": "3",
         "destiny": "4",
+        "errataDate": "2023-02-01",
+        "errataNotes": "Added the word 'total' as a clarification. No gameplay change.",
         "errataSymbol": "E1",
         "forfeit": "3",
-        "gametext": "Deploy on any exterior planet site. Your warrior present may target a creature, character or vehicle at same or adjacent site using 2 Force. Draw destiny. Add 2 if targeting a creature or character. Target hit if destiny > defense value.",
+        "gametext": "Deploy on any exterior planet site. Your warrior present may target a creature, character or vehicle at same or adjacent site using 2 Force. Draw destiny. Add 2 if targeting a creature or character. Target hit if total destiny > defense value.",
         "icons": [
           "Hoth"
         ],
@@ -21258,6 +21286,7 @@
       "gempId": "3_75",
       "id": 1044,
       "legacy": false,
+      "previousId": 40028,
       "printings": [
         {
           "set": "3"
@@ -25624,6 +25653,9 @@
     {
       "front": {
         "destiny": "4",
+        "errataDate": "2023-02-01",
+        "errataNotes": "Added the words 'just drawn' to standardize the wording. No gameplay change.",
+        "errataSymbol": "E1",
         "gametext": "If your female character is defending a battle alone at a site, add one destiny to total power (if Rey, she is also immune to attrition). OR Cancel a just drawn weapon destiny targeting your female character. OR Add 1 to your Force drain where you have a female character.",
         "icons": [
           "Set 7"
@@ -25637,6 +25669,7 @@
       "gempId": "207_13",
       "id": 5598,
       "legacy": false,
+      "previousId": 40024,
       "printings": [
         {
           "set": "207"
@@ -40430,7 +40463,7 @@
       "set": "112",
       "side": "Light",
       "underlyingCardFor": [
-	"Palace Raider (V)"
+        "Palace Raider (V)"
       ]
     },
     {
@@ -40442,8 +40475,11 @@
         ],
         "deploy": "2",
         "destiny": "2",
+        "errataDate": "2023-02-01",
+        "errataNotes": "Rephrased the 'deploy -3' sentence to be more clear. No gameplay change.",
+        "errataSymbol": "E1",
         "forfeit": "3",
-        "gametext": "Adds 2 to power of anything he pilots. This character (and other Palace Raiders) are deploy -3 if You're A Slave? on table. While driving a vehicle, it is power +3, defense value +1, and moves for free.",
+        "gametext": "Adds 2 to power of anything he pilots. While You're A Slave? on table, Palace Raiders (including this character) deploy -3. While driving a vehicle, it is power +3, defense value +1, and moves for free.",
         "icons": [
           "Pilot",
           "Warrior",
@@ -40460,6 +40496,7 @@
       "gempId": "202_2",
       "id": 5012,
       "legacy": false,
+      "previousId": 40025,
       "printings": [
         {
           "set": "202"
@@ -44459,7 +44496,7 @@
       "set": "9",
       "side": "Light",
       "underlyingCardFor": [
-	"Rebel Leadership (V)"
+        "Rebel Leadership (V)"
       ]
     },
     {
@@ -44493,7 +44530,11 @@
       "pulls": [
         "Admiral Ackbar",
         "Admiral Ackbar (V)",
+        "Admiral Kilian",
+        "Admiral Raddus",
         "Admiral U.O. Statura",
+        "Admiral Yularen",
+        "Fleet Admiral Gial Ackbar",
         "General Airen Cracken",
         "General Calrissian",
         "General Carlist Rieekan",
@@ -44509,7 +44550,8 @@
         "Gungan General",
         "Mon Calamari Admiral",
         "Obi-Wan Kenobi",
-        "Obi-Wan Kenobi (V)"
+        "Obi-Wan Kenobi (V)",
+        "Vice Admiral Holdo"
       ],
       "rarity": "R",
       "set": "203",
@@ -46431,7 +46473,7 @@
       "set": "5",
       "side": "Light",
       "underlyingCardFor": [
-	"Rescue In The Clouds (V)"
+        "Rescue In The Clouds (V)"
       ]
     },
     {
@@ -46466,7 +46508,7 @@
         "USED function works at the following locations: Any Cloud City site, any system (including Bespin), and any cloud sector connected to Cloud City or Bespin (including Bespin: Cloud City). It does not work at any asteroid sectors.",
         "The first function works against Gravity Shadow only if Gravity Shadow was targeting a pilot character (not a permanent pilot).",
         "The second function plays during the weapons segment, scheduling the 'battle destiny if unable to otherwise' for later.",
-        "A destiny draw is targeting ability or defense value if it is used in a comparison or calculation involving ability or defense value (e.g. either player's Wookiee Strangle destiny)."
+        "Generally, a destiny draw is targeting ability or defense value if it is used in a comparison or calculation involving ability or defense value. However, RITCv does not combo 'offensively' with Wookiee Strangle or other cards that cause both players to draw destiny."
       ],
       "set": "209",
       "side": "Light"
@@ -48899,6 +48941,9 @@
         "Shocking Information & Grimtaash"
       ],
       "rarity": "U",
+      "rulings": [
+        "An Interrupt that examines one (or more) cards in Used Pile or Force Pile will play as normal, but will be treated as if it were a Lost Interrupt."
+      ],
       "set": "7",
       "side": "Light"
     },
@@ -57877,6 +57922,10 @@
       ],
       "front": {
         "ability": "3",
+        "characteristics": [
+          "admiral",
+          "female"
+        ],
         "deploy": "3",
         "destiny": "2",
         "forfeit": "5",
@@ -59349,6 +59398,9 @@
         "We Wish To Board At Once"
       ],
       "rarity": "U",
+      "rulings": [
+        "To play this card, the adjacent site must be targeted during initiation."
+      ],
       "set": "11",
       "side": "Light"
     },
@@ -62378,6 +62430,9 @@
         "Local Defense"
       ],
       "rarity": "C",
+      "rulings": [
+        "A Surface Defense Cannon aboard will fire for free while the YT-1300 Transport is landed."
+      ],
       "set": "8",
       "side": "Light"
     },
@@ -69769,6 +69824,8 @@
         "Gungan General",
         "Han Solo, Optimistic General",
         "Mon Mothma",
+        "Obi-Wan Kenobi",
+        "Obi-Wan Kenobi (V)",
         "Senator Mon Mothma"
       ],
       "rarity": "R",

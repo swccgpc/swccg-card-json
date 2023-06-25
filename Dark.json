@@ -4053,7 +4053,7 @@
       "set": "1",
       "side": "Dark",
       "underlyingCardFor": [
-	"Baniss Keeg, Pilot Instructor"
+        "Baniss Keeg, Pilot Instructor"
       ]	
     },
     {
@@ -4066,13 +4066,17 @@
         "ability": "3",
         "characteristics": [
           "Black Sun agent",
-          "duros",
+          "Duros",
+          "Female",
           "information broker",
           "scout",
           "smuggler"
         ],
         "deploy": "3",
         "destiny": "2",
+        "errataDate": "2023-02-01",
+        "errataNotes": "Added 'Female' to lore. No gameplay change, character was female regardless.",
+        "errataSymbol": "E1",
         "extraText": [
           "Force-Attuned"
         ],
@@ -4083,7 +4087,7 @@
           "Set 3"
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual3-Dark/large/banisskeegpilotinstructor.gif",
-        "lore": "Duros information broker, scout, and smuggler.",
+        "lore": "Female Duros information broker, scout, and smuggler.",
         "power": "2",
         "subType": "Alien",
         "title": "•Baniss Keeg, Pilot Instructor",
@@ -4093,6 +4097,7 @@
       "gempId": "203_23",
       "id": 5020,
       "legacy": false,
+      "previousId": 20015,
       "printings": [
         {
           "set": "203"
@@ -4104,7 +4109,7 @@
       ],
       "rarity": "C2",
       "rulings": [
-        "His game text does not make him a member of Black Squadron."
+        "Her game text does not make him a member of Black Squadron."
       ],
       "set": "203",
       "side": "Dark"
@@ -8395,12 +8400,14 @@
         ],
         "deploy": "3",
         "destiny": "1",
+        "errataDate": "2023-02-01",
+        "errataNotes": "Last sentence reworded to be more clear. No gameplay change.",
         "errataSymbol": "E1",
         "extraText": [
           "Force-Attuned"
         ],
         "forfeit": "5",
-        "gametext": "Adds 2 to power of anything he pilots. When piloting Avenger, that starship is also immune to attrition < 4. You may re-target applicable Utinni Effects to Needa. If in a battle where you choose to forfeit characters, you must forfeit Needa first.",
+        "gametext": "Adds 2 to power of anything he pilots. When piloting Avenger, that starship is also immune to attrition < 4. You may re-target applicable Utinni Effects to Needa. While Needa in battle, your other non-'hit' characters here may not be forfeited.",
         "icons": [
           "Pilot",
           "Warrior",
@@ -8417,6 +8424,7 @@
       "gempId": "4_93",
       "id": 366,
       "legacy": false,
+      "previousId": 20020,
       "matching": [
         "Avenger"
       ],
@@ -9234,7 +9242,7 @@
       ],
       "rarity": "U",
       "rulings": [
-        "Chokk's last sentence applies only to Dark's characters who are at the same site as Chokk and are present at that site. Chokk himself could be in a starship or enclosed vehicle."
+        "Chokk's first sentence (and last sentence) applies only to Dark's characters who are at the same site as Chokk and are present at that site. Chokk himself could be in a starship or enclosed vehicle."
       ],
       "set": "12",
       "side": "Dark"
@@ -11516,7 +11524,7 @@
           "Hoth"
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/Hoth-Dark/large/comscandetection.gif",
-        "lore": "The Imperial Nacy boasts the best communications network in the galaxy. Sophisticated control technology allows the Empire to dispatch armed forces without delay.",
+        "lore": "The Imperial Navy boasts the best communications network in the galaxy. Sophisticated control technology allows the Empire to dispatch armed forces without delay.",
         "subType": "Used",
         "title": "ComScan Detection",
         "type": "Interrupt"
@@ -20080,8 +20088,10 @@
           "laser cannon"
         ],
         "destiny": "5",
+        "errataDate": "2023-02-01",
+        "errataNotes": "Added the word 'total' as a clarification. No gameplay change.",
         "errataSymbol": "E1",
-        "gametext": "Use 1 Force to deploy on your TIE. May target a starship using 1 Force. Draw destiny. Subtract 2 if targeting a capital starship. Target hit if destiny > defense value.",
+        "gametext": "Use 1 Force to deploy on your TIE. May target a starship using 1 Force. Draw destiny. Subtract 2 if targeting a capital starship. Target hit if total destiny > defense value.",
         "icons": [
           "A New Hope"
         ],
@@ -20094,6 +20104,7 @@
       "gempId": "2_158",
       "id": 872,
       "legacy": false,
+      "previousId": 20017,
       "printings": [
         {
           "set": "2"
@@ -20107,7 +20118,7 @@
       "set": "2",
       "side": "Dark",
       "underlyingCardFor": [
-	"Black 6"
+        "Black 6"
       ]
     },
     {
@@ -22742,7 +22753,7 @@
         "errataSymbol": "E1",
         "gametext": "Deploy on your starship at a system or sector where a related docking bay is on table. Adds 1 to hyperspeed, power and maneuver.",
         "imageUrl": "https://res.starwarsccg.org/cards/Premiere-Dark/large/fusiongeneratorsupplytanks.gif",
-        "lore": "Installed at many facilities throughout the Empire to provide power to the Imperial spacefleet. Supplies starships with energy necessary for sublight and hyperspace travel.",
+        "lore": "Installed at many facilities throughout the Empire to provide power to the Imperial spacefleet. Supplies starships with energy necessary for sub-light and hyperspace travel.",
         "title": "Fusion Generator Supply Tanks",
         "type": "Device"
       },
@@ -23962,7 +23973,10 @@
     {
       "front": {
         "destiny": "4",
-        "gametext": "If opponent's starship has just begun to move through hyperspace, draw destiny. If destiny > pilot's ability, starship must return to original location and may not move this turn. If destiny = pilot's ability, starship is lost.",
+        "errataDate": "2023-02-01",
+        "errataNotes": "Wording clarified from 'has just begun to move' to 'is about to move' (and that if successful, starship's movement is prevented, not that it 'returns'). Wording also clarified that Gravity Shadow targets the highest-ability pilot.",
+        "errataSymbol": "E1",
+        "gametext": "If opponent's starship is about to move through hyperspace, target that starship and its highest-ability pilot. Draw destiny. If destiny > pilot's ability, starship may not move this turn. If destiny = pilot's ability, starship is lost.",
         "icons": [
           "Premium"
         ],
@@ -23976,6 +23990,7 @@
       "gempId": "102_8",
       "id": 1065,
       "legacy": false,
+      "previousId": 20021,
       "printings": [
         {
           "set": "102"
@@ -37424,14 +37439,13 @@
       "side": "Dark"
     },
     {
-      "combo": [
-        "Nevar Yalnal + Dark Side spy"
-      ],
       "counterpart": "Double Agent",
       "front": {
         "destiny": "6",
+        "errataDate": "2023-02-01",
+        "errataNotes": "Added the word 'total' as a clarification. No gameplay change.",
         "errataSymbol": "E1",
-        "gametext": "If both players have a spy at same site, draw destiny. Add 2 if opponent's spy is Undercover. Opponent's spy is lost if destiny > 2.",
+        "gametext": "If both players have a spy at same site, draw destiny. Add 2 if opponent's spy is Undercover. Opponent's spy is lost if total destiny > 2.",
         "imageUrl": "https://res.starwarsccg.org/cards/Premiere-Dark/large/nevaryalnal.gif",
         "lore": "Immense Ranat scavenger from Aralia. Slyly spies for anyone willing to pay his price. Outcast. Works as a laborer for Hrchek, the Saurin droid trader.",
         "subType": "Lost",
@@ -37441,6 +37455,7 @@
       "gempId": "1_261",
       "id": 1767,
       "legacy": false,
+      "previousId": 20016,
       "printings": [
         {
           "set": "1"
@@ -54043,11 +54058,14 @@
         ],
         "deploy": "3",
         "destiny": "3",
+        "errataDate": "2023-02-01",
+        "errataNotes": "Significantly reworded for clarification and standardization. No gameplay change.",
+        "errataSymbol": "E1",
         "extraText": [
           "Protocol Droid"
         ],
         "forfeit": "3",
-        "gametext": "Deploy on opponent's side as an Undercover spy (except that if present during a battle at a site, adds its power to Light Side). If spy's 'cover is broken,' the above game text is canceled and Light Side may use as if stolen.",
+        "gametext": "Deploys only to a site as an Undercover spy. If Undercover at a battle, adds his power to Light Side. If U-3PO just had his 'cover broken,' Light Side may steal him.",
         "icons": [
           "A New Hope"
         ],
@@ -54062,12 +54080,17 @@
       "gempId": "2_107",
       "id": 2659,
       "legacy": false,
+      "previousId": 20022,
       "printings": [
         {
           "set": "2"
         }
       ],
       "rarity": "R1",
+      "rulings": [
+        "While undercover, adds his power to Light but does not participate in the battle.",
+        "Light may choose not to accept this droid when its cover is broken, in which case it becomes a non-Undercover droid for its current owner."
+      ],
       "set": "2",
       "side": "Dark"
     },
@@ -58840,11 +58863,15 @@
       "front": {
         "ability": "4",
         "characteristics": [
+          "assassin",
           "bounty hunter",
-          "assassin"
+          "female"
         ],
         "deploy": "4",
         "destiny": "2",
+        "errataDate": "2023-02-01",
+        "errataNotes": "Added 'Female' to lore.",
+        "errataSymbol": "E1",
         "extraText": [
           "Force-Sensitive"
         ],
@@ -58857,7 +58884,7 @@
           "Set 12"
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual12-Dark/large/aurrasingwithblasterrifle.gif",
-        "lore": "Bounty hunter. Assassin.",
+        "lore": "Female bounty hunter and assassin.",
         "power": "4",
         "subType": "Alien",
         "title": "•Aurra Sing With Blaster Rifle",
@@ -58867,6 +58894,7 @@
       "gempId": "212_3",
       "id": 6783,
       "legacy": false,
+      "previousId": 20018,
       "printings": [
         {
           "set": "212"
@@ -58877,14 +58905,21 @@
       "side": "Dark"
     },
     {
+      "abbr": [
+        "EPP Aurra"
+      ],
       "front": {
         "ability": "4",
         "characteristics": [
+          "assassin",
           "bounty hunter",
-          "assassin"
+          "female"
         ],
         "deploy": "4",
         "destiny": "2",
+        "errataDate": "2023-02-01",
+        "errataNotes": "Added 'Female' to lore.",
+        "errataSymbol": "E1",
         "extraText": [
           "Force-Sensitive"
         ],
@@ -58897,7 +58932,7 @@
           "Set 12"
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual12-Dark/large/aurrasingwithblasterrifle_ai.gif",
-        "lore": "Bounty hunter. Assassin.",
+        "lore": "Female bounty hunter and assassin.",
         "power": "4",
         "subType": "Alien",
         "title": "•Aurra Sing With Blaster Rifle (AI)",
@@ -58907,6 +58942,7 @@
       "gempId": "212_3",
       "id": 6874,
       "legacy": false,
+      "previousId": 20019,
       "printings": [
         {
           "set": "212"
