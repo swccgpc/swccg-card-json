@@ -2025,6 +2025,9 @@
       "side": "Light"
     },
     {
+      "abbr": [
+        "AWRI"
+      ],
       "canceledBy": [
         "Black 2 (V)"
       ],
@@ -2070,10 +2073,13 @@
       "set": "7",
       "side": "Light",
       "underlyingCardFor": [
-	"Yavin 4 Base Operations / The Time To Fight Is Now"
+        "Yavin 4 Base Operations / The Time To Fight Is Now"
       ]
     },
     {
+      "abbr": [
+        "AWRI & DS"
+      ],
       "canceledBy": [
         "Black 2 (V)"
       ],
@@ -2208,7 +2214,7 @@
       "set": "12",
       "side": "Light",
       "underlyingCardFor": [
-	"Alter (Coruscant) (V)"
+        "Alter (Coruscant) (V)"
       ]
     },
     {
@@ -2257,7 +2263,7 @@
       "set": "1",
       "side": "Light",
       "underlyingCardFor": [
-	"Alter (Premiere) (V)"
+        "Alter (Premiere) (V)"
       ]
     },
     {
@@ -2441,7 +2447,7 @@
       "set": "5",
       "side": "Light",
       "underlyingCardFor": [
-	"Ambush (V)"
+        "Ambush (V)"
       ]
     },
     {
@@ -2550,7 +2556,7 @@
       "set": "13",
       "side": "Light",
       "underlyingCardFor": [
-	"Jedi Business"
+        "Jedi Business"
       ]
     },
     {
@@ -2585,7 +2591,7 @@
       "set": "9",
       "side": "Light",
       "underlyingCardFor": [
-	"Anakin Skywalker (V)"
+        "Anakin Skywalker (V)"
       ]
     },
     {
@@ -12130,7 +12136,7 @@
       "set": "8",
       "side": "Light",
       "underlyingCardFor": [
-	"Corporal Delevar (V)"
+        "Corporal Delevar (V)"
       ]
     },
     {
@@ -12171,6 +12177,7 @@
       ],
       "rarity": "U",
       "rulings": [
+        "Delevar can operate on himself.",
         "If a character is hit outside of battle (e.g. by Sniper), they are immediately lost before Delevar can optionally respond."
       ],
       "set": "208",
@@ -13779,6 +13786,9 @@
       "side": "Light"
     },
     {
+      "abbr": [
+        "DS"
+      ],
       "counterpart": "Watch Your Back!",
       "front": {
         "destiny": "3",
@@ -24164,6 +24174,9 @@
         }
       ],
       "rarity": "R",
+      "rulings": [
+        "(Used) Weapon must be capable of firing and have an eligible target. Not required to have enough Force to fire. If a character with a permanent weapon has had their game text canceled, they cannot fire and therefore cannot use this function."
+      ],
       "set": "5",
       "side": "Light"
     },
@@ -26366,7 +26379,7 @@
           "Hoth"
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/Hoth-Light/large/infantrymine.gif",
-        "lore": "Deadly explosive typically planted on the perimeter of strategic sites or high-security installations to prevent Rebel spies and saboteurs from gaining access.",
+        "lore": "Typically stolen by Rebel spies and saboteurs from the perimeter of high-security Imperial installations.",
         "subType": "Automated",
         "title": "Infantry Mine",
         "type": "Weapon"
@@ -28757,6 +28770,9 @@
         }
       ],
       "rarity": "C2",
+      "rulings": [
+        "Light's text to move a clone is limited to once per turn."
+      ],
       "set": "211",
       "side": "Light"
     },
@@ -56234,9 +56250,10 @@
       ],
       "rarity": "C",
       "rulings": [
+        "May choose to deploy both cards from hand only, without even searching Reserve Deck. But if that is not possible then Reserve Deck must be searched.",
+        "If Reserve Deck is not searched, do not reshuffle it.",
         "If one or both cards cannot be found, opponent only verifies Reserve Deck. A judge may be required to verify combined contents of hand and Reserve Deck to check for the cards.",
-        "May search Reserve Deck, then decide to deploy both cards entirely from hand (this does not trigger verification).",
-        "May deploy both cards from hand only (without searching Reserve Deck)."
+        "May search Reserve Deck, then decide to deploy both cards entirely from hand (this does not trigger verification)."
       ],
       "set": "207",
       "side": "Light"
@@ -62249,7 +62266,7 @@
       "set": "13",
       "side": "Light",
       "underlyingCardFor": [
-	"Your Ship? (V)"
+        "Your Ship? (V)"
       ]
     },
     {
@@ -66813,7 +66830,7 @@
       "legacy": false,
       "printings": [
         {
-          "set": "200"
+          "set": "217"
         },
         {
           "set": "200d"
@@ -66847,7 +66864,7 @@
       "legacy": false,
       "printings": [
         {
-          "set": "200"
+          "set": "217"
         },
         {
           "set": "200d"
@@ -70639,6 +70656,9 @@
         }
       ],
       "rarity": "R",
+      "rulings": [
+        "(7-side) The 'If you just initiated battle' action is a competing automatic action with Draw Their Fire and First Strike. The player whose turn it is determines the order to resolve these actions."
+      ],
       "set": "221",
       "side": "Light"
     },

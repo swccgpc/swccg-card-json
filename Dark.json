@@ -506,7 +506,7 @@
       "set": "1",
       "side": "Dark",
       "underlyingCardFor": [
-	"5D6-RA-7 (Fivedesix) (V)"
+        "5D6-RA-7 (Fivedesix) (V)"
       ]
     },
     {
@@ -716,7 +716,7 @@
       "set": "7",
       "side": "Dark",
       "underlyingCardFor": [
-	"A Day Long Remembered (V)"
+        "A Day Long Remembered (V)"
       ]
     },
     {
@@ -964,7 +964,7 @@
       "set": "13",
       "side": "Dark",
       "underlyingCardFor": [
-	"A Useless Gesture (V)"
+        "A Useless Gesture (V)"
       ]
     },
     {
@@ -1508,7 +1508,7 @@
       "set": "1",
       "side": "Dark",
       "underlyingCardFor": [
-	"Admiral Motti (V)"
+        "Admiral Motti (V)"
       ]
     },
     {
@@ -1606,10 +1606,13 @@
         "Imperial Command"
       ],
       "rarity": "R1",
+      "rulings": [
+        "If the react is canceled, Ozzel is not lost. Ozzel going lost is a response to the react resolving and 'coming off the stack' which does not happen for canceled actions."
+      ],
       "set": "3",
       "side": "Dark",
       "underlyingCardFor": [
-	"Admiral Ozzel (V)"
+        "Admiral Ozzel (V)"
       ]
     },
     {
@@ -1927,7 +1930,7 @@
       "set": "5",
       "side": "Dark",
       "underlyingCardFor": [
-	"I Never Ask For Anything Twice"
+        "I Never Ask For Anything Twice"
       ]
     },
     {
@@ -2087,7 +2090,7 @@
       "set": "7",
       "side": "Dark",
       "underlyingCardFor": [
-	"Alert My Star Destroyer! (V)"
+        "Alert My Star Destroyer! (V)"
       ]
     },
     {
@@ -2165,7 +2168,7 @@
       "set": "7",
       "side": "Dark",
       "underlyingCardFor": [
-	"Black 5"
+        "Black 5"
       ]
     },
     {
@@ -2407,7 +2410,7 @@
       "set": "1",
       "side": "Dark",
       "underlyingCardFor": [
-	"Alter (Premiere) (V)"
+        "Alter (Premiere) (V)"
       ]
     },
     {
@@ -2639,8 +2642,8 @@
       "set": "6",
       "side": "Dark",
       "underlyingCardFor": [
-	"Asajj Ventress With Lightsabers",
-	"Asajj Ventress With Lightsabers (AI)"
+        "Asajj Ventress With Lightsabers",
+        "Asajj Ventress With Lightsabers (AI)"
       ]
     },
     {
@@ -2736,7 +2739,7 @@
       "set": "4",
       "side": "Dark",
       "underlyingCardFor": [
-	"D'Qar"
+        "D'Qar"
       ]
     },
     {
@@ -2871,7 +2874,7 @@
       "set": "109",
       "side": "Dark",
       "underlyingCardFor": [
-	"Any Methods Necessary (V)"
+        "Any Methods Necessary (V)"
       ]
     },
     {
@@ -2945,7 +2948,7 @@
       "set": "4",
       "side": "Dark",
       "underlyingCardFor": [
-	"Apology Accepted (V)"
+        "Apology Accepted (V)"
       ]
     },
     {
@@ -19507,6 +19510,9 @@
         }
       ],
       "rarity": "R",
+      "rulings": [
+        "(Used) Weapon must be capable of firing and have an eligible target. Not required to have enough Force to fire. If a character with a permanent weapon has had their game text canceled, they cannot fire and therefore cannot use this function."
+      ],
       "set": "5",
       "side": "Dark"
     },
@@ -23894,7 +23900,7 @@
       "set": "1",
       "side": "Dark",
       "underlyingCardFor": [
-	"Grand Moff Tarkin (V)"
+        "Grand Moff Tarkin (V)"
       ]
     },
     {
@@ -28230,7 +28236,7 @@
           "Hoth"
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/Hoth-Dark/large/infantrymine.gif",
-        "lore": "Typically stolen by Rebel spies and sabateurs from the perimeter of high-security Imperial installations.",
+        "lore": "Deadly explosive typically planted on the perimeter of strategic sites or high-security installations to prevent Rebel spies and saboteurs from gaining access.",
         "subType": "Automated",
         "title": "Infantry Mine",
         "type": "Weapon"
@@ -45189,6 +45195,7 @@
       "front": {
         "ability": "2",
         "characteristics": [
+          "Corellian",
           "ISB agent",
           "stormtrooper",
           "trooper"
@@ -45544,6 +45551,10 @@
       "side": "Dark"
     },
     {
+      "abbr": [
+        "SRF & WYB",
+        "Short-range Fighters & Watch Your Back!"
+      ],
       "canceledBy": [
         "Corellian Slip (V)"
       ],
@@ -45597,13 +45608,20 @@
         "Vader's Personal Shuttle (V)"
       ],
       "rarity": "R",
+      "rulings": [
+        "Despite a small difference in hyphenation, this card is considered to have the same card title as the card Short-range Fighters."
+      ],
       "set": "12",
       "side": "Dark"
     },
     {
+      "abbr": [
+        "SRF",
+        "Short Range Fighters"
+      ],
       "front": {
         "destiny": "5",
-        "gametext": "Once per game, target one non-unique starfigihter on table. Draw destiny. If destiny < X, retrieve X Force, where X = number of copies of that card you have on table. (Immune to Sense.) OR Take one non-unique starfighter into hand from Reserve Deck; reshuffle.",
+        "gametext": "Once per game, target one non-unique starfighter on table. Draw destiny. If destiny < X, retrieve X Force, where X = number of copies of that card you have on table. (Immune to Sense.) OR Take one non-unique starfighter into hand from Reserve Deck; reshuffle.",
         "icons": [
           "Special Edition"
         ],
@@ -45623,6 +45641,9 @@
         }
       ],
       "rarity": "R",
+      "rulings": [
+        "Despite a small difference in hyphenation, this card is considered to have the same card title as the combo card Short Range Fighters & Watch Your Back!."
+      ],
       "set": "7",
       "side": "Dark"
     },
@@ -56057,6 +56078,9 @@
       "side": "Dark"
     },
     {
+      "abbr": [
+        "WYB"
+      ],
       "counterpart": "Darklighter Spin",
       "front": {
         "destiny": "3",
@@ -61147,7 +61171,7 @@
       "legacy": false,
       "printings": [
         {
-          "set": "200"
+          "set": "216"
         },
         {
           "set": "200d"
@@ -61178,7 +61202,7 @@
       "legacy": false,
       "printings": [
         {
-          "set": "200"
+          "set": "216"
         },
         {
           "set": "200d"
@@ -63022,7 +63046,7 @@
       "pulledBy": [
         "Commander Brandei",
         "Maarek Stele, The Emperor's Reach",
-        "Short Range Fighters & •Watch Your Back!"
+        "Short Range Fighters & Watch Your Back!"
       ],
       "rarity": "F",
       "rulings": [
@@ -65704,6 +65728,12 @@
       ],
       "front": {
         "ability": "2",
+        "characteristics": [
+          "Corellian",
+          "ISB agent",
+          "stormtrooper",
+          "trooper"
+        ],
         "deploy": "2",
         "destiny": "3",
         "forfeit": "3",
@@ -65958,6 +65988,11 @@
       "front": {
         "ability": "2",
         "armor": "4",
+        "characteristics": [
+          "sandtrooper",
+          "stormtrooper",
+          "trooper"
+        ],
         "deploy": "2",
         "destiny": "3",
         "forfeit": "3",
@@ -65983,6 +66018,9 @@
         }
       ],
       "rarity": "C2",
+      "rulings": [
+        "Once the Dewback is brought into play, it is treated as any normal card. It goes to Lost Pile when forfeited, can be retrieved, etc."
+      ],
       "set": "221",
       "side": "Dark"
     },
