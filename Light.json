@@ -2031,7 +2031,7 @@
       "canceledBy": [
         "Black 2 (V)"
       ],
-      "counterpart": "Short Range Fighters",
+      "counterpart": "Short-range Fighters",
       "front": {
         "destiny": "5",
         "gametext": "Once per game, target one non-unique starfighter on table. Draw destiny. If destiny < X, retrieve X Force, where X = number of copies of that card you have on table. (Immune to Sense.) OR Take one non-unique starfighter into hand from Reserve Deck; reshuffle.",
@@ -2740,7 +2740,7 @@
       "set": "3",
       "side": "Light",
       "underlyingCardFor": [
-	"Anakin's Lightsaber (V)"
+        "Anakin's Lightsaber (V)"
       ]
     },
     {
@@ -2899,7 +2899,7 @@
       "set": "4",
       "side": "Light",
       "underlyingCardFor": [
-	"Anger, Fear, Aggression (V)"
+        "Anger, Fear, Aggression (V)"
       ]
     },
     {
@@ -3063,7 +3063,7 @@
       "set": "7",
       "side": "Light",
       "underlyingCardFor": [
-	"Ahsoka Tano"
+        "Ahsoka Tano"
       ]
     },
     {
@@ -3157,7 +3157,7 @@
       "set": "7",
       "side": "Light",
       "underlyingCardFor": [
-	"Antilles Maneuver (V)"
+        "Antilles Maneuver (V)"
       ]
     },
     {
@@ -3233,7 +3233,7 @@
       "set": "9",
       "side": "Light",
       "underlyingCardFor": [
-	"Kamino"
+        "Kamino"
       ]
     },
     {
@@ -3557,8 +3557,8 @@
       "set": "5",
       "side": "Light",
       "underlyingCardFor": [
-	"Rey With Lightsaber",
-	"Rey With Lightsaber (AI)"
+        "Rey With Lightsaber",
+        "Rey With Lightsaber (AI)"
       ]
     },
     {
@@ -3971,7 +3971,7 @@
       "set": "5",
       "side": "Light",
       "underlyingCardFor": [
-	"Tobias Beckett"
+        "Tobias Beckett"
       ]
     },
     {
@@ -4004,7 +4004,7 @@
       "set": "14",
       "side": "Light",
       "underlyingCardFor": [
-	"Ascension Guns (V)"
+        "Ascension Guns (V)"
       ]
     },
     {
@@ -5901,7 +5901,7 @@
       "front": {
         "destiny": "2",
         "errataSymbol": "E1",
-        "gametext": "USED: If you just targeted with a blaster, add 3 to your weapon destiny.  LOST: Lose 1 Force to cause one opponent's character just 'hit' to be immediately placed in Lost Pile. OR Cancel Levitation Attack.",
+        "gametext": "USED: If you just targeted with a blaster, add 3 to your total weapon destiny.  LOST: Lose 1 Force to cause one opponent's just 'hit' character to be immediately placed in Lost Pile. OR Cancel Levitation Attack.",
         "icons": [
           "Cloud City"
         ],
@@ -23108,7 +23108,7 @@
           "Reflections 3"
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/ReflectionsIII-Light/large/hanchewieandthefalcon.gif",
-        "lore": "Although temperamental, this trusty hunk of junk always seems to perform for its proud owner and his Wookie co-pilot when needed the most.",
+        "lore": "Although temperamental, this trusty hunk of junk always seems to perform for its proud owner and his Wookiee co-pilot when needed the most.",
         "maneuver": "6",
         "power": "4",
         "subType": "Starfighter: Heavily-Modified Light Freighter",
@@ -23163,7 +23163,7 @@
           "Set 5"
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual5-Light/large/hanchewieandthefalcon.gif",
-        "lore": "Although temperamental, this trusty hunk of junk always seems to perform for its proud owner and his Wookie co-pilot when needed the most.",
+        "lore": "Although temperamental, this trusty hunk of junk always seems to perform for its proud owner and his Wookiee co-pilot when needed the most.",
         "maneuver": "6",
         "power": "8",
         "subType": "Starfighter: Heavily-Modified Light Freighter",
@@ -56025,6 +56025,9 @@
       "side": "Light"
     },
     {
+      "abbr": [
+        "TTU"
+      ],
       "cancels": [
         "One opponent's 'react' unless opponent uses 2 additional Force"
       ],
@@ -56056,10 +56059,13 @@
       "set": "7",
       "side": "Light",
       "underlyingCardFor": [
-	"They're Tracking Us (V)"
+        "They're Tracking Us (V)"
       ]
     },
     {
+      "abbr": [
+        "TTUv"
+      ],
       "cancels": [
         "Close Call",
         "Close Call (V)",
@@ -65468,6 +65474,10 @@
         "Soth Petikkin (when at a Jabba's Palace site you control)"
       ],
       "rarity": "R",
+      "rulings": [
+        "Last sentence works against Tallon Roll, but it only cancels the attempt, not the Interrupt, so Tallon Roll goes to Used Pile as normal.",
+        "Last sentence only works on a starship freighter, not a vehicle freighter (e.g. does not work on the vehicle side of The Falcon, Junkyard Garbage)."
+      ],
       "set": "216",
       "side": "Light"
     },

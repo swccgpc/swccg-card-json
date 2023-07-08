@@ -894,6 +894,7 @@
       ],
       "rarity": "R",
       "rulings": [
+        "(7-side) LS losing 2 Force to place revealed card on bottom of Used Pile is a cost, so it cannot be reduced (e.g. it cannot be reduced by Honor Of The Jedi or It Could Be Worse).",
         "(7-side) When calculating immunity to attrition, start with the base immunity and apply any modifiers (such as Darth Tyranus). Finally, apply the limit (limit of < 5 from this objective) last.",
         "For example, General Kenobi (normally immune < 6) would be reduced to < 5 by Tyranus first. Then the limit of < 5 would be applied to no further effect.",
         "For example, Qui-Gon Jinn (fully immune to attrition) would not be affected by Tyranus at all. Then the limit of < 5 would be applied to Qui-Gon."
@@ -3049,7 +3050,7 @@
       "set": "8",
       "side": "Dark",
       "underlyingCardFor": [
-	"Aratech Corporation (V)"
+        "Aratech Corporation (V)"
       ]
     },
     {
@@ -3145,7 +3146,7 @@
       "set": "10",
       "side": "Dark",
       "underlyingCardFor": [
-	"Arica (V)"
+        "Arica (V)"
       ]
     },
     {
@@ -4057,7 +4058,7 @@
       "side": "Dark",
       "underlyingCardFor": [
         "Baniss Keeg, Pilot Instructor"
-      ]	
+      ]
     },
     {
       "cancels": [
@@ -4196,7 +4197,7 @@
       "set": "6",
       "side": "Dark",
       "underlyingCardFor": [
-	"You Know What I've Come For"
+        "You Know What I've Come For"
       ]
     },
     {
@@ -4842,7 +4843,7 @@
       "set": "5",
       "side": "Dark",
       "underlyingCardFor": [
-	"Mustafar"
+        "Mustafar"
       ]
     },
     {
@@ -4880,8 +4881,8 @@
       "set": "2",
       "side": "Dark",
       "underlyingCardFor": [
-	"Admiral Trench",
-	"Admiral Trench (AI)"
+        "Admiral Trench",
+        "Admiral Trench (AI)"
       ]
     },
     {
@@ -4956,7 +4957,7 @@
       "set": "6",
       "side": "Dark",
       "underlyingCardFor": [
-	"Margo"
+        "Margo"
       ]
     },
     {
@@ -5290,7 +5291,7 @@
       "set": "1",
       "side": "Dark",
       "underlyingCardFor": [
-	"Black 2 (V)"
+        "Black 2 (V)"
       ]
     },
     {
@@ -5387,7 +5388,7 @@
       "set": "1",
       "side": "Dark",
       "underlyingCardFor": [
-	"Black 3 (V)"
+        "Black 3 (V)"
       ]
     },
     {
@@ -5755,7 +5756,7 @@
       "set": "1",
       "side": "Dark",
       "underlyingCardFor": [
-	"Blaster Rack (V)"
+        "Blaster Rack (V)"
       ]
     },
     {
@@ -13805,7 +13806,7 @@
       "front": {
         "destiny": "2",
         "errataSymbol": "E1",
-        "gametext": "If you just targeted with a lightsaber, add 3 to your weapon destiny. OR Cancel Swing-And-A-Miss. OR Lose 1 Force to cause one opponent's character just 'hit' to be immediately placed in Lost Pile.",
+        "gametext": "If you just targeted with a lightsaber, add 3 to your total weapon destiny. OR Cancel Swing-And-A-Miss. OR Lose 1 Force to cause one opponent's just 'hit' character to be immediately placed in Lost Pile.",
         "icons": [
           "Cloud City"
         ],
@@ -16247,7 +16248,7 @@
           "Dagobah"
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/Dagobah-Dark/large/dengar.gif",
-        "lore": "Corellian bounty hunter. Assassin trained by the Empire. Has reflex-enhancing cyber implants. Gravely injured during a swoop race in the crystal swamp of Agrilat. Blames Han Solo.",
+        "lore": "Corellian bounty hunter. Assassin trained by the Empire. Has reflex-enhancing cyber-implants. Gravely injured during a swoop race in the crystal swamp of Agrilat. Blames Han Solo.",
         "power": "2",
         "subType": "Alien",
         "title": "•Dengar",
@@ -16303,7 +16304,7 @@
           "Set 5"
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual5-Dark/large/dengar.gif",
-        "lore": "Corellian bounty hunter. Assassin trained by the Empire. Has reflex-enhancing cyber implants. Gravely injured during a swoop race in the crystal swamp of Agrilat. Blames Han Solo.",
+        "lore": "Corellian bounty hunter. Assassin trained by the Empire. Has reflex-enhancing cyber-implants. Gravely injured during a swoop race in the crystal swamp of Agrilat. Blames Han Solo.",
         "power": "3",
         "subType": "Alien",
         "title": "•Dengar (V)",
@@ -29706,10 +29707,14 @@
         "Power Of The Hutt"
       ],
       "rarity": "R",
+      "rulings": [
+        "Third sentence refers only to a card with the exact title Turbolaser Battery, not Heavy Turbolaser Battery.",
+        "Third sentence only allows Turbolaser Battery to deploy aboard as a react, not during deploy phase."
+      ],
       "set": "7",
       "side": "Dark",
       "underlyingCardFor": [
-	"Jabba's Space Cruiser (V)"
+        "Jabba's Space Cruiser (V)"
       ]
     },
     {
@@ -37879,6 +37884,7 @@
       ],
       "rarity": "U",
       "rulings": [
+        "(7-side) When LS chooses to lose 2 Force, this is not a cost, so it can be reduced (e.g. Honor The Jedi or It Could Be Worse may reduce the loss).",
         "(7-side) A card that cannot deploy during the deploy phase (such as Disarmed or Fear Is My Ally) is considered a card Dark cannot deploy. Thus if Light uses 2 Force, Dark loses 2 Force and the card."
       ],
       "set": "12",
@@ -45619,6 +45625,7 @@
         "SRF",
         "Short Range Fighters"
       ],
+      "counterpart": "All Wings Report In",
       "front": {
         "destiny": "5",
         "gametext": "Once per game, target one non-unique starfighter on table. Draw destiny. If destiny < X, retrieve X Force, where X = number of copies of that card you have on table. (Immune to Sense.) OR Take one non-unique starfighter into hand from Reserve Deck; reshuffle.",
