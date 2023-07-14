@@ -121,32 +121,6 @@
     },
     {
       "front": {
-        "destiny": "5",
-        "errataSymbol": "E1",
-        "gametext": "If Jakku on table, deploy on table. Your Force generation is +1 at Jakku battlegrounds you occupy. During your deploy phase, may place a Resistance character from hand on top of Used Pile to take a Resistance character of equal or lesser ability into hand from Reserve Deck; reshuffle. (Immune to Alter.)",
-        "icons": [
-          "Set 9"
-        ],
-        "imageUrl": "https://res.starwarsccg.org/cards/Virtual9-Light/large/abraveresistance.gif",
-        "lore": "Blank.",
-        "title": "•A Brave Resistance",
-        "type": "Effect",
-        "uniqueness": "*"
-      },
-      "gempId": "209_16",
-      "id": 5302,
-      "legacy": false,
-      "printings": [
-        {
-          "set": "209"
-        }
-      ],
-      "rarity": "U1",
-      "set": "209",
-      "side": "Light"
-    },
-    {
-      "front": {
         "destiny": "0",
         "gametext": "Plays on table. If you just lost a Podrace, your Force loss is limited to half the difference between the winning race total and your highest race total (round up). While you occupy three battlegrounds, Watto's Box is suspended.",
         "icons": [
@@ -4106,7 +4080,7 @@
       "set": "7",
       "side": "Light",
       "underlyingCardFor": [
-	"K-2SO (Kay-Tuesso)"
+        "K-2SO (Kay-Tuesso)"
       ]
     },
     {
@@ -4689,7 +4663,7 @@
       "set": "9",
       "side": "Light",
       "underlyingCardFor": [
-	"Lightmaker"
+        "Lightmaker"
       ]
     },
     {
@@ -4860,7 +4834,7 @@
       "set": "6",
       "side": "Light",
       "underlyingCardFor": [
-	"Crusher Roodown"
+        "Crusher Roodown"
       ]
     },
     {
@@ -4925,7 +4899,7 @@
       "set": "12",
       "side": "Light",
       "underlyingCardFor": [
-	"The Republic No Longer Functions"
+        "The Republic No Longer Functions"
       ]
     },
     {
@@ -5220,8 +5194,8 @@
       "set": "5",
       "side": "Light",
       "underlyingCardFor": [
-	"Beldon's Eye (V)",
-	"Beldon's Eye & All My Urchins"
+        "Beldon's Eye (V)",
+        "Beldon's Eye & All My Urchins"
       ]
     },
     {

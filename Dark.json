@@ -5829,7 +5829,7 @@
       "set": "1",
       "side": "Dark",
       "underlyingCardFor": [
-	"Blaster Rifle (V)"
+        "Blaster Rifle (V)"
       ]
     },
     {
@@ -5992,7 +5992,7 @@
       "set": "3",
       "side": "Dark",
       "underlyingCardFor": [
-	"Blizzard 2 (V)"
+        "Blizzard 2 (V)"
       ]
     },
     {
@@ -6243,7 +6243,7 @@
       "set": "3",
       "side": "Dark",
       "underlyingCardFor": [
-	"Blizzard Scout 1 (V)"
+        "Blizzard Scout 1 (V)"
       ]
     },
     {
@@ -6338,7 +6338,7 @@
       "set": "3",
       "side": "Dark",
       "underlyingCardFor": [
-	"Marquand In Blizzard 6"
+        "Marquand In Blizzard 6"
       ]
     },
     {
@@ -6480,7 +6480,7 @@
       "set": "14",
       "side": "Dark",
       "underlyingCardFor": [
-	"Invisible Hand: Docking Bay"
+        "Invisible Hand: Docking Bay"
       ]
     },
     {
@@ -27378,10 +27378,12 @@
       "counterpart": "Goldenrod",
       "front": {
         "destiny": "0",
-        "gametext": "Plays on table. For opponent to deploy a character, starship, or vehicle for free (except by that card's own game text), opponent must first use 2 Force.",
+        "errataDate": "2023-07-15",
+        "errataNotes": "Added the last sentence, regarding I Must Be Allowed To Speak. Removed Reflections III icon.",
+        "errataSymbol": "E1",
+        "gametext": "Plays on table. For opponent to deploy a character, starship, or vehicle for free (except by that card's own game text), opponent must first use 2 Force. [Jabba's Palace] I Must Be Allowed To Speak may not target locations except Lars' Moisture Farm and Jabba's Palace sites.",
         "icons": [
           "Defensive Shield",
-          "Reflections 3",
           "Set D"
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/ResetDS-Dark/large/imperialdetention.gif",
@@ -27393,6 +27395,7 @@
       "gempId": "200_98",
       "id": 6394,
       "legacy": false,
+      "previousId": 20023,
       "printings": [
         {
           "set": "200"
@@ -27403,7 +27406,11 @@
       ],
       "rarity": "C",
       "rulings": [
-        "A card that deploys for 0 such as Kal'Falnl C'ndros is not the same as 'free' and thus doesn't trigger this card."
+        "A card that deploys for 0 such as Kal'Falnl C'ndros is not the same as 'free' and thus doesn't trigger this card.",
+        "Prevents IMBATS(V) from deploying the generic Farm.",
+        "Prevents IMBATS(V) from searching Used Pile when a specified character (e.g. Luke) deploys to a site (except Lar's Moisture Farm or a Jabba's Palace Site).",
+        "Does not restrict what card Light may take into hand from Used Pile via IMBATS(V).",
+        "Does not affect non-V IMBATS (or the Set 18 combo card) in any way."
       ],
       "set": "200d",
       "side": "Dark",
@@ -41851,50 +41858,8 @@
       "set": "7",
       "side": "Dark",
       "underlyingCardFor": [
-	"Ralltiir Operations / In The Hands Of The Empire (V)"
+        "Ralltiir Operations / In The Hands Of The Empire (V)"
       ]
-    },
-    {
-      "abbr": [
-        "RO/ITHOTEV",
-        "ROPSV"
-      ],
-      "back": {
-        "destiny": "7",
-        "errataSymbol": "E1",
-        "gametext": "Ralltiir Operations:Deploy [Set 20] Ralltiir system.{For} remainder of game, spaceport sites are immune to Always Thinking With Your Stomach, He Hasn't Come Back Yet, and non-[Set 18] Ounee Ta. You may not play [Coruscant] Do They Have A Code Clearance?. Your Force generation is +1 at each Ralltiir site. {While} this side up, once per turn, may deploy a site (or non-unique Imperial) to Ralltiir from Reserve Deck; reshuffle.{Flip} this card if Imperials control at least three Ralltiir sites and opponent controls no Ralltiir locations.In The Hands Of The Empire:{While} this side up, opponent's Force drains are -1 at their locations. Your total battle destiny is +X, where X = number of Ralltiir locations your Imperials occupy. {Flip} this card if opponent controls at least two Ralltiir locations.",
-        "icons": [
-          "Set 10"
-        ],
-        "imageUrl": "https://res.starwarsccg.org/cards/Virtual10-Dark/large/inthehandsoftheempire.gif",
-        "title": "Ralltiir Operations / In The Hands Of The Empire (V)",
-        "type": "Objective"
-      },
-      "front": {
-        "destiny": "0",
-        "errataDate": "2022-12-12",
-        "errataNotes": "Original card deployed any Ralltiir system, affected all versions of Ounee Ta, gave Force generations +1 at all Ralltiir locations, and did not mention Code Clearance. Note that Insignificant Rebellion (V) used to negate Code Clearance instead.",
-        "errataSymbol": "E1",
-        "gametext": "Ralltiir Operations:Deploy [Set 20] Ralltiir system.{For} remainder of game, spaceport sites are immune to Always Thinking With Your Stomach, He Hasn't Come Back Yet, and non-[Set 18] Ounee Ta. You may not play [Coruscant] Do They Have A Code Clearance?. Your Force generation is +1 at each Ralltiir site. {While} this side up, once per turn, may deploy a site (or non-unique Imperial) to Ralltiir from Reserve Deck; reshuffle.{Flip} this card if Imperials control at least three Ralltiir sites and opponent controls no Ralltiir locations.In The Hands Of The Empire:{While} this side up, opponent's Force drains are -1 at their locations. Your total battle destiny is +X, where X = number of Ralltiir locations your Imperials occupy. {Flip} this card if opponent controls at least two Ralltiir locations.",
-        "icons": [
-          "Set 10"
-        ],
-        "imageUrl": "https://res.starwarsccg.org/cards/Virtual10-Dark/large/ralltiiroperations.gif",
-        "title": "Ralltiir Operations / In The Hands Of The Empire (V)",
-        "type": "Objective"
-      },
-      "gempId": "210_42",
-      "id": 6590,
-      "legacy": false,
-      "previousId": 20010,
-      "printings": [
-        {
-          "set": "210"
-        }
-      ],
-      "rarity": "R",
-      "set": "210",
-      "side": "Dark"
     },
     {
       "front": {
@@ -42579,7 +42544,7 @@
       "set": "5",
       "side": "Dark",
       "underlyingCardFor": [
-	"Imperial Detention"
+        "Imperial Detention"
       ]
     },
     {
