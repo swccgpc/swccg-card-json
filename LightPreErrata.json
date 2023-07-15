@@ -1280,6 +1280,33 @@
       "rarity": "C2",
       "set": "204",
       "side": "Light"
+    },
+    {
+      "front": {
+        "destiny": "5",
+        "errataNotes": "This card was blanked (removed from the game) on July 15, 2023.",
+        "errataSymbol": "E1",
+        "gametext": "If Jakku on table, deploy on table. Your Force generation is +1 at Jakku battlegrounds you occupy. During your deploy phase, may place a Resistance character from hand on top of Used Pile to take a Resistance character of equal or lesser ability into hand from Reserve Deck; reshuffle. (Immune to Alter.)",
+        "icons": [
+          "Set 9"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual9-Light/large/abraveresistance.gif",
+        "lore": "Blank.",
+        "title": "•A Brave Resistance",
+        "type": "Effect",
+        "uniqueness": "*"
+      },
+      "gempId": "209_16",
+      "id": 5302,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "209"
+        }
+      ],
+      "rarity": "U1",
+      "set": "209",
+      "side": "Light"
     }
   ]
 }

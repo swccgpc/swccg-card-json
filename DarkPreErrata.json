@@ -921,6 +921,84 @@
       "rarity": "R1",
       "set": "2",
       "side": "Dark"
+    },
+    {
+      "counterpart": "Goldenrod",
+      "front": {
+        "destiny": "0",
+        "gametext": "Plays on table. For opponent to deploy a character, starship, or vehicle for free (except by that card's own game text), opponent must first use 2 Force.",
+        "icons": [
+          "Defensive Shield",
+          "Reflections 3",
+          "Set D"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/ResetDS-Dark/large/imperialdetention.gif",
+        "lore": "Blank.",
+        "title": "•Imperial Detention",
+        "type": "Defensive Shield",
+        "uniqueness": "*"
+      },
+      "gempId": "200_98",
+      "id": 20023,
+      "legacy": false,
+      "nextId": 6394,
+      "printings": [
+        {
+          "set": "200"
+        },
+        {
+          "set": "200d"
+        }
+      ],
+      "rarity": "C",
+      "rulings": [
+        "A card that deploys for 0 such as Kal'Falnl C'ndros is not the same as 'free' and thus doesn't trigger this card."
+      ],
+      "set": "200d",
+      "side": "Dark",
+      "sourceType": "effect"
+    },
+    {
+      "abbr": [
+        "RO/ITHOTEV",
+        "ROPSV"
+      ],
+      "back": {
+        "destiny": "7",
+        "errataSymbol": "E1",
+        "gametext": "Ralltiir Operations:Deploy [Set 20] Ralltiir system.{For} remainder of game, spaceport sites are immune to Always Thinking With Your Stomach, He Hasn't Come Back Yet, and non-[Set 18] Ounee Ta. You may not play [Coruscant] Do They Have A Code Clearance?. Your Force generation is +1 at each Ralltiir site. {While} this side up, once per turn, may deploy a site (or non-unique Imperial) to Ralltiir from Reserve Deck; reshuffle.{Flip} this card if Imperials control at least three Ralltiir sites and opponent controls no Ralltiir locations.In The Hands Of The Empire:{While} this side up, opponent's Force drains are -1 at their locations. Your total battle destiny is +X, where X = number of Ralltiir locations your Imperials occupy. {Flip} this card if opponent controls at least two Ralltiir locations.",
+        "icons": [
+          "Set 10"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual10-Dark/large/inthehandsoftheempire.gif",
+        "title": "Ralltiir Operations / In The Hands Of The Empire (V)",
+        "type": "Objective"
+      },
+      "front": {
+        "destiny": "0",
+        "errataDate": "2022-12-12",
+        "errataNotes": "This card was blanked (removed from the game) on July 15, 2023. Original card deployed any Ralltiir system, affected all versions of Ounee Ta, gave Force generations +1 at all Ralltiir locations, and did not mention Code Clearance. Note that Insignificant Rebellion (V) used to negate Code Clearance instead.",
+        "errataSymbol": "E1",
+        "gametext": "Ralltiir Operations:Deploy [Set 20] Ralltiir system.{For} remainder of game, spaceport sites are immune to Always Thinking With Your Stomach, He Hasn't Come Back Yet, and non-[Set 18] Ounee Ta. You may not play [Coruscant] Do They Have A Code Clearance?. Your Force generation is +1 at each Ralltiir site. {While} this side up, once per turn, may deploy a site (or non-unique Imperial) to Ralltiir from Reserve Deck; reshuffle.{Flip} this card if Imperials control at least three Ralltiir sites and opponent controls no Ralltiir locations.In The Hands Of The Empire:{While} this side up, opponent's Force drains are -1 at their locations. Your total battle destiny is +X, where X = number of Ralltiir locations your Imperials occupy. {Flip} this card if opponent controls at least two Ralltiir locations.",
+        "icons": [
+          "Set 10"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual10-Dark/large/ralltiiroperations.gif",
+        "title": "Ralltiir Operations / In The Hands Of The Empire (V)",
+        "type": "Objective"
+      },
+      "gempId": "210_42",
+      "id": 6590,
+      "legacy": false,
+      "previousId": 20010,
+      "printings": [
+        {
+          "set": "210"
+        }
+      ],
+      "rarity": "R",
+      "set": "210",
+      "side": "Dark"
     }
   ]
 }
