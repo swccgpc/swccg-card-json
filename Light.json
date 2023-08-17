@@ -689,7 +689,9 @@
         "lore": "Senator Palpatine was quick to point out the aggressions of the Trade Federation in front of the Galactic Senate.",
         "title": "•A Tragedy Has Occurred",
         "type": "Defensive Shield",
-        "uniqueness": "*"
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/A Tragedy Has Occured (Shield-slip) (Errata)/image.png",
+        "printableSlipType": "ERRATA"
       },
       "gempId": "13_3",
       "id": 37,
@@ -2229,9 +2231,7 @@
         "lore": "The Force can be used to affect the things around a Jedi. 'Always remember, your focus determines your reality.",
         "subType": "Lost",
         "title": "Alter",
-        "type": "Interrupt",
-        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Alter (Coruscant) (Dark)/image.png",
-        "printableSlipType": "ERRATA"
+        "type": "Interrupt"
       },
       "gempId": "12_54",
       "id": 99,
@@ -2366,7 +2366,7 @@
         "subType": "Used Or Lost",
         "title": "Alter (Coruscant) (V)",
         "type": "Interrupt",
-        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Alter (dark) (V)/image.png",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Alter (Coruscant) (Light)/image.png",
         "printableSlipType": "VIRTUAL"
       },
       "gempId": "200_143",
@@ -2401,7 +2401,9 @@
         "lore": "A user of the Force can alter the environment to affect the minds of others. 'The Force can have a strong influence on the weak-minded.'",
         "subType": "Used Or Lost",
         "title": "Alter (Premiere) (V)",
-        "type": "Interrupt"
+        "type": "Interrupt",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Alter (Premiere) (Light)/image.png",
+        "printableSlipType": "VIRTUAL"
       },
       "gempId": "200_48",
       "id": 5335,
@@ -6061,7 +6063,7 @@
         "subType": "Character",
         "title": "Blaster Rifle",
         "type": "Weapon",
-        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Blaster Rifle (Errata)/image.png",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Blaster Rifle (Light) (Errata)/image.png",
         "printableSlipType": "ERRATA"
       },
       "gempId": "1_153",
@@ -6468,7 +6470,7 @@
         "subType": "Avian",
         "title": "Bog-wing",
         "type": "Creature",
-        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Bog-wing (Errata)/image.png",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Bog-wing (Light) (Errata)/image.png",
         "printableSlipType": "ERRATA"
       },
       "gempId": "4_3",
@@ -10081,7 +10083,7 @@
         "subType": "Character",
         "title": "Cloud City Blaster",
         "type": "Weapon",
-        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Cloud City Blaster (Dark) (Errata)/image.png",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Cloud City Blaster (Light) (Errata)/image.png",
         "printableSlipType": "ERRATA"
       },
       "gempId": "5_89",
@@ -10350,7 +10352,7 @@
         "title": "•Cloud City: Chasm Walkway",
         "type": "Location",
         "uniqueness": "*",
-        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Cloud City Chasm Walkway (Dark) (Errata)/image.png",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Cloud City Chasm Walkway (Light) (Errata)/image.png",
         "printableSlipType": "ERRATA"
       },
       "gempId": "5_79",
@@ -10809,7 +10811,7 @@
         "title": "•Colo Claw Fish",
         "type": "Effect",
         "uniqueness": "*",
-        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Colo Claw Fish (Dark) (Errata)/image.png",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Colo Claw Fish (Light) (Errata)/image.png",
         "printableSlipType": "ERRATA"
       },
       "gempId": "13_11",
@@ -12762,9 +12764,7 @@
         "subType": "System",
         "title": "•Coruscant",
         "type": "Location",
-        "uniqueness": "*",
-        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Coruscant (Dark) (V)/image.png",
-        "printableSlipType": "ERRATA"
+        "uniqueness": "*"
       },
       "gempId": "12_73",
       "id": 561,
@@ -13654,7 +13654,7 @@
         "title": "•Dagobah",
         "type": "Location",
         "uniqueness": "*",
-        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Dagobah (Dark) (Errata)/image.png",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Dagobah (Light) (Errata)/image.png",
         "printableSlipType": "ERRATA"
       },
       "gempId": "4_84",
@@ -13935,9 +13935,7 @@
         "subType": "System",
         "title": "•Dantooine",
         "type": "Location",
-        "uniqueness": "*",
-        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Dantooine (Dark) (Errata)/image.png",
-        "printableSlipType": "ERRATA"
+        "uniqueness": "*"
       },
       "gempId": "1_122",
       "id": 608,
@@ -15487,7 +15485,7 @@
         "lore": "When Dr. Evazan and Ponda Baba confronted Luke in the Cantina, Obi-Wan pointed out, 'This little one isn't worth the effort.' A brawl ensued.",
         "title": "Disarmed",
         "type": "Effect",
-        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Disarmed (Errata)/image.png",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Disarmed (Light) (Errata)/image.png",
         "printableSlipType": "ERRATA"
       },
       "gempId": "1_48",
@@ -20320,7 +20318,7 @@
         "lore": "Uses standard fusion technology. Provides starships with energy for hyperspace travel. Installed at docking bays and throughout the Outer Rim Territories.",
         "title": "Fusion Generator Supply Tanks",
         "type": "Device",
-        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Fusion Generator Supply Tanks (Errata)/image.png",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Fusion Generator Supply Tanks (Light) (Errata)/image.png",
         "printableSlipType": "ERRATA"
       },
       "gempId": "1_36",
@@ -26940,7 +26938,7 @@
         "subType": "Automated",
         "title": "Infantry Mine",
         "type": "Weapon",
-        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Infantry Mine (Dark) (Errata)/image.png",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Infantry Mine (Light) (Errata)/image.png",
         "printableSlipType": "ERRATA"
       },
       "gempId": "3_76",
@@ -27970,7 +27968,7 @@
         "title": "•Jakku (AI)",
         "type": "Location",
         "uniqueness": "*",
-        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Jakku (Dark) (AI)/image.png",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Jakku (Light) (AI)/image.png",
         "printableSlipType": "VIRTUAL"
       },
       "gempId": "204_26",
@@ -29900,9 +29898,7 @@
         "subType": "System",
         "title": "•Kessel",
         "type": "Location",
-        "uniqueness": "*",
-        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Kessel (Dark) (Errata)/image.png",
-        "printableSlipType": "ERRATA"
+        "uniqueness": "*"
       },
       "gempId": "1_126",
       "id": 1427,
@@ -30781,7 +30777,7 @@
         "title": "•Lando Calrissian",
         "type": "Character",
         "uniqueness": "*",
-        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Lando Calrissian (Dark) (Errata)/image.png",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Lando Calrissian (Light) (Errata)/image.png",
         "printableSlipType": "ERRATA"
       },
       "gempId": "5_5",
@@ -35617,9 +35613,7 @@
         "subType": "System",
         "title": "•Malastare",
         "type": "Location",
-        "uniqueness": "*",
-        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Malastare (Dark) (V)/image.png",
-        "printableSlipType": "ERRATA"
+        "uniqueness": "*"
       },
       "gempId": "12_77",
       "id": 1636,
@@ -37531,7 +37525,7 @@
         "subType": "Character",
         "title": "Mos Eisley Blaster",
         "type": "Weapon",
-        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Mos Eisley Blaster (Dark) (Errata)/image.png",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Mos Eisley Blaster (Light) (Errata)/image.png",
         "printableSlipType": "ERRATA"
       },
       "gempId": "6_89",
@@ -37991,7 +37985,7 @@
         "title": "•Naboo: Battle Plains",
         "type": "Location",
         "uniqueness": "*",
-        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Naboo Battle Plains (Dark) (Errata)/image.png",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Naboo Battle Plains (Light) (Errata)/image.png",
         "printableSlipType": "ERRATA"
       },
       "gempId": "12_79",
@@ -38257,7 +38251,7 @@
         "title": "•Naboo: Theed Palace Generator Core",
         "type": "Location",
         "uniqueness": "*",
-        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Naboo Theed Palace Generator Core (Dark) (Errata)/image.png",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Naboo Theed Palace Generator Core (Light) (Errata)/image.png",
         "printableSlipType": "ERRATA"
       },
       "gempId": "13_32",
@@ -44937,9 +44931,7 @@
         "subType": "System",
         "title": "•Ralltiir",
         "type": "Location",
-        "uniqueness": "*",
-        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Ralltiir (Dark) (V)/image.png",
-        "printableSlipType": "ERRATA"
+        "uniqueness": "*"
       },
       "gempId": "2_65",
       "id": 2017,
@@ -49462,7 +49454,7 @@
         "subType": "Transport",
         "title": "Sandcrawler",
         "type": "Vehicle",
-        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Sandcrawler (Dark) (Errata)/image.png",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Sandcrawler (Light) (Errata)/image.png",
         "printableSlipType": "ERRATA"
       },
       "gempId": "1_150",
@@ -49763,7 +49755,7 @@
         "title": "•Scarif",
         "type": "Location",
         "uniqueness": "*",
-        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Scarif (Dark)/image.png",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Scarif (Light)/image.png",
         "printableSlipType": "VIRTUAL"
       },
       "gempId": "209_23",
@@ -49794,7 +49786,7 @@
         "title": "•Scarif: Beach",
         "type": "Location",
         "uniqueness": "*",
-        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Scarif Beach (Dark)/image.png",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Scarif Beach (Light)/image.png",
         "printableSlipType": "VIRTUAL"
       },
       "gempId": "209_24",
@@ -51437,7 +51429,7 @@
         "subType": "Transport",
         "title": "Skiff",
         "type": "Vehicle",
-        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Skiff (Dark) (Errata)/image.png",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Skiff (Light) (Errata)/image.png",
         "printableSlipType": "ERRATA"
       },
       "gempId": "6_88",
@@ -52242,7 +52234,7 @@
         "title": "<>Space Slug",
         "type": "Creature",
         "uniqueness": "<>",
-        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Space Slug (Errata)/image.png",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Space Slug (Light) (Errata)/image.png",
         "printableSlipType": "ERRATA"
       },
       "gempId": "4_6",
@@ -54528,9 +54520,7 @@
         "subType": "System",
         "title": "•Tatooine",
         "type": "Location",
-        "uniqueness": "*",
-        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Tatooine (Dark) (V)/image.png",
-        "printableSlipType": "ERRATA"
+        "uniqueness": "*"
       },
       "gempId": "12_84",
       "id": 2432,
@@ -54736,9 +54726,7 @@
         "subType": "Site",
         "title": "•Tatooine: Cantina",
         "type": "Location",
-        "uniqueness": "*",
-        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Tatooine Cantina (Dark) (V)/image.png",
-        "printableSlipType": "ERRATA"
+        "uniqueness": "*"
       },
       "gempId": "1_128",
       "id": 2440,
@@ -55076,9 +55064,7 @@
         "subType": "Site",
         "title": "•Tatooine: Jawa Camp",
         "type": "Location",
-        "uniqueness": "*",
-        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Tatooine Jawa Camp (Dark) (V)/image.png",
-        "printableSlipType": "ERRATA"
+        "uniqueness": "*"
       },
       "gempId": "1_131",
       "id": 2455,
@@ -58937,7 +58923,7 @@
         "lore": "Alliance Intelligence expends considerable resources to infiltrate the Imperial military bureaucracy, but the ISB's security sweeps make these shadowy operations dangerous.",
         "title": "Undercover",
         "type": "Effect",
-        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Undercover (Dark) (Errata)/image.png",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Undercover (Light) (Errata)/image.png",
         "printableSlipType": "ERRATA"
       },
       "gempId": "2_40",
@@ -59169,7 +59155,7 @@
         "subType": "Automated",
         "title": "Vehicle Mine",
         "type": "Weapon",
-        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Vehicle Mine (Dark) (Errata)/image.png",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Vehicle Mine (Light) (Errata)/image.png",
         "printableSlipType": "ERRATA"
       },
       "gempId": "3_81",
@@ -59208,7 +59194,7 @@
         "subType": "Character",
         "title": "Vibro-Ax",
         "type": "Weapon",
-        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Vibro-Ax (Dark) (Errata)/image.png",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Vibro-Ax (Light) (Errata)/image.png",
         "printableSlipType": "ERRATA"
       },
       "gempId": "6_90",
@@ -59306,7 +59292,7 @@
         "subType": "Ophidian",
         "title": "Vine Snake",
         "type": "Creature",
-        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Vine Snake (Errata)/image.png",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Vine Snake (Light) (Errata)/image.png",
         "printableSlipType": "ERRATA"
       },
       "gempId": "4_7",
@@ -69955,7 +69941,7 @@
         "title": "•Tatooine: Mos Eisley (V)",
         "type": "Location",
         "uniqueness": "*",
-        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Tatooine Mos Eisley (Dark) (V)/image.png",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Tatooine Mos Eisley (V)/image.png",
         "printableSlipType": "VIRTUAL"
       },
       "gempId": "218_30",
@@ -70385,7 +70371,7 @@
         "title": "•Lothal",
         "type": "Location",
         "uniqueness": "*",
-        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Lothal (Dark)/image.png",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Lothal (Light)/image.png",
         "printableSlipType": "VIRTUAL"
       },
       "gempId": "219_38",
@@ -70426,7 +70412,7 @@
         "title": "•Lothal: Capital City",
         "type": "Location",
         "uniqueness": "*",
-        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Lothal Capital City (Dark)/image.png",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Lothal Capital City (Light)/image.png",
         "printableSlipType": "VIRTUAL"
       },
       "gempId": "219_39",
@@ -72760,7 +72746,7 @@
         "title": "•Tatooine: Mos Espa (V)",
         "type": "Location",
         "uniqueness": "*",
-        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Tatooine Mos Espa (Dark) (V)/image.png",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Tatooine Mos Espa (Light) (V)/image.png",
         "printableSlipType": "VIRTUAL"
       },
       "gempId": "221_75",
