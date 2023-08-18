@@ -1079,9 +1079,7 @@
         "lore": "High caliber primary tank weapon. Just as effective against massed ground troops as vehicles. Cannot penetrate energy shields.",
         "subType": "Vehicle",
         "title": "AAT Laser Cannon",
-        "type": "Weapon",
-        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Atgar Laser Cannon (Errata)/image.png",
-        "printableSlipType": "ERRATA"
+        "type": "Weapon"
       },
       "gempId": "14_126",
       "id": 45,
@@ -33893,9 +33891,7 @@
         "lore": "'Ah...Uh...'",
         "subType": "Used",
         "title": "Lightsaber Deficiency",
-        "type": "Interrupt",
-        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Lightsaber Proficiency (Errata)/image.png",
-        "printableSlipType": "ERRATA"
+        "type": "Interrupt"
       },
       "gempId": "3_129",
       "id": 1552,
@@ -33993,7 +33989,7 @@
         "subType": "Droid",
         "title": "LIN-V8M (Elleyein-Veeateemm)",
         "type": "Character",
-        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/LIN-V8K (Elleyein-Veeatekay) (Errata)/image.png",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/LIN-V8M (Elleyein-Veeateemm) (Errata)/image.png",
         "printableSlipType": "ERRATA"
       },
       "gempId": "1_186",
@@ -51030,9 +51026,7 @@
         "subType": "Site",
         "title": "•Tatooine: Lars' Moisture Farm",
         "type": "Location",
-        "uniqueness": "*",
-        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Tatooine Lars Moisture Farm (Errata)/image.png",
-        "printableSlipType": "ERRATA"
+        "uniqueness": "*"
       },
       "gempId": "1_294",
       "id": 2461,
@@ -54984,9 +54978,7 @@
         "power": "2",
         "subType": "Alien",
         "title": "Tusken Raider",
-        "type": "Character",
-        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Tusken Raider (Premiere) (Errata)/image.png",
-        "printableSlipType": "ERRATA"
+        "type": "Character"
       },
       "gempId": "12_124",
       "id": 2649,
@@ -55021,7 +55013,9 @@
         "power": "1",
         "subType": "Alien",
         "title": "Tusken Raider",
-        "type": "Character"
+        "type": "Character",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Tusken Raider (Premiere) (Errata)/image.png",
+        "printableSlipType": "ERRATA"
       },
       "gempId": "1_196",
       "id": 2648,
