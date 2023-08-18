@@ -16636,7 +16636,7 @@
         "subType": "Vehicle",
         "title": "Dual Laser Cannon",
         "type": "Weapon",
-        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Double Laser Cannon (Errata)/image.png",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Dual Laser Cannon (Errata)/image.png",
         "printableSlipType": "ERRATA"
       },
       "gempId": "3_74",
@@ -35193,7 +35193,7 @@
         "lore": "Retractable tube originally designed to collect mined materials for transport to refining facilities. Jawas now use it to suck up droids (and anything else that's not nailed down).",
         "title": "Magnetic Suction Tube",
         "type": "Device",
-        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Magnetic Suction Tube (Errata)/image.png",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Magnetic Suction Tube (Light) (Errata)/image.png",
         "printableSlipType": "ERRATA"
       },
       "gempId": "2_26",
@@ -37741,7 +37741,7 @@
         "subType": "Space",
         "title": "Mynock",
         "type": "Creature",
-        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Mynock (Errata)/image.png",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Mynock (Light) (Errata)/image.png",
         "printableSlipType": "ERRATA"
       },
       "gempId": "4_4",
@@ -56553,9 +56553,7 @@
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/Coruscant-Light/large/thehyperdrivegeneratorsgone.gif",
         "title": "The Hyperdrive Generator's Gone / We'll Need A New One",
-        "type": "Objective",
-        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/The Hyperdrive Generators Gone (V)/image.png",
-        "printableSlipType": "ERRATA"
+        "type": "Objective"
       },
       "gempId": "12_89",
       "id": 5962,
@@ -56587,7 +56585,9 @@
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual10-Light/large/wellneedanewone.gif",
         "title": "The Hyperdrive Generator's Gone / We'll Need A New One (V)",
-        "type": "Objective"
+        "type": "Objective",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Well Need A New One (V)/image.png",
+        "printableSlipType": "VIRTUAL"
       },
       "front": {
         "destiny": "0",
@@ -56600,7 +56600,7 @@
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual10-Light/large/thehyperdrivegeneratorsgone.gif",
         "title": "The Hyperdrive Generator's Gone / We'll Need A New One (V)",
         "type": "Objective",
-        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Well Need A New One (V)/image.png",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/The Hyperdrive Generators Gone (V)/image.png",
         "printableSlipType": "VIRTUAL"
       },
       "gempId": "210_25",
@@ -57008,7 +57008,9 @@
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/DeathStarII-Light/large/icansavehim.gif",
         "title": "There Is Good In Him / I Can Save Him",
-        "type": "Objective"
+        "type": "Objective",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/I Can Save Him (Errata)/image.png",
+        "printableSlipType": "ERRATA"
       },
       "front": {
         "destiny": "0",
@@ -57019,9 +57021,7 @@
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/DeathStarII-Light/large/thereisgoodinhim.gif",
         "title": "There Is Good In Him / I Can Save Him",
-        "type": "Objective",
-        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/I Can Save Him (Errata)/image.png",
-        "printableSlipType": "ERRATA"
+        "type": "Objective"
       },
       "gempId": "9_61",
       "id": 5972,
@@ -59565,7 +59565,9 @@
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/ReflectionsII-Light/large/thisplacecanbealittlerough.gif",
         "title": "Watch Your Step / This Place Can Be A Little Rough",
-        "type": "Objective"
+        "type": "Objective",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/This Place Can Be A Little Rough (Errata)/image.png",
+        "printableSlipType": "ERRATA"
       },
       "front": {
         "destiny": "0",
@@ -59575,9 +59577,7 @@
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/ReflectionsII-Light/large/watchyourstep.gif",
         "title": "Watch Your Step / This Place Can Be A Little Rough",
-        "type": "Objective",
-        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/This Place Can Be A Little Rough (Errata)/image.png",
-        "printableSlipType": "ERRATA"
+        "type": "Objective"
       },
       "gempId": "10_26",
       "id": 6004,
