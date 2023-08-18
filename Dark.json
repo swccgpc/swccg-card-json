@@ -11029,9 +11029,7 @@
         "lore": "'Chewie! Come here!'",
         "title": "•Come Here You Big Coward",
         "type": "Defensive Shield",
-        "uniqueness": "*",
-        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Come Here You Big Coward (Errata)/image.png",
-        "printableSlipType": "ERRATA"
+        "uniqueness": "*"
       },
       "gempId": "13_61",
       "id": 485,
@@ -11057,7 +11055,9 @@
         "lore": "'Chewie! Come here!'",
         "title": "•Come Here You Big Coward",
         "type": "Effect",
-        "uniqueness": "*"
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Come Here You Big Coward (Errata)/image.png",
+        "printableSlipType": "ERRATA"
       },
       "gempId": "7_224",
       "id": 6178,
@@ -15765,9 +15765,7 @@
         "lore": "Death Star troopers on sentry duty observe and direct incoming starships and monitor other critical sites. They perform sensor scans for life forms and weapons.",
         "title": "•Death Star Sentry",
         "type": "Effect",
-        "uniqueness": "*",
-        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Death Star Sentry/image.png",
-        "printableSlipType": "ERRATA"
+        "uniqueness": "*"
       },
       "gempId": "1_213",
       "id": 665,
@@ -15809,7 +15807,9 @@
         "lore": "Death Star troopers on sentry duty observe and direct incoming starships and monitor other critical sites. They perform sensor scans for life forms and weapons.",
         "title": "•Death Star Sentry (V)",
         "type": "Defensive Shield",
-        "uniqueness": "*"
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Death Star Sentry/image.png",
+        "printableSlipType": "VIRTUAL"
       },
       "gempId": "200_94",
       "id": 666,
@@ -17776,7 +17776,9 @@
         "lore": "Imperial officers are always on the lookout for Rebel espionage.",
         "title": "•Do They Have A Code Clearance?",
         "type": "Defensive Shield",
-        "uniqueness": "*"
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Do They Have A Code Clearance (Shield-slip)(Errata)/image.png",
+        "printableSlipType": "ERRATA"
       },
       "gempId": "13_66",
       "id": 743,
