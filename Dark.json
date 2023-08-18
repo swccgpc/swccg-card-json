@@ -496,7 +496,9 @@
         "subType": "Droid",
         "title": "•5D6-RA-7 (Fivedesix)",
         "type": "Character",
-        "uniqueness": "*"
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/5D6-RA-7 (Errata)/image.png",
+        "printableSlipType": "ERRATA"
       },
       "gempId": "1_163",
       "id": 12,
@@ -2346,7 +2348,9 @@
         "lore": "With the Republic groaning under the weight of its own bureaucracy, senators accuse, bicker, and fight to further their own agendas.",
         "title": "•Allegations Of Corruption",
         "type": "Defensive Shield",
-        "uniqueness": "*"
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Allegations of Corruption (Shield-slip)(Errata)/image.png",
+        "printableSlipType": "ERRATA"
       },
       "gempId": "13_52",
       "id": 93,
@@ -2394,9 +2398,7 @@
         "lore": "Those who can use the Force are able to manipulate the objects around them to their advantage.",
         "subType": "Lost",
         "title": "Alter",
-        "type": "Interrupt",
-        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Alter (Coruscant) (Dark)/image.png",
-        "printableSlipType": "ERRATA"
+        "type": "Interrupt"
       },
       "gempId": "12_145",
       "id": 98,
@@ -2523,7 +2525,7 @@
         "subType": "Used Or Lost",
         "title": "Alter (Coruscant) (V)",
         "type": "Interrupt",
-        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Alter (dark) (V)/image.png",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Alter (Coruscant) (Dark)/image.png",
         "printableSlipType": "VIRTUAL"
       },
       "gempId": "200_144",
@@ -2557,7 +2559,9 @@
         "lore": "A user of the Force can subjugate the will of others or alter the environment at a distance, as when Vader 'disciplines' those whose lack of faith disturbs him.",
         "subType": "Used Or Lost",
         "title": "Alter (Premiere) (V)",
-        "type": "Interrupt"
+        "type": "Interrupt",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Alter (Premiere) (Dark)/image.png",
+        "printableSlipType": "VIRTUAL"
       },
       "gempId": "200_115",
       "id": 6085,
@@ -2776,9 +2780,7 @@
         "subType": "System",
         "title": "•Anoat",
         "type": "Location",
-        "uniqueness": "*",
-        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Anoat (light) (V)/image.png",
-        "printableSlipType": "ERRATA"
+        "uniqueness": "*"
       },
       "gempId": "4_154",
       "id": 112,
@@ -5976,7 +5978,7 @@
         "subType": "Character",
         "title": "Blaster Rifle (V)",
         "type": "Weapon",
-        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Blaster Rifle (LS) (V)/image.png",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Blaster Rifle (V)/image.png",
         "printableSlipType": "VIRTUAL"
       },
       "gempId": "200_141",
@@ -15992,9 +15994,7 @@
         "subType": "Site",
         "title": "•Death Star: Detention Block Control Room",
         "type": "Location",
-        "uniqueness": "*",
-        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Death Star Detention Block Control Room (Light) (Errata)/image.png",
-        "printableSlipType": "ERRATA"
+        "uniqueness": "*"
       },
       "gempId": "7_280",
       "id": 671,
@@ -29128,9 +29128,7 @@
         "lore": "Produced by Sienar for TIE bombers and TIE defenders, using plans stolen from Slayn & Korpil by ISB agents. Often sold to bounty hunters and mercenaries by Black Sun.",
         "subType": "Starship",
         "title": "Intruder Missile",
-        "type": "Weapon",
-        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Intruder Missile (Light) (Errata)/image.png",
-        "printableSlipType": "ERRATA"
+        "type": "Weapon"
       },
       "gempId": "7_322",
       "id": 1324,
@@ -37762,9 +37760,7 @@
         "subType": "Site",
         "title": "•Naboo: Theed Palace Generator",
         "type": "Location",
-        "uniqueness": "*",
-        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Naboo Theed Palace Generator (Light) (V)/image.png",
-        "printableSlipType": "ERRATA"
+        "uniqueness": "*"
       },
       "gempId": "13_76",
       "id": 1741,
@@ -39936,9 +39932,7 @@
         "subType": "System",
         "title": "•Ord Mantell",
         "type": "Location",
-        "uniqueness": "*",
-        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Ord Mantell (Light) (Errata)/image.png",
-        "printableSlipType": "ERRATA"
+        "uniqueness": "*"
       },
       "gempId": "3_151",
       "id": 1853,
@@ -51343,9 +51337,7 @@
         "subType": "Site",
         "title": "•Tatooine: Watto's Junkyard",
         "type": "Location",
-        "uniqueness": "*",
-        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Tatooine Wattos Junkyard (Light) (Errata)/image.png",
-        "printableSlipType": "ERRATA"
+        "uniqueness": "*"
       },
       "gempId": "12_178",
       "id": 2478,
