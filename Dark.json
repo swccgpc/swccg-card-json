@@ -3565,7 +3565,7 @@
           "Hoth"
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/Hoth-Dark/large/atatcannon.gif",
-        "lore": "Laser cannons mounted on the head of an Imperial walker provide devastating coordinated firepower. Effective against a wide variety of targets.",
+        "lore": "Laser cannons mounted on the head of an Imperial walker provide devastating, coordinated firepower. Effective against a wide variety of targets.",
         "subType": "Vehicle",
         "title": "AT-AT Cannon",
         "type": "Weapon",
@@ -60233,6 +60233,56 @@
       "side": "Dark"
     },
     {
+      "abbr": [
+        "EPP Aurra"
+      ],
+      "front": {
+        "ability": "4",
+        "characteristics": [
+          "assassin",
+          "bounty hunter",
+          "female"
+        ],
+        "deploy": "4",
+        "destiny": "2",
+        "errataDate": "2023-02-01",
+        "errataNotes": "Added 'Female' to lore.",
+        "errataSymbol": "E1",
+        "extraText": [
+          "Force-Sensitive"
+        ],
+        "forfeit": "5",
+        "gametext": "Permanent weapon is •Aurra Sing's Blaster Rifle (may target a character for free; if targeting a Jedi, draw two destiny, otherwise draw destiny; target hit, and its forfeit = 0, if total destiny +1 > defense value).",
+        "icons": [
+          "Warrior",
+          "Permanent Weapon",
+          "Episode I",
+          "Set 12"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual12-Dark/large/aurrasingwithblasterrifle_ai2.gif",
+        "lore": "Female bounty hunter and assassin.",
+        "power": "4",
+        "subType": "Alien",
+        "title": "•Aurra Sing With Blaster Rifle (C-Slip AI)",
+        "type": "Character",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Aurra Sing With Blaster Rifle (AI - C-Slip)/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "212_3",
+      "id": 7228,
+      "legacy": false,
+      "previousId": 20018,
+      "printings": [
+        {
+          "set": "212"
+        }
+      ],
+      "rarity": "PM",
+      "set": "212",
+      "side": "Dark"
+    },
+    {
       "front": {
         "ability": "4",
         "characteristics": [
@@ -66407,7 +66457,7 @@
           "Episode I",
           "Set 3"
         ],
-        "imageUrl": "https://res.starwarsccg.org/cards/VirtualAlternateImage-Dark/large/darthmaullonehunter_ai.gif",
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual3-Dark/large/darthmaullonehunter_ai2.gif",
         "lore": "Trade Federation.",
         "power": "7",
         "subType": "Sith",
@@ -66432,7 +66482,66 @@
           "set": "203"
         }
       ],
-      "rarity": "U",
+      "rarity": "R",
+      "rulings": [
+        "Cancels game text of any version of the Amidala persona, including Padme."
+      ],
+      "set": "203",
+      "side": "Dark"
+    },
+    {
+      "cancels": [
+        "Amidala's game text"
+      ],
+      "combo": [
+        "Darth Maul, Lone Hunter + Maul Strikes",
+        "Darth Maul, Lone Hunter + The Phantom Menace While present with an opponent's Jedi, Maul is defense value +2 and immune to attrition.",
+        "Darth Maul, Lone Hunter + I Have You Now Add one battle destiny (two if Rebel is Luke) if a Dark Jedi and a Rebel with ability > 2 are involved in the same battle.",
+        "Darth Maul, Lone Hunter + Force Field Cancels an attempt to target a Dark Jedi with a character weapon."
+      ],
+      "front": {
+        "ability": "6",
+        "characteristics": [
+          "Trade Federation"
+        ],
+        "deploy": "6",
+        "destiny": "1",
+        "errataSymbol": "E1",
+        "extraText": [
+          "Dark Jedi"
+        ],
+        "forfeit": "8",
+        "gametext": "If drawn for destiny, may take into hand to cancel and redraw that destiny. Cancels Blaster Deflection (and Amidala's game text) here. Maul's weapon destiny draws may not be modified or canceled by opponent. Immune to attrition < 5.",
+        "icons": [
+          "Pilot",
+          "Warrior",
+          "Episode I",
+          "Set 3"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual3-Dark/large/darthmaullonehunter_ai3.gif",
+        "lore": "Trade Federation.",
+        "power": "7",
+        "subType": "Sith",
+        "title": "•Darth Maul, Lone Hunter (C-Slip AI 2)",
+        "type": "Character",
+        "uniqueness": "*"
+      },
+      "gempId": "203_26",
+      "id": 7229,
+      "legacy": false,
+      "matching": [
+        "Maul's Sith Infiltrator"
+      ],
+      "matchingWeapon": [
+        "Maul's Double-Bladed Lightsaber",
+        "Maul's Lightsaber"
+      ],
+      "printings": [
+        {
+          "set": "203"
+        }
+      ],
+      "rarity": "R",
       "rulings": [
         "Cancels game text of any version of the Amidala persona, including Padme."
       ],

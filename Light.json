@@ -35030,7 +35030,7 @@
           "Coruscant",
           "Set 1"
         ],
-        "imageUrl": "https://res.starwarsccg.org/cards/Virtual1-Light/large/macewindu_ai.gif",
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual1-Light/large/macewindu_ai2.gif",
         "lore": "Senior Jedi Council member who maintains rigorous adherence to the Code. Sent Qui-Gon to Naboo to accompany the Queen and learn more about the mysterious 'dark warrior'.",
         "power": "6",
         "subType": "Jedi Master",
@@ -35042,6 +35042,47 @@
       },
       "gempId": "201_42",
       "id": 7227,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "201"
+        }
+      ],
+      "rarity": "R",
+      "rulings": [
+        "Each lightsaber swing is a separate top-level action in the weapons segment (meaning the opponent gets an action between swings, you may take other actions between swings, etc).",
+        "The second swing may be at the same target or a different target from the first swing.",
+        "When using Sorry About The Mess to swing during the control phase, Mace only swings once. If Mace then battles later that turn, he may still swing twice in that battle."
+      ],
+      "set": "201",
+      "side": "Light"
+    },
+    {
+      "front": {
+        "ability": "7",
+        "deploy": "7",
+        "destiny": "1",
+        "extraText": [
+          "Jedi Master"
+        ],
+        "forfeit": "8",
+        "gametext": "During battle, Mace may 'swing' one lightsaber twice. Fetts may not add battle destiny draws here. Immune to attrition <6 (<8 if with a Dark Jedi).",
+        "icons": [
+          "Warrior",
+          "Episode I",
+          "Coruscant",
+          "Set 1"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual1-Light/large/macewindu_ai3.gif",
+        "lore": "Senior Jedi Council member who maintains rigorous adherence to the Code. Sent Qui-Gon to Naboo to accompany the Queen and learn more about the mysterious 'dark warrior'.",
+        "power": "6",
+        "subType": "Jedi Master",
+        "title": "•Mace Windu (V) (C-Slip AI 2)",
+        "type": "Character",
+        "uniqueness": "*"
+      },
+      "gempId": "201_42",
+      "id": 7230,
       "legacy": false,
       "printings": [
         {
@@ -62781,11 +62822,11 @@
           "Episode I",
           "Set 2"
         ],
-        "imageUrl": "https://res.starwarsccg.org/cards/Virtual2-Light/large/yodakeeperofthepeace.gif",
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual2-Light/large/yodakeeperofthepeace_ai.gif",
         "lore": "Yoda calls upon the Force often to try and foresee what destiny has in store. Jedi Council Member.",
         "power": "3",
         "subType": "Jedi Master",
-        "title": "•Yoda, Keeper Of The Peace (AI)",
+        "title": "•Yoda, Keeper Of The Peace (C-Slip AI)",
         "type": "Character",
         "uniqueness": "*",
         "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Yoda Keeper Of The Peace (AI C-Slip)/image.png",
@@ -62799,7 +62840,47 @@
           "set": "202"
         }
       ],
-      "rarity": "U",
+      "rarity": "R",
+      "rulings": [
+        "Preventing destiny draws from being modified even prevents global modifiers such as from the Silence Is Golden (V) and the Senate Objective.",
+        "Preventing destiny draws from being modified can be circumvented with a substituted destiny that has been modified <u>before</u> the substitution (e.g. Darklighter Spin on a modified maneuver value, or a senator on Sando Aqua Monster that is already receiving a global modifier from the Senate Objective)."
+      ],
+      "set": "202",
+      "side": "Light"
+    },
+    {
+      "conceptBy": "(Original concept by Sean Miller)",
+      "front": {
+        "ability": "7",
+        "deploy": "5",
+        "destiny": "1",
+        "errataSymbol": "E1",
+        "extraText": [
+          "Jedi Master"
+        ],
+        "forfeit": "7",
+        "gametext": "Deploys -1 to Coruscant. May lose 1 Force to cancel Force Lightning targeting your character present. Neither player may draw more than one battle destiny here (those destiny draws may not be modified or canceled). Immune to attrition.",
+        "icons": [
+          "Episode I",
+          "Set 2"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual2-Light/large/yodakeeperofthepeace_ai2.gif",
+        "lore": "Yoda calls upon the Force often to try and foresee what destiny has in store. Jedi Council Member.",
+        "power": "3",
+        "subType": "Jedi Master",
+        "title": "•Yoda, Keeper Of The Peace (C-Slip AI 2)",
+        "type": "Character",
+        "uniqueness": "*"
+      },
+      "gempId": "202_4",
+      "id": 7231,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "202"
+        }
+      ],
+      "rarity": "R",
       "rulings": [
         "Preventing destiny draws from being modified even prevents global modifiers such as from the Silence Is Golden (V) and the Senate Objective.",
         "Preventing destiny draws from being modified can be circumvented with a substituted destiny that has been modified <u>before</u> the substitution (e.g. Darklighter Spin on a modified maneuver value, or a senator on Sando Aqua Monster that is already receiving a global modifier from the Senate Objective)."
@@ -72444,7 +72525,8 @@
     },
     {
       "abbr": [
-        "HFTDG/HAC"
+        "HFTDG/HAC",
+        "Clones"
       ],
       "back": {
         "destiny": "7",
