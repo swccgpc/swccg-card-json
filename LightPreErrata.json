@@ -1286,7 +1286,7 @@
         "destiny": "5",
         "errataNotes": "This card was blanked (removed from the game) on July 15, 2023.",
         "errataSymbol": "E1",
-        "gametext": "If Jakku on table, deploy on table. Your Force generation is +1 at Jakku battlegrounds you occupy. During your deploy phase, may place a Resistance character from hand on top of Used Pile to take a Resistance character of equal or lesser ability into hand from Reserve Deck; reshuffle. (Immune to Alter.)",
+        "gametext": "If Jakku on table, deploy on table. Your Force generation is +1 at Jakku battlegrounds you occupy. During your deploy phase, may place a Resistance character from hand on top of Used Pile to take a Resistance character of equal or lesser ability into hand from Reserve Deck; reshuffle. [Immune to Alter.]",
         "icons": [
           "Set 9"
         ],
@@ -1297,8 +1297,9 @@
         "uniqueness": "*"
       },
       "gempId": "209_16",
-      "id": 5302,
+      "id": 40033,
       "legacy": false,
+      "nextId": 5302,
       "printings": [
         {
           "set": "209"
