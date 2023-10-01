@@ -3585,7 +3585,13 @@
       ],
       "rarity": "U1",
       "set": "3",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+        {
+          "cardId": 7234,
+          "title": "AT-AT Cannon (V)"
+        }
+      ]
     },
     {
       "front": {
@@ -7093,7 +7099,13 @@
       ],
       "rarity": "PM",
       "set": "108",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+        {
+          "cardId": 7236,
+          "title": "Boba Fett With Blaster Rifle (V)"
+        }
+      ]
     },
     {
       "abbr": [
@@ -7329,7 +7341,13 @@
       ],
       "rarity": "C",
       "set": "4",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+        {
+          "cardId": 7242,
+          "title": "Night Buzzard"
+        }
+      ]
     },
     {
       "front": {
@@ -13765,7 +13783,13 @@
       ],
       "rarity": "U2",
       "set": "2",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+        {
+          "cardId": 7237,
+          "title": "Danz Borin (V)"
+        }
+      ]
     },
     {
       "canceledBy": [
@@ -19946,7 +19970,13 @@
         "(Used) Weapon must be capable of firing and have an eligible target. Not required to have enough Force to fire. If a character with a permanent weapon has had their game text canceled, they cannot fire and therefore cannot use this function."
       ],
       "set": "5",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+        {
+          "cardId": 7247,
+          "title": "Vader's Machination"
+        }
+      ]
     },
     {
       "combo": [
@@ -28385,7 +28415,13 @@
         "If a ♢ site says it may not deploy to a Renegade planet, it may not be deployed by this Objective at start of game."
       ],
       "set": "7",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+        {
+          "cardId": 7261,
+          "title": "The Shield Will Be Down In Moments / Imperial Troops Have Entered The Base!"
+        }
+      ]
     },
     {
       "counterpart": "Rebel Pilot",
@@ -34882,7 +34918,13 @@
       ],
       "rarity": "U1",
       "set": "1",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+        {
+          "cardId": 7241,
+          "title": "Kylo, Master Of The Knights Of Ren"
+        }
+      ]
     },
     {
       "front": {
@@ -39308,7 +39350,13 @@
         "The phrase 'Droid is protected' means that further attempts are not allowed (they are prevented, not canceled)."
       ],
       "set": "3",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+        {
+          "cardId": 7240,
+          "title": "Hoth: Main Power Generators (1st Marker)"
+        }
+      ]
     },
     {
       "combo": [
@@ -40995,7 +41043,13 @@
       ],
       "rarity": "U",
       "set": "11",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+        {
+          "cardId": 7238,
+          "title": "Force Push & Podracer Collision"
+        }
+      ]
     },
     {
       "cancels": [
@@ -41543,7 +41597,13 @@
         "May deploy Naboo Occupation, which is immediately lost, then deploy No Escape to take it into hand. In this case Dark's starting hand will have 1 more card than usual."
       ],
       "set": "9",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+        {
+          "cardId": 7243,
+          "title": "Palpatine, Galactic Emperor"
+        }
+      ]
     },
     {
       "abbr": [
@@ -41834,8 +41894,18 @@
       "set": "3",
       "side": "Dark",
       "underlyingCardFor": [
-        "ID9 Probe Droid",
-        "Probot"
+        {
+          "cardId": 7239,
+          "title": "Holowan Laboratories"
+        },
+        {
+          "cardId": 6796,
+          "title": "ID9 Probe Droid"
+        },
+        {
+          "cardId": 4030,
+          "title": "Probot"
+        }
       ]
     },
     {
@@ -49877,7 +49947,13 @@
       ],
       "rarity": "F",
       "set": "7",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+        {
+          "cardId": 7233,
+          "title": "Ap'lek"
+        }
+      ]
     },
     {
       "front": {
@@ -50183,7 +50259,13 @@
         "This is both an epic event destiny draw and a weapon destiny draw."
       ],
       "set": "3",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+        {
+          "cardId": 7244,
+          "title": "Target The Main Generator (V)"
+        }
+      ]
     },
     {
       "front": {
@@ -54142,7 +54224,13 @@
         "Cards with multiple warrior icons can still only escort one captive at a time."
       ],
       "set": "1",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+        {
+          "cardId": 7246,
+          "title": "Tonnika Sisters (V)"
+        }
+      ]
     },
     {
       "canceledBy": [
@@ -57176,7 +57264,13 @@
       ],
       "rarity": "PM",
       "set": "104",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+        {
+          "cardId": 7248,
+          "title": "Walker Garrison (V)"
+        }
+      ]
     },
     {
       "front": {
@@ -57603,7 +57697,13 @@
       ],
       "rarity": "U",
       "set": "5",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+        {
+          "cardId": 7232,
+          "title": "A Fine Addition To My Collection"
+        }
+      ]
     },
     {
       "front": {
@@ -58586,7 +58686,13 @@
       ],
       "rarity": "R",
       "set": "8",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+        {
+          "cardId": 7235,
+          "title": "Black Krrsantan"
+        }
+      ]
     },
     {
       "cancels": [
@@ -59728,7 +59834,13 @@
       ],
       "rarity": "R1",
       "set": "1",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+        {
+          "cardId": 7249,
+          "title": "Your Powers Are Weak, Old Man (V)"
+        }
+      ]
     },
     {
       "front": {
@@ -68257,7 +68369,7 @@
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual22-Dark/large/hothmainpowergenerators.gif",
         "lightSideIcons": 1,
         "subType": "Site",
-        "title": "•Hoth: Main Power Generators",
+        "title": "•Hoth: Main Power Generators (1st Marker)",
         "type": "Location",
         "uniqueness": "*",
         "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Hoth Main Power Generators (Dark)/image.png",
