@@ -66120,7 +66120,6 @@
         }
       ],
       "pulledBy": [
-        "A Brave Resistance",
         "Leia's Resistance Transport"
       ],
       "rarity": "U",
@@ -72841,6 +72840,435 @@
       ],
       "rarity": "C",
       "set": "221",
+      "side": "Light"
+    },
+    {
+      "front": {
+        "destiny": "5",
+        "errataDate": "2023-10-02",
+        "errataNotes": "This card was blanked (removed from the game) from July 15, 2023 until October 2, 2023. Before being blanked, this was the E1 text: If Jakku on table, deploy on table. Your Force generation is +1 at Jakku battlegrounds you occupy. During your deploy phase, may place a Resistance character from hand on top of Used Pile to take a Resistance character of equal or lesser ability into hand from Reserve Deck; reshuffle. [Immune to Alter.]",
+        "errataSymbol": "E2",
+        "gametext": "If Jakku on table, deploy on table (only at start of game). Twice per game, may ▲ a Resistance leader. Resistance characters with printed forfeit < 6 are forfeit +1. Where you have a Resistance Agent, your total power is +3. Strike Planning is canceled. [Immune to Alter].",
+        "icons": [
+          "Episode VII",
+          "Set 9"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual9-Light/large/abraveresistance.gif",
+        "lore": "Blank.",
+        "title": "•A Brave Resistance",
+        "type": "Effect",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/A Brave Resistance/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "209_16",
+      "id": 5302,
+      "legacy": false,
+      "previousId": 40033,
+      "printings": [
+        {
+          "set": "209"
+        }
+      ],
+      "pulls": [
+        "Admiral U.O. Statura",
+        "Fleet Admiral Gial Ackbar",
+        "General Leia Organa",
+        "Lando, Hero Of The Rebellion",
+        "Larma D'Acy",
+        "Lor San Tekka",
+        "Poe Dameron",
+        "Vice Admiral Holdo"
+      ],
+      "rarity": "C1",
+      "set": "209",
+      "side": "Light"
+    },
+    {
+      "abbr": [
+        "APDv"
+      ],
+      "front": {
+        "destiny": "3",
+        "gametext": "USED: Cancel Crash Landing or High-speed Tactics. LOST: Target a T-47. For remainder of turn, target is maneuver +1 and immune to attrition. OR If you occupy three Hoth battlegrounds with T-47s, cancel a non-[Immune to Sense] Interrupt just played.",
+        "icons": [
+          "Hoth",
+          "Set 22"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual22-Light/large/attackpatterndelta.gif",
+        "lore": "Snowspeeder attack plan devised by Commander Skywalker and Rebel tactician Beryl Chifonage. Single-file formation protects the squadron as the leader draws fire.",
+        "subType": "Used Or Lost",
+        "title": "Attack Pattern Delta (V)",
+        "type": "Interrupt",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Attack Pattern Delta (V)/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "222_19",
+      "id": 7250,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "222"
+        }
+      ],
+      "rarity": "U1",
+      "set": "222",
+      "side": "Light"
+    },
+    {
+      "abbr": [
+        "EBTv",
+        "Adam Fletcher"
+      ],
+      "front": {
+        "ability": "2",
+        "deploy": "2",
+        "destiny": "3",
+        "forfeit": "4",
+        "gametext": "Power +1 on Hoth. Once per turn, may deploy a card with 'Echo' in title (except Echo Base Trooper or a location) from Reserve Deck; reshuffle. Once per turn, if on Hoth (or present with a Scomp link), may reveal the top card of each player's Reserve Deck.",
+        "icons": [
+          "Hoth",
+          "Warrior",
+          "Set 22"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual22-Light/large/echobasetrooper.gif",
+        "lore": "The personnel assigned to protect Echo Base are veteran warriors. Troopers such as Jess Allashane are trained to counter Imperial tactics in cold environments.",
+        "power": "2",
+        "subType": "Rebel",
+        "title": "Echo Base Trooper (V)",
+        "type": "Character",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Echo Base Trooper (V)/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "222_20",
+      "id": 7251,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "222"
+        }
+      ],
+      "rarity": "C3",
+      "set": "222",
+      "side": "Light"
+    },
+    {
+      "abbr": [
+        "GPD"
+      ],
+      "front": {
+        "ability": "3",
+        "deploy": "4",
+        "destiny": "1",
+        "extraText": [
+          "Force-Attuned"
+        ],
+        "forfeit": "6",
+        "gametext": "Adds 3 to power of anything he pilots. Draws one battle destiny if unable to otherwise. During battle, if opponent has a greater total number of characters and piloted starships here than you, may add one destiny to attrition. Immune to attrition < 3.",
+        "icons": [
+          "Episode VII",
+          "Pilot",
+          "Warrior",
+          "Set 22"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual22-Light/large/generalpoedameron.gif",
+        "lore": "Blank",
+        "power": "3",
+        "subType": "Resistance",
+        "title": "•General Poe Dameron",
+        "type": "Character",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/General Poe Dameron/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "222_21",
+      "id": 7252,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "222"
+        }
+      ],
+      "rarity": "C",
+      "set": "222",
+      "side": "Light"
+    },
+    {
+      "abbr": [
+        "HSTv"
+      ],
+      "front": {
+        "darkSideIcons": 2,
+        "destiny": "0",
+        "gametext": "Light: Your artillery weapons deploy -2 here. Once per game, may deploy an artillery weapon here from Reserve Deck; reshuffle. Dark: Your deploy costs may not be modified here.",
+        "icons": [
+          "Exterior",
+          "Planet",
+          "Hoth",
+          "Set 22"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual22-Light/large/hothsnowtrench.gif",
+        "lightSideIcons": 2,
+        "subType": "Site",
+        "title": "•Hoth: Snow Trench (V)",
+        "type": "Location",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Hoth Snow Trench (V)/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "222_22",
+      "id": 7253,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "222"
+        }
+      ],
+      "rarity": "C2",
+      "set": "222",
+      "side": "Light"
+    },
+    {
+      "abbr": [
+        "IRFA"
+      ],
+      "front": {
+        "destiny": "5",
+        "gametext": "USED: For remainder of turn, each player may only fire one weapon at each Cantina or [Reflections II] site. OR If your Mara in battle, add 1 to a just drawn battle destiny (2 if at a [Reflections II] site). LOST: Deploy Mara and a lightsaber simultaneously from hand and/or Reserve Deck; reshuffle.",
+        "icons": [
+          "Set 22"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual22-Light/large/imreadyforanything.gif",
+        "lore": "Smugglers and other rogues frequent spaceports along trade routes. 'Your friend is quite a mercenary. I wonder if he really cares about anything, or anybody.'",
+        "subType": "Used Or Lost",
+        "title": "•I'm Ready For Anything",
+        "type": "Interrupt",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/I'm Ready For Anything/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "222_23",
+      "id": 7254,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "222"
+        }
+      ],
+      "rarity": "C2",
+      "set": "222",
+      "side": "Light"
+    },
+    {
+      "abbr": [
+        "LRv"
+      ],
+      "front": {
+        "destiny": "4",
+        "gametext": "LOST: If your [Hoth] objective on table, take Dack or Wes into hand from Reserve Deck; reshuffle. STARTING: If a [Hoth] objective on table, deploy Echo Base Garrison and two Effects that deploy for free and are always immune to Alter. Place Interrupt in Lost Pile.",
+        "icons": [
+          "Premium",
+          "Set 22"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual22-Light/large/lonerogue.gif",
+        "lore": "The pilots at the Rebel Base on Hoth are trained to respond quickly to the Empire's forces. Many Rebels feel that they could take on the whole Empire themselves.",
+        "subType": "Lost Or Starting",
+        "title": "Lone Rogue (V)",
+        "type": "Interrupt",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Lone Rogue (V)/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "222_24",
+      "id": 7255,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "222"
+        }
+      ],
+      "rarity": "PM",
+      "set": "222",
+      "side": "Light"
+    },
+    {
+      "abbr": [
+        "NNSS"
+      ],
+      "front": {
+        "ability": "2",
+        "deploy": "2",
+        "destiny": "2",
+        "forfeit": "4",
+        "gametext": "Adds 2 to power of anything he pilots. While piloting a freighter, it is defense value +2 and opponent's immunity to attrition is limited to < 7 here (< 5 if Lando piloting here).",
+        "icons": [
+          "Pilot",
+          "Warrior",
+          "Set 22"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual22-Light/large/niennunbsullustansmuggler.gif",
+        "lore": "Brilliant navigator. Former SoroSuub employee. Turned to pirating when that corporation backed the Empire. Tall for a Sullustan.",
+        "power": "2",
+        "subType": "Alien/Rebel",
+        "title": "•Nien Nunb, Sullustan Smuggler",
+        "type": "Character",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Nien Nunb Sullustan Smuggler/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "222_25",
+      "id": 7256,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "222"
+        }
+      ],
+      "rarity": "R",
+      "set": "222",
+      "side": "Light"
+    },
+    {
+      "front": {
+        "destiny": "3",
+        "gametext": "Deploy on Rebel leader Leia. She is defense value and immunity to attrition +1. While at a battleground, Force drain +1 here and, whenever you initiate a battle with a Rebel of ability < 5, retrieve 1 Force (2 if Leia and an Imperial participating). Lost if a Jedi 'communing.' [Immune to Alter].",
+        "icons": [
+          "Dagobah",
+          "Set 22"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual22-Light/large/reflection.gif",
+        "lore": "It was hard to imagine the enormous losses the Alliance suffered during the Battle of Hoth. Leia contemplated what she could do to help the Rebellion recover.",
+        "title": "•Reflection (V)",
+        "type": "Effect",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Reflection (V)/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "222_26",
+      "id": 7257,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "222"
+        }
+      ],
+      "rarity": "R",
+      "set": "222",
+      "side": "Light"
+    },
+    {
+      "abbr": [
+        "TEKWH/PFGA",
+        "Speeders",
+        "Fridge"
+      ],
+      "back": {
+        "destiny": "7",
+        "gametext": "The Empire Knows We're Here: Deploy Hoth and 1st Marker. For remainder of game, Hoth Energy Shield does not extend beyond 1st Marker. You may not deploy Ice Storm, [Special Edition] Leia, systems, or characters of ability > 4. Echo Base Garrison is immune to Alter. Once per turn, may deploy Echo Command Center or a marker site from Reserve Deck; reshuffle. While this side up, your Force drains are +1 at Hoth system. During your control phase, if you occupy two battleground marker sites, retrieve 1 Force. Flip this card if opponent occupies your Hoth location. Prepare For Ground Assault: While this side up, cancels Hoth Sentry, Sunsdown, and the game text of your Admiral's Orders and unique (•) characters (except gunners, pilots, and troopers on table). Cards 'hit' by your artillery or vehicle weapons may not be used to satisfy attrition. If you just initiated battle, may peek at top X cards of your Used Pile, where X = number of Hoth battlegrounds you occupy; take one into hand and shuffle your Used Pile. Flip this card if opponent does not occupy your Hoth location.",
+        "icons": [
+          "Hoth",
+          "Set 22"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual22-Light/large/prepareforgroundassault.gif",
+        "title": "The Empire Knows We're Here / Prepare For Ground Assault",
+        "type": "Objective",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Prepare For Ground Assault/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "front": {
+        "destiny": "0",
+        "gametext": "The Empire Knows We're Here: Deploy Hoth and 1st Marker. For remainder of game, Hoth Energy Shield does not extend beyond 1st Marker. You may not deploy Ice Storm, [Special Edition] Leia, systems, or characters of ability > 4. Echo Base Garrison is immune to Alter. Once per turn, may deploy Echo Command Center or a marker site from Reserve Deck; reshuffle. While this side up, your Force drains are +1 at Hoth system. During your control phase, if you occupy two battleground marker sites, retrieve 1 Force. Flip this card if opponent occupies your Hoth location. Prepare For Ground Assault: While this side up, cancels Hoth Sentry, Sunsdown, and the game text of your Admiral's Orders and unique (•) characters (except gunners, pilots, and troopers on table). Cards 'hit' by your artillery or vehicle weapons may not be used to satisfy attrition. If you just initiated battle, may peek at top X cards of your Used Pile, where X = number of Hoth battlegrounds you occupy; take one into hand and shuffle your Used Pile. Flip this card if opponent does not occupy your Hoth location.",
+        "icons": [
+          "Hoth",
+          "Set 22"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual22-Light/large/theempireknowswerehere.gif",
+        "title": "The Empire Knows We're Here / Prepare For Ground Assault",
+        "type": "Objective",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/The Empire Knows We're Here/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "222_27",
+      "id": 7258,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "222"
+        }
+      ],
+      "rarity": "U",
+      "set": "222",
+      "side": "Light"
+    },
+    {
+      "abbr": [
+        "TIUMv"
+      ],
+      "front": {
+        "destiny": "5",
+        "gametext": "If His Destiny on table, deploy on table. Unless Wokling on table, your total Force generation is +1. Once per turn, may deploy a mobile docking bay from Reserve Deck; reshuffle. Once per game, during your move phase, may relocate Luke to same battleground as Prophecy Of The Force. [Immune to Alter.]",
+        "icons": [
+          "Death Star II",
+          "Set 22"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual22-Light/large/twilightisuponme.gif",
+        "lore": "When a Jedi dies, the spirit spreads through the Force and touches the living.",
+        "title": "•Twilight Is Upon Me (V)",
+        "type": "Effect",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Twilight Is Upon Me (V)/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "222_28",
+      "id": 7259,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "222"
+        }
+      ],
+      "rarity": "R",
+      "set": "222",
+      "side": "Light"
+    },
+    {
+      "abbr": [
+        "YS"
+      ],
+      "front": {
+        "ability": "6",
+        "deploy": "8",
+        "destiny": "6",
+        "extraText": [
+          "Jedi Knight"
+        ],
+        "forfeit": "9",
+        "gametext": "Adds 2 to power of anything he pilots. Deploys -3 to Endor. Power +2 while armed with Luke's Lightsaber. Once per game, may retrieve A Jedi's Focus or A Jedi's Fury into hand. Immune to attrition < 5 (< 6 while armed with Luke's Lightsaber).",
+        "icons": [
+          "Pilot",
+          "Warrior",
+          "Death Star II",
+          "Set 22"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual22-Light/large/youngskywalker.gif",
+        "lore": "'Greetings, Exalted One. Allow me to introduce myself. I am Luke Skywalker, Jedi Knight and friend to Captain Solo.' Scout.",
+        "power": "6",
+        "subType": "Rebel",
+        "title": "•Young Skywalker",
+        "type": "Character",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Young Skywalker/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "222_29",
+      "id": 7260,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "222"
+        }
+      ],
+      "rarity": "U",
+      "set": "222",
       "side": "Light"
     }
   ]

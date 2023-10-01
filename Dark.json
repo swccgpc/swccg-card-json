@@ -67961,6 +67961,687 @@
       "rarity": "R",
       "set": "221",
       "side": "Dark"
+    },
+    {
+      "abbr": [
+        "AFATMC"
+      ],
+      "front": {
+        "destiny": "5",
+        "gametext": "If Grievous just swung a lightsaber, add one battle destiny. OR Cancel an attempt to target Grievous with a lightsaber. OR Deploy any lightsaber from your Lost Pile on Grievous (he may use it until he is no longer carrying it).",
+        "icons": [
+          "Episode I",
+          "Set 22"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual22-Dark/large/afineadditiontomycollection.gif",
+        "lore": "Blank",
+        "subType": "Lost",
+        "title": "•A Fine Addition To My Collection",
+        "type": "Interrupt",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/A Fine Addition To My Collection/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "222_1",
+      "id": 7232,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "222"
+        }
+      ],
+      "rarity": "U",
+      "set": "222",
+      "side": "Dark"
+    },
+    {
+      "front": {
+        "ability": "3",
+        "deploy": "5",
+        "destiny": "3",
+        "extraText": [
+          "Force-Attuned"
+        ],
+        "forfeit": "6",
+        "gametext": "Adds one battle destiny. If opponent initiates battle here, retrieve 1 Force and add its destiny number to Ap'lek's power, or power of Night Buzzard he is piloting. End of your turn: * Use 1 or [Skull].",
+        "icons": [
+          "Episode VII",
+          "Pilot",
+          "Warrior",
+          "Set 22"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual22-Dark/large/aplek.gif",
+        "lore": "Knight of Ren.",
+        "power": "5",
+        "subType": "First Order",
+        "title": "•Ap'lek",
+        "type": "Character",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Ap'lek/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "222_2",
+      "id": 7233,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "222"
+        }
+      ],
+      "rarity": "F",
+      "set": "222",
+      "side": "Dark"
+    },
+    {
+      "abbr": [
+        "AACv"
+      ],
+      "front": {
+        "destiny": "3",
+        "gametext": "Deploy on your non-[Maintenance] AT-AT. May target a character or vehicle at same or adjacent site using 2 Force. Draw destiny. Add 1 if targeting a vehicle. Target hit if total destiny +1 > defense value. When fired by Target The Main Generator, adds 1 to total. Immune to Sabotage.",
+        "icons": [
+          "Hoth",
+          "Set 22"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual22-Dark/large/atatcannon.gif",
+        "lore": "Laser cannons mounted on the head of an Imperial walker provide devastating, coordinated firepower. Effective against a wide variety of targets.",
+        "subType": "Vehicle Weapon",
+        "title": "AT-AT Cannon (V)",
+        "type": "Weapon",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/AT-AT Cannon (V)/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "222_3",
+      "id": 7234,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "222"
+        }
+      ],
+      "rarity": "U1",
+      "set": "222",
+      "side": "Dark"
+    },
+    {
+      "abbr": [
+        "BK"
+      ],
+      "front": {
+        "ability": "2",
+        "armor": "5",
+        "deploy": "4",
+        "destiny": "2",
+        "forfeit": "5",
+        "gametext": "Vibro-Ax deploys free on Krrsantan. Power +1 while defending a battle. If a battle was just initiated here, each player who has four or more characters present with Krrsantan must choose one to return to hand.",
+        "icons": [
+          "Pilot",
+          "Warrior",
+          "Set 22"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual22-Dark/large/blackkrrsantan.gif",
+        "lore": "Wookiee bounty hunter and guard.",
+        "power": "6",
+        "subType": "Alien",
+        "title": "•Black Krrsantan",
+        "type": "Character",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Black Krrsantan/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "222_4",
+      "id": 7235,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "222"
+        }
+      ],
+      "rarity": "U",
+      "set": "222",
+      "side": "Dark"
+    },
+    {
+      "abbr": [
+        "BFWBRv",
+        "EPP Fett V"
+      ],
+      "front": {
+        "ability": "3",
+        "armor": "5",
+        "deploy": "4",
+        "destiny": "1",
+        "forfeit": "6",
+        "gametext": "Adds 2 to power of anything he pilots. Permanent weapon is •Boba Fett's Blaster Rifle (may target a character for free; draw destiny; if destiny > defense value, target captured; otherwise, if destiny +2 > defense value, target hit, is forfeit -3, and opponent loses 1 Force; may not be retargeted).",
+        "icons": [
+          "Premium",
+          "Pilot",
+          "Warrior",
+          "Permanent Weapon",
+          "Set 22"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual22-Dark/large/bobafettwithblasterrifle.gif",
+        "lore": "Notorious bounty hunter. 'As you wish.'",
+        "power": "5",
+        "subType": "Alien",
+        "title": "•Boba Fett With Blaster Rifle (V)",
+        "type": "Character",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Boba Fett With Blaster Rifle (V)/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "222_5",
+      "id": 7236,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "222"
+        }
+      ],
+      "rarity": "PM",
+      "set": "222",
+      "side": "Dark"
+    },
+    {
+      "abbr": [
+        "DBv"
+      ],
+      "front": {
+        "ability": "2",
+        "deploy": "3",
+        "destiny": "3",
+        "forfeit": "4",
+        "gametext": "Adds 3 to power of anything h pilots. While a passenger at Nal Hutta or Nar Shaddaa, your battle and weapon destiny draws (and Force drains) are +1 here. During your turn, opponent may use 3 Force to cancel Borin's game text until end of turn.",
+        "icons": [
+          "A New Hope",
+          "Pilot",
+          "Set 22"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual22-Dark/large/danzborin.gif",
+        "lore": "Cocky gunner and bounty hunter. Maintains a residence on Nar Shaddaa, the spaceport moon of the Hutt homeworld. To his companions' delight, he's nearly as good as he boasts.",
+        "power": "2",
+        "subType": "Alien",
+        "title": "•Danz Borin (V)",
+        "type": "Character",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Danz Borin (V)/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "222_6",
+      "id": 7237,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "222"
+        }
+      ],
+      "rarity": "U2",
+      "set": "222",
+      "side": "Dark"
+    },
+    {
+      "abbr": [
+        "FPPC"
+      ],
+      "front": {
+        "destiny": "4",
+        "gametext": "USED: If you just verified opponent's Reserve Deck, search that Reserve Deck and place one Interrupt (except Houjix) found there out of play. LOST: Once per game, exchange two cards from hand with any one card from Force Pile; reshuffle. Immune to Too Close For Comfort.",
+        "icons": [
+          "Episode I",
+          "Set 22"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual22-Dark/large/forcepushpodracercollision.gif",
+        "subType": "Used Or Lost",
+        "title": "•Force Push & •Podracer Collision",
+        "type": "Interrupt",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Force Push And Podracer Collision/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "222_7",
+      "id": 7238,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "222"
+        }
+      ],
+      "rarity": "U",
+      "set": "222",
+      "side": "Dark"
+    },
+    {
+      "abbr": [
+        "HL"
+      ],
+      "front": {
+        "destiny": "5",
+        "gametext": "Deploy on table. If your IG-88 or MagnaGuard was just lost, may place it here. Once per turn, may deploy a droid from here to same site as Insidious Prisoner as if from hand. While two MagnaGuards aboard Invisible Hand, Menace Fades is suspended. [Immune to Alter.]",
+        "icons": [
+          "Episode I",
+          "Set 22"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual22-Dark/large/holowanlaboratories.gif",
+        "title": "•Holowan Laboratories",
+        "type": "Effect",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Holowan Laboratories/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "222_8",
+      "id": 7239,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "222"
+        }
+      ],
+      "rarity": "C2",
+      "set": "222",
+      "side": "Dark"
+    },
+    {
+      "abbr": [
+        "HMPG"
+      ],
+      "front": {
+        "darkSideIcons": 0,
+        "destiny": "0",
+        "gametext": "Dark: If 'blown away,' Light Side loses 5 Force. Light: 'Hoth Energy Shield Rules' in effect. Your artillery weapons on Hoth are powered.",
+        "icons": [
+          "Exterior",
+          "Planet",
+          "Hoth",
+          "Set 22"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual22-Dark/large/hothmainpowergenerators.gif",
+        "lightSideIcons": 1,
+        "subType": "Site",
+        "title": "•Hoth: Main Power Generators",
+        "type": "Location",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Hoth Main Power Generators (Dark)/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "222_9",
+      "id": 7240,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "222"
+        }
+      ],
+      "rarity": "C2",
+      "set": "222",
+      "side": "Dark"
+    },
+    {
+      "abbr": [
+        "KMOTKOR"
+      ],
+      "front": {
+        "ability": "5",
+        "deploy": "6",
+        "destiny": "1",
+        "extraText": [
+          "Force-Sensitive"
+        ],
+        "forfeit": "7",
+        "gametext": "Adds 3 to power of anything he pilots. While in battle alone: your total power here is +3, battle destiny draws may not be added and, if defending, once per game may take an Interrupt (except Ghhhk) into hand from Reserve Deck; reshuffle. Immune to attrition < 4 (< 5 if alone).",
+        "icons": [
+          "Episode VII",
+          "Pilot",
+          "Warrior",
+          "Set 22"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual22-Dark/large/kylomasteroftheknightsofren.gif",
+        "lore": "Knight of Ren. Leader.",
+        "power": "6",
+        "subType": "First Order",
+        "title": "•Kylo, Master Of The Knights Of Ren",
+        "type": "Character",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Kylo Master Of The Knights Of Ren/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "222_10",
+      "id": 7241,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "222"
+        }
+      ],
+      "rarity": "U1",
+      "set": "222",
+      "side": "Dark"
+    },
+    {
+      "abbr": [
+        "NB"
+      ],
+      "front": {
+        "armor": "5",
+        "deploy": "4",
+        "destiny": "2",
+        "forfeit": "7",
+        "gametext": "May add 1 pilot and 3 passengers. Permanent pilot is •Kuruk, who provides ability of 3. Kylo and Knights of Ren deploy -1 to same and related locations. Immune to attrition < 4.",
+        "hyperspeed": "4",
+        "icons": [
+          "Episode VII",
+          "Scomp Link",
+          "First Order",
+          "Pilot",
+          "Nav Computer",
+          "Set 22"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual22-Dark/large/nightbuzzard.gif",
+        "lore": "Blank",
+        "power": "4",
+        "subType": "Starfighter: Oubliette-Class Transport",
+        "title": "•Night Buzzard",
+        "type": "Starship",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Night Buzzard/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "222_11",
+      "id": 7242,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "222"
+        }
+      ],
+      "rarity": "C",
+      "set": "222",
+      "side": "Dark"
+    },
+    {
+      "abbr": [
+        "PGE"
+      ],
+      "front": {
+        "ability": "7",
+        "deploy": "5",
+        "destiny": "6",
+        "extraText": [
+          "Dark Jedi Master"
+        ],
+        "forfeit": "9",
+        "gametext": "Never deploys or moves (even if carried) to a site opponent occupies. Once per turn, may take The Empire's Back into hand from Reserve Deck; reshuffle. Opponent may not limit your Force generation at your mobile sites. Immune to attrition.",
+        "icons": [
+          "Death Star II",
+          "Set 22"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual22-Dark/large/palpatinegalacticemperor.gif",
+        "lore": "Since the debacle at Yavin, the Emperor places a premium on the security of his costly war machine. Leader.",
+        "power": "4",
+        "subType": "Dark Jedi Master/Imperial",
+        "title": "•Palpatine, Galactic Emperor",
+        "type": "Character",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Palpatine Galactic Emperor/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "222_12",
+      "id": 7243,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "222"
+        }
+      ],
+      "rarity": "C",
+      "set": "222",
+      "side": "Dark"
+    },
+    {
+      "abbr": [
+        "TTMGv"
+      ],
+      "front": {
+        "destiny": "0",
+        "gametext": "Deploy on Ice Plains. Once per turn, a player who controls this site may have this card follow their vehicle moving from here to an adjacent marker site. At the start of your deploy phase, if at 3rd Marker or lower, your AT-AT Cannon here may fire (if within range of Main Power Generators) as follows: Draw destiny. Add 1 for each marker site you occupy (2 if you control). If total destiny > 8, Main Power Generators 'blown away.'",
+        "icons": [
+          "Hoth",
+          "Set 22"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual22-Dark/large/targetthemaingenerator.gif",
+        "title": "Target The Main Generator (V)",
+        "type": "Epic Event",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Target The Main Generator (V)/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "222_13",
+      "id": 7244,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "222"
+        }
+      ],
+      "rarity": "R2",
+      "set": "222",
+      "side": "Dark"
+    },
+    {
+      "abbr": [
+        "TSWBDIM/ITHETB",
+        "Walkers"
+      ],
+      "back": {
+        "destiny": "7",
+        "gametext": "The Shield Will Be Down In Moments: Deploy 5th Marker, [Set 17] 4th Marker, 1st Marker, and [Set 9] Prepare For A Surface Attack. For remainder of game, you may not deploy Rebel Base Occupation, Sunsdown, or Dark Jedi (except Vader). AT-AT cannons may not fire during your control phase. Echo Base Sensors is canceled. While this side up, once per turn, may deploy a Hoth location from Reserve Deck; reshuffle. Opponent loses no more than 1 Force to You May Start Your Landing. Flip this card if Main Power Generators 'blown away.' Imperial Troops Have Entered The Base!: While this side up, attrition against opponent is +1 for each Imperial leader in battle. Rebel Leadership and We're Doomed are Lost Interrupts. Once per turn, may deploy a snowtrooper from Reserve Deck; reshuffle. Once during your control phase, may choose: retrieve bottom card of Lost Pile into hand or peek at the top X cards from opponent's Reserve Deck, where X = number of Hoth locations you control; replace in any order. Place out of play if you do not occupy a Hoth site with an AT-AT, Imperial leader, or snowtrooper.",
+        "icons": [
+          "Hoth",
+          "Set 22",
+          "Special Edition"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual22-Dark/large/imperialtroopshaveenteredthebase.gif",
+        "title": "The Shield Will Be Down In Moments / Imperial Troops Have Entered The Base!",
+        "type": "Objective",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Imperial Troops Have Entered The Base/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "front": {
+        "destiny": "0",
+        "gametext": "The Shield Will Be Down In Moments: Deploy 5th Marker, [Set 17] 4th Marker, 1st Marker, and [Set 9] Prepare For A Surface Attack. For remainder of game, you may not deploy Rebel Base Occupation, Sunsdown, or Dark Jedi (except Vader). AT-AT cannons may not fire during your control phase. Echo Base Sensors is canceled. While this side up, once per turn, may deploy a Hoth location from Reserve Deck; reshuffle. Opponent loses no more than 1 Force to You May Start Your Landing. Flip this card if Main Power Generators 'blown away.' Imperial Troops Have Entered The Base!: While this side up, attrition against opponent is +1 for each Imperial leader in battle. Rebel Leadership and We're Doomed are Lost Interrupts. Once per turn, may deploy a snowtrooper from Reserve Deck; reshuffle. Once during your control phase, may choose: retrieve bottom card of Lost Pile into hand or peek at the top X cards from opponent's Reserve Deck, where X = number of Hoth locations you control; replace in any order. Place out of play if you do not occupy a Hoth site with an AT-AT, Imperial leader, or snowtrooper.",
+        "icons": [
+          "Hoth",
+          "Set 22",
+          "Special Edition"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual22-Dark/large/theshieldwillbedowninmoments.gif",
+        "title": "The Shield Will Be Down In Moments / Imperial Troops Have Entered The Base!",
+        "type": "Objective",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/The Shield Will Be Down In Moments/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "222_14",
+      "id": 7245,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "222"
+        }
+      ],
+      "rarity": "R",
+      "set": "222",
+      "side": "Dark"
+    },
+    {
+      "abbr": [
+        "TSv"
+      ],
+      "front": {
+        "ability": "2",
+        "deploy": "2",
+        "destiny": "2",
+        "forfeit": "2",
+        "gametext": "Assassins. Power and forfeit +2 at a cantina or night club. Twice during battle, may double your just drawn battle destiny of 2. Twice per game, if you have exactly two cards in hand, may draw two cards from Reserve Deck. Immune to Kiffex.",
+        "icons": [
+          "Warrior",
+          "Warrior",
+          "Set 22"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual22-Dark/large/tonnikasisters.gif",
+        "lore": "Twins. Thieves. Con artists. Spies. Swindlers. Double agents. Brea and Senni use their natural charm to sway the unwary on the fringe of society.",
+        "power": "2",
+        "subType": "Alien",
+        "title": "•Tonnika Sisters (V)",
+        "type": "Character",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Tonnika Sisters (V)/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "222_15",
+      "id": 7246,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "222"
+        }
+      ],
+      "rarity": "R1",
+      "set": "222",
+      "side": "Dark"
+    },
+    {
+      "abbr": [
+        "VM"
+      ],
+      "front": {
+        "destiny": "4",
+        "gametext": "If Vader's Malediction on table, deploy on table. Once per turn, may deploy a Mustafar location or a lightsaber from Reserve Deck; reshuffle. At start of opponent's control phase, Vader may relocate between [Cloud City] Chasm Walkway and opponent's battleground site as a regular move (for free). [Immune to Alter.]",
+        "icons": [
+          "Set 22"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual22-Dark/large/vadersmachination.gif",
+        "lore": "'Join me, and together we can rule the galaxy as father and son.'",
+        "title": "•Vader's Machination",
+        "type": "Effect",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Vader's Machination/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "222_16",
+      "id": 7247,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "222"
+        }
+      ],
+      "rarity": "R",
+      "set": "222",
+      "side": "Dark"
+    },
+    {
+      "abbr": [
+        "WGv"
+      ],
+      "front": {
+        "destiny": "4",
+        "gametext": "If your [Hoth] objective on table, choose: take [Premium] Veers or a [Premium] AT-AT into hand from Reserve Deck; reshuffle. OR Cancel a Force drain at a site if your AT-AT occupies a related battleground site. OR Retrieve an AT-AT Cannon.",
+        "icons": [
+          "Premium",
+          "Set 22"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual22-Dark/large/walkergarrison.gif",
+        "lore": "When efficiently deployed, a squadron of AT-ATs can quickly take control of a wide area, making it easy for Imperial forces to dominate a planet.",
+        "subType": "Lost",
+        "title": "Walker Garrison (V)",
+        "type": "Interrupt",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Walker Garrison (V)/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "222_17",
+      "id": 7248,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "222"
+        }
+      ],
+      "rarity": "PM",
+      "set": "222",
+      "side": "Dark"
+    },
+    {
+      "abbr": [
+        "YPAWOMv"
+      ],
+      "front": {
+        "destiny": "5",
+        "gametext": "If opponent just lost a battle, they lose 2 Force. OR During battle, if Obi-Wan is participating (or 'communing'), add one battle destiny; characters may not be 'revived' this turn. OR Cancel Clash Of Sabers targeting your Dark Jedi.",
+        "icons": [
+          "Set 22"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual22-Dark/large/yourpowersareweakoldman.gif",
+        "lore": "'You should not have come back.'",
+        "subType": "Lost",
+        "title": "Your Powers Are Weak, Old Man (V)",
+        "type": "Interrupt",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Your Powers Are Weak Old Man/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "222_18",
+      "id": 7249,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "222"
+        }
+      ],
+      "rarity": "R1",
+      "set": "222",
+      "side": "Dark"
+    },
+    {
+      "abbr": [
+        "TSWBDIM/ITHETB",
+        "Walkers"
+      ],
+      "back": {
+        "destiny": "7",
+        "gametext": "The Shield Will Be Down In Moments: Deploy 5th Marker, [Set 17] 4th Marker, 1st Marker, and [Set 9] Prepare For A Surface Attack. For remainder of game, you may not deploy Rebel Base Occupation, Sunsdown, or Dark Jedi (except Vader). AT-AT cannons may not fire during your control phase. Echo Base Sensors is canceled. While this side up, once per turn, may deploy a Hoth location from Reserve Deck; reshuffle. Opponent loses no more than 1 Force to You May Start Your Landing. Flip this card if Main Power Generators 'blown away.' Imperial Troops Have Entered The Base!: While this side up, attrition against opponent is +1 for each Imperial leader in battle. Rebel Leadership and We're Doomed are Lost Interrupts. Once per turn, may deploy a snowtrooper from Reserve Deck; reshuffle. Once during your control phase, may choose: retrieve bottom card of Lost Pile into hand or peek at the top X cards from opponent's Reserve Deck, where X = number of Hoth locations you control; replace in any order. Place out of play if you do not occupy a Hoth site with an AT-AT, Imperial leader, or snowtrooper.",
+        "icons": [
+          "Hoth",
+          "Set 22",
+          "Special Edition"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual22-Dark/large/imperialtroopshaveenteredthebase_ai.gif",
+        "title": "The Shield Will Be Down In Moments / Imperial Troops Have Entered The Base! (AI)",
+        "type": "Objective",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Imperial Troops Have Entered The Base (AI)/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "front": {
+        "destiny": "0",
+        "gametext": "The Shield Will Be Down In Moments: Deploy 5th Marker, [Set 17] 4th Marker, 1st Marker, and [Set 9] Prepare For A Surface Attack. For remainder of game, you may not deploy Rebel Base Occupation, Sunsdown, or Dark Jedi (except Vader). AT-AT cannons may not fire during your control phase. Echo Base Sensors is canceled. While this side up, once per turn, may deploy a Hoth location from Reserve Deck; reshuffle. Opponent loses no more than 1 Force to You May Start Your Landing. Flip this card if Main Power Generators 'blown away.' Imperial Troops Have Entered The Base!: While this side up, attrition against opponent is +1 for each Imperial leader in battle. Rebel Leadership and We're Doomed are Lost Interrupts. Once per turn, may deploy a snowtrooper from Reserve Deck; reshuffle. Once during your control phase, may choose: retrieve bottom card of Lost Pile into hand or peek at the top X cards from opponent's Reserve Deck, where X = number of Hoth locations you control; replace in any order. Place out of play if you do not occupy a Hoth site with an AT-AT, Imperial leader, or snowtrooper.",
+        "icons": [
+          "Hoth",
+          "Set 22",
+          "Special Edition"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual22-Dark/large/theshieldwillbedowninmoments_ai.gif",
+        "title": "The Shield Will Be Down In Moments / Imperial Troops Have Entered The Base! (AI)",
+        "type": "Objective",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/The Shield Will Be Down In Moments (AI)/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "222_30",
+      "id": 7261,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "222"
+        }
+      ],
+      "rarity": "R",
+      "set": "222",
+      "side": "Dark"
     }
   ]
 }
