@@ -3218,7 +3218,14 @@
       "set": "7",
       "side": "Light",
       "underlyingCardFor": [
-        "Antilles Maneuver (V)"
+        {
+          "cardId": 4001,
+          "title": "Antilles Maneuver (V)"
+        },
+        {
+          "cardId": 7252,
+          "title": "General Poe Dameron"
+        }
       ]
     },
     {
@@ -4415,7 +4422,13 @@
       ],
       "rarity": "U1",
       "set": "3",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        {
+          "cardId": 7250,
+          "title": "Attack Pattern Delta (V)"
+        }
+      ]
     },
     {
       "combo": [
@@ -16934,7 +16947,14 @@
       "set": "3",
       "side": "Light",
       "underlyingCardFor": [
-        "Taidu Sefla"
+        {
+          "cardId": 5934,
+          "title": "Taidu Sefla"
+        },
+        {
+          "cardId": 7251,
+          "title": "Echo Base Trooper (V)"
+        }
       ]
     },
     {
@@ -25236,7 +25256,13 @@
         "Also increases any special requirements such as on A Jedi's Strength."
       ],
       "set": "7",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        {
+          "cardId": 7258,
+          "title": "The Empire Knows We're Here / Prepare For Ground Assault"
+        }
+      ]
     },
     {
       "front": {
@@ -25568,7 +25594,13 @@
       ],
       "rarity": "C2",
       "set": "3",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        {
+          "cardId": 7253,
+          "title": "Hoth: Snow Trench (2nd Marker) (V)"
+        }
+      ]
     },
     {
       "cancels": [
@@ -33538,7 +33570,13 @@
       ],
       "rarity": "PM",
       "set": "104",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        {
+          "cardId": 7255,
+          "title": "Lone Rogue (V)"
+        }
+      ]
     },
     {
       "front": {
@@ -39050,7 +39088,13 @@
       ],
       "rarity": "R",
       "set": "9",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        {
+          "cardId": 7256,
+          "title": "Nien Nunb, Sullustan Smuggler"
+        }
+      ]
     },
     {
       "canceledBy": [
@@ -43186,7 +43230,14 @@
       "set": "6",
       "side": "Light",
       "underlyingCardFor": [
-        "Force Projection"
+        {
+          "cardId": 5527,
+          "title": "Force Projection"
+        },
+        {
+          "cardId": 7260,
+          "title": "Young Skywalker"
+        }
       ]
     },
     {
@@ -44216,8 +44267,18 @@
       "set": "2",
       "side": "Light",
       "underlyingCardFor": [
-        "Boba",
-        "Quite A Mercenary (V)"
+        {
+          "cardId": 6983,
+          "title": "Boba"
+        },
+        {
+          "cardId": 6586,
+          "title": "Quite A Mercenary (V)"
+        },
+        {
+          "cardId": 7254,
+          "title": "I'm Ready For Anything"
+        }
       ]
     },
     {
@@ -47195,7 +47256,14 @@
       "set": "4",
       "side": "Light",
       "underlyingCardFor": [
-        "General Leia Organa"
+        {
+          "cardId": 5168,
+          "title": "General Leia Organa"
+        },
+        {
+          "cardId": 7257,
+          "title": "Reflection (V)"
+        }
       ]
     },
     {
@@ -53598,7 +53666,10 @@
       "set": "1",
       "side": "Light",
       "underlyingCardFor": [
-        "A Brave Resistance"
+        {
+          "cardId": 5302,
+          "title": "A Brave Resistance"
+        }
       ]
     },
     {
@@ -58582,7 +58653,13 @@
       ],
       "rarity": "R",
       "set": "9",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        {
+          "cardId": 7259,
+          "title": "Twilight Is Upon Me (V)"
+        }
+      ]
     },
     {
       "front": {
@@ -73010,7 +73087,7 @@
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual22-Light/large/hothsnowtrench.gif",
         "lightSideIcons": 2,
         "subType": "Site",
-        "title": "•Hoth: Snow Trench (V)",
+        "title": "•Hoth: Snow Trench (2nd Marker) (V)",
         "type": "Location",
         "uniqueness": "*",
         "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Hoth Snow Trench (V)/image.png",
