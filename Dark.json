@@ -19422,6 +19422,7 @@
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/Coruscant-Dark/large/edcelbargane.gif",
         "lore": "Senator from the planet Roona. One of the first to support Amidala's motion for a vote of no confidence in Supreme Chancellor Valorum. Intolerant of other species.",
+        "politics": "2",
         "power": "1",
         "subType": "Republic",
         "title": "•Edcel Bar Gane",
@@ -28186,7 +28187,8 @@
       ],
       "rarity": "R",
       "rulings": [
-        "You may deploy (for example) Mara Jade, The Emperor's Hand."
+        "You may deploy (for example) Mara Jade, The Emperor's Hand.",
+        "Your initial Tatooine battleground site at the start of the game could be a Jabba's Palace site such as the Audience Chamber. The 'no Jabba's Palace' restriction kicks in after that."
       ],
       "set": "201",
       "side": "Dark"
@@ -30543,8 +30545,7 @@
         "Dengar's Blaster Carbine",
         "Dengar's Modified Riot Gun",
         "Disruptor Pistol",
-        "Dr",
-        "Evazan's Sawed-off Blaster",
+        "Dr. Evazan's Sawed-off Blaster",
         "Feltipern Trevagg's Stun Rifle",
         "Fett's Blaster Rifle (V)",
         "IG-88's Neural Inhibitor",
@@ -30563,6 +30564,9 @@
         "Zuckuss' Snare Rifle"
       ],
       "rarity": "U",
+      "rulings": [
+        "(1st function) This works with a bounty hunter with a permanent weapon (e.g. Boba Fett With Blaster Rifle)."
+      ],
       "set": "7",
       "side": "Dark"
     },
@@ -31016,7 +31020,7 @@
           "A New Hope"
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/ANewHope-Dark/large/jawablaster.gif",
-        "lore": "Built from scavenged parts, Jawa blaster are not required to adhere to any design standards. An etching on this stock warns 'datinni greb zroom.'",
+        "lore": "Built from scavenged parts, Jawa blasters are not required to adhere to any design standards. An etching on this stock warns 'datinni greb zroom.'",
         "subType": "Character",
         "title": "Jawa Blaster",
         "type": "Weapon",
@@ -68107,6 +68111,10 @@
       "side": "Dark"
     },
     {
+      "abbr": [
+        "Aplek",
+        "Aflac / Aflak"
+      ],
       "front": {
         "ability": "3",
         "deploy": "5",
@@ -68646,6 +68654,9 @@
         }
       ],
       "rarity": "R",
+      "rulings": [
+        "Vader may relocate in either direction (to or from Chasm Walkway)."
+      ],
       "set": "222",
       "side": "Dark"
     },
