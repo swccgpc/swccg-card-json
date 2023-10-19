@@ -3474,6 +3474,9 @@
         }
       ],
       "rarity": "C2",
+      "rulings": [
+        "(2nd function) The character being deployed back to the site is not participating in the battle in progress and is therefore inactive, and may not use any 'just deployed' text such as on Rey. This is true even if no further forfeiting is planned for the battle (the damage segment has not ended until both players pass)."
+      ],
       "set": "204",
       "side": "Light"
     },
@@ -16926,7 +16929,7 @@
           "Hoth"
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/Hoth-Light/large/echobasetrooper.gif",
-        "lore": "The personnel assigned to protect Echo Base are veteran warriors. Troopers such as Jess Allashane are trained to counter Imperial tactics in cold environment.",
+        "lore": "The personnel assigned to protect Echo Base are veteran warriors. Troopers such as Jess Allashane are trained to counter Imperial tactics in cold environments.",
         "power": "2",
         "subType": "Rebel",
         "title": "Echo Base Trooper",
@@ -24724,12 +24727,12 @@
       "front": {
         "destiny": "5",
         "errataSymbol": "E1",
-        "gametext": "Deploy on C-3PO. Eyes In The Dark, The Professor, Mantellian Savrip and Hopping Mad are immune to Alter. Also, at the end of every turn, unless C-3PO is present with a Wookiee, you may examine the cards in your Used Pile. (Immune to Alter.)",
+        "gametext": "Deploy on C-3PO. Eyes In The Dark, The Professor, Mantellian Savrip and Hopping Mad are immune to Alter. Also, during each draw phase, unless C-3PO is present with a Wookiee, you may examine the cards in your Used Pile. (Immune to Alter.)",
         "icons": [
           "Cloud City"
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/CloudCity-Light/large/hindsight.gif",
-        "lore": "'I'm backwards! You fleabitten furball...only an overgrown mophead like you would be stupid enough--'",
+        "lore": "'I'm backwards! You fleabitten furball... only an overgrown mophead like you would be stupid enough-'",
         "title": "•Hindsight",
         "type": "Effect",
         "uniqueness": "*",
@@ -24750,6 +24753,10 @@
         "Wokling (V)"
       ],
       "rarity": "R",
+      "rulings": [
+        "Lore: 'I'm backwards! You fleabitten furball... only an overgrown mophead like you would be stupid enough-'",
+        "Game text: Deploy on C-3PO. Eyes In The Dark, The Professor, Mantellian Savrip and Hopping Mad are immune to Alter. Also, during each draw phase, unless C-3PO is present with a Wookiee, you may examine the cards in your Used Pile. (Immune to Alter.)"
+      ],
       "set": "5",
       "side": "Light"
     },
@@ -24779,6 +24786,9 @@
         }
       ],
       "rarity": "R",
+      "rulings": [
+        "Uses the 'move away' rules, meaning the starship(s) must move away via hyperspeed, sector movement, or between a system and an orbiting Death Star. No other forms of movement (no landing/taking off, embarking/disembarking, etc)."
+      ],
       "set": "7",
       "side": "Light"
     },
@@ -24798,7 +24808,7 @@
           "Jabba's Palace"
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/JabbasPalace-Light/large/hnemthe.gif",
-        "lore": "Starfaring explorers. H'nemthe have a reputation for being sly and unforgiving. Many abandoned their homeworld after the Empire invaded. The females ritually kill their males.",
+        "lore": "Starfaring explorers. H'nemthe have a reputation for being sly and unforgiving. Many abandoned their homeworld after the Empire invaded. The females ritually kill their mates.",
         "power": "1",
         "subType": "Alien",
         "title": "H'nemthe",
@@ -34032,7 +34042,9 @@
       ],
       "rarity": "PM",
       "rulings": [
-        "Luke is counted as a character when determining the Dark Side destiny draw required for Always Thinking With Your Stomach. If the draw is successful, Luke cannot be chosen to be missing."
+        "Luke is counted as a character when determining the Dark Side destiny draw required for Always Thinking With Your Stomach. If the draw is successful, Luke cannot be chosen to be missing.",
+        "If Luke cancels the immunity to attrition of a vehicle outside of battle, it lasts until the vehicle leaves play.",
+        "If Luke cancels the immunity to attrition of a vehicle during battle, it lasts until the end of the battle or until vehicle leaves play, whichever happens first."
       ],
       "set": "10",
       "side": "Light",
@@ -37689,6 +37701,9 @@
       "side": "Light"
     },
     {
+      "abbr": [
+        "MTAP"
+      ],
       "front": {
         "destiny": "4",
         "errataSymbol": "E1",
@@ -41323,6 +41338,7 @@
         "forfeit": "7",
         "gametext": "Cancels Vader's game text here. If with a Skywalker, may add one destiny to attrition. Immune to attrition < 3.",
         "icons": [
+          "Episode I",
           "Warrior",
           "Tatooine",
           "Set 3"
@@ -41366,6 +41382,7 @@
         "forfeit": "7",
         "gametext": "Cancels Vader's game text here. If with a Skywalker, may add one destiny to attrition. Immune to attrition < 3.",
         "icons": [
+          "Episode I",
           "Warrior",
           "Tatooine",
           "Set 3"
@@ -47656,7 +47673,8 @@
         "USED function works at the following locations: Any Cloud City site, any system (including Bespin), and any cloud sector connected to Cloud City or Bespin (including Bespin: Cloud City). It does not work at any asteroid sectors.",
         "The first function works against Gravity Shadow only if Gravity Shadow was targeting a pilot character (not a permanent pilot).",
         "The second function plays during the weapons segment, scheduling the 'battle destiny if unable to otherwise' for later.",
-        "Generally, a destiny draw is targeting ability or defense value if it is used in a comparison or calculation involving ability or defense value. However, RITCv does not combo 'offensively' with Wookiee Strangle or other cards that cause both players to draw destiny."
+        "Generally, a destiny draw is targeting ability or defense value if it is used in a comparison or calculation involving ability or defense value. However, RITCv does not combo 'offensively' with Wookiee Strangle or other cards that cause both players to draw destiny.",
+        "This card does not cancel a Hidden Weapons destiny draw."
       ],
       "set": "209",
       "side": "Light"
@@ -51677,6 +51695,9 @@
         }
       ],
       "rarity": "C",
+      "rulings": [
+        "This works with permanent weapons (e.g. Leia With Blaster Rifle) - except lightsabers, of course."
+      ],
       "set": "7",
       "side": "Light",
       "underlyingCardFor": [
@@ -57805,7 +57826,7 @@
       ],
       "front": {
         "destiny": "3",
-        "gametext": "At the end of any player's draw phase, cause that player to place Used Pile face up on top of Reserve Deck. Shuffle, cut, and replace. When face up cards are removed from Reserve Deck, they are treated as normal (no longer face up).",
+        "gametext": "At the end of any player's draw phase, cause that player to place Used Pile face up on top of Reserve Deck. Shuffle, cut, and replace. When face-up cards are removed from Reserve Deck, they are treated as normal (no longer remain face up).",
         "icons": [
           "Dagobah"
         ],
@@ -57825,6 +57846,8 @@
       ],
       "rarity": "R",
       "rulings": [
+        "Lore: One training exercise for a Jedi's apprentice is to invert one's view to see things from a different perspective. 'The future, the past. Old friends long gone.'",
+        "Game text: At the end of any player's draw phase, cause that player to place Used Pile face up on top of Reserve Deck. Shuffle, cut, and replace. When face-up cards are removed from Reserve Deck, they are treated as normal (no longer remain face up).",
         "Players may <u>not</u> look through the Reserve Deck to see where the cards are. A judge may be requested to count the Reserve Deck.",
         "Player may activate Force 1 at a time, look at the top card of Reserve Deck, and stop activating based on what they see."
       ],
@@ -62746,6 +62769,11 @@
         "You Seek Yoda"
       ],
       "rarity": "R",
+      "rulings": [
+        "Yoda's battle and attack prevention text affects both players.",
+        "'Where present am I' means Yoda must be present at the location (not inside a starship or enclosed vehicle). This also means it could only work at a site.",
+        "Effective game text: Deploys only on Dagobah. When the mentor, adds 1 to training destiny. While present at a site (and no opponent's character of ability > 3 present here), battles and attacks may not be initiated here. Immune to attrition."
+      ],
       "set": "4",
       "side": "Light",
       "underlyingCardFor": [
