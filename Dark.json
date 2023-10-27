@@ -5380,9 +5380,7 @@
         "subType": "Starfighter: TIE/LN",
         "title": "•Black 2",
         "type": "Starship",
-        "uniqueness": "*",
-        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Black 2/image.png",
-        "printableSlipType": "ERRATA"
+        "uniqueness": "*"
       },
       "gempId": "1_299",
       "id": 247,
@@ -5436,7 +5434,7 @@
         "title": "•Black 2 (V)",
         "type": "Starship",
         "uniqueness": "*",
-        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Black 5 (V)/image.png",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Black 2/image.png",
         "printableSlipType": "VIRTUAL"
       },
       "gempId": "200_127",
@@ -5616,7 +5614,9 @@
         "subType": "Starfighter: TIE/LN",
         "title": "•Black 5",
         "type": "Starship",
-        "uniqueness": "*"
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Black 5 (V)/image.png",
+        "printableSlipType": "VIRTUAL"
       },
       "gempId": "200_128",
       "id": 4053,
