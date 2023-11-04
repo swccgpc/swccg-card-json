@@ -40116,7 +40116,8 @@
       "front": {
         "ability": "2",
         "characteristics": [
-          "Gamorrean"
+          "Gamorrean",
+          "guard"
         ],
         "deploy": "4",
         "destiny": "3",
@@ -40131,9 +40132,7 @@
         "subType": "Alien",
         "title": "•Ortugg",
         "type": "Character",
-        "uniqueness": "*",
-        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Ortugg/image.png",
-        "printableSlipType": "ERRATA"
+        "uniqueness": "*"
       },
       "gempId": "6_118",
       "id": 1862,
@@ -40156,7 +40155,8 @@
       "front": {
         "ability": "2",
         "characteristics": [
-          "Gamorrean"
+          "Gamorrean",
+          "guard"
         ],
         "deploy": "3",
         "destiny": "3",
@@ -40174,7 +40174,9 @@
         "subType": "Alien",
         "title": "•Ortugg (V)",
         "type": "Character",
-        "uniqueness": "*"
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Ortugg/image.png",
+        "printableSlipType": "VIRTUAL"
       },
       "gempId": "203_28",
       "id": 5025,
