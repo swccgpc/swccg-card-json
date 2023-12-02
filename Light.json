@@ -415,7 +415,8 @@
       "set": "4",
       "side": "Light",
       "underlyingCardFor": [
-        "Rey, All Of The Jedi"
+        "Rey, All Of The Jedi",
+        "Rey, All Of The Jedi (AI)"
       ]
     },
     {
@@ -3643,7 +3644,10 @@
     {
       "front": {
         "destiny": "4",
-        "gametext": "Use 2 Force to deploy on any warrior. Your artillery weapons anywhere on same planet may fire without a warrior present. Also, once each turn during your control phase, one of your artillery weapons on same planet may be fired (at normal use of the Force).",
+        "errataDate": "2023-10-07",
+        "errataNotes": "Clarifies that the Warrior with the remote is firing the weapons remotely.",
+        "errataSymbol": "E1",
+        "gametext": "Use 2 Force to deploy on your warrior. Warrior may fire artillery weapons anywhere on same planet regardless of being present. Once during your control phase, warrior may fire an artillery weapon on same planet.",
         "icons": [
           "Hoth"
         ],
@@ -3655,6 +3659,7 @@
       "gempId": "3_28",
       "id": 135,
       "legacy": false,
+      "previousId": 40034,
       "printings": [
         {
           "set": "3"
@@ -5523,7 +5528,8 @@
       "set": "1",
       "side": "Light",
       "underlyingCardFor": [
-        "Jyn Erso"
+        "Jyn Erso",
+        "Jyn Erso (AI)"
       ]
     },
     {
@@ -7096,7 +7102,8 @@
       "set": "2",
       "side": "Light",
       "underlyingCardFor": [
-        "BB-8 (Beebee-Ate)"
+        "BB-8 (Beebee-Ate)",
+        "BB-8 (Beebee-Ate) (AI)"
       ]
     },
     {
@@ -10536,7 +10543,8 @@
       "set": "5",
       "side": "Light",
       "underlyingCardFor": [
-        "Jakku: Rey's Encampment"
+        "Jakku: Rey's Encampment",
+        "Jakku: Rey's Encampment (AI)"
       ]
     },
     {
@@ -11183,9 +11191,6 @@
       ]
     },
     {
-      "abbr": [
-        "Frozen Farmboy"
-      ],
       "front": {
         "ability": "4",
         "characteristics": [
@@ -22561,7 +22566,8 @@
       "set": "9",
       "side": "Light",
       "underlyingCardFor": [
-        "Plo Koon's Jedi Starfighter"
+        "Plo Koon's Jedi Starfighter",
+        "Plo Koon's Jedi Starfighter (AI)"
       ]
     },
     {
@@ -30712,7 +30718,8 @@
       "set": "1",
       "side": "Light",
       "underlyingCardFor": [
-        "Qi'ra"
+        "Qi'ra",
+        "Qi'ra (AI)"
       ]
     },
     {
@@ -34214,7 +34221,7 @@
         "Camie",
         "Luke's Back"
       ],
-      "rarity": "R1",
+      "rarity": "U",
       "set": "208",
       "side": "Light"
     },
@@ -34836,7 +34843,8 @@
       "set": "9",
       "side": "Light",
       "underlyingCardFor": [
-        "Leia's Resistance Transport"
+        "Leia's Resistance Transport",
+        "Leia's Resistance Transport (AI)"
       ]
     },
     {
@@ -40928,7 +40936,8 @@
       "set": "2",
       "side": "Light",
       "underlyingCardFor": [
-        "A Power Loss"
+        "A Power Loss",
+        "A Power Loss (AI)"
       ]
     },
     {
@@ -44510,7 +44519,8 @@
       "set": "2",
       "side": "Light",
       "underlyingCardFor": [
-        "R2-D2 (Artoo-Detoo) (V)"
+        "R2-D2 (Artoo-Detoo) (V)",
+        "R2-D2 (Artoo-Detoo) (V) (AI)"
       ]
     },
     {
@@ -47276,6 +47286,10 @@
         {
           "cardId": 5168,
           "title": "General Leia Organa"
+        },
+        {
+          "cardId": 7278,
+          "title": "General Leia Organa (AI)"
         },
         {
           "cardId": 7257,
@@ -52033,8 +52047,7 @@
     },
     {
       "abbr": [
-        "SOS",
-        "Muddy Farmboy"
+        "SOS"
       ],
       "combo": [
         "Son Of Skywalker + Encampment  Deploy regardless of location deployment restrictions."
@@ -55743,7 +55756,8 @@
       "set": "7",
       "side": "Light",
       "underlyingCardFor": [
-        "Jakku: Tuanul Village"
+        "Jakku: Tuanul Village",
+        "Jakku: Tuanul Village (AI)"
       ]
     },
     {
@@ -56783,7 +56797,8 @@
       "set": "7",
       "side": "Light",
       "underlyingCardFor": [
-        "Luke Skywalker, The Rebellion's Hope"
+        "Luke Skywalker, The Rebellion's Hope",
+        "Luke Skywalker, The Rebellion's Hope (AI)"
       ]
     },
     {
@@ -57976,7 +57991,8 @@
       "set": "5",
       "side": "Light",
       "underlyingCardFor": [
-        "Finn"
+        "Finn",
+        "Finn (AI)"
       ]
     },
     {
@@ -63245,7 +63261,8 @@
       "set": "4",
       "side": "Light",
       "underlyingCardFor": [
-        "Din Djarin"
+        "Din Djarin",
+        "Din Djarin (AI)"
       ]
     },
     {
@@ -64546,7 +64563,7 @@
           "set": "213"
         }
       ],
-      "rarity": "C",
+      "rarity": "R1",
       "set": "213",
       "side": "Light"
     },
@@ -73376,6 +73393,635 @@
       ],
       "rarity": "U",
       "set": "222",
+      "side": "Light"
+    },
+    {
+      "front": {
+        "destiny": "0",
+        "gametext": "Deploy on Central Core. Leia may not modify Force drains. Once per game, opponent may stack up to two cards from hand face-down here. Allow The Ship To Leave: If you just won a battle at a Death Star site (or initiated a Force drain here), place a card stacked here in owner's Lost Pile. That Old Man Did It!: If you occupy this site and another Death Star site while no cards stacked here, power 'shut down' (place this card out of play; your movement between Death Star locations is free this turn).",
+        "icons": [
+          "Set 15"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/VirtualAlternateImage-Light/large/apowerloss_ai.gif",
+        "title": "•A Power Loss (AI)",
+        "type": "Epic Event",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/A Power Loss (AI)/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "215_2",
+      "id": 7274,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "215"
+        }
+      ],
+      "rarity": "U2",
+      "rulings": [
+        "Causes all forms of movement between two Death Star locations to be free.",
+        "When using Nabrun Leids for free, draw destiny but do not pay any cost.",
+        "After placing this card out of play, it is possible for Light to deploy a 2nd copy of this card on Central Core later in the game."
+      ],
+      "set": "215",
+      "side": "Light"
+    },
+    {
+      "front": {
+        "characteristics": [
+          "r-unit"
+        ],
+        "deploy": "2",
+        "destiny": "π or 2π",
+        "destinyValues": [
+          3.14159,
+          6.28318
+        ],
+        "errataDate": "2022-12-12",
+        "errataNotes": "Original Text: If just forfeited from a site, opponent may capture BB-8. While a captive, adds 1 to Force drains at same site. During your control phase, if at a battleground site and present with a Resistance character, opponent loses 1 Force.",
+        "errataSymbol": "E1",
+        "extraText": [
+          "Astromech Droid"
+        ],
+        "forfeit": "4",
+        "gametext": "If with a Resistance leader at a battleground site, Force drain +1 here. During your move phase, may place in Used Pile; 'break cover' of all Undercover spies here (if any). Elis Helrot may not transport cards to or from here. Immune to Restraining Bolt.",
+        "icons": [
+          "Nav Computer",
+          "Episode VII",
+          "Set 4"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/VirtualAlternateImage-Light/large/bb8_ai.gif",
+        "lore": "Blank.",
+        "power": "1",
+        "subType": "Droid",
+        "title": "•BB-8 (Beebee-Ate) (AI)",
+        "type": "Character",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/BB-8 (AI)/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "204_1",
+      "id": 7275,
+      "legacy": false,
+      "previousId": 40000,
+      "printings": [
+        {
+          "set": "204"
+        }
+      ],
+      "pulledBy": [
+        "Hero Of A Thousand Devices (V)"
+      ],
+      "rarity": "R1",
+      "rulings": [
+        "BB-8 may be placed in Used Pile even if there are no Undercover spies there."
+      ],
+      "set": "204",
+      "side": "Light"
+    },
+    {
+      "front": {
+        "ability": "3",
+        "armor": "5",
+        "deploy": "3",
+        "destiny": "1",
+        "forfeit": "6",
+        "gametext": "Adds 2 to power of anything he pilots. While with an alien, adds one battle destiny. Once per turn, may target opponent's non-'hit' character here. If Din on table when target lost this turn, choose: retrieve 1 Force or place target in Used Pile to retrieve 2 Force.",
+        "icons": [
+          "Pilot",
+          "Warrior x2",
+          "Set 14"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/VirtualAlternateImage-Light/large/dindjarin_ai.gif",
+        "lore": "Mandalorian.",
+        "power": "4",
+        "subType": "Alien",
+        "title": "•Din Djarin (AI)",
+        "type": "Character",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Din Djarin (AI)/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "214_18",
+      "id": 7276,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "214"
+        }
+      ],
+      "rarity": "U",
+      "set": "214",
+      "side": "Light"
+    },
+    {
+      "front": {
+        "ability": "3",
+        "characteristics": [
+          "gunner",
+          "stormtrooper",
+          "trooper"
+        ],
+        "deploy": "3",
+        "destiny": "1",
+        "extraText": [
+          "Force-Attuned"
+        ],
+        "forfeit": "6",
+        "gametext": "Adds 3 to power of any starship or enclosed vehicle he is aboard as a passenger. May deploy as a 'react' to same location as your pilot (free if Poe or Rey). Once per game, may take Blaster Proficiency into hand from Reserve Deck; reshuffle. Immune to attrition < 4.",
+        "icons": [
+          "Warrior",
+          "Episode VII",
+          "Set 4"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/VirtualAlternateImage-Light/large/finn_ai.gif",
+        "lore": "Gunner. Stormtrooper.",
+        "power": "4",
+        "subType": "Resistance",
+        "title": "•Finn (AI)",
+        "type": "Character",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Finn (AI)/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "204_6",
+      "id": 7277,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "204"
+        }
+      ],
+      "pulledBy": [
+        "I'm Getting Kind Of Good At This"
+      ],
+      "pulls": [
+        "Blaster Proficiency",
+        "Sorry About The Mess & Blaster Proficiency"
+      ],
+      "rarity": "C",
+      "rulings": [
+        "May even deploy as a 'react' to same location as Light's permanent pilot such as on a vehicle or starship (even a landed starship)."
+      ],
+      "set": "204",
+      "side": "Light"
+    },
+    {
+      "front": {
+        "ability": "5",
+        "characteristics": [
+          "Alderaanian",
+          "general",
+          "leader",
+          "female"
+        ],
+        "deploy": "4",
+        "destiny": "1",
+        "errataSymbol": "E1",
+        "extraText": [
+          "Force-Sensitive"
+        ],
+        "forfeit": "8",
+        "gametext": "While at a war room or battleground, game text of Admiral's Orders is canceled and whenever you initiate a battle with a Resistance character, retrieve 1 Force (2 if initiating against a First Order character). Immune to attrition < 4.",
+        "icons": [
+          "Episode VII",
+          "Warrior",
+          "Set 7"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/VirtualAlternateImage-Light/large/generalleiaorgana_ai.gif",
+        "lore": "Female leader.",
+        "power": "4",
+        "subType": "Resistance",
+        "title": "•General Leia Organa (AI)",
+        "type": "Character",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/General Leia Organa (AI)/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "207_5",
+      "id": 7278,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "207"
+        }
+      ],
+      "pulledBy": [
+        "Balanced Attack",
+        "I Know",
+        "Leia's Back",
+        "Rebel Leadership (V)",
+        "Seeking An Audience (V)",
+        "Strike Planning"
+      ],
+      "rarity": "R",
+      "set": "207",
+      "side": "Light"
+    },
+    {
+      "front": {
+        "darkSideIcons": 0,
+        "destiny": "0",
+        "errataSymbol": "E1",
+        "gametext": "Light:  Once per game, may deploy Rey here from Reserve Deck; reshuffle. Rey deploys -2 here. If Rey present, she may not be targeted by weapons.  Dark:",
+        "icons": [
+          "Interior",
+          "Planet",
+          "Episode VII",
+          "Set 4"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/VirtualAlternateImage-Light/large/jakkureysencampment_ai.gif",
+        "lightSideIcons": 2,
+        "subType": "Site",
+        "title": "•Jakku: Rey's Encampment (AI)",
+        "type": "Location",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Jakku Reys Encampment (AI)/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "204_29",
+      "id": 7279,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "204"
+        }
+      ],
+      "pulledBy": [
+        "Old Allies/We Need Your Help"
+      ],
+      "pulls": [
+        "Rey"
+      ],
+      "rarity": "C",
+      "set": "204",
+      "side": "Light"
+    },
+    {
+      "counterpart": "Jakku: Tuanul Village",
+      "front": {
+        "darkSideIcons": 1,
+        "destiny": "0",
+        "gametext": "Light:  Lor San Tekka is power +4 and defense value -2 here.  Dark:  If your First Order character here, your total power here is +2.",
+        "icons": [
+          "Exterior",
+          "Planet",
+          "Episode VII",
+          "Set 4"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/VirtualAlternateImage-Light/large/jakkutuanulvillage_ai.gif",
+        "lightSideIcons": 2,
+        "subType": "Site",
+        "title": "•Jakku: Tuanul Village (AI)",
+        "type": "Location",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Jakku Tuanul Village (LS) (AI)/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "204_31",
+      "id": 7280,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "204"
+        }
+      ],
+      "pulledBy": [
+        "Mindful Of The Future",
+        "Old Allies/We Need Your Help"
+      ],
+      "rarity": "C",
+      "set": "204",
+      "side": "Light"
+    },
+    {
+      "front": {
+        "ability": "3",
+        "characteristics": [
+          "spy",
+          "female"
+        ],
+        "deploy": "4",
+        "destiny": "2",
+        "extraText": [
+          "Force-Attuned"
+        ],
+        "forfeit": "5",
+        "gametext": "May deploy to a site as an Undercover spy. Draws one battle destiny if unable to otherwise. If just lost, may peek at opponent's hand.",
+        "icons": [
+          "Warrior",
+          "Set 6"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/VirtualAlternateImage-Light/large/jynerso_ai.gif",
+        "lore": "Female Spy.",
+        "power": "4",
+        "subType": "Rebel",
+        "title": "•Jyn Erso (AI)",
+        "type": "Character",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Jyn Erso (AI)/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "206_4",
+      "id": 7281,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "206"
+        }
+      ],
+      "rarity": "U2",
+      "rulings": [
+        "Text to 'draw one battle destiny if unable to otherwise' does not work while Jyn is Undercover."
+      ],
+      "set": "206",
+      "side": "Light"
+    },
+    {
+      "front": {
+        "armor": "4",
+        "characteristics": [
+          "Resistance (starship)",
+          "ship-docking capability"
+        ],
+        "deploy": "3",
+        "destiny": "3",
+        "forfeit": "5",
+        "gametext": "May add 2 pilots and 5 passengers. Permanent pilot provides ability of 2. Deploys and moves like a starfighter. When deployed, may deploy a female Resistance character aboard for free from Reserve Deck; reshuffle.",
+        "hyperspeed": "3",
+        "icons": [
+          "Pilot",
+          "Nav Computer",
+          "Scomp Link",
+          "Resistance",
+          "Episode VII",
+          "Set 13"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/VirtualAlternateImage-Light/large/leiasresistancetransport_ai.gif",
+        "lore": "Blank",
+        "power": "3",
+        "subType": "Capital: Resistance Transport",
+        "title": "•Leia's Resistance Transport (AI)",
+        "type": "Starship",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Leias Resistance Transport (AI)/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "213_58",
+      "id": 7282,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "213"
+        }
+      ],
+      "rarity": "U",
+      "set": "213",
+      "side": "Light"
+    },
+    {
+      "front": {
+        "ability": "4",
+        "deploy": "3",
+        "destiny": "1",
+        "extraText": [
+          "Force-Sensitive"
+        ],
+        "forfeit": "7",
+        "gametext": "Adds 3 to power of anything he pilots. If armed with a blaster or rifle at a site (or piloting Red 5), may add one destiny to total power or attrition. Run Luke, Run! is a Used Interrupt. Immune to attrition < 4.",
+        "icons": [
+          "Pilot",
+          "Warrior",
+          "Set 8"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/VirtualAlternateImage-Light/large/lukeskywalkertherebellionshope_ai.gif",
+        "lore": "Blank.",
+        "power": "3",
+        "subType": "Rebel",
+        "title": "•Luke Skywalker, The Rebellion's Hope (AI)",
+        "type": "Character",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Luke Skywalker The Rebellions Hope (AI)/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "208_8",
+      "id": 7283,
+      "legacy": false,
+      "matching": [
+        "Artoo-Detoo In Red 5",
+        "Red 5",
+        "Luke's T-16 Skyhopper",
+        "Rogue 1"
+      ],
+      "matchingWeapon": [
+        "Anakin's Lightsaber",
+        "Luke's Blaster Pistol",
+        "Luke's Blaster Pistol (V)",
+        "Luke's Hunting Rifle",
+        "Luke's Hunting Rifle (V)",
+        "Luke's Lightsaber"
+      ],
+      "printings": [
+        {
+          "set": "208"
+        }
+      ],
+      "pulledBy": [
+        "Camie",
+        "Luke's Back"
+      ],
+      "rarity": "U",
+      "set": "208",
+      "side": "Light"
+    },
+    {
+      "front": {
+        "deploy": "2",
+        "destiny": "2",
+        "forfeit": "5",
+        "gametext": "May add 1 Jedi pilot. *Maneuver = pilot's ability. While Plo piloting, power +2, immune to attrition < 3, and once per turn, may cancel and redraw your weapon or battle destiny just drawn here.",
+        "hyperspeed": "6",
+        "icons": [
+          "Nav Computer",
+          "Scomp Link",
+          "Republic",
+          "Episode I",
+          "Clone Army",
+          "Set 14"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/VirtualAlternateImage-Light/large/plokoonsjedistarfighter_ai.gif",
+        "lore": "Blank.",
+        "maneuver": "*",
+        "power": "2",
+        "subType": "Starfighter: Jedi Interceptor",
+        "title": "•Plo Koon's Jedi Starfighter (AI)",
+        "type": "Starship",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Plo Koons Jedi Starfighter (AI)/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "214_21",
+      "id": 7284,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "214"
+        }
+      ],
+      "rarity": "U",
+      "set": "214",
+      "side": "Light"
+    },
+    {
+      "canceledBy": [
+        "Game text canceled by Commander Praji"
+      ],
+      "combo": [
+        "R2-D2 (Artoo-Detoo) (V) + Double Agent"
+      ],
+      "front": {
+        "characteristics": [
+          "r-unit",
+          "spy"
+        ],
+        "deploy": "2",
+        "destiny": "2 or 5",
+        "destinyValues": [
+          2,
+          5
+        ],
+        "errataSymbol": "E2",
+        "extraText": [
+          "Astromech Droid"
+        ],
+        "forfeit": "4",
+        "gametext": "While aboard a starfighter, adds 2 to power, maneuver, and hyperspeed. While with a Scomp link, adds one [Light Side] icon here. Immune to Fire Extinguisher and Restraining Bolt.",
+        "icons": [
+          "Nav Computer",
+          "A New Hope",
+          "Set 1"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/VirtualAlternateImage-Light/large/r2d2_ai.gif",
+        "lore": "Feisty. Loyal. Heroic. Insecure. Rebel spy. Excels at trouble. Incorrigible counterpart of a mindless philosopher. Has picked up a slight flutter. A bit eccentric.",
+        "power": "1",
+        "subType": "Droid",
+        "title": "•R2-D2 (Artoo-Detoo) (V) (AI)",
+        "type": "Character",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/R2-D2 (Artoo-Detoo) (V) (AI)/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "201_6",
+      "id": 7285,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "201"
+        }
+      ],
+      "pulledBy": [
+        "Artoo, Come Back At Once!",
+        "Hero Of A Thousand Devices (V)",
+        "Seeking An Audience",
+        "Seeking An Audience (V)"
+      ],
+      "rarity": "R2",
+      "set": "201",
+      "side": "Light"
+    },
+    {
+      "abbr": [
+        "RAOTJ",
+        "Jedi Rey"
+      ],
+      "front": {
+        "ability": "6",
+        "deploy": "6",
+        "destiny": "1",
+        "extraText": [
+          "Jedi Knight"
+        ],
+        "forfeit": "8",
+        "gametext": "Once during your control phase, may search your Lost Pile and choose two cards; opponent places one out of play (retrieve the other). Once per game, may deploy a lightsaber on Rey from Reserve Deck; reshuffle. Immune to attrition < 5.",
+        "icons": [
+          "Pilot",
+          "Warrior",
+          "Episode VII",
+          "Set 14"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/VirtualAlternateImage-Light/large/reyallofthejedi_ai.gif",
+        "lore": "Female.",
+        "power": "6",
+        "subType": "Resistance",
+        "title": "•Rey, All Of The Jedi (AI)",
+        "type": "Character",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Rey All Of The Jedi (AI)/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "214_22",
+      "id": 7286,
+      "legacy": false,
+      "matchingWeapon": [
+        "Anakin's Lightsaber (V)"
+      ],
+      "printings": [
+        {
+          "set": "214"
+        }
+      ],
+      "rarity": "U",
+      "rulings": [
+        "When playing against Bring Him Before Me, Rey may not select Luke as either of the two cards."
+      ],
+      "set": "214",
+      "side": "Light"
+    },
+    {
+      "abbr": [
+        "Qira",
+        "Q'ira"
+      ],
+      "front": {
+        "ability": "4",
+        "characteristics": [
+          "smuggler",
+          "thief",
+          "female",
+          "Corellian"
+        ],
+        "deploy": "3",
+        "destiny": "2",
+        "extraText": [
+          "Teräs Käsi 5"
+        ],
+        "forfeit": "3",
+        "gametext": "When forfeited at same location as Han or Vos, may satisfy all remaining battle damage against you. If you just initiated a battle or Force drain at same battleground and you have completed a Kessel Run, opponent loses 1 Force. Immune to attrition < 3.",
+        "icons": [
+          "Pilot",
+          "Warrior",
+          "Set 13"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/VirtualAlternateImage-Light/large/qira_ai.gif",
+        "lore": "Female thief. Corellian smuggler.",
+        "power": "3",
+        "subType": "Alien",
+        "title": "•Qi'ra (AI)",
+        "type": "Character",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Qira (AI)/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "213_39",
+      "id": 7287,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "213"
+        }
+      ],
+      "rarity": "R1",
+      "set": "213",
       "side": "Light"
     }
   ]
