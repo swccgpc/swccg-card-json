@@ -7949,7 +7949,8 @@
       "set": "3",
       "side": "Dark",
       "underlyingCardFor": [
-        "Darth Vader, Emperor's Enforcer"
+        "Darth Vader, Emperor's Enforcer",
+        "Darth Vader, Emperor's Enforcer (AI)"
       ]
     },
     {
@@ -8923,7 +8924,8 @@
       "set": "9",
       "side": "Dark",
       "underlyingCardFor": [
-        "General Hux"
+        "General Hux",
+        "General Hux (AI)"
       ]
     },
     {
@@ -11181,7 +11183,8 @@
       "set": "4",
       "side": "Dark",
       "underlyingCardFor": [
-        "Steadfast"
+        "Steadfast",
+        "Steadfast (AI)"
       ]
     },
     {
@@ -11356,7 +11359,8 @@
       "set": "5",
       "side": "Dark",
       "underlyingCardFor": [
-        "Director Orson Krennic"
+        "Director Orson Krennic",
+        "Director Orson Krennic (AI)"
       ]
     },
     {
@@ -14978,7 +14982,7 @@
         "Blizzard 4",
         "The Empire's Back"
       ],
-      "rarity": "R1",
+      "rarity": "U2",
       "rulings": [
         "'Immune to Sorry About The Mess' prevents the control phase firing function and prevents the place in Lost Pile function of the combo card. It does not prevent the 3 being added to weapon destiny function of the combo card."
       ],
@@ -25238,7 +25242,8 @@
       "set": "6",
       "side": "Dark",
       "underlyingCardFor": [
-        "Darksaber"
+        "Darksaber",
+        "Darksaber (AI)"
       ]
     },
     {
@@ -25734,13 +25739,15 @@
       "set": "3",
       "side": "Dark",
       "underlyingCardFor": [
-        "Hoth: Ice Plains (5th Marker) (V)"
+        "Hoth: Ice Plains (5th Marker) (V)",
+        "Hoth: Ice Plains (5th Marker) (V) (AI)"
       ]
     },
     {
       "front": {
         "darkSideIcons": 2,
         "destiny": "0",
+        "errataSymbol": "E1",
         "gametext": "Dark:  Once per game, may exchange an Interrupt from hand with bottom card of your Reserve Deck. Ice Storm is canceled at Hoth sites.  Light:",
         "icons": [
           "Exterior",
@@ -27547,7 +27554,8 @@
       "side": "Dark",
       "underlyingCardFor": [
         "Imbalance & Kintan Strider",
-        "Maul"
+        "Maul",
+        "Maul (AI)"
       ]
     },
     {
@@ -29015,7 +29023,8 @@
       "set": "6",
       "side": "Dark",
       "underlyingCardFor": [
-        "A Lawless Time"
+        "A Lawless Time",
+        "A Lawless Time (AI)"
       ]
     },
     {
@@ -52569,7 +52578,8 @@
       "set": "1",
       "side": "Dark",
       "underlyingCardFor": [
-        "Palpatine, Emperor Returned"
+        "Palpatine, Emperor Returned",
+        "Palpatine, Emperor Returned (AI)"
       ]
     },
     {
@@ -52608,7 +52618,7 @@
           "set": "210"
         }
       ],
-      "rarity": "U",
+      "rarity": "C",
       "set": "210",
       "side": "Dark"
     },
@@ -55182,6 +55192,7 @@
       "side": "Dark",
       "underlyingCardFor": [
         "The Grand Inquisitor",
+        "The Grand Inquisitor (AI)",
         "Twi'lek Advisor (V)"
       ]
     },
@@ -56380,7 +56391,7 @@
           "set": "209"
         }
       ],
-      "rarity": "PM",
+      "rarity": "C",
       "set": "209",
       "side": "Dark"
     },
@@ -59244,6 +59255,7 @@
       "side": "Dark",
       "underlyingCardFor": [
         "I've Been Searching For You For Some Time",
+        "I've Been Searching For You For Some Time (AI)",
         "You Cannot Hide Forever (Death Star II) (V)"
       ]
     },
@@ -61046,7 +61058,7 @@
           "set": "213"
         }
       ],
-      "rarity": "C",
+      "rarity": "U",
       "rulings": [
         "Does not need to be at the battle location to add or subtract 1 from a just drawn destiny.",
         "However, if Maul does happen to be at the battle location, then he must be participating in the battle (not excluded) in order to add or subtract 1."
@@ -61208,7 +61220,7 @@
           "set": "213"
         }
       ],
-      "rarity": "R",
+      "rarity": "U",
       "rulings": [
         "Cannot respond to 'just fired' if the firing was canceled (e.g. by Blaster Deflection)."
       ],
@@ -61328,7 +61340,7 @@
           "set": "213"
         }
       ],
-      "rarity": "R",
+      "rarity": "U",
       "set": "213",
       "side": "Dark"
     },
@@ -68167,7 +68179,7 @@
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual22-Dark/large/atatcannon.gif",
         "lore": "Laser cannons mounted on the head of an Imperial walker provide devastating, coordinated firepower. Effective against a wide variety of targets.",
-        "subType": "Vehicle Weapon",
+        "subType": "Vehicle",
         "title": "AT-AT Cannon (V)",
         "type": "Weapon",
         "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/AT-AT Cannon (V)/image.png",
@@ -68766,6 +68778,498 @@
       ],
       "rarity": "R",
       "set": "222",
+      "side": "Dark"
+    },
+    {
+      "front": {
+        "destiny": "4",
+        "gametext": "Lose 2 Force to retrieve a Crimson Dawn leader. OR If you just fired a [Set 13] blaster during a battle, add one battle destiny. OR During any control phase, if Maul or Vos at a battleground site, flip Shadow Collective (or You Know Who I Answer To).",
+        "icons": [
+          "Set 13"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/VirtualAlternateImage-Dark/large/alawlesstime_ai.gif",
+        "lore": "Blank.",
+        "subType": "Used",
+        "title": "•A Lawless Time (AI)",
+        "type": "Interrupt",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/A Lawless Time (AI)/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "213_17",
+      "id": 7262,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "213"
+        }
+      ],
+      "rarity": "U",
+      "rulings": [
+        "Cannot respond to 'just fired' if the firing was canceled (e.g. by Blaster Deflection)."
+      ],
+      "set": "213",
+      "side": "Dark"
+    },
+    {
+      "front": {
+        "destiny": "2",
+        "gametext": "Deploy on Gideon, [Set 13] Maul, or your Mandalorian. May add 1 to Force drain where present. May target a character. Draw destiny. Target hit, and its forfeit = 0, if destiny +2 > defense value. If just lost from table or hand, opponent may steal this weapon into hand.",
+        "icons": [
+          "Set 14"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/VirtualAlternateImage-Dark/large/darksaber_ai.gif",
+        "lore": "Blank.",
+        "subType": "Character",
+        "title": "•Darksaber (AI)",
+        "type": "Weapon",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Darksaber (AI)/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "214_3",
+      "id": 7263,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "214"
+        }
+      ],
+      "rarity": "U",
+      "set": "214",
+      "side": "Dark"
+    },
+    {
+      "front": {
+        "ability": "6",
+        "characteristics": [
+          "leader"
+        ],
+        "deploy": "6",
+        "destiny": "1",
+        "extraText": [
+          "Dark Jedi"
+        ],
+        "forfeit": "8",
+        "gametext": "Adds 3 to power of anything he pilots. You may initiate battles here for free. Once per turn, may cancel game text of opponent's character of ability < 4 at same site until end of turn. Immune to Clash of Sabers, Sorry About The Mess, and attrition < 6.",
+        "icons": [
+          "Pilot",
+          "Warrior",
+          "Death Star II",
+          "Set 8"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/VirtualAlternateImage-Dark/large/darthvaderemperorsenforcer_ai.gif",
+        "lore": "Leader.",
+        "power": "6",
+        "subType": "Imperial",
+        "title": "•Darth Vader, Emperor's Enforcer (AI)",
+        "type": "Character",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Darth Vader Emperors Enforcer (AI)/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "208_30",
+      "id": 7264,
+      "legacy": false,
+      "matching": [
+        "Vader's Custom TIE",
+        "Vader's Custom TIE (V)",
+        "Vader's Personal Shuttle",
+        "Vader's Personal Shuttle (V)"
+      ],
+      "matchingWeapon": [
+        "Darth Vader's Lightsaber",
+        "Darth Vader's Lightsaber (V)",
+        "Vader's Lightsaber"
+      ],
+      "printings": [
+        {
+          "set": "208"
+        }
+      ],
+      "pulledBy": [
+        "Blizzard 4",
+        "The Empire's Back"
+      ],
+      "rarity": "U2",
+      "rulings": [
+        "'Immune to Sorry About The Mess' prevents the control phase firing function and prevents the place in Lost Pile function of the combo card. It does not prevent the 3 being added to weapon destiny function of the combo card."
+      ],
+      "set": "208",
+      "side": "Dark"
+    },
+    {
+      "front": {
+        "ability": "3",
+        "characteristics": [
+          "commander",
+          "leader"
+        ],
+        "deploy": "3",
+        "destiny": "2",
+        "forfeit": "5",
+        "gametext": "Adds 2 to power of anything he pilots. During your control phase, if with opponent's Undercover spy, opponent loses 2 Force (may not be reduced). While at a site, opponent may not cancel or modify your battle destiny draws here.",
+        "icons": [
+          "Pilot",
+          "Warrior",
+          "Set 7"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/VirtualAlternateImage-Dark/large/directororsonkrennic_ai.gif",
+        "lore": "Commander. Leader.",
+        "power": "3",
+        "subType": "Imperial",
+        "title": "•Director Orson Krennic (AI)",
+        "type": "Character",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Director Orson Krennic (AI)/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "207_20",
+      "id": 7265,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "207"
+        }
+      ],
+      "pulledBy": [
+        "Admiral Piett",
+        "Blizzard 4",
+        "Operational As Planned (V)"
+      ],
+      "rarity": "U",
+      "set": "207",
+      "side": "Dark"
+    },
+    {
+      "front": {
+        "ability": "3",
+        "characteristics": [
+          "leader",
+          "general"
+        ],
+        "deploy": "3",
+        "destiny": "2",
+        "errataSymbol": "E1",
+        "extraText": [
+          "Force-Attuned"
+        ],
+        "forfeit": "5",
+        "gametext": "Adds 3 to power of anything he pilots. Deploys -2 aboard Finalizer. Your First Order characters and [First Order] starships are destiny +1. Once per game, may take a First Order stormtrooper into hand from Reserve Deck; reshuffle.",
+        "icons": [
+          "Pilot",
+          "Warrior",
+          "Episode VII",
+          "Set 4"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/VirtualAlternateImage-Dark/large/generalhux_ai.gif",
+        "lore": "Leader.",
+        "power": "3",
+        "subType": "First Order",
+        "title": "•General Hux (AI)",
+        "type": "Character",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/General Hux (AI)/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "204_41",
+      "id": 7266,
+      "legacy": false,
+      "matching": [
+        "Finalizer"
+      ],
+      "printings": [
+        {
+          "set": "204"
+        }
+      ],
+      "pulledBy": [
+        "Imperial Command"
+      ],
+      "pulls": [
+        "Captain Phasma",
+        "First Order Stormtrooper",
+        "FN-2003",
+        "FN-2199 (Nines)",
+        "Strategic Reserves"
+      ],
+      "rarity": "U",
+      "set": "204",
+      "side": "Dark"
+    },
+    {
+      "front": {
+        "darkSideIcons": 2,
+        "destiny": "0",
+        "errataSymbol": "E1",
+        "gametext": "Dark:  Once per game, may exchange an Interrupt from hand with bottom card of your Reserve Deck. Ice Storm is canceled at Hoth sites.  Light:",
+        "icons": [
+          "Exterior",
+          "Planet",
+          "Set 8"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/VirtualAlternateImage-Dark/large/hothiceplains_ai.gif",
+        "lightSideIcons": 0,
+        "subType": "Site",
+        "title": "•Hoth: Ice Plains (5th Marker) (V) (AI)",
+        "type": "Location",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Hoth Ice Plains (5th Marker) (V) (AI)/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "208_49",
+      "id": 7267,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "208"
+        }
+      ],
+      "rarity": "C2",
+      "set": "208",
+      "side": "Dark"
+    },
+    {
+      "front": {
+        "destiny": "5",
+        "gametext": "USED: If opponent's character is about to be lost, place all 'Hatred' cards (if any) on that character in owner's Used Pile. LOST: Lose Vader or an Inquisitor from hand to take up to two Inquisitors into hand from Reserve Deck; reshuffle.",
+        "icons": [
+          "Set 13"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/VirtualAlternateImage-Dark/large/ivebeensearchingforyouforsometime_ai.gif",
+        "lore": "Blank.",
+        "subType": "Used or Lost",
+        "title": "I've Been Searching For You For Some Time (AI)",
+        "type": "Interrupt",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Ive Been Searching For You For Some Time (AI)/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "213_20",
+      "id": 7268,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "213"
+        }
+      ],
+      "rarity": "U",
+      "set": "213",
+      "side": "Dark"
+    },
+    {
+      "abbr": [
+        "PER"
+      ],
+      "front": {
+        "ability": "7",
+        "characteristics": [
+          "Leader",
+          "Dark Jedi Master"
+        ],
+        "deploy": "4",
+        "destiny": "4",
+        "errataDate": "2022-12-12",
+        "errataNotes": "Original card did not require an Episode VII icon on his deploy location.",
+        "errataSymbol": "E1",
+        "forfeit": "9",
+        "gametext": "Never deploys or moves (even if carried) except to an [Episode VII] location without a [Light Side] icon. Once per turn, may draw bottom card of your Force Pile. Once per game, if about to be lost, may take him into hand. Immune to attrition.",
+        "icons": [
+          "Episode VII",
+          "Set 14"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/VirtualAlternateImage-Dark/large/palpatineemperorreturned_ai.gif",
+        "lore": "Leader.",
+        "power": "2",
+        "subType": "Dark Jedi Master/First Order",
+        "title": "•Palpatine, Emperor Returned (AI)",
+        "type": "Character",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Palpatine Emperor Returned (AI)/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "214_8",
+      "id": 7269,
+      "legacy": false,
+      "previousId": 20009,
+      "printings": [
+        {
+          "set": "214"
+        }
+      ],
+      "rarity": "U1",
+      "rulings": [
+        "This card qualifies as Emperor, as Palpatine, and as Sidious.",
+        "If his game text is canceled, the text cannot be used to take him into hand when about to be lost.",
+        "If he is hit during battle and then excluded from the battle (e.g. by Clash Of Sabers) he is inactive and so cannot use his text to be taken into hand. He is immediately lost due to being hit while outside of a battle.",
+        "A Light Side Force icon could be added to the same location as Palpatine, Emperor Returned (e.g. due to Presence Of The Force). This does not violate Palpatine's text or cause him to be removed from table."
+      ],
+      "set": "214",
+      "side": "Dark"
+    },
+    {
+      "front": {
+        "armor": "6",
+        "deploy": "7",
+        "destiny": "1",
+        "errataSymbol": "E1",
+        "forfeit": "8",
+        "gametext": "May add 6 pilots, 8 passengers, and 2 starfighters. Permanent pilot provides ability of 2. While alone at an [Episode VII] system, adds Force icons to equalize them for both sides here. Immune to attrition < 4.",
+        "hyperspeed": "3",
+        "icons": [
+          "Pilot",
+          "Nav Computer",
+          "Scomp Link",
+          "First Order",
+          "Episode VII",
+          "Set 14"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/VirtualAlternateImage-Dark/large/steadfast_ai.gif",
+        "lore": "Blank.",
+        "power": "9",
+        "subType": "Capital: Resurgent-Class Star Destroyer",
+        "title": "•Steadfast (AI)",
+        "type": "Starship",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Steadfast (AI)/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "214_9",
+      "id": 7270,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "214"
+        }
+      ],
+      "rarity": "C",
+      "set": "214",
+      "side": "Dark"
+    },
+    {
+      "abbr": [
+        "TGI"
+      ],
+      "front": {
+        "ability": "5",
+        "deploy": "5",
+        "destiny": "1",
+        "extraText": [
+          "Force-Sensitive"
+        ],
+        "forfeit": "7",
+        "gametext": "Adds 2 to power of anything he pilots. If a Jedi or Padawan just lost from same site as any Inquisitor, opponent loses 1 Force. If a Jedi or Padawan just moved from here, Inquisitors present may follow that character (using landspeed). Immune to attrition < 4.",
+        "icons": [
+          "Pilot",
+          "Warrior",
+          "Set 10"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/VirtualAlternateImage-Dark/large/thegrandinquisitor_ai.gif",
+        "lore": "Pau'an leader.",
+        "power": "5",
+        "subType": "Imperial",
+        "title": "•The Grand Inquisitor (AI)",
+        "type": "Character",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/The Grand Inquisitor (AI)/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "210_46",
+      "id": 7271,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "210"
+        }
+      ],
+      "rarity": "C",
+      "set": "210",
+      "side": "Dark"
+    },
+    {
+      "front": {
+        "ability": "4",
+        "deploy": "4",
+        "destiny": "1",
+        "extraText": [
+          "Force-Sensitive"
+        ],
+        "forfeit": "4",
+        "gametext": "Deploys -3 to a site with 'Vader' in game text. Once during your turn, may activate 1 Force. Once per game, may take a card with 'Vader' in title into hand from Reserve Deck; reshuffle.",
+        "icons": [
+          "Set 9"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/VirtualAlternateImage-Dark/large/vanee_ai.gif",
+        "lore": "Blank.",
+        "power": "2",
+        "subType": "Imperial",
+        "title": "•Vanee (AI)",
+        "type": "Character",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Vanee (AI)/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "209_40",
+      "id": 7272,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "209"
+        }
+      ],
+      "rarity": "C",
+      "set": "209",
+      "side": "Dark"
+    },
+    {
+      "front": {
+        "ability": "6",
+        "characteristics": [
+          "Crimson Dawn",
+          "leader",
+          "gangster"
+        ],
+        "deploy": "4",
+        "destiny": "½",
+        "destinyValues": [
+          0.5
+        ],
+        "errataDate": "2022-12-12",
+        "errataNotes": "Original Text: Never deploys to a battleground. Opponent may not cancel your destiny draws. Once per turn, may add 1 to a just drawn battle or weapon destiny. Once per turn, may subtract 1 from a just drawn battle or weapon destiny. Immune to attrition < 5.",
+        "errataSymbol": "E1",
+        "extraText": [
+          "Dark Jedi"
+        ],
+        "forfeit": "8",
+        "gametext": "Never deploys to a battleground. Once per turn, may add or subtract 1 from a just drawn battle destiny or blaster weapon destiny. Battle destiny draws may not be canceled where you have a non-unique blaster. Immune to attrition < 5.",
+        "icons": [
+          "Warrior",
+          "Set 13"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/VirtualAlternateImage-Dark/large/maul_ai.gif",
+        "lore": "Crimson Dawn leader. Gangster.",
+        "power": "4",
+        "subType": "Sith",
+        "title": "•Maul (AI)",
+        "type": "Character",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Maul (AI)/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "213_10",
+      "id": 7273,
+      "legacy": false,
+      "previousId": 20008,
+      "printings": [
+        {
+          "set": "213"
+        }
+      ],
+      "rarity": "U",
+      "rulings": [
+        "Does not need to be at the battle location to add or subtract 1 from a just drawn destiny.",
+        "However, if Maul does happen to be at the battle location, then he must be participating in the battle (not excluded) in order to add or subtract 1."
+      ],
+      "set": "213",
       "side": "Dark"
     }
   ]
