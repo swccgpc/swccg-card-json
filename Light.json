@@ -5561,7 +5561,13 @@
         "The combo card Owen Lars & Beru Lars is only counted once towards the bonus activation."
       ],
       "set": "1",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        {
+          "title": "Jyn Erso, Heroic Rebel",
+          "cardId": 7292
+        }
+      ]
     },
     {
       "combo": [
@@ -23671,8 +23677,11 @@
         ],
         "deploy": "6",
         "destiny": "2",
+        "errataDate": "2023-12-22",
+        "errataNotes": "E1 version had capacity for 2 passengers, and was immune to attrition < 5.",
+        "errataSymbol": "E2",
         "forfeit": "8",
-        "gametext": "May add 2 passengers. Permanent pilots are •Han and •Chewie, who provide total ability of 5. While in battle, adds one destiny to total power. Immune to Come With Me, Life Debt, and attrition < 5.",
+        "gametext": "Permanent pilots are •Han and •Chewie, who provide total ability of 5. While in battle, adds one destiny to total power. Immune to Come With Me, Life Debt, and attrition < 6.",
         "hyperspeed": "7",
         "icons": [
           "Pilot x2",
@@ -23695,6 +23704,7 @@
       "gempId": "205_7",
       "id": 5131,
       "legacy": false,
+      "previousId": 40037,
       "printings": [
         {
           "set": "205"
@@ -28560,7 +28570,13 @@
       ],
       "rarity": "C",
       "set": "11",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        {
+          "title": "Ahsoka, Friend Of The Family",
+          "cardId": 7291
+        }
+      ]
     },
     {
       "front": {
@@ -40951,12 +40967,14 @@
         "This Is Some Rescue!"
       ],
       "cancels": [
-        "One hologram",
         "HoloNet Transmission",
         "Image Of The Dark Lord",
         "Image Of The Dark Lord (V)",
+        "Specter Of The Supreme Leader",
         "The Phantom Menace",
-        "Visage Of The Emperor"
+        "Visage Of The Emperor",
+        "Visage Of The Emperor (V)",
+        "Working Much More Closely"
       ],
       "front": {
         "destiny": "5",
@@ -58439,7 +58457,13 @@
       ],
       "rarity": "U",
       "set": "4",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        {
+          "title": "Transmission Terminated (V)",
+          "cardId": 7293
+        }
+      ]
     },
     {
       "combo": [
@@ -66812,7 +66836,10 @@
     {
       "front": {
         "destiny": "0",
-        "gametext": "Deploy on table (only at start of game). You may not deploy Jedi with 'communing' in game text. One With The Force: If a Jedi is about to be lost (or placed out of play) from table, may stack that card here. The Living Force: Jedi stacked here are 'communing' and are considered out of play. Your total Force generation is +1 for each Jedi 'communing.' The Cosmic Force: Once per turn, may peek at the top X cards of your Force Pile or Lost Pile, where X = the number of Jedi 'communing'; may move one of those cards to the bottom of that pile.",
+        "errataDate": "2023-12-22",
+        "errataNotes": "Errata added the words 'or search your Used Pile' to the second sentence.",
+        "errataSymbol": "E1",
+        "gametext": "Deploy on table (only at start of game). You may not deploy Jedi with 'communing' in game text or search your Used Pile. One With The Force: If a Jedi is about to be lost (or placed out of play) from table, may stack that card here. The Living Force: Jedi stacked here are 'communing' and are considered out of play. Your total Force generation is +1 for each Jedi 'communing.' The Cosmic Force: Once per turn, may peek at the top X cards of your Force Pile or Lost Pile, where X = the number of Jedi 'communing'; may move one of those cards to the bottom of that pile.",
         "icons": [
           "Episode I",
           "Set 16"
@@ -66827,6 +66854,7 @@
       "gempId": "216_24",
       "id": 6927,
       "legacy": false,
+      "previousId": 40035,
       "printings": [
         {
           "set": "216"
@@ -71738,10 +71766,10 @@
       ],
       "front": {
         "destiny": "5",
-        "errataDate": "2023-06-01",
-        "errataNotes": "Original card said 'just drawn destiny' so it worked on any destiny drawn during a battle.",
-        "errataSymbol": "E1",
-        "gametext": "If Obi-Wan 'communing,' deploy on table. Once per battle, may activate 1 Force or add 1 to a just drawn battle destiny. Once per game, if a battle at a Tatooine site just ended, may 'revive' (return to that site from Lost Pile) a Rebel forfeited from that site this turn. [Immune to Alter.]",
+        "errataDate": "2023-12-22",
+        "errataNotes": "E1 Text: If Obi-Wan 'communing,' deploy on table. Once per battle, may activate 1 Force or add 1 to a just drawn battle destiny. Once per game, if a battle at a Tatooine site just ended, may 'revive' (return to that site from Lost Pile) a Rebel forfeited from that site this turn. [Immune to Alter.] Original was the same as E1 except it worked on any destiny drawn during a battle.",
+        "errataSymbol": "E2",
+        "gametext": "If Obi-Wan 'communing,' deploy on table. Once per battle involving a Rebel, may activate 1 Force or add 1 to a just drawn battle destiny. Once per game, may take Old Ben into hand from Reserve Deck (reshuffle) or retrieve Old Ben. [Immune to Alter.]",
         "icons": [
           "Tatooine",
           "Set 21"
@@ -71757,7 +71785,7 @@
       "gempId": "221_5",
       "id": 7153,
       "legacy": false,
-      "previousId": 40019,
+      "previousId": 40036,
       "printings": [
         {
           "set": "221"
@@ -71765,11 +71793,7 @@
       ],
       "rarity": "C",
       "rulings": [
-        "It is not possible to revive a character and forfeit them again in the same battle.",
-        "A character who has been made 'forfeit = 0' can still be forfeited, and therefore, can still be revived.",
-        "The revived character is a 'fresh copy' unaffected by any previously applied status effects such as 'forfeit = 0' or 'game text canceled for remainder of turn'.",
-        "The revived character could even battle again this turn (e.g. by moving to another site with Nabrun Leids and battling there).",
-        "Can only revive the exact card that was forfeited, not another copy of that card or persona."
+        "Once per game, the player can either take Old Ben into hand or retrieve Old Ben - not once each."
       ],
       "set": "221",
       "side": "Light"
@@ -74022,6 +74046,156 @@
       ],
       "rarity": "R1",
       "set": "213",
+      "side": "Light"
+    },
+    {
+      "abbr": [
+        "AFOTF"
+      ],
+      "combo": [
+        "Start the game with The Rise Of Skywalker to pull The Force Is Strong In My Family to take full advantage of Ahsoka's game text.",
+        "Protects against DVDLOTS, Force Lightning, He Hasn't Come Back Yet, Physical Choke, Set For Stun, Trample",
+        "Subtract 1 from your own destiny draw for I Have A Really Bad Feeling About This, Sense, or Alter."
+      ],
+      "front": {
+        "ability": "6",
+        "characteristics": [
+          "Togruta",
+          "female"
+        ],
+        "deploy": "5",
+        "destiny": "1",
+        "extraText": [
+          "Jedi Knight"
+        ],
+        "forfeit": "7",
+        "gametext": "While your [Skywalker] Epic Event on table, Ahsoka ignores its deployment restrictions and, once per turn, may subtract 1 from a non-weapon destiny draw targeting your character's ability or defense value. Characters Ahsoka 'hits' are forfeit = 0. Immune to attrition < 5.",
+        "icons": [
+          "Pilot",
+          "Warrior",
+          "Set 23"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual23-Light/large/ahsokafriendofthefamily.gif",
+        "lore": "Female Togruta.",
+        "power": "5",
+        "subType": "Alien",
+        "title": "•Ahsoka, Friend Of The Family",
+        "type": "Character",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Ahsoka Friend Of The Family/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "223_4",
+      "id": 7291,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "223"
+        }
+      ],
+      "rarity": "C",
+      "rulings": [
+        "Does not need to be at the same location to subtract 1 from a non-weapon destiny draw.",
+        "However, if Ahsoka does happen to be at the location and is excluded during a battle, then she is inactive, and cannot subtract."
+      ],
+      "set": "223",
+      "side": "Light"
+    },
+    {
+      "abbr": [
+        "JEHR"
+      ],
+      "combo": [
+        "Use with the Objective card They Have No Idea We're Coming."
+      ],
+      "front": {
+        "ability": "3",
+        "characteristics": [
+          "female",
+          "leader",
+          "spy"
+        ],
+        "deploy": "4",
+        "destiny": "1",
+        "extraText": [
+          "Force-Attuned"
+        ],
+        "forfeit": "5",
+        "gametext": "While Stardust on your spy, Jyn adds one battle destiny. While Stardust on Jyn and present at a battleground, Force drain +1 here and non-trooper Rebel spies here may not be 'choked.' If just lost, opponent loses 1 Force.",
+        "icons": [
+          "Warrior",
+          "Set 23"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual23-Light/large/jynersoheroicrebel.gif",
+        "lore": "Female leader and spy.",
+        "power": "4",
+        "subType": "Rebel",
+        "title": "•Jyn Erso, Heroic Rebel",
+        "type": "Character",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Jyn Erso Heroic Rebel/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "223_5",
+      "id": 7292,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "223"
+        }
+      ],
+      "rarity": "U2",
+      "rulings": [
+        "Protects against the 'choke' from Darth Vader, Dark Lord Of The Sith.",
+        "Does not protect against Physical Choke."
+      ],
+      "set": "223",
+      "side": "Light"
+    },
+    {
+      "abbr": [
+        "TTv"
+      ],
+      "cancels": [
+        "Game text of an Admiral's Order",
+        "Game text of Emperor's Power",
+        "HoloNet Transmission",
+        "Image Of The Dark Lord",
+        "Image Of The Dark Lord (V)",
+        "Specter Of The Supreme Leader",
+        "The Phantom Menace",
+        "Visage Of The Emperor",
+        "Visage Of The Emperor (V)",
+        "Working Much More Closely"
+      ],
+      "canceledBy": [
+        "HoloNet Transmission"
+      ],
+      "front": {
+        "destiny": "5",
+        "gametext": "USED: Target a starship. For remainder of turn, target may not use tractor beams, fire weapons, or 'cloak.' LOST: Cancel a hologram. OR Cancel the game text of Emperor's Power or an Admiral's Order until start of your turn.",
+        "icons": [
+          "Dagobah",
+          "Set 23"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual23-Light/large/transmissionterminated.gif",
+        "lore": "After the mission, the Death Squadron HoloNet communications system reported fifteen system errors: ten computer malfunctions, four power failures and one asteroid.",
+        "subType": "Used Or Lost",
+        "title": "Transmission Terminated (V)",
+        "type": "Interrupt",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Transmission Terminated (V)/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "223_6",
+      "id": 7293,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "223"
+        }
+      ],
+      "rarity": "U",
+      "set": "223",
       "side": "Light"
     }
   ]

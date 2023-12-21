@@ -999,6 +999,44 @@
       "rarity": "R",
       "set": "210",
       "side": "Dark"
+    },
+    {
+      "front": {
+        "destiny": "3",
+        "errataSymbol": "E1",
+        "gametext": "If you have deployed a site (except Imperial Square) with exactly two [Dark Side] (and no other locations), deploy a related (or mobile) battleground site and up to three Effects that deploy for free and are always immune to Alter. Place Interrupt in Lost Pile.",
+        "icons": [
+          "Cloud City",
+          "Set 12"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual12-Dark/large/slipslidingaway.gif",
+        "lore": "Luke got the shaft.",
+        "subType": "Starting",
+        "title": "•Slip Sliding Away (V)",
+        "type": "Interrupt",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Slip Sliding Away (V)/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "212_4",
+      "id": 20025,
+      "legacy": false,
+      "nextId": 6786,
+      "printings": [
+        {
+          "set": "212"
+        }
+      ],
+      "pulls": [
+        "A battleground site",
+        "Any 3 free ITA effects"
+      ],
+      "rarity": "R",
+      "rulings": [
+        "May be played even if the site you deployed has been converted to longer have exactly two [Dark Side]. May even still deploy a related site under those circumstances."
+      ],
+      "set": "212",
+      "side": "Dark"
     }
   ]
 }

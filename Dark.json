@@ -2296,7 +2296,13 @@
         "The captured character's values are restored to normal and if hit, is no longer hit."
       ],
       "set": "6",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+        {
+          "title": "Zuckuss With Snare Rifle",
+          "cardId": 7290
+        }
+      ]
     },
     {
       "front": {
@@ -35799,7 +35805,7 @@
           "Special Edition"
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/SpecialEdition-Dark/large/masterfulmove.gif",
-        "lore": "A skillful hologramer nullifies the advantage of even the most powerful game piece with clever maneuvering.",
+        "lore": "A skillful hologamer nullifies the advantage of even the most powerful game piece with clever maneuvering.",
         "subType": "Used",
         "title": "•Masterful Move",
         "type": "Interrupt",
@@ -40604,7 +40610,13 @@
         "The player playing Overwhelmed chooses the order to send cards to Used Pile, including the 'cards on them' such as devices. However, if a card is selected to go to Used Pile while there are still other cards on it, place the selected card and the cards on it in owners' Used Pile(s) simultaneously (per Leaves Table rules, the owner of that group of cards then determines the order)."
       ],
       "set": "7",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+        {
+          "title": "Not Within Sight Or Reach",
+          "cardId": 7288
+        }
+      ]
     },
     {
       "combo": [
@@ -58133,7 +58145,7 @@
           "Endor"
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/Endor-Dark/large/wellearnedcommand.gif",
-        "lore": "Imperial officers often simulate large-scale battles with hologram games to improve their tactical ability. Those who excel at these games often mark themselves for advancement.",
+        "lore": "Imperial officers often simulate large-scale battles with games to improve their tactical ability. Those who excel at these games often mark themselves for advancement.",
         "title": "•Well-earned Command",
         "type": "Effect",
         "uniqueness": "*"
@@ -58802,7 +58814,13 @@
       ],
       "rarity": "U2",
       "set": "1",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+        {
+          "title": "Wuher (V)",
+          "cardId": 7289
+        }
+      ]
     },
     {
       "canceledBy": [
@@ -60491,8 +60509,10 @@
     {
       "front": {
         "destiny": "3",
-        "errataSymbol": "E1",
-        "gametext": "If you have deployed a site (except Imperial Square) with exactly two [Dark Side] (and no other locations), deploy a related (or mobile) battleground site and up to three Effects that deploy for free and are always immune to Alter. Place Interrupt in Lost Pile.",
+        "errataDate": "2023-12-22",
+        "errataNotes": "E1 Text: If you have deployed a site (except Imperial Square) with exactly two [Dark Side] (and no other locations), deploy a related (or mobile) battleground site and up to three Effects that deploy for free and are always immune to Alter. Place Interrupt in Lost Pile.",
+        "errataSymbol": "E2",
+        "gametext": "If you have deployed a site with exactly two [Dark Side] (and no other locations), deploy a Cloud City battleground site; then, unless your Imperial Square or Palace site on table, deploy three Effects that deploy for free and are always immune to Alter. Place Interrupt in Lost Pile.",
         "icons": [
           "Cloud City",
           "Set 12"
@@ -60509,6 +60529,7 @@
       "gempId": "212_4",
       "id": 6786,
       "legacy": false,
+      "previousId": 20025,
       "printings": [
         {
           "set": "212"
@@ -60520,7 +60541,7 @@
       ],
       "rarity": "R",
       "rulings": [
-        "May be played even if the site you deployed has been converted to longer have exactly two [Dark Side]. May even still deploy a related site under those circumstances."
+        "May be played even if the site you deployed has been converted to longer have exactly two [Dark Side]."
       ],
       "set": "212",
       "side": "Dark"
@@ -69270,6 +69291,146 @@
         "However, if Maul does happen to be at the battle location, then he must be participating in the battle (not excluded) in order to add or subtract 1."
       ],
       "set": "213",
+      "side": "Dark"
+    },
+    {
+      "abbr": [
+        "NWSOR"
+      ],
+      "front": {
+        "destiny": "5",
+        "gametext": "USED: Take Thrawn or Vanto into hand from Reserve Deck; reshuffle. OR During battle, players may not draw power or attrition destinies. LOST: Once per game, if opponent has deployed two systems and no battleground sites (or a system is 'liberated'), deploy a [Premium] dreadnaught from outside your deck (deploy -3).",
+        "icons": [
+          "Set 23"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual23-Dark/large/notwithinsightorreach.gif",
+        "lore": "When the Empire amasses its fleet, the only option for the Alliance is retreat.",
+        "subType": "Used Or Lost",
+        "title": "Not Within Sight Or Reach",
+        "type": "Interrupt",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Not Within Sight Or Reach/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "223_1",
+      "id": 7288,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "223"
+        }
+      ],
+      "pulls": [
+        "Ensign Eli Vanto",
+        "Dreadnaught-Class Heavy Cruiser",
+        "Grand Admiral Thrawn",
+        "Grand Admiral Thrawn (V)",
+        "Mitth'raw'nuruodo"
+      ],
+      "rarity": "C",
+      "set": "223",
+      "side": "Dark"
+    },
+    {
+      "front": {
+        "ability": "1",
+        "deploy": "2",
+        "destiny": "3",
+        "forfeit": "3",
+        "gametext": "While at Cantina, each player may only fire one weapon during battle here and, while Jabba on table, opponent generates no Force here. Once per game, may take Restraining Bolt into hand from Reserve Deck (reshuffle) or retrieve Restraining Bolt.",
+        "icons": [
+          "Jabba's Palace",
+          "Set 23"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual23-Dark/large/wuher.gif",
+        "lore": "Gruff, surly, no-blasters-allowed bartender. Hates droids. 'We don't serve their kind here.' Wants to concoct the perfect drink for Jabba so he can work as his personal bartender.",
+        "power": "2",
+        "subType": "Alien",
+        "title": "•Wuher (V)",
+        "type": "Character",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Wuher (V)/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "223_2",
+      "id": 7289,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "223"
+        }
+      ],
+      "pulledBy": [
+        "First Light: Bar",
+        "Silence Is Golden (V)",
+        "Tatooine: Cantina (V)"
+      ],
+      "pulls": [
+        "Restraining Bolt"
+      ],
+      "rarity": "U2",
+      "rulings": [
+        "Once per game, the player can either take Restraining Bolt into hand or retrieve Restraining Bolt - not once each.",
+        "If there are two battles here in the same turn (e.g. via Counterattack), players may fire one weapon in each battle (does not have to be the same weapon)."
+      ],
+      "set": "223",
+      "side": "Dark"
+    },
+    {
+      "abbr": [
+        "EPP Zuckuss",
+        "ZWSR"
+      ],
+      "combo": [
+        "Another permanent weapon character + this Zuckuss: Hit opponent's character during battle, then exclude them with Zuckuss to make them immediately lost."
+      ],
+      "front": {
+        "ability": "4",
+        "characteristics": [
+          "bounty hunter",
+          "Gand",
+          "scout"
+        ],
+        "deploy": "4",
+        "destiny": "1",
+        "extraText": [
+          "Force-Sensitive"
+        ],
+        "forfeit": "4",
+        "gametext": "Adds 2 to power of anything he pilots. Once per game, may peek at top card of any Reserve Deck. Permanent weapon is •Zuckuss' Snare Rifle (may target a character for free; draw destiny; target excluded from battle if destiny +1 > target's power).",
+        "icons": [
+          "Premium",
+          "Pilot",
+          "Warrior",
+          "Permanent Weapon",
+          "Set 23"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual23-Dark/large/zuckusswithsnarerifle.gif",
+        "lore": "Gand bounty hunter and scout.",
+        "power": "2",
+        "subType": "Alien",
+        "title": "•Zuckuss With Snare Rifle",
+        "type": "Character",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Zuckuss With Snare Rifle/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "223_3",
+      "id": 7290,
+      "legacy": false,
+      "matching": [
+        "Mist Hunter"
+      ],
+      "printings": [
+        {
+          "set": "223"
+        }
+      ],
+      "pulledBy": [
+        "Double Back",
+        "The Client"
+      ],
+      "rarity": "U",
+      "set": "223",
       "side": "Dark"
     }
   ]
