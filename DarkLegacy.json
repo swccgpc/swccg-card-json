@@ -2204,16 +2204,12 @@
         "deploy": "3",
         "destiny": "3",
         "gametext": "Adds 2 to the power of anything he pilots. May not be targeted by weapons unless your other slavers present are each 'hit'. Permanent weapon is •Bossk's Mortar Gun (may target a character for free. Draw destiny. Target hit and forfeit =0, if destiny matches target's destiny number).",
-        "icons": [
-          "Pilot",
-          "Warrior",
-          "Permanent Weapon"
-        ],
+        "icons": ["Pilot", "Warrior", "Permanent Weapon"],
         "imageUrl": "https://res.starwarsccg.org/cards/legacy/VirtualBlock8-Dark/large/bosskwithmortargun.gif",
         "lore": "Trandoshan Assassin and Slaver. Modified his mortar gun to fire stun cartridges for live captures. Uses non-fragmentary capture rounds to minimize collateral damage.",
         "power": "4",
         "subType": "Alien",
-        "title": "•Bossk with Mortar Gun (V)",
+        "title": "•Bossk With Mortar Gun (V)",
         "type": "Character"
       },
       "id": 6146,
@@ -2853,17 +2849,13 @@
         "forfeit": "6",
         "gametext": "May deploy as a 'react.'  Permanent pilot is •Jendon, who provides ability of 2.  When deployed, may deploy a weapon on Onyx 1 from Reserve Deck; reshuffle.  Adds one battle destiny if with Onyx 2.  Immune to attrition < 4.",
         "hyperspeed": "3",
-        "icons": [
-          "Pilot",
-          "Nav Computer",
-          "Death Star II"
-        ],
+        "icons": ["Pilot", "Nav Computer", "Death Star II"],
         "imageUrl": "https://res.starwarsccg.org/cards/legacy/VirtualBlock6-Dark/large/coloneljendoninonyx1.gif",
         "lore": "Designed to emulate Rebel starfighter advantages. Production began shortly before the Battle of Endor. Armed with laser cannons, ion cannons and missile launchers.",
         "maneuver": "5",
         "power": "5",
         "subType": "Starfighter: TIE Defender",
-        "title": "•Colonel Jendon in Onyx 1",
+        "title": "•Colonel Jendon In Onyx 1",
         "type": "Starship"
       },
       "id": 6174,
@@ -4312,7 +4304,7 @@
           "Separatist"
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/legacy/VirtualBlock9-Dark/large/defenseofmuunilinst.gif",
-        "title": "•Defense of Muunilinst",
+        "title": "•Defense Of Muunilinst",
         "type": "Mission"
       },
       "id": 6241,
@@ -5206,7 +5198,7 @@
         "maneuver": "5",
         "power": "4",
         "subType": "Starfighter: Heavily Modified Freighter",
-        "title": "•Elis in Hinthra",
+        "title": "•Elis In Hinthra",
         "type": "Starship"
       },
       "id": 6276,
@@ -6158,7 +6150,7 @@
         "lore": "Well-known as a gambler and a gangster. Gardulla was a former owner of Shmi and Anakin Skywalker, before losing them in a bet to the Toydarian junk dealer, Watto.",
         "power": "3",
         "subType": "Alien",
-        "title": "•Gardulla the Hutt (v)",
+        "title": "•Gardulla The Hutt (v)",
         "type": "Character"
       },
       "id": 6318,
@@ -6481,7 +6473,7 @@
           "Death Star II"
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/legacy/VirtualBlock8-Dark/large/giveyourselftothedarkside.gif",
-        "title": "•Give Yourself to the Dark Side",
+        "title": "•Give Yourself To The Dark Side",
         "type": "Epic Event"
       },
       "id": 6332,
@@ -6734,7 +6726,7 @@
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/legacy/VirtualBlock6-Dark/large/guildofassassins.gif",
         "lore": "Greedo cheskopokuta klees ruya Solo. Hoko yanee boopa gush Cantina. Cheeco wa Solo's anye nyuma Greedo vakee. Jabba kul steeka et en anpaw.",
-        "title": "•Guild of Assassins",
+        "title": "•Guild Of Assassins",
         "type": "Effect"
       },
       "id": 6341,
@@ -10536,7 +10528,7 @@
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/legacy/VirtualBlock9-Dark/large/muunilinstcityofharnaidan.gif",
         "subType": "Site",
-        "title": "•Muunilinst: City of Harnaidan",
+        "title": "•Muunilinst: City Of Harnaidan",
         "type": "Location"
       },
       "id": 6531,
