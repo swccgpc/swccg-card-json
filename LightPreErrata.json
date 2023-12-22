@@ -1341,6 +1341,140 @@
       ],
       "set": "3",
       "side": "Light"
+    },
+    {
+      "front": {
+        "destiny": "0",
+        "gametext": "Deploy on table (only at start of game). You may not deploy Jedi with 'communing' in game text. One With The Force: If a Jedi is about to be lost (or placed out of play) from table, may stack that card here. The Living Force: Jedi stacked here are 'communing' and are considered out of play. Your total Force generation is +1 for each Jedi 'communing.' The Cosmic Force: Once per turn, may peek at the top X cards of your Force Pile or Lost Pile, where X = the number of Jedi 'communing'; may move one of those cards to the bottom of that pile.",
+        "icons": [
+          "Episode I",
+          "Set 16"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual16-Light/large/communing.gif",
+        "title": "•Communing",
+        "type": "Epic Event",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Communing/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "216_24",
+      "id": 40035,
+      "legacy": false,
+      "nextId": 6927,
+      "printings": [
+        {
+          "set": "216"
+        }
+      ],
+      "rarity": "U",
+      "rulings": [
+        "May only deploy on table if instructed to do so, such as via I Am Part Of The Living Force.",
+        "A Jedi stacked on Communing counts for Be With Me and Everything We Need.",
+        "A Jedi stacked on Communing is considered out of play, but has not been 'just placed out of play' such as for I Can't Believe He's Gone.",
+        "The objective Bring Him Before Me prevents Luke from being stacked on Communing."
+      ],
+      "set": "216",
+      "side": "Light"
+    },
+    {
+      "abbr": [
+        "ICBHGv"
+      ],
+      "front": {
+        "destiny": "5",
+        "errataDate": "2023-06-01",
+        "errataNotes": "Original card said 'just drawn destiny' so it worked on any destiny drawn during a battle.",
+        "errataSymbol": "E1",
+        "gametext": "If Obi-Wan 'communing,' deploy on table. Once per battle, may activate 1 Force or add 1 to a just drawn battle destiny. Once per game, if a battle at a Tatooine site just ended, may 'revive' (return to that site from Lost Pile) a Rebel forfeited from that site this turn. [Immune to Alter.]",
+        "icons": [
+          "Tatooine",
+          "Set 21"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual21-Light/large/icantbelievehesgone.gif",
+        "lore": "Even though Luke felt the pain of losing his mentor, Obi-Wan continued to give him strength and guidance through the Force.",
+        "title": "•I Can't Believe He's Gone (V)",
+        "type": "Effect",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/I Can't Believe He's Gone (V)/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "221_5",
+      "id": 40036,
+      "legacy": false,
+      "nextId": 7153,
+      "previousId": 40019,
+      "printings": [
+        {
+          "set": "221"
+        }
+      ],
+      "rarity": "C",
+      "rulings": [
+        "It is not possible to revive a character and forfeit them again in the same battle.",
+        "A character who has been made 'forfeit = 0' can still be forfeited, and therefore, can still be revived.",
+        "The revived character is a 'fresh copy' unaffected by any previously applied status effects such as 'forfeit = 0' or 'game text canceled for remainder of turn'.",
+        "The revived character could even battle again this turn (e.g. by moving to another site with Nabrun Leids and battling there).",
+        "Can only revive the exact card that was forfeited, not another copy of that card or persona."
+      ],
+      "set": "221",
+      "side": "Light"
+    },
+    {
+      "abbr": [
+        "HCATFV",
+        "HCFV"
+      ],
+      "combo": [
+        "Han, Chewie, And The Falcon + Punch It! Adds two destinies in a defending battle."
+      ],
+      "front": {
+        "characteristics": [
+          "Rebel (starship)"
+        ],
+        "deploy": "6",
+        "destiny": "2",
+        "forfeit": "8",
+        "gametext": "May add 2 passengers. Permanent pilots are •Han and •Chewie, who provide total ability of 5. While in battle, adds one destiny to total power. Immune to Come With Me, Life Debt, and attrition < 5.",
+        "hyperspeed": "7",
+        "icons": [
+          "Pilot x2",
+          "Nav Computer",
+          "Scomp Link",
+          "Reflections 3",
+          "Set 5"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual5-Light/large/hanchewieandthefalcon.gif",
+        "lore": "Although temperamental, this trusty hunk of junk always seems to perform for its proud owner and his Wookiee co-pilot when needed the most.",
+        "maneuver": "6",
+        "power": "8",
+        "subType": "Starfighter: Heavily-Modified Light Freighter",
+        "title": "•Han, Chewie, And The Falcon (V)",
+        "type": "Starship",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Han Chewie And The Falcon (V)/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "205_7",
+      "id": 40037,
+      "legacy": false,
+      "nextId": 5131,
+      "printings": [
+        {
+          "set": "205"
+        }
+      ],
+      "pulledBy": [
+        "Han's Back",
+        "Life Debt",
+        "Seeking An Audience (V)"
+      ],
+      "rarity": "PM",
+      "rulings": [
+        "Gravity Shadow targets Han's 3 ability.",
+        "Cannot be taken into hand with Life Debt."
+      ],
+      "set": "205",
+      "side": "Light"
     }
   ]
 }
