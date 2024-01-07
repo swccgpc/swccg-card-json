@@ -941,7 +941,7 @@
         "title": "•Aayla Secura",
         "type": "Character",
         "uniqueness": "*",
-        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Aayla Secura (AI - Hologram)/image.png",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Aayla Secura/image.png",
         "printableSlipType": "VIRTUAL"
       },
       "gempId": "200_1",
@@ -985,7 +985,9 @@
         "subType": "Alien",
         "title": "•Aayla Secura (AI)",
         "type": "Character",
-        "uniqueness": "*"
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Aayla Secura (AI - Hologram)/image.png",
+        "printableSlipType": "VIRTUAL"
       },
       "gempId": "200_1",
       "id": 5312,
@@ -8308,7 +8310,7 @@
         "title": "•Captain Rex, 501st Legion",
         "type": "Character",
         "uniqueness": "*",
-        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Captain Rex 501st Legion (AI - Hologram)/image.png",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Captain Rex 501st Legion/image.png",
         "printableSlipType": "VIRTUAL"
       },
       "gempId": "200_3",
@@ -11097,7 +11099,7 @@
         "title": "•Commander Cody",
         "type": "Character",
         "uniqueness": "*",
-        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Commander Cody (AI - Hologram)/image.png",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Commander Cody/image.png",
         "printableSlipType": "VIRTUAL"
       },
       "gempId": "200_6",
@@ -11141,7 +11143,9 @@
         "subType": "Republic",
         "title": "•Commander Cody (AI)",
         "type": "Character",
-        "uniqueness": "*"
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Commander Cody (AI - Hologram)/image.png",
+        "printableSlipType": "VIRTUAL"
       },
       "gempId": "200_6",
       "id": 7025,
@@ -30429,7 +30433,7 @@
         "title": "•Kit Fisto",
         "type": "Character",
         "uniqueness": "*",
-        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Kit Fisto (AI - Hologram)/image.png",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Kit Fisto/image.png",
         "printableSlipType": "VIRTUAL"
       },
       "gempId": "210_19",
@@ -30470,7 +30474,9 @@
         "subType": "Jedi Master",
         "title": "•Kit Fisto (AI)",
         "type": "Character",
-        "uniqueness": "*"
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Kit Fisto (AI - Hologram)/image.png",
+        "printableSlipType": "VIRTUAL"
       },
       "gempId": "210_19",
       "id": 7032,
@@ -71680,7 +71686,9 @@
         "subType": "Republic",
         "title": "•Captain Rex, 501st Legion (Holo AI)",
         "type": "Character",
-        "uniqueness": "*"
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Captain Rex 501st Legion (AI - Hologram)/image.png",
+        "printableSlipType": "VIRTUAL"
       },
       "gempId": "200_3",
       "id": 7147,
