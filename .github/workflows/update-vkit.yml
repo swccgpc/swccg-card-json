@@ -51,7 +51,7 @@ jobs:
           echo "commit json files to vkit repo"
           cd swccg-vkit
           echo "should be in swccg-vkit: [$(pwd)]"
-          it config --local user.email "devon+github-actions[bot]@hubner.org"
+          git config --local user.email "devon+github-actions[bot]@hubner.org"
           git config --local user.name "github-actions[bot]"
           git add -A *.json ; true
           git commit -m "Updating card json files to latest" -a ; true
