@@ -832,6 +832,9 @@
         "Commence Primary Ignition"
       ],
       "rarity": "R",
+      "rulings": [
+        "The retrieval is an automatic response, occurring before optional responses such as It Can Wait or Rebel Barrier."
+      ],
       "set": "11",
       "side": "Dark"
     },
@@ -4997,7 +5000,7 @@
       "side": "Dark",
       "underlyingCardFor": [
         "Admiral Trench",
-        "Admiral Trench (AI)"
+        "Admiral Trench (Holo AI)"
       ]
     },
     {
@@ -8757,7 +8760,8 @@
     },
     {
       "abbr": [
-        "Chrome Dome"
+        "Chrome Dome",
+        "Captain Phasma (AI)"
       ],
       "conceptBy": "(Image courtesy of Emi Tolibas)",
       "front": {
@@ -8782,7 +8786,7 @@
         "lore": "Female leader. Stormtrooper.",
         "power": "4",
         "subType": "First Order",
-        "title": "•Captain Phasma (AI)",
+        "title": "•Captain Phasma (Holo AI)",
         "type": "Character",
         "uniqueness": "*",
         "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Captain Phasma (AI - Hologram)/image.png",
@@ -9233,7 +9237,7 @@
       "side": "Dark",
       "underlyingCardFor": [
         "Captain Phasma",
-        "Captain Phasma (AI)"
+        "Captain Phasma (Holo AI)"
       ]
     },
     {
@@ -14178,7 +14182,7 @@
       "side": "Dark",
       "underlyingCardFor": [
         "Supreme Leader Snoke",
-        "Supreme Leader Snoke (AI)"
+        "Supreme Leader Snoke (Holo AI)"
       ]
     },
     {
@@ -22960,6 +22964,9 @@
         }
       ],
       "rarity": "PM",
+      "rulings": [
+        "The 2nd function may not be initiated with an empty Force Pile."
+      ],
       "set": "200",
       "side": "Dark"
     },
@@ -23737,6 +23744,9 @@
       "side": "Dark"
     },
     {
+      "abbr": [
+        "General Grievous (AI)"
+      ],
       "conceptBy": "(Original concept by Jeremy Gardner)",
       "front": {
         "ability": "4",
@@ -26931,7 +26941,7 @@
       "rulings": [
         "The target does deploy briefly, triggering any automatic actions (such as Objective flips) first.",
         "The target card is placed in owner's hand, even if it was being deployed from Reserve Deck or somewhere else.",
-        "If two cards were being deployed simultaneously, such as via Squadron Assignments, both cards are equally affected (both placed in hand and may deploy free next turn).",
+        "If two cards were being deployed simultaneously, such as via Squadron Assignments, both cards are equally affected (both placed in hand and each may deploy free next turn - even separately).",
         "If the target card is unique, that unique card/persona cannot deploy again this turn.",
         "Cannot be played as a response to persona replacement (e.g. Commander Luke Skywalker replacing Luke Skywalker).",
         "Cannot be played as a response to other replacement (e.g. X-wing Assault Squadron replacing 3 X-wings)."
@@ -27565,7 +27575,7 @@
       "underlyingCardFor": [
         "Imbalance & Kintan Strider",
         "Maul",
-        "Maul (AI)"
+        "Maul (Holo AI)"
       ]
     },
     {
@@ -28081,6 +28091,7 @@
       "rarity": "C",
       "rulings": [
         "A card that deploys for 0 such as Kal'Falnl C'ndros is not the same as 'free' and thus doesn't trigger this card.",
+        "When Light simultaneously deploys a pair of cards for free (e.g. due to I'd Just As Soon Kiss A Wookiee), each card is separately affected by Imperial Detention, potentially causing a total cost of 4.",
         "Prevents IMBATS(V) from deploying the generic Farm.",
         "Prevents IMBATS(V) from searching Used Pile when a specified character (e.g. Luke) deploys to a site (except Lar's Moisture Farm or a Jabba's Palace Site).",
         "Does not restrict what card Light may take into hand from Used Pile via IMBATS(V).",
@@ -29359,6 +29370,7 @@
       ],
       "rarity": "U",
       "rulings": [
+        "Insidious Prisoner is not Palpatine, and so does not make Light's docking bay transit free.",
         "A starfighter (belonging to <u>either player</u>!) at same system or sector as Invisible Hand may land here.",
         "A starfighter (belonging to <u>either player</u>!) here may take off to same system or sector as Invisible Hand.",
         "If Invisible Hand is lost from table, this site remains on table."
@@ -47534,6 +47546,9 @@
       "side": "Dark"
     },
     {
+      "abbr": [
+        "SSA"
+      ],
       "front": {
         "destiny": "3",
         "gametext": "Relocate a card from the top of any Deck or Pile to the bottom (without looking). OR if you have a droid at a Scomp link on Cloud City, cancel Into The Ventilation Shaft, Lefty. OR use 3 Force to cause a character at Weather Vane to be lost.",
@@ -49647,6 +49662,9 @@
       "side": "Dark"
     },
     {
+      "abbr": [
+        "Supreme Leader Snoke (AI)"
+      ],
       "front": {
         "ability": "7",
         "characteristics": [
@@ -49667,7 +49685,7 @@
         "lore": "Leader.",
         "power": "3",
         "subType": "Dark Jedi Master/First Order",
-        "title": "•Supreme Leader Snoke (AI)",
+        "title": "•Supreme Leader Snoke (Holo AI)",
         "type": "Character",
         "uniqueness": "*",
         "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Supreme Leader Snoke (AI - Hologram)/image.png",
@@ -50832,6 +50850,9 @@
       "side": "Dark"
     },
     {
+      "abbr": [
+        "DLS"
+      ],
       "front": {
         "darkSideIcons": 2,
         "destiny": "0",
@@ -60513,6 +60534,9 @@
       "side": "Dark"
     },
     {
+      "abbr": [
+        "SSAv"
+      ],
       "front": {
         "destiny": "3",
         "errataDate": "2023-12-22",
@@ -61819,7 +61843,8 @@
       "rarity": "C",
       "rulings": [
         "Dark cannot use persona replacement to play characters that aren't normally allowed (for example, cannot persona replace Set 13 Maul with Darth Maul Young Apprentice).",
-        "(7-side) An empty Used Pile does not prevent Dark from performing the 're-circulate and shuffle Reserve Deck' action."
+        "(7-side) An empty Used Pile does not prevent Dark from performing the 're-circulate and shuffle Reserve Deck' action.",
+        "(7-side) When flipping back at end of their own turn, Dark may opt to cause We're Doomed to expire first, thus avoiding the damage reduction."
       ],
       "set": "213",
       "side": "Dark"
@@ -66747,6 +66772,9 @@
       "side": "Dark"
     },
     {
+      "abbr": [
+        "Admiral Trench (AI)"
+      ],
       "front": {
         "ability": "3",
         "characteristics": [
@@ -66773,7 +66801,7 @@
         "lore": "Harch commander. Leader. Trade Federation.",
         "power": "3",
         "subType": "Republic",
-        "title": "•Admiral Trench (AI)",
+        "title": "•Admiral Trench (Holo AI)",
         "type": "Character",
         "uniqueness": "*",
         "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Admiral Trench (AI)/image.png",
@@ -68368,6 +68396,9 @@
         }
       ],
       "rarity": "U",
+      "rulings": [
+        "The Lost function may not be initiated with an empty Force Pile."
+      ],
       "set": "222",
       "side": "Dark"
     },
@@ -69248,6 +69279,10 @@
       "side": "Dark"
     },
     {
+      "abbr": [
+        "Batmaul",
+        "Maul (AI)"
+      ],
       "front": {
         "ability": "6",
         "characteristics": [
@@ -69276,7 +69311,7 @@
         "lore": "Crimson Dawn leader. Gangster.",
         "power": "4",
         "subType": "Sith",
-        "title": "•Maul (AI)",
+        "title": "•Maul (Holo AI)",
         "type": "Character",
         "uniqueness": "*",
         "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Maul (AI)/image.png",

@@ -960,6 +960,9 @@
       "side": "Light"
     },
     {
+      "abbr": [
+        "Aayla Secura (AI)"
+      ],
       "front": {
         "ability": "6",
         "characteristics": [
@@ -983,7 +986,7 @@
         "lore": "Female Twi'lek.",
         "power": "4",
         "subType": "Alien",
-        "title": "•Aayla Secura (AI)",
+        "title": "•Aayla Secura (Holo AI)",
         "type": "Character",
         "uniqueness": "*",
         "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Aayla Secura (AI - Hologram)/image.png",
@@ -3422,6 +3425,9 @@
       "side": "Light"
     },
     {
+      "abbr": [
+        "AYBD"
+      ],
       "front": {
         "destiny": "5",
         "gametext": "USED: Target your [Episode I] Jedi defending a battle. Target is immune to attrition for rest of turn (unless Dark Jedi present).  LOST: In a battle you lost, place a Jedi Council Member you just forfeited in Used Pile to cancel all battle damage and attrition against you.",
@@ -3446,7 +3452,8 @@
       ],
       "rarity": "R",
       "rulings": [
-        "The Used function may be played with a Dark Jedi present, but the target Jedi will not gain immunity to attrition."
+        "The Used function may be played with a Dark Jedi present, but the target Jedi will not gain immunity to attrition.",
+        "When the Lost function is played, any weapons or other cards carried by the Jedi remain in the Lost Pile. This Interrupt would be placed in Lost Pile on top of those other cards."
       ],
       "set": "12",
       "side": "Light"
@@ -10291,7 +10298,7 @@
       "side": "Light",
       "underlyingCardFor": [
         "Commander Cody",
-        "Commander Cody (AI)"
+        "Commander Cody (Holo AI)"
       ]
     },
     {
@@ -11115,6 +11122,9 @@
       "side": "Light"
     },
     {
+      "abbr": [
+        "Commander Cody (AI)"
+      ],
       "combo": [
         "Commander Cody + Captain Rex"
       ],
@@ -11141,7 +11151,7 @@
         "lore": "Leader. Clone trooper.",
         "power": "3",
         "subType": "Republic",
-        "title": "•Commander Cody (AI)",
+        "title": "•Commander Cody (Holo AI)",
         "type": "Character",
         "uniqueness": "*",
         "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Commander Cody (AI - Hologram)/image.png",
@@ -14222,6 +14232,7 @@
       ],
       "rarity": "PM",
       "rulings": [
+        "Not a Rogue Squadron pilot (e.g. does not work for Wedge Antilles, Red Squadron Leader).",
         "The 'draw two and choose one' text does <u>not</u> play nice with 'draws two battle destiny if unable to otherwise' (e.g. Commander Luke Skywalker (V)). These texts cannot be combined. It's almost always best for Light to just draw two battle destiny with Luke, and ignore Dash's text.",
         "When using 'draw two and choose one', any response to an individual destiny draw (such as adding 1 with Heading To The Medical Frigate, or canceling a draw with Grand Moff Tarkin) is a response to a draw immediately after it is made, not a response to a draw being chosen. For example, if Dark cancels a draw or subtracts from a draw, Light can then simply choose the other draw."
       ],
@@ -22309,7 +22320,8 @@
       ],
       "rarity": "R",
       "rulings": [
-        "A card that deploys for 0 such as Admiral Ozzel is not the same as 'free' and thus doesn't trigger this card."
+        "A card that deploys for 0 such as Admiral Ozzel is not the same as 'free' and thus doesn't trigger this card.",
+        "When Dark simultaneously deploys a pair of cards for free (e.g. due to It Can Wait), each card is separately affected by Goldenrod, potentially causing a total cost of 4."
       ],
       "set": "200d",
       "side": "Light",
@@ -27378,7 +27390,7 @@
       "rulings": [
         "The target does deploy briefly, triggering any automatic actions (such as Objective flips) first.",
         "The target card is placed in owner's hand, even if it was being deployed from Reserve Deck or somewhere else.",
-        "If two cards were being deployed simultaneously, such as via Combat Response, both cards are equally affected (both placed in hand and may deploy free next turn).",
+        "If two cards were being deployed simultaneously, such as via Combat Response, both cards are equally affected (both placed in hand and each may deploy free next turn - even separately).",
         "If the target card is unique, that unique card/persona cannot deploy again this turn.",
         "Cannot be played as a response to persona replacement (e.g. Lord Vader replacing Darth Vader).",
         "Cannot be played as a response to other replacement (e.g. Beedo replacing a Rodian, TIE Assault Squadron replacing 3 TIEs, etc)."
@@ -30449,6 +30461,9 @@
       "side": "Light"
     },
     {
+      "abbr": [
+        "Kit Fisto (AI)"
+      ],
       "front": {
         "ability": "7",
         "characteristics": [
@@ -30472,7 +30487,7 @@
         "lore": "Nautolan Jedi Council member.",
         "power": "5",
         "subType": "Jedi Master",
-        "title": "•Kit Fisto (AI)",
+        "title": "•Kit Fisto (Holo AI)",
         "type": "Character",
         "uniqueness": "*",
         "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Kit Fisto (AI - Hologram)/image.png",
@@ -30741,7 +30756,7 @@
       "side": "Light",
       "underlyingCardFor": [
         "Qi'ra",
-        "Qi'ra (AI)"
+        "Qi'ra (Holo AI)"
       ]
     },
     {
@@ -40516,7 +40531,7 @@
       "side": "Light",
       "underlyingCardFor": [
         "Aayla Secura",
-        "Aayla Secura (AI)"
+        "Aayla Secura (Holo AI)"
       ]
     },
     {
@@ -47558,7 +47573,7 @@
       "side": "Light",
       "underlyingCardFor": [
         "Kit Fisto",
-        "Kit Fisto (AI)"
+        "Kit Fisto (Holo AI)"
       ]
     },
     {
@@ -58766,6 +58781,9 @@
         }
       ],
       "rarity": "R",
+      "rulings": [
+        "The relocation is a free and unlimited move."
+      ],
       "set": "9",
       "side": "Light",
       "underlyingCardFor": [
@@ -71657,6 +71675,9 @@
       "side": "Light"
     },
     {
+      "abbr": [
+        "Captain Rex, 501st Legion (AI)"
+      ],
       "combo": [
         "Commander Cody + Captain Rex"
       ],
@@ -73212,6 +73233,10 @@
         }
       ],
       "rarity": "C2",
+      "rulings": [
+        "The Lost function requires the lightsaber to deploy on Mara.",
+        "The Lost function does not entitle Light to deploy a lightsaber on Mara that couldn't deploy on her otherwise."
+      ],
       "set": "222",
       "side": "Light"
     },
@@ -74012,7 +74037,8 @@
     {
       "abbr": [
         "Qira",
-        "Q'ira"
+        "Q'ira",
+        "Qi'ra (AI)"
       ],
       "front": {
         "ability": "4",
@@ -74038,7 +74064,7 @@
         "lore": "Female thief. Corellian smuggler.",
         "power": "3",
         "subType": "Alien",
-        "title": "•Qi'ra (AI)",
+        "title": "•Qi'ra (Holo AI)",
         "type": "Character",
         "uniqueness": "*",
         "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Qira (AI)/image.png",
