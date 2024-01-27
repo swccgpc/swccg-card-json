@@ -6903,7 +6903,7 @@
         "darkSideIcons": 1,
         "destiny": "0",
         "errataSymbol": "E1",
-        "gametext": "Light:  Your spies deploy -1 here and at related sites. If you control, characters targeted by Undercover are immune to Hutt Smooch.  Dark:  Force drain -X here, where X= number of spies opponent has on table.",
+        "gametext": "Light:  Your spies deploy -1 here and at related sites. If you control, characters targeted by Undercover are immune to Hutt Smooch.  Dark:  Force drain -X here, where X = number of spies opponent has on table.",
         "icons": [
           "Planet",
           "Special Edition"
@@ -6934,6 +6934,9 @@
         "Yavin 4 Base Operations"
       ],
       "rarity": "F",
+      "rulings": [
+        "In Dark's game text, the value of X includes counting Light's Undercover spies such as Boushh, TK-422, etc."
+      ],
       "set": "7",
       "side": "Light"
     },
@@ -13017,6 +13020,9 @@
       "abbr": [
         "JCC"
       ],
+      "canceledBy": [
+        "Evil Is Everywhere (cancels Dark's game text)"
+      ],
       "combo": [
         "Coruscant: Jedi Council Chamber + Plead My Case To The Senate Objective",
         "Coruscant: Jedi Council Chamber + Speak With The Jedi Council"
@@ -13055,6 +13061,9 @@
         "Yoda, Senior Council Member"
       ],
       "rarity": "R",
+      "rulings": [
+        "Cancels non-unique lightsaber Force drain bonuses for both players."
+      ],
       "set": "12",
       "side": "Light"
     },
@@ -14233,6 +14242,7 @@
       "rarity": "PM",
       "rulings": [
         "Not a Rogue Squadron pilot (e.g. does not work for Wedge Antilles, Red Squadron Leader).",
+        "Dash is a matching pilot, so this vehicle is immune to attrition < 6 with Echo Base Garrison.",
         "The 'draw two and choose one' text does <u>not</u> play nice with 'draws two battle destiny if unable to otherwise' (e.g. Commander Luke Skywalker (V)). These texts cannot be combined. It's almost always best for Light to just draw two battle destiny with Luke, and ignore Dash's text.",
         "When using 'draw two and choose one', any response to an individual destiny draw (such as adding 1 with Heading To The Medical Frigate, or canceling a draw with Grand Moff Tarkin) is a response to a draw immediately after it is made, not a response to a draw being chosen. For example, if Dark cancels a draw or subtracts from a draw, Light can then simply choose the other draw."
       ],
@@ -24179,6 +24189,7 @@
       "rulings": [
         "Anakin's Funeral Pyre is not a 'starting location' - this objective does not work with The Rise Of Skywalker or The Force Is Strong In My Family.",
         "(0-side) An empty Used Pile does not prevent Light from performing the 're-circulate and shuffle Reserve Deck' action.",
+        "(7-side) If Dark stacks a card to prevent retrieval, this is done before Light would have paid for Secret Plans (and then Light does not pay).",
         "(7-side) The card stacked face down from hand is first briefly revealed to both players.",
         "(7-side) When playing against Bring Him Before Me, Light <u>may</u> select Luke as the card to be retrieved, but Dark <u>may not</u> stack a card from hand on I Feel The Conflict to place that Luke out of play instead."
       ],
@@ -28827,6 +28838,9 @@
       "side": "Light"
     },
     {
+      "abbr": [
+        "JP"
+      ],
       "canceledBy": [
         "Your Powers Are Weak",
         "Old Man"
@@ -28853,6 +28867,10 @@
         }
       ],
       "rarity": "R1",
+      "rulings": [
+        "The target Jedi does not need to be a Rebel. Regardless of whether they are a Rebel, their power is not doubled.",
+        "Affected characters have their power doubled for remainder of battle for all purposes (e.g. Wookiee Strangle)."
+      ],
       "set": "1",
       "side": "Light",
       "underlyingCardFor": [
@@ -29288,6 +29306,7 @@
         "Kitik Keed'kak is lost if at same site as Kal'Falnl C'ndros"
       ],
       "combo": [
+        "Smoke Screen - Easily get a high destiny, reducing opponent's total to 0.",
         "I Don't Like Sand - Cause both players to draw only one battle destiny, setting up KFC. KFC's text does work with Sand, reducing opponent's total to 0."
       ],
       "front": {
@@ -29323,8 +29342,9 @@
       ],
       "rarity": "R1",
       "rulings": [
+        "Works with substituted draws (e.g. a destiny value obtained from Smoke Screen would count as Light's draw).",
         "Modifiers to individual battle destiny draws are applied before comparing them to see which is higher.",
-        "Compare the battle destinies as an automatic action just after both players have finished drawing their one battle destiny.",
+        "Compare the battle destinies as an automatic action just after both players have finished drawing (or substituting) their one battle destiny.",
         "Resets opponent's <u>total</u> battle destiny to an unmodifiable 0.",
         "Works with I Don't Like Sand - limits both players to 1 battle destiny draw, then is able to reduce opponent's <u>total</u> to 0 (the individual draw may not be modified, but the total may be modified)."
       ],
@@ -41416,6 +41436,9 @@
         "Sabe"
       ],
       "rarity": "R",
+      "rulings": [
+        "Cancels the +9 power from the game text of Death Star Assault Squadron. None of DSAS's other game text is affected."
+      ],
       "set": "203",
       "side": "Light"
     },
@@ -61644,6 +61667,9 @@
         "Swamp"
       ],
       "rarity": "U",
+      "rulings": [
+        "Worrt's text preventing opponent's characters from using their landspeed even works during battle."
+      ],
       "set": "6",
       "side": "Light"
     },
@@ -74229,7 +74255,47 @@
         }
       ],
       "rarity": "U",
+      "rulings": [
+        "If played on a starship that has already cloaked, does not undo the cloaking.",
+        "Cannot be played as a 'response' to a starship cloaking. Must be played in advance in order to prevent cloaking."
+      ],
       "set": "223",
+      "side": "Light"
+    },
+    {
+      "front": {
+        "destiny": "5",
+        "errataSymbol": "E1",
+        "gametext": "Deploy on C-3PO. Eyes In The Dark, The Professor, Mantellian Savrip and Hopping Mad are immune to Alter. Also, during each draw phase, unless C-3PO is present with a Wookiee, you may examine the cards in your Used Pile. (Immune to Alter.)",
+        "icons": [
+          "Cloud City"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/CloudCity-Light/large/hindsight_readable.gif",
+        "lore": "'I'm backwards! You fleabitten furball... only an overgrown mophead like you would be stupid enough-'",
+        "title": "•Hindsight (Readable)",
+        "type": "Effect",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Hindsight (Readable) (Errata)/image.png",
+        "printableSlipType": "ERRATA"
+      },
+      "gempId": "5_26",
+      "id": 7294,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "5"
+        }
+      ],
+      "pulledBy": [
+        "The Signal",
+        "We Wish To Board At Once",
+        "Wokling (V)"
+      ],
+      "rarity": "R",
+      "rulings": [
+        "This 'readable' version of Hindsight does not physically exist; it is provided here for convenience."
+      ],
+      "set": "5",
       "side": "Light"
     }
   ]

@@ -8094,6 +8094,9 @@
         "Swamp"
       ],
       "rarity": "U",
+      "rulings": [
+        "Bubo's text preventing opponent's characters from using their landspeed even works during battle (e.g. countering Narrow Escape)."
+      ],
       "set": "6",
       "side": "Dark"
     },
@@ -11696,6 +11699,9 @@
         "Blizzard 4"
       ],
       "rarity": "U2",
+      "rulings": [
+        "If Praji is present where the card 'Artoo-Detoo In Red 5' is landed, Praji would cancel its text that allows Luke to deploy free aboard. Much of its other text would already be canceled due to being landed."
+      ],
       "set": "1",
       "side": "Dark",
       "underlyingCardFor": [
@@ -14019,6 +14025,9 @@
       "side": "Dark"
     },
     {
+      "abbr": [
+        "DJP"
+      ],
       "canceledBy": [
         "Throw Me Another Charge",
         "Twilight Is Upon Me"
@@ -14042,6 +14051,10 @@
         }
       ],
       "rarity": "R1",
+      "rulings": [
+        "The target Dark Jedi does not need to be an Imperial. Regardless of whether they are an Imperial, their power is not doubled.",
+        "Affected characters have their power doubled for remainder of battle for all purposes (e.g. Wookiee Strangle)."
+      ],
       "set": "1",
       "side": "Dark"
     },
@@ -15471,6 +15484,9 @@
       ]
     },
     {
+      "abbr": [
+        "DSAS"
+      ],
       "front": {
         "characteristics": [
           "Imperial (starship)"
@@ -24931,7 +24947,9 @@
         "lore": "'All his live has he looked away. To the future, to the horizon. Never his mind on where he was! Hmm? What he was doing! Hm.'",
         "title": "•He Is Not Ready",
         "type": "Effect",
-        "uniqueness": "*"
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/He Is Not Ready (Errata)/image.png",
+        "printableSlipType": "ERRATA"
       },
       "gempId": "4_123",
       "id": 1115,
@@ -26762,7 +26780,9 @@
         "lore": "Utilizing his 'dark eye' probe droids and sensory equipment, Maul knew he would eventually find his target.",
         "title": "•I Will Find Them Quickly, Master",
         "type": "Effect",
-        "uniqueness": "*"
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/I Will Find Them Quickly Master (Errata)/image.png",
+        "printableSlipType": "ERRATA"
       },
       "gempId": "11_71",
       "id": 1222,
@@ -28849,7 +28869,9 @@
         "subType": "Used",
         "title": "•In Range",
         "type": "Interrupt",
-        "uniqueness": "*"
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/In Range (Errata)/image.png",
+        "printableSlipType": "ERRATA"
       },
       "gempId": "7_254",
       "id": 1295,
@@ -47589,7 +47611,7 @@
           "Endor"
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/Endor-Dark/large/sneakattack.gif",
-        "lore": "Imperial training allows scouts to use speed and stealth to their advantage. On Endor, they were also backed up by Commander Igar's ATSTs.",
+        "lore": "Imperial training allows scouts to use speed and stealth to their advantage. On Endor, they were also backed up by Commander Igar's AT-STs.",
         "subType": "Used Or Lost",
         "title": "•Sneak Attack",
         "type": "Interrupt",
@@ -47619,7 +47641,7 @@
           "Set 0"
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual0-Dark/large/sneakattack.gif",
-        "lore": "Imperial training allows scouts to use speed and stealth to their advantage. On Endor, they were also backed up by Commander Igar's ATSTs.",
+        "lore": "Imperial training allows scouts to use speed and stealth to their advantage. On Endor, they were also backed up by Commander Igar's AT-STs.",
         "subType": "Used Or Lost",
         "title": "•Sneak Attack (V)",
         "type": "Interrupt",
@@ -69368,6 +69390,9 @@
         "Mitth'raw'nuruodo"
       ],
       "rarity": "C",
+      "rulings": [
+        "(LOST Function) If a system is 'liberated' (which occurs via Light's card Restore Freedom To The Galaxy), Dark may use this function - none of the other requirements apply."
+      ],
       "set": "223",
       "side": "Dark"
     },
