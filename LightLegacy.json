@@ -3973,6 +3973,37 @@
     },
     {
       "front": {
+        "ability": "3",
+        "deploy": "3",
+        "destiny": "3",
+        "extraText": [
+          "Force-Attuned"
+        ],
+        "forfeit": "4",
+        "gametext": "Deploys -1 to Coruscant or to same location as Obi-Wan. Adds one battle destiny with Jango. Dring your move phase, may use X Force to \"break cover\" of opponent's Undercover spy at same site, where X = spy's printed deploy cost -2.",
+        "icons": [
+          "Episode I"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/legacy/VirtualBlock9-Light/large/dexterjettster_ai.gif",
+        "lore": "Information broker.",
+        "power": "3",
+        "subType": "Alien",
+        "title": "•Dexter Jettster (AI)",
+        "type": "Character"
+      },
+      "id": 7295,
+      "legacy": true,
+      "printings": [
+        {
+          "set": "1009"
+        }
+      ],
+      "rarity": "R",
+      "set": "1009",
+      "side": "Light"
+    },
+    {
+      "front": {
         "destiny": "6",
         "gametext": "Deploy on table.  Skull is destiny +2.  Once per game, may deploy one Tauntaun Bones from Reserve Deck; reshuffle.  You may play I Thought They Smelled Bad On The Outside as follows: 'USED: Lose 1 Force to take a creature (except Nudj), creature vehicle, or Beast-Rider into hand from Reserve Deck; reshuffle.' (Immune to Alter.)",
         "icons": [
@@ -13150,7 +13181,7 @@
         "politics": "3",
         "power": "2",
         "subType": "Republic",
-        "title": "•Supreme Chancellor Valorum (AI) (V)",
+        "title": "•Supreme Chancellor Valorum (V) (AI)",
         "type": "Character"
       },
       "id": 5931,

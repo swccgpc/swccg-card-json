@@ -14909,6 +14909,10 @@
         "Escape Pod (V)"
       ],
       "rarity": "R1",
+      "rulings": [
+        "See 'Dejarik Rules' for full details.",
+        "Only dejariks and holograms may exist here (e.g. no Presence Of The Force)."
+      ],
       "set": "2",
       "side": "Light"
     },
@@ -20175,7 +20179,7 @@
       ],
       "front": {
         "destiny": "5",
-        "gametext": "Cancel Tatooine Occupation, Cloud City Occupation, Rebel Base Occupation. (Immune to Sense.) OR Peak at one card randomly selected from opponent's hand. If that card is a speeder bike, AT-ST, or skiff, steal it into hand.",
+        "gametext": "Cancel Tatooine Occupation, Cloud City Occupation, Rebel Base Occupation. (Immune to Sense.) OR Peek at one card randomly selected from opponent's hand. If that card is a speeder bike, AT-ST, or skiff, steal it into hand.",
         "icons": [
           "Coruscant"
         ],
@@ -30612,7 +30616,7 @@
         "errataSymbol": "E1",
         "gametext": "Deploy on your side of table. For each unit of ability you have present during a battle, you may use 1 Force to raise your total power by 1. Ability used in this way cannot also be used to draw destiny.",
         "imageUrl": "https://res.starwarsccg.org/cards/Premiere-Light/large/klorslug.gif",
-        "lore": "Dejarik hologram of venomous swamp creature from Noe'ha'on. Keen senses of smell and vision. Dangerous hunter. Lays eggs - hundreds of ravenously hungry hatchlings.",
+        "lore": "Dejarik of venomous swamp creature from Noe'ha'on. Keen senses of smell and vision. Dangerous hunter. Lays eggs - hundreds of ravenously hungry hatchlings.",
         "title": "•K'lor'slug",
         "type": "Effect",
         "uniqueness": "*",
@@ -30659,7 +30663,7 @@
           "Set 0"
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual0-Light/large/klorslug.gif",
-        "lore": "Dejarik hologram of venomous swamp creature from Noe'ha'on. Keen senses of smell and vision. Dangerous hunter. Lays eggs - hundreds of ravenously hungry hatchlings.",
+        "lore": "Dejarik of venomous swamp creature from Noe'ha'on. Keen senses of smell and vision. Dangerous hunter. Lays eggs - hundreds of ravenously hungry hatchlings.",
         "title": "•K'lor'slug (V)",
         "type": "Effect",
         "uniqueness": "*"
@@ -33274,7 +33278,7 @@
         "forfeit": "4",
         "gametext": "At any time during your turn, may use 1 Force to 'defuse' (lose) any one mine at same site.",
         "imageUrl": "https://res.starwarsccg.org/cards/Premiere-Light/large/linv8k.gif",
-        "lore": "Armored military droid which specializes in laying explosive mines. Originally intended to set charges inside ore and spice mines, but has also been converted for military use.",
+        "lore": "Representative of armored mining/demolition droids. Converted for military duty. Sets and defuses mines and explosives. LIN-V8K was refurbished by Jawas.",
         "power": "0",
         "subType": "Droid",
         "title": "LIN-V8K (Elleyein-Veeatekay)",
@@ -34879,7 +34883,7 @@
           "Death Star II"
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/DeathStarII-Light/large/luminous.gif",
-        "lore": "Medium transport with boosted hyperdrive. Armor and capacity diminished. Crew trained for reconnaissance and swift intergalatic transport.",
+        "lore": "Medium transport with boosted hyperdrive. Armor and capacity diminished. Crew trained for reconnaissance and swift intergalactic transport.",
         "power": "1",
         "subType": "Capital: Modified Transport",
         "title": "•Luminous",
@@ -40237,6 +40241,9 @@
         }
       ],
       "rarity": "U",
+      "rulings": [
+        "Perosei's deploy phase relocation is an unlimited move. Perosei may make a regular move during the same turn."
+      ],
       "set": "14",
       "side": "Light"
     },
@@ -55947,7 +55954,7 @@
           "Hoth"
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/Hoth-Light/large/tauntaunhandler.gif",
-        "lore": "Corman Quien is a typical Scout at Echo Base. Captured, tanned and trained the native tauntauns.",
+        "lore": "Corman Quien is a typical scout at Echo Base. Captured, tamed and trained the native tauntauns.",
         "power": "1",
         "subType": "Rebel",
         "title": "•••Tauntaun Handler",
@@ -69391,7 +69398,8 @@
       "rulings": [
         "The first function reveals another card from hand, it may not reveal itself (although it could reveal a 2nd copy of Take A Seat from hand).",
         "If this is the only card in hand, the first function cannot be played.",
-        "The first function may only be played during your deploy phase, and only if the Jedi Council Chamber is not already on table."
+        "The first function may only be played during your deploy phase, and only if the Jedi Council Chamber is not already on table.",
+        "Revealing a card from hand does not allow Shocking Information to be played (as it was a LS action that revealed the card, not a DS action)."
       ],
       "set": "218",
       "side": "Light"
@@ -73046,6 +73054,9 @@
       "side": "Light"
     },
     {
+      "abbr": [
+        "ABR"
+      ],
       "front": {
         "destiny": "5",
         "errataDate": "2023-10-02",

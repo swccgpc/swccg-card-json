@@ -28347,6 +28347,10 @@
         "Masterful Move & Endor Occupation"
       ],
       "rarity": "R1",
+      "rulings": [
+        "See 'Dejarik Rules' for full details.",
+        "Only dejariks and holograms may exist here (e.g. no Presence Of The Force)."
+      ],
       "set": "2",
       "side": "Dark"
     },
@@ -32900,7 +32904,7 @@
           "Cloud City"
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/CloudCity-Dark/large/landocalrissian.gif",
-        "lore": "Scoundrel and gambler. Petty administrator of a small Tibanna gas mining operation. Easily coerced. Has problems of his own. Had dealings with the Tonnika sisters - twice.",
+        "lore": "Scoundrel and gambler. Petty administrator of a small Tibanna gas mining operation. Easily coerced. Has problems of his own. Had dealings with the Tonnika Sisters - twice.",
         "power": "3",
         "subType": "Alien",
         "title": "•Lando Calrissian",
@@ -35625,7 +35629,8 @@
       ],
       "rarity": "PM",
       "rulings": [
-        "Moving For Free: When using Elis Helrot or docking bay transit, the cost is free <u>only</u> if Mara is moving alone or if the cards moving with her also move for free (Dark still draws destiny for Elis Helrot)."
+        "Moving For Free: When using Elis Helrot or docking bay transit, the cost is free <u>only</u> if Mara is moving alone or if the cards moving with her also move for free (Dark still draws destiny for Elis Helrot).",
+        "When Mara moves for free using Elis Helrot, Elis Helrot is Used (not Lost) as payment was not declined; it was accepted and made free."
       ],
       "set": "200",
       "side": "Dark"
@@ -36475,6 +36480,11 @@
       ],
       "front": {
         "ability": "3",
+        "characteristics": [
+          "Chiss",
+          "commander",
+          "leader"
+        ],
         "deploy": "3",
         "destiny": "1",
         "extraText": [
@@ -64056,7 +64066,7 @@
           "Set 17"
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual17-Dark/large/landocalrissianvadersbroker.gif",
-        "lore": "Scoundrel and gambler. Petty administrator of a small Tibanna gas mining operation. Easily coerced. Has problems of his own. Had dealings with the Tonnika sisters - twice.",
+        "lore": "Scoundrel and gambler. Petty administrator of a small Tibanna gas mining operation. Easily coerced. Has problems of his own. Had dealings with the Tonnika Sisters - twice.",
         "power": "3",
         "subType": "Alien/Imperial",
         "title": "•Lando Calrissian, Vader's Broker",
@@ -68214,7 +68224,7 @@
           "Force-Attuned"
         ],
         "forfeit": "6",
-        "gametext": "Adds one battle destiny. If opponent initiates battle here, retrieve 1 Force and add its destiny number to Ap'lek's power, or power of Night Buzzard he is piloting. End of your turn: * Use 1 or [Skull].",
+        "gametext": "Adds one battle destiny. If opponent initiates battle here, retrieve 1 Force and add its destiny number to Ap'lek's power, or power of Night Buzzard he is piloting. End of your turn: Use 1 Force to maintain OR Place out of play.",
         "icons": [
           "Episode VII",
           "Pilot",
