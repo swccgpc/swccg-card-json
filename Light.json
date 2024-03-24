@@ -13481,7 +13481,7 @@
         "ability": "2",
         "armor": "4",
         "characteristics": [
-          "Clone trooper",
+          "clone trooper",
           "trooper",
           "spy"
         ],
@@ -13526,7 +13526,7 @@
         "ability": "2",
         "armor": "4",
         "characteristics": [
-          "Clone trooper",
+          "clone trooper",
           "trooper",
           "spy"
         ],
@@ -39160,6 +39160,9 @@
     {
       "front": {
         "ability": "2",
+        "characteristics": [
+          "Sullustan"
+        ],
         "deploy": "2",
         "destiny": "2",
         "forfeit": "4",
@@ -72375,6 +72378,10 @@
       ],
       "front": {
         "ability": "2",
+        "characteristics": [
+          "clone trooper",
+          "trooper"
+        ],
         "armor": "3",
         "deploy": "2",
         "destiny": "3",
@@ -73172,6 +73179,11 @@
       ],
       "front": {
         "ability": "2",
+        "characteristics": [
+          "Echo Base trooper",
+          "Rebel trooper",
+          "trooper"
+        ],
         "deploy": "2",
         "destiny": "3",
         "forfeit": "4",
@@ -73208,6 +73220,9 @@
       ],
       "front": {
         "ability": "3",
+        "characteristics": [
+          "general"
+        ],
         "deploy": "4",
         "destiny": "1",
         "extraText": [
@@ -73351,6 +73366,10 @@
       ],
       "front": {
         "ability": "2",
+        "characteristics": [
+          "smuggler",
+          "Sullustan"
+        ],
         "deploy": "2",
         "destiny": "2",
         "forfeit": "4",
@@ -73491,6 +73510,9 @@
       ],
       "front": {
         "ability": "6",
+        "characteristics": [
+          "scout"
+        ],
         "deploy": "8",
         "destiny": "6",
         "extraText": [

@@ -67055,6 +67055,13 @@
       ],
       "front": {
         "ability": "2",
+        "characteristics": [
+          "captain",
+          "leader",
+          "sandtrooper",
+          "stormtrooper",
+          "trooper"
+        ],
         "armor": "4",
         "deploy": "2",
         "destiny": "3",
@@ -67134,6 +67141,9 @@
       ],
       "front": {
         "ability": "2",
+        "characteristics": [
+          "commander"
+        ],
         "deploy": "2",
         "destiny": "2",
         "forfeit": "4",
@@ -67203,6 +67213,12 @@
       ],
       "front": {
         "ability": "1",
+        "characteristics": [
+          "biker scout trooper",
+          "scout",
+          "stormtrooper",
+          "trooper"
+        ],
         "deploy": "2",
         "destiny": "3",
         "forfeit": "4",
@@ -67241,6 +67257,10 @@
       ],
       "front": {
         "ability": "2",
+        "characteristics": [
+          "stormtrooper",
+          "trooper"
+        ],
         "deploy": "2",
         "destiny": "3",
         "forfeit": "3",
@@ -67278,6 +67298,13 @@
       ],
       "front": {
         "ability": "2",
+        "characteristics": [
+          "biker scout trooper",
+          "ISB agent",
+          "scout",
+          "stormtrooper",
+          "trooper"
+        ],
         "deploy": "2",
         "destiny": "3",
         "forfeit": "3",
@@ -67417,6 +67444,10 @@
       ],
       "front": {
         "ability": "3",
+        "characteristics": [
+          "general",
+          "leader"
+        ],
         "deploy": "3",
         "destiny": "1",
         "extraText": [
@@ -67582,6 +67613,11 @@
       ],
       "front": {
         "ability": "3",
+        "characteristics": [
+          "female",
+          "ISB agent",
+          "leader"
+        ],
         "deploy": "3",
         "destiny": "3",
         "extraText": [
@@ -67621,6 +67657,10 @@
       ],
       "front": {
         "ability": "4",
+        "characteristics": [
+          "ISB agent",
+          "leader"
+        ],
         "deploy": "3",
         "destiny": "3",
         "extraText": [
@@ -68235,6 +68275,9 @@
       ],
       "front": {
         "ability": "3",
+        "characteristics": [
+          "Knight of Ren"
+        ],
         "deploy": "5",
         "destiny": "3",
         "extraText": [
@@ -68307,6 +68350,11 @@
       ],
       "front": {
         "ability": "2",
+        "characteristics": [
+          "bounty hunter",
+          "guard",
+          "Wookiee"
+        ],
         "armor": "5",
         "deploy": "4",
         "destiny": "2",
@@ -68346,6 +68394,9 @@
       ],
       "front": {
         "ability": "3",
+        "characteristics": [
+          "bounty hunter"
+        ],
         "armor": "5",
         "deploy": "4",
         "destiny": "1",
@@ -68386,6 +68437,10 @@
       ],
       "front": {
         "ability": "2",
+        "characteristics": [
+          "bounty hunter",
+          "gunner"
+        ],
         "deploy": "3",
         "destiny": "3",
         "forfeit": "4",
@@ -68522,6 +68577,10 @@
       ],
       "front": {
         "ability": "5",
+        "characteristics": [
+          "Knight of Ren",
+          "leader"
+        ],
         "deploy": "6",
         "destiny": "1",
         "extraText": [
@@ -68604,6 +68663,9 @@
       ],
       "front": {
         "ability": "7",
+        "characteristics": [
+          "leader"
+        ],
         "deploy": "5",
         "destiny": "6",
         "extraText": [
@@ -68717,6 +68779,12 @@
       ],
       "front": {
         "ability": "2",
+        "characteristics": [
+          "assassin",
+          "female",
+          "spy",
+          "thief"
+        ],
         "deploy": "2",
         "destiny": "2",
         "forfeit": "2",
