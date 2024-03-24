@@ -1908,7 +1908,7 @@
       ],
       "back": {
         "destiny": "7",
-        "gametext": "Agents Of Black Sun:Deploy Imperial City (With Xizor there) and Coruscant system.{For} remainder of game, your aliens with 'Black Sun' in lore, bounty hunters, and information brokers are Black Sun Agents. You may not deploy cards with ability except Black Sun Agents, Emperor, or Independent starships. During your control phase, each of your bounty hunters may make a regular move to an adjacent site where there is a bounty. Scanning Crew may not be played.{Flip} this card if Xizor is at a battleground site and Luke is not at a battleground site.Vengeance Of The Dark Prince:{While} this side up, once per turn, may place a card from hand in Used Pile to peek at cards in your Force Pile. Once during each of your battle phases, may peek at top X cards of any Reserve Deck, where X= number of locations you occupy. For each Black Sun Agent in battle, attrition against opponent is +1. During your control phase, opponent loses 1 Force for each battleground location occupied by Xizor or Emperor.{Flip} this card if Luke is at a battleground site or if Xizor not on table.",
+        "gametext": "Agents Of Black Sun:Deploy Imperial City (With Xizor there) and Coruscant system.{For} remainder of game, your aliens with 'Black Sun' in lore, bounty hunters, and information brokers are Black Sun Agents. You may not deploy cards with ability except Black Sun Agents, Emperor, or Independent starships. During your control phase, each of your bounty hunters may make a regular move to an adjacent site where there is a bounty. Scanning Crew may not be played.{Flip} this card if Xizor is at a battleground site and Luke is not at a battleground site.Vengeance Of The Dark Prince:{While} this side up, once per turn, may place a card from hand in Used Pile to peek at cards in your Force Pile. Once during each of your battle phases, may peek at top X cards of any Reserve Deck, where X = number of locations you occupy. For each Black Sun Agent in battle, attrition against opponent is +1. During your control phase, opponent loses 1 Force for each battleground location occupied by Xizor or Emperor.{Flip} this card if Luke is at a battleground site or if Xizor not on table.",
         "icons": [
           "Reflections 2"
         ],
@@ -1918,7 +1918,7 @@
       },
       "front": {
         "destiny": "0",
-        "gametext": "Agents Of Black Sun:Deploy Imperial City (With Xizor there) and Coruscant system.{For} remainder of game, your aliens with 'Black Sun' in lore, bounty hunters, and information brokers are Black Sun Agents. You may not deploy cards with ability except Black Sun Agents, Emperor, or Independent starships. During your control phase, each of your bounty hunters may make a regular move to an adjacent site where there is a bounty. Scanning Crew may not be played.{Flip} this card if Xizor is at a battleground site and Luke is not at a battleground site.Vengeance Of The Dark Prince:{While} this side up, once per turn, may place a card from hand in Used Pile to peek at cards in your Force Pile. Once during each of your battle phases, may peek at top X cards of any Reserve Deck, where X= number of locations you occupy. For each Black Sun Agent in battle, attrition against opponent is +1. During your control phase, opponent loses 1 Force for each battleground location occupied by Xizor or Emperor.{Flip} this card if Luke is at a battleground site or if Xizor not on table.",
+        "gametext": "Agents Of Black Sun:Deploy Imperial City (With Xizor there) and Coruscant system.{For} remainder of game, your aliens with 'Black Sun' in lore, bounty hunters, and information brokers are Black Sun Agents. You may not deploy cards with ability except Black Sun Agents, Emperor, or Independent starships. During your control phase, each of your bounty hunters may make a regular move to an adjacent site where there is a bounty. Scanning Crew may not be played.{Flip} this card if Xizor is at a battleground site and Luke is not at a battleground site.Vengeance Of The Dark Prince:{While} this side up, once per turn, may place a card from hand in Used Pile to peek at cards in your Force Pile. Once during each of your battle phases, may peek at top X cards of any Reserve Deck, where X = number of locations you occupy. For each Black Sun Agent in battle, attrition against opponent is +1. During your control phase, opponent loses 1 Force for each battleground location occupied by Xizor or Emperor.{Flip} this card if Luke is at a battleground site or if Xizor not on table.",
         "icons": [
           "Reflections 2"
         ],
@@ -23562,7 +23562,7 @@
         "deploy": "4",
         "destiny": "2",
         "forfeit": "1",
-        "gametext": "Deploys only to Tatooine. Power -1 when not at a Tatooine site. May be sacrificed (lost) to cancel an attack just initiated by a creature present.",
+        "gametext": "Deploys only on Tatooine. Power -1 when not at a Tatooine site. May be sacrificed (lost) to cancel an attack just initiated by a creature present.",
         "icons": [
           "Warrior",
           "Jabba's Palace"
@@ -24796,6 +24796,9 @@
         "Murttoc Yine"
       ],
       "rarity": "R",
+      "rulings": [
+        "Greedo (V) creates a 'separate cost' that must be paid even if the weapon fires for free (e.g. due to Mercenary Armor)."
+      ],
       "set": "12",
       "side": "Dark"
     },
@@ -31721,7 +31724,7 @@
         "errataSymbol": "E1",
         "gametext": "Deploy on your non-warrior character (except droids) to give that character [Warrior] skill. OR Deploy on your warrior. That character is power +1. (Immune to Alter.)",
         "imageUrl": "https://res.starwarsccg.org/cards/Premiere-Dark/large/ketmaliss.gif",
-        "lore": "Assassins are highly valued by Jabba the Hutt and other gangsters. Prince Xizor's 'shadow killer,' has unknown but undoubtably lethal business in Mos Eisley.",
+        "lore": "Assassins are highly valued by Jabba the Hutt and other gangsters. Ket Maliss, Prince Xizor's 'shadow killer,' has unknown but undoubtedly lethal business in Mos Eisley.",
         "title": "Ket Maliss",
         "type": "Effect",
         "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Ket Maliss (errata)/image.png",
@@ -36692,7 +36695,8 @@
       "rarity": "R1",
       "rulings": [
         "Molator can only be used once per battle.",
-        "If using multiple Force to raise total power (e.g. using 3 Force to raise total power by 3), it is still a single weapons segment action (not multiple separate actions of 1 Force each)."
+        "If using multiple Force to raise total power (e.g. using 3 Force to raise total power by 3), it is still a single weapons segment action (not multiple separate actions of 1 Force each).",
+        "Ability inside starships and enclosed vehicles, including permanent pilots, is not 'present' and may not be used by Molator."
       ],
       "set": "1",
       "side": "Dark"
@@ -38881,6 +38885,9 @@
       "side": "Dark"
     },
     {
+      "abbr": [
+        "NSP"
+      ],
       "canceledBy": [
         "Inconsequential Barriers"
       ],
@@ -42965,7 +42972,7 @@
         ],
         "ferocity": "8 + destiny",
         "forfeit": "0",
-        "gametext": "* Ferocity = 8 + destiny. Habitat: Rancor Pit and exterior planet sites. Deploys only to the rancor pit or to where Malakili is the only character. Moves towards another Rancor whenever possible.",
+        "gametext": "* Ferocity = 8 + destiny. Habitat: Rancor Pit and exterior planet sites. Deploys only to the rancor pit or to where Malakili is the only character. Moves toward another Rancor whenever possible.",
         "icons": [
           "Jabba's Palace"
         ],
@@ -46573,6 +46580,9 @@
       "side": "Dark"
     },
     {
+      "abbr": [
+        "SOTE"
+      ],
       "front": {
         "destiny": "5",
         "errataSymbol": "E1",
@@ -46597,6 +46607,10 @@
         }
       ],
       "rarity": "R",
+      "rulings": [
+        "Drawing the card is a cost that must be successfully performed to cause 1 Force loss.",
+        "Against a flipped Hidden Base, if Dark has one card in Force Pile, they can use 1 Force (for Hidden Base) to try draw a card, then they will then fail to draw and therefore will not cause 1 Force loss. The 1 Force used remains used."
+      ],
       "set": "209",
       "side": "Dark"
     },
@@ -54732,7 +54746,7 @@
     {
       "front": {
         "destiny": "5",
-        "gametext": "If you have no characters at Rancor Pit at the end of your deploy phase, target a character (even a captive) at Audience Chamber. Draw destiny. If destiny +2 > ability, target relocated to Rancor Pit, and, if captive, released to the Light Side of Rancor Pit (not Used Pile).",
+        "gametext": "If you have no characters at Rancor Pit at end of your deploy phase, target a character (even a captive) at Audience Chamber. Draw destiny. If destiny +2 > ability, target relocated to Rancor Pit and, if a captive, released to Light Side of Rancor Pit (not Used Pile).",
         "icons": [
           "Jabba's Palace"
         ],
@@ -65852,6 +65866,9 @@
         }
       ],
       "rarity": "C",
+      "rulings": [
+        "Even if Light will cancel the Force drain (e.g. with Control) they must lose 1 Force and stack it here first (automatic response before optional response)."
+      ],
       "set": "219",
       "side": "Dark"
     },
@@ -69401,7 +69418,8 @@
       ],
       "rarity": "C",
       "rulings": [
-        "(LOST Function) If a system is 'liberated' (which occurs via Light's card Restore Freedom To The Galaxy), Dark may use this function - none of the other requirements apply."
+        "(LOST Function) If a system is 'liberated' (which occurs via Light's card Restore Freedom To The Galaxy), Dark may use this function - none of the other requirements apply.",
+        "(LOST Function) This function can only be played in the owner's deploy phase."
       ],
       "set": "223",
       "side": "Dark"
@@ -69445,6 +69463,7 @@
       ],
       "rarity": "U2",
       "rulings": [
+        "Players are limited to one weapon, not one firing (e.g. EPP Maul can still swing his lightsaber twice).",
         "Once per game, the player can either take Restraining Bolt into hand or retrieve Restraining Bolt - not once each.",
         "If there are two battles here in the same turn (e.g. via Counterattack), players may fire one weapon in each battle (does not have to be the same weapon)."
       ],
