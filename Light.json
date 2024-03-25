@@ -3820,6 +3820,10 @@
       "side": "Light"
     },
     {
+      "abbr": [
+        "ABLD",
+        "Artoo BLD"
+      ],
       "canceledBy": [
         "Commander Praji cancels game text"
       ],
@@ -3873,6 +3877,10 @@
       "side": "Light"
     },
     {
+      "abbr": [
+        "ABLD",
+        "Artoo BLD"
+      ],
       "front": {
         "deploy": "4",
         "destiny": "6",
@@ -6034,7 +6042,8 @@
       ],
       "rarity": "R",
       "rulings": [
-        "Can only re-target to opponent's character present with the original target."
+        "Can only re-target to opponent's character present with the original target.",
+        "If a character (e.g. Mighty Jabba) may not be targeted by weapons, Blaster Deflection may not re-target a weapon at them."
       ],
       "set": "6",
       "side": "Light"
@@ -7087,7 +7096,7 @@
           "Force-Attuned"
         ],
         "forfeit": "X",
-        "gametext": "* Power = v(3(X-Y)+2(A-B)+ p) (minimum power =1). X = Dark Side hand cards; Y = Light Side hand cards; A = total number of Dark icons in play; B = total number of Light icons in play; p?= 3.141592653589793238462643383...",
+        "gametext": "* Power = v(3(X-Y)+2(A-B)+ p) (minimum power = 1). X = Dark Side hand cards; Y = Light Side hand cards; A = total number of Dark icons in play; B = total number of Light icons in play; p?= 3.141592653589793238462643383...",
         "icons": [
           "Nav Computer",
           "A New Hope"
@@ -7115,7 +7124,9 @@
         "Cannot occupy astromech capacity slot.",
         "Square root of a negative number uses his minimum power of 1.",
         "Square root must take the positive root.",
-        "Do not round unless required to do something that requires a whole number, in which case round to nearest whole number."
+        "Do not round unless required to do something that requires a whole number, in which case round to nearest whole number.",
+        "Modifiers are applied after calculating Brainiac's power and other stats (e.g. calculate his power and forfeit normally, then add +2 to each for Tatooine Utility Belt).",
+        "If Brainiac's game text is canceled, then his power, deploy, and forfeit are all an unmodifiable 0. His destiny is still pi (3.14...)"
       ],
       "set": "2",
       "side": "Light",
@@ -7602,7 +7613,7 @@
           "Force-Attuned"
         ],
         "forfeit": "3",
-        "gametext": "When alone at a site, draws one battle destiny if not able to otherwise. Adds 1 to each of his weapon destiny draws. Immune to attrition < X, where X=number of Imperials present.",
+        "gametext": "When alone at a site, draws one battle destiny if not able to otherwise. Adds 1 to each of his weapon destiny draws. Immune to attrition < X, where X = number of Imperials present.",
         "icons": [
           "Warrior",
           "Special Edition"
@@ -13470,7 +13481,7 @@
         "ability": "2",
         "armor": "4",
         "characteristics": [
-          "Clone trooper",
+          "clone trooper",
           "trooper",
           "spy"
         ],
@@ -13515,7 +13526,7 @@
         "ability": "2",
         "armor": "4",
         "characteristics": [
-          "Clone trooper",
+          "clone trooper",
           "trooper",
           "spy"
         ],
@@ -15789,7 +15800,7 @@
       ],
       "front": {
         "destiny": "3",
-        "gametext": "Use 4 Force to deploy on your side of table. A starship you just lost may be placed here. Holds one starship at a time. During your deploy phase, may use X Force to bring starship to hand, where X= deploy cost of that starship.",
+        "gametext": "Use 4 Force to deploy on your side of table. A starship you just lost may be placed here. Holds one starship at a time. During your deploy phase, may use X Force to bring starship to hand, where X = deploy cost of that starship.",
         "icons": [
           "Special Edition"
         ],
@@ -24665,7 +24676,8 @@
         "The Hidden Base marker from outside the deck matches the system on table if they have the same card title (even if they are from different sets).",
         "Systems deployed by Light count towards flipping even if subsequently converted or blown away.",
         "Flipping this Objective is an optional top-level action. If the conditions are met, Light may choose to flip whenever they are entitled to a top-level action, even during the weapons segment of a battle.",
-        "While on the 7-side, all blown away systems are considered to have been probed (even systems blown away earlier in the game)."
+        "(7-side) All blown away systems are considered to have been probed (even systems blown away earlier in the game).",
+        "(7-side) If Dark has 1 card in Force Pile, they can pay 1 to draw and then fail to draw from the now-empty pile."
       ],
       "set": "7",
       "side": "Light"
@@ -24965,6 +24977,9 @@
       ]
     },
     {
+      "abbr": [
+        "H1"
+      ],
       "combo": [
         "Wokling (V) pulls Launching The Assault which pulls Home One",
         "Home One + Admiral Ackbar + First Officer Thaneespi"
@@ -25679,7 +25694,7 @@
           "A New Hope"
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/ANewHope-Light/large/houjix.gif",
-        "lore": "Dejarik creature. These ferocious-looking beasts are gentle, loyal, and often domesticated as guard animals or pets on Kinyen, the Gran homeworld. Incendiary.",
+        "lore": "Dejarik creature. These ferocious-looking beasts are gentle, loyal, and often domesticated as guard animals or pets on Kinyen, the Gran homeworld.",
         "subType": "Lost",
         "title": "Houjix",
         "type": "Interrupt",
@@ -27603,7 +27618,7 @@
     {
       "front": {
         "destiny": "5",
-        "gametext": "If opponent just initiated a battle at a site, use X Force to make your character present immune to attrition for remainder of battle, where X= that character's ability (free if Han or Lando).",
+        "gametext": "If opponent just initiated a battle at a site, use X Force to make your character present immune to attrition for remainder of battle, where X = that character's ability (free if Han or Lando).",
         "icons": [
           "Special Edition"
         ],
@@ -28639,7 +28654,7 @@
     {
       "front": {
         "destiny": "4",
-        "gametext": "Use X force, where X=(7- ability of your highest ability character on table). Search through your Used Pile and take one card into hand. Shuffle, Cut and replace.",
+        "gametext": "Use X force, where X = (7 - ability of your highest ability character on table). Search through your Used Pile and take one card into hand. Shuffle, Cut and replace.",
         "icons": [
           "Dagobah"
         ],
@@ -29832,7 +29847,9 @@
         "subType": "Alien",
         "title": "•Kebyc",
         "type": "Character",
-        "uniqueness": "*"
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Kebyc (Errata)/image.png",
+        "printableSlipType": "ERRATA"
       },
       "gempId": "5_4",
       "id": 1419,
@@ -30038,7 +30055,7 @@
       ],
       "front": {
         "destiny": "5",
-        "gametext": "Deploy on Kessel. Target one of your smugglers at another system. X=parsec distance between the two systems. When target reaches Kessel, opponent draws destiny. If = 0, starship lost. Otherwise, by returning to first system, 'retrieve' X Lost Force.",
+        "gametext": "Deploy on Kessel. Target one of your smugglers at another system. X = parsec distance between the two systems. When target reaches Kessel, opponent draws destiny. If = 0, starship lost. Otherwise, by returning to first system, 'retrieve' X Lost Force.",
         "imageUrl": "https://res.starwarsccg.org/cards/Premiere-Light/large/kesselrun.gif",
         "lore": "Planet Kessel has infamous glitterstim spice mines attracting smugglers and pirates. A 'Kessel run' is a long, dangerous hyper-route they must travel quickly.",
         "subType": "Utinni",
@@ -30642,7 +30659,8 @@
       "rarity": "R1",
       "rulings": [
         "K'lor'slug can only be used once per battle.",
-        "If using multiple Force to raise total power (e.g. using 3 Force to raise total power by 3), it is still a single weapons segment action (not multiple separate actions of 1 Force each)."
+        "If using multiple Force to raise total power (e.g. using 3 Force to raise total power by 3), it is still a single weapons segment action (not multiple separate actions of 1 Force each).",
+        "Ability inside starships and enclosed vehicles, including permanent pilots, is not 'present' and may not be used by K'lor'slug."
       ],
       "set": "1",
       "side": "Light",
@@ -39142,6 +39160,9 @@
     {
       "front": {
         "ability": "2",
+        "characteristics": [
+          "Sullustan"
+        ],
         "deploy": "2",
         "destiny": "2",
         "forfeit": "4",
@@ -41007,7 +41028,8 @@
     {
       "abbr": [
         "OOC Combo",
-        "OOC&TT"
+        "OOC&TT",
+        "OOC/TT"
       ],
       "canceledBy": [
         "HoloNet Transmission",
@@ -41044,6 +41066,9 @@
         }
       ],
       "rarity": "PM",
+      "rulings": [
+        "This card is <u>not</u> a hologram."
+      ],
       "set": "10",
       "side": "Light"
     },
@@ -50283,7 +50308,7 @@
         ],
         "ferocity": "2",
         "forfeit": "0",
-        "gametext": "Habitat: planet sites. Landspeed=2. Ferocity +2 when present at Mos Eisley or any <> spaceport site.",
+        "gametext": "Habitat: planet sites. Landspeed = 2. Ferocity +2 when present at Mos Eisley or any <> spaceport site.",
         "icons": [
           "Selective Creature",
           "Special Edition"
@@ -50973,7 +50998,7 @@
         "deploy": "2",
         "destiny": "2",
         "forfeit": "3",
-        "gametext": "Landspeed=2. Allows your other scouts present at same exterior site to move with him (using landspeed=2) for free. Adds 1 to immunity to attrition of all your scouts present at same exterior site who have immunity.",
+        "gametext": "Landspeed = 2. Allows your other scouts present at same exterior site to move with him (using landspeed = 2) for free. Adds 1 to immunity to attrition of all your scouts present at same exterior site who have immunity.",
         "icons": [
           "Warrior",
           "Endor"
@@ -53057,7 +53082,7 @@
     {
       "front": {
         "destiny": "3",
-        "gametext": "Add X to one starship weapon destiny (before destiny is drawn) when targeting opponent's starship. USED: X=2.  LOST: X=4.",
+        "gametext": "Add X to one starship weapon destiny (before destiny is drawn) when targeting opponent's starship. USED: X = 2. LOST: X = 4.",
         "icons": [
           "Special Edition"
         ],
@@ -55794,7 +55819,7 @@
       "front": {
         "darkSideIcons": 1,
         "destiny": "0",
-        "gametext": "Light:  You generate +X Force here, where X=power of your highest forfeit character here.  Dark:  If you occupy, opponent's Tosche Station game text is canceled.",
+        "gametext": "Light:  You generate +X Force here, where X = power of your highest forfeit character here.  Dark:  If you occupy, opponent's Tosche Station game text is canceled.",
         "icons": [
           "Exterior",
           "Planet",
@@ -58475,6 +58500,9 @@
       "side": "Light"
     },
     {
+      "abbr": [
+        "TT"
+      ],
       "canceledBy": [
         "HoloNet Transmission"
       ],
@@ -58507,6 +58535,9 @@
         }
       ],
       "rarity": "U",
+      "rulings": [
+        "This card is <u>not</u> a hologram."
+      ],
       "set": "4",
       "side": "Light",
       "underlyingCardFor": [
@@ -61510,7 +61541,7 @@
         "deploy": "4",
         "destiny": "2",
         "forfeit": "4",
-        "gametext": "Power +1 at a jungle, forest or Kashyyyk site. Also power +1 at same site as any Imperial. Wookiee Strangle is a Used Interrupt. When Bowcaster is deployed on or fired by this Wookiee, X=1. Adds 3 to destiny of each of your bowcasters.",
+        "gametext": "Power +1 at a jungle, forest or Kashyyyk site. Also power +1 at same site as any Imperial. Wookiee Strangle is a Used Interrupt. When Bowcaster is deployed on or fired by this Wookiee, X = 1. Adds 3 to destiny of each of your bowcasters.",
         "icons": [
           "Warrior",
           "Special Edition"
@@ -61890,7 +61921,7 @@
           "laser cannon"
         ],
         "destiny": "5",
-        "gametext": "Deploy on your X-wing. May target a starfighter using X Force, where X=0 to 3. Draw destiny. If destiny + X > defense value, target hit (lost instead if X=3).",
+        "gametext": "Deploy on your X-wing. May target a starfighter using X Force, where X = 0 to 3. Draw destiny. If destiny + X > defense value, target hit (lost instead if X = 3).",
         "icons": [
           "Special Edition"
         ],
@@ -62316,7 +62347,8 @@
       "abbr": [
         "Y4BO/TTTFIS",
         "YBO",
-        "YOPS"
+        "YOPS",
+        "Y4O"
       ],
       "back": {
         "destiny": "7",
@@ -63430,7 +63462,7 @@
       ],
       "back": {
         "destiny": "7",
-        "gametext": "You Can Either Profit By This...:Deploy Tatooine:Jabba's Palace and Audience Chamber (with Han frozen there, he may not be moved when frozen). Opponent may deploy up to two aliens at Audience Chamber.{While} this side up, opponent may not Force Drain at Audience Chamber and you may not Force drain at Tatooine locations. You may not play Frozen Assets. Luke, C-3PO and R2-D2 are deploy -2 at Jabba's Palace sites (Master Luke deploys for free instead).{Flip} this card if Han is on Tatooine and not a captive.{Place} out of play if Tatooine is 'blown away.'Or Be Destroyed:{Immediately} retrieve 5 Force (or 10 if Han has power < 4) once per game.{While} this side up, cancels the game text of Bad Feeling Have I. Your unpiloted starfighters may deploy to exterior Tatooine locations. During your control phase, opponent loses 1 Force for each battleground location occupied by Han, Luke, Leia, Chewie, or Lando.{Flip} this card if Han is captured or not on table.{Place} out of play if Tatooine is 'blown away.'",
+        "gametext": "You Can Either Profit By This...:Deploy Tatooine:Jabba's Palace and Audience Chamber (with Han frozen there, he may not be moved when frozen). Opponent may deploy up to two aliens at Audience Chamber.{While} this side up, opponent may not Force Drain at Audience Chamber and you may not Force drain at Tatooine locations. You may not play Frozen Assets. Luke, C-3PO and R2-D2 are deploy -2 at Jabba's Palace sites (Master Luke deploys for free instead).{Flip} this card if Han is on Tatooine and not a captive.{Place} out of play if Tatooine is 'blown away.'Or Be Destroyed:{Immediately} retrieve 5 Force (or 10 if Han has power < 4) once per game.{While} this side up, cancels game text of Bad Feeling Have I. Your unpiloted starfighters may deploy to exterior Tatooine locations. During your control phase, opponent loses 1 Force for each battleground location occupied by Han, Luke, Leia, Chewie, or Lando.{Flip} this card if Han is captured or not on table.{Place} out of play if Tatooine is 'blown away.'",
         "icons": [
           "Premium"
         ],
@@ -63440,7 +63472,7 @@
       },
       "front": {
         "destiny": "0",
-        "gametext": "You Can Either Profit By This...:Deploy Tatooine:Jabba's Palace and Audience Chamber (with Han frozen there, he may not be moved when frozen). Opponent may deploy up to two aliens at Audience Chamber.{While} this side up, opponent may not Force Drain at Audience Chamber and you may not Force drain at Tatooine locations. You may not play Frozen Assets. Luke, C-3PO and R2-D2 are deploy -2 at Jabba's Palace sites (Master Luke deploys for free instead).{Flip} this card if Han is on Tatooine and not a captive.{Place} out of play if Tatooine is 'blown away.'Or Be Destroyed:{Immediately} retrieve 5 Force (or 10 if Han has power < 4) once per game.{While} this side up, cancels the game text of Bad Feeling Have I. Your unpiloted starfighters may deploy to exterior Tatooine locations. During your control phase, opponent loses 1 Force for each battleground location occupied by Han, Luke, Leia, Chewie, or Lando.{Flip} this card if Han is captured or not on table.{Place} out of play if Tatooine is 'blown away.'",
+        "gametext": "You Can Either Profit By This...:Deploy Tatooine:Jabba's Palace and Audience Chamber (with Han frozen there, he may not be moved when frozen). Opponent may deploy up to two aliens at Audience Chamber.{While} this side up, opponent may not Force Drain at Audience Chamber and you may not Force drain at Tatooine locations. You may not play Frozen Assets. Luke, C-3PO and R2-D2 are deploy -2 at Jabba's Palace sites (Master Luke deploys for free instead).{Flip} this card if Han is on Tatooine and not a captive.{Place} out of play if Tatooine is 'blown away.'Or Be Destroyed:{Immediately} retrieve 5 Force (or 10 if Han has power < 4) once per game.{While} this side up, cancels game text of Bad Feeling Have I. Your unpiloted starfighters may deploy to exterior Tatooine locations. During your control phase, opponent loses 1 Force for each battleground location occupied by Han, Luke, Leia, Chewie, or Lando.{Flip} this card if Han is captured or not on table.{Place} out of play if Tatooine is 'blown away.'",
         "icons": [
           "Premium"
         ],
@@ -65167,6 +65199,9 @@
         }
       ],
       "rarity": "R",
+      "rulings": [
+        "Neither function works with permanent weapons."
+      ],
       "set": "213",
       "side": "Light"
     },
@@ -66799,6 +66834,9 @@
         }
       ],
       "rarity": "C2",
+      "rulings": [
+        "Losing 2 Force is a cost to add a battle destiny; this cost cannot be reduced such as by It Could Be Worse. Likewise if We're Doomed has been played, it is simply ignored and Light still loses 2, not 1."
+      ],
       "set": "216",
       "side": "Light"
     },
@@ -68683,7 +68721,8 @@
         "The Falcon initially stacks here 0-side up, and only deploys from here 0-side up.",
         "The Falcon stacked here <u>can</u> be deployed by Best Starpilot In The Galaxy.",
         "The Falcon stacked here <u>cannot</u> be revealed via Squadron Assignments.",
-        "The Falcon stacked here from outside the deck does not count towards the 60-card deck limit."
+        "The Falcon stacked here from outside the deck does not count towards the 60-card deck limit.",
+        "If the [Set 4] Falcon is bounced to hand by I'd Just As Soon Kiss A Wookiee, it instead goes out of play via its own game text."
       ],
       "set": "217",
       "side": "Light"
@@ -72339,6 +72378,10 @@
       ],
       "front": {
         "ability": "2",
+        "characteristics": [
+          "clone trooper",
+          "trooper"
+        ],
         "armor": "3",
         "deploy": "2",
         "destiny": "3",
@@ -73136,6 +73179,11 @@
       ],
       "front": {
         "ability": "2",
+        "characteristics": [
+          "Echo Base trooper",
+          "Rebel trooper",
+          "trooper"
+        ],
         "deploy": "2",
         "destiny": "3",
         "forfeit": "4",
@@ -73172,6 +73220,9 @@
       ],
       "front": {
         "ability": "3",
+        "characteristics": [
+          "general"
+        ],
         "deploy": "4",
         "destiny": "1",
         "extraText": [
@@ -73271,6 +73322,7 @@
       ],
       "rarity": "C2",
       "rulings": [
+        "(1st function) Players are limited to one weapon, not one firing (e.g. EPP Maul can still swing his lightsaber twice).",
         "The Lost function requires the lightsaber to deploy on Mara.",
         "The Lost function does not entitle Light to deploy a lightsaber on Mara that couldn't deploy on her otherwise."
       ],
@@ -73314,6 +73366,10 @@
       ],
       "front": {
         "ability": "2",
+        "characteristics": [
+          "smuggler",
+          "Sullustan"
+        ],
         "deploy": "2",
         "destiny": "2",
         "forfeit": "4",
@@ -73454,6 +73510,9 @@
       ],
       "front": {
         "ability": "6",
+        "characteristics": [
+          "scout"
+        ],
         "deploy": "8",
         "destiny": "6",
         "extraText": [
@@ -74268,7 +74327,8 @@
       "rarity": "U",
       "rulings": [
         "If played on a starship that has already cloaked, does not undo the cloaking.",
-        "Cannot be played as a 'response' to a starship cloaking. Must be played in advance in order to prevent cloaking."
+        "Cannot be played as a response to a starship cloaking. Needs to be played in advance in order to prevent cloaking.",
+        "This card is <u>not</u> a hologram."
       ],
       "set": "223",
       "side": "Light"
