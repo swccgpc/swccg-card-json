@@ -12283,6 +12283,7 @@
       "front": {
         "ability": "2",
         "characteristics": [
+          "guard",
           "stormtrooper",
           "trooper"
         ],
@@ -67258,6 +67259,7 @@
       "front": {
         "ability": "2",
         "characteristics": [
+          "guard",
           "stormtrooper",
           "trooper"
         ],
@@ -68287,6 +68289,7 @@
         "gametext": "Adds one battle destiny. If opponent initiates battle here, retrieve 1 Force and add its destiny number to Ap'lek's power, or power of Night Buzzard he is piloting. End of your turn: Use 1 Force to maintain OR Place out of play.",
         "icons": [
           "Episode VII",
+          "Maintenance",
           "Pilot",
           "Warrior",
           "Set 22"
