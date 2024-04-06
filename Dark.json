@@ -7446,7 +7446,8 @@
       ],
       "rarity": "R",
       "rulings": [
-        "Winner of podrace is determined automatically during any move phase."
+        "Winner of podrace is determined automatically during any move phase.",
+        "Cards that are 'destiny +X when drawn for destiny' (e.g. due to Biker Scout Gear) do not apply that destiny bonus while stacked as a race destiny."
       ],
       "set": "11",
       "side": "Dark"
@@ -10235,9 +10236,7 @@
         "subType": "Site",
         "title": "•Cloud City: Security Tower",
         "type": "Location",
-        "uniqueness": "*",
-        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Cloud City Security Tower/image.png",
-        "printableSlipType": "ERRATA"
+        "uniqueness": "*"
       },
       "gempId": "5_172",
       "id": 457,
@@ -10280,7 +10279,9 @@
         "subType": "Site",
         "title": "•Cloud City: Security Tower (V)",
         "type": "Location",
-        "uniqueness": "*"
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Cloud City Security Tower/image.png",
+        "printableSlipType": "VIRTUAL"
       },
       "gempId": "200_126",
       "id": 4052,
@@ -22958,7 +22959,7 @@
     {
       "front": {
         "destiny": "5",
-        "gametext": "Once per game, choose: during battle, use 2 Force to target your Dark Jedi and opponent's character of equal or lesser ability present. Both targets are excluded from battle. OR Exchange two cards from hand with any one card from Force Pile; reshuffle.",
+        "gametext": "Once per game, choose: During battle, use 2 Force to target your Dark Jedi and opponent's character of equal or lesser ability present. Both targets are excluded from battle. OR Exchange two cards from hand with any one card from Force Pile; reshuffle.",
         "icons": [
           "Episode I",
           "Set 0"
@@ -33936,6 +33937,9 @@
       ]
     },
     {
+      "abbr": [
+        "LRBR"
+      ],
       "canceledBy": [
         "Game text canceled by Mandalorian Mishap"
       ],
@@ -34337,7 +34341,7 @@
         "title": "•Lone Pilot",
         "type": "Interrupt",
         "uniqueness": "*",
-        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Clone Pilot/image.png",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Lone Pilot (Errata)/image.png",
         "printableSlipType": "ERRATA"
       },
       "gempId": "1_257",
@@ -49224,6 +49228,7 @@
       ]
     },
     {
+      "counterpart": "Rebel Trooper Recruit",
       "front": {
         "ability": "1",
         "characteristics": [
@@ -65118,7 +65123,8 @@
         "(0-side) 'Flip this card during any deploy phase' means it will flip during either player's deploy phase.",
         "(0-side) 'Imperial Star Destroyers' refers to Imperial affiliation (not First Order, Rebel, Independent, etc).  It does not refer to Imperial-class. Thus Dominator and Executor are deploy -1.",
         "(7-side) After studying an artwork card, place it in Lost Pile even if it was not possible to perform the specified action (e.g., even if there was no character to exclude from battle or no immunity to attrition to cancel).",
-        "(7-side) For a multi-destiny artwork card such as R2-D2, the destiny value is chosen by the card owner (typically Light) <u>after</u> Dark chooses it to be studied."
+        "(7-side) For a multi-destiny artwork card such as R2-D2, the destiny value is chosen by the card owner (typically Light) <u>after</u> Dark chooses it to be studied.",
+        "(7-side) If multiple battles occur in the same turn, Dark may study an artwork once in each battle."
       ],
       "set": "219",
       "side": "Dark"
@@ -65987,6 +65993,7 @@
         "(USED) Change lasts until the end of the battle.",
         "(USED) The initial target can even belong to Dark player, but all the additional affected characters are still opponent's only.",
         "(USED) May be used even if no other cards share any characteristic with target.",
+        "(USED) May be used even if the target has no characteristics (in which case, only the target is power and forfeit -1).",
         "(USED) Only character cards have characteristics, so only character cards can be made power and forfeit -1.",
         "(LOST) The 'character of same species' may even be an exact duplicate of the studied card."
       ],
