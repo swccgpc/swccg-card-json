@@ -4181,6 +4181,9 @@
       "side": "Light"
     },
     {
+      "abbr": [
+        "ASP-707 + Falcon + Intruder Missile"
+      ],
       "front": {
         "deploy": "1",
         "destiny": "3",
@@ -4208,6 +4211,9 @@
         }
       ],
       "rarity": "F",
+      "rulings": [
+        "ASP-707 checks if the weapon is present at the location, not necessarily present with ASP-707. Therefore ASP-707 can be inside a starship and place that starship's weapon on Reserve Deck."
+      ],
       "set": "7",
       "side": "Light",
       "underlyingCardFor": [
@@ -6134,8 +6140,9 @@
     {
       "front": {
         "characteristics": [
-          "Blaster",
-          "Rifle"
+          "blaster",
+          "blaster rifle",
+          "rifle"
         ],
         "destiny": "3",
         "gametext": "Deploy on your Republic warrior; warrior is power +1. May target a character, creature, or vehicle for free. Draw destiny; add 1 if targeting a character, 2 if a vehicle. Target hit, and may not be used to satisfy attrition, if total destiny > defense value.",
@@ -6646,7 +6653,8 @@
       ],
       "rarity": "R",
       "rulings": [
-        "Winner of podrace is determined automatically during any move phase."
+        "Winner of podrace is determined automatically during any move phase.",
+        "Cards that are 'destiny +X when drawn for destiny' (e.g. due to Biker Scout Gear) do not apply that destiny bonus while stacked as a race destiny."
       ],
       "set": "11",
       "side": "Light"
@@ -8569,6 +8577,8 @@
       "front": {
         "ability": "1",
         "characteristics": [
+          "blaster",
+          "cannon",
           "scout"
         ],
         "deploy": "3",
@@ -23842,7 +23852,7 @@
         "errataSymbol": "E1",
         "gametext": "Use 1 Force to deploy on Han, or 3 on your warrior. May target a character, creature or vehicle using 1 Force. Draw destiny. Target hit if destiny +1 > defense value. If hit by Han, target's forfeit = 0.",
         "imageUrl": "https://res.starwarsccg.org/cards/Premiere-Light/large/hansheavyblasterpistol.gif",
-        "lore": "BlasTech DL-44 heavy pistol. Short range, but relatively powerful. Carries energy for 25 shots. Illegal or restricted on most systems.",
+        "lore": "BlasTech DL-44 heavy pistol. Short range, but relatively powerful. Carries energy for 25 shots. Illegal or restricted in most systems.",
         "subType": "Character",
         "title": "•Han's Heavy Blaster Pistol",
         "type": "Weapon",
@@ -23889,7 +23899,7 @@
           "Set 0"
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual0-Light/large/hansheavyblasterpistol.gif",
-        "lore": "BlasTech DL-44 heavy pistol. Short range, but relatively powerful. Carries energy for 25 shots. Illegal or restricted on most systems.",
+        "lore": "BlasTech DL-44 heavy pistol. Short range, but relatively powerful. Carries energy for 25 shots. Illegal or restricted in most systems.",
         "subType": "Character",
         "title": "•Han's Heavy Blaster Pistol (V)",
         "type": "Weapon",
@@ -34798,7 +34808,7 @@
         "Luke Skywalker, Rebel Scout (V)",
         "Luke With Lightsaber",
         "Master Luke",
-        "Son of Skywalker"
+        "Son Of Skywalker"
       ],
       "printings": [
         {
@@ -41913,6 +41923,10 @@
         }
       ],
       "rarity": "U1",
+      "rulings": [
+        "Cannot deploy if there is no alien with a defined species at the location.",
+        "May choose the species of an opponent's alien."
+      ],
       "set": "210",
       "side": "Light"
     },
@@ -46124,6 +46138,7 @@
       ]
     },
     {
+      "counterpart": "Stormtrooper Cadet",
       "front": {
         "ability": "1",
         "characteristics": [
@@ -52203,6 +52218,11 @@
         "Luke's Lightsaber"
       ],
       "rarity": "R",
+      "rulings": [
+        "Dagobah cloud sectors are on Dagobah, so Son Of Skywalker may deploy there (but not to the Dagobah system).",
+        "Bespin cloud sectors are <u>not</u> on Cloud City, so Son Of Skywalker may <u>not</u> deploy there or to the Bespin system.",
+        "In brief: Son Of Skywalker may deploy to Dagobah sites, Dagobah clouds, and Cloud City sites."
+      ],
       "set": "4",
       "side": "Light"
     },
@@ -64841,7 +64861,8 @@
       ],
       "rarity": "C",
       "rulings": [
-        "Only causes Han to add a battle destiny if Beckett goes out of play using his own text."
+        "Only causes Han to add a battle destiny if Beckett goes out of play using his own text.",
+        "The destiny +3 text is not applicable while stacked on Kessel Run (V) or a podracer, etc."
       ],
       "set": "213",
       "side": "Light"
@@ -65006,7 +65027,8 @@
       "rulings": [
         "When this card's text places itself out of play, this Kessel Run is 'completed' (e.g. for purposes of Captain Lando Calrissian, Leebo, etc).",
         "If Light exhausts their Reserve Deck stacking destinies but the total is still not > 12, all of the following apply:<ul><li>All of the <u>stacked</u> destiny cards are returned to Reserve Deck in their original order.</li><li>Any destiny cards that were not stacked (e.g. taken into hand, lost, etc) are not returned.</li><li>This Kessel Run (V) card returns to the owner's hand.</li><li>Kessel Run (V) may not attempt deployment again this turn.</li></ul>",
-        "If Light attempts to deploy this with an empty Reserve Deck, it will return to Light's hand and it may not attempt deployment again this turn."
+        "If Light attempts to deploy this with an empty Reserve Deck, it will return to Light's hand and it may not attempt deployment again this turn.",
+        "Cards that are 'destiny +X when drawn for destiny' (e.g. Tobias Beckett) do not apply that destiny bonus while stacked here."
       ],
       "set": "213",
       "side": "Light"
@@ -65329,6 +65351,9 @@
       "side": "Light"
     },
     {
+      "abbr": [
+        "LRT"
+      ],
       "front": {
         "armor": "4",
         "characteristics": [
@@ -66615,8 +66640,8 @@
     {
       "front": {
         "characteristics": [
-          "blaster rifle",
           "blaster",
+          "blaster rifle",
           "rifle"
         ],
         "destiny": "3",
@@ -67359,7 +67384,8 @@
       ],
       "rarity": "R",
       "rulings": [
-        "Last sentence works against Tallon Roll, but it only cancels the attempt, not the Interrupt, so Tallon Roll goes to Used Pile as normal.",
+        "Last sentence works against Gravity Shadow (Dark does not draw destiny).",
+        "Last sentence works against Tallon Roll (players do not draw destinies), but it only cancels the attempt, not the Interrupt, so Tallon Roll goes to Used Pile as normal.",
         "Last sentence only works on a starship freighter, not a vehicle freighter (e.g. does not work on the vehicle side of The Falcon, Junkyard Garbage)."
       ],
       "set": "216",
@@ -73891,6 +73917,9 @@
       "side": "Light"
     },
     {
+      "abbr": [
+        "LRT"
+      ],
       "front": {
         "armor": "4",
         "characteristics": [
