@@ -8237,9 +8237,7 @@
         "subType": "Imperial",
         "title": "•Captain Bewil",
         "type": "Character",
-        "uniqueness": "*",
-        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Captain Bewil/image.png",
-        "printableSlipType": "ERRATA"
+        "uniqueness": "*"
       },
       "gempId": "5_92",
       "id": 355,
@@ -8285,7 +8283,9 @@
         "subType": "Imperial",
         "title": "•Captain Bewil (V)",
         "type": "Character",
-        "uniqueness": "*"
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Captain Bewil/image.png",
+        "printableSlipType": "VIRTUAL"
       },
       "gempId": "204_37",
       "id": 5091,
@@ -15975,9 +15975,7 @@
         "subType": "Site",
         "title": "•Death Star: Central Core",
         "type": "Location",
-        "uniqueness": "*",
-        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Death Star Central Core/image.png",
-        "printableSlipType": "ERRATA"
+        "uniqueness": "*"
       },
       "gempId": "1_283",
       "id": 669,
@@ -16089,9 +16087,7 @@
         "subType": "Site",
         "title": "•Death Star: Detention Block Corridor",
         "type": "Location",
-        "uniqueness": "*",
-        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Death Star Detention Block Corridor (V)/image.png",
-        "printableSlipType": "ERRATA"
+        "uniqueness": "*"
       },
       "gempId": "1_284",
       "id": 673,
@@ -16554,9 +16550,7 @@
         "imageUrl": "https://res.starwarsccg.org/cards/Hoth-Dark/large/deflectorshieldgenerators.gif",
         "lore": "Located atop the superstructure of a Star Destroyer, the generator towers create an energy shield which repels solid objects and weapons fire.",
         "title": "Deflector Shield Generators",
-        "type": "Device",
-        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Deflector Shield Generators/image.png",
-        "printableSlipType": "ERRATA"
+        "type": "Device"
       },
       "gempId": "3_94",
       "id": 692,
@@ -16585,7 +16579,9 @@
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual3-Dark/large/deflectorshieldgenerators.gif",
         "lore": "Located atop the superstructure of a Star Destroyer, the generator towers create an energy shield which repels solid objects and weapons fire.",
         "title": "Deflector Shield Generators (V)",
-        "type": "Device"
+        "type": "Device",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Deflector Shield Generators/image.png",
+        "printableSlipType": "VIRTUAL"
       },
       "gempId": "203_29",
       "id": 5026,
@@ -20034,9 +20030,7 @@
         "subType": "System",
         "title": "•Endor",
         "type": "Location",
-        "uniqueness": "*",
-        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Endor (V)/image.png",
-        "printableSlipType": "ERRATA"
+        "uniqueness": "*"
       },
       "gempId": "8_157",
       "id": 842,
@@ -20296,9 +20290,7 @@
         "subType": "Site",
         "title": "•Endor: Bunker",
         "type": "Location",
-        "uniqueness": "*",
-        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Endor Bunker (V)/image.png",
-        "printableSlipType": "ERRATA"
+        "uniqueness": "*"
       },
       "gempId": "8_160",
       "id": 853,
@@ -20401,9 +20393,7 @@
         "subType": "Site",
         "title": "•Endor: Ewok Village",
         "type": "Location",
-        "uniqueness": "*",
-        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Endor Ewok Village (V)/image.png",
-        "printableSlipType": "ERRATA"
+        "uniqueness": "*"
       },
       "gempId": "8_163",
       "id": 859,
@@ -21216,9 +21206,7 @@
         "subType": "Site",
         "title": "•Executor: Control Station",
         "type": "Location",
-        "uniqueness": "*",
-        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Executor Control Station/image.png",
-        "printableSlipType": "ERRATA"
+        "uniqueness": "*"
       },
       "gempId": "4_160",
       "id": 908,
@@ -26061,9 +26049,7 @@
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/SpecialEdition-Dark/large/huntdownanddestroythejedi.gif",
         "title": "Hunt Down And Destroy The Jedi / Their Fire Has Gone Out Of The Universe",
-        "type": "Objective",
-        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Hunt Down And Destroy The Jedi (V)/image.png",
-        "printableSlipType": "ERRATA"
+        "type": "Objective"
       },
       "gempId": "7_297",
       "id": 6361,
@@ -30307,9 +30293,7 @@
         "subType": "Rebel",
         "title": "•Jabba's Prize / Jabba's Prize",
         "type": "Character",
-        "uniqueness": "*",
-        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Jabbas Prize (V)/image.png",
-        "printableSlipType": "ERRATA"
+        "uniqueness": "*"
       },
       "gempId": "10_42",
       "id": 6435,
@@ -34236,9 +34220,7 @@
         "subType": "Alien",
         "title": "•Lobot",
         "type": "Character",
-        "uniqueness": "*",
-        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Lobot (V)/image.png",
-        "printableSlipType": "ERRATA"
+        "uniqueness": "*"
       },
       "gempId": "7_187",
       "id": 1561,
@@ -35093,9 +35075,7 @@
         "imageUrl": "https://res.starwarsccg.org/cards/Premiere-Dark/large/macroscan.gif",
         "lore": "Electrobinocular view. Readouts list object's true and relative azimuth, elevation and range. Built-in night vision.",
         "title": "Macroscan",
-        "type": "Effect",
-        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Macroscan (V)/image.png",
-        "printableSlipType": "ERRATA"
+        "type": "Effect"
       },
       "gempId": "1_224",
       "id": 1617,
@@ -37947,9 +37927,7 @@
         "subType": "Site",
         "title": "•Naboo: Theed Palace Hallway",
         "type": "Location",
-        "uniqueness": "*",
-        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Naboo Theed Palace Hallway (V)/image.png",
-        "printableSlipType": "ERRATA"
+        "uniqueness": "*"
       },
       "gempId": "14_112",
       "id": 1748,
@@ -42937,9 +42915,7 @@
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/SpecialEdition-Dark/large/inthehandsoftheempire.gif",
         "title": "Ralltiir Operations / In The Hands Of The Empire",
-        "type": "Objective",
-        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Raltiir Operations (V)/image.png",
-        "printableSlipType": "ERRATA"
+        "type": "Objective"
       },
       "front": {
         "destiny": "0",
@@ -42949,9 +42925,7 @@
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/SpecialEdition-Dark/large/ralltiiroperations.gif",
         "title": "Ralltiir Operations / In The Hands Of The Empire",
-        "type": "Objective",
-        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/In The Hands Of The Empire (V)/image.png",
-        "printableSlipType": "ERRATA"
+        "type": "Objective"
       },
       "gempId": "7_300",
       "id": 6589,
@@ -55921,9 +55895,7 @@
         "lore": "The Jawa who shot R2-D2 with an ionization gun called to his companions, 'Utinni!', the Jawa word for 'come here!'",
         "subType": "Used",
         "title": "Utinni!",
-        "type": "Interrupt",
-        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Utinni (V)/image.png",
-        "printableSlipType": "ERRATA"
+        "type": "Interrupt"
       },
       "gempId": "1_276",
       "id": 2688,
@@ -57914,9 +57886,7 @@
         "lore": "Not a good place to hang around.",
         "title": "•Weather Vane",
         "type": "Effect",
-        "uniqueness": "*",
-        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Weather Vane (V)/image.png",
-        "printableSlipType": "ERRATA"
+        "uniqueness": "*"
       },
       "gempId": "5_127",
       "id": 2778,
@@ -58378,9 +58348,7 @@
         "lore": "When two Jedi are attempting to breach your bridge, even a destroyer droid's response time seems far too slow.",
         "title": "•Where Are Those Droidekas?!",
         "type": "Effect",
-        "uniqueness": "*",
-        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Where Are Those Droidekas/image.png",
-        "printableSlipType": "ERRATA"
+        "uniqueness": "*"
       },
       "gempId": "13_97",
       "id": 2803,
@@ -58414,7 +58382,9 @@
         "lore": "When two Jedi are attempting to breach your bridge, even a destroyer droid's response time seems far too slow.",
         "title": "•Where Are Those Droidekas?! (V)",
         "type": "Effect",
-        "uniqueness": "*"
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Where Are Those Droidekas/image.png",
+        "printableSlipType": "VIRTUAL"
       },
       "gempId": "208_42",
       "id": 5194,
@@ -59105,9 +59075,7 @@
         "subType": "System",
         "title": "•Yavin 4",
         "type": "Location",
-        "uniqueness": "*",
-        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Yavin 4 (V)/image.png",
-        "printableSlipType": "ERRATA"
+        "uniqueness": "*"
       },
       "gempId": "1_296",
       "id": 2848,
@@ -61527,7 +61495,9 @@
         "subType": "Site",
         "title": "•Executor: Control Station (V)",
         "type": "Location",
-        "uniqueness": "*"
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Executor Control Station/image.png",
+        "printableSlipType": "VIRTUAL"
       },
       "gempId": "213_24",
       "id": 6812,
@@ -61822,7 +61792,9 @@
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual13-Dark/large/theirfirehasgoneoutoftheuniverse.gif",
         "title": "Hunt Down And Destroy The Jedi / Their Fire Has Gone Out Of The Universe (V)",
-        "type": "Objective"
+        "type": "Objective",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Their Fire Has Gone Out Of The Universe (V)/image.png",
+        "printableSlipType": "VIRTUAL"
       },
       "front": {
         "destiny": "0",
@@ -61834,7 +61806,7 @@
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual13-Dark/large/huntdownanddestroythejedi.gif",
         "title": "Hunt Down And Destroy The Jedi / Their Fire Has Gone Out Of The Universe (V)",
         "type": "Objective",
-        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Their Fire Has Gone Out Of The Universe (V)/image.png",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Hunt Down And Destroy The Jedi (V)/image.png",
         "printableSlipType": "VIRTUAL"
       },
       "gempId": "213_31",

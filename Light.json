@@ -8833,9 +8833,7 @@
         "subType": "Utinni",
         "title": "•Cell 2187",
         "type": "Effect",
-        "uniqueness": "*",
-        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Cell 2187/image.png",
-        "printableSlipType": "ERRATA"
+        "uniqueness": "*"
       },
       "gempId": "2_30",
       "id": 385,
@@ -14561,9 +14559,7 @@
         "subType": "System",
         "title": "•Death Star",
         "type": "Location",
-        "uniqueness": "*",
-        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Death Star (V)/image.png",
-        "printableSlipType": "ERRATA"
+        "uniqueness": "*"
       },
       "gempId": "7_117",
       "id": 655,
@@ -30647,7 +30643,7 @@
         "title": "•K'lor'slug",
         "type": "Effect",
         "uniqueness": "*",
-        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Klor slug/image.png",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Klor Slug (Errata)/image.png",
         "printableSlipType": "ERRATA"
       },
       "gempId": "1_53",
@@ -30694,7 +30690,9 @@
         "lore": "Dejarik of venomous swamp creature from Noe'ha'on. Keen senses of smell and vision. Dangerous hunter. Lays eggs - hundreds of ravenously hungry hatchlings.",
         "title": "•K'lor'slug (V)",
         "type": "Effect",
-        "uniqueness": "*"
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Klor slug/image.png",
+        "printableSlipType": "VIRTUAL"
       },
       "gempId": "200_42",
       "id": 1403,
@@ -37967,9 +37965,7 @@
         "subType": "System",
         "title": "•Naboo",
         "type": "Location",
-        "uniqueness": "*",
-        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Naboo (V)/image.png",
-        "printableSlipType": "ERRATA"
+        "uniqueness": "*"
       },
       "gempId": "12_78",
       "id": 1722,
@@ -47824,9 +47820,7 @@
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/SpecialEdition-Light/large/rescuetheprincess.gif",
         "title": "Rescue The Princess / Sometimes I Amaze Even Myself",
-        "type": "Objective",
-        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Rescue The Princess (V)/image.png",
-        "printableSlipType": "ERRATA"
+        "type": "Objective"
       },
       "gempId": "7_139",
       "id": 5866,
@@ -58795,7 +58789,7 @@
         "title": "•Twilight Is Upon Me",
         "type": "Effect",
         "uniqueness": "*",
-        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Twighlight Is Upon Me (V)/image.png",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Twilight Is Upon Me (Errata)/image.png",
         "printableSlipType": "ERRATA"
       },
       "gempId": "9_46",
@@ -66068,7 +66062,9 @@
         "lore": "'Aren't you a little short for a stormtrooper?'",
         "title": "•Cell 2187 (V)",
         "type": "Effect",
-        "uniqueness": "*"
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Cell 2187/image.png",
+        "printableSlipType": "VIRTUAL"
       },
       "gempId": "215_5",
       "id": 6879,
@@ -66574,7 +66570,9 @@
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual15-Light/large/sometimesiamazeevenmyself.gif",
         "title": "Rescue The Princess / Sometimes I Amaze Even Myself (V)",
-        "type": "Objective"
+        "type": "Objective",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Sometimes I Amaze Even Myself (V)/image.png",
+        "printableSlipType": "VIRTUAL"
       },
       "front": {
         "destiny": "0",
@@ -66585,7 +66583,7 @@
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual15-Light/large/rescuetheprincess.gif",
         "title": "Rescue The Princess / Sometimes I Amaze Even Myself (V)",
         "type": "Objective",
-        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Sometimes I Amaze Even Myself (V)/image.png",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Rescue The Princess (V)/image.png",
         "printableSlipType": "VIRTUAL"
       },
       "gempId": "215_17",
