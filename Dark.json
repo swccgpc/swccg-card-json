@@ -986,44 +986,7 @@
         "After this is played, Ketwol may perform one more exchange, even if Ketwol had performed exchanges previously."
       ],
       "set": "13",
-      "side": "Dark",
-      "underlyingCardFor": [
-        "A Useless Gesture (V)"
-      ]
-    },
-    {
-      "front": {
-        "destiny": "0",
-        "gametext": "Plays on table. In order to play an Interrupt from Lost Pile, opponent must first stack it here (if possible) and use +1 Force for each card here, even if Interrupt is normally free. Revolution is canceled.",
-        "icons": [
-          "Defensive Shield",
-          "Grabber",
-          "Reflections 3",
-          "Set D"
-        ],
-        "imageUrl": "https://res.starwarsccg.org/cards/ResetDS-Dark/large/auselessgesture.gif",
-        "lore": "Imperial officers aboard the Death Star considered the Rebellion a minor threat.",
-        "title": "•A Useless Gesture (V)",
-        "type": "Defensive Shield",
-        "uniqueness": "*",
-        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/A Useless Gesture (V)/image.png",
-        "printableSlipType": "VIRTUAL"
-      },
-      "gempId": "200_93",
-      "id": 4401,
-      "legacy": false,
-      "printings": [
-        {
-          "set": "200"
-        },
-        {
-          "set": "200d"
-        }
-      ],
-      "rarity": "PM",
-      "set": "200d",
-      "side": "Dark",
-      "sourceType": "defensive shield"
+      "side": "Dark"
     },
     {
       "front": {
@@ -4953,7 +4916,8 @@
       ],
       "pulledBy": [
         "Commander Merrejk",
-        "Kuat Drive Yards (V)"
+        "Kuat Drive Yards (V)",
+        "This Deal Is Getting Worse All The Time"
       ],
       "rarity": "U",
       "set": "5",
@@ -10561,9 +10525,9 @@
         "CCF"
       ],
       "canceledBy": [
-        "Death Star Sentry (V) - Defensive Shield",
         "Sando Aqua Monster",
-        "Yavin Sentry (V) - Defensive Shield"
+        "We'll Let Fate-a Decide, Huh? (V)",
+        "Your Ship? (V)"
       ],
       "cancels": [
         "Opee Sea Killer"
@@ -15846,47 +15810,8 @@
       "set": "1",
       "side": "Dark",
       "underlyingCardFor": [
-        "Death Star Sentry (V)"
+        "A Useless Gesture & Death Star Sentry"
       ]
-    },
-    {
-      "cancels": [
-        "Colo Claw Fish"
-      ],
-      "counterpart": "Yavin Sentry (V)",
-      "front": {
-        "destiny": "0",
-        "gametext": "Plays on table. Colo Claw Fish is canceled. Opponent must first use X Force to deploy a non-unique card (except a Jawa) to a location, where X = the number of copies of that card at that location.",
-        "icons": [
-          "Defensive Shield",
-          "Set D"
-        ],
-        "imageUrl": "https://res.starwarsccg.org/cards/ResetDS-Dark/large/deathstarsentry.gif",
-        "lore": "Death Star troopers on sentry duty observe and direct incoming starships and monitor other critical sites. They perform sensor scans for life forms and weapons.",
-        "title": "•Death Star Sentry (V)",
-        "type": "Defensive Shield",
-        "uniqueness": "*",
-        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Death Star Sentry/image.png",
-        "printableSlipType": "VIRTUAL"
-      },
-      "gempId": "200_94",
-      "id": 666,
-      "legacy": false,
-      "printings": [
-        {
-          "set": "200"
-        },
-        {
-          "set": "200d"
-        }
-      ],
-      "rarity": "U1",
-      "rulings": [
-        "This separate cost must be paid even if the card being deployed is free."
-      ],
-      "set": "200d",
-      "side": "Dark",
-      "sourceType": "effect"
     },
     {
       "canceledBy": [
@@ -21549,6 +21474,9 @@
         "We Must Accelerate Our Plans"
       ],
       "rarity": "R",
+      "rulings": [
+        "Once the Jedi Test #5 (It Is The Future You See) attempt has begun, deploying Failure At The Cave will not prevent that test from completing as scheduled."
+      ],
       "set": "4",
       "side": "Dark",
       "underlyingCardFor": [
@@ -26533,46 +26461,7 @@
       ],
       "rarity": "R1",
       "set": "1",
-      "side": "Dark",
-      "underlyingCardFor": [
-        "I Find Your Lack Of Faith Disturbing (V)"
-      ]
-    },
-    {
-      "cancels": [
-        "Goo Nee Tay"
-      ],
-      "counterpart": "Affect Mind (V)",
-      "front": {
-        "destiny": "0",
-        "gametext": "Plays on table. Goo Nee Tay is canceled. Unless Deep Hatred on table, opponent may use only one combat card per turn. We'll Handle This may target only Undercover spies and 5D6-RA-7.",
-        "icons": [
-          "Defensive Shield",
-          "Set D"
-        ],
-        "imageUrl": "https://res.starwarsccg.org/cards/ResetDS-Dark/large/ifindyourlackoffaithdisturbing.gif",
-        "lore": "Darth Vader ruthlessly used the Force to strike down enemies and soldiers who displeased him. He could choke victims from afar without touching them.",
-        "title": "•I Find Your Lack Of Faith Disturbing (V)",
-        "type": "Defensive Shield",
-        "uniqueness": "*",
-        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/I Find Your Lack Of Faith Disturbing (V)/image.png",
-        "printableSlipType": "VIRTUAL"
-      },
-      "gempId": "200_97",
-      "id": 1209,
-      "legacy": false,
-      "printings": [
-        {
-          "set": "200"
-        },
-        {
-          "set": "200d"
-        }
-      ],
-      "rarity": "R1",
-      "set": "200d",
-      "side": "Dark",
-      "sourceType": "effect"
+      "side": "Dark"
     },
     {
       "canceledBy": [
@@ -28068,51 +27957,6 @@
       "rarity": "U",
       "set": "200",
       "side": "Dark"
-    },
-    {
-      "counterpart": "Goldenrod",
-      "front": {
-        "destiny": "0",
-        "errataDate": "2023-07-15",
-        "errataNotes": "Added the last sentence, regarding I Must Be Allowed To Speak. Removed Reflections III icon.",
-        "errataSymbol": "E1",
-        "gametext": "Plays on table. For opponent to deploy a character, starship, or vehicle for free (except by that card's own game text), opponent must first use 2 Force. [Jabba's Palace] I Must Be Allowed To Speak may not target locations except Lars' Moisture Farm and Jabba's Palace sites.",
-        "icons": [
-          "Defensive Shield",
-          "Set D"
-        ],
-        "imageUrl": "https://res.starwarsccg.org/cards/ResetDS-Dark/large/imperialdetention.gif",
-        "lore": "Blank.",
-        "title": "•Imperial Detention",
-        "type": "Defensive Shield",
-        "uniqueness": "*",
-        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Imperial Detention/image.png",
-        "printableSlipType": "VIRTUAL"
-      },
-      "gempId": "200_98",
-      "id": 6394,
-      "legacy": false,
-      "previousId": 20023,
-      "printings": [
-        {
-          "set": "200"
-        },
-        {
-          "set": "200d"
-        }
-      ],
-      "rarity": "C",
-      "rulings": [
-        "A card that deploys for 0 such as Kal'Falnl C'ndros is not the same as 'free' and thus doesn't trigger this card.",
-        "When Light simultaneously deploys a pair of cards for free (e.g. due to I'd Just As Soon Kiss A Wookiee), each card is separately affected by Imperial Detention, potentially causing a total cost of 4.",
-        "Prevents IMBATS(V) from deploying the generic Farm.",
-        "Prevents IMBATS(V) from searching Used Pile when a specified character (e.g. Luke) deploys to a site (except Lar's Moisture Farm or a Jabba's Palace Site).",
-        "Does not restrict what card Light may take into hand from Used Pile via IMBATS(V).",
-        "Does not affect non-V IMBATS (or the Set 18 combo card) in any way."
-      ],
-      "set": "200d",
-      "side": "Dark",
-      "sourceType": "effect"
     },
     {
       "front": {
@@ -42062,9 +41906,7 @@
     },
     {
       "cancels": [
-        "Anger",
-        "Fear",
-        "Aggression"
+        "Anger, Fear, Aggression"
       ],
       "front": {
         "destiny": "3",
@@ -43635,10 +43477,7 @@
         "If face up in Reserve Deck for any reason, it is active (not part of Life Force)."
       ],
       "set": "5",
-      "side": "Dark",
-      "underlyingCardFor": [
-        "Imperial Detention"
-      ]
+      "side": "Dark"
     },
     {
       "canceledBy": [
@@ -57195,13 +57034,17 @@
       "counterpart": "The Republic No Longer Functions",
       "front": {
         "destiny": "0",
-        "gametext": "Plays on table. While you have 12 or fewer cards in hand, opponent may not remove cards from your hand (except with Grimtaash). Once per turn (even at start of turn), may target a [Coruscant] Political Effect; it is suspended for the remainder of the turn.",
+        "errataDate": "2024-07-22",
+        "errataNotes": "E1 Text: Plays on table. While you have 12 or fewer cards in hand, opponent may not remove cards from your hand (except with Grimtaash). Once per turn (even at start of turn), may target a [Coruscant] Political Effect; it is suspended for the remainder of the turn.",
+        "errataSymbol": "E2",
+        "gametext": "Plays on table. While you have 14 or fewer cards in hand, opponent may not remove cards from your hand. Once per turn (even at start of turn), may suspend a [Coruscant] Political Effect for remainder of turn. If Grimtaash just played, may place a card from hand in Used Pile.",
         "icons": [
           "Defensive Shield",
+          "Episode I",
           "Set D"
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/ResetDS-Dark/large/voteofnoconfidence.gif",
-        "lore": "Blank.",
+        "lore": "'He is mired by baseless accusations of corruption.'",
         "title": "•Vote Of No Confidence",
         "type": "Defensive Shield",
         "uniqueness": "*",
@@ -57211,6 +57054,7 @@
       "gempId": "200_99",
       "id": 4408,
       "legacy": false,
+      "previousId": 20028,
       "printings": [
         {
           "set": "200"
@@ -57219,7 +57063,7 @@
           "set": "200d"
         }
       ],
-      "rarity": "R",
+      "rarity": "C",
       "set": "200d",
       "side": "Dark",
       "sourceType": "effect"
@@ -59442,7 +59286,10 @@
     {
       "front": {
         "destiny": "0",
-        "gametext": "Plays on table. If an 'insert' card was just inserted or revealed, it is canceled. You lose no Force to Boonta Eve Podrace. While you occupy more battlegrounds than opponent, I Did It! is suspended.",
+        "errataDate": "2024-07-22",
+        "errataNotes": "Original Text: Plays on table. If an 'insert' card was just inserted or revealed, it is canceled. You lose no Force to Boonta Eve Podrace. While you occupy more battlegrounds than opponent, I Did It! is suspended.",
+        "errataSymbol": "E1",
+        "gametext": "Plays on table. Cancels 'insert' cards just revealed. We'll Handle This may target only 5D6-RA-7 and Undercover spies. Unless Deep Hatred on table, opponent may use only one combat card per turn.",
         "icons": [
           "Defensive Shield",
           "Reflections 3",
@@ -59459,6 +59306,7 @@
       "gempId": "200_100",
       "id": 6771,
       "legacy": false,
+      "previousId": 20030,
       "printings": [
         {
           "set": "200"
@@ -59475,14 +59323,11 @@
     {
       "cancels": [
         "any 'insert' card:",
-        "3",
-        "720 to 1",
+        "3,720 to 1",
         "A Disturbance In The Force",
         "A Tremor In The Force",
         "Access Denied",
-        "Anger",
-        "Fear",
-        "Aggression",
+        "Anger, Fear, Aggression",
         "Knowledge And Defense",
         "Never Tell Me The Odds",
         "Restricted Access"
@@ -59490,7 +59335,10 @@
       "counterpart": "Your Insight Serves You Well (V) - Defensive Shield",
       "front": {
         "destiny": "0",
-        "gametext": "Plays on table. If an 'insert' card was just inserted or revealed, it is canceled. You lose no Force to Boonta Eve Podrace. While you occupy more battlegrounds than opponent, I Did It! is suspended.",
+        "errataDate": "2024-07-22",
+        "errataNotes": "Original Text: Plays on table. If an 'insert' card was just inserted or revealed, it is canceled. You lose no Force to Boonta Eve Podrace. While you occupy more battlegrounds than opponent, I Did It! is suspended.",
+        "errataSymbol": "E1",
+        "gametext": "Plays on table. Cancels 'insert' cards just revealed. We'll Handle This may target only 5D6-RA-7 and Undercover spies. Unless Deep Hatred on table, opponent may use only one combat card per turn.",
         "icons": [
           "Defensive Shield",
           "Reflections 3",
@@ -59507,6 +59355,7 @@
       "gempId": "200_100",
       "id": 4400,
       "legacy": false,
+      "previousId": 20029,
       "printings": [
         {
           "set": "200"
@@ -61142,7 +60991,10 @@
     {
       "front": {
         "destiny": "0",
-        "gametext": "Plays on table. Opponent's Undercover spies are immune to Double Agent. While a Jedi Test on table, Projection Of A Skywalker is canceled. If Grimtaash just revealed your hand, you may place up to two cards from hand in your Used Pile.",
+        "errataDate": "2024-07-22",
+        "errataNotes": "Original Text: Plays on table. Opponent's Undercover spies are immune to Double Agent. While a Jedi Test on table, Projection Of A Skywalker is canceled. If Grimtaash just revealed your hand, you may place up to two cards from hand in your Used Pile.",
+        "errataSymbol": "E1",
+        "gametext": "Plays on table. Stone Pile is canceled. While a Jedi Test on table, opponent may not reduce your Force drains. Unless opponent has deployed a battleground, Domain Of Evil may not modify destiny draws more than once per battle.",
         "icons": [
           "Defensive Shield",
           "Set D"
@@ -61158,6 +61010,7 @@
       "gempId": "213_13",
       "id": 6801,
       "legacy": false,
+      "previousId": 20027,
       "printings": [
         {
           "set": "213"
@@ -61167,9 +61020,6 @@
         }
       ],
       "rarity": "R",
-      "rulings": [
-        "Once the Jedi Test #5 (It Is The Future You See) attempt has begun, deploying Failure At The Cave will not prevent that test from completing as scheduled."
-      ],
       "set": "200d",
       "side": "Dark",
       "sourceType": "effect"
@@ -66210,7 +66060,10 @@
     {
       "front": {
         "destiny": "0",
-        "gametext": "Plays on table. At end of a turn, if opponent has 15 or more cards in hand, may use 2 Force to shuffle all but 9 (random selection) into Used Pile. If Grimtaash or Thrown Back just targeted your hand, may reveal 2 cards from hand; they cannot be removed or checked for duplicates.",
+        "errataDate": "2024-07-22",
+        "errataNotes": "Use 2 Force became 3 Force.  Reveal 2 cards became 3 cards.",
+        "errataSymbol": "E1",
+        "gametext": "Plays on table. At end of a turn, if opponent has 15 or more cards in hand, may use 3 Force to shuffle all but 9 (random selection) into Used Pile. If Grimtaash or Thrown Back just targeted your hand, may reveal 3 cards from hand; they cannot be removed or checked for duplicates.",
         "icons": [
           "Episode I",
           "Set D"
@@ -66226,6 +66079,7 @@
       "gempId": "220_2",
       "id": 7124,
       "legacy": false,
+      "previousId": 20026,
       "printings": [
         {
           "set": "220"
@@ -66237,7 +66091,7 @@
       "rarity": "U",
       "rulings": [
         "A player may view cards that are being removed from their own hand.",
-        "When 2 cards are revealed to prevent them from being placed in Used Pile, the hand will still be reduced to the size required by Grimtaash or Thrown Back.",
+        "When 3 cards are revealed to prevent them from being placed in Used Pile, the hand will still be reduced to the size required by Grimtaash or Thrown Back.",
         "If a player has 2 of the same card and reveals 1 to prevent it from being checked for duplicates, the other copy is not lost. If a player has 3 of the same card and reveals 2 of them, the other copy is not lost. If a player has 3 of the same card and reveals only 1 of them, the other 2 are duplicates of each other and are lost."
       ],
       "set": "200d",
@@ -69578,6 +69432,781 @@
       ],
       "rarity": "U",
       "set": "223",
+      "side": "Dark"
+    },
+    {
+      "abbr": [
+        "AUG&DSS",
+        "A Useless Gesture combo",
+        "Death Star Sentry combo"
+      ],
+      "counterpart": "Yavin Sentry & Goldenrod",
+      "front": {
+        "destiny": "0",
+        "gametext": "Plays on table. In order to play an Interrupt from Lost Pile, opponent must first stack it here (if possible) and use +1 Force for each card here, even if Interrupt is normally free. For opponent to deploy a character, starship, or vehicle for free (except by that card's own game text), opponent must first use 2 Force. Opponent must first use X Force to deploy a non-unique card (except a Jawa) to a location, where X = the number of copies of that card at that location.",
+        "icons": [
+          "Grabber",
+          "Set D"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual23-Dark/hires/auselessgesturedeathstarsentry.png",
+        "title": "•A Useless Gesture & •Death Star Sentry",
+        "type": "Defensive Shield",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/A Useless Gesture & Death Star Sentry/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "223_7",
+      "id": 7295,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "223"
+        },
+        {
+          "set": "200d"
+        }
+      ],
+      "rarity": "U1",
+      "rulings": [
+        "A card that deploys for 0 such as Kal'Falnl C'ndros is not the same as 'free' and thus doesn't trigger the anti-free portion of this card.",
+        "When Light simultaneously deploys a pair of cards for free (e.g. due to I'd Just As Soon Kiss A Wookiee), each card is separately affected by Imperial Detention, potentially causing a total cost of 4.",
+        "The separate cost for non-unique cards must be paid even if the non-unique card being deployed is free."
+      ],
+      "set": "200d",
+      "side": "Dark"
+    },
+    {
+      "front": {
+        "darkSideIcons": 2,
+        "destiny": "0",
+        "gametext": "Dark: If you occupy and Dark Deal on table, flip This Deal Is Getting Worse All The Time. Immune to Revolution. Light: You lose no more than 2 Force to Cloud City Occupation. Game text of opponent’s Admiral’s Orders is canceled.",
+        "icons": [
+          "Planet",
+          "Set 23",
+          "Special Edition"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual23-Dark/large/bespin.gif",
+        "lightSideIcons": 1,
+        "parsec": "6",
+        "subType": "System",
+        "title": "•Bespin (V)",
+        "type": "Location",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Bespin (Dark) (V)/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "223_8",
+      "id": 7296,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "223"
+        }
+      ],
+      "pulledBy": [
+        "Commander Merrejk",
+        "Kuat Drive Yards (V)",
+        "This Deal Is Getting Worse All The Time"
+      ],
+      "rarity": "U",
+      "set": "223",
+      "side": "Dark"
+    },
+    {
+      "abbr": [
+        "DDv"
+      ],
+      "front": {
+        "destiny": "3",
+        "gametext": "If you control two Cloud City sites and opponent controls none, deploy on [Special Edition] Bespin system. At related sites where you have an alien/Imperial pair, your Force drains are +1 and, if you just won a battle there, may take any card into hand from Used Pile; reshuffle. [Immune to Alter.]",
+        "icons": [
+          "Cloud City",
+          "Set 23"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual23-Dark/large/darkdeal.gif",
+        "lore": "'Perhaps you think you're being treated unfairly?' 'No.' 'Good. It would be unfortunate if I had to leave a garrison here.'",
+        "title": "•Dark Deal (V)",
+        "type": "Effect",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Dark Deal (V)/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "223_9",
+      "id": 7297,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "223"
+        }
+      ],
+      "rarity": "R",
+      "set": "223",
+      "side": "Dark"
+    },
+    {
+      "abbr": [
+        "EBD"
+      ],
+      "front": {
+        "destiny": "4",
+        "gametext": "Deploy on table. Once per turn, if Main Power Generators on table, may place a card from hand under Reserve Deck to activate 1 Force; reshuffle Reserve Deck. Once per turn, if 1^ST Marker 'blown away,' may take a [Hoth] card into hand from Force Pile; reshuffle. [Immune to Alter.]",
+        "icons": [
+          "Hoth",
+          "Set 23"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual23-Dark/large/echobasedestroyed.gif",
+        "lore": "Before an AT-AT's troops can disembark to engage the enemy, the walker must first destroy the Rebel traitors' defensive emplacements.",
+        "title": "•Echo Base Destroyed",
+        "type": "Effect",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Echo Base Destroyed/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "223_10",
+      "id": 7298,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "223"
+        }
+      ],
+      "rarity": "U1",
+      "set": "223",
+      "side": "Dark"
+    },
+    {
+      "abbr": [
+        "ERFv"
+      ],
+      "front": {
+        "destiny": "6",
+        "gametext": "Deploy on an AT-AT; may immediately search your Used Pile and take an AT-AT Cannon or [Hoth] Epic Event into hand; reshuffle. Adds 2 to each of this AT-AT's weapon destiny draws (unless targeting a character).",
+        "icons": [
+          "Hoth",
+          "Set 23"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual23-Dark/large/electrorangefinder.gif",
+        "lore": "Long-range stereoscopic sighting device connected to the cannons of an Imperial walker. Calibrated to allow the AT-AT commander to accurately fire at distant targets.",
+        "title": "Electro-Rangefinder (V)",
+        "type": "Device",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Electro-Rangefinder (V)/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "223_11",
+      "id": 7299,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "223"
+        }
+      ],
+      "rarity": "U1",
+      "set": "223",
+      "side": "Dark"
+    },
+    {
+      "abbr": [
+        "EVID"
+      ],
+      "front": {
+        "armor": "6",
+        "deploy": "4",
+        "destiny": "1",
+        "forfeit": "6",
+        "gametext": "May add 2 pilots and 2 passengers. Permanent pilot is •Vanto, who provides ability of 3. Immune to attrition < 4 (< 6 while piloted by Thrawn or while a 'probed' or 'liberated' system on table).",
+        "hyperspeed": "3",
+        "icons": [
+          "Scomp Link",
+          "Pilot",
+          "Nav Computer",
+          "Set 23"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual23-Dark/large/elivantoindreadnaught.gif",
+        "lore": "Introduced during the Clone Wars. 600 meters long. Some have cargo space converted to TIE hanger bays. Still used to maintain an Imperial presence in the Outer Rim.",
+        "power": "5",
+        "subType": "Capital: Dreadnaught-Class Heavy Cruiser",
+        "title": "•Eli Vanto In Dreadnaught",
+        "type": "Starship",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Eli Vanto In Dreadnaught/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "223_12",
+      "id": 7300,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "223"
+        }
+      ],
+      "rarity": "P",
+      "set": "223",
+      "side": "Dark"
+    },
+    {
+      "abbr": [
+        "GK"
+      ],
+      "front": {
+        "ability": "2",
+        "deploy": "3",
+        "destiny": "3",
+        "forfeit": "5",
+        "gametext": "Your mercenaries are power +1 here. Opponent may not cancel your battle destiny draws where you have a gangster or non-[Maintenance] bounty hunter. When deployed, may deploy a mercenary here from Reserve Deck; reshuffle.",
+        "icons": [
+          "Warrior",
+          "Set 23"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual23-Dark/large/gorkoresh.gif",
+        "lore": "Abyssin gambler and information broker.",
+        "power": "3",
+        "subType": "Alien",
+        "title": "•Gor Koresh",
+        "type": "Character",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Gor Koresh/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "223_13",
+      "id": 7301,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "223"
+        }
+      ],
+      "rarity": "U",
+      "set": "223",
+      "side": "Dark"
+    },
+    {
+      "abbr": [
+        "IA"
+      ],
+      "front": {
+        "destiny": "3",
+        "gametext": "When drawn for weapon or battle destiny, destiny +1 for each of your battlegrounds on table (limit +4). If you have deployed four battlegrounds, choose: Shuffle this card into your Force Pile. OR During battle, add 2 to your total power.",
+        "icons": [
+          "Set 23"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual23-Dark/large/imperialassault.gif",
+        "lore": "'Evacuate? In our moment of triumph?'",
+        "subType": "Used",
+        "title": "•Imperial Assault",
+        "type": "Interrupt",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Imperial Assault/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "223_14",
+      "id": 7302,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "223"
+        }
+      ],
+      "rarity": "C1",
+      "set": "223",
+      "side": "Dark"
+    },
+    {
+      "front": {
+        "ability": "2",
+        "deploy": "2",
+        "destiny": "3",
+        "forfeit": "3",
+        "gametext": "Adds 2 to power of anything he pilots. Once per game, may take Gideon into hand from Reserve Deck; reshuffle. While piloting a speeder bike, Grogu is forfeit -2 here and opponent's weapon destinies targeting your speeder bikes are -1 here.",
+        "icons": [
+          "Pilot",
+          "Warrior",
+          "Set 23"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual23-Dark/large/js1975.gif",
+        "lore": "Biker scout trooper. Imperial Remnant.",
+        "power": "2",
+        "subType": "Imperial",
+        "title": "•JS-1975",
+        "type": "Character",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/JS-1975/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "223_15",
+      "id": 7303,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "223"
+        }
+      ],
+      "rarity": "C",
+      "set": "223",
+      "side": "Dark"
+    },
+    {
+      "abbr": [
+        "LLB"
+      ],
+      "front": {
+        "ability": "2",
+        "deploy": "2",
+        "destiny": "3",
+        "forfeit": "4",
+        "gametext": "Deploys free to Cloud City. Your characters of ability < 5 at same Cloud City site are immune to Clash Of Sabers, may not be targeted to be lost during the weapons segment of a battle, and during your move phase, may use 1 Force to relocate to a related site.",
+        "icons": [
+          "Special Edition",
+          "Set 23"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual23-Dark/large/lobotlandosbroker.gif",
+        "lore": "Son of a traveling slaver. Helps run Cloud City with Administrator Lando Calrissian. Speech capability worn away by constant cyborg neural connection.",
+        "power": "2",
+        "subType": "Alien",
+        "title": "•Lobot, Lando's Broker",
+        "type": "Character",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Lobot, Lando's Broker/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "223_16",
+      "id": 7304,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "223"
+        }
+      ],
+      "rarity": "R",
+      "set": "223",
+      "side": "Dark"
+    },
+    {
+      "abbr": [
+        "MIS",
+        "Maul's Sith Infiltrator"
+      ],
+      "front": {
+        "deploy": "4",
+        "destiny": "4",
+        "forfeit": "6",
+        "gametext": "May add 1 pilot. Permanent pilot is •Maul, who provides ability of 6. Once per battle, may lose 1 Force to 'cloak' (either add one destiny to total power or make this starship immune to attrition < 6).",
+        "hyperspeed": "6",
+        "icons": [
+          "Episode I",
+          "Trade Federation",
+          "Pilot",
+          "Nav Computer",
+          "Set 23"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual23-Dark/large/maulinscimitar.gif",
+        "lore": "Maul's Sith Infiltrator.",
+        "maneuver": "5",
+        "power": "4",
+        "subType": "Starfighter: Sith Infiltrator",
+        "title": "•Maul In Scimitar",
+        "type": "Starship",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Maul In Scimitar/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "223_17",
+      "id": 7305,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "223"
+        }
+      ],
+      "rarity": "U",
+      "set": "223",
+      "side": "Dark"
+    },
+    {
+      "abbr": [
+        "MGSFB"
+      ],
+      "front": {
+        "ability": "4",
+        "armor": "5",
+        "deploy": "4",
+        "destiny": "1",
+        "forfeit": "6",
+        "gametext": "Adds 3 to power of anything he pilots. If you just deployed Darksaber here, may take any one card into hand from Used Pile; reshuffle. You initiate battles here for free. Your total battle destiny here is +1. Immune to attrition < 3.",
+        "icons": [
+          "Pilot",
+          "Warrior",
+          "Set 23"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual23-Dark/large/moffgideonsuitedforbattle.gif",
+        "lore": "Imperial Remnant leader.",
+        "power": "4",
+        "subType": "Imperial",
+        "title": "•Moff Gideon, Suited For Battle",
+        "type": "Character",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Moff Gideon, Suited For Battle/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "223_18",
+      "id": 7306,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "223"
+        }
+      ],
+      "rarity": "C",
+      "set": "223",
+      "side": "Dark"
+    },
+    {
+      "abbr": [
+        "ORv"
+      ],
+      "front": {
+        "destiny": "5",
+        "gametext": "Deploy on Bunker; may immediately take any one [Endor] or [Death Star II] card into hand from Force Pile; reshuffle. While an Imperial leader here, your total Force generation is +1. If opponent controls Bunker, place Effect in Used Pile. [Immune to Alter]",
+        "icons": [
+          "Endor",
+          "Set 23"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual23-Dark/large/ominousrumors.gif",
+        "lore": "Rumors of a new 'technological terror' filled the galaxy with dread.",
+        "title": "•Ominous Rumors (V)",
+        "type": "Effect",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Ominous Rumors (V)/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "223_19",
+      "id": 7307,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "223"
+        }
+      ],
+      "rarity": "R",
+      "set": "223",
+      "side": "Dark"
+    },
+    {
+      "abbr": [
+        "PCv"
+      ],
+      "front": {
+        "destiny": "3",
+        "gametext": "USED: Take into hand from Reserve Deck and reshuffle (or place in owner's Used Pile) Deactivated Hyperdrive or an Admiral's Order. LOST: During battle, if Vader present with two opponent's characters of ability < 4, add one battle destiny. If any are Rebel troopers, choose one to be 'choked' (lost).",
+        "icons": [
+          "Set 23"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual23-Dark/large/physicalchoke.gif",
+        "lore": "Darth Vader often used physical means of 'persuasion' to get information. Captain Antilles of Tantive IV chose to die rather than reveal the location of the stolen Death Star plans.",
+        "subType": "Used Or Lost",
+        "title": "Physical Choke (V)",
+        "type": "Interrupt",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Physical Choke (V)/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "223_20",
+      "id": 7308,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "223"
+        }
+      ],
+      "rarity": "R1",
+      "set": "223",
+      "side": "Dark"
+    },
+    {
+      "abbr": [
+        "PTv"
+      ],
+      "front": {
+        "destiny": "4",
+        "gametext": "If Systems Will Slip Through Your Fingers on table, may reveal from hand and place face down under a system to 'probe' there. Take a probe droid into hand from Reserve Deck; reshuffle. OR Cancel Alternatives To Fighting or It Can Wait. OR Subtract 3 from an attempt to 'liberate' a system.",
+        "icons": [
+          "Hoth",
+          "Set 23"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual23-Dark/large/probetelemetry.gif",
+        "lore": "Probe droids use electromagnetic, seismic, acoustic, olfactory and optical sensors. They report their findings using an omnisignal unicode.",
+        "subType": "Used",
+        "title": "Probe Telemetry (V)",
+        "type": "Interrupt",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Probe Telemetry (V)/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "223_21",
+      "id": 7309,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "223"
+        }
+      ],
+      "rarity": "C2",
+      "set": "223",
+      "side": "Dark"
+    },
+    {
+      "abbr": [
+        "ROPv"
+      ],
+      "front": {
+        "destiny": "4",
+        "gametext": "Once per game, deploy a Lift Tube from outside your deck. [Immune to Sense.] OR Cancel Path Of Least Resistance or Run Luke, Run! OR Take [Set 0] Imperial Decree into hand from Reserve Deck; reshuffle. OR Cancel opponent's Mos Eisley or Upper Plaza Corridor game text for remainder of turn.",
+        "icons": [
+          "Cloud City",
+          "Set 23"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual23-Dark/large/riteofpassage.gif",
+        "lore": "There are many different paths to becoming a Jedi, each with its own risks and consequences. A student must choose wisely.",
+        "subType": "Used",
+        "title": "•Rite Of Passage (V)",
+        "type": "Interrupt",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Rite Of Passage (V)/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "223_22",
+      "id": 7310,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "223"
+        }
+      ],
+      "rarity": "C",
+      "set": "223",
+      "side": "Dark"
+    },
+    {
+      "front": {
+        "ability": "2",
+        "armor": "4",
+        "deploy": "2",
+        "destiny": "2",
+        "forfeit": "3",
+        "gametext": "If Send A Detachment Down on table, destiny +2 when drawn for destiny. During battle at a Tatooine site, may place Tactical Support out of play from Lost Pile to add 2 to attrition against opponent.",
+        "icons": [
+          "Warrior",
+          "Set 23"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual23-Dark/large/td110.gif",
+        "lore": "Sandtrooper leader.",
+        "power": "2",
+        "subType": "Imperial",
+        "title": "•TD-110",
+        "type": "Character",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/TD-110/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "223_23",
+      "id": 7311,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "223"
+        }
+      ],
+      "rarity": "C",
+      "set": "223",
+      "side": "Dark"
+    },
+    {
+      "abbr": [
+        "TEH"
+      ],
+      "front": {
+        "destiny": "4",
+        "gametext": "USED: Take Mara Jade, The Emperor's Hand into hand from Reserve Deck; reshuffle. OR If a battle just ended that your [Premium] Mara won, opponent loses 1 Force and, if Emperor on table, may relocate your Mara to a battleground site. LOST: Retrieve Mara Jade's Lightsaber.",
+        "icons": [
+          "Set 23"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual23-Dark/large/theemperorshand.gif",
+        "lore": "Blank",
+        "subType": "Used Or Lost",
+        "title": "•The Emperor's Hand",
+        "type": "Interrupt",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/The Emperor's Hand/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "223_24",
+      "id": 7312,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "223"
+        }
+      ],
+      "rarity": "C2",
+      "set": "223",
+      "side": "Dark"
+    },
+    {
+      "abbr": [
+        "TEBv"
+      ],
+      "front": {
+        "destiny": "3",
+        "gametext": "USED: Deploy Empire's New Order or Overseeing It Personally from Reserve Deck; reshuffle. LOST: Once per game, choose: Place an opponent's just-played Interrupt out of play. OR If Xizor (or two Imperial leaders) in battle, re-circulate.",
+        "icons": [
+          "Set 23"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual23-Dark/large/theempiresback.gif",
+        "lore": "'No star system will dare oppose the Emperor now.'",
+        "subType": "Used Or Lost",
+        "title": "The Empire's Back (V)",
+        "type": "Interrupt",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/The Empire's Back (V)/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "223_25",
+      "id": 7313,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "223"
+        }
+      ],
+      "rarity": "U1",
+      "set": "223",
+      "side": "Dark"
+    },
+    {
+      "abbr": [
+        "WLFDHv"
+      ],
+      "front": {
+        "destiny": "0",
+        "gametext": "Plays on table. Cancels Beggar, Colo Claw Fish, Frozen Assets, Goo Nee Tay, and Revolution. Each player may play only one card with 'sabacc' in title each turn. You may lose 1 Force to cancel a card with 'sabacc' in title.",
+        "icons": [
+          "Reflections III",
+          "Episode I",
+          "Set D"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual23-Dark/large/wellletfateadecidehuh.gif",
+        "lore": "Qui-Gon was not one to leave the success of an elaborate plan to chance.",
+        "title": "•We'll Let Fate-a Decide, Huh? (V)",
+        "type": "Defensive Shield",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/We'll Let Fate-a Decide, Huh (V)/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "223_26",
+      "id": 7314,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "223"
+        },
+        {
+          "set": "200d"
+        }
+      ],
+      "rarity": "PM",
+      "set": "200d",
+      "side": "Dark"
+    },
+    {
+      "abbr": [
+        "YFv"
+      ],
+      "front": {
+        "destiny": "6",
+        "gametext": "USED: If you have two battlegrounds on table and opponent does not, activate up to 2 Force. LOST: Cancel Disarmed or Jedi Presence. OR During your turn, if Sidious in battle and no other Dark Jedi participating, add one destiny to total power.",
+        "icons": [
+          "Death Star II",
+          "Set 23"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual23-Dark/large/youngfool.gif",
+        "lore": "'Now, young Skywalker... you will die.'",
+        "subType": "Used Or Lost",
+        "title": "•Young Fool (V)",
+        "type": "Interrupt",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Young Fool (V)/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "223_27",
+      "id": 7315,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "223"
+        }
+      ],
+      "rarity": "R",
+      "set": "223",
+      "side": "Dark"
+    },
+    {
+      "abbr": [
+        "YECDYv"
+      ],
+      "front": {
+        "destiny": "5",
+        "gametext": "Deploy on table. Once during your turn, if C-3PO at a non-battleground, may peek at the top two cards of your Reserve Deck and take one into hand. While you occupy two battlegrounds, opponent may not cancel your Force drains at battlegrounds.",
+        "icons": [
+          "Set 23"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual23-Dark/large/youreyescandeceiveyou.gif",
+        "lore": "'With the blast shield down, I can't even see. How am I supposed to fight?'",
+        "title": "Your Eyes Can Deceive You (V)",
+        "type": "Effect",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Your Eyes Can Deceive You (V)/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "223_28",
+      "id": 7316,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "223"
+        }
+      ],
+      "rarity": "U1",
+      "set": "223",
+      "side": "Dark"
+    },
+    {
+      "abbr": [
+        "YNWARv"
+      ],
+      "front": {
+        "destiny": "0",
+        "gametext": "Plays on table. You lose no Force to Boonta Eve Podrace. Unless opponent occupies three battlegrounds, I Did It! is suspended. Double Agent may not target opponent's Undercover spies. If an Undercover spy was just lost, it is placed out of play.",
+        "icons": [
+          "Reflections III",
+          "Episode I",
+          "Set D"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual23-Dark/large/youveneverwonarace.gif",
+        "lore": "'Not even finished?'",
+        "title": "•You've Never Won A Race? (V)",
+        "type": "Defensive Shield",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/You've Never Won A Race (V)/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "223_29",
+      "id": 7317,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "223"
+        },
+        {
+          "set": "200d"
+        }
+      ],
+      "rarity": "PM",
+      "set": "200d",
       "side": "Dark"
     }
   ]
