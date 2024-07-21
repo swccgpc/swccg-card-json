@@ -1199,7 +1199,14 @@
       "set": "6",
       "side": "Dark",
       "underlyingCardFor": [
-        "History, Philosophy, And Art"
+        {
+          "title": "Gor Koresh",
+          "cardId": 7301
+        },
+        {
+          "title": "History, Philosophy, And Art",
+          "cardId": 7081
+        }
       ]
     },
     {
@@ -4923,7 +4930,14 @@
       "set": "5",
       "side": "Dark",
       "underlyingCardFor": [
-        "Mustafar"
+        {
+          "title": "Bespin (V)",
+          "cardId": 7296
+        },
+        {
+          "title": "Mustafar",
+          "cardId": 6527
+        }
       ]
     },
     {
@@ -5786,7 +5800,13 @@
       ],
       "rarity": "C",
       "set": "7",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+        {
+          "title": "TD-110",
+          "cardId": 7311
+        }
+      ]
     },
     {
       "canceledBy": [
@@ -13853,7 +13873,13 @@
       ],
       "rarity": "R",
       "set": "5",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+        {
+          "title": "Dark Deal (V)",
+          "cardId": 7297
+        }
+      ]
     },
     {
       "counterpart": "For Luck",
@@ -15810,7 +15836,10 @@
       "set": "1",
       "side": "Dark",
       "underlyingCardFor": [
-        "A Useless Gesture & Death Star Sentry"
+        {
+          "title": "A Useless Gesture & Death Star Sentry",
+          "cardId": 7295
+        }
       ]
     },
     {
@@ -18490,7 +18519,14 @@
       "set": "106",
       "side": "Dark",
       "underlyingCardFor": [
-        "Invisible Hand"
+        {
+          "title": "Eli Vanto In Dreadnaught",
+          "cardId": 7300
+        },
+        {
+          "title": "Invisible Hand",
+          "cardId": 6419
+        }
       ]
     },
     {
@@ -19496,7 +19532,13 @@
       ],
       "rarity": "U1",
       "set": "3",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+        {
+          "title": "Electro-Rangefinder (V)",
+          "cardId": 7299
+        }
+      ]
     },
     {
       "abbr": [
@@ -28225,7 +28267,13 @@
         "Once deployed, only that chosen function operates until the card leaves table."
       ],
       "set": "2",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+        {
+          "title": "The Emperor's Hand",
+          "cardId": 7312
+        }
+      ]
     },
     {
       "abbr": [
@@ -34085,7 +34133,13 @@
         "Uniqueness rules prevent LS Lobot and DS Lobot (same card title) from being on table at the same time."
       ],
       "set": "7",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+        {
+          "title": "Lobot, Lando's Broker",
+          "cardId": 7304
+        }
+      ]
     },
     {
       "canceledBy": [
@@ -39293,7 +39347,13 @@
       ],
       "rarity": "R",
       "set": "8",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+        {
+          "title": "Ominous Rumors (V)",
+          "cardId": 7307
+        }
+      ]
     },
     {
       "counterpart": "The Bith Shuffle",
@@ -40767,7 +40827,13 @@
       ],
       "rarity": "R1",
       "set": "1",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+        {
+          "title": "Physical Choke (V)",
+          "cardId": 7308
+        }
+      ]
     },
     {
       "front": {
@@ -41814,6 +41880,10 @@
           "title": "ID9 Probe Droid"
         },
         {
+          "cardId": 7309,
+          "title": "Probe Telemetry (V)"
+        },
+        {
           "cardId": 4030,
           "title": "Probot"
         }
@@ -42221,7 +42291,13 @@
       ],
       "rarity": "C",
       "set": "6",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+        {
+          "title": "Moff Gideon, Suited For Battle",
+          "cardId": 7306
+        }
+      ]
     },
     {
       "combo": [
@@ -43598,7 +43674,13 @@
       ],
       "rarity": "C",
       "set": "5",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+        {
+          "title": "Rite Of Passage (V)",
+          "cardId": 7310
+        }
+      ]
     },
     {
       "front": {
@@ -44804,7 +44886,14 @@
       "set": "9",
       "side": "Dark",
       "underlyingCardFor": [
-        "Captain Jonus In Scimitar 2"
+        {
+          "title": "Captain Jonus In Scimitar 2",
+          "cardId": 5124
+        },
+        {
+          "title": "Maul In Scimitar",
+          "cardId": 7305
+        }
       ]
     },
     {
@@ -48094,7 +48183,13 @@
       ],
       "rarity": "C",
       "set": "5",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+        {
+          "title": "JS-1975",
+          "cardId": 7303
+        }
+      ]
     },
     {
       "canceledBy": [
@@ -52484,8 +52579,18 @@
       "set": "1",
       "side": "Dark",
       "underlyingCardFor": [
-        "Palpatine, Emperor Returned",
-        "Palpatine, Emperor Returned (AI)"
+        {
+          "title": "Palpatine, Emperor Returned",
+          "cardId": 6851
+        },
+        {
+          "title": "Palpatine, Emperor Returned (AI)",
+          "cardId": 7269
+        },
+        {
+          "title": "The Empire's Back (V)",
+          "cardId": 7313
+        }
       ]
     },
     {
@@ -57165,7 +57270,13 @@
       ],
       "rarity": "U1",
       "set": "3",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+        {
+          "title": "Echo Base Destroyed",
+          "cardId": 7298
+        }
+      ]
     },
     {
       "front": {
@@ -58029,7 +58140,13 @@
       ],
       "rarity": "PM",
       "set": "13",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+        {
+          "title": "We'll Let Fate-a Decide, Huh? (V)",
+          "cardId": 7314
+        }
+      ]
     },
     {
       "front": {
@@ -59467,7 +59584,13 @@
         "This Interrupt does not triple attrition."
       ],
       "set": "1",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+        {
+          "title": "Imperial Assault",
+          "cardId": 7302
+        }
+      ]
     },
     {
       "cancels": [
@@ -59673,7 +59796,13 @@
       ],
       "rarity": "R",
       "set": "9",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+        {
+          "title": "Young Fool (V)",
+          "cardId": 7315
+        }
+      ]
     },
     {
       "counterpart": "You Must Confront Vader",
@@ -59740,7 +59869,13 @@
         "Baragwin may repeatedly check the top card of Lost Pile to see if it is an eligible target for retrieval (unless his action has already retrieved that turn)."
       ],
       "set": "1",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+        {
+          "title": "Your Eyes Can Deceive You (V)",
+          "cardId": 7316
+        }
+      ]
     },
     {
       "cancels": [
@@ -59801,7 +59936,13 @@
       ],
       "rarity": "PM",
       "set": "13",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+        {
+          "title": "You've Never Won A Race? (V)",
+          "cardId": 7317
+        }
+      ]
     },
     {
       "front": {
