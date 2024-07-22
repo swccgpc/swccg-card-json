@@ -659,7 +659,6 @@
         "destiny": "0",
         "gametext": "Plays on Your Destiny unless Leia or Luke has been deployed this game (even as a captive). [Death Star II] Luke and We're The Bait are lost. Opponent's Objective and [Death Star II] Effects target Leia instead of Luke. Force loss from Take Your Father's Place is -1.",
         "icons": [
-          "Defensive Shield",
           "Reflections 3",
           "Set D"
         ],
@@ -1475,6 +1474,514 @@
       ],
       "set": "205",
       "side": "Light"
+    },
+    {
+      "abbr": [
+        "DDTA"
+      ],
+      "counterpart": "Fanfare (V) - Defensive Shield",
+      "front": {
+        "destiny": "0",
+        "errataSymbol": "E1",
+        "gametext": "Plays on table. Always Thinking With Your Stomach, Ice Storm, and Sandwhirl are canceled. Once per game, may take an Immediate Effect into hand from Reserve Deck; reshuffle. Unless opponent occupies a battleground system, Mobilization Points is suspended.",
+        "icons": [
+          "Episode I",
+          "Set D"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/ResetDS-Light/large/dontdothatagain.gif",
+        "lore": "The Jedi won't tolerate silly behavior for very long.",
+        "title": "•Don't Do That Again (V)",
+        "type": "Defensive Shield",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Dont Do That Again (half-slip) (V)/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "200_26",
+      "id": 40038,
+      "legacy": false,
+      "nextId": 4404,
+      "printings": [
+        {
+          "set": "200"
+        },
+        {
+          "set": "200d"
+        }
+      ],
+      "pulls": [
+        "A Gift",
+        "A Vergence In The Force",
+        "Advantage",
+        "At Peace",
+        "Descent Into The Dark",
+        "Disarming Creature",
+        "Energy Walls",
+        "Grappling Hook",
+        "Heroic Sacrifice",
+        "I Can't Believe He's Gone",
+        "Imperial Atrocity",
+        "Legendary Starfighter",
+        "The Time For Our Attack Has Come",
+        "They Win This Round",
+        "Weapon Of A Fallen Mentor",
+        "What Was It?",
+        "What're You Tryin' To Push On Us?"
+      ],
+      "rarity": "PM",
+      "rulings": [
+        "This will suspend the entire You Cannot Hide Forever & Mobilization Points combo card."
+      ],
+      "set": "200d",
+      "side": "Light",
+      "sourceType": "defensive shield"
+    },
+    {
+      "abbr": [
+        "DDTA"
+      ],
+      "front": {
+        "destiny": "0",
+        "errataSymbol": "E1",
+        "gametext": "Plays on table. Always Thinking With Your Stomach, Ice Storm, and Sandwhirl are canceled. Once per game, may take an Immediate Effect into hand from Reserve Deck; reshuffle. Unless opponent occupies a battleground system, Mobilization Points is suspended.",
+        "icons": [
+          "Episode I",
+          "Set D"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/ResetDS-Light/large/dontdothatagaintatooine.gif",
+        "lore": "The Jedi won't tolerate silly behavior for very long.",
+        "title": "•Don't Do That Again (Tatooine) (V)",
+        "type": "Defensive Shield",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Dont Do That Again (V)/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "200_26",
+      "id": 40039,
+      "legacy": false,
+      "nextId": 5492,
+      "printings": [
+        {
+          "set": "200"
+        },
+        {
+          "set": "200d"
+        }
+      ],
+      "rarity": "PM",
+      "rulings": [
+        "This will suspend the entire You Cannot Hide Forever & Mobilization Points combo card."
+      ],
+      "set": "200d",
+      "side": "Light",
+      "sourceType": "effect"
+    },
+    {
+      "front": {
+        "destiny": "0",
+        "errataSymbol": "E1",
+        "gametext": "Plays on table. While you have 12 or fewer cards in hand, opponent may not remove cards from your hand (except with Monnok). Once per turn (even at start of turn), may target a [Coruscant] Political Effect; it is suspended for the remainder of the turn.",
+        "icons": [
+          "Reflections 3",
+          "Set D"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/ResetDS-Light/large/therepublicnolongerfunctions.gif",
+        "lore": "Blank.",
+        "title": "•The Republic No Longer Functions",
+        "type": "Defensive Shield",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/The Republic No Longer Functions/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "200_29",
+      "id": 40040,
+      "legacy": false,
+      "nextId": 5966,
+      "printings": [
+        {
+          "set": "200"
+        },
+        {
+          "set": "200d"
+        }
+      ],
+      "rarity": "C",
+      "set": "200d",
+      "side": "Light",
+      "sourceType": "effect"
+    },
+    {
+      "abbr": [
+        "TBv"
+      ],
+      "front": {
+        "destiny": "0",
+        "gametext": "Plays on table. At end of a turn, if opponent has 15 or more cards in hand, may use 2 Force to shuffle all but 9 (random selection) into Used Pile. If Monnok or Drop! just targeted your hand, may reveal 2 cards from hand; they cannot be removed or checked for duplicates.",
+        "icons": [
+          "Episode I",
+          "Set D"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual20-Light/large/thrownback.gif",
+        "lore": "Being sent to dispose of two Jedi is the battle droid equivalent of a really bad day at the office.",
+        "title": "•Thrown Back (V)",
+        "type": "Defensive Shield",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Thrown Back (V)/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "220_10",
+      "id": 40041,
+      "legacy": false,
+      "nextId": 7132,
+      "printings": [
+        {
+          "set": "220"
+        },
+        {
+          "set": "200d"
+        }
+      ],
+      "rarity": "C",
+      "rulings": [
+        "A player may view cards that are being removed from their own hand.",
+        "When 2 cards are revealed to prevent them from being placed in Used Pile, the hand will still be reduced to the size required by Drop! or Monnok.",
+        "If a player has 2 of the same card and reveals 1 to prevent it from being checked for duplicates, the other copy is not lost. If a player has 3 of the same card and reveals 2 of them, the other copy is not lost. If a player has 3 of the same card and reveals only 1 of them, the other 2 are duplicates of each other and are lost."
+      ],
+      "set": "200d",
+      "side": "Light"
+    },
+    {
+      "cancels": [
+        "Scanning Crew",
+        "any 'insert' card:",
+        "3,720 to 1",
+        "A Disturbance In The Force",
+        "A Tremor In The Force",
+        "Access Denied",
+        "Anger, Fear, Aggression",
+        "Knowledge And Defense",
+        "Never Tell Me The Odds",
+        "Restricted Access"
+      ],
+      "counterpart": "You Cannot Hide Forever (V) - Defensive Shield",
+      "front": {
+        "destiny": "0",
+        "gametext": "Plays on table. Scanning Crew is canceled. If an 'insert' card was just inserted or revealed, it is canceled. You lose no Force to Boonta Eve Podrace. While you occupy three battlegrounds, Watto's Box is suspended.",
+        "icons": [
+          "Reflections 3",
+          "Set D"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/ResetDS-Light/large/yourinsightservesyouwell.gif",
+        "lore": "Luke knew that while the dark side was quicker and more seductive, eventually evil would turn on itself.",
+        "title": "•Your Insight Serves You Well (V)",
+        "type": "Defensive Shield",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Your Insight Serves You Well (half-slip) (V)/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "200_32",
+      "id": 40042,
+      "legacy": false,
+      "nextId": 4407,
+      "printings": [
+        {
+          "set": "200"
+        },
+        {
+          "set": "200d"
+        }
+      ],
+      "rarity": "PM",
+      "set": "200d",
+      "side": "Light",
+      "sourceType": "defensive shield"
+    },
+    {
+      "front": {
+        "destiny": "0",
+        "gametext": "Plays on table. Scanning Crew is canceled. If an 'insert' card was just inserted or revealed, it is canceled. You lose no Force to Boonta Eve Podrace. While you occupy three battlegrounds, Watto's Box is suspended.",
+        "icons": [
+          "Reflections 3",
+          "Set D"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/ResetDS-Light/large/yourinsightservesyouwellv.gif",
+        "lore": "Luke knew that while the dark side was quicker and more seductive, eventually evil would turn on itself.",
+        "title": "•Your Insight Serves You Well (Death Star II) (V)",
+        "type": "Defensive Shield",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Your Insight Serves You Well  (V)/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "200_32",
+      "id": 40043,
+      "legacy": false,
+      "nextId": 6048,
+      "printings": [
+        {
+          "set": "200"
+        },
+        {
+          "set": "200d"
+        }
+      ],
+      "rarity": "PM",
+      "set": "200d",
+      "side": "Light",
+      "sourceType": "effect"
+    },
+    {
+      "cancels": [
+        "A Dangerous Time"
+      ],
+      "front": {
+        "destiny": "0",
+        "gametext": "Plays on table. Cancels A Dangerous Time and Imperial Supply. Each player may play only one card with 'sabacc' in title each turn. You may cancel an opponent's card with 'sabacc' in title by losing 1 Force from hand.",
+        "icons": [
+          "Reflections 3",
+          "Set D"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/VirtualPremium-Light/large/yourship.gif",
+        "lore": "Han was not sure if Lando had forgiven him for winning the Millennium Falcon. As the old gamblers' saying about sabacc goes: 'Win the game, lose a friend.'",
+        "title": "•Your Ship? (V)",
+        "type": "Defensive Shield",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Your Ship (V)/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "301_5",
+      "id": 40044,
+      "legacy": false,
+      "nextId": 6787,
+      "printings": [
+        {
+          "set": "301"
+        },
+        {
+          "set": "200d"
+        }
+      ],
+      "rarity": "PM",
+      "set": "200d",
+      "side": "Light",
+      "sourceType": "defensive shield"
+    },
+    {
+      "counterpart": "I Find Your Lack Of Faith Disturbing (V)",
+      "front": {
+        "destiny": "0",
+        "errataDate": "2024-07-22",
+        "errataNotes": "Blanked and functionality moved to other Defensive Shield cards.",
+        "gametext": "Plays on table. Bad Feeling Have I is canceled. Unless Inner Strength on table, opponent may use only one combat card per turn. Let Them Make The First Move may target only Undercover spies and R2-D2.",
+        "icons": [
+          "Set D"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/ResetDS-Light/large/affectmind.gif",
+        "lore": "'What was that?' The Jedi power known as 'affect mind' is often used to create minor distractions, allowing Jedi to elude enemies rather than engage them in battle.",
+        "title": "•Affect Mind (V)",
+        "type": "Defensive Shield",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Affect Mind (V)/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "200_25",
+      "id": 69,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "200"
+        },
+        {
+          "set": "200d"
+        }
+      ],
+      "rarity": "R1",
+      "set": "200d",
+      "side": "Light",
+      "sourceType": "effect"
+    },
+    {
+      "front": {
+        "destiny": "0",
+        "errataDate": "2024-07-22",
+        "errataNotes": "Blanked and functionality moved to other Defensive Shield cards.",
+        "gametext": "Plays on table. Opponent's Undercover spies are immune to Nevar Yalnal. Field Promotion is canceled if on Ozzel or opponent's [Maintenance] card. If Monnok just revealed your hand, you may place up to two cards from hand in your Used Pile.",
+        "icons": [
+          "Set D"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual13-Light/large/clumsyandstupid.gif",
+        "lore": "'Lord Vader, the fleet has moved out of lightspeed and we're preparing to aah . . . ukh . . . uh . . . uuuuukkk!'",
+        "title": "•Clumsy And Stupid",
+        "type": "Defensive Shield",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Clumsy And Stupid/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "213_45",
+      "id": 6833,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "213"
+        },
+        {
+          "set": "200d"
+        }
+      ],
+      "rarity": "R",
+      "set": "200d",
+      "side": "Light",
+      "sourceType": "effect"
+    },
+    {
+      "counterpart": "Imperial Detention",
+      "front": {
+        "destiny": "0",
+        "errataDate": "2024-07-22",
+        "errataNotes": "Blanked and functionality moved to new Yavin Sentry & Goldenrod combo card.",
+        "errataSymbol": "E1",
+        "gametext": "Plays on table. For opponent to deploy a character, starship, or vehicle for free (except by that card's own game text), opponent must first use 2 Force. They Must Never Again Leave This City is suspended during opponent's first turn.",
+        "icons": [
+          "Set D"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual0-Light/large/goldenrod.gif",
+        "lore": "Blank.",
+        "title": "•Goldenrod",
+        "type": "Defensive Shield",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Goldenrod/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "200_27",
+      "id": 4410,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "200"
+        },
+        {
+          "set": "200d"
+        }
+      ],
+      "rarity": "R",
+      "rulings": [
+        "A card that deploys for 0 such as Admiral Ozzel is not the same as 'free' and thus doesn't trigger this card.",
+        "When Dark simultaneously deploys a pair of cards for free (e.g. due to It Can Wait), each card is separately affected by Goldenrod, potentially causing a total cost of 4."
+      ],
+      "set": "200d",
+      "side": "Light",
+      "sourceType": "effect"
+    },
+    {
+      "abbr": [
+        "OTV"
+      ],
+      "front": {
+        "destiny": "0",
+        "errataDate": "2024-07-22",
+        "errataNotes": "Blanked and similar anti-Sidious functionality added to Your Insight Serves You Well (V) Defensive Shield.",
+        "gametext": "Plays on table. At each opponent's <> site, your Rebels are each deploy -2 and your Force generation is +1. May lose 3 Force to cancel an attempt by [Theed Palace] Sidious to place your Jedi out of play.",
+        "icons": [
+          "Reflections 3",
+          "Set D"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual17-Light/large/ouneeta.gif",
+        "lore": "Jabba's decadent behavior makes him susceptible to deception. Leia and Lando exploited this weakness, posing as Jabba's kind of scum.",
+        "title": "•Ounee Ta (V)",
+        "type": "Defensive Shield",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Ounee Ta (V) (Half-slip)/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "217_43",
+      "id": 6995,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "217"
+        },
+        {
+          "set": "200d"
+        }
+      ],
+      "rarity": "PM",
+      "set": "200d",
+      "side": "Light",
+      "sourceType": "defensive shield"
+    },
+    {
+      "abbr": [
+        "OTV"
+      ],
+      "front": {
+        "destiny": "0",
+        "errataDate": "2024-07-22",
+        "errataNotes": "Blanked and similar anti-Sidious functionality added to Your Insight Serves You Well (V) Defensive Shield.",
+        "gametext": "Plays on table. At each opponent's <> site, your Rebels are each deploy -2 and your Force generation is +1. May lose 3 Force to cancel an attempt by [Theed Palace] Sidious to place your Jedi out of play.",
+        "icons": [
+          "Reflections 3",
+          "Set D"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual17-Light/large/ouneetav.gif",
+        "lore": "Jabba's decadent behavior makes him susceptible to deception. Leia and Lando exploited this weakness, posing as Jabba's kind of scum.",
+        "title": "•Ounee Ta (Jabba's Palace Sealed Deck) (V)",
+        "type": "Defensive Shield",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Ounee Ta (V) (C-Slip)/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "217_43",
+      "id": 6996,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "217"
+        },
+        {
+          "set": "200d"
+        }
+      ],
+      "rarity": "PM",
+      "set": "200d",
+      "side": "Light",
+      "sourceType": "effect"
+    },
+    {
+      "cancels": [
+        "Colo Claw Fish"
+      ],
+      "front": {
+        "destiny": "0",
+        "errataDate": "2024-07-22",
+        "errataNotes": "Blanked and functionality moved to other Defensive Shield cards.",
+        "gametext": "Plays on table. Colo Claw Fish is canceled. Opponent must first use X Force to deploy a non-unique card (except a Jawa or Tusken Raider) to a location, where X = the number of copies of that card at that location.",
+        "icons": [
+          "Set D"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/ResetDS-Light/large/yavinsentry.gif",
+        "lore": "Rebel sentries are stationed on raised sensor platforms. On watch for Imperial scouts and other hazards, they supplement data gathered by Yavin Base's main sensors.",
+        "title": "•Yavin Sentry (V)",
+        "type": "Defensive Shield",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Yavin Sentry (V)/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "200_31",
+      "id": 2861,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "200"
+        },
+        {
+          "set": "200d"
+        }
+      ],
+      "rarity": "U2",
+      "rulings": [
+        "This separate cost must be paid even if the card being deployed is free."
+      ],
+      "set": "200d",
+      "side": "Light",
+      "sourceType": "effect"
     }
   ]
 }

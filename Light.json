@@ -148,7 +148,13 @@
       ],
       "rarity": "PM",
       "set": "13",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        {
+          "title": "A Close Race (V)",
+          "cardId": 7318
+        }
+      ]
     },
     {
       "canceledBy": [
@@ -314,7 +320,13 @@
       ],
       "rarity": "C",
       "set": "11",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        {
+          "title": "A Jedi's Focus (V)",
+          "cardId": 7319
+        }
+      ]
     },
     {
       "combo": [
@@ -428,9 +440,7 @@
         "Your 'insert' cards:",
         "A Tremor In The Force",
         "Access Denied",
-        "Anger",
-        "Fear",
-        "Aggression",
+        "Anger, Fear, Aggression",
         "Never Tell Me The Odds"
       ],
       "front": {
@@ -1059,7 +1069,7 @@
         "hyperspeed": "4",
         "icons": [
           "Pilot",
-          "Astromech",
+          "Nav Computer",
           "Clone Army",
           "Episode I",
           "Republic",
@@ -1393,43 +1403,7 @@
       ],
       "rarity": "R1",
       "set": "1",
-      "side": "Light",
-      "underlyingCardFor": [
-        "Affect Mind (V)"
-      ]
-    },
-    {
-      "counterpart": "I Find Your Lack Of Faith Disturbing (V)",
-      "front": {
-        "destiny": "0",
-        "gametext": "Plays on table. Bad Feeling Have I is canceled. Unless Inner Strength on table, opponent may use only one combat card per turn. Let Them Make The First Move may target only Undercover spies and R2-D2.",
-        "icons": [
-          "Defensive Shield",
-          "Set D"
-        ],
-        "imageUrl": "https://res.starwarsccg.org/cards/ResetDS-Light/large/affectmind.gif",
-        "lore": "'What was that?' The Jedi power known as 'affect mind' is often used to create minor distractions, allowing Jedi to elude enemies rather than engage them in battle.",
-        "title": "•Affect Mind (V)",
-        "type": "Defensive Shield",
-        "uniqueness": "*",
-        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Affect Mind (V)/image.png",
-        "printableSlipType": "VIRTUAL"
-      },
-      "gempId": "200_25",
-      "id": 69,
-      "legacy": false,
-      "printings": [
-        {
-          "set": "200"
-        },
-        {
-          "set": "200d"
-        }
-      ],
-      "rarity": "R1",
-      "set": "200d",
-      "side": "Light",
-      "sourceType": "effect"
+      "side": "Light"
     },
     {
       "abbr": [
@@ -6098,7 +6072,13 @@
       ],
       "rarity": "C",
       "set": "5",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        {
+          "title": "Sabine, Padawan Learner",
+          "cardId": 7334
+        }
+      ]
     },
     {
       "counterpart": "Blaster Rifle",
@@ -7052,7 +7032,13 @@
         "May be persona replaced (will no longer be Undercover)."
       ],
       "set": "110",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        {
+          "title": "Boushh (V)",
+          "cardId": 7320
+        }
+      ]
     },
     {
       "front": {
@@ -10851,9 +10837,9 @@
         "CCF"
       ],
       "canceledBy": [
-        "Death Star Sentry (V) - Defensive Shield",
-        "Yavin Sentry (V) - Defensive Shield",
-        "Sando Aqua Monster"
+        "Sando Aqua Monster",
+        "We'll Let Fate-a Decide, Huh? (V)",
+        "Your Ship? (V)"
       ],
       "cancels": [
         "Opee Sea Killer"
@@ -12730,7 +12716,13 @@
       ],
       "rarity": "PM",
       "set": "10",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        {
+          "title": "Corran Horn, Jedi",
+          "cardId": 7323
+        }
+      ]
     },
     {
       "conceptBy": "(Original concept by The Advocate Council)",
@@ -16056,10 +16048,14 @@
       ],
       "front": {
         "destiny": "0",
-        "gametext": "Plays on table. Always Thinking With Your Stomach, Ice Storm, and Sandwhirl are canceled. Once per game, may take an Immediate Effect into hand from Reserve Deck; reshuffle. Unless opponent occupies a battleground system, Mobilization Points is suspended.",
+        "errataDate": "2024-07-22",
+        "errataNotes": "E2 adds the canceler for He Hasn't Come Back Yet.",
+        "errataSymbol": "E2",
+        "gametext": "Plays on table. Cancels Always Thinking With Your Stomach, He Hasn't Come Back Yet, Ice Storm, and Sandwhirl. Once per game, may take an Immediate Effect into hand from Reserve Deck; reshuffle. Unless opponent occupies a battleground system, Mobilization Points is suspended.",
         "icons": [
           "Defensive Shield",
           "Episode I",
+          "Reflections 3",
           "Set D"
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/ResetDS-Light/large/dontdothatagaintatooine.gif",
@@ -16073,6 +16069,7 @@
       "gempId": "200_26",
       "id": 5492,
       "legacy": false,
+      "previousId": 40039,
       "printings": [
         {
           "set": "200"
@@ -16096,11 +16093,14 @@
       "counterpart": "Fanfare (V) - Defensive Shield",
       "front": {
         "destiny": "0",
-        "errataSymbol": "E1",
-        "gametext": "Plays on table. Always Thinking With Your Stomach, Ice Storm, and Sandwhirl are canceled. Once per game, may take an Immediate Effect into hand from Reserve Deck; reshuffle. Unless opponent occupies a battleground system, Mobilization Points is suspended.",
+        "errataDate": "2024-07-22",
+        "errataNotes": "E2 adds the canceler for He Hasn't Come Back Yet.",
+        "errataSymbol": "E2",
+        "gametext": "Plays on table. Cancels Always Thinking With Your Stomach, He Hasn't Come Back Yet, Ice Storm, and Sandwhirl. Once per game, may take an Immediate Effect into hand from Reserve Deck; reshuffle. Unless opponent occupies a battleground system, Mobilization Points is suspended.",
         "icons": [
           "Defensive Shield",
           "Episode I",
+          "Reflections 3",
           "Set D"
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/ResetDS-Light/large/dontdothatagain.gif",
@@ -16114,6 +16114,7 @@
       "gempId": "200_26",
       "id": 4404,
       "legacy": false,
+      "previousId": 40038,
       "printings": [
         {
           "set": "200"
@@ -16151,8 +16152,7 @@
     },
     {
       "cancels": [
-        "3",
-        "720 To 1",
+        "3,720 To 1",
         "One opponent's battle destiny just drawn by sacrificing (losing) one of your droids in that battle"
       ],
       "front": {
@@ -18696,7 +18696,13 @@
       ],
       "rarity": "U1",
       "set": "3",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        {
+          "title": "Death Star: Docking Control Room 327",
+          "cardId": 7324
+        }
+      ]
     },
     {
       "abbr": [
@@ -19212,7 +19218,14 @@
       "set": "1",
       "side": "Light",
       "underlyingCardFor": [
-        "Kanan Jarrus, Jedi Knight"
+        {
+          "title": "Eyes In The Dark (V)",
+          "cardId": 7325
+        },
+        {
+          "title": "Kanan Jarrus, Jedi Knight",
+          "cardId": 6990
+        }
       ]
     },
     {
@@ -22321,44 +22334,6 @@
       "side": "Light"
     },
     {
-      "counterpart": "Imperial Detention",
-      "front": {
-        "destiny": "0",
-        "errataSymbol": "E1",
-        "gametext": "Plays on table. For opponent to deploy a character, starship, or vehicle for free (except by that card's own game text), opponent must first use 2 Force. They Must Never Again Leave This City is suspended during opponent's first turn.",
-        "icons": [
-          "Defensive Shield",
-          "Set D"
-        ],
-        "imageUrl": "https://res.starwarsccg.org/cards/Virtual0-Light/large/goldenrod.gif",
-        "lore": "Blank.",
-        "title": "•Goldenrod",
-        "type": "Defensive Shield",
-        "uniqueness": "*",
-        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Goldenrod/image.png",
-        "printableSlipType": "VIRTUAL"
-      },
-      "gempId": "200_27",
-      "id": 4410,
-      "legacy": false,
-      "printings": [
-        {
-          "set": "200"
-        },
-        {
-          "set": "200d"
-        }
-      ],
-      "rarity": "R",
-      "rulings": [
-        "A card that deploys for 0 such as Admiral Ozzel is not the same as 'free' and thus doesn't trigger this card.",
-        "When Dark simultaneously deploys a pair of cards for free (e.g. due to It Can Wait), each card is separately affected by Goldenrod, potentially causing a total cost of 4."
-      ],
-      "set": "200d",
-      "side": "Light",
-      "sourceType": "effect"
-    },
-    {
       "canceledBy": [
         "I Find Your Lack Of Faith Disturbing (V) (Defensive Shield)"
       ],
@@ -25397,7 +25372,13 @@
       ],
       "rarity": "C2",
       "set": "3",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        {
+          "title": "Hoth: Defensive Perimeter (3rd Marker) (V)",
+          "cardId": 7326
+        }
+      ]
     },
     {
       "counterpart": "Hoth: Echo Command Center (War Room)",
@@ -27806,7 +27787,13 @@
         "To triple the damage, Han must be present at the battle location, which is only possible at a site."
       ],
       "set": "1",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        {
+          "title": "Passage To The Alderaan System",
+          "cardId": 7330
+        }
+      ]
     },
     {
       "counterpart": "Jabba's Palace Sabacc",
@@ -36778,8 +36765,18 @@
       "set": "3",
       "side": "Light",
       "underlyingCardFor": [
-        "Rogue One",
-        "Rogue One (AI)"
+        {
+          "title": "Quantum Storm",
+          "cardId": 7332
+        },
+        {
+          "title": "Rogue One",
+          "cardId": 5152
+        },
+        {
+          "title": "Rogue One (AI)",
+          "cardId": 7036
+        }
       ]
     },
     {
@@ -37946,7 +37943,13 @@
       ],
       "rarity": "C",
       "set": "4",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        {
+          "title": "Porg",
+          "cardId": 7331
+        }
+      ]
     },
     {
       "counterpart": "Naboo",
@@ -40894,8 +40897,7 @@
       "set": "112",
       "side": "Light",
       "underlyingCardFor": [
-        "Ounee Ta (V)",
-        "Ounee Ta (Jabba's Palace Sealed Deck) (V)"
+        "Ounee Ta (V)"
       ]
     },
     {
@@ -40925,10 +40927,7 @@
       ],
       "rarity": "PM",
       "set": "13",
-      "side": "Light",
-      "underlyingCardFor": [
-        "Ounee Ta (V)"
-      ]
+      "side": "Light"
     },
     {
       "abbr": [
@@ -41027,8 +41026,18 @@
       "set": "2",
       "side": "Light",
       "underlyingCardFor": [
-        "A Power Loss",
-        "A Power Loss (AI)"
+        {
+          "title": "A Power Loss",
+          "cardId": 6876
+        },
+        {
+          "title": "A Power Loss (AI)",
+          "cardId": 7274
+        },
+        {
+          "title": "Out Of Commission (V)",
+          "cardId": 7329
+        }
       ]
     },
     {
@@ -41953,7 +41962,13 @@
       ],
       "rarity": "C",
       "set": "5",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        {
+          "title": "CB-23",
+          "cardId": 7321
+        }
+      ]
     },
     {
       "front": {
@@ -49359,7 +49374,13 @@
       ],
       "rarity": "C",
       "set": "7",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        {
+          "title": "Rebel Assault",
+          "cardId": 7333
+        }
+      ]
     },
     {
       "front": {
@@ -50227,7 +50248,13 @@
       ],
       "rarity": "C2",
       "set": "1",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        {
+          "title": "Scomp Link Access (V)",
+          "cardId": 7335
+        }
+      ]
     },
     {
       "canceledBy": [
@@ -55259,7 +55286,13 @@
         "When Light deploys Tatooine: Jabba's Palace, Light may choose to cause its force loss before the game text is canceled."
       ],
       "set": "112",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        {
+          "title": "Tatooine: Hutt Trade Route (Desert) (V)",
+          "cardId": 7336
+        }
+      ]
     },
     {
       "combo": [
@@ -56942,19 +56975,26 @@
       "set": "4",
       "side": "Light",
       "underlyingCardFor": [
-        "Goldenrod"
+        {
+          "title": "Yavin Sentry & Goldenrod",
+          "cardId": 7337
+        }
       ]
     },
     {
       "front": {
         "destiny": "0",
-        "gametext": "Plays on table. While you have 12 or fewer cards in hand, opponent may not remove cards from your hand (except with Monnok). Once per turn (even at start of turn), may target a [Coruscant] Political Effect; it is suspended for the remainder of the turn.",
+        "errataDate": "2024-07-22",
+        "errataNotes": "E1 Text: Plays on table. While you have 12 or fewer cards in hand, opponent may not remove cards from your hand (except with Monnok). Once per turn (even at start of turn), may target a [Coruscant] Political Effect; it is suspended for the remainder of the turn.",
+        "errataSymbol": "E2",
+        "gametext": "Plays on table. While you have 14 or fewer cards in hand, opponent may not remove cards from your hand. Once per turn (even at start of turn), may suspend a [Coruscant] Political Effect for remainder of turn. If Monnok just played, may place a card from hand in Used Pile.",
         "icons": [
           "Defensive Shield",
+          "Episode I",
           "Set D"
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/ResetDS-Light/large/therepublicnolongerfunctions.gif",
-        "lore": "Blank.",
+        "lore": "The first step in removing a political opponent is to bring their reputation into question.",
         "title": "•The Republic No Longer Functions",
         "type": "Defensive Shield",
         "uniqueness": "*",
@@ -56964,6 +57004,7 @@
       "gempId": "200_29",
       "id": 5966,
       "legacy": false,
+      "previousId": 40040,
       "printings": [
         {
           "set": "200"
@@ -56972,7 +57013,7 @@
           "set": "200d"
         }
       ],
-      "rarity": "R",
+      "rarity": "C",
       "set": "200d",
       "side": "Light",
       "sourceType": "effect"
@@ -59096,7 +59137,13 @@
       ],
       "rarity": "U",
       "set": "6",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        {
+          "title": "Jabba's Last Chance",
+          "cardId": 7327
+        }
+      ]
     },
     {
       "counterpart": "Resistance - Defensive Shield",
@@ -61584,7 +61631,14 @@
       "set": "7",
       "side": "Light",
       "underlyingCardFor": [
-        "Wookiee Warrior"
+        {
+          "title": "Life Day",
+          "cardId": 7328
+        },
+        {
+          "title": "Wookiee Warrior",
+          "cardId": 6951
+        }
       ]
     },
     {
@@ -62804,48 +62858,7 @@
         "Also increases any special requirements such as on A Jedi's Strength."
       ],
       "set": "1",
-      "side": "Light",
-      "underlyingCardFor": [
-        "Yavin Sentry (V)"
-      ]
-    },
-    {
-      "cancels": [
-        "Colo Claw Fish"
-      ],
-      "front": {
-        "destiny": "0",
-        "gametext": "Plays on table. Colo Claw Fish is canceled. Opponent must first use X Force to deploy a non-unique card (except a Jawa or Tusken Raider) to a location, where X = the number of copies of that card at that location.",
-        "icons": [
-          "Defensive Shield",
-          "Set D"
-        ],
-        "imageUrl": "https://res.starwarsccg.org/cards/ResetDS-Light/large/yavinsentry.gif",
-        "lore": "Rebel sentries are stationed on raised sensor platforms. On watch for Imperial scouts and other hazards, they supplement data gathered by Yavin Base's main sensors.",
-        "title": "•Yavin Sentry (V)",
-        "type": "Defensive Shield",
-        "uniqueness": "*",
-        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Yavin Sentry (V)/image.png",
-        "printableSlipType": "VIRTUAL"
-      },
-      "gempId": "200_31",
-      "id": 2861,
-      "legacy": false,
-      "printings": [
-        {
-          "set": "200"
-        },
-        {
-          "set": "200d"
-        }
-      ],
-      "rarity": "U2",
-      "rulings": [
-        "This separate cost must be paid even if the card being deployed is free."
-      ],
-      "set": "200d",
-      "side": "Light",
-      "sourceType": "effect"
+      "side": "Light"
     },
     {
       "front": {
@@ -63591,10 +63604,7 @@
       ],
       "rarity": "R1",
       "set": "3",
-      "side": "Light",
-      "underlyingCardFor": [
-        "Clumsy And Stupid"
-      ]
+      "side": "Light"
     },
     {
       "abbr": [
@@ -63725,8 +63735,7 @@
         "YISYW"
       ],
       "cancels": [
-        "3",
-        "720 To 1",
+        "3,720 To 1",
         "Scanning Crew"
       ],
       "counterpart": "You Cannot Hide Forever",
@@ -63798,14 +63807,11 @@
       "cancels": [
         "Scanning Crew",
         "any 'insert' card:",
-        "3",
-        "720 to 1",
+        "3,720 to 1",
         "A Disturbance In The Force",
         "A Tremor In The Force",
         "Access Denied",
-        "Anger",
-        "Fear",
-        "Aggression",
+        "Anger, Fear, Aggression",
         "Knowledge And Defense",
         "Never Tell Me The Odds",
         "Restricted Access"
@@ -63841,8 +63847,7 @@
     },
     {
       "cancels": [
-        "3",
-        "720 To 1",
+        "3,720 To 1",
         "Scanning Crew"
       ],
       "counterpart": "You Cannot Hide Forever & Mobilization Points",
@@ -63903,10 +63908,13 @@
     {
       "front": {
         "destiny": "0",
-        "gametext": "Plays on table. Scanning Crew is canceled. If an 'insert' card was just inserted or revealed, it is canceled. You lose no Force to Boonta Eve Podrace. While you occupy three battlegrounds, Watto's Box is suspended.",
+        "errataDate": "2024-07-22",
+        "errataNotes": "Original Text: Plays on table. Plays on table. Scanning Crew is canceled. If an 'insert' card was just inserted or revealed, it is canceled. You lose no Force to Boonta Eve Podrace. While you occupy three battlegrounds, Watto's Box is suspended.",
+        "errataSymbol": "E1",
+        "gametext": "Plays on table. Cancels Scanning Crew and 'insert' cards just revealed. Sidious may not place Skywalkers out of play. Let Them Make The First Move may target only Undercover spies. Unless Inner Strength on table, opponent may use only one combat card per turn.",
         "icons": [
-          "Death Star II",
           "Defensive Shield",
+          "Reflections 3",
           "Set D"
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/ResetDS-Light/large/yourinsightservesyouwellv.gif",
@@ -63920,6 +63928,7 @@
       "gempId": "200_32",
       "id": 6048,
       "legacy": false,
+      "previousId": 40043,
       "printings": [
         {
           "set": "200"
@@ -63937,14 +63946,11 @@
       "cancels": [
         "Scanning Crew",
         "any 'insert' card:",
-        "3",
-        "720 to 1",
+        "3,720 to 1",
         "A Disturbance In The Force",
         "A Tremor In The Force",
         "Access Denied",
-        "Anger",
-        "Fear",
-        "Aggression",
+        "Anger, Fear, Aggression",
         "Knowledge And Defense",
         "Never Tell Me The Odds",
         "Restricted Access"
@@ -63952,7 +63958,10 @@
       "counterpart": "You Cannot Hide Forever (V) - Defensive Shield",
       "front": {
         "destiny": "0",
-        "gametext": "Plays on table. Scanning Crew is canceled. If an 'insert' card was just inserted or revealed, it is canceled. You lose no Force to Boonta Eve Podrace. While you occupy three battlegrounds, Watto's Box is suspended.",
+        "errataDate": "2024-07-22",
+        "errataNotes": "Original Text: Plays on table. Scanning Crew is canceled. If an 'insert' card was just inserted or revealed, it is canceled. You lose no Force to Boonta Eve Podrace. While you occupy three battlegrounds, Watto's Box is suspended.",
+        "errataSymbol": "E1",
+        "gametext": "Plays on table. Cancels Scanning Crew and 'insert' cards just revealed. Sidious may not place Skywalkers out of play. Let Them Make The First Move may target only Undercover spies. Unless Inner Strength on table, opponent may use only one combat card per turn.",
         "icons": [
           "Defensive Shield",
           "Reflections 3",
@@ -63969,6 +63978,7 @@
       "gempId": "200_32",
       "id": 4407,
       "legacy": false,
+      "previousId": 40042,
       "printings": [
         {
           "set": "200"
@@ -64444,8 +64454,10 @@
       ],
       "front": {
         "destiny": "0",
+        "errataDate": "2024-07-22",
+        "errataNotes": "Original Text: Plays on table. Cancels A Dangerous Time and Imperial Supply. Each player may play only one card with 'sabacc' in title each turn. You may cancel an opponent's card with 'sabacc' in title by losing 1 Force from hand.",
         "errataSymbol": "E1",
-        "gametext": "Plays on table. Cancels A Dangerous Time and Imperial Supply. Each player may play only one card with 'sabacc' in title each turn. You may cancel an opponent's card with 'sabacc' in title by losing 1 Force from hand.",
+        "gametext": "Plays on table. Cancels A Dangerous Time, Bad Feeling Have I, Colo Claw Fish, Field Promotion, and Imperial Supply. Each player may play only one card with 'sabacc' in title each turn. You may lose 1 Force to cancel a card with 'sabacc' in title.",
         "icons": [
           "Reflections 3",
           "Defensive Shield",
@@ -64462,6 +64474,7 @@
       "gempId": "301_5",
       "id": 6787,
       "legacy": false,
+      "previousId": 40044,
       "printings": [
         {
           "set": "301"
@@ -64562,7 +64575,7 @@
         "gametext": "While aboard (or stacked on) a freighter, adds 1 to power, maneuver, and hyperspeed, and when forfeiting L3-37, stack her on that freighter. May lose L3-37 to cancel a non-[Immune to Sense] Interrupt targeting a freighter she is aboard or stacked on.",
         "icons": [
           "Pilot",
-          "Astromech",
+          "Nav Computer",
           "Set 13"
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual13-Light/large/l337.gif",
@@ -64953,38 +64966,6 @@
       ],
       "set": "213",
       "side": "Light"
-    },
-    {
-      "front": {
-        "destiny": "0",
-        "gametext": "Plays on table. Opponent's Undercover spies are immune to Nevar Yalnal. Field Promotion is canceled if on Ozzel or opponent's [Maintenance] card. If Monnok just revealed your hand, you may place up to two cards from hand in your Used Pile.",
-        "icons": [
-          "Defensive Shield",
-          "Set D"
-        ],
-        "imageUrl": "https://res.starwarsccg.org/cards/Virtual13-Light/large/clumsyandstupid.gif",
-        "lore": "'Lord Vader, the fleet has moved out of lightspeed and we're preparing to aah . . . ukh . . . uh . . . uuuuukkk!'",
-        "title": "•Clumsy And Stupid",
-        "type": "Defensive Shield",
-        "uniqueness": "*",
-        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Clumsy And Stupid/image.png",
-        "printableSlipType": "VIRTUAL"
-      },
-      "gempId": "213_45",
-      "id": 6833,
-      "legacy": false,
-      "printings": [
-        {
-          "set": "213"
-        },
-        {
-          "set": "200d"
-        }
-      ],
-      "rarity": "R",
-      "set": "200d",
-      "side": "Light",
-      "sourceType": "effect"
     },
     {
       "canceledBy": [
@@ -68792,78 +68773,6 @@
     },
     {
       "abbr": [
-        "OTV"
-      ],
-      "front": {
-        "destiny": "0",
-        "gametext": "Plays on table. At each opponent's <> site, your Rebels are each deploy -2 and your Force generation is +1. May lose 3 Force to cancel an attempt by [Theed Palace] Sidious to place your Jedi out of play.",
-        "icons": [
-          "Defensive Shield",
-          "Reflections 3",
-          "Set D"
-        ],
-        "imageUrl": "https://res.starwarsccg.org/cards/Virtual17-Light/large/ouneeta.gif",
-        "lore": "Jabba's decadent behavior makes him susceptible to deception. Leia and Lando exploited this weakness, posing as Jabba's kind of scum.",
-        "title": "•Ounee Ta (V)",
-        "type": "Defensive Shield",
-        "uniqueness": "*",
-        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Ounee Ta (V) (Half-slip)/image.png",
-        "printableSlipType": "VIRTUAL"
-      },
-      "gempId": "217_43",
-      "id": 6995,
-      "legacy": false,
-      "printings": [
-        {
-          "set": "217"
-        },
-        {
-          "set": "200d"
-        }
-      ],
-      "rarity": "PM",
-      "set": "200d",
-      "side": "Light",
-      "sourceType": "defensive shield"
-    },
-    {
-      "abbr": [
-        "OTV"
-      ],
-      "front": {
-        "destiny": "0",
-        "gametext": "Plays on table. At each opponent's <> site, your Rebels are each deploy -2 and your Force generation is +1. May lose 3 Force to cancel an attempt by [Theed Palace] Sidious to place your Jedi out of play.",
-        "icons": [
-          "Defensive Shield",
-          "Reflections 3",
-          "Set D"
-        ],
-        "imageUrl": "https://res.starwarsccg.org/cards/Virtual17-Light/large/ouneetav.gif",
-        "lore": "Jabba's decadent behavior makes him susceptible to deception. Leia and Lando exploited this weakness, posing as Jabba's kind of scum.",
-        "title": "•Ounee Ta (Jabba's Palace Sealed Deck) (V)",
-        "type": "Defensive Shield",
-        "uniqueness": "*",
-        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Ounee Ta (V) (C-Slip)/image.png",
-        "printableSlipType": "VIRTUAL"
-      },
-      "gempId": "217_43",
-      "id": 6996,
-      "legacy": false,
-      "printings": [
-        {
-          "set": "217"
-        },
-        {
-          "set": "200d"
-        }
-      ],
-      "rarity": "PM",
-      "set": "200d",
-      "side": "Light",
-      "sourceType": "effect"
-    },
-    {
-      "abbr": [
         "PDB"
       ],
       "front": {
@@ -71360,7 +71269,10 @@
       ],
       "front": {
         "destiny": "0",
-        "gametext": "Plays on table. At end of a turn, if opponent has 15 or more cards in hand, may use 2 Force to shuffle all but 9 (random selection) into Used Pile. If Monnok or Drop! just targeted your hand, may reveal 2 cards from hand; they cannot be removed or checked for duplicates.",
+        "errataDate": "2024-07-22",
+        "errataNotes": "Use 2 Force became 3 Force.  Reveal 2 cards became 3 cards.",
+        "errataSymbol": "E1",
+        "gametext": "Plays on table. At end of a turn, if opponent has 15 or more cards in hand, may use 3 Force to shuffle all but 9 (random selection) into Used Pile. If Monnok or Drop! just targeted your hand, may reveal 3 cards from hand; they cannot be removed or checked for duplicates.",
         "icons": [
           "Episode I",
           "Set D"
@@ -71376,6 +71288,7 @@
       "gempId": "220_10",
       "id": 7132,
       "legacy": false,
+      "previousId": 40041,
       "printings": [
         {
           "set": "220"
@@ -71387,7 +71300,7 @@
       "rarity": "C",
       "rulings": [
         "A player may view cards that are being removed from their own hand.",
-        "When 2 cards are revealed to prevent them from being placed in Used Pile, the hand will still be reduced to the size required by Drop! or Monnok.",
+        "When 3 cards are revealed to prevent them from being placed in Used Pile, the hand will still be reduced to the size required by Drop! or Monnok.",
         "If a player has 2 of the same card and reveals 1 to prevent it from being checked for duplicates, the other copy is not lost. If a player has 3 of the same card and reveals 2 of them, the other copy is not lost. If a player has 3 of the same card and reveals only 1 of them, the other 2 are duplicates of each other and are lost."
       ],
       "set": "200d",
@@ -74394,6 +74307,685 @@
         "This 'readable' version of Hindsight does not physically exist; it is provided here for convenience."
       ],
       "set": "5",
+      "side": "Light"
+    },
+    {
+      "abbr": [
+        "ACRv"
+      ],
+      "front": {
+        "destiny": "0",
+        "gametext": "Plays on table. You lose no Force to Boonta Eve Podrace. While you occupy three battlegrounds, Watto's Box is suspended. Nevar Yalnal may not target opponent's Undercover spies. If an Undercover spy was just lost, it is placed out of play.",
+        "icons": [
+          "Reflections III",
+          "Episode I",
+          "Set D"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual23-Light/large/acloserace.gif",
+        "lore": "'Poodoo!'",
+        "title": "•A Close Race (V)",
+        "type": "Defensive Shield",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/A Close Race (V)/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "223_30",
+      "id": 7318,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "223"
+        },
+        {
+          "set": "200d"
+        }
+      ],
+      "rarity": "PM",
+      "set": "200d",
+      "side": "Light"
+    },
+    {
+      "abbr": [
+        "AJFv"
+      ],
+      "front": {
+        "destiny": "4",
+        "gametext": "If you chose I Have It on your [Skywalker] Epic Event, choose: Take a card into hand from Force Pile; reshuffle. OR Once per game, during battle, if Luke present with opponent's character of equal or lesser ability, use 2 Force to exclude them both from battle.",
+        "icons": [
+          "Tatooine",
+          "Set 23"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual23-Light/large/ajedisfocus.gif",
+        "lore": "Vader was surprised at how far the 'young apprentice' had come in his training.",
+        "subType": "Lost",
+        "title": "•A Jedi's Focus (V)",
+        "type": "Interrupt",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/A Jedi's Focus (V)/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "223_31",
+      "id": 7319,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "223"
+        }
+      ],
+      "rarity": "C",
+      "set": "223",
+      "side": "Light"
+    },
+    {
+      "front": {
+        "ability": "4",
+        "armor": "5",
+        "deploy": "4",
+        "destiny": "1",
+        "forfeit": "6",
+        "gametext": "If deployed to same site as frozen Han, Leia may not battle until your next turn. Your characters here are immune to Imperial Barrier. During battle with Chewie, may add one destiny to attrition. Once per game, may take Someone Who Loves You into hand from Reserve Deck; reshuffle.",
+        "icons": [
+          "Premium",
+          "Jabba's Palace",
+          "Pilot",
+          "Warrior",
+          "Set 23"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual23-Light/large/boushh.gif",
+        "lore": "Leia obtained the armor of a notorious mercenary to sneak onto Coruscant. She later assumed the same role to spy on Jabba. Fearless and inventive. Jabba's kind of scum.",
+        "power": "4",
+        "subType": "Rebel",
+        "title": "•Boushh (V)",
+        "type": "Character",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Boushh (V)/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "223_32",
+      "id": 7320,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "223"
+        }
+      ],
+      "rarity": "PM",
+      "set": "223",
+      "side": "Light"
+    },
+    {
+      "front": {
+        "deploy": "2",
+        "destiny": "3",
+        "extraText": [
+          "Astromech Droid"
+        ],
+        "forfeit": "4",
+        "gametext": "[Episode VII] characters deploy -1 here. During battle, each player with two other participating [Episode VII] characters may add one destiny to attrition. While with Kazuda, Poe, or Rey, gains Resistance Agent.",
+        "icons": [
+          "Episode VII",
+          "Nav Computer",
+          "Set 23"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual23-Light/large/cb23.gif",
+        "lore": "Female.",
+        "power": "1",
+        "subType": "Droid",
+        "title": "•CB-23",
+        "type": "Character",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/CB-23/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "223_33",
+      "id": 7321,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "223"
+        }
+      ],
+      "rarity": "C",
+      "set": "223",
+      "side": "Light"
+    },
+    {
+      "front": {
+        "destiny": "4",
+        "gametext": "Cancel None Shall Pass. OR If a battle just initiated at a First Light or Jabba's Palace site, cancel game text of a participating character of ability < 4. OR If your character of ability = 5 on table, take an Interrupt with printed destiny = 4 into hand from Reserve Deck; reshuffle.",
+        "icons": [
+          "Jabba's Palace",
+          "Set 23"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual23-Light/large/choke.gif",
+        "lore": "Reaching out with the Force, Luke rendered Ortugg unconscious without doing the Gamorrean any actual harm.",
+        "subType": "Lost",
+        "title": "Choke (V)",
+        "type": "Interrupt",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Choke (V)/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "223_34",
+      "id": 7322,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "223"
+        }
+      ],
+      "rarity": "C",
+      "set": "223",
+      "side": "Light",
+      "underlyingCardFor": [
+        {
+          "title": "Choke (V)",
+          "cardId": 7322
+        }
+      ]
+    },
+    {
+      "abbr": [
+        "CHJ"
+      ],
+      "front": {
+        "ability": "6",
+        "deploy": "5",
+        "destiny": "1",
+        "extraText": [
+          "Jedi Knight"
+        ],
+        "forfeit": "6",
+        "gametext": "Adds 1 to maneuver of anything he pilots. Once per game, during battle, may deploy a blaster on Corran from hand (or Reserve Deck; reshuffle). During battle, may subtract 1 from a just drawn blaster weapon destiny; Corran is power +2. Immune to attrition < 5.",
+        "icons": [
+          "Pilot",
+          "Warrior",
+          "Set 23"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual23-Light/large/corranhornjedi.gif",
+        "lore": "Corellian. Former counter-intelligence agent for CorSec (Corellian Security). Gifted tactician. One of Wedge Antilles' best pilots. Member of Rogue Squadron.",
+        "power": "4",
+        "subType": "Rebel",
+        "title": "•Corran Horn, Jedi",
+        "type": "Character",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Corran Horn, Jedi/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "223_35",
+      "id": 7323,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "223"
+        }
+      ],
+      "rarity": "PM",
+      "set": "223",
+      "side": "Light"
+    },
+    {
+      "abbr": [
+        "DSDCR"
+      ],
+      "front": {
+        "darkSideIcons": 1,
+        "destiny": "0",
+        "gametext": "Light: May deploy [Set 15] C-3PO here from Reserve Deck; reshuffle. Dark: Luke may not be captured here. Restraining Bolt here is canceled.",
+        "icons": [
+          "Interior",
+          "Mobile",
+          "Scomp Link",
+          "Set 23"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual23-Light/large/deathstardockingcontrolroom327.gif",
+        "lightSideIcons": 2,
+        "subType": "Site",
+        "title": "•Death Star: Docking Control Room 327",
+        "type": "Location",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Death Star Docking Control Room 327 (Light)/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "223_36",
+      "id": 7324,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "223"
+        }
+      ],
+      "rarity": "U1",
+      "set": "223",
+      "side": "Light"
+    },
+    {
+      "abbr": [
+        "EITDv"
+      ],
+      "front": {
+        "destiny": "5",
+        "gametext": "Deploy on table. Once during your turn, if 4-LOM at a non-battleground, may peek at the top two cards of your Reserve Deck and take one into hand. While you occupy two battlegrounds, opponent may not cancel your Force drains at battlegrounds.",
+        "icons": [
+          "Set 23"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual23-Light/large/eyesinthedark.gif",
+        "lore": "'I don't like the look of this.'",
+        "title": "Eyes In The Dark (V)",
+        "type": "Effect",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Eyes In The Dark (V)/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "223_37",
+      "id": 7325,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "223"
+        }
+      ],
+      "rarity": "U1",
+      "set": "223",
+      "side": "Light"
+    },
+    {
+      "abbr": [
+        "HDPv"
+      ],
+      "front": {
+        "darkSideIcons": 1,
+        "destiny": "0",
+        "gametext": "Light: During opponent's turn, if you occupy with a [Hoth] character or [Hoth] vehicle, may activate 1 Force. Dark: If you occupy, your Force generation is +1 here.",
+        "icons": [
+          "Hoth",
+          "Exterior",
+          "Planet",
+          "Set 23"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual23-Light/large/hothdefensiveperimeter.gif",
+        "lightSideIcons": 2,
+        "subType": "Site",
+        "title": "•Hoth: Defensive Perimeter (3rd Marker) (V)",
+        "type": "Location",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Hoth Defensive Perimeter (Light) (V)/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "223_38",
+      "id": 7326,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "223"
+        }
+      ],
+      "rarity": "C2",
+      "set": "223",
+      "side": "Light"
+    },
+    {
+      "abbr": [
+        "JLC"
+      ],
+      "front": {
+        "destiny": "(4)",
+        "gametext": "If Han is frozen, deploy on table. Chewie, Lando, and Leia are immune to attrition < 4. Once per turn, may deploy a unique (•) character weapon from Reserve Deck; reshuffle. Once per game, if R2-D2 in battle, may exchange a card in hand with a card in Reserve Deck; reshuffle. [Immune to Alter.]",
+        "icons": [
+          "Set 23"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual23-Light/large/jabbaslastchance.gif",
+        "lore": "'Jabba! This is your last chance. Free us or die.'",
+        "title": "•Jabba's Last Chance",
+        "type": "Effect",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Jabba's Last Chance/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "223_39",
+      "id": 7327,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "223"
+        }
+      ],
+      "rarity": "U",
+      "set": "223",
+      "side": "Light"
+    },
+    {
+      "abbr": [
+        "LD"
+      ],
+      "front": {
+        "destiny": "4",
+        "gametext": "When drawn for destiny, if three Wookiees and/or Ewoks on table, destiny +2. Deploy a bowcaster or Ewok weapon from Lost Pile. OR Take an Ewok or Wookiee of power < 6 into hand from Reserve Deck; reshuffle. OR During battle at same site as Part Of The Tribe, add one battle destiny.",
+        "icons": [
+          "Set 23"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual23-Light/large/lifeday.gif",
+        "lore": "Wookiees are known to be fierce warriors. Combine high technology with a primitive lifestyle. Escaped Imperial slavery after the Battle of Endor.",
+        "subType": "Used",
+        "title": "•Life Day",
+        "type": "Interrupt",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Life Day/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "223_40",
+      "id": 7328,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "223"
+        }
+      ],
+      "rarity": "F",
+      "set": "223",
+      "side": "Light"
+    },
+    {
+      "abbr": [
+        "OOCv"
+      ],
+      "front": {
+        "destiny": "5",
+        "gametext": "Choose an artwork card to be lost. OR For remainder of turn, forfeit values may not be increased and opponent may not target your 'hit' cards to be lost. OR During your control phase, use 1 Force to relocate [Set 1] Obi-Wan to an adjacent site.",
+        "icons": [
+          "A New Hope",
+          "Set 23"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual23-Light/large/outofcommission.gif",
+        "lore": "'I hope that old man got that tractor beam out of commission or this is gonna be a real short trip.'",
+        "subType": "Used",
+        "title": "Out Of Commission (V)",
+        "type": "Interrupt",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Out Of Commission (V)/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "223_41",
+      "id": 7329,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "223"
+        }
+      ],
+      "rarity": "U2",
+      "set": "223",
+      "side": "Light"
+    },
+    {
+      "abbr": [
+        "PTTAS"
+      ],
+      "front": {
+        "destiny": "3",
+        "gametext": "If Stolen Data Tapes on table, deploy on table. Once per game, may simultaneously deploy non-[Episode VII] Falcon and non-[Episode VII] Han (for -1 Force each) from hand and/or Reserve Deck; reshuffle. At Tatooine system, Imperial starships may not have their deploy cost modified. [Immune to Alter.]",
+        "icons": [
+          "Set 23"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual23-Light/large/passagetothealderaansystem.gif",
+        "lore": "Han's smuggling adventures in Corporate Sector and Hutt Space put him in many tight scrapes. He's about to be in another.",
+        "title": "•Passage To The Alderaan System",
+        "type": "Effect",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Passage To The Alderaan System/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "223_42",
+      "id": 7330,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "223"
+        }
+      ],
+      "rarity": "C2",
+      "set": "223",
+      "side": "Light"
+    },
+    {
+      "front": {
+        "deploy": "2",
+        "destiny": "5",
+        "extraText": [
+          "SOULFUL EYES: 3"
+        ],
+        "ferocity": "1",
+        "forfeit": "0",
+        "gametext": "Habitat: Ahch-To sites, either player's starship card (uses no capacity). Does not attack. Starship porg is aboard or characters present with porg are power and defense value -1 (+2 if yours). Adds one [Light Side] icon here.",
+        "icons": [
+          "Episode VII",
+          "Selective",
+          "Set 23"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual23-Light/large/porg.gif",
+        "lore": "Blank",
+        "subType": "Sea-Dwelling",
+        "title": "•••Porg",
+        "type": "Creature",
+        "uniqueness": "***",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Porg/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "223_43",
+      "id": 7331,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "223"
+        }
+      ],
+      "rarity": "C",
+      "set": "223",
+      "side": "Light"
+    },
+    {
+      "abbr": [
+        "QS"
+      ],
+      "front": {
+        "armor": "4",
+        "deploy": "3",
+        "destiny": "3",
+        "forfeit": "5",
+        "gametext": "May add 2 pilots and 6 passengers. Permanent pilot provides ability of 2. Your weapons on Hoth fire for free. During battle, if your [Hoth] cannon at a related site, may cancel a character's game text here.",
+        "hyperspeed": "4",
+        "icons": [
+          "Scomp Link",
+          "Pilot",
+          "Nav Computer",
+          "Set 23"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual23-Light/large/quantumstorm.gif",
+        "lore": "Passenger and cargo transport built by Gallofree Yards. Enormous cargo bays can be outfitted to safely accommodate large numbers of troops, munitions or supplies.",
+        "power": "2",
+        "subType": "Capital: Medium Transport",
+        "title": "•Quantum Storm",
+        "type": "Starship",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Quantum Storm/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "223_44",
+      "id": 7332,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "223"
+        }
+      ],
+      "rarity": "U2",
+      "set": "223",
+      "side": "Light"
+    },
+    {
+      "abbr": [
+        "RA"
+      ],
+      "front": {
+        "destiny": "3",
+        "gametext": "When drawn for weapon or battle destiny, destiny +1 for each of your battlegrounds on table (limit +4). If you have deployed four battlegrounds, choose: Shuffle this card into your Force pile. OR During battle, add 2 to your total power.",
+        "icons": [
+          "Set 23"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual23-Light/large/rebelassault.gif",
+        "lore": "'Lock S-foils in attack position.'",
+        "subType": "Used",
+        "title": "•Rebel Assault",
+        "type": "Interrupt",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Rebel Assault/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "223_45",
+      "id": 7333,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "223"
+        }
+      ],
+      "rarity": "C",
+      "set": "223",
+      "side": "Light"
+    },
+    {
+      "abbr": [
+        "SPL"
+      ],
+      "front": {
+        "ability": "4",
+        "armor": "5",
+        "deploy": "4",
+        "destiny": "2",
+        "forfeit": "6",
+        "gametext": "If Sabine just deployed (or won a battle), may choose an artwork card to be lost. Once per turn, if Sabine just 'hit' a character, opponent loses 2 Force. While with Ahsoka or Ezra, your total battle destiny here is +1. Immune to [Permanent Weapon] weapons and attrition < 3.",
+        "icons": [
+          "Pilot",
+          "Warrior",
+          "Set 23"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual23-Light/large/sabinepadawanlearner.gif",
+        "lore": "Female Mandalorian. Padawan.",
+        "power": "4",
+        "subType": "Rebel",
+        "title": "•Sabine, Padawan Learner",
+        "type": "Character",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Sabine, Padawan Learner/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "223_46",
+      "id": 7334,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "223"
+        }
+      ],
+      "rarity": "C",
+      "set": "223",
+      "side": "Light"
+    },
+    {
+      "abbr": [
+        "SLAv"
+      ],
+      "front": {
+        "destiny": "3",
+        "gametext": "Once per game, 'BEEP-BOOP' (a [Grabber] card stacks a just played opponent's Interrupt; this does not count towards any [Grabber] card's once per game limit). OR Once per game, 'WHAAOW!' (lose your droid at a Scomp link to cancel a battle just initiated at same or related interior site).",
+        "icons": [
+          "Set 23"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual23-Light/large/scomplinkaccess.gif",
+        "lore": "A computer connection access port used mainly by droids to plug into database networks and locate information, evaluate threats, execute diagnostics or perform maintenance.",
+        "subType": "Used",
+        "title": "Scomp Link Access (V)",
+        "type": "Interrupt",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Scomp Link Access (V)/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "223_47",
+      "id": 7335,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "223"
+        }
+      ],
+      "rarity": "C2",
+      "set": "223",
+      "side": "Light"
+    },
+    {
+      "abbr": [
+        "THTRv",
+        "THTRDv"
+      ],
+      "front": {
+        "darkSideIcons": 1,
+        "destiny": "0",
+        "gametext": "Light: The first alien you deploy here each turn is deploy -1. Characters here are immune to Sandwhirl. Dark: Unless you occupy, you must first use 1 Force to deploy a non-alien character here.",
+        "icons": [
+          "Exterior",
+          "Planet",
+          "Set 23"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual23-Light/large/tatooinehutttraderoutedesert.gif",
+        "lightSideIcons": 2,
+        "subType": "Site",
+        "title": "•Tatooine: Hutt Trade Route (Desert) (V)",
+        "type": "Location",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Tatooine Hutt Trade Route (Desert) (V)/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "223_48",
+      "id": 7336,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "223"
+        }
+      ],
+      "rarity": "PM",
+      "set": "223",
+      "side": "Light"
+    },
+    {
+      "abbr": [
+        "YS&G",
+        "Yavin Sentry combo",
+        "Goldenrod combo"
+      ],
+      "counterpart": "A Useless Gesture & Death Star Sentry",
+      "front": {
+        "destiny": "0",
+        "gametext": "Plays on table. They Must Never Again Leave This City is suspended during opponent's first turn. For opponent to deploy a character, starship, or vehicle for free (except by that card's own game text), opponent must first use 2 Force. Opponent must first use X Force to deploy a non-unique card (except a Jawa or Tusken Raider) to a location, where X = the number of copies of that card at that location.",
+        "icons": [
+          "Set D"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual23-Light/large/yavinsentrygoldenrod.gif",
+        "title": "•Yavin Sentry & •Goldenrod",
+        "type": "Defensive Shield",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Yavin Sentry & Goldenrod/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "223_49",
+      "id": 7337,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "223"
+        },
+        {
+          "set": "200d"
+        }
+      ],
+      "rarity": "R",
+      "set": "200d",
       "side": "Light"
     }
   ]

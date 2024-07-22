@@ -928,7 +928,6 @@
         "destiny": "0",
         "gametext": "Plays on table. For opponent to deploy a character, starship, or vehicle for free (except by that card's own game text), opponent must first use 2 Force.",
         "icons": [
-          "Defensive Shield",
           "Reflections 3",
           "Set D"
         ],
@@ -1037,6 +1036,344 @@
       ],
       "set": "212",
       "side": "Dark"
+    },
+    {
+      "front": {
+        "destiny": "0",
+        "gametext": "Plays on table. At end of a turn, if opponent has 15 or more cards in hand, may use 2 Force to shuffle all but 9 (random selection) into Used Pile. If Grimtaash or Thrown Back just targeted your hand, may reveal 2 cards from hand; they cannot be removed or checked for duplicates.",
+        "icons": [
+          "Episode I",
+          "Set D"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual20-Dark/large/drop.gif",
+        "lore": "Anakin had to heed Qui-Gon's advice to avoid the rapidly approaching storm.",
+        "title": "•Drop! (V)",
+        "type": "Defensive Shield",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Drop (V)/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "220_2",
+      "id": 20026,
+      "legacy": false,
+      "nextId": 7124,
+      "printings": [
+        {
+          "set": "220"
+        },
+        {
+          "set": "200d"
+        }
+      ],
+      "rarity": "U",
+      "rulings": [
+        "A player may view cards that are being removed from their own hand.",
+        "When 2 cards are revealed to prevent them from being placed in Used Pile, the hand will still be reduced to the size required by Grimtaash or Thrown Back.",
+        "If a player has 2 of the same card and reveals 1 to prevent it from being checked for duplicates, the other copy is not lost. If a player has 3 of the same card and reveals 2 of them, the other copy is not lost. If a player has 3 of the same card and reveals only 1 of them, the other 2 are duplicates of each other and are lost."
+      ],
+      "set": "200d",
+      "side": "Dark"
+    },
+    {
+      "front": {
+        "destiny": "0",
+        "gametext": "Plays on table. Opponent's Undercover spies are immune to Double Agent. While a Jedi Test on table, Projection Of A Skywalker is canceled. If Grimtaash just revealed your hand, you may place up to two cards from hand in your Used Pile.",
+        "icons": [
+          "Set D"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual13-Dark/large/failureatthecave.gif",
+        "lore": "'That place is strong with the dark side of the Force. A domain of evil it is. In you must go.'",
+        "title": "•Failure At The Cave (V)",
+        "type": "Defensive Shield",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Failure At The Cave (V)/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "213_13",
+      "id": 20027,
+      "legacy": false,
+      "nextId": 6801,
+      "printings": [
+        {
+          "set": "213"
+        },
+        {
+          "set": "200d"
+        }
+      ],
+      "rarity": "R",
+      "set": "200d",
+      "side": "Dark",
+      "sourceType": "effect"
+    },
+    {
+      "counterpart": "The Republic No Longer Functions",
+      "front": {
+        "destiny": "0",
+        "errataSymbol": "E1",
+        "gametext": "Plays on table. While you have 12 or fewer cards in hand, opponent may not remove cards from your hand (except with Grimtaash). Once per turn (even at start of turn), may target a [Coruscant] Political Effect; it is suspended for the remainder of the turn.",
+        "icons": [
+          "Reflections 3",
+          "Set D"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/ResetDS-Dark/large/voteofnoconfidence.gif",
+        "lore": "Blank.",
+        "title": "•Vote Of No Confidence",
+        "type": "Defensive Shield",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Vote Of No Confidence/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "200_99",
+      "id": 20028,
+      "legacy": false,
+      "nextId": 4408,
+      "printings": [
+        {
+          "set": "200"
+        },
+        {
+          "set": "200d"
+        }
+      ],
+      "rarity": "C",
+      "set": "200d",
+      "side": "Dark",
+      "sourceType": "effect"
+    },
+    {
+      "cancels": [
+        "any 'insert' card:",
+        "3,720 to 1",
+        "A Disturbance In The Force",
+        "A Tremor In The Force",
+        "Access Denied",
+        "Anger, Fear, Aggression",
+        "Knowledge And Defense",
+        "Never Tell Me The Odds",
+        "Restricted Access"
+      ],
+      "counterpart": "Your Insight Serves You Well (V) - Defensive Shield",
+      "front": {
+        "destiny": "0",
+        "gametext": "Plays on table. If an 'insert' card was just inserted or revealed, it is canceled. You lose no Force to Boonta Eve Podrace. While you occupy more battlegrounds than opponent, I Did It! is suspended.",
+        "icons": [
+          "Reflections 3",
+          "Set D"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/ResetDS-Dark/large/youcannothideforever.gif",
+        "lore": "'Give yourself to the dark side. It is the only way you can save your friends.'",
+        "title": "•You Cannot Hide Forever (V)",
+        "type": "Defensive Shield",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/You Cannot Hide Forever (half-slip)  (V)/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "200_100",
+      "id": 20029,
+      "legacy": false,
+      "nextId": 4400,
+      "printings": [
+        {
+          "set": "200"
+        },
+        {
+          "set": "200d"
+        }
+      ],
+      "rarity": "PM",
+      "set": "200d",
+      "side": "Dark",
+      "sourceType": "defensive shield"
+    },
+    {
+      "front": {
+        "destiny": "0",
+        "gametext": "Plays on table. If an 'insert' card was just inserted or revealed, it is canceled. You lose no Force to Boonta Eve Podrace. While you occupy more battlegrounds than opponent, I Did It! is suspended.",
+        "icons": [
+          "Reflections 3"
+          "Set D"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/ResetDS-Dark/large/youcannothideforeverv.gif",
+        "lore": "'Give yourself to the dark side. It is the only way you can save your friends.'",
+        "title": "•You Cannot Hide Forever (Death Star II) (V)",
+        "type": "Defensive Shield",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/You Cannot Hide Forever (V)/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "200_100",
+      "id": 20030,
+      "legacy": false,
+      "nextId": 6771,
+      "printings": [
+        {
+          "set": "200"
+        },
+        {
+          "set": "200d"
+        }
+      ],
+      "rarity": "U",
+      "set": "200d",
+      "side": "Dark",
+      "sourceType": "effect"
+    },
+    {
+      "front": {
+        "destiny": "0",
+        "errataDate": "2024-07-22",
+        "errataNotes": "Blanked and replaced by A Useless Gesture & Death Star Sentry combo card.",
+        "gametext": "Plays on table. In order to play an Interrupt from Lost Pile, opponent must first stack it here (if possible) and use +1 Force for each card here, even if Interrupt is normally free. Revolution is canceled.",
+        "icons": [
+          "Grabber",
+          "Reflections 3",
+          "Set D"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/ResetDS-Dark/large/auselessgesture.gif",
+        "lore": "Imperial officers aboard the Death Star considered the Rebellion a minor threat.",
+        "title": "•A Useless Gesture (V)",
+        "type": "Defensive Shield",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/A Useless Gesture (V)/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "200_93",
+      "id": 4401,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "200"
+        },
+        {
+          "set": "200d"
+        }
+      ],
+      "rarity": "PM",
+      "set": "200d",
+      "side": "Dark",
+      "sourceType": "defensive shield"
+    },
+    {
+      "cancels": [
+        "Colo Claw Fish"
+      ],
+      "counterpart": "Yavin Sentry (V)",
+      "front": {
+        "destiny": "0",
+        "errataDate": "2024-07-22",
+        "errataNotes": "Blanked and functionality moved to other Defensive Shield cards.",
+        "gametext": "Plays on table. Colo Claw Fish is canceled. Opponent must first use X Force to deploy a non-unique card (except a Jawa) to a location, where X = the number of copies of that card at that location.",
+        "icons": [
+          "Set D"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/ResetDS-Dark/large/deathstarsentry.gif",
+        "lore": "Death Star troopers on sentry duty observe and direct incoming starships and monitor other critical sites. They perform sensor scans for life forms and weapons.",
+        "title": "•Death Star Sentry (V)",
+        "type": "Defensive Shield",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Death Star Sentry/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "200_94",
+      "id": 666,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "200"
+        },
+        {
+          "set": "200d"
+        }
+      ],
+      "rarity": "U1",
+      "rulings": [
+        "This separate cost must be paid even if the card being deployed is free."
+      ],
+      "set": "200d",
+      "side": "Dark",
+      "sourceType": "effect"
+    },
+    {
+      "cancels": [
+        "Goo Nee Tay"
+      ],
+      "counterpart": "Affect Mind (V)",
+      "front": {
+        "destiny": "0",
+        "errataDate": "2024-07-22",
+        "errataNotes": "Blanked and functionality moved to other Defensive Shield cards.",
+        "gametext": "Plays on table. Goo Nee Tay is canceled. Unless Deep Hatred on table, opponent may use only one combat card per turn. We'll Handle This may target only Undercover spies and 5D6-RA-7.",
+        "icons": [
+          "Set D"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/ResetDS-Dark/large/ifindyourlackoffaithdisturbing.gif",
+        "lore": "Darth Vader ruthlessly used the Force to strike down enemies and soldiers who displeased him. He could choke victims from afar without touching them.",
+        "title": "•I Find Your Lack Of Faith Disturbing (V)",
+        "type": "Defensive Shield",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/I Find Your Lack Of Faith Disturbing (V)/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "200_97",
+      "id": 1209,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "200"
+        },
+        {
+          "set": "200d"
+        }
+      ],
+      "rarity": "R1",
+      "set": "200d",
+      "side": "Dark",
+      "sourceType": "effect"
+    },
+    {
+      "counterpart": "Goldenrod",
+      "front": {
+        "destiny": "0",
+        "errataDate": "2023-07-15",
+        "errataNotes": "July 2023: Added the last sentence, regarding I Must Be Allowed To Speak. Removed Reflections III icon. July 2024: Blanked. The anti-free text moved to the new A Useless Gesture & Death Star Sentry combo card.",
+        "errataSymbol": "E1",
+        "gametext": "Plays on table. For opponent to deploy a character, starship, or vehicle for free (except by that card's own game text), opponent must first use 2 Force. [Jabba's Palace] I Must Be Allowed To Speak may not target locations except Lars' Moisture Farm and Jabba's Palace sites.",
+        "icons": [
+          "Set D"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/ResetDS-Dark/large/imperialdetention.gif",
+        "lore": "Blank.",
+        "title": "•Imperial Detention",
+        "type": "Defensive Shield",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Imperial Detention/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "200_98",
+      "id": 6394,
+      "legacy": false,
+      "previousId": 20023,
+      "printings": [
+        {
+          "set": "200"
+        },
+        {
+          "set": "200d"
+        }
+      ],
+      "rarity": "C",
+      "rulings": [
+        "A card that deploys for 0 such as Kal'Falnl C'ndros is not the same as 'free' and thus doesn't trigger this card.",
+        "When Light simultaneously deploys a pair of cards for free (e.g. due to I'd Just As Soon Kiss A Wookiee), each card is separately affected by Imperial Detention, potentially causing a total cost of 4.",
+        "Prevents IMBATS(V) from deploying the generic Farm.",
+        "Prevents IMBATS(V) from searching Used Pile when a specified character (e.g. Luke) deploys to a site (except Lar's Moisture Farm or a Jabba's Palace Site).",
+        "Does not restrict what card Light may take into hand from Used Pile via IMBATS(V).",
+        "Does not affect non-V IMBATS (or the Set 18 combo card) in any way."
+      ],
+      "set": "200d",
+      "side": "Dark",
+      "sourceType": "effect"
     }
   ]
 }
