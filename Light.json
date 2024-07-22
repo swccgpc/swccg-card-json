@@ -148,7 +148,13 @@
       ],
       "rarity": "PM",
       "set": "13",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        {
+          "title": "A Close Race (V)",
+          "cardId": 7318
+        }
+      ]
     },
     {
       "canceledBy": [
@@ -314,7 +320,13 @@
       ],
       "rarity": "C",
       "set": "11",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        {
+          "title": "A Jedi's Focus (V)",
+          "cardId": 7319
+        }
+      ]
     },
     {
       "combo": [
@@ -6060,7 +6072,13 @@
       ],
       "rarity": "C",
       "set": "5",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        {
+          "title": "Sabine, Padawan Learner",
+          "cardId": 7334
+        }
+      ]
     },
     {
       "counterpart": "Blaster Rifle",
@@ -7014,7 +7032,13 @@
         "May be persona replaced (will no longer be Undercover)."
       ],
       "set": "110",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        {
+          "title": "Boushh (V)",
+          "cardId": 7320
+        }
+      ]
     },
     {
       "front": {
@@ -12692,7 +12716,13 @@
       ],
       "rarity": "PM",
       "set": "10",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        {
+          "title": "Corran Horn, Jedi",
+          "cardId": 7323
+        }
+      ]
     },
     {
       "conceptBy": "(Original concept by The Advocate Council)",
@@ -18666,7 +18696,13 @@
       ],
       "rarity": "U1",
       "set": "3",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        {
+          "title": "Death Star: Docking Control Room 327",
+          "cardId": 7324
+        }
+      ]
     },
     {
       "abbr": [
@@ -19182,7 +19218,14 @@
       "set": "1",
       "side": "Light",
       "underlyingCardFor": [
-        "Kanan Jarrus, Jedi Knight"
+        {
+          "title": "Eyes In The Dark (V)",
+          "cardId": 7325
+        },
+        {
+          "title": "Kanan Jarrus, Jedi Knight",
+          "cardId": 6990
+        }
       ]
     },
     {
@@ -25329,7 +25372,13 @@
       ],
       "rarity": "C2",
       "set": "3",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        {
+          "title": "Hoth: Defensive Perimeter (3rd Marker) (V)",
+          "cardId": 7326
+        }
+      ]
     },
     {
       "counterpart": "Hoth: Echo Command Center (War Room)",
@@ -27738,7 +27787,13 @@
         "To triple the damage, Han must be present at the battle location, which is only possible at a site."
       ],
       "set": "1",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        {
+          "title": "Passage To The Alderaan System",
+          "cardId": 7330
+        }
+      ]
     },
     {
       "counterpart": "Jabba's Palace Sabacc",
@@ -36710,8 +36765,18 @@
       "set": "3",
       "side": "Light",
       "underlyingCardFor": [
-        "Rogue One",
-        "Rogue One (AI)"
+        {
+          "title": "Quantum Storm",
+          "cardId": 7332
+        },
+        {
+          "title": "Rogue One",
+          "cardId": 5152
+        },
+        {
+          "title": "Rogue One (AI)",
+          "cardId": 7036
+        }
       ]
     },
     {
@@ -37878,7 +37943,13 @@
       ],
       "rarity": "C",
       "set": "4",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        {
+          "title": "Porg",
+          "cardId": 7331
+        }
+      ]
     },
     {
       "counterpart": "Naboo",
@@ -40955,8 +41026,18 @@
       "set": "2",
       "side": "Light",
       "underlyingCardFor": [
-        "A Power Loss",
-        "A Power Loss (AI)"
+        {
+          "title": "A Power Loss",
+          "cardId": 6876
+        },
+        {
+          "title": "A Power Loss (AI)",
+          "cardId": 7274
+        },
+        {
+          "title": "Out Of Commission (V)",
+          "cardId": 7329
+        }
       ]
     },
     {
@@ -41881,7 +41962,13 @@
       ],
       "rarity": "C",
       "set": "5",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        {
+          "title": "CB-23",
+          "cardId": 7321
+        }
+      ]
     },
     {
       "front": {
@@ -49287,7 +49374,13 @@
       ],
       "rarity": "C",
       "set": "7",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        {
+          "title": "Rebel Assault",
+          "cardId": 7333
+        }
+      ]
     },
     {
       "front": {
@@ -50155,7 +50248,13 @@
       ],
       "rarity": "C2",
       "set": "1",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        {
+          "title": "Scomp Link Access (V)",
+          "cardId": 7335
+        }
+      ]
     },
     {
       "canceledBy": [
@@ -55187,7 +55286,13 @@
         "When Light deploys Tatooine: Jabba's Palace, Light may choose to cause its force loss before the game text is canceled."
       ],
       "set": "112",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        {
+          "title": "Tatooine: Hutt Trade Route (Desert) (V)",
+          "cardId": 7336
+        }
+      ]
     },
     {
       "combo": [
@@ -56868,7 +56973,13 @@
       ],
       "rarity": "R",
       "set": "4",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        {
+          "title": "Yavin Sentry & Goldenrod",
+          "cardId": 7337
+        }
+      ]
     },
     {
       "front": {
@@ -59026,7 +59137,13 @@
       ],
       "rarity": "U",
       "set": "6",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        {
+          "title": "Jabba's Last Chance",
+          "cardId": 7327
+        }
+      ]
     },
     {
       "counterpart": "Resistance - Defensive Shield",
@@ -61514,7 +61631,14 @@
       "set": "7",
       "side": "Light",
       "underlyingCardFor": [
-        "Wookiee Warrior"
+        {
+          "title": "Life Day",
+          "cardId": 7328
+        },
+        {
+          "title": "Wookiee Warrior",
+          "cardId": 6951
+        }
       ]
     },
     {
@@ -74351,7 +74475,13 @@
       ],
       "rarity": "C",
       "set": "223",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        {
+          "title": "Choke (V)",
+          "cardId": 7322
+        }
+      ]
     },
     {
       "abbr": [
