@@ -23643,7 +23643,6 @@
         ],
         "deploy": "6",
         "destiny": "2",
-        "errataSymbol": "E1",
         "forfeit": "8",
         "gametext": "Permanent pilots are •Han and •Chewie: provide ability of 5, add one battle destiny, and add 5 to power. Immune to attrition < 6, Come With Me, and Lateral Damage. End of your turn: Use 3 Force to maintain OR Place out of play.",
         "hyperspeed": "7",
@@ -74315,7 +74314,10 @@
       ],
       "front": {
         "destiny": "0",
-        "gametext": "Plays on table. You lose no Force to Boonta Eve Podrace. While you occupy three battlegrounds, Watto's Box is suspended. Nevar Yalnal may not target opponent's Undercover spies. If an Undercover spy was just lost, it is placed out of play.",
+        "errataDate": "2024-07-25",
+        "errataNotes": "Anti-Undercover text changed from 'just lost' to 'about to be lost'.",
+        "errataSymbol": "E1",
+        "gametext": "Plays on table. You lose no Force to Boonta Eve Podrace. While you occupy three battlegrounds, Watto's Box is suspended. Nevar Yalnal may not target opponent's Undercover spies. If an Undercover spy is about to be lost, place it out of play instead.",
         "icons": [
           "Reflections III",
           "Episode I",
@@ -74332,6 +74334,7 @@
       "gempId": "223_30",
       "id": 7318,
       "legacy": false,
+      "previousId": 40046,
       "printings": [
         {
           "set": "223"
@@ -74894,7 +74897,10 @@
       ],
       "front": {
         "destiny": "3",
-        "gametext": "Once per game, 'BEEP-BOOP' (a [Grabber] card stacks a just played opponent's Interrupt; this does not count towards any [Grabber] card's once per game limit). OR Once per game, 'WHAAOW!' (lose your droid at a Scomp link to cancel a battle just initiated at same or related interior site).",
+        "errataDate": "2024-07-25",
+        "errataNotes": "Changed 'a Grabber card stacks' to 'your Grabber card stacks' and improved WHAAOW! to WHAAAAOW!",
+        "errataSymbol": "E1",
+        "gametext": "Once per game, 'BEEP-BOOP' (your [Grabber] card stacks a just played opponent's Interrupt; this does not count towards any [Grabber] card's once per game limit). OR Once per game, 'WHAAAAOW!' (lose your droid at a Scomp link to cancel a battle just initiated at same or related interior site).",
         "icons": [
           "Set 23"
         ],
@@ -74909,6 +74915,7 @@
       "gempId": "223_47",
       "id": 7335,
       "legacy": false,
+      "previousId": 40045,
       "printings": [
         {
           "set": "223"

@@ -69589,7 +69589,7 @@
           "Grabber",
           "Set D"
         ],
-        "imageUrl": "https://res.starwarsccg.org/cards/Virtual23-Dark/hires/auselessgesturedeathstarsentry.png",
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual23-Dark/large/auselessgesturedeathstarsentry.gif",
         "title": "•A Useless Gesture & •Death Star Sentry",
         "type": "Defensive Shield",
         "uniqueness": "*",
@@ -70321,7 +70321,10 @@
       ],
       "front": {
         "destiny": "0",
-        "gametext": "Plays on table. You lose no Force to Boonta Eve Podrace. Unless opponent occupies three battlegrounds, I Did It! is suspended. Double Agent may not target opponent's Undercover spies. If an Undercover spy was just lost, it is placed out of play.",
+        "errataDate": "2024-07-25",
+        "errataNotes": "Anti-Undercover text changed from 'just lost' to 'about to be lost'.",
+        "errataSymbol": "E1",
+        "gametext": "Plays on table. You lose no Force to Boonta Eve Podrace. Unless opponent occupies three battlegrounds, I Did It! is suspended. Double Agent may not target opponent's Undercover spies. If an Undercover spy is about to be lost, place it out of play instead.",
         "icons": [
           "Reflections III",
           "Episode I",
@@ -70338,6 +70341,7 @@
       "gempId": "223_29",
       "id": 7317,
       "legacy": false,
+      "previousId": 20031,
       "printings": [
         {
           "set": "223"
