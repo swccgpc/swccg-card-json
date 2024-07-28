@@ -1982,6 +1982,73 @@
       "set": "200d",
       "side": "Light",
       "sourceType": "effect"
+    },
+    {
+      "abbr": [
+        "SLAv"
+      ],
+      "front": {
+        "destiny": "3",
+        "gametext": "Once per game, 'BEEP-BOOP' (a [Grabber] card stacks a just played opponent's Interrupt; this does not count towards any [Grabber] card's once per game limit). OR Once per game, 'WHAAOW!' (lose your droid at a Scomp link to cancel a battle just initiated at same or related interior site).",
+        "icons": [
+          "Set 23"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual23-Light/large/scomplinkaccess.gif",
+        "lore": "A computer connection access port used mainly by droids to plug into database networks and locate information, evaluate threats, execute diagnostics or perform maintenance.",
+        "subType": "Used",
+        "title": "Scomp Link Access (V)",
+        "type": "Interrupt",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Scomp Link Access (V)/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "223_47",
+      "id": 40045,
+      "legacy": false,
+      "nextId": 7335,
+      "printings": [
+        {
+          "set": "223"
+        }
+      ],
+      "rarity": "C2",
+      "set": "223",
+      "side": "Light"
+    },
+    {
+      "abbr": [
+        "ACRv"
+      ],
+      "front": {
+        "destiny": "0",
+        "gametext": "Plays on table. You lose no Force to Boonta Eve Podrace. While you occupy three battlegrounds, Watto's Box is suspended. Nevar Yalnal may not target opponent's Undercover spies. If an Undercover spy was just lost, it is placed out of play.",
+        "icons": [
+          "Reflections III",
+          "Episode I",
+          "Set D"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual23-Light/large/acloserace.gif",
+        "lore": "'Poodoo!'",
+        "title": "•A Close Race (V)",
+        "type": "Defensive Shield",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/A Close Race (V)/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "223_30",
+      "id": 40046,
+      "legacy": false,
+      "nextId": 7318,
+      "printings": [
+        {
+          "set": "223"
+        },
+        {
+          "set": "200d"
+        }
+      ],
+      "rarity": "PM",
+      "set": "200d",
+      "side": "Light"
     }
   ]
 }
