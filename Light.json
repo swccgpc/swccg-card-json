@@ -34485,8 +34485,8 @@
           "blaster"
         ],
         "destiny": "3",
-        "errataSymbol": "E1",
-        "gametext": "Use 1 Force to deploy on Luke, 3 on your other warrior. May target a character, creature or vehicle using 2 Force (if targeted by Luke, target loses immunity to attrition for remainder of turn.) Draw destiny. Add 1 if targeting a character or creature. Target hit if total destiny > defense value.",
+        "errataSymbol": "D-E1",
+        "gametext": "Use 1 Force to deploy on Luke, 3 on a warrior. May target a character, creature, or vehicle using 2 Force. If targeted by Luke, target loses any immunity to attrition until end of turn. Draw destiny. Add 1 if targeting a character or creature. Target hit if total destiny > defense value.",
         "icons": [
           "Cloud City"
         ],
@@ -74314,10 +74314,10 @@
       ],
       "front": {
         "destiny": "0",
-        "errataDate": "2024-07-25",
-        "errataNotes": "Anti-Undercover text changed from 'just lost' to 'about to be lost'.",
-        "errataSymbol": "E1",
-        "gametext": "Plays on table. You lose no Force to Boonta Eve Podrace. While you occupy three battlegrounds, Watto's Box is suspended. Nevar Yalnal may not target opponent's Undercover spies. If an Undercover spy is about to be lost, place it out of play instead.",
+        "errataDate": "2024-08-02",
+        "errataNotes": "E2: Added 'for any reason'. E1: Anti-Undercover text changed from 'just lost' to 'about to be lost'.",
+        "errataSymbol": "E2",
+        "gametext": "Plays on table. You lose no Force to Boonta Eve Podrace. While you occupy three battlegrounds, Watto's Box is suspended. Nevar Yalnal may not target opponent's Undercover spies. If an Undercover spy is about to be lost (for any reason), place it out of play instead.",
         "icons": [
           "Reflections III",
           "Episode I",
@@ -74334,7 +74334,7 @@
       "gempId": "223_30",
       "id": 7318,
       "legacy": false,
-      "previousId": 40046,
+      "previousId": 40047,
       "printings": [
         {
           "set": "223"
