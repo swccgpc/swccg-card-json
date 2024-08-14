@@ -22919,7 +22919,10 @@
     {
       "front": {
         "destiny": "5",
-        "gametext": "Once per game, choose: During battle, use 2 Force to target your Dark Jedi and opponent's character of equal or lesser ability present. Both targets are excluded from battle. OR Exchange two cards from hand with any one card from Force Pile; reshuffle.",
+        "errataDate": "2024-08-02",
+        "errataNotes": "Minor clarifying errata: the first function requires both characters to be present.",
+        "errataSymbol": "E1",
+        "gametext": "Once per game, choose: During battle, use 2 Force to target your Dark Jedi present with an opponent’s character of equal or lesser ability. Both targets are excluded from battle. OR Exchange two cards from hand with any one card from Force Pile; reshuffle.",
         "icons": [
           "Episode I",
           "Set 0"
@@ -22936,6 +22939,7 @@
       "gempId": "200_120",
       "id": 4050,
       "legacy": false,
+      "previousId": 20033,
       "printings": [
         {
           "set": "200"
@@ -70321,10 +70325,10 @@
       ],
       "front": {
         "destiny": "0",
-        "errataDate": "2024-07-25",
-        "errataNotes": "Anti-Undercover text changed from 'just lost' to 'about to be lost'.",
-        "errataSymbol": "E1",
-        "gametext": "Plays on table. You lose no Force to Boonta Eve Podrace. Unless opponent occupies three battlegrounds, I Did It! is suspended. Double Agent may not target opponent's Undercover spies. If an Undercover spy is about to be lost, place it out of play instead.",
+        "errataDate": "2024-08-02",
+        "errataNotes": "E2: Added 'for any reason'. E1: Anti-Undercover text changed from 'just lost' to 'about to be lost'.",
+        "errataSymbol": "E2",
+        "gametext": "Plays on table. You lose no Force to Boonta Eve Podrace. Unless opponent occupies three battlegrounds, I Did It! is suspended. Double Agent may not target opponent's Undercover spies. If an Undercover spy is about to be lost (for any reason), place it out of play instead.",
         "icons": [
           "Reflections III",
           "Episode I",
@@ -70341,7 +70345,7 @@
       "gempId": "223_29",
       "id": 7317,
       "legacy": false,
-      "previousId": 20031,
+      "previousId": 20032,
       "printings": [
         {
           "set": "223"

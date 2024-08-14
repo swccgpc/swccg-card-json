@@ -1398,7 +1398,7 @@
       "gempId": "223_29",
       "id": 20031,
       "legacy": false,
-      "nextId": 7317,
+      "nextId": 20032,
       "printings": [
         {
           "set": "223"
@@ -1409,6 +1409,79 @@
       ],
       "rarity": "PM",
       "set": "200d",
+      "side": "Dark"
+    },
+    {
+      "abbr": [
+        "YNWARv"
+      ],
+      "front": {
+        "destiny": "0",
+        "errataDate": "2024-07-25",
+        "errataNotes": "Anti-Undercover text changed from 'just lost' to 'about to be lost'.",
+        "errataSymbol": "E1",
+        "gametext": "Plays on table. You lose no Force to Boonta Eve Podrace. Unless opponent occupies three battlegrounds, I Did It! is suspended. Double Agent may not target opponent's Undercover spies. If an Undercover spy is about to be lost, place it out of play instead.",
+        "icons": [
+          "Reflections III",
+          "Episode I",
+          "Set D"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual23-Dark/large/youveneverwonarace.gif",
+        "lore": "'Not even finished?'",
+        "title": "•You've Never Won A Race? (V)",
+        "type": "Defensive Shield",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/You've Never Won A Race (V)/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "223_29",
+      "id": 20032,
+      "legacy": false,
+      "nextId": 7317,
+      "previousId": 20031,
+      "printings": [
+        {
+          "set": "223"
+        },
+        {
+          "set": "200d"
+        }
+      ],
+      "rarity": "PM",
+      "set": "200d",
+      "side": "Dark"
+    },
+    {
+      "front": {
+        "destiny": "5",
+        "gametext": "Once per game, choose: During battle, use 2 Force to target your Dark Jedi and opponent's character of equal or lesser ability present. Both targets are excluded from battle. OR Exchange two cards from hand with any one card from Force Pile; reshuffle.",
+        "icons": [
+          "Episode I",
+          "Set 0"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual0-Dark/large/forcepush.gif",
+        "lore": "A fully-trained Sith warrior has more weapons at his disposal than just a lightsaber.",
+        "subType": "Lost",
+        "title": "•Force Push (V)",
+        "type": "Interrupt",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Force Push (V)/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "200_120",
+      "id": 20033,
+      "legacy": false,
+      "nextId": 4050,
+      "printings": [
+        {
+          "set": "200"
+        }
+      ],
+      "rarity": "PM",
+      "rulings": [
+        "The 2nd function may not be initiated with an empty Force Pile."
+      ],
+      "set": "200",
       "side": "Dark"
     }
   ]

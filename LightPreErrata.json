@@ -2037,7 +2037,47 @@
       "gempId": "223_30",
       "id": 40046,
       "legacy": false,
+      "nextId": 40047,
+      "printings": [
+        {
+          "set": "223"
+        },
+        {
+          "set": "200d"
+        }
+      ],
+      "rarity": "PM",
+      "set": "200d",
+      "side": "Light"
+    },
+    {
+      "abbr": [
+        "ACRv"
+      ],
+      "front": {
+        "destiny": "0",
+        "errataDate": "2024-07-25",
+        "errataNotes": "Anti-Undercover text changed from 'just lost' to 'about to be lost'.",
+        "errataSymbol": "E1",
+        "gametext": "Plays on table. You lose no Force to Boonta Eve Podrace. While you occupy three battlegrounds, Watto's Box is suspended. Nevar Yalnal may not target opponent's Undercover spies. If an Undercover spy is about to be lost, place it out of play instead.",
+        "icons": [
+          "Reflections III",
+          "Episode I",
+          "Set D"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual23-Light/large/acloserace.gif",
+        "lore": "'Poodoo!'",
+        "title": "•A Close Race (V)",
+        "type": "Defensive Shield",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/A Close Race (V)/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "223_30",
+      "id": 40047,
+      "legacy": false,
       "nextId": 7318,
+      "previousId": 40046,
       "printings": [
         {
           "set": "223"
