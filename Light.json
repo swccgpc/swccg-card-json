@@ -1076,7 +1076,7 @@
           "Set 0"
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual0-Light/large/acclamatorclassassaultship.gif",
-        "lore": "blank",
+        "lore": "Blank.",
         "power": "6",
         "subType": "Capital: Assault Ship",
         "title": "Acclamator-Class Assault Ship",
@@ -24670,7 +24670,7 @@
           "Jabba's Palace"
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/JabbasPalace-Light/large/hiddencompartment.gif",
-        "lore": "Standard astromech internal cargo area measures 20 centimeters by 8 centimeters. Some models have a custom compressed (AI)r launcher for shooting flares.",
+        "lore": "Standard astromech internal cargo area measures 20 centimeters by 8 centimeters. Some models have a custom compressed-air launcher for shooting flares.",
         "title": "Hidden Compartment",
         "type": "Device"
       },
@@ -34812,7 +34812,7 @@
         "gametext": "May add 1 driver and 2 passengers. Moves free if Luke aboard. May move as a 'react.'",
         "imageUrl": "https://res.starwarsccg.org/cards/Premiere-Light/large/lukesx34landspeeder.gif",
         "landspeed": "4",
-        "lore": "Skywalker's SoroSuub. Common open (AI)r transport. Top speed 250 km per hour. Repulsorlift drive keeps it suspended one meter above ground, even when parked.",
+        "lore": "Skywalker's SoroSuub. Common open-air transport. Top speed 250 km per hour. Repulsorlift drive keeps it suspended one meter above ground, even when parked.",
         "maneuver": "5",
         "power": "1",
         "subType": "Transport",
@@ -35988,10 +35988,12 @@
         "errataSymbol": "E1",
         "gametext": "Use 3 Force to deploy on your side of table (free if C-3PO on table). After losing any battle: characters, starships and vehicles may be forfeited directly from your hand (for forfeit value) to reduce attrition or battle damage.",
         "imageUrl": "https://res.starwarsccg.org/cards/Premiere-Light/large/mantelliansavrip.gif",
-        "lore": "Dejarik game uses holograms of mythological and real creatures from across the galaxy. The hulking Mantellian savrip is a nasty predator from Ord Mantell.",
+        "lore": "Dejarik game uses mythological and real creatures from across the galaxy. The hulking Mantellian savrip is a nasty predator from Ord Mantell.",
         "title": "•Mantellian Savrip",
         "type": "Effect",
-        "uniqueness": "*"
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Mantellian Savrip (Errata)/image.png",
+        "printableSlipType": "ERRATA"
       },
       "gempId": "1_55",
       "id": 1643,
@@ -36009,7 +36011,8 @@
       ],
       "rarity": "R2",
       "rulings": [
-        "Global modifiers are applicable (e.g. Fondor reduces forfeit of Corvettes, Insurrection increases forfeit of Rebels).",
+        "This card is NOT a hologram.",
+		"Global modifiers are applicable (e.g. Fondor reduces forfeit of Corvettes, Insurrection increases forfeit of Rebels).",
         "Cards forfeited from hand satisfy attrition, battle damage, or both as appropriate.",
         "Cards forfeited from hand must go to Lost Pile regardless of other game text (e.g. a character could not go to Bacta Tank; <i>Liberty</i> could not go to Used Pile)."
       ],
@@ -48341,7 +48344,7 @@
         "deploy": "5",
         "destiny": "2",
         "forfeit": "7",
-        "gametext": "May add 1 pilot and 5 passengers. Permanent pilot is *Ric, who provides ability of 3. R2-D2 deploys -2 aboard. While We'll Need a New One on table, adds one battle destiny. Immune to attrition < 5.",
+        "gametext": "May add 1 pilot and 5 passengers. Permanent pilot is •Ric, who provides ability of 3. R2-D2 deploys -2 aboard. While We'll Need a New One on table, adds one battle destiny. Immune to attrition < 5.",
         "hyperspeed": "7",
         "icons": [
           "Republic",
@@ -55779,6 +55782,11 @@
         "Yarna d'al' Gargan (V)"
       ],
       "rarity": "C",
+      "rulings": [
+        "While any race total is greater than 0, this site is not a battleground.",
+        "If the Podrace Arena text is expanded by Expand The Empire and any race total is greater than 0, those sites are also not battlegrounds.",
+        "When the Podrace completes, this site remains a non-battleground while the Force retrieval and Force loss occur. Thus this site won't count as a battleground for Honor Of The Jedi, Come Here You Big Coward, etc. while performing those Force retrieval/loss."
+      ],
       "set": "11",
       "side": "Light"
     },
@@ -58955,7 +58963,7 @@
         "deploy": "3",
         "destiny": "2",
         "forfeit": "5",
-        "gametext": "May deploy as a 'react'. Permanent pilot is *Tycho, who provides ability of 2 and adds 3 to his [Death Star 2] Epic Event destiny draws. During battle, may target a starfighter; target's immunity to attrition is canceled.",
+        "gametext": "May deploy as a 'react'. Permanent pilot is •Tycho, who provides ability of 2 and adds 3 to his [Death Star 2] Epic Event destiny draws. During battle, may target a starfighter; target's immunity to attrition is canceled.",
         "hyperspeed": "4",
         "icons": [
           "Nav Computer",
@@ -65047,7 +65055,7 @@
           "Set 13"
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual13-Light/large/hesthebestsmuggleraround.gif",
-        "lore": "Blank",
+        "lore": "Blank.",
         "subType": "Used Or Lost",
         "title": "•He's The Best Smuggler Around",
         "type": "Interrupt",
@@ -65150,7 +65158,7 @@
           "Set 13"
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual13-Light/large/ivegotareallygoodfeelingaboutthis.gif",
-        "lore": "Blank",
+        "lore": "Blank.",
         "subType": "Used",
         "title": "•I've Got A Really Good Feeling About This",
         "type": "Interrupt",
@@ -65178,7 +65186,7 @@
           "Set 13"
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual13-Light/large/savareenstandoff.gif",
-        "lore": "Blank",
+        "lore": "Blank.",
         "subType": "Used",
         "title": "•Savareen Standoff",
         "type": "Interrupt",
@@ -65348,7 +65356,7 @@
           "Set 13"
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual13-Light/large/leiasresistancetransport.gif",
-        "lore": "Blank",
+        "lore": "Blank.",
         "power": "3",
         "subType": "Capital: Resistance Transport",
         "title": "•Leia's Resistance Transport",
@@ -65377,7 +65385,7 @@
           "Set 13"
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual13-Light/large/rock.gif",
-        "lore": "Blank",
+        "lore": "Blank.",
         "subType": "Character",
         "title": "Rock",
         "type": "Weapon",
@@ -65501,7 +65509,7 @@
           "Set 14"
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual14-Light/large/beaumontkin.gif",
-        "lore": "Blank",
+        "lore": "Blank.",
         "power": "3",
         "subType": "Resistance",
         "title": "•Beaumont Kin",
@@ -69447,7 +69455,7 @@
           "Set 18"
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual18-Light/large/beststarpilotinthegalaxy.gif",
-        "lore": "Blank",
+        "lore": "Blank.",
         "title": "•Best Starpilot In The Galaxy",
         "type": "Effect",
         "uniqueness": "*",
@@ -69837,7 +69845,7 @@
           "Set 18"
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual18-Light/large/liswarr.gif",
-        "lore": "Blank",
+        "lore": "Blank.",
         "power": "5",
         "subType": "Starfighter: Auzituck Gunship",
         "title": "•Liswarr",
@@ -70552,7 +70560,7 @@
           "Set 19"
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual19-Light/large/ezrasblasterlightsaber.gif",
-        "lore": "Blank",
+        "lore": "Blank.",
         "subType": "Character",
         "title": "•Ezra's Blaster Lightsaber",
         "type": "Weapon",
@@ -70943,7 +70951,7 @@
           "Set 19"
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual19-Light/large/thisisourrebellion.gif",
-        "lore": "Blank",
+        "lore": "Blank.",
         "subType": "Used",
         "title": "•This Is Our Rebellion",
         "type": "Interrupt",
@@ -71089,7 +71097,7 @@
           "Set 20"
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual20-Light/large/beskardeflection.gif",
-        "lore": "Blank",
+        "lore": "Blank.",
         "subType": "Used Or Lost",
         "title": "Beskar Deflection",
         "type": "Interrupt",
@@ -71779,7 +71787,7 @@
           "Set 21"
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual21-Light/large/hansmedal.gif",
-        "lore": "Blank",
+        "lore": "Blank.",
         "title": "•Han's Medal",
         "type": "Device",
         "uniqueness": "*",
@@ -72151,7 +72159,7 @@
           "Set 21"
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual21-Light/large/battleofchristophsis.gif",
-        "lore": "Blank",
+        "lore": "Blank.",
         "title": "•Battle Of Christophsis",
         "type": "Effect",
         "uniqueness": "*",
@@ -72183,7 +72191,7 @@
           "Set 21"
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual21-Light/large/battleofgeonosis.gif",
-        "lore": "Blank",
+        "lore": "Blank.",
         "title": "•Battle Of Geonosis",
         "type": "Effect",
         "uniqueness": "*",
@@ -72434,7 +72442,7 @@
           "Set 21"
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual21-Light/large/endurance.gif",
-        "lore": "Blank",
+        "lore": "Blank.",
         "power": "7",
         "subType": "Capital: Venator-Class Attack Cruiser",
         "title": "•Endurance",
@@ -72500,7 +72508,7 @@
           "Set 21"
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual21-Light/large/galacticrepublicnavy.gif",
-        "lore": "Blank",
+        "lore": "Blank.",
         "title": "•Galactic Republic Navy",
         "type": "Effect",
         "uniqueness": "*",
@@ -72532,7 +72540,7 @@
           "Set 21"
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual21-Light/large/generationonearmoralwaysholdsup.gif",
-        "lore": "Blank",
+        "lore": "Blank.",
         "subType": "Used",
         "title": "Generation One Armor Always Holds Up",
         "type": "Interrupt",
@@ -72663,7 +72671,7 @@
           "Set 21"
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual21-Light/large/grievouswillrunandhide.gif",
-        "lore": "Blank",
+        "lore": "Blank.",
         "title": "•Grievous Will Run And Hide",
         "type": "Effect",
         "uniqueness": "*",
@@ -72877,7 +72885,7 @@
           "Set 21"
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual21-Light/large/resolute.gif",
-        "lore": "Blank",
+        "lore": "Blank.",
         "power": "7",
         "subType": "Capital: Venator-Class Attack Cruiser",
         "title": "•Resolute",
@@ -73173,7 +73181,7 @@
           "Set 22"
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual22-Light/large/generalpoedameron.gif",
-        "lore": "Blank",
+        "lore": "Blank.",
         "power": "3",
         "subType": "Resistance",
         "title": "•General Poe Dameron",
@@ -73850,7 +73858,7 @@
           "Set 13"
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/VirtualAlternateImage-Light/large/leiasresistancetransport_ai.gif",
-        "lore": "Blank",
+        "lore": "Blank.",
         "power": "3",
         "subType": "Capital: Resistance Transport",
         "title": "•Leia's Resistance Transport (AI)",
@@ -74763,7 +74771,7 @@
           "Set 23"
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual23-Light/large/porg.gif",
-        "lore": "Blank",
+        "lore": "Blank.",
         "subType": "Sea-Dwelling",
         "title": "•••Porg",
         "type": "Creature",

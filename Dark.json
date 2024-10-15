@@ -8431,7 +8431,7 @@
           "Death Star II"
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/DeathStarII-Dark/large/captainjonus.gif",
-        "lore": "Often flies as top cover during bombing runs. Served with Death Squadron. Narrowly escaped death by space slug. Scored several kills against rebel blockade runners.",
+        "lore": "Often flies as top cover during bombing runs. Served with Death Squadron. Narrowly escaped death by space slug. Scored several kills against Rebel blockade runners.",
         "power": "2",
         "subType": "Imperial",
         "title": "•Captain Jonus",
@@ -8471,7 +8471,7 @@
           "No Hyperdrive"
         ],
         "forfeit": "4",
-        "gametext": "Permanent pilot is *Jonus, who provides ability of 2. This starship's missile weapon destiny draws are +1. If at a system you control, your total power at related sites is +1.",
+        "gametext": "Permanent pilot is •Jonus, who provides ability of 2. This starship's missile weapon destiny draws are +1. If at a system you control, your total power at related sites is +1.",
         "icons": [
           "Pilot",
           "Set 5"
@@ -36944,7 +36944,7 @@
         "forfeit": "0",
         "gametext": "Landspeed = 3. Deploys to same site as a character targeted by a Utinni Effect (except Kessel Run). If this droid 'reaches' Utinni Effect, may relocate it here. Upon delivery, 'mouse' droid returns to your hand.",
         "imageUrl": "https://res.starwarsccg.org/cards/Premiere-Dark/large/mse6mousedroid.gif",
-        "lore": "Nicknamed for rodent-like appearance. Delivers orders and sensitive documents. Retractable manipulator arms. Made by Rebaxan Columni. Easily frightened.",
+        "lore": "Nicknamed for rodent-like appearance. Delivers orders and sensitive documents. Retractable manipulator arms. Made by Rebaxan Colmuni. Easily frightened.",
         "power": "0",
         "subType": "Droid",
         "title": "MSE-6 'Mouse' Droid",
@@ -37241,7 +37241,9 @@
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/JabbasPalaceSealedDeck-Dark/large/mykindofscum.gif",
         "title": "My Kind Of Scum / Fearless And Inventive",
-        "type": "Objective"
+        "type": "Objective",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/My Kind Of Scum (Errata)/image.png",
+        "printableSlipType": "ERRATA"
       },
       "gempId": "112_15",
       "id": 6534,
@@ -37404,7 +37406,7 @@
           "Dagobah"
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/Dagobah-Dark/large/mynock.gif",
-        "lore": "Silicon-based space borne lifeform. Frequently called a 'power sucker.' Feeds on energy such as stellar radiation and electrical discharges. Absorbs minerals from starship hulks.",
+        "lore": "Silicon-based space borne lifeform. Frequently called a 'power sucker.' Feeds on energy such as stellar radiation and electrical discharges. Absorbs minerals from starship hulls.",
         "power": "2",
         "subType": "Space",
         "title": "Mynock",
@@ -42177,6 +42179,9 @@
       "side": "Dark"
     },
     {
+      "abbr": [
+        "PASOA"
+      ],
       "front": {
         "destiny": "6",
         "gametext": "USED: Target a Rebel at a Death Star (or Executor) site. For remainder of turn, target may not use its game text and may not apply ability toward drawing battle destiny. (Immune to Sense.)  LOST: Retrieve into hand up to two cards with 'Death Star' in title.",
@@ -42184,7 +42189,7 @@
           "Special Edition"
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/SpecialEdition-Dark/large/putallsectionsonalert.gif",
-        "lore": "'We have an emergency alert in detention block AA-twenty three.'",
+        "lore": "'We have an emergency alert in detention block AA-twenty-three.'",
         "subType": "Used Or Lost",
         "title": "•Put All Sections On Alert",
         "type": "Interrupt",
@@ -51379,6 +51384,11 @@
         "Neimoidian Advisor"
       ],
       "rarity": "C",
+      "rulings": [
+        "While any race total is greater than 0, this site is not a battleground.",
+        "If the Podrace Arena text is expanded by Expand The Empire and any race total is greater than 0, those sites are also not battlegrounds.",
+        "When the Podrace completes, this site remains a non-battleground while the Force retrieval and Force loss occur. Thus this site won't count as a battleground for Honor Of The Jedi, Come Here You Big Coward, etc. while performing those Force retrieval/loss."
+      ],
       "set": "11",
       "side": "Dark"
     },
@@ -62010,7 +62020,7 @@
           "Set 14"
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual14-Dark/large/theclient.gif",
-        "lore": "Blank",
+        "lore": "Blank.",
         "power": "1",
         "subType": "Imperial",
         "title": "•The Client",
@@ -62041,7 +62051,7 @@
           "Set 14"
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual14-Dark/large/thedeadspeak.gif",
-        "lore": "Blank",
+        "lore": "Blank.",
         "title": "•The Dead Speak!",
         "type": "Effect",
         "uniqueness": "*",
@@ -62072,7 +62082,7 @@
           "Set 14"
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual14-Dark/large/thefirstorderwasjustthebeginning.gif",
-        "lore": "Blank",
+        "lore": "Blank.",
         "title": "•The First Order Was Just The Beginning",
         "type": "Effect",
         "uniqueness": "*",
@@ -62563,7 +62573,8 @@
       ],
       "rarity": "C",
       "rulings": [
-        "When Shadow Collective flips, the response on You Know Who I Answer To and the response on Rukh may be performed in either order.",
+		"Rukh refers to checking whether Rukh is armed with a blaster, not anybody else.",
+		"When Shadow Collective flips, the response on You Know Who I Answer To and the response on Rukh may be performed in either order.",
         "All bodyguards are also guards.",
         "'Immune to Blaster Proficiency' prevents the control phase sniping function and prevents the place in Lost Pile function. It does not prevent 3 being added to weapon destiny.",
         "Rukh peeks at the top 2 cards - he does not enable each of your assassins and leaders there to peek."
@@ -64745,7 +64756,7 @@
           "Set 18"
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual18-Dark/large/alpha1.gif",
-        "lore": "Blank",
+        "lore": "Blank.",
         "maneuver": "4",
         "power": "3",
         "subType": "Starfighter: TIE Defender",
@@ -64841,7 +64852,7 @@
           "Set 18"
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual18-Dark/large/hesnogoodtomedead.gif",
-        "lore": "Blank",
+        "lore": "Blank.",
         "subType": "Used",
         "title": "•He's No Good To Me Dead",
         "type": "Interrupt",
@@ -65236,7 +65247,7 @@
           "Set 19"
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual19-Dark/large/ensignelivanto.gif",
-        "lore": "Blank",
+        "lore": "Blank.",
         "politics": "1",
         "power": "2",
         "subType": "Imperial",
@@ -65352,7 +65363,7 @@
           "Set 19"
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual19-Dark/large/grievousgambit.gif",
-        "lore": "Blank",
+        "lore": "Blank.",
         "subType": "Lost Or Starting",
         "title": "•Grievous' Gambit",
         "type": "Interrupt",
@@ -65383,7 +65394,7 @@
           "Set 19"
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual19-Dark/large/historyphilosophyandart.gif",
-        "lore": "Blank",
+        "lore": "Blank.",
         "subType": "Used Or Lost",
         "title": "•History, Philosophy, And Art",
         "type": "Interrupt",
@@ -65826,7 +65837,7 @@
           "Set 19"
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual19-Dark/large/thrawnsartcollection.gif",
-        "lore": "Blank",
+        "lore": "Blank.",
         "title": "•Thrawn's Art Collection",
         "type": "Effect",
         "uniqueness": "*",
@@ -65905,7 +65916,7 @@
           "Set 19"
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual19-Dark/large/tuskenraiderwithhuntingrifle.gif",
-        "lore": "Blank",
+        "lore": "Blank.",
         "power": "2",
         "subType": "Alien",
         "title": "Tusken Raider With Hunting Rifle",
@@ -67010,7 +67021,7 @@
           "Set 21"
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual21-Dark/large/asajjventresslightsabers.gif",
-        "lore": "Blank",
+        "lore": "Blank.",
         "subType": "Character",
         "title": "•Asajj Ventress' Lightsabers",
         "type": "Weapon",
@@ -67361,7 +67372,7 @@
           "Set 21"
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual21-Dark/large/deactivatedhyperdrive.gif",
-        "lore": "Blank",
+        "lore": "Blank.",
         "title": "•Deactivated Hyperdrive",
         "type": "Effect",
         "uniqueness": "*",
@@ -68230,7 +68241,7 @@
           "Set 22"
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual22-Dark/large/afineadditiontomycollection.gif",
-        "lore": "Blank",
+        "lore": "Blank.",
         "subType": "Lost",
         "title": "•A Fine Addition To My Collection",
         "type": "Interrupt",
@@ -68619,7 +68630,7 @@
           "Set 22"
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual22-Dark/large/nightbuzzard.gif",
-        "lore": "Blank",
+        "lore": "Blank.",
         "power": "4",
         "subType": "Starfighter: Oubliette-Class Transport",
         "title": "•Night Buzzard",
@@ -70173,7 +70184,7 @@
           "Set 23"
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual23-Dark/large/theemperorshand.gif",
-        "lore": "Blank",
+        "lore": "Blank.",
         "subType": "Used Or Lost",
         "title": "•The Emperor's Hand",
         "type": "Interrupt",
