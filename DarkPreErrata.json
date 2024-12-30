@@ -1483,6 +1483,96 @@
       ],
       "set": "200",
       "side": "Dark"
+    },
+    {
+      "abbr": [
+        "CBD",
+        "CTBD"
+      ],
+      "front": {
+        "destiny": "5",
+        "gametext": "Deploy on table. Rebel Barrier is a Lost Interrupt. If opponent just canceled a battle (or just moved a character, starship, or vehicle away from a battle), opponent loses 1 Force. If Landing Claw just lost, place it out of play.",
+        "icons": [
+          "Set 17"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual17-Dark/large/closetheblastdoors.gif",
+        "lore": "Imperial stormtroopers adopt strict security measures. Excellent communications and sheer numbers can hinder Rebel movement across entire territories.",
+        "title": "•Close The Blast Doors!",
+        "type": "Effect",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Close The Blast Doors/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "217_14",
+      "id": 20034,
+      "legacy": false,
+      "nextId": 6966,
+      "printings": [
+        {
+          "set": "217"
+        }
+      ],
+      "pulledBy": [
+        "Conduct Your Search",
+        "Twi'lek Advisor",
+        "We Must Accelerate Our Plans"
+      ],
+      "rarity": "U2",
+      "rulings": [
+        "To determine who canceled a battle, look at the owner of the card that canceled it (e.g. Projective Telepathy is Dark canceling a battle).",
+        "Excluding a character, which subsequently results in a battle ending immediately, is not a player canceling a battle."
+      ],
+      "set": "217",
+      "side": "Dark"
+    },
+    {
+      "conceptBy": "(Original concept by Lee Clarke - ACT Championship 2005)",
+      "front": {
+        "characteristics": [
+          "probe droid"
+        ],
+        "deploy": "1",
+        "destiny": "3",
+        "extraText": [
+          "Recon Droid"
+        ],
+        "forfeit": "2",
+        "gametext": "When drawn for destiny during a battle or duel involving a Dark Jedi, destiny +2. During your move phase, may use 2 Force to relocate a Dark Jedi (with any captives they are escorting) to same site; place this droid in Used Pile.",
+        "icons": [
+          "Episode I",
+          "Tatooine",
+          "Set 0"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual0-Dark/large/sithprobedroid.gif",
+        "lore": "Patrol droids utilized by the Sith. Each droid has several multispectral imaging devices and a communications package. Used by Maul to track down Amidala.",
+        "maneuver": "3",
+        "power": "1",
+        "subType": "Droid",
+        "title": "Sith Probe Droid (V)",
+        "type": "Character",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Sith Probe Droid (V)/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "200_90",
+      "id": 20035,
+      "legacy": false,
+      "nextId": 4033,
+      "printings": [
+        {
+          "set": "200"
+        }
+      ],
+      "pulledBy": [
+        "Captain Piett",
+        "If The Trace Was Correct"
+      ],
+      "rarity": "R",
+      "rulings": [
+        "This card is a probe droid (e.g. for Captain Piett).",
+        "The relocate is an unlimited move. A single Dark Jedi could relocate to two Sith Probe Droids in the same turn."
+      ],
+      "set": "200",
+      "side": "Dark"
     }
   ]
 }

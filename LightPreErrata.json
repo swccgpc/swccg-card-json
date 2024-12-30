@@ -2089,6 +2089,205 @@
       "rarity": "PM",
       "set": "200d",
       "side": "Light"
+    },
+    {
+      "abbr": [
+        "AGBAYS&RD",
+        "A Good Blaster combo"
+      ],
+      "front": {
+        "destiny": "3",
+        "errataDate": "2024-12-30",
+        "errataNotes": "Blanked. Blaster-pulling functionality was added to Cell 2187 (V) to help compensate.",
+        "gametext": "Deploy on table. Non-lightsaber weapons carried by your non-Jedi characters may not be stolen. During your control phase, if you control a battleground site with a non-unique, non-[Permanent Weapon] blaster present, opponent loses 1 Force. Rebel Artillery is a Lost Interrupt. During your deploy phase, may deploy a blaster from Reserve Deck; reshuffle (or use 2 Force to deploy a non-unique blaster from Lost Pile) on your character at a Death Star site. May not be canceled. [Immune to Alter.]",
+        "icons": [
+          "Set 18"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual18-Light/large/agoodblasteratyoursiderestricteddeployment.gif",
+        "title": "•A Good Blaster At Your Side & •Restricted Deployment",
+        "type": "Effect",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/A Good Blaster At Your Side And Restricted Deployment/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "218_14",
+      "id": 7055,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "218"
+        }
+      ],
+      "pulledBy": [
+        "Don't Tread On Me (V)",
+        "The Signal",
+        "We Wish To Board At Once"
+      ],
+      "pulls": [
+        "Amidala's Blaster",
+        "BlasTech E-11B Blaster Rifle",
+        "Blaster",
+        "Blaster Rifle",
+        "Blaster Rifle (V)",
+        "Han's Heavy Blaster Pistol",
+        "Han's Heavy Blaster Pistol (V)",
+        "Lando's Blaster Rifle",
+        "Leia's Blaster Rifle",
+        "Leia's Sporting Blaster",
+        "Luke's Blaster Pistol",
+        "Luke's Blaster Pistol (V)",
+        "Medium Repeating Blaster Cannon",
+        "Mos Eisley Blaster",
+        "Naboo Blaster Rifle",
+        "Naboo Security Officer Blaster",
+        "Panaka's Blaster",
+        "Stolen Stormtrooper Blaster Rifle",
+        "Stun Blaster",
+        "Uncivilized Blaster"
+      ],
+      "rarity": "U1",
+      "rulings": [
+        "Only causes 1 damage per turn even if Light controls multiple battleground sites with blasters."
+      ],
+      "set": "218",
+      "side": "Light"
+    },
+    {
+      "front": {
+        "ability": "4",
+        "deploy": "3",
+        "destiny": "1",
+        "extraText": [
+          "Force-Sensitive"
+        ],
+        "forfeit": "5",
+        "gametext": "Adds 3 to power of anything he pilots. BoShek's deploy cost may not be increased. During battle, may use 1 Force to subtract 1 from opponent's just drawn destiny or cancel an attempt to cancel and redraw a destiny. Immune to attrition < 3.",
+        "icons": [
+          "Pilot",
+          "Set 10"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual10-Light/large/boshek.gif",
+        "lore": "Rogue pilot. Outlaw starship tech. Has secret lab in Mos Eisley. He bragged about beating Han Solo's Kessel Run record. Left fringe life behind after meeting Obi-Wan Kenobi.",
+        "power": "3",
+        "subType": "Alien",
+        "title": "•BoShek (V)",
+        "type": "Character",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/BoShek (V)/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "210_6",
+      "id": 40048,
+      "legacy": false,
+      "nextId": 5391,
+      "printings": [
+        {
+          "set": "210"
+        }
+      ],
+      "rarity": "U1",
+      "rulings": [
+        "His lore does not make him a member of Rogue Squadron."
+      ],
+      "set": "210",
+      "side": "Light"
+    },
+    {
+      "front": {
+        "armor": "4",
+        "characteristics": [
+          "Republic (starship)"
+        ],
+        "deploy": "5",
+        "destiny": "2",
+        "forfeit": "6",
+        "gametext": "May add 1 pilot. Permanent pilot is •Obi-Wan, who provides ability of 6. Opponent's starships may not 'cloak.' Your total ability here may not be reduced.",
+        "hyperspeed": "4",
+        "icons": [
+          "Republic",
+          "Pilot",
+          "Nav Computer",
+          "Episode I",
+          "Coruscant",
+          "Set 0"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual0-Light/large/obiwaninradiantvii.gif",
+        "lore": "Optimized for diplomatic missions with sensor-proof pods that have ejection capabilities. Easily identified by its red coloration.",
+        "power": "4",
+        "subType": "Starfighter: Corellian Republic Cruiser",
+        "title": "•Obi-Wan In Radiant VII",
+        "type": "Starship",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Obi-Wan In Radiant VII/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "200_63",
+      "id": 40049,
+      "legacy": false,
+      "nextId": 4088,
+      "printings": [
+        {
+          "set": "200"
+        }
+      ],
+      "rarity": "R",
+      "set": "200",
+      "side": "Light"
+    },
+    {
+      "abbr": [
+        "SPv"
+      ],
+      "front": {
+        "destiny": "5",
+        "gametext": "If an [A New Hope] objective on table, deploy on table. Twice per game, may take Mon Mothma or any general into hand from Reserve Deck; reshuffle. During your first turn, while Stolen Data Tapes at Dune Sea, [Set 1] Obi-Wan deploys -6 there. [Immune to Alter.]",
+        "icons": [
+          "Death Star II",
+          "Set 21"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual21-Light/large/strikeplanning.gif",
+        "lore": "'General Solo, is your strike team assembled?'",
+        "title": "•Strike Planning (V)",
+        "type": "Effect",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Strike Planning (V)/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "221_6",
+      "id": 40050,
+      "legacy": false,
+      "nextId": 7154,
+      "printings": [
+        {
+          "set": "221"
+        }
+      ],
+      "pulls": [
+        "General Airen Cracken",
+        "General Calrissian",
+        "General Carlist Rieekan",
+        "General Carlist Rieekan (V)",
+        "General Crix Madine",
+        "General Dodonna",
+        "General Dodonna (V)",
+        "General Jar Jar",
+        "General Kenobi",
+        "General Leia Organa",
+        "General McQuarrie",
+        "General Solo",
+        "General Solo (V)",
+        "General Walex Blissex",
+        "General Walex Blissex (V)",
+        "Gungan General",
+        "Han Solo, Optimistic General",
+        "Mon Mothma",
+        "Obi-Wan Kenobi",
+        "Obi-Wan Kenobi (V)",
+        "Senator Mon Mothma"
+      ],
+      "rarity": "R",
+      "set": "221",
+      "side": "Light"
     }
   ]
 }

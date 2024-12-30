@@ -8836,10 +8836,11 @@
         }
       ],
       "pulls": [
+        "DRK-1 (Dark Eye Probe Droid)",
+        "ID9 Probe Droid",
         "Probe Droid",
         "Probot (V)",
-        "Sith Probe Droid",
-        "Sith Probe Droid (V)"
+        "Sith Probe Droid"
       ],
       "rarity": "R2",
       "set": "3",
@@ -23245,7 +23246,6 @@
       "set": "1",
       "side": "Dark",
       "underlyingCardFor": [
-        "Close The Blast Doors!",
         "Stormtrooper Patrol"
       ]
     },
@@ -26923,8 +26923,7 @@
         "Master"
       ],
       "pulls": [
-        "Sith Probe Droid",
-        "Sith Probe Droid (V)"
+        "Sith Probe Droid"
       ],
       "rarity": "U",
       "set": "11",
@@ -47191,53 +47190,56 @@
       "set": "11",
       "side": "Dark",
       "underlyingCardFor": [
-        "Sith Probe Droid (V)"
+        "DRK-1 (Dark Eye Probe Droid)"
       ]
     },
     {
-      "conceptBy": "(Original concept by Lee Clarke - ACT Championship 2005)",
+      "conceptBy": "Original concept by Lee Clarke",
       "front": {
         "characteristics": [
           "probe droid"
         ],
         "deploy": "1",
         "destiny": "3",
+        "errataDate": "2024-12-30",
+        "errataNotes": "Retitled from 'Sith Probe Droid (V)' Previous text: When drawn for destiny during a battle or duel involving a Dark Jedi, destiny +2. During your move phase, may use 2 Force to relocate a Dark Jedi (with any captives they are escorting) to same site; place this droid in Used Pile.",
+        "errataSymbol": "E1",
         "extraText": [
           "Recon Droid"
         ],
         "forfeit": "2",
-        "gametext": "When drawn for destiny during a battle or duel involving a Dark Jedi, destiny +2. During your move phase, may use 2 Force to relocate a Dark Jedi (with any captives they are escorting) to same site; place this droid in Used Pile.",
+        "gametext": "Nabrun Leids may not transport to or from here. During your move phase, may use 2 Force to relocate a Dark Jedi (with any captives they are escorting), your Mara, or an Inquisitor from here to same site as a Dark Jedi or Jedi; place this droid in Used Pile.",
         "icons": [
-          "Episode I",
-          "Tatooine",
+          "Death Star II",
           "Set 0"
         ],
-        "imageUrl": "https://res.starwarsccg.org/cards/Virtual0-Dark/large/sithprobedroid.gif",
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual0-Dark/large/drk1darkeyeprobedroid.gif",
         "lore": "Patrol droids utilized by the Sith. Each droid has several multispectral imaging devices and a communications package. Used by Maul to track down Amidala.",
         "maneuver": "3",
         "power": "1",
         "subType": "Droid",
-        "title": "Sith Probe Droid (V)",
+        "title": "DRK-1 (Dark Eye Probe Droid)",
         "type": "Character",
-        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Sith Probe Droid (V)/image.png",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/DRK-1 (Dark Eye Probe Droid)/image.png",
         "printableSlipType": "VIRTUAL"
       },
       "gempId": "200_90",
       "id": 4033,
       "legacy": false,
+      "previousId": 20035,
       "printings": [
         {
           "set": "200"
         }
       ],
       "pulledBy": [
-        "Captain Piett",
-        "If The Trace Was Correct"
+        "Captain Piett"
       ],
       "rarity": "R",
       "rulings": [
         "This card is a probe droid (e.g. for Captain Piett).",
-        "The relocate is an unlimited move. A single Dark Jedi could relocate to two Sith Probe Droids in the same turn."
+        "This card is NOT a Sith probe droid (e.g. it cannot be pulled by If The Trace Was Correct).",
+        "The relocate is an unlimited move."
       ],
       "set": "200",
       "side": "Dark"
@@ -63737,26 +63739,29 @@
     },
     {
       "abbr": [
-        "CBD",
-        "CTBD"
+        "BDCv"
       ],
       "front": {
         "destiny": "5",
-        "gametext": "Deploy on table. Rebel Barrier is a Lost Interrupt. If opponent just canceled a battle (or just moved a character, starship, or vehicle away from a battle), opponent loses 1 Force. If Landing Claw just lost, place it out of play.",
+        "errataDate": "2024-12-30",
+        "errataNotes": "Retitled from 'Close The Blast Doors!' Previous text: Deploy on table. Rebel Barrier is a Lost Interrupt. If opponent just canceled a battle (or just moved a character, starship, or vehicle away from a battle), opponent loses 1 Force. If Landing Claw just lost, place it out of play.",
+        "errataSymbol": "E1",
+        "gametext": "Deploy on table. Cancels Blast The Door, Kid!, Narrow Escape, and Rebel Barrier. If opponent just canceled a battle (or just moved a character, starship, or vehicle away from a battle), opponent loses 1 Force.",
         "icons": [
           "Set 17"
         ],
-        "imageUrl": "https://res.starwarsccg.org/cards/Virtual17-Dark/large/closetheblastdoors.gif",
-        "lore": "Imperial stormtroopers adopt strict security measures. Excellent communications and sheer numbers can hinder Rebel movement across entire territories.",
-        "title": "•Close The Blast Doors!",
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual17-Dark/large/blastdoorcontrols.gif",
+        "lore": "Panels control blast doors and key security lock-downs during alerts. Luke destroyed one, locking Imperial forces out of Hangar Bay 327.",
+        "title": "•Blast Door Controls (V)",
         "type": "Effect",
         "uniqueness": "*",
-        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Close The Blast Doors/image.png",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Blast Door Controls (V)/image.png",
         "printableSlipType": "VIRTUAL"
       },
       "gempId": "217_14",
       "id": 6966,
       "legacy": false,
+      "previousId": 20034,
       "printings": [
         {
           "set": "217"
@@ -70367,6 +70372,271 @@
       ],
       "rarity": "PM",
       "set": "200d",
+      "side": "Dark"
+    },
+    {
+      "abbr": [
+        "AWUv"
+      ],
+      "front": {
+        "destiny": "2",
+        "gametext": "Deploy on table. May deploy [Jabba's Palace] Ord Mantell from Reserve Deck; reshuffle. Unless Court Of The Vile Gangster on table, [Dagobah] and [Cloud City] bounty hunters are forfeit +2. If opponent's character is about to be forfeited, your bounty hunter present may capture that character (character is first restored to normal). [Immune to Alter.]",
+        "icons": [
+          "Jabba's Palace",
+          "Set 24"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual24-Dark/large/allwrappedup.gif",
+        "lore": "A capture cable is a quick and effective way for bounty hunters to suddenly snare their target.",
+        "title": "•All Wrapped Up (V)",
+        "type": "Effect",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/All Wrapped Up (V)/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "224_1",
+      "id": 7338,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "224"
+        }
+      ],
+      "rarity": "U",
+      "set": "224",
+      "side": "Dark"
+    },
+    {
+      "abbr": [
+        "BSFv"
+      ],
+      "front": {
+        "ability": "3",
+        "deploy": "4",
+        "destiny": "1",
+        "extraText": [
+          "Force-Attuned"
+        ],
+        "forfeit": "5",
+        "gametext": "Adds 3 to power of anything he pilots. Deploys -1 to Endor. When piloting a starship, adds one battle destiny. Anything he pilots is immune to attrition < 5.",
+        "icons": [
+          "Death Star II",
+          "Pilot",
+          "Warrior",
+          "Set 24"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual24-Dark/large/baronsoontirfel.gif",
+        "lore": "Corellian Baron. Leader of famed 181ST Imperial Fighter Wing. Taught at the Imperial Academy on Prefsbelt IV. Instructed Biggs Darklighter.",
+        "power": "2",
+        "subType": "Imperial",
+        "title": "•Baron Soontir Fel (V)",
+        "type": "Character",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Baron Soontir Fel (V)/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "224_2",
+      "id": 7339,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "224"
+        }
+      ],
+      "rarity": "R",
+      "set": "224",
+      "side": "Dark"
+    },
+    {
+      "abbr": [
+        "BT1 & 000"
+      ],
+      "front": {
+        "armor": "5",
+        "deploy": "5",
+        "destiny": "3",
+        "extraText": [
+          "Astromech & Protocol Droid"
+        ],
+        "forfeit": "6",
+        "gametext": "* Astromech & Protocol Droid. If with Aphra, may add one destiny to attrition. If opponent's character of ability < 4 here is about to leave table, may use 1 Force; opponent loses 1 Force.",
+        "icons": [
+          "Warrior x2",
+          "Presence Droid",
+          "Set 24"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual24-Dark/large/bt1triplezero.gif",
+        "lore": "Assassin and information broker.",
+        "power": "5",
+        "subType": "Droid",
+        "title": "•BT-1 & •Triple Zero",
+        "type": "Character",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/BT-1 And Triple Zero/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "224_3",
+      "id": 7340,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "224"
+        }
+      ],
+      "rarity": "C2",
+      "set": "224",
+      "side": "Dark"
+    },
+    {
+      "abbr": [
+        "DP"
+      ],
+      "front": {
+        "ability": "7",
+        "deploy": "4",
+        "destiny": "1",
+        "extraText": [
+          "Dark Jedi Master"
+        ],
+        "forfeit": "9",
+        "gametext": "Once per game, if drawn for destiny, may place this card out of play to make that destiny draw +6. Other Dark Jedi (except Sidious) are lost. While alone, your characters with 'Trade Federation' in lore deploy -1 to [Episode I] locations. Immune to attrition.",
+        "icons": [
+          "Episode I",
+          "Warrior",
+          "Set 24"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual24-Dark/large/darthplagueis.gif",
+        "lore": "Muun leader. Trade Federation.",
+        "power": "3",
+        "title": "•Darth Plagueis",
+        "type": "Character - Dark Jedi Master",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Darth Plagueis/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "224_4",
+      "id": 7341,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "224"
+        }
+      ],
+      "rarity": "U",
+      "set": "224",
+      "side": "Dark"
+    },
+    {
+      "abbr": [
+        "OMv"
+      ],
+      "front": {
+        "darkSideIcons": 2,
+        "destiny": "0",
+        "gametext": "Dark: Your [Independent] starships may move here as a 'react.' Once per game, if you control, may take Death Mark into hand from Reserve Deck; reshuffle. Light: Your smugglers and [Independent] starships deploy -1 here.",
+        "icons": [
+          "Planet",
+          "Jabba's Palace",
+          "Set 24"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual24-Dark/large/ordmantell.gif",
+        "lightSideIcons": 1,
+        "parsec": "7",
+        "subType": "System",
+        "title": "•Ord Mantell (V)",
+        "type": "Location",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Ord Mantell (Dark) (V)/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "224_5",
+      "id": 7342,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "224"
+        }
+      ],
+      "rarity": "C2",
+      "set": "224",
+      "side": "Dark"
+    },
+    {
+      "abbr": [
+        "SS"
+      ],
+      "front": {
+        "ability": "5",
+        "deploy": "5",
+        "destiny": "2",
+        "extraText": [
+          "Force-Sensitive"
+        ],
+        "forfeit": "7",
+        "gametext": "Padawans are power -2 here. Once per game, may place a 'Hatred' card here in owner's Lost Pile to choose: Deploy a lightsaber on Second Sister from Lost Pile, or take any card into hand from Used Pile; reshuffle. Unless Vader here, immune to attrition < 4.",
+        "icons": [
+          "Pilot",
+          "Warrior",
+          "Set 24"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual24-Dark/large/secondsister.gif",
+        "lore": "Female Inquisitor.",
+        "power": "4",
+        "title": "•Second Sister",
+        "type": "Character - Imperial",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Second Sister/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "224_6",
+      "id": 7343,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "224"
+        }
+      ],
+      "rarity": "C2",
+      "set": "224",
+      "side": "Dark"
+    },
+    {
+      "abbr": [
+        "S1"
+      ],
+      "front": {
+        "deploy": "2",
+        "destiny": "4",
+        "forfeit": "4",
+        "gametext": "May add 6 passengers. Has ship-docking capability. Permanent pilot provides no ability. May deploy to exterior sites. Once per game, during your move phase, may use 2 Force to relocate (even if landed).",
+        "hyperspeed": "6",
+        "icons": [
+          "Episode VII",
+          "Scomp Link",
+          "Independent",
+          "Pilot",
+          "Nav Computer",
+          "Set 24"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual24-Dark/large/starspeeder1000.gif",
+        "lore": "Star Tours.",
+        "maneuver": "3",
+        "power": "2",
+        "subType": "Starfighter: Spaceliner Transport",
+        "title": "StarSpeeder 1000",
+        "type": "Starship",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/StarSpeeder 1000/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "224_7",
+      "id": 7344,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "224"
+        }
+      ],
+      "rarity": "C",
+      "set": "224",
       "side": "Dark"
     }
   ]

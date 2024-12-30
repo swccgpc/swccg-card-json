@@ -6722,7 +6722,7 @@
       "set": "1",
       "side": "Light",
       "underlyingCardFor": [
-        "BoShek (V)"
+        "BoShek, Gritty Smuggler"
       ]
     },
     {
@@ -6730,28 +6730,32 @@
         "ability": "4",
         "deploy": "3",
         "destiny": "1",
+        "errataDate": "2024-12-30",
+        "errataNotes": "Retitled from 'BoShek (V)' to make him a smuggler. Also, old 'BoShek deploy cost may not be increased' text replaced by Kessel Run power bonus.",
+        "errataSymbol": "E1",
         "extraText": [
           "Force-Sensitive"
         ],
         "forfeit": "5",
-        "gametext": "Adds 3 to power of anything he pilots. BoShek's deploy cost may not be increased. During battle, may use 1 Force to subtract 1 from opponent's just drawn destiny or cancel an attempt to cancel and redraw a destiny. Immune to attrition < 3.",
+        "gametext": "Adds 3 to power of anything he pilots. If you have completed a Kessel Run, your total power here is +2. Once during battle, may use 1 Force to choose: Subtract 1 from an opponent's just drawn destiny or cancel an attempt to cancel and redraw a destiny. Immune to attrition < 3.",
         "icons": [
           "Pilot",
           "Set 10"
         ],
-        "imageUrl": "https://res.starwarsccg.org/cards/Virtual10-Light/large/boshek.gif",
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual10-Light/large/boshekgrittysmuggler.gif",
         "lore": "Rogue pilot. Outlaw starship tech. Has secret lab in Mos Eisley. He bragged about beating Han Solo's Kessel Run record. Left fringe life behind after meeting Obi-Wan Kenobi.",
         "power": "3",
         "subType": "Alien",
-        "title": "•BoShek (V)",
+        "title": "•BoShek, Gritty Smuggler",
         "type": "Character",
         "uniqueness": "*",
-        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/BoShek (V)/image.png",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/BoShek, Gritty Smuggler/image.png",
         "printableSlipType": "VIRTUAL"
       },
       "gempId": "210_6",
       "id": 5391,
       "legacy": false,
+      "previousId": 40048,
       "printings": [
         {
           "set": "210"
@@ -8188,7 +8192,6 @@
       "id": 365,
       "legacy": false,
       "matching": [
-        "Obi-Wan In Radiant VII",
         "Radiant VII"
       ],
       "printings": [
@@ -32978,7 +32981,7 @@
       "id": 1545,
       "legacy": false,
       "matching": [
-        "Obi-Wan In Radiant VII",
+        "Madakor In Radiant VII",
         "Radiant VII"
       ],
       "printings": [
@@ -39451,36 +39454,39 @@
     },
     {
       "front": {
-        "armor": "4",
+        "armor": "5",
         "characteristics": [
           "Republic (starship)"
         ],
         "deploy": "5",
         "destiny": "2",
-        "forfeit": "6",
-        "gametext": "May add 1 pilot. Permanent pilot is •Obi-Wan, who provides ability of 6. Opponent's starships may not 'cloak.' Your total ability here may not be reduced.",
+        "errataDate": "2024-12-30",
+        "errataNotes": "Retitled from 'Obi-Wan In Radiant VII' and had power 4, armor 4, forfeit 6, and Coruscant icon. Previous text: May add 1 pilot. Permanent pilot is •Obi-Wan, who provides ability of 6. Opponent's starships may not 'cloak.' Your total ability here may not be reduced.",
+        "errataSymbol": "E1",
+        "forfeit": "7",
+        "gametext": "May add 1 pilot and 2 passengers. Permanent pilot is •Madakor, who provides ability of 2. Opponent's starships may not 'cloak' (or reset your total battle destiny) here. Immune to attrition < 4.",
         "hyperspeed": "4",
         "icons": [
           "Republic",
           "Pilot",
           "Nav Computer",
           "Episode I",
-          "Coruscant",
           "Set 0"
         ],
-        "imageUrl": "https://res.starwarsccg.org/cards/Virtual0-Light/large/obiwaninradiantvii.gif",
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual0-Light/large/madakorinradiantvii.gif",
         "lore": "Optimized for diplomatic missions with sensor-proof pods that have ejection capabilities. Easily identified by its red coloration.",
-        "power": "4",
+        "power": "6",
         "subType": "Starfighter: Corellian Republic Cruiser",
-        "title": "•Obi-Wan In Radiant VII",
+        "title": "•Madakor In Radiant VII",
         "type": "Starship",
         "uniqueness": "*",
-        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Obi-Wan In Radiant VII/image.png",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Madakor In Radiant VII/image.png",
         "printableSlipType": "VIRTUAL"
       },
       "gempId": "200_63",
       "id": 4088,
       "legacy": false,
+      "previousId": 40049,
       "printings": [
         {
           "set": "200"
@@ -45125,7 +45131,7 @@
       "set": "12",
       "side": "Light",
       "underlyingCardFor": [
-        "Obi-Wan In Radiant VII"
+        "Madakor In Radiant VII"
       ]
     },
     {
@@ -47956,10 +47962,7 @@
       ],
       "rarity": "U1",
       "set": "1",
-      "side": "Light",
-      "underlyingCardFor": [
-        "A Good Blaster At Your Side & Restricted Deployment"
-      ]
+      "side": "Light"
     },
     {
       "front": {
@@ -60113,7 +60116,7 @@
       ],
       "pulls": [
         "One Effect of any kind",
-        "Obi-Wan In Radiant VII",
+        "Madakor In Radiant VII",
         "Radiant VII",
         "One Interrupt with Podracer(s) in game text",
         "A Step Backward",
@@ -69385,66 +69388,6 @@
     },
     {
       "abbr": [
-        "AGBAYS&RD",
-        "A Good Blaster combo"
-      ],
-      "front": {
-        "destiny": "3",
-        "gametext": "Deploy on table. Non-lightsaber weapons carried by your non-Jedi characters may not be stolen. During your control phase, if you control a battleground site with a non-unique, non-[Permanent Weapon] blaster present, opponent loses 1 Force. Rebel Artillery is a Lost Interrupt. During your deploy phase, may deploy a blaster from Reserve Deck; reshuffle (or use 2 Force to deploy a non-unique blaster from Lost Pile) on your character at a Death Star site. May not be canceled. [Immune to Alter.]",
-        "icons": [
-          "Set 18"
-        ],
-        "imageUrl": "https://res.starwarsccg.org/cards/Virtual18-Light/large/agoodblasteratyoursiderestricteddeployment.gif",
-        "title": "•A Good Blaster At Your Side & •Restricted Deployment",
-        "type": "Effect",
-        "uniqueness": "*",
-        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/A Good Blaster At Your Side And Restricted Deployment/image.png",
-        "printableSlipType": "VIRTUAL"
-      },
-      "gempId": "218_14",
-      "id": 7055,
-      "legacy": false,
-      "printings": [
-        {
-          "set": "218"
-        }
-      ],
-      "pulledBy": [
-        "Don't Tread On Me (V)",
-        "The Signal",
-        "We Wish To Board At Once"
-      ],
-      "pulls": [
-        "Amidala's Blaster",
-        "BlasTech E-11B Blaster Rifle",
-        "Blaster",
-        "Blaster Rifle",
-        "Blaster Rifle (V)",
-        "Han's Heavy Blaster Pistol",
-        "Han's Heavy Blaster Pistol (V)",
-        "Lando's Blaster Rifle",
-        "Leia's Blaster Rifle",
-        "Leia's Sporting Blaster",
-        "Luke's Blaster Pistol",
-        "Luke's Blaster Pistol (V)",
-        "Medium Repeating Blaster Cannon",
-        "Mos Eisley Blaster",
-        "Naboo Blaster Rifle",
-        "Naboo Security Officer Blaster",
-        "Panaka's Blaster",
-        "Stolen Stormtrooper Blaster Rifle",
-        "Stun Blaster",
-        "Uncivilized Blaster"
-      ],
-      "rarity": "U1",
-      "rulings": [
-        "Only causes 1 damage per turn even if Light controls multiple battleground sites with blasters."
-      ],
-      "set": "218",
-      "side": "Light"
-    },
-    {
-      "abbr": [
         "BSITG"
       ],
       "front": {
@@ -71850,7 +71793,10 @@
       ],
       "front": {
         "destiny": "5",
-        "gametext": "If an [A New Hope] objective on table, deploy on table. Twice per game, may take Mon Mothma or any general into hand from Reserve Deck; reshuffle. During your first turn, while Stolen Data Tapes at Dune Sea, [Set 1] Obi-Wan deploys -6 there. [Immune to Alter.]",
+        "errataDate": "2024-12-30",
+        "errataNotes": "Old game text: If an [A New Hope] objective on table, deploy on table. Twice per game, may take Mon Mothma or any general into hand from Reserve Deck; reshuffle. During your first turn, while Stolen Data Tapes at Dune Sea, [Set 1] Obi-Wan deploys -6 there. [Immune to Alter.]",
+        "errataSymbol": "E1",
+        "gametext": "If Rebel Strike Team on table, deploy on table. Unless opponent's [Endor] objective on table, opponent generates no Force at your Endor system. Twice per game, may take an [Endor] or [Death Star II] leader into hand from Reserve Deck; reshuffle. May deploy [Death Star II] Falcon to Endor system from Reserve Deck; reshuffle. [Immune to Alter.]",
         "icons": [
           "Death Star II",
           "Set 21"
@@ -71866,33 +71812,31 @@
       "gempId": "221_6",
       "id": 7154,
       "legacy": false,
+      "previousId": 40050,
       "printings": [
         {
           "set": "221"
         }
       ],
       "pulls": [
-        "General Airen Cracken",
+        "Admiral Ackbar",
+        "Admiral Ackbar (V)",
+        "Chief Chirpa",
+        "Colonel Salm",
+        "Daughter Of Skywalker",
+        "Daughter Of Skywalker (V)",
+        "First Officer Thaneespi",
         "General Calrissian",
-        "General Carlist Rieekan",
-        "General Carlist Rieekan (V)",
         "General Crix Madine",
-        "General Dodonna",
-        "General Dodonna (V)",
-        "General Jar Jar",
-        "General Kenobi",
-        "General Leia Organa",
-        "General McQuarrie",
+        "General Crix Madine (V)",
         "General Solo",
         "General Solo (V)",
-        "General Walex Blissex",
-        "General Walex Blissex (V)",
-        "Gungan General",
+        "Green Leader",
         "Han Solo, Optimistic General",
         "Mon Mothma",
-        "Obi-Wan Kenobi",
-        "Obi-Wan Kenobi (V)",
-        "Senator Mon Mothma"
+        "Orrimaarko",
+        "Wedge Antilles, Red Squadron Leader",
+        "Gold Squadron 1"
       ],
       "rarity": "R",
       "set": "221",
@@ -75001,6 +74945,610 @@
       ],
       "rarity": "R",
       "set": "200d",
+      "side": "Light"
+    },
+    {
+      "abbr": [
+        "ACW"
+      ],
+      "front": {
+        "destiny": "3",
+        "gametext": "If your [Skywalker] Epic Event on table, deploy on table. Where you have a Skywalker, you initiate battles for free. Once per turn, may deploy Anakin's Lightsaber or a [Cloud City] corridor from Reserve Deck; reshuffle. Once per battle involving a Jedi Skywalker, may activate 1 Force. [Immune to Alter.]",
+        "icons": [
+          "Skywalker",
+          "Set 24"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual24-Light/large/acunningwarrior.gif",
+        "lore": "Luke's experience on Dagobah gave him great skill in using the Force. Vader had to keep his focus on Luke at all times, or face the consequences.",
+        "title": "•A Cunning Warrior",
+        "type": "Effect",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/A Cunning Warrior/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "224_8",
+      "id": 7345,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "224"
+        }
+      ],
+      "rarity": "C",
+      "set": "224",
+      "side": "Light"
+    },
+    {
+      "abbr": [
+        "BA & DS"
+      ],
+      "front": {
+        "destiny": "5",
+        "gametext": "USED: Take a unique (•) unpiloted starfighter into hand from Reserve Deck; reshuffle. LOST: During battle at a system or sector, if you are about to draw a card for battle destiny, target your participating starship to instead use the ability number of its highest-ability pilot. OR Once per game, if Alderaan 'blown away' (or if opponent has deployed two battleground systems and no battleground sites), deploy a non-unique Corellian Corvette from outside your deck.",
+        "icons": [],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual24-Light/large/balancedattackdarklighterspin.gif",
+        "subType": "Used Or Lost",
+        "title": "•Balanced Attack & •Darklighter Spin",
+        "type": "Interrupt",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Balanced Attack And Darklighter Spin/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "224_9",
+      "id": 7346,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "224"
+        }
+      ],
+      "rarity": "C",
+      "set": "224",
+      "side": "Light"
+    },
+    {
+      "abbr": [
+        "BV"
+      ],
+      "front": {
+        "ability": "2",
+        "armor": "5",
+        "deploy": "5",
+        "destiny": "2",
+        "forfeit": "6",
+        "gametext": "Adds 2 to power of anything he pilots. Draws one battle destiny if unable to otherwise. Unless a Jedi here, may cause a character just 'hit' by Valance to be lost. Once per game, may deploy Cyborg Construct on Valance from Reserve Deck; reshuffle.",
+        "icons": [
+          "Pilot",
+          "Warrior",
+          "Set 24"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual24-Light/large/beilertvalance.gif",
+        "lore": "Chorin cyborg mercenary. Former miner.",
+        "power": "6",
+        "subType": "Alien",
+        "title": "•Beilert Valance",
+        "type": "Character",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Beilert Valance/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "224_10",
+      "id": 7347,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "224"
+        }
+      ],
+      "rarity": "C",
+      "set": "224",
+      "side": "Light"
+    },
+    {
+      "abbr": [
+        "BS"
+      ],
+      "front": {
+        "ability": "5",
+        "deploy": "5",
+        "destiny": "1",
+        "extraText": [
+          "Force-Sensitive"
+        ],
+        "forfeit": "8",
+        "gametext": "If drawn for destiny, may take Rey or a lightsaber into hand from Reserve Deck; reshuffle. Adds 3 to power of anything he pilots. Deploys only if an [Episode VII] Epic Event on table. Your total battle destiny here is +1 for each of your Interrupts out of play (limit +3). Once per game, may deploy a lightsaber on Ben from Lost Pile.",
+        "icons": [
+          "Episode VII",
+          "Pilot",
+          "Warrior",
+          "Set 24"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual24-Light/large/bensolo.gif",
+        "lore": "Skywalker.",
+        "power": "6",
+        "subType": "Resistance",
+        "title": "•Ben Solo",
+        "type": "Character",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Ben Solo/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "224_11",
+      "id": 7348,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "224"
+        }
+      ],
+      "rarity": "U",
+      "set": "224",
+      "side": "Light"
+    },
+    {
+      "abbr": [
+        "BGS"
+      ],
+      "front": {
+        "deploy": "4",
+        "destiny": "3",
+        "forfeit": "6",
+        "gametext": "May add 2 pilots and 4 passengers. Permanent pilot provides ability of 2. While Bo-Katan piloting, power +3 and cancels Imperial Barrier. Once per game, may deploy a Mandalorian aboard from Reserve Deck; reshuffle. Immune to attrition < 4.",
+        "icons": [
+          "Scomp Link",
+          "Independent",
+          "Pilot",
+          "Nav Computer",
+          "Set 24"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual24-Light/large/bokatansgauntletstarfighter.gif",
+        "lore": "Blank.",
+        "power": "4",
+        "subType": "Starfighter: Kom'rk-Class Fighter/transport",
+        "title": "•Bo-Katan's Gauntlet Starfighter",
+        "type": "Starship",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Bo-Katan's Gauntlet Starfighter/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "224_12",
+      "id": 7349,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "224"
+        }
+      ],
+      "rarity": "C",
+      "set": "224",
+      "side": "Light"
+    },
+    {
+      "abbr": [
+        "CCLCv"
+      ],
+      "front": {
+        "darkSideIcons": 2,
+        "destiny": "0",
+        "gametext": "Light: While Luke alone here, [Cloud City] Rebels are destiny, power, and forfeit +1. Dark: May not be converted. While Luke or Rey alone here, your Interrupts are destiny -1.",
+        "icons": [
+          "Cloud City",
+          "Interior",
+          "Mobile",
+          "Scomp Link",
+          "Set 24"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual24-Light/large/cloudcitylowercorridor.gif",
+        "lightSideIcons": 2,
+        "subType": "Site",
+        "title": "•Cloud City: Lower Corridor (V)",
+        "type": "Location",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Cloud City Lower Corridor (Light) (V)/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "224_13",
+      "id": 7350,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "224"
+        }
+      ],
+      "rarity": "U",
+      "set": "224",
+      "side": "Light"
+    },
+    {
+      "abbr": [
+        "CRv"
+      ],
+      "front": {
+        "ability": "2",
+        "deploy": "2",
+        "destiny": "3",
+        "forfeit": "5",
+        "gametext": "Once per turn, if armed with a blaster, may cancel the game text of a character of ability < 3 here for remainder of turn. Once per turn, if armed and with Panaka, may add 1 to a just drawn battle destiny or non-lightsaber weapon destiny.",
+        "icons": [
+          "Theed Palace",
+          "Episode I",
+          "Warrior",
+          "Set 24"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual24-Light/large/corporalrushing.gif",
+        "lore": "Royal Naboo security officer in charge of protecting Amidala's Throne Room. His wife and children were captured when the Trade Federation invaded the planet.",
+        "power": "3",
+        "subType": "Republic",
+        "title": "•Corporal Rushing (V)",
+        "type": "Character",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Corporal Rushing (V)/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "224_14",
+      "id": 7351,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "224"
+        }
+      ],
+      "rarity": "U",
+      "set": "224",
+      "side": "Light"
+    },
+    {
+      "abbr": [
+        "GCMv"
+      ],
+      "front": {
+        "ability": "3",
+        "deploy": "3",
+        "destiny": "1",
+        "extraText": [
+          "Force-Attuned"
+        ],
+        "forfeit": "6",
+        "gametext": "Scout. Once during your deploy phase, if present at a battleground, may take a scout of ability < 3 (or any [Endor] scout) into hand from Reserve Deck; reshuffle. During battle here or at same system as Ackbar, if you just played Critical Error Revealed, may retrieve 1 Force.",
+        "icons": [
+          "Endor",
+          "Warrior",
+          "Set 24"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual24-Light/large/generalcrixmadine.gif",
+        "lore": "Military advisor to Mon Mothma. Leader of commando project. Corellian native. Defected to the Alliance shortly after the Battle of Yavin. Rescued by Rogue Squadron.",
+        "power": "3",
+        "subType": "Rebel",
+        "title": "•General Crix Madine (V)",
+        "type": "Character",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/General Crix Madine (V)/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "224_15",
+      "id": 7352,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "224"
+        }
+      ],
+      "rarity": "R",
+      "set": "224",
+      "side": "Light"
+    },
+    {
+      "abbr": [
+        "HSv"
+      ],
+      "front": {
+        "ability": "3",
+        "deploy": "3",
+        "destiny": "1",
+        "extraText": [
+          "Force-Attuned"
+        ],
+        "forfeit": "6",
+        "gametext": "Adds 3 to power of anything he pilots. Draws one battle destiny if unable to otherwise. Adds one battle destiny with Chewie. While piloting Falcon, adds 2 to maneuver and, once during battle, may re-circulate.",
+        "icons": [
+          "Pilot",
+          "Warrior",
+          "A New Hope",
+          "Set 24"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual24-Light/large/hansolo.gif",
+        "lore": "Smuggler, gambler and 'freelance law-bender.' Crafty Corellian pirate. Rebel hero. Owns Millennium Falcon. Co-pilot Chewbacca promised him 'life-debt.' Has bounty on head.",
+        "power": "3",
+        "subType": "Rebel",
+        "title": "•Han Solo (V)",
+        "type": "Character",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Han Solo (V)/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "224_16",
+      "id": 7353,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "224"
+        }
+      ],
+      "rarity": "R1",
+      "set": "224",
+      "side": "Light"
+    },
+    {
+      "abbr": [
+        "JTT"
+      ],
+      "front": {
+        "ability": "3",
+        "deploy": "3",
+        "destiny": "3",
+        "extraText": [
+          "Force-Attuned"
+        ],
+        "forfeit": "5",
+        "gametext": "Deploys -1 to Cloud City. Any blaster may deploy on Jaxxon. Once per game, may deploy a blaster on Jaxxon from Lost Pile (or Jaxxon may steal one from opponent's Lost Pile). While at opponent's battleground, Imperial Enforcement is suspended.",
+        "icons": [
+          "Pilot",
+          "Warrior",
+          "Warrior",
+          "Set 24"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual24-Light/large/jaxxonttumperakki.gif",
+        "lore": "Lepi gambler, smuggler, and thief. Star-Hopper mercenary.",
+        "power": "3",
+        "subType": "Alien",
+        "title": "•Jaxxon T. Tumperakki",
+        "type": "Character",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Jaxxon T. Tumperakki/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "224_17",
+      "id": 7354,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "224"
+        }
+      ],
+      "rarity": "R",
+      "set": "224",
+      "side": "Light"
+    },
+    {
+      "abbr": [
+        "JMAK"
+      ],
+      "front": {
+        "ability": "7",
+        "deploy": "5",
+        "destiny": "2",
+        "extraText": [
+          "Jedi Master"
+        ],
+        "forfeit": "7",
+        "gametext": "Adds 2 to power of anything she pilots (3 if piloting a capital starship). While piloting a capital starship, it is immune to attrition < 5. Once per game, may retrieve a musician (or take one into hand from Reserve Deck; reshuffle). Immune to attrition < 5.",
+        "icons": [
+          "Episode I",
+          "Pilot",
+          "Warrior",
+          "Set 24"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual24-Light/large/jedimarshalavarkriss.gif",
+        "lore": "Female musician. High Republic.",
+        "power": "5",
+        "subType": "Jedi Master",
+        "title": "•Jedi Marshal Avar Kriss",
+        "type": "Character",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Jedi Marshal Avar Kriss/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "224_18",
+      "id": 7355,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "224"
+        }
+      ],
+      "rarity": "R",
+      "set": "224",
+      "side": "Light"
+    },
+    {
+      "front": {
+        "armor": "4",
+        "deploy": "4",
+        "destiny": "2",
+        "forfeit": "7",
+        "gametext": "May add 3 pilots and 4 passengers. Permanent pilot provides ability of 2. Phoenix Squadron pilots deploy -1 aboard. While at opponent's battleground system, Force drains here may not be reduced or canceled.",
+        "hyperspeed": "3",
+        "icons": [
+          "Scomp Link",
+          "Pilot",
+          "Nav Computer",
+          "Set 24"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual24-Light/large/liberator.gif",
+        "lore": "Phoenix Squadron.",
+        "power": "5",
+        "subType": "Capital: Corellian Corvette",
+        "title": "•Liberator",
+        "type": "Starship",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Liberator/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "224_19",
+      "id": 7356,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "224"
+        }
+      ],
+      "rarity": "U2",
+      "set": "224",
+      "side": "Light"
+    },
+    {
+      "abbr": [
+        "SOSv"
+      ],
+      "front": {
+        "ability": "5",
+        "deploy": "5",
+        "destiny": "1",
+        "extraText": [
+          "Force-Sensitive"
+        ],
+        "forfeit": "8",
+        "gametext": "Adds 2 to power of anything he pilots. During battle, characters 'hit' by Luke may not fire weapons. May deploy Anakin's Lightsaber here from Reserve Deck; reshuffle. If a battle just initiated at same site, unless a vehicle here, may target a Dark Jedi here; for remainder of battle, exclude all other characters. Immune to attrition < 4.",
+        "icons": [
+          "Dagobah",
+          "Cloud City",
+          "Pilot",
+          "Warrior",
+          "Set 24"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual24-Light/large/sonofskywalker.gif",
+        "lore": "Luke Skywalker. Son of Anakin. Seeker of Yoda. Levitator of rocks. Ignorer of advice. Incapable of impossible. Reckless is he.",
+        "power": "5",
+        "subType": "Rebel",
+        "title": "•Son Of Skywalker (V)",
+        "type": "Character",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Son Of Skywalker (V)/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "224_20",
+      "id": 7357,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "224"
+        }
+      ],
+      "rarity": "R",
+      "set": "224",
+      "side": "Light"
+    },
+    {
+      "abbr": [
+        "S3"
+      ],
+      "front": {
+        "deploy": "2",
+        "destiny": "4",
+        "forfeit": "4",
+        "gametext": "May add 6 passengers. Has ship-docking capability. Permanent pilot provides no ability. May deploy to exterior sites. Once per game, during your move phase, may use 2 Force to relocate (even if landed).",
+        "hyperspeed": "6",
+        "icons": [
+          "Episode VII",
+          "Scomp Link",
+          "Independent",
+          "Pilot",
+          "Nav Computer",
+          "Set 24"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual24-Light/large/starspeeder3000.gif",
+        "lore": "Star Tours.",
+        "maneuver": "3",
+        "power": "2",
+        "subType": "Starfighter: Spaceliner Transport",
+        "title": "StarSpeeder 3000",
+        "type": "Starship",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/StarSpeeder 3000/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "224_21",
+      "id": 7358,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "224"
+        }
+      ],
+      "rarity": "C",
+      "set": "224",
+      "side": "Light"
+    },
+    {
+      "abbr": [
+        "TDSv"
+      ],
+      "front": {
+        "darkSideIcons": 1,
+        "destiny": "0",
+        "gametext": "Light: While Stolen Data Tapes here, Obi-Wan deploys -3 here. Dark: Total ability of 6 or more required for you to draw battle destiny here.",
+        "icons": [
+          "Exterior",
+          "Planet",
+          "A New Hope",
+          "Set 24"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual24-Light/large/tatooinedunesea.gif",
+        "lightSideIcons": 1,
+        "subType": "Site",
+        "title": "•Tatooine: Dune Sea (V)",
+        "type": "Location",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Tatooine Dune Sea (V)/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "224_22",
+      "id": 7359,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "224"
+        }
+      ],
+      "rarity": "C1",
+      "set": "224",
+      "side": "Light"
+    },
+    {
+      "abbr": [
+        "ZIR2"
+      ],
+      "front": {
+        "deploy": "6",
+        "destiny": "2",
+        "forfeit": "6",
+        "gametext": "Deploys -2 to Hoth. May add 1 pilot. Permanent pilot is •Zev, who provides ability of 2. Draws one battle destiny if unable to otherwise. May move as a 'react' to Hoth sites. Vehicle weapons deploy free aboard.",
+        "icons": [
+          "Hoth",
+          "Pilot",
+          "Set 24"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual24-Light/large/zevinrogue2.gif",
+        "landspeed": "4",
+        "lore": "Enclosed. First snowspeeder to be successfully adapted to Hoth's environment. Piloted by Zev Senesca. Led team in search of Captain Solo and Commander Skywalker.",
+        "maneuver": "6",
+        "power": "6",
+        "subType": "Combat Vehicle: T-47 Snowspeeder",
+        "title": "•Zev In Rogue 2",
+        "type": "Vehicle",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Zev In Rogue 2/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "224_23",
+      "id": 7360,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "224"
+        }
+      ],
+      "rarity": "R2",
+      "set": "224",
       "side": "Light"
     }
   ]
