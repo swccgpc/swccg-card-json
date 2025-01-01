@@ -290,7 +290,13 @@
       ],
       "rarity": "C",
       "set": "11",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        {
+          "title": "A Cunning Warrior",
+          "cardId": 7345
+        }
+      ]
     },
     {
       "combo": [
@@ -4221,7 +4227,13 @@
       ],
       "rarity": "C",
       "set": "4",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        {
+          "title": "StarSpeeder 3000",
+          "cardId": 7358
+        }
+      ]
     },
     {
       "canceledBy": [
@@ -10608,7 +10620,14 @@
       "set": "5",
       "side": "Light",
       "underlyingCardFor": [
-        "Coruscant: Jedi Temple Meditation Room"
+        {
+          "title": "Cloud City: Lower Corridor (V)",
+          "cardId": 7350
+        },
+        {
+          "title": "Coruscant: Jedi Temple Meditation Room",
+          "cardId": 6928
+        }
       ]
     },
     {
@@ -12174,7 +12193,13 @@
         "This card is <u>not</u> a transport."
       ],
       "set": "1",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        {
+          "title": "Liberator",
+          "cardId": 7356
+        }
+      ]
     },
     {
       "abbr": [
@@ -12675,7 +12700,13 @@
       ],
       "rarity": "U",
       "set": "14",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        {
+          "title": "Corporal Rushing (V)",
+          "cardId": 7351
+        }
+      ]
     },
     {
       "combo": [
@@ -14149,7 +14180,14 @@
       "set": "7",
       "side": "Light",
       "underlyingCardFor": [
-        "Cal Kestis"
+        {
+          "title": "Balanced Attack & Darklighter Spin",
+          "cardId": 7346
+        },
+        {
+          "title": "Cal Kestis",
+          "cardId": 6878
+        }
       ]
     },
     {
@@ -20887,6 +20925,7 @@
         "Balanced Attack",
         "Rebel Leadership (V)",
         "Strike Planning",
+        "Strike Planning (V)",
         "Yavin 4: Massassi War Room (V)"
       ],
       "pulls": [
@@ -20938,7 +20977,13 @@
         "His lore does not make him a member of Rogue Squadron."
       ],
       "set": "8",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        {
+          "title": "General Crix Madine (V)",
+          "cardId": 7352
+        }
+      ]
     },
     {
       "cancels": [
@@ -23570,7 +23615,13 @@
         "You may not cancel and redraw a destiny that has already been canceled."
       ],
       "set": "1",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        {
+          "title": "Han Solo (V)",
+          "cardId": 7353
+        }
+      ]
     },
     {
       "abbr": [
@@ -25166,7 +25217,13 @@
       ],
       "rarity": "R",
       "set": "5",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        {
+          "title": "Jaxxon T. Tumperakki",
+          "cardId": 7354
+        }
+      ]
     },
     {
       "combo": [
@@ -40746,7 +40803,13 @@
       ],
       "rarity": "R",
       "set": "4",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        {
+          "title": "Jedi Marshal Avar Kriss",
+          "cardId": 7355
+        }
+      ]
     },
     {
       "canceledBy": [
@@ -48700,7 +48763,13 @@
       ],
       "rarity": "R2",
       "set": "3",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        {
+          "title": "Zev In Rogue 2",
+          "cardId": 7360
+        }
+      ]
     },
     {
       "combo": [
@@ -52250,7 +52319,13 @@
         "In brief: Son Of Skywalker may deploy to Dagobah sites, Dagobah clouds, and Cloud City sites."
       ],
       "set": "4",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        {
+          "title": "Son Of Skywalker (V)",
+          "cardId": 7357
+        }
+      ]
     },
     {
       "front": {
@@ -55210,8 +55285,18 @@
       "set": "1",
       "side": "Light",
       "underlyingCardFor": [
-        "Jakku: Starship Graveyard",
-        "Scarif: Beach"
+        {
+          "title": "Jakku: Starship Graveyard",
+          "cardId": 5064
+        },
+        {
+          "title": "Scarif: Beach",
+          "cardId": 5888
+        },
+        {
+          "title": "Tatooine: Dune Sea (V)",
+          "cardId": 7359
+        }
       ]
     },
     {
@@ -58150,8 +58235,18 @@
       "set": "5",
       "side": "Light",
       "underlyingCardFor": [
-        "Finn",
-        "Finn (AI)"
+        {
+          "title": "Beilert Valance",
+          "cardId": 7347
+        },
+        {
+          "title": "Finn",
+          "cardId": 5084
+        },
+        {
+          "title": "Finn (AI)",
+          "cardId": 7277
+        }
       ]
     },
     {
@@ -61815,7 +61910,13 @@
       ],
       "rarity": "C",
       "set": "7",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        {
+          "title": "Bo-Katan's Gauntlet Starfighter",
+          "cardId": 7349
+        }
+      ]
     },
     {
       "combo": [
@@ -63558,7 +63659,14 @@
       "set": "4",
       "side": "Light",
       "underlyingCardFor": [
-        "You Do Have Your Moments (V)"
+        {
+          "title": "Ben Solo",
+          "cardId": 7348
+        },
+        {
+          "title": "You Do Have Your Moments (V)",
+          "cardId": 5069
+        }
       ]
     },
     {
