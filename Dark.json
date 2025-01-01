@@ -2272,6 +2272,10 @@
       "side": "Dark",
       "underlyingCardFor": [
         {
+          "title": "All Wrapped Up (V)",
+          "cardId": 7338
+        },
+        {
           "title": "Zuckuss With Snare Rifle",
           "cardId": 7290
         }
@@ -3463,7 +3467,13 @@
       ],
       "rarity": "C",
       "set": "4",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+        {
+          "title": "StarSpeeder 1000",
+          "cardId": 7344
+        }
+      ]
     },
     {
       "canceledBy": [
@@ -4388,7 +4398,13 @@
       ],
       "rarity": "R",
       "set": "9",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+        {
+          "title": "Baron Soontir Fel (V)",
+          "cardId": 7339
+        }
+      ]
     },
     {
       "front": {
@@ -39964,7 +39980,14 @@
       "set": "3",
       "side": "Dark",
       "underlyingCardFor": [
-        "Scarif"
+        {
+          "title": "Ord Mantell (V)",
+          "cardId": 7342
+        },
+        {
+          "title": "Scarif",
+          "cardId": 6916
+        }
       ]
     },
     {
@@ -42525,7 +42548,13 @@
       ],
       "rarity": "C2",
       "set": "2",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+        {
+          "title": "Second Sister",
+          "cardId": 7343
+        }
+      ]
     },
     {
       "combo": [
@@ -55436,7 +55465,14 @@
       "set": "1",
       "side": "Dark",
       "underlyingCardFor": [
-        "Ubrikkian Industries"
+        {
+          "title": "BT-1 & Triple Zero",
+          "cardId": 7340
+        },
+        {
+          "title": "Ubrikkian Industries",
+          "cardId": 6901
+        }
       ]
     },
     {
@@ -59225,7 +59261,13 @@
         "Works with a character with a permanent lightsaber weapon (even if their game text has been canceled)."
       ],
       "set": "5",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+        {
+          "title": "Darth Plagueis",
+          "cardId": 7341
+        }
+      ]
     },
     {
       "abbr": [
