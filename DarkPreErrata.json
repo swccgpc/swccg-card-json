@@ -377,7 +377,7 @@
       "gempId": "214_8",
       "id": 20009,
       "legacy": false,
-      "nextId": 6851,  
+      "nextId": 6851,
       "printings": [
         {
           "set": "214"
@@ -578,8 +578,8 @@
       "gempId": "219_10",
       "id": 20014,
       "legacy": false,
-      "previousId": 20006,
       "nextId": 7082,
+      "previousId": 20006,
       "printings": [
         {
           "set": "219"
@@ -826,10 +826,10 @@
       "gempId": "4_93",
       "id": 20020,
       "legacy": false,
-      "nextId": 366,
       "matching": [
         "Avenger"
       ],
+      "nextId": 366,
       "printings": [
         {
           "set": "4"
@@ -1572,6 +1572,55 @@
         "The relocate is an unlimited move. A single Dark Jedi could relocate to two Sith Probe Droids in the same turn."
       ],
       "set": "200",
+      "side": "Dark"
+    },
+    {
+      "front": {
+        "ability": "2",
+        "deploy": "4",
+        "destiny": "2",
+        "forfeit": "5",
+        "gametext": "This card has your Rep's species. When deployed, may retrieve a Rep or place a Rep stacked on your Objective in Used Pile. Once per turn, if Fearless And Inventive on table and you just retrieved Force, may place top card of Used Pile on Force Pile.",
+        "icons": [
+          "Warrior x3",
+          "Set 16"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual16-Dark/large/alienmob.gif",
+        "lore": "Blank.",
+        "power": "4",
+        "subType": "Alien",
+        "title": "<>Alien Mob",
+        "type": "Character",
+        "uniqueness": "<>",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Alien Mob/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "216_2",
+      "id": 20036,
+      "legacy": false,
+      "nextId": 6904,
+      "printings": [
+        {
+          "set": "216"
+        }
+      ],
+      "pulledBy": [
+        "Abyssin Ornament",
+        "Abyssin Ornament & Wounded Wookiee",
+        "Chall Bekan",
+        "Jabba's Palace: Audience Chamber",
+        "Oo-ta Goo-ta, Solo? (V)"
+      ],
+      "rarity": "U",
+      "rulings": [
+        "Rep is defined by My Kind Of Scum.",
+        "This card has the Rep's species in all card states, including while in hand, Reserve Deck, etc.",
+        "This card has the Rep's species even while its gametext is canceled.",
+        "When retrieving multiple Force, the once per turn action may respond to any one individual unit of retrieved Force.",
+        "This card is non-unique and counts as a non-unique alien of your Rep's species for flipping My Kind Of Scum.",
+        "Cards with multiple warrior icons can still only escort one captive at a time."
+      ],
+      "set": "216",
       "side": "Dark"
     }
   ]
