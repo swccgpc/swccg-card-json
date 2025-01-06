@@ -1049,7 +1049,10 @@
       ],
       "rarity": "R1",
       "set": "2",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        "Corellia (V)"
+      ]
     },
     {
       "counterpart": "Nevar Yalnal",
@@ -2563,7 +2566,7 @@
         }
       ],
       "pulledBy": [
-        "I've Got A Bad Feeling About"
+        "I've Got A Bad Feeling About..."
       ],
       "rarity": "F",
       "set": "206",
