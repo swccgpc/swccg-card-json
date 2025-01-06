@@ -434,11 +434,11 @@
       "gempId": "216_37",
       "id": 40011,
       "legacy": false,
-      "nextId": 6940,
       "matchingWeapon": [
         "Qui-Gon Jinn's Lightsaber",
         "Qui-Gon's Lightsaber"
       ],
+      "nextId": 6940,
       "printings": [
         {
           "set": "216"
@@ -1049,10 +1049,7 @@
       ],
       "rarity": "R1",
       "set": "2",
-      "side": "Light",
-      "underlyingCardFor": [
-        "Corellia (V)"
-      ]
+      "side": "Light"
     },
     {
       "counterpart": "Nevar Yalnal",
@@ -2287,6 +2284,52 @@
       ],
       "rarity": "R",
       "set": "221",
+      "side": "Light"
+    },
+    {
+      "front": {
+        "deploy": "2",
+        "destiny": "1 or 6",
+        "destinyValues": [
+          1.0,
+          6.0
+        ],
+        "extraText": [
+          "Astromech Droid"
+        ],
+        "forfeit": "4",
+        "gametext": "Once per game, may use 1 Force to shuffle opponent's Reserve Deck or place opponent's just-played Interrupt out of play. If in battle with Anakin or Luke, may draw one destiny and subtract that amount from opponent's attrition.",
+        "icons": [
+          "Jabba's Palace",
+          "Nav Computer",
+          "Set 19"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual19-Light/large/artoo.gif",
+        "lore": "Counterpart to C-3PO. Spy. Obstinate, headstrong and always full of surprises. R2-D2 was an integral part of Luke Skywalker's rescue plans.",
+        "power": "2",
+        "subType": "Droid",
+        "title": "•Artoo (V)",
+        "type": "Character",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Artoo (V)/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "219_28",
+      "id": 40051,
+      "legacy": false,
+      "nextId": 7101,
+      "printings": [
+        {
+          "set": "219"
+        }
+      ],
+      "rarity": "R",
+      "rulings": [
+        "Artoo's action to draw destiny and subtract from attrition can only be initiated if attrition exists (opponent successfully completed a battle destiny draw, even if it was a 0).",
+        "Artoo's action to draw destiny and subtract from attrition is initiated in the power segment after battle destinies (and any attrition destinies) are drawn.",
+        "Artoo's action subtracts from attrition against his owner (Light, assuming he hasn't been stolen)."
+      ],
+      "set": "219",
       "side": "Light"
     }
   ]
