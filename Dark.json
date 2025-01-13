@@ -16679,8 +16679,11 @@
         ],
         "deploy": "3",
         "destiny": "1",
+        "errataDate": "2024-12-30",
+        "errataNotes": "Previous text: Adds 2 to power of anything he pilots. Characters about to be 'hit' by Dengar may be captured instead. If Dengar is about to be 'hit' while escorting a captive, captive is hit instead. If Dengar just seized a Rebel or a smuggler, opponent loses 1 Force (2 if Han).",
+        "errataSymbol": "E1",
         "forfeit": "5",
-        "gametext": "Adds 2 to power of anything he pilots. Characters about to be 'hit' by Dengar may be captured instead. If Dengar is about to be 'hit' while escorting a captive, captive is hit instead. If Dengar just seized a Rebel or a smuggler, opponent loses 1 Force (2 if Han).",
+        "gametext": "While escorting a captive or piloting Punishing One, adds one battle destiny. If a character is about to be 'hit' by Dengar, he may capture that character instead. Once per game, may take Bounty or a blaster into hand from Reserve Deck; reshuffle.",
         "icons": [
           "Pilot",
           "Warrior",
@@ -17055,8 +17058,10 @@
     {
       "front": {
         "destiny": "6",
-        "errataSymbol": "E1",
-        "gametext": "Deploy on table. My Favorite Decoration may not be placed out of play. At same site as Jabba's Prize, opponent's characters deploy +1 and your Force drains are +1. While Jabba's Prize with Scum And Villainy, your total power in all battles is +3. (Immune to Alter.)",
+        "errataDate": "2024-12-30",
+        "errataNotes": "Previous text: Deploy on table. My Favorite Decoration may not be placed out of play. At same site as Jabba's Prize, opponent's characters deploy +1 and your Force drains are +1. While Jabba's Prize with Scum And Villainy, your total power in all battles is +3. [Immune to Alter.]",
+        "errataSymbol": "E2",
+        "gametext": "Deploy on table. My Favorite Decoration may not be placed out of play. At battlegrounds where you have a frozen captive, your Force drains are +1. While a frozen captive with Scum And Villainy, your total power in all battles is +3. [Immune to Alter.]",
         "icons": [
           "Cloud City",
           "Set 1"
@@ -17708,16 +17713,20 @@
       "front": {
         "ability": "4",
         "characteristics": [
+          "assassin",
           "Black Sun agent",
           "bounty hunter"
         ],
         "deploy": "4",
         "destiny": "1",
+        "errataDate": "2024-12-30",
+        "errataNotes": "Added 'Assassin' to game text.",
+        "errataSymbol": "E1",
         "extraText": [
           "Force-Sensitive"
         ],
         "forfeit": "4",
-        "gametext": "Power, defense value, and forfeit +1 for each [Dark Side Force] icon here. Your total ability may not be reduced at same site. Your Force drains here may not be canceled by [Reflections 3] Leia.",
+        "gametext": "Assassin. Power, defense value, and forfeit +1 for each [Dark Side Force] icon here. Your total ability may not be reduced at same site. Your Force drains here may not be canceled by [Reflections 3] Leia.",
         "icons": [
           "Warrior",
           "Set 1"
@@ -24066,11 +24075,14 @@
         ],
         "deploy": "3",
         "destiny": "1",
+        "errataDate": "2024-12-30",
+        "errataNotes": "Previous version increased vehicle immunity even with other characters there.",
+        "errataSymbol": "E1",
         "extraText": [
           "Force-Attuned"
         ],
         "forfeit": "5",
-        "gametext": "Adds 3 to power of anything he pilots.  While piloting an AT-AT, draws two battle destiny if unable to otherwise.  While piloting a combat vehicle, its immunity to attrition is +2.",
+        "gametext": "Adds 3 to power of anything he pilots.  While piloting an AT-AT, draws two battle destiny if unable to otherwise.  While piloting a combat vehicle at a site where you have no other characters, its immunity to attrition is +2.",
         "icons": [
           "Pilot",
           "Warrior",
@@ -29792,11 +29804,14 @@
         ],
         "deploy": "4",
         "destiny": "1",
+        "errataDate": "2024-12-30",
+        "errataNotes": "Previous text: While with your alien leader, Jabba is immune to attrition and may not be targeted by Interrupts or weapons. May deploy one Scum And Villainy from Reserve Deck; reshuffle. During battle, may use 1 Force to double the power of one other non-[Maintenance] alien present.",
+        "errataSymbol": "E1",
         "extraText": [
           "Force-Sensitive"
         ],
         "forfeit": "7",
-        "gametext": "While with your alien leader, Jabba is immune to attrition and may not be targeted by Interrupts or weapons. May deploy one Scum And Villainy from Reserve Deck; reshuffle. During battle, may use 1 Force to double the power of one other non-[Maintenance] alien present.",
+        "gametext": "During battle, may use 1 Force to double the power of a non-[Maintenance] alien present with Jabba. While at Audience Chamber, may deploy Scum And Villainy from Reserve Deck (reshuffle) and immune to attrition < 4. Once per game, may retrieve Salacious Crumb. (OH-HO-HO!)",
         "icons": [
           "Jabba's Palace",
           "Set 0"
@@ -29835,7 +29850,10 @@
       "counterpart": "Seeking an Audience (V)",
       "front": {
         "destiny": "4",
-        "gametext": "If a Jabba's Palace site on table, deploy on table. The Camp is canceled. May deploy Nal Hutta from Reserve Deck; reshuffle. Once per battle, may lose 1 Force; your battle destiny modifiers affect your total battle destiny instead. Once per game, may retrieve a non-[Maintenance] alien or [Independent] starship into hand. (Immune to Alter.)",
+        "errataDate": "2024-12-30",
+        "errataNotes": "Previous text: If a Jabba's Palace site on table, deploy on table. The Camp is canceled. May deploy Nal Hutta from Reserve Deck; reshuffle. Once per battle, may lose 1 Force; your battle destiny modifiers affect your total battle destiny instead. Once per game, may retrieve a non-[Maintenance] alien or [Independent] starship into hand. [Immune to Alter.]",
+        "errataSymbol": "E1",
+        "gametext": "If you have deployed a [Jabba's Place] site, deploy on table. May deploy Nal Hutta from Reserve Deck; reshuffle. You may not deploy systems except Nal Hutta and Tatooine. Cancels The Camp. During battle, may lose 1 Force; your battle destiny modifiers affect your total battle destiny instead. Once per game, may retrieve a non-[Maintenance] alien or [Independent] starship into hand. [Immune to Alter.]",
         "icons": [
           "Set 1"
         ],
@@ -32564,8 +32582,11 @@
       "front": {
         "deploy": "2",
         "destiny": "2",
+        "errataDate": "2024-12-30",
+        "errataNotes": "Power increased from 2 to 3. Previous text: May add 1 pilot. Kylo deploys -3 aboard. While Kylo piloting, immune to attrition < 5 and, unless Leia here, once per battle may lose immunity to attrition to 'spin': add maneuver to power.",
+        "errataSymbol": "E1",
         "forfeit": "4",
-        "gametext": "May add 1 pilot. Kylo deploys -3 aboard. While Kylo piloting, immune to attrition < 5 and, unless Leia here, once per battle may lose immunity to attrition to 'spin': add maneuver to power.",
+        "gametext": "May add 1 pilot. Kylo deploys -2 aboard. May reveal from hand to ▲ Kylo and deploy both simultaneously. While Kylo piloting, Kylo and this TIE are immune to It Can Wait, Rebel Barrier, and attrition < 5.",
         "hyperspeed": "3",
         "icons": [
           "Nav Computer",
@@ -40154,8 +40175,11 @@
         ],
         "deploy": "3",
         "destiny": "3",
+        "errataDate": "2024-12-30",
+        "errataNotes": "Previous text: While at a Jabba's Palace site, your other Gamorreans are deploy -1 and forfeit +3. Permanent weapon is •Ortugg's Ax (may target a character or creature for free; draw destiny; target hit, and its forfeit = 0, if destiny +1 > defense value).",
+        "errataSymbol": "E1",
         "forfeit": "4",
-        "gametext": "While at a Jabba's Palace site, your other Gamorreans are deploy -1 and forfeit +3. Permanent weapon is •Ortugg's Ax (may target a character or creature for free; draw destiny; target hit, and its forfeit = 0, if destiny +1 > defense value).",
+        "gametext": "Permanent weapon is •Ortugg's Ax (may target a character or creature for free; draw destiny; target hit, and its forfeit = 0, if destiny +1 > defense value). While Ortugg is your Rep, your non-unique Gamorreans are deploy -1 and forfeit +3.",
         "icons": [
           "Warrior",
           "Permanent weapon",
@@ -42382,8 +42406,10 @@
     {
       "front": {
         "destiny": "4",
-        "errataSymbol": "E1",
-        "gametext": "Deploy on table. Aurra, Bossk, and Cad are destiny +2. Once per game, may reveal up to two unique (•) aliens from hand and/or Reserve Deck (reshuffle); for remainder of game, those cards are assassins and Black Sun agents. (Immune to Alter.)",
+        "errataDate": "2024-12-30",
+        "errataNotes": "Previous text: Deploy on table. Aurra, Bossk, and Cad are destiny +2. Once per game, may reveal up to two unique (•) aliens from hand and/or Reserve Deck (reshuffle); for remainder of game, those cards are assassins and Black Sun agents. [Immune to Alter.]",
+        "errataSymbol": "E2",
+        "gametext": "Deploy on table. While alone, assassins are power +1. Once per game, may reveal up to two unique (•) aliens from hand and/or Reserve Deck (reshuffle); for remainder of game, those cards are assassins and, if your [Reflections II] objective on table, Black Sun agents. [Immune to Alter.]",
         "icons": [
           "Tatooine",
           "Episode I",
@@ -47256,7 +47282,7 @@
         "maneuver": "3",
         "power": "1",
         "subType": "Droid",
-        "title": "DRK-1 (Dark Eye Probe Droid)",
+        "title": "•DRK-1 (Dark Eye Probe Droid)",
         "type": "Character",
         "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/DRK-1 (Dark Eye Probe Droid)/image.png",
         "printableSlipType": "VIRTUAL"
@@ -56434,12 +56460,15 @@
       "front": {
         "ability": "4",
         "deploy": "4",
-        "destiny": "1",
+        "destiny": "2",
+        "errataDate": "2024-12-30",
+        "errataNotes": "Was destiny 3. Previous text: Deploys -3 to a site with 'Vader' in game text. Once during your turn, may activate 1 Force. Once per game, may take a card with 'Vader' in title into hand from Reserve Deck; reshuffle.",
+        "errataSymbol": "E1",
         "extraText": [
           "Force-Sensitive"
         ],
         "forfeit": "4",
-        "gametext": "Deploys -3 to a site with 'Vader' in game text. Once during your turn, may activate 1 Force. Once per game, may take a card with 'Vader' in title into hand from Reserve Deck; reshuffle.",
+        "gametext": "Deploys -2 to Holotheatre, Meditation Chamber, or a Vader's Castle site. Once during your turn, may activate 1 Force. Once per game, may take a card with 'Vader' in title into hand from Reserve Deck; reshuffle.",
         "icons": [
           "Set 9"
         ],
@@ -60749,13 +60778,16 @@
           "gangster",
           "Crimson Dawn"
         ],
-        "deploy": "6",
+        "deploy": "4",
         "destiny": "1",
+        "errataDate": "2024-12-30",
+        "errataNotes": "Deploy changed from 6 to 4. Previous text: Deploys -2 if Maul on table. When deployed, may deploy a weapon on Vos from Reserve Deck; reshuffle. While armed and present at a site, opponent may not 'react' to or from here. Immune to attrition < 5 (< 3 if with Qi'ra).",
+        "errataSymbol": "E1",
         "extraText": [
           "Teras Kasi 5"
         ],
         "forfeit": "6",
-        "gametext": "Deploys -2 if Maul on table. When deployed, may deploy a weapon on Vos from Reserve Deck; reshuffle. While armed and present at a site, opponent may not 'react' to or from here. Immune to attrition < 5 (< 3 if with Qi'ra).",
+        "gametext": "When deployed, may deploy a weapon on Vos from Reserve Deck; reshuffle. While armed and present at a site, draws one battle destiny if unable to otherwise and opponent may not 'react' to or from here. Immune to attrition < 5 (<3 if with Qi'ra).",
         "icons": [
           "Pilot",
           "Warrior",
@@ -61482,16 +61514,19 @@
         "characteristics": [
           "hologram"
         ],
-        "destiny": "3",
-        "gametext": "If you have two Crimson Dawn characters in battle together, draw destiny and subtract that amount from attrition against you. OR Deploy up to two Crimson Dawn characters from Reserve Deck; reshuffle. OR Cancel a hologram.",
+        "destiny": "7",
+        "errataDate": "2024-12-30",
+        "errataNotes": "Changed from a destiny 3 Interrupt to a destiny 7 Effect. Also gained [Dagobah] icon. Previous text: If you have two Crimson Dawn characters in battle together, draw destiny and subtract that amount from attrition against you. OR Deploy up to two Crimson Dawn characters from Reserve Deck; reshuffle. OR Cancel a hologram.",
+        "errataSymbol": "E1",
+        "gametext": "Deploy on table. Your non-[Dagobah] holograms are canceled. While present with an opponent's Jedi, Maul is defense value +2 and immune to attrition. Once per game, if [Set 13] Maul on table, may deploy Qi'ra from Reserve Deck; reshuffle. If Maul just lost, place Effect in Used Pile. [Immune to Alter.]",
         "icons": [
+          "Dagobah",
           "Set 13"
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual13-Dark/large/workingmuchmoreclosely.gif",
         "lore": "Hologram.",
-        "subType": "Lost",
         "title": "•Working Much More Closely",
-        "type": "Interrupt",
+        "type": "Effect",
         "uniqueness": "*",
         "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Working Much More Closely/image.png",
         "printableSlipType": "VIRTUAL"
@@ -61505,7 +61540,7 @@
           "set": "213"
         }
       ],
-      "rarity": "R",
+      "rarity": "U",
       "set": "213",
       "side": "Dark"
     },
@@ -61985,8 +62020,11 @@
         ],
         "deploy": "4",
         "destiny": "2",
+        "errataDate": "2024-12-30",
+        "errataNotes": "Previous version lacked the '(even from Lost Pile)' text.",
+        "errataSymbol": "E1",
         "forfeit": "5",
-        "gametext": "Adds 2 to power of anything he pilots. While piloting Bestoon Legacy, it is immune to attrition < 5. While [Episode VII] Emperor on table, your total power here is +3. If opponent's character was just placed out of play, opponent loses 1 Force.",
+        "gametext": "Adds 2 to power of anything he pilots. While piloting Bestoon Legacy, it is immune to attrition < 5. While [Episode VII] Emperor on table, your total power here is +3. If opponent's character was just placed out of play (even from Lost Pile), opponent loses 1 Force.",
         "icons": [
           "Pilot",
           "Warrior",
@@ -62708,8 +62746,11 @@
         "ability": "2",
         "deploy": "4",
         "destiny": "2",
+        "errataDate": "2024-12-30",
+        "errataNotes": "Previous text: This card has your Rep's species. When deployed, may retrieve a Rep or place a Rep stacked on your Objective in Used Pile. Once per turn, if Fearless And Inventive on table and you just retrieved Force, may place top card of Used Pile on Force Pile.",
+        "errataSymbol": "E1",
         "forfeit": "5",
-        "gametext": "This card has your Rep's species. When deployed, may retrieve a Rep or place a Rep stacked on your Objective in Used Pile. Once per turn, if Fearless And Inventive on table and you just retrieved Force, may place top card of Used Pile on Force Pile.",
+        "gametext": "This card has your non-[Maintenance] Rep's species. When deployed, may place a Rep stacked on your Objective in Used Pile. Once per turn, if this card has your Rep's species and you just retrieved Force, may place top card of Used Pile on Force Pile.",
         "icons": [
           "Warrior x3",
           "Set 16"
@@ -64437,7 +64478,10 @@
       "counterpart": "The Rise Of Skywalker",
       "front": {
         "destiny": "3",
-        "gametext": "LOST: Raise your converted location to the top. STARTING: If your starting location was a battleground, deploy Revenge Of The Sith and up to three Effects that deploy for free and are always immune to Alter. Place Interrupt in hand.",
+        "errataDate": "2024-12-30",
+        "errataNotes": "Added 'non-Palace' to game text.",
+        "errataSymbol": "E1",
+        "gametext": "LOST: Raise your converted location to the top. STARTING: If your starting location was a non-Palace battleground, deploy Revenge Of The Sith and up to three Effects that deploy for free and are always immune to Alter. Place Interrupt in hand.",
         "icons": [
           "Episode I",
           "Set 17"
@@ -65125,7 +65169,10 @@
       ],
       "back": {
         "destiny": "7",
-        "gametext": "A Great Tactician Creates Plans: Deploy Lothal system, Advanced Projects Laboratory, Imperial Complex, and Thrawn's Art Collection. For remainder of game, you may not deploy Chiraneau or [Episode I] (or [Episode VII]) cards with ability or [Presence]. Once per turn, may deploy a battleground system (or a site to Lothal) from Reserve Deck; reshuffle. While this side up, Imperial Star Destroyers deploy -1 (-3 if Chimaera). Flip this card during any deploy phase if Thrawn at a battleground and two artwork cards on table. The Result Is Often Resentment: While this side up, if a battle was just initiated involving an Imperial leader or piloted TIE defender, may 'study' one artwork card. If it is a weapon, cancel the battle. Otherwise, if possible, if its printed destiny number is: (0-2) opponent's immunity to attrition is canceled; (3-4) opponent excludes their character from battle; (5+) add 3 to your total power. Place artwork card in owner's Lost Pile. Flip this card if Thrawn not on table or (except during battle) if no artwork cards on table.",
+        "errataDate": "2024-12-30",
+        "errataNotes": "Original canceled the battle if the artwork card was a weapon. Also, original result for an artwork card of destiny 3-4 was for opponent to exclude one of their characters from battle.",
+        "errataSymbol": "E1",
+        "gametext": "A Great Tactician Creates Plans: Deploy Lothal system, Advanced Projects Laboratory, Imperial Complex, and Thrawn's Art Collection. For remainder of game, you may not deploy Chiraneau or [Episode I] (or [Episode VII]) cards with ability or [Presence]. Once per turn, may deploy a battleground system (or a site to Lothal) from Reserve Deck; reshuffle. While this side up, Imperial Star Destroyers deploy -1 (-3 if Chimaera deploying to Lothal). Flip this card during any deploy phase if Thrawn at a battleground and two artwork cards on table. The Result Is Often Resentment: While this side up, if a battle was just initiated involving an Imperial leader or piloted TIE defender, may 'study' one artwork card. If possible, if its printed destiny number is: (0-2) opponent's immunity to attrition is canceled; (3-4) take a card with ability into hand from Reserve Deck; reshuffle; (5+) add 3 to your total power. Place artwork card in owner's Lost Pile. Flip this card if Thrawn not on table or (except during battle) if no artwork cards on table.",
         "icons": [
           "Set 19"
         ],
@@ -65137,10 +65184,10 @@
       },
       "front": {
         "destiny": "0",
-        "errataDate": "2022-12-12",
-        "errataNotes": "Original could not deploy any admirals except Thrawn, and pulling sites/systems was only while on the 0-side.",
-        "errataSymbol": "E1",
-        "gametext": "A Great Tactician Creates Plans: Deploy Lothal system, Advanced Projects Laboratory, Imperial Complex, and Thrawn's Art Collection. For remainder of game, you may not deploy Chiraneau or [Episode I] (or [Episode VII]) cards with ability or [Presence]. Once per turn, may deploy a battleground system (or a site to Lothal) from Reserve Deck; reshuffle. While this side up, Imperial Star Destroyers deploy -1 (-3 if Chimaera). Flip this card during any deploy phase if Thrawn at a battleground and two artwork cards on table. The Result Is Often Resentment: While this side up, if a battle was just initiated involving an Imperial leader or piloted TIE defender, may 'study' one artwork card. If it is a weapon, cancel the battle. Otherwise, if possible, if its printed destiny number is: (0-2) opponent's immunity to attrition is canceled; (3-4) opponent excludes their character from battle; (5+) add 3 to your total power. Place artwork card in owner's Lost Pile. Flip this card if Thrawn not on table or (except during battle) if no artwork cards on table.",
+        "errataDate": "2024-12-30",
+        "errataNotes": "E1 was same as E2 except it allowed Chimaera to deploy -3 anywhere. Original could not deploy any admirals except Thrawn, and pulling sites/systems was only while on the 0-side.",
+        "errataSymbol": "E2",
+        "gametext": "A Great Tactician Creates Plans: Deploy Lothal system, Advanced Projects Laboratory, Imperial Complex, and Thrawn's Art Collection. For remainder of game, you may not deploy Chiraneau or [Episode I] (or [Episode VII]) cards with ability or [Presence]. Once per turn, may deploy a battleground system (or a site to Lothal) from Reserve Deck; reshuffle. While this side up, Imperial Star Destroyers deploy -1 (-3 if Chimaera deploying to Lothal). Flip this card during any deploy phase if Thrawn at a battleground and two artwork cards on table. The Result Is Often Resentment: While this side up, if a battle was just initiated involving an Imperial leader or piloted TIE defender, may 'study' one artwork card. If possible, if its printed destiny number is: (0-2) opponent's immunity to attrition is canceled; (3-4) take a card with ability into hand from Reserve Deck; reshuffle; (5+) add 3 to your total power. Place artwork card in owner's Lost Pile. Flip this card if Thrawn not on table or (except during battle) if no artwork cards on table.",
         "icons": [
           "Set 19"
         ],
@@ -65340,8 +65387,11 @@
         "armor": "4",
         "deploy": "3",
         "destiny": "2",
+        "errataDate": "2024-12-30",
+        "errataNotes": "Previous text: If you just initiated battle here, battle damage against you here this turn is canceled. Once per turn, may target opponent's non-'hit' character here. If Fennec on table when target lost this turn, opponent loses 1 Force.",
+        "errataSymbol": "E1",
         "forfeit": "4",
-        "gametext": "If you just initiated battle here, battle damage against you here this turn is canceled. Once per turn, may target opponent's non-'hit' character here. If Fennec on table when target lost this turn, opponent loses 1 Force.",
+        "gametext": "While alone, draws one battle destiny if unable to otherwise. Once per game, during your control phase, may fire a weapon. During battle, while Quietly Observing on table, Fennec's weapon destiny draws are +2.",
         "icons": [
           "Warrior",
           "Set 19"
@@ -65484,10 +65534,10 @@
       "front": {
         "darkSideIcons": 2,
         "destiny": "0",
-        "errataDate": "2023-03-06",
-        "errataNotes": "E1 was a 2/0 system with this text: Dark: While you occupy with an admiral, gains one [Dark Side] icon. Light: While you control, opponent occupies with an admiral, or Lothal converted, gains one [Light Side] icon. Original was a 2/1 system with this text: Dark: While you control, at related battleground sites you control with an Imperial leader, your Force drains are +1. Light: If Ghost and Phantom piloted here, Force drain +1 here. If no Rebel starships piloted here, Force drain -1 here.",
-        "errataSymbol": "E2",
-        "gametext": "Dark: While you occupy, gains one [Dark Side] icon. Light: While you occupy, gains one [Light Side] icon. Unless Ghost or Phantom piloted here, Force drain -1 here.",
+        "errataDate": "2024-12-30",
+        "errataNotes": "E2 was a 2/1 system with this text: Dark: While you occupy, gains one [Dark Side] icon. Light: While you occupy, gains one [Light Side] icon. Unless Ghost or Phantom piloted here, Force drain -1 here. E1 was a 2/0 system with this text: Dark: While you occupy with an admiral, gains one [Dark Side] icon. Light: While you control, opponent occupies with an admiral, or Lothal converted, gains one [Light Side] icon. Original was a 2/1 system with this text: Dark: While you control, at related battleground sites you control with an Imperial leader, your Force drains are +1. Light: If Ghost and Phantom piloted here, Force drain +1 here. If no Rebel starships piloted here, Force drain -1 here.",
+        "errataSymbol": "E3",
+        "gametext": "Dark: While you occupy, gains one [Dark Side] icon. Light: Piloted Rebel starships here are power and forfeit +1 and immune to Gravity Shadow.",
         "icons": [
           "Planet",
           "Set 19"
@@ -65600,7 +65650,10 @@
       "front": {
         "darkSideIcons": 2,
         "destiny": "0",
-        "gametext": "Dark: If you control with a leader, once per battle at a related site, you may deploy a card as a `react'. Light: Your non-Rebel characters deploy +1 here.",
+        "errataDate": "2024-12-30",
+        "errataNotes": "Dark text unchanged. Previous Light text: Your non-Rebel characters deploy +1 here.",
+        "errataSymbol": "E1",
+        "gametext": "Dark: If you control with a leader, once per battle at a related site, you may deploy a card as a `react'. Light: Unless you occupy, your spies may not deploy here.",
         "icons": [
           "Interior",
           "Planet",
@@ -69422,12 +69475,15 @@
       "front": {
         "ability": "4",
         "deploy": "4",
-        "destiny": "1",
+        "destiny": "2",
+        "errataDate": "2024-12-30",
+        "errataNotes": "Was destiny 3. Previous text: Deploys -3 to a site with 'Vader' in game text. Once during your turn, may activate 1 Force. Once per game, may take a card with 'Vader' in title into hand from Reserve Deck; reshuffle.",
+        "errataSymbol": "E1",
         "extraText": [
           "Force-Sensitive"
         ],
         "forfeit": "4",
-        "gametext": "Deploys -3 to a site with 'Vader' in game text. Once during your turn, may activate 1 Force. Once per game, may take a card with 'Vader' in title into hand from Reserve Deck; reshuffle.",
+        "gametext": "Deploys -2 to Holotheatre, Meditation Chamber, or a Vader's Castle site. Once during your turn, may activate 1 Force. Once per game, may take a card with 'Vader' in title into hand from Reserve Deck; reshuffle.",
         "icons": [
           "Set 9"
         ],
@@ -69936,9 +69992,13 @@
         "ability": "2",
         "deploy": "2",
         "destiny": "3",
+        "errataDate": "2024-12-30",
+        "errataNotes": "Previous version did not have the [Endor] icon.",
+        "errataSymbol": "E1",
         "forfeit": "3",
         "gametext": "Adds 2 to power of anything he pilots. Once per game, may take Gideon into hand from Reserve Deck; reshuffle. While piloting a speeder bike, Grogu is forfeit -2 here and opponent's weapon destinies targeting your speeder bikes are -1 here.",
         "icons": [
+          "Endor",
           "Pilot",
           "Warrior",
           "Set 23"
@@ -70087,7 +70147,10 @@
       ],
       "front": {
         "destiny": "5",
-        "gametext": "Deploy on Bunker; may immediately take any one [Endor] or [Death Star II] card into hand from Force Pile; reshuffle. While an Imperial leader here, your total Force generation is +1. If opponent controls Bunker, place Effect in Used Pile. [Immune to Alter]",
+        "errataDate": "2024-12-30",
+        "errataNotes": "Added 'Perimeter Patrol is suspended.' to game text.",
+        "errataSymbol": "E1",
+        "gametext": "Deploy on Bunker; may immediately take any one [Endor] or [Death Star II] card into hand from Force Pile; reshuffle. While an Imperial leader here, your total Force generation is +1. Perimeter Patrol is suspended. If opponent controls Bunker, place Effect in Used Pile. [Immune to Alter.]",
         "icons": [
           "Endor",
           "Set 23"
