@@ -6452,8 +6452,11 @@
         ],
         "deploy": "2",
         "destiny": "2",
+        "errataDate": "2024-12-30",
+        "errataNotes": "Previous text: Adds 2 to the power of anything he pilots, 3 if Rogue One or a stolen starship. May be deployed simultaneously with a piloted starship from hand to a system even without presence or Force icons. If about to be lost, your Rebel or Rebel starship at a related location may make a regular move.",
+        "errataSymbol": "E1",
         "forfeit": "4",
-        "gametext": "Adds 2 to the power of anything he pilots, 3 if Rogue One or a stolen starship. May be deployed simultaneously with a piloted starship from hand to a system even without presence or Force icons. If about to be lost, your Rebel or Rebel starship at a related location may make a regular move.",
+        "gametext": "Adds 2 to the power of anything he pilots, 3 if Rogue One or a stolen starship. Once per game, during battle, may peek at opponent’s hand. If about to be lost, your Rebel or Rebel starship at a related location may make a regular move.",
         "icons": [
           "Pilot",
           "Warrior",
@@ -6740,6 +6743,9 @@
     {
       "front": {
         "ability": "4",
+        "characteristics": [
+          "smuggler"
+        ],
         "deploy": "3",
         "destiny": "1",
         "errataDate": "2024-12-30",
@@ -7039,8 +7045,7 @@
         }
       ],
       "pulledBy": [
-        "Leia's Back",
-        "Seeking An Audience (V)"
+        "Leia's Back"
       ],
       "rarity": "PM",
       "rulings": [
@@ -9045,7 +9050,6 @@
       "pulledBy": [
         "Beldon's Eye (V)",
         "Life Debt",
-        "Seeking An Audience (V)",
         "Soth Petikkin (when at a Jabba's Palace site you control)",
         "Wookiee Roar"
       ],
@@ -9098,7 +9102,6 @@
       "pulledBy": [
         "General Crix Madine",
         "Life Debt",
-        "Seeking An Audience (V)",
         "Wookiee Roar"
       ],
       "pulls": [
@@ -9158,7 +9161,6 @@
       "pulledBy": [
         "Beldon's Eye (V)",
         "Life Debt",
-        "Seeking An Audience (V)",
         "Wookiee Roar"
       ],
       "rarity": "PM",
@@ -9298,7 +9300,6 @@
       "pulledBy": [
         "Beldon's Eye (V)",
         "Life Debt",
-        "Seeking An Audience (V)",
         "Wookiee Roar"
       ],
       "rarity": "PM",
@@ -9349,7 +9350,6 @@
       ],
       "pulledBy": [
         "Life Debt",
-        "Seeking An Audience (V)",
         "Wookiee Roar"
       ],
       "rarity": "PM",
@@ -9410,7 +9410,6 @@
       "pulledBy": [
         "Beldon's Eye (V)",
         "Life Debt",
-        "Seeking An Audience (V)",
         "Wookiee Roar"
       ],
       "rarity": "PM",
@@ -14462,7 +14461,6 @@
         "Anakin Skywalker (V)",
         "I Know",
         "Leia's Back",
-        "Seeking An Audience (V)",
         "Yavin 4: Massassi War Room (V)"
       ],
       "rarity": "R",
@@ -14529,7 +14527,6 @@
         "Anakin Skywalker (V)",
         "I Know",
         "Leia's Back",
-        "Seeking An Audience (V)",
         "Yavin 4: Massassi War Room (V)"
       ],
       "rarity": "R",
@@ -20786,7 +20783,6 @@
         "Cloud City: Security Tower",
         "Lobot (V) as a 'react'",
         "Rebel Leadership (V)",
-        "Seeking An Audience (V)",
         "Strike Planning",
         "Yavin 4: Massassi War Room (V)"
       ],
@@ -21314,7 +21310,6 @@
         "I Know",
         "Leia's Back",
         "Rebel Leadership (V)",
-        "Seeking An Audience (V)",
         "Strike Planning"
       ],
       "rarity": "R",
@@ -23790,8 +23785,7 @@
       ],
       "pulledBy": [
         "Han's Back",
-        "Life Debt",
-        "Seeking An Audience (V)"
+        "Life Debt"
       ],
       "rarity": "PM",
       "rulings": [
@@ -29228,11 +29222,14 @@
         ],
         "deploy": "4",
         "destiny": "3",
+        "errataDate": "2024-12-30",
+        "errataNotes": "Forfeit increased from 4 to 5. Previous text: Adds 2 to the power of anything he pilots. Draws one battle destiny if unable to otherwise. While with Cassian, attrition against opponent is +1 here. If just lost, place out of play; if lost from a site, opponent may not move from there for remainder of turn.",
+        "errataSymbol": "E1",
         "extraText": [
           "Security Droid"
         ],
-        "forfeit": "4",
-        "gametext": "Adds 2 to the power of anything he pilots. Draws one battle destiny if unable to otherwise. While with Cassian, attrition against opponent is +1 here. If just lost, place out of play; if lost from a site, opponent may not move from there for remainder of turn.",
+        "forfeit": "5",
+        "gametext": "Adds 2 to the power of anything he pilots. Deploys -1 to Data Vault. Draws one battle destiny if unable to otherwise. While with Cassian or at Data Vault, your total battle destiny here is +1. If just lost from a site, may take Jyn into hand from Reserve Deck; reshuffle.",
         "icons": [
           "Pilot",
           "Warrior",
@@ -30985,8 +30982,7 @@
         }
       ],
       "pulledBy": [
-        "Lobot (V) as a 'react'",
-        "Seeking An Audience (V)"
+        "Lobot (V) as a 'react'"
       ],
       "rarity": "R",
       "set": "5",
@@ -31045,8 +31041,7 @@
         }
       ],
       "pulledBy": [
-        "Lobot (V) as a 'react'",
-        "Seeking An Audience (V)"
+        "Lobot (V) as a 'react'"
       ],
       "pulls": [
         "Cloud City Trooper",
@@ -31162,8 +31157,7 @@
       "pulledBy": [
         "Beldon's Eye (V)",
         "Life Debt",
-        "Local Defense",
-        "Seeking An Audience (V)"
+        "Local Defense"
       ],
       "rarity": "PM",
       "set": "109",
@@ -31220,7 +31214,6 @@
       ],
       "pulledBy": [
         "Lobot (V) as a 'react'",
-        "Seeking An Audience (V)",
         "Soth Petikkin (when at a Jabba's Palace site you control)"
       ],
       "rarity": "PM",
@@ -31284,7 +31277,6 @@
       ],
       "pulledBy": [
         "Lobot (V) as a 'react'",
-        "Seeking An Audience (V)",
         "Soth Petikkin (when at a Jabba's Palace site you control)"
       ],
       "rarity": "PM",
@@ -31682,7 +31674,6 @@
       "pulledBy": [
         "I Know",
         "Leia's Back",
-        "Seeking An Audience (V)",
         "Yavin 4: Massassi War Room (V)"
       ],
       "rarity": "PM",
@@ -31868,7 +31859,6 @@
         "I Know",
         "Leia's Back",
         "Might Of The Republic",
-        "Seeking An Audience (V)",
         "Yavin 4: Massassi War Room (V)"
       ],
       "rarity": "R1",
@@ -31978,7 +31968,6 @@
       "pulledBy": [
         "I Know",
         "Leia's Back",
-        "Seeking An Audience (V)",
         "Yavin 4: Massassi War Room (V)"
       ],
       "rarity": "PM",
@@ -36899,11 +36888,14 @@
         ],
         "deploy": "3",
         "destiny": "2",
+        "errataDate": "2024-12-30",
+        "errataNotes": "Previous text: Adds 2 to power of anything he pilots. Opponent's starships here may not 'cloak.' Smoke Screen is a Used Interrupt when targeting Melas.",
+        "errataSymbol": "E1",
         "extraText": [
           "Force-Sensitive"
         ],
         "forfeit": "4",
-        "gametext": "Adds 2 to power of anything he pilots. Opponent's starships here may not 'cloak.' Smoke Screen is a Used Interrupt when targeting Melas.",
+        "gametext": "Adds 2 to power of anything he pilots. Your StarSpeeders are destiny +2 and move for free. Once per turn, may place a card from hand on Used Pile to 'smoke pipe' (for remainder of turn, Melas is power and defense value +2 and may not move).",
         "icons": [
           "Pilot",
           "Special Edition",
@@ -39628,13 +39620,16 @@
         "characteristics": [
           "general"
         ],
-        "deploy": "6",
+        "deploy": "5",
         "destiny": "1",
+        "errataDate": "2024-12-30",
+        "errataNotes": "Deploy reduced from 6 to 5. Previous text: Obi-Wan's deploy cost may not be increased. Power +1 for each Dark Jedi here. Once per game, may exchange two cards in hand with any one card in Lost Pile. Immune to attrition < 5.",
+        "errataSymbol": "E1",
         "extraText": [
           "Jedi Knight"
         ],
         "forfeit": "9",
-        "gametext": "Obi-Wan's deploy cost may not be increased. Power +1 for each Dark Jedi here. Once per game, may exchange two cards in hand with any one card in Lost Pile. Immune to attrition < 5.",
+        "gametext": "Obi-Wan's deploy cost may not be increased. Power +1 for each Dark Jedi or Skywalker here. Your 'hit' characters here may not be targeted to be lost. Once per game, may exchange two cards in hand with any one card in Lost Pile. Immune to attrition < 5.",
         "icons": [
           "Warrior",
           "Set 1"
@@ -43054,8 +43049,7 @@
       "pulledBy": [
         "I Know",
         "Leia's Back",
-        "Might Of The Republic",
-        "Seeking An Audience (V)"
+        "Might Of The Republic"
       ],
       "rarity": "R",
       "rulings": [
@@ -43116,7 +43110,6 @@
         "I Know",
         "Leia's Back",
         "Might Of The Republic",
-        "Seeking An Audience (V)",
         "Yavin 4: Massassi War Room (V)"
       ],
       "pulls": [
@@ -43236,7 +43229,6 @@
         "I Know",
         "Leia's Back",
         "Might Of The Republic",
-        "Seeking An Audience (V)",
         "Yavin 4: Massassi War Room (V)"
       ],
       "pulls": [
@@ -44740,12 +44732,14 @@
           2,
           5
         ],
-        "errataSymbol": "E2",
+        "errataDate": "2024-12-30",
+        "errataNotes": "E2 version text: While aboard a starfighter, adds 2 to power, maneuver, and hyperspeed. While present with a Scomp link, adds one [Light Side] icon here. Immune to Fire Extinguisher and Restraining Bolt.",
+        "errataSymbol": "E3",
         "extraText": [
           "Astromech Droid"
         ],
         "forfeit": "4",
-        "gametext": "While aboard a starfighter, adds 2 to power, maneuver, and hyperspeed. While with a Scomp link, adds one [Light Side] icon here. Immune to Fire Extinguisher and Restraining Bolt.",
+        "gametext": "While aboard a starfighter, adds 2 to power, maneuver, and hyperspeed. While present with a Scomp link, adds one [Light Side] icon here and, during battles at same and related interior sites, once per turn may use 1 Force to subtract 1 from a just drawn destiny.",
         "icons": [
           "Nav Computer",
           "A New Hope",
@@ -48212,8 +48206,11 @@
         ],
         "deploy": "4",
         "destiny": "1",
+        "errataDate": "2024-12-30",
+        "errataNotes": "Added 'Once per game' to the Used Pile pull.",
+        "errataSymbol": "E1",
         "forfeit": "7",
-        "gametext": "Adds 3 to power of anything she pilots. When deployed, may take any card from Used Pile into hand; reshuffle. Your total battle destiny here is +1. Once per turn, may draw bottom card of your Force Pile. Immune to attrition < 3 (< 6 if on Jakku).",
+        "gametext": "Adds 3 to power of anything she pilots. Once per game, when deployed, may take any card into hand from Used Pile; reshuffle. Your total battle destiny here is +1. Once per turn, may draw bottom card of your Force Pile. Immune to attrition < 3 (< 6 if on Jakku).",
         "icons": [
           "Pilot",
           "Warrior",
@@ -48265,8 +48262,11 @@
         ],
         "deploy": "4",
         "destiny": "1",
+        "errataDate": "2024-12-30",
+        "errataNotes": "Added 'Once per game' to the Used Pile pull.",
+        "errataSymbol": "E1",
         "forfeit": "7",
-        "gametext": "Adds 3 to power of anything she pilots. When deployed, may take any card from Used Pile into hand; reshuffle. Your total battle destiny here is +1. Once per turn, may draw bottom card of your Force Pile. Immune to attrition < 3 (< 6 if on Jakku).",
+        "gametext": "Adds 3 to power of anything she pilots. Once per game, when deployed, may take any card into hand from Used Pile; reshuffle. Your total battle destiny here is +1. Once per turn, may draw bottom card of your Force Pile. Immune to attrition < 3 (< 6 if on Jakku).",
         "icons": [
           "Pilot",
           "Warrior",
@@ -50674,8 +50674,13 @@
       "counterpart": "Jabba's Haven",
       "front": {
         "destiny": "4",
-        "gametext": "If a Jabba's Palace site on table, deploy on table. His Name Is Anakin is canceled. Once per turn, if Han frozen, may use 2 Force to deploy a non-[Reflections 3]: C-3PO, Chewie, Lando, Leia or R2-D2 from Reserve Deck; reshuffle. Once per game, may place this Effect out of play to retrieve an alien or [Independent] starship into hand. (Immune to Alter.)",
+        "errataDate": "2024-12-30",
+        "errataNotes": "Gained [Jabba's Palace] and [Personal Force] icons. Previous text: If a Jabba's Palace site on table, deploy on table. His Name Is Anakin is canceled. Once per turn, if Han frozen, may use 2 Force to deploy a non-[Reflections 3]: C-3PO, Chewie, Lando, Leia or R2-D2 from Reserve Deck; reshuffle. Once per game, may place this Effect out of play to retrieve an alien or [Independent] starship into hand. [Immune to Alter.]",
+        "errataSymbol": "E1",
+        "gametext": "If Han is frozen, deploy on table. Your personal Force generation = 2. Once per turn, may ▼ C-3PO, R2-D2, [Jabba's Palace] Lando, or [Jabba's Palace] Leia to a Jabba's Palace site. Once per game, may retrieve R2-D2. [Immune to Alter.]",
         "icons": [
+          "Jabba's Palace",
+          "Personal Force",
           "Premium",
           "Set 1"
         ],
@@ -50703,40 +50708,18 @@
       ],
       "pulls": [
         "Artoo",
+        "Artoo (V)",
         "Artoo & Threepio",
         "Artoo-Detoo In Red 5",
         "Artoo, Brave Little Droid",
         "R2-D2 & C-3PO",
         "R2-D2 (Artoo-Detoo)",
         "R2-D2 (Artoo-Detoo) (V)",
-        "Boushh",
-        "Daughter Of Skywalker",
-        "Daughter Of Skywalker (V)",
-        "General Leia Organa",
-        "Leia",
-        "Leia (V)",
-        "Leia Organa",
-        "Leia Organa (V)",
-        "Leia With Blaster Rifle",
-        "Princess Leia",
-        "Princess Leia (V)",
+        "Boushh (V)",
         "Princess Leia Organa",
-        "Princess Organa",
-        "Chewbacca",
-        "Chewbacca Of Kashyyyk",
-        "Chewbacca, Protector",
-        "Chewie",
-        "Chewie (V)",
-        "Chewie With Blaster Rifle",
-        "Chewie With Bowcaster",
-        "General Calrissian",
-        "Lando Calrissian",
-        "Lando Calrissian (V)",
-        "Lando In Millennium Falcon",
-        "Lando With Blaster Pistol",
-        "Lando With Vibro-Ax",
         "Tamtel Skreej",
         "C-3PO (See-Threepio)",
+        "C-3PO (See-Threepio) (V)",
         "See-Threepio",
         "Threepio",
         "Threepio With His Parts Showing"
@@ -60766,7 +60749,10 @@
     {
       "front": {
         "destiny": "4",
-        "gametext": "If We Have A Plan on table, deploy on table. Imperials deploy +1 to Theed Palace Throne Room and, while you occupy that site, you may ignore your Objective's location deployment restrictions. Once per game, may take an [Episode I] system and/or a [Theed Palace] leader into hand from Reserve Deck; reshuffle. (Immune to Alter.)",
+        "errataDate": "2024-12-30",
+        "errataNotes": "Previous text: If We Have A Plan on table, deploy on table. Imperials deploy +1 to Theed Palace Throne Room and, while you occupy that site, you may ignore your Objective's location deployment restrictions. Once per game, may take an [Episode I] system and/or a [Theed Palace] leader into hand from Reserve Deck; reshuffle. [Immune to Alter.]",
+        "errataSymbol": "E1",
+        "gametext": "If We Have A Plan on table, deploy on table. Wokling is canceled. While you occupy Theed Palace Throne Room, you may ignore your Objective’s location deployment restrictions. Once per game, may take an [Episode I] system and/or [Theed Palace] leader into hand from Reserve Deck; reshuffle. [Immune to Alter.]",
         "icons": [
           "Episode I",
           "Set 1"
@@ -61671,10 +61657,13 @@
       "conceptBy": "(Original concept by Eric Hunter - Gen Con Winner 2002)",
       "front": {
         "destiny": "2",
-        "errataSymbol": "E1",
-        "gametext": "Unless Massassi Throne Room on table, deploy on table.  Your total Force generation is +1.  Once per game, may use 3 Force to take an Effect that has no deploy cost and deploys on another card into hand from Reserve Deck; reshuffle.  May place this Effect out of play to retrieve 1 Force. (Immune to Alter.)",
+        "errataDate": "2024-12-30",
+        "errataNotes": "Added [Personal Force] icon. Previous (E1 version) text: Unless Massassi Throne Room on table, deploy on table. Your total Force generation is +1. Once per game, may use 3 Force to take an Effect that has no deploy cost and deploys on another card into hand from Reserve Deck; reshuffle. May place this Effect out of play to retrieve 1 Force. [Immune to Alter.]",
+        "errataSymbol": "E2",
+        "gametext": "Unless Massassi Throne Room on table, deploy on table. Your personal Force generation = 2. Once per game, may use 3 Force to take an Effect that has no deploy cost and deploys on another card into hand from Reserve Deck; reshuffle. May place this Effect out of play to retrieve 1 Force. [Immune to Alter.]",
         "icons": [
           "Endor",
+          "Personal Force",
           "Set 0"
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual0-Light/large/wokling.gif",
@@ -64783,7 +64772,6 @@
       "pulledBy": [
         "Beldon's Eye (V)",
         "Life Debt",
-        "Seeking An Audience (V)",
         "Soth Petikkin (when at a Jabba's Palace site you control)",
         "Wookiee Roar"
       ],
@@ -64925,8 +64913,11 @@
     {
       "front": {
         "ability": "7",
-        "deploy": "6",
+        "deploy": "7",
         "destiny": "1",
+        "errataDate": "2024-12-30",
+        "errataNotes": "Deploy increased from 6 to 7.",
+        "errataSymbol": "E1",
         "extraText": [
           "Jedi Master"
         ],
@@ -66417,12 +66408,14 @@
         ],
         "deploy": "4",
         "destiny": "1",
-        "errataSymbol": "E2",
+        "errataDate": "2024-12-30",
+        "errataNotes": "The E3 version is the same as E2 except that E3 adds 'Draws one battle destiny if unable to otherwise.'",
+        "errataSymbol": "E3",
         "extraText": [
           "Force-Attuned"
         ],
         "forfeit": "6",
-        "gametext": "Adds 3 to power of anything he pilots. Cancels Kylo's game text here. When deployed, may reveal the top two cards of your Reserve Deck; take one into hand. During battle with Chewie or [Endor] Leia, may add one destiny to total power.",
+        "gametext": "Adds 3 to power of anything he pilots. When deployed, may reveal the top two cards of your Reserve Deck; take one into hand. Cancels Kylo's game text here. Draws one battle destiny if unable to otherwise. During battle with Chewie or [Endor] Leia, may add one destiny to total power.",
         "icons": [
           "Endor",
           "Pilot",
@@ -67062,7 +67055,6 @@
       "pulledBy": [
         "General Crix Madine",
         "Life Debt",
-        "Seeking An Audience (V)",
         "Wookiee Guide (V)",
         "Wookiee Roar"
       ],
@@ -67279,13 +67271,16 @@
     {
       "front": {
         "ability": "4",
-        "deploy": "4",
+        "deploy": "3",
         "destiny": "2",
+        "errataDate": "2024-12-30",
+        "errataNotes": "Deploy/Forfeit changed from 4/6 to 3/4. Previous text: While defending a battle, Interrupts may not be played unless they are [Immune to Sense]. Opponent may not target Grogu with weapons unless each of your Mandalorians and non-[Episode I] Jedi present are 'hit.' Immune to attrition < 3.",
+        "errataSymbol": "E1",
         "extraText": [
           "Force-Sensitive"
         ],
-        "forfeit": "6",
-        "gametext": "While defending a battle, Interrupts may not be played unless they are [Immune to Sense]. Opponent may not target Grogu with weapons unless each of your Mandalorians and non-[Episode I] Jedi present are 'hit.' Immune to attrition < 3.",
+        "forfeit": "4",
+        "gametext": "May deploy Foundling on Grogu from Reserve Deck (reshuffle) or Lost Pile. Once per game, if present during battle, may cancel a non-[Immune to Sense] Interrupt or place your just lost Mandalorian in Used Pile. Immune to attrition < 3.",
         "icons": [
           "Set 16"
         ],
@@ -68041,11 +68036,14 @@
         ],
         "deploy": "4",
         "destiny": "2",
+        "errataDate": "2024-12-30",
+        "errataNotes": "Power increased from 2 to 4. Previous text: During battle at a site, may add one destiny to total power. Once during battle, unless 'hit,' may lose this character to restore your 'hit' character here to normal.",
+        "errataSymbol": "E1",
         "extraText": [
           "Roar 4"
         ],
         "forfeit": "4",
-        "gametext": "During battle at a site, may add one destiny to total power. Once during battle, unless 'hit,' may lose this character to restore your 'hit' character here to normal.",
+        "gametext": "Power +1 at a Kashyyyk site. While present at a Kashyyyk site, opponent may not cancel or modify your Force drains here. Unless 'hit,' may forfeit in place of your other 'hit' character at same site, restoring that character to normal.",
         "icons": [
           "Warrior",
           "Episode I",
@@ -68053,7 +68051,7 @@
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual16-Light/large/wookieewarrior.gif",
         "lore": "Blank.",
-        "power": "2",
+        "power": "4",
         "subType": "Alien",
         "title": "•••Wookiee Warrior",
         "type": "Character",
@@ -70372,11 +70370,14 @@
           1,
           6
         ],
+        "errataDate": "2024-12-30",
+        "errataNotes": "Previous text: Once per game, may use 1 Force to shuffle opponent's Reserve Deck or place opponent's just-played Interrupt out of play. If in battle with Anakin or Luke, may draw one destiny and subtract that amount from opponent's attrition.",
+        "errataSymbol": "E1",
         "extraText": [
           "Astromech Droid"
         ],
         "forfeit": "4",
-        "gametext": "Once per game, may use 1 Force to shuffle opponent's Reserve Deck or place opponent's just-played Interrupt out of play. If in battle with Anakin or Luke, may draw one destiny and subtract that amount from opponent's attrition.",
+        "gametext": "When deployed, may play a Defensive Shield from under your Starting Effect (as if from hand). Once per game, may use 1 Force to place opponent’s just-played Interrupt out of play. While with Anakin, C-3PO, or Luke, attrition against you here is -2.",
         "icons": [
           "Jabba's Palace",
           "Nav Computer",
@@ -70664,8 +70665,11 @@
         "armor": "5",
         "deploy": "4",
         "destiny": "2",
+        "errataDate": "2024-12-30",
+        "errataNotes": "Previous text: Adds 3 to power of anything he pilots. During battle, if another Mandalorian here, opponent's total power is -3. At the end of a battle here, may return Fenn Rau to hand to activate 2 Force (if Fenn Rau won a battle this turn, may also retrieve 1 Force).",
+        "errataSymbol": "E1",
         "forfeit": "5",
-        "gametext": "[Pilot] 3. During battle, if another Mandalorian here, opponent's total power is -3. At the end of a battle here, may return Fenn Rau to hand to activate 2 Force (if Fenn Rau won a battle this turn, may also retrieve 1 Force).",
+        "gametext": "Adds 3 to power of anything he pilots. During battle, if another Mandalorian here, opponent's total power is -2. Once per game, at the end of a battle here, may return Fenn Rau to hand to activate 2 Force (if Fenn Rau won a battle this turn, may also retrieve 1 Force).",
         "icons": [
           "Pilot",
           "Warrior",
@@ -71482,7 +71486,6 @@
       "pulledBy": [
         "Beldon's Eye (V)",
         "Life Debt",
-        "Seeking An Audience (V)",
         "Wookiee Roar"
       ],
       "rarity": "PM",
@@ -73792,7 +73795,6 @@
         "I Know",
         "Leia's Back",
         "Rebel Leadership (V)",
-        "Seeking An Audience (V)",
         "Strike Planning"
       ],
       "rarity": "R",
@@ -74075,12 +74077,14 @@
           2,
           5
         ],
-        "errataSymbol": "E2",
+        "errataDate": "2024-12-30",
+        "errataNotes": "E2 version text: While aboard a starfighter, adds 2 to power, maneuver, and hyperspeed. While present with a Scomp link, adds one [Light Side] icon here. Immune to Fire Extinguisher and Restraining Bolt.",
+        "errataSymbol": "E3",
         "extraText": [
           "Astromech Droid"
         ],
         "forfeit": "4",
-        "gametext": "While aboard a starfighter, adds 2 to power, maneuver, and hyperspeed. While with a Scomp link, adds one [Light Side] icon here. Immune to Fire Extinguisher and Restraining Bolt.",
+        "gametext": "While aboard a starfighter, adds 2 to power, maneuver, and hyperspeed. While present with a Scomp link, adds one [Light Side] icon here and, during battles at same and related interior sites, once per turn may use 1 Force to subtract 1 from a just drawn destiny.",
         "icons": [
           "Nav Computer",
           "A New Hope",
