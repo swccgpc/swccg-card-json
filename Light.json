@@ -14259,9 +14259,13 @@
         ],
         "deploy": "3",
         "destiny": "2",
+        "errataDate": "2024-12-30",
+        "errataNotes": "Previous text: May add 1 pilot. Permanent pilot is •Dash, who provides ability of 3. During battle, if with another T-47 and about to draw battle destiny, may draw two and choose one. Immune to attrition < 4.",
+        "errataSymbol": "E2",
         "forfeit": "5",
-        "gametext": "May add 1 pilot. Permanent pilot is •Dash, who provides ability of 3. During battle, if with another T-47 and about to draw battle destiny, may draw two and choose one. Immune to attrition < 4.",
+        "gametext": "May add 1 pilot. Permanent pilot is •Dash, who provides ability of 3. Unless this card 'hit', other T-47s here may not be targeted by Crash Landing, High-speed Tactics, or weapons. Immune to attrition < 4.",
         "icons": [
+          "Hoth",
           "Pilot",
           "Set 1"
         ],
@@ -15508,27 +15512,31 @@
       "back": {
         "destiny": "7",
         "errataSymbol": "E1",
-        "gametext": "Diplomatic Mission To Alderaan:Deploy Tatooine system (with Tantive IV, non-[Reflections 2] R2-D2, and Stolen Data Tapes there) and Dune Sea.{For} remainder of game, you may not deploy Sandwhirl or [Episode I] Jedi.{While} this side up, your Force drains at Tatooine system are -1. Once per turn, may deploy Alderaan or a Tatooine battleground site from Reserve Deck; reshuffle. Until the start of your turn, Tantive IV may be forfeited to satisfy all battle damage against you.{Flip} this card if Stolen Data Tapes 'delivered' and Rebels control two battlegrounds (a site and a system).A Weakness Can Be Found:{While} this this side up, your total battle destiny is +X, where X = number of battlegrounds occupied by Rebels of ability < 4. Once per turn, may deploy Alderaan or a Tatooine battleground site from Reserve Deck; reshuffle. Once per turn, if you just won a battle, may retrieve 1 Force.{Flip} this card if you do not occupy a battleground site and a battleground system (or you do not control any locations).",
+        "gametext": "Diplomatic Mission To Alderaan: Deploy Tatooine system (with Tantive IV, non-[Reflections II] R2-D2, and Stolen Data Tapes there) and Dune Sea. For remainder of game, you may not deploy Sandwhirl, Strike Planning, Admiral's Orders, or [Episode I] Jedi. While this side up, your Force drains at Tatooine system are -2. Once per turn, may deploy Alderaan or a Tatooine battleground site from Reserve Deck; reshuffle. Until the start of your first turn, Tantive IV may be forfeited to cancel all remaining battle damage. Flip this card if Stolen Data Tapes 'delivered' and Rebels control two battlegrounds (a site and a system). A Weakness Can Be Found: While this this side up, your total battle destiny is +X, where X = number of battlegrounds occupied by Rebels of ability < 4. Once per turn, may deploy Alderaan or a Tatooine battleground site from Reserve Deck; reshuffle. Once per turn, if you just won a battle, may retrieve 1 Force. Flip this card if you do not occupy a battleground site and a battleground system (or you do not control any locations).",
         "icons": [
+          "A New Hope",
           "Set 3"
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual3-Light/large/aweaknesscanbefound.gif",
         "title": "Diplomatic Mission To Alderaan / A Weakness Can Be Found",
         "type": "Objective",
-        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Diplomatic Mission To Alderaan/image.png",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/A Weakness Can Be Found/image.png",
         "printableSlipType": "VIRTUAL"
       },
       "front": {
         "destiny": "0",
-        "errataSymbol": "E1",
-        "gametext": "Diplomatic Mission To Alderaan:Deploy Tatooine system (with Tantive IV, non-[Reflections 2] R2-D2, and Stolen Data Tapes there) and Dune Sea.{For} remainder of game, you may not deploy Sandwhirl or [Episode I] Jedi.{While} this side up, your Force drains at Tatooine system are -1. Once per turn, may deploy Alderaan or a Tatooine battleground site from Reserve Deck; reshuffle. Until the start of your turn, Tantive IV may be forfeited to satisfy all battle damage against you.{Flip} this card if Stolen Data Tapes 'delivered' and Rebels control two battlegrounds (a site and a system).A Weakness Can Be Found:{While} this this side up, your total battle destiny is +X, where X = number of battlegrounds occupied by Rebels of ability < 4. Once per turn, may deploy Alderaan or a Tatooine battleground site from Reserve Deck; reshuffle. Once per turn, if you just won a battle, may retrieve 1 Force.{Flip} this card if you do not occupy a battleground site and a battleground system (or you do not control any locations).",
+        "errataDate": "2024-12-30",
+        "errataNotes": "Compared to E1 version, the E2 version bans Strike Planning and Admiral's Orders and increases the Tatooine Force drain penalty from -1 to -2.",
+        "errataSymbol": "E2",
+        "gametext": "Diplomatic Mission To Alderaan: Deploy Tatooine system (with Tantive IV, non-[Reflections II] R2-D2, and Stolen Data Tapes there) and Dune Sea. For remainder of game, you may not deploy Sandwhirl, Strike Planning, Admiral's Orders, or [Episode I] Jedi. While this side up, your Force drains at Tatooine system are -2. Once per turn, may deploy Alderaan or a Tatooine battleground site from Reserve Deck; reshuffle. Until the start of your first turn, Tantive IV may be forfeited to cancel all remaining battle damage. Flip this card if Stolen Data Tapes 'delivered' and Rebels control two battlegrounds (a site and a system). A Weakness Can Be Found: While this this side up, your total battle destiny is +X, where X = number of battlegrounds occupied by Rebels of ability < 4. Once per turn, may deploy Alderaan or a Tatooine battleground site from Reserve Deck; reshuffle. Once per turn, if you just won a battle, may retrieve 1 Force. Flip this card if you do not occupy a battleground site and a battleground system (or you do not control any locations).",
         "icons": [
+          "A New Hope",
           "Set 3"
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual3-Light/large/diplomaticmissiontoalderaan.gif",
         "title": "Diplomatic Mission To Alderaan / A Weakness Can Be Found",
         "type": "Objective",
-        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/A Weakness Can Be Found/image.png",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Diplomatic Mission To Alderaan/image.png",
         "printableSlipType": "VIRTUAL"
       },
       "gempId": "203_19",
@@ -62540,7 +62548,7 @@
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual8-Light/large/thetimetofightisnow.gif",
         "title": "Yavin 4 Base Operations / The Time To Fight Is Now",
         "type": "Objective",
-        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Yavin 4 Base Operations/image.png",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/The Time To Fight Is Now/image.png",
         "printableSlipType": "VIRTUAL"
       },
       "front": {
@@ -62553,7 +62561,7 @@
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual8-Light/large/yavin4baseoperations.gif",
         "title": "Yavin 4 Base Operations / The Time To Fight Is Now",
         "type": "Objective",
-        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/The Time To Fight Is Now/image.png",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Yavin 4 Base Operations/image.png",
         "printableSlipType": "VIRTUAL"
       },
       "gempId": "208_26",
@@ -66015,8 +66023,11 @@
     },
     {
       "front": {
-        "destiny": "2",
-        "gametext": "Deploy on Ahsoka or a non-[Episode I] Padawan. May target a character or creature for free. Draw two destiny. Target hit, and may not be used to satisfy attrition, if total destiny > defense value (if hit target is an Inquisitor, opponent also loses 1 Force).",
+        "destiny": "5",
+        "errataDate": "2024-12-30",
+        "errataNotes": "Previous text: Deploy on Ahsoka or a non-[Episode I] Padawan. May target a character or creature for free. Draw two destiny. Target hit, and may not be used to satisfy attrition, if total destiny > defense value (if hit target is an Inquisitor, opponent also loses 1 Force).",
+        "errataSymbol": "E1",
+        "gametext": "Deploy on a Jedi or Padawan. May target a character or creature for free. Draw two destiny. Target hit, and may not be used to satisfy attrition, if total destiny > defense value. If hit by Ahsoka or a Padawan, opponent loses 1 Force.",
         "icons": [
           "Set 14"
         ],
@@ -71145,7 +71156,7 @@
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual19-Light/large/liberationoflothal.gif",
         "title": "Zero Hour / Liberation Of Lothal",
         "type": "Objective",
-        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Zero Hour/image.png",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Liberation Of Lothal/image.png",
         "printableSlipType": "VIRTUAL"
       },
       "front": {
@@ -71157,7 +71168,7 @@
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual19-Light/large/zerohour.gif",
         "title": "Zero Hour / Liberation Of Lothal",
         "type": "Objective",
-        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Liberation Of Lothal/image.png",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Zero Hour/image.png",
         "printableSlipType": "VIRTUAL"
       },
       "gempId": "219_48",
@@ -71223,8 +71234,11 @@
         ],
         "deploy": "3",
         "destiny": "2",
+        "errataDate": "2024-12-30",
+        "errataNotes": "Previous text: May add 2 pilots and 2 passengers. Once per game, if your [Reflections II] or [Skywalker] site on table, may deploy Han or Chewie aboard from Reserve Deck; reshuffle. While Han or Chewie piloting, immune to attrition < 5 (< 7 if both).",
+        "errataSymbol": "E1",
         "forfeit": "7",
-        "gametext": "May add 2 pilots and 2 passengers. Once per game, if your [Reflections II] or [Skywalker] site on table, may deploy Han or Chewie aboard from Reserve Deck; reshuffle. While Han or Chewie piloting, immune to attrition < 5 (< 7 if both).",
+        "gametext": "May add 2 pilots and 2 passengers. Once per game, may deploy Han or Chewie aboard from Reserve Deck; reshuffle. While [A New Hope] Han piloting, Force drain +1 here. While Han or Chewie piloting, immune to attrition < 5 (< 7 if both).",
         "hyperspeed": "6",
         "icons": [
           "Scomp Link",
@@ -72833,7 +72847,7 @@
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual21-Light/large/hesacoward.gif",
         "title": "Hunt For The Droid General / He's A Coward",
         "type": "Objective",
-        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Hunt For The Droid General/image.png",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/He's A Coward/image.png",
         "printableSlipType": "VIRTUAL"
       },
       "front": {
@@ -72847,7 +72861,7 @@
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual21-Light/large/huntforthedroidgeneral.gif",
         "title": "Hunt For The Droid General / He's A Coward",
         "type": "Objective",
-        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/He's A Coward/image.png",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Hunt For The Droid General/image.png",
         "printableSlipType": "VIRTUAL"
       },
       "gempId": "221_67",
@@ -74836,7 +74850,10 @@
       ],
       "front": {
         "destiny": "3",
-        "gametext": "If Stolen Data Tapes on table, deploy on table. Once per game, may simultaneously deploy non-[Episode VII] Falcon and non-[Episode VII] Han (for -1 Force each) from hand and/or Reserve Deck; reshuffle. At Tatooine system, Imperial starships may not have their deploy cost modified. [Immune to Alter.]",
+        "errataDate": "2024-12-30",
+        "errataNotes": "Previous text: If Stolen Data Tapes on table, deploy on table. Once per game, may simultaneously deploy non-[Episode VII] Falcon and non-[Episode VII] Han (for -1 Force each) from hand and/or Reserve Deck; reshuffle. At Tatooine system, Imperial starships may not have their deploy cost modified. [Immune to Alter.]",
+        "errataSymbol": "E1",
+        "gametext": "If Stolen Data Tapes on table, deploy on table. Twice per game, may take a general or a senator into hand from Reserve Deck; reshuffle. Once per game, may simultaneously deploy [A New Hope] Falcon (deploy -1) and [A New Hope] Han from hand and/or Reserve Deck; reshuffle. Falcon is immune to Gravity Shadow. [Immune to Alter.]",
         "icons": [
           "Set 23"
         ],
