@@ -33215,8 +33215,11 @@
         "armor": "5",
         "deploy": "5",
         "destiny": "2",
+        "errataDate": "2024-12-30",
+        "errataNotes": "Previous text: Permanent pilot provides ability of 2. Cancels opponent's immunity to attrition here. While at Scarif, adds 2 to attempts to 'blow away' Shield Gate.",
+        "errataSymbol": "E1",
         "forfeit": "5",
-        "gametext": "Permanent pilot provides ability of 2. Cancels opponent's immunity to attrition here. While at Scarif, adds 2 to attempts to 'blow away' Shield Gate.",
+        "gametext": "Permanent pilot provides ability of 2. When in battle, adds 1 to attrition against opponent for each opponent's starship present. Cancels opponent's immunity to attrition here.",
         "hyperspeed": "3",
         "icons": [
           "Pilot",
@@ -33243,7 +33246,7 @@
           "set": "209"
         }
       ],
-      "rarity": "R",
+      "rarity": "C",
       "set": "209",
       "side": "Light"
     },
@@ -65460,8 +65463,11 @@
         ],
         "deploy": "3",
         "destiny": "3",
+        "errataDate": "2024-12-30",
+        "errataNotes": "Previous text: May add 2 pilots and 5 passengers. Permanent pilot provides ability of 2. Deploys and moves like a starfighter. When deployed, may deploy a female Resistance character aboard for free from Reserve Deck; reshuffle.",
+        "errataSymbol": "E1",
         "forfeit": "5",
-        "gametext": "May add 2 pilots and 5 passengers. Permanent pilot provides ability of 2. Deploys and moves like a starfighter. When deployed, may deploy a female Resistance character aboard for free from Reserve Deck; reshuffle.",
+        "gametext": "May add 2 pilots and 5 passengers. Permanent pilot provides ability of 2. Deploys and moves like a starfighter. When deployed, may deploy a female Resistance character aboard (deploy -2 if a leader).",
         "hyperspeed": "3",
         "icons": [
           "Pilot",
@@ -65859,7 +65865,10 @@
       "front": {
         "darkSideIcons": 0,
         "destiny": "0",
-        "gametext": "Light: You may not generate more than 2 Force at non-battlegrounds. Ewoks deploy -2 here.  Dark: Force generation here may not be prevented by Objectives.",
+        "errataDate": "2024-12-30",
+        "errataNotes": "Previous text: Light: You may not generate more than 2 Force at non-battlegrounds. Ewoks deploy -2 here.  Dark: Force generation here may not be prevented by Objectives.",
+        "errataSymbol": "E1",
+        "gametext": "Light: Deploys only if a [Death Star II] objective on table. During opponent's turn, if an Imperial at Landing Platform, Luke may move from here to there for free. Dark: ",
         "icons": [
           "Interior",
           "Planet",
@@ -68735,7 +68744,10 @@
       "front": {
         "darkSideIcons": 2,
         "destiny": "0",
-        "gametext": "Dark: Unless you occupy, Kylo and Sidious deploy -1 here.  Light: Unless Ben Solo, Han, or Rey here, Force drain -1 here.",
+        "errataDate": "2024-12-30",
+        "errataNotes": "Previous text: Light: Unless Ben Solo, Han, or Rey here, Force drain -1 here. Dark: Unless you occupy, Kylo and Sidious deploy -1 here.",
+        "errataSymbol": "E1",
+        "gametext": "Light: While Rey alone here, she is immune to attrition. Dark: While Rey alone here, you may not Force drain at Kylo's location.",
         "icons": [
           "Exterior",
           "Planet",
@@ -73932,8 +73944,11 @@
         ],
         "deploy": "3",
         "destiny": "3",
+        "errataDate": "2024-12-30",
+        "errataNotes": "Previous text: May add 2 pilots and 5 passengers. Permanent pilot provides ability of 2. Deploys and moves like a starfighter. When deployed, may deploy a female Resistance character aboard for free from Reserve Deck; reshuffle.",
+        "errataSymbol": "E1",
         "forfeit": "5",
-        "gametext": "May add 2 pilots and 5 passengers. Permanent pilot provides ability of 2. Deploys and moves like a starfighter. When deployed, may deploy a female Resistance character aboard for free from Reserve Deck; reshuffle.",
+        "gametext": "May add 2 pilots and 5 passengers. Permanent pilot provides ability of 2. Deploys and moves like a starfighter. When deployed, may deploy a female Resistance character aboard (deploy -2 if a leader).",
         "hyperspeed": "3",
         "icons": [
           "Pilot",
