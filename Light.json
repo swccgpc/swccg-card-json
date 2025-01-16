@@ -2877,7 +2877,10 @@
       ],
       "front": {
         "destiny": "5",
-        "gametext": "Deploy on table. Maz and your Rep are immune to attrition. While you have alien characters of five different species on table: your Force drains are +1, your total battle destiny is +1 (+2 if Maz or your Rep in battle), and your aliens are forfeit +1. (Immune to Alter.)",
+        "errataDate": "2024-12-30",
+        "errataNotes": "Previous text: Deploy on table. Maz and your Rep are immune to attrition. While you have alien characters of five different species on table: your Force drains are +1, your total battle destiny is +1 (+2 if Maz or your Rep in battle), and your aliens are forfeit +1. [Immune to Alter.]",
+        "errataSymbol": "E1",
+        "gametext": "Deploy on table. Your Rep is immune to attrition. While you have alien characters of five different species on table, at locations where you have an alien: Your total battle destiny is +1, your aliens are forfeit +1 and, if location is a battleground, your Force drains are +1. [Immune to Alter.]",
         "icons": [
           "Episode VII",
           "Set 10"
@@ -12381,7 +12384,7 @@
         "Landing Claw",
         "Lando's Wrist Comlink",
         "Luke's Backpack",
-        "Luke's Bionic Hand (V)",
+        "Luke's Bionic Hand",
         "Magnetic Suction Tube",
         "Mercenary Armor",
         "Motivator (V)",
@@ -34510,7 +34513,10 @@
     {
       "front": {
         "destiny": "7",
-        "gametext": "Deploy on Luke. Luke's power and immunity to attrition are +2. During battle at a battleground, may exchange a card in hand with an Interrupt in Lost Pile. This device lost if Luke Disarmed.",
+        "errataDate": "2024-12-30",
+        "errataNotes": "Original needed to be at a battleground to swap cards, but could swap once per battle it was in (instead of once per game).",
+        "errataSymbol": "E1",
+        "gametext": "Deploy on Luke. Luke's power and immunity to attrition are +2. Once per game, during battle, may exchange a card in hand with an Interrupt in Lost Pile. This device lost if Luke Disarmed.",
         "icons": [
           "Cloud City",
           "Set 0"
@@ -35345,7 +35351,13 @@
       ],
       "rarity": "R",
       "set": "14",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        {
+          "title": "Mace Windu (V) (C-Slip AI)",
+          "cardId": 7227
+        }
+      ]
     },
     {
       "front": {
@@ -35380,7 +35392,13 @@
       ],
       "rarity": "R",
       "set": "14",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        {
+          "title": "Mace Windu (V) (C-Slip AI 2)",
+          "cardId": 7230
+        }
+      ]
     },
     {
       "front": {
@@ -42814,7 +42832,7 @@
         "Landing Claw",
         "Lando's Wrist Comlink",
         "Luke's Backpack",
-        "Luke's Bionic Hand (V)",
+        "Luke's Bionic Hand",
         "Magnetic Suction Tube",
         "Mercenary Armor",
         "Motivator (V)",
@@ -63152,12 +63170,14 @@
         "ability": "7",
         "deploy": "5",
         "destiny": "1",
-        "errataSymbol": "E1",
+        "errataDate": "2024-12-30",
+        "errataNotes": "E1 version limited battle destinies even if at a system or sector. E1 version optionally canceled Force Lightning at Yoda's location by losing 1 Force.",
+        "errataSymbol": "E2",
         "extraText": [
           "Jedi Master"
         ],
         "forfeit": "7",
-        "gametext": "Deploys -1 to Coruscant. May lose 1 Force to cancel Force Lightning targeting your character present. Neither player may draw more than one battle destiny here (those destiny draws may not be modified or canceled). Immune to attrition.",
+        "gametext": "Deploys -1 to Coruscant. At same site, your characters are immune to Force Lightning, and players may not draw more than one battle destiny (those destiny draws may not be modified or canceled). Immune to attrition.",
         "icons": [
           "Episode I",
           "Set 2"
@@ -63195,12 +63215,14 @@
         "ability": "7",
         "deploy": "5",
         "destiny": "1",
-        "errataSymbol": "E1",
+        "errataDate": "2024-12-30",
+        "errataNotes": "E1 version limited battle destinies even if at a system or sector. E1 version optionally canceled Force Lightning at Yoda's location by losing 1 Force.",
+        "errataSymbol": "E2",
         "extraText": [
           "Jedi Master"
         ],
         "forfeit": "7",
-        "gametext": "Deploys -1 to Coruscant. May lose 1 Force to cancel Force Lightning targeting your character present. Neither player may draw more than one battle destiny here (those destiny draws may not be modified or canceled). Immune to attrition.",
+        "gametext": "Deploys -1 to Coruscant. At same site, your characters are immune to Force Lightning, and players may not draw more than one battle destiny (those destiny draws may not be modified or canceled). Immune to attrition.",
         "icons": [
           "Episode I",
           "Set 2"
@@ -63238,12 +63260,14 @@
         "ability": "7",
         "deploy": "5",
         "destiny": "1",
-        "errataSymbol": "E1",
+        "errataDate": "2024-12-30",
+        "errataNotes": "E1 version limited battle destinies even if at a system or sector. E1 version optionally canceled Force Lightning at Yoda's location by losing 1 Force.",
+        "errataSymbol": "E2",
         "extraText": [
           "Jedi Master"
         ],
         "forfeit": "7",
-        "gametext": "Deploys -1 to Coruscant. May lose 1 Force to cancel Force Lightning targeting your character present. Neither player may draw more than one battle destiny here (those destiny draws may not be modified or canceled). Immune to attrition.",
+        "gametext": "Deploys -1 to Coruscant. At same site, your characters are immune to Force Lightning, and players may not draw more than one battle destiny (those destiny draws may not be modified or canceled). Immune to attrition.",
         "icons": [
           "Episode I",
           "Set 2"
@@ -63389,7 +63413,13 @@
       ],
       "rarity": "R",
       "set": "12",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        {
+          "title": "Yoda, Keeper Of The Peace (C-Slip AI)",
+          "cardId": 7224
+        }
+      ]
     },
     {
       "front": {
@@ -63423,7 +63453,13 @@
       ],
       "rarity": "R",
       "set": "12",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        {
+          "title": "Yoda, Keeper Of The Peace (C-Slip AI 2)",
+          "cardId": 7231
+        }
+      ]
     },
     {
       "front": {
@@ -72013,7 +72049,10 @@
       ],
       "front": {
         "destiny": "5",
-        "gametext": "If His Destiny on table, choose: USED: If a character of ability > 4 was just 'hit' during battle, opponent loses 1 Force. OR Peek at the bottom card of your Force Pile; may move it to the top of that pile. LOST: Cancel game text of a Dark Jedi with Luke for remainder of turn.",
+        "errataDate": "2024-12-30",
+        "errataNotes": "Previous text: If His Destiny on table, choose: USED: If a character of ability > 4 was just 'hit' during battle, opponent loses 1 Force. OR Peek at the bottom card of your Force Pile; may move it to the top of that pile. LOST: Cancel game text of a Dark Jedi with Luke for remainder of turn.",
+        "errataSymbol": "E1",
+        "gametext": "USED: Peek at the bottom card of your Force Pile; may move it to the top of that pile. LOST: Steal Luke’s Lightsaber into hand (immune to Weapon Of A Sith). OR If His Destiny on table, cancel game text of a Dark Jedi with Luke for remainder of turn.",
         "icons": [
           "Death Star II",
           "Set 21"
@@ -72806,7 +72845,10 @@
       ],
       "front": {
         "destiny": "0",
-        "gametext": "If He Is The Chosen One on table, deploy on table. Opponent's total Force generation is -1 (and your total power everywhere is +1) for each [Endor] or [Death Star II] battleground you occupy (limit 2). Once per turn, if a card was just stacked on I Feel The Conflict, may peek at the top two cards of your Reserve Deck; take one into hand and shuffle your Reserve Deck. May lose 2 Force to cancel You Are Beaten or an attempt to steal Luke's Lightsaber. During your move phase, may turn a card stacked on I Feel The Conflict face up to relocate Luke between a battleground site and your Death Star II site.",
+        "errataDate": "2024-12-30",
+        "errataNotes": "Previous text: If He Is The Chosen One on table, deploy on table. Opponent's total Force generation is -1 (and your total power everywhere is +1) for each [Endor] or [Death Star II] battleground you occupy (limit 2). Once per turn, if a card was just stacked on I Feel The Conflict, may peek at the top two cards of your Reserve Deck; take one into hand and shuffle your Reserve Deck. May lose 2 Force to cancel You Are Beaten or an attempt to steal Luke's Lightsaber. During your move phase, may turn a card stacked on I Feel The Conflict face up to relocate Luke between a battleground site and your Death Star II site.",
+        "errataSymbol": "E1",
+        "gametext": "If He Is The Chosen One on table, deploy on table. Indeed You Are Powerful: Once per turn, if you just won a battle or duel, may peek at the top two cards of your Reserve Deck; take one into hand and shuffle your Reserve Deck. I Have To Face Him: Once per game, during your move phase, may relocate Luke to same battleground as Prophecy Of The Force. Father, Please!: Non-[Set 13] Anakin Skywalker does not cause Force loss and, once per game, you may lose 1 Force to play it from outside your deck as if from hand.",
         "icons": [
           "Death Star II",
           "Set 21"
@@ -73534,9 +73576,13 @@
       ],
       "front": {
         "destiny": "5",
-        "gametext": "If His Destiny on table, deploy on table. Unless Wokling on table, your total Force generation is +1. Once per turn, may deploy a mobile docking bay from Reserve Deck; reshuffle. Once per game, during your move phase, may relocate Luke to same battleground as Prophecy Of The Force. [Immune to Alter.]",
+        "errataDate": "2024-12-30",
+        "errataNotes": "Previous text: If His Destiny on table, deploy on table. Unless Wokling on table, your total Force generation is +1. Once per turn, may deploy a mobile docking bay from Reserve Deck; reshuffle. Once per game, during your move phase, may relocate Luke to same battleground as Prophecy Of The Force. [Immune to Alter.]",
+        "errataSymbol": "E1",
+        "gametext": "If His Destiny on table, deploy on table. Your personal Force generation = 2. Once per turn, may deploy a mobile docking bay from Reserve Deck; reshuffle. Your total power everywhere is +1 for each [Endor] or [Death Star II] battleground you occupy (limit +2). [Immune to Alter.]",
         "icons": [
           "Death Star II",
+          "Personal Force",
           "Set 22"
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual22-Light/large/twilightisuponme.gif",

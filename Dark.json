@@ -3852,7 +3852,13 @@
       ],
       "rarity": "PM",
       "set": "13",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+        {
+          "title": "Aurra Sing With Blaster Rifle (C-Slip AI)",
+          "cardId": 7228
+        }
+      ]
     },
     {
       "combo": [
@@ -14548,6 +14554,9 @@
       "side": "Dark"
     },
     {
+      "abbr": [
+        "DMYA"
+      ],
       "combo": [
         "Darth Maul, Young Apprentice + Maul Strikes",
         "Darth Maul, Young Apprentice + The Phantom Menace While present with an opponent's Jedi, Maul is defense value +2 and immune to attrition.",
@@ -14594,9 +14603,18 @@
       ],
       "rarity": "R",
       "set": "12",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+        {
+          "title": "Darth Maul, Lone Hunter (C-Slip AI)",
+          "cardId": 7225
+        }
+      ]
     },
     {
+      "abbr": [
+        "DMYA"
+      ],
       "front": {
         "ability": "6",
         "deploy": "7",
@@ -14630,7 +14648,13 @@
       ],
       "rarity": "R",
       "set": "12",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+        {
+          "title": "Darth Maul, Lone Hunter (C-Slip AI 2)",
+          "cardId": 7229
+        }
+      ]
     },
     {
       "combo": [
