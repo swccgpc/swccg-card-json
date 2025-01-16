@@ -3852,7 +3852,13 @@
       ],
       "rarity": "PM",
       "set": "13",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+        {
+          "title": "Aurra Sing With Blaster Rifle (C-Slip AI)",
+          "cardId": 7228
+        }
+      ]
     },
     {
       "combo": [
@@ -14548,6 +14554,9 @@
       "side": "Dark"
     },
     {
+      "abbr": [
+        "DMYA"
+      ],
       "combo": [
         "Darth Maul, Young Apprentice + Maul Strikes",
         "Darth Maul, Young Apprentice + The Phantom Menace While present with an opponent's Jedi, Maul is defense value +2 and immune to attrition.",
@@ -14594,9 +14603,18 @@
       ],
       "rarity": "R",
       "set": "12",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+        {
+          "title": "Darth Maul, Lone Hunter (C-Slip AI)",
+          "cardId": 7225
+        }
+      ]
     },
     {
+      "abbr": [
+        "DMYA"
+      ],
       "front": {
         "ability": "6",
         "deploy": "7",
@@ -14630,7 +14648,13 @@
       ],
       "rarity": "R",
       "set": "12",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+        {
+          "title": "Darth Maul, Lone Hunter (C-Slip AI 2)",
+          "cardId": 7229
+        }
+      ]
     },
     {
       "combo": [
@@ -26655,7 +26679,7 @@
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual8-Dark/large/andnowyoullgiveittome.gif",
         "title": "I Want That Map / And Now You'll Give It To Me",
         "type": "Objective",
-        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/I Want That Map/image.png",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/And Now Youll Give It To Me/image.png",
         "printableSlipType": "VIRTUAL"
       },
       "front": {
@@ -26669,7 +26693,7 @@
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual8-Dark/large/iwantthatmap.gif",
         "title": "I Want That Map / And Now You'll Give It To Me",
         "type": "Objective",
-        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/And Now Youll Give It To Me/image.png",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/I Want That Map/image.png",
         "printableSlipType": "VIRTUAL"
       },
       "gempId": "208_57",
