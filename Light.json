@@ -6459,7 +6459,7 @@
         "errataNotes": "Previous text: Adds 2 to the power of anything he pilots, 3 if Rogue One or a stolen starship. May be deployed simultaneously with a piloted starship from hand to a system even without presence or Force icons. If about to be lost, your Rebel or Rebel starship at a related location may make a regular move.",
         "errataSymbol": "E1",
         "forfeit": "4",
-        "gametext": "Adds 2 to the power of anything he pilots, 3 if Rogue One or a stolen starship. Once per game, during battle, may peek at opponent’s hand. If about to be lost, your Rebel or Rebel starship at a related location may make a regular move.",
+        "gametext": "Adds 2 to the power of anything he pilots, 3 if Rogue One or a stolen starship. Once per game, during battle, may peek at opponent's hand. If about to be lost, your Rebel or Rebel starship at a related location may make a regular move.",
         "icons": [
           "Pilot",
           "Warrior",
@@ -23925,8 +23925,10 @@
           "blaster"
         ],
         "destiny": "2",
-        "errataSymbol": "E1",
-        "gametext": "Deploy on Beckett or non-spy Han. May target a character. Draw destiny. Target hit, and its forfeit = 0, if destiny +2 > defense value. If on Han, may fire once during your control phase, and may place this weapon in Used Pile to cancel a weapon destiny targeting Han.",
+        "errataDate": "2024-12-30",
+        "errataNotes": "Previous text: Deploy on Beckett or non-spy Han. May target a character. Draw destiny. Target hit, and its forfeit = 0, if destiny +2 > defense value. If on Han, may fire once during your control phase, and may place this weapon in Used Pile to cancel a weapon destiny targeting Han.",
+        "errataSymbol": "E2",
+        "gametext": "Deploy on Han or a smuggler. Greedo's gametext is canceled here. May target a character. Draw destiny. Target hit if destiny +2 > defense value. If hit by Han or Beckett, target's forfeit = 0. If on Han (unless Undercover), may fire once during your control phase.",
         "icons": [
           "Set 0"
         ],
@@ -60781,7 +60783,7 @@
         "errataDate": "2024-12-30",
         "errataNotes": "Previous text: If We Have A Plan on table, deploy on table. Imperials deploy +1 to Theed Palace Throne Room and, while you occupy that site, you may ignore your Objective's location deployment restrictions. Once per game, may take an [Episode I] system and/or a [Theed Palace] leader into hand from Reserve Deck; reshuffle. [Immune to Alter.]",
         "errataSymbol": "E1",
-        "gametext": "If We Have A Plan on table, deploy on table. Wokling is canceled. While you occupy Theed Palace Throne Room, you may ignore your Objective’s location deployment restrictions. Once per game, may take an [Episode I] system and/or [Theed Palace] leader into hand from Reserve Deck; reshuffle. [Immune to Alter.]",
+        "gametext": "If We Have A Plan on table, deploy on table. Wokling is canceled. While you occupy Theed Palace Throne Room, you may ignore your Objective's location deployment restrictions. Once per game, may take an [Episode I] system and/or [Theed Palace] leader into hand from Reserve Deck; reshuffle. [Immune to Alter.]",
         "icons": [
           "Episode I",
           "Set 1"
@@ -66092,7 +66094,10 @@
     {
       "front": {
         "destiny": "0",
-        "gametext": "Deploy on Central Core. Leia may not modify Force drains. Once per game, opponent may stack up to two cards from hand face-down here. Allow The Ship To Leave: If you just won a battle at a Death Star site (or initiated a Force drain here), place a card stacked here in owner's Lost Pile. That Old Man Did It!: If you occupy this site and another Death Star site while no cards stacked here, power 'shut down' (place this card out of play; your movement between Death Star locations is free this turn).",
+        "errataDate": "2024-12-30",
+        "errataNotes": "Adds [A New Hope] icon. Previous text: Deploy on Central Core. Leia may not modify Force drains. Once per game, opponent may stack up to two cards from hand face-down here. Allow The Ship To Leave: If you just won a battle at a Death Star site (or initiated a Force drain here), place a card stacked here in owner's Lost Pile. That Old Man Did It!: If you occupy this site and another Death Star site while no cards stacked here, power 'shut down' (place this card out of play; your movement between Death Star locations is free this turn).",
+        "errataSymbol": "E1",
+        "gametext": "Deploy on Central Core. Once per game, opponent may stack up to two cards from hand face-down here. All This Sneaking Around: Path Of Least Resistance is canceled. While no cards stacked here, Leia moves using landspeed for free. Allow The Ship To Leave: If you just won a battle at a Death Star site (or initiated a Force drain here), place a card stacked here in owner's Lost Pile. That Old Man Did It!: If you occupy this site and another Death Star site while no cards stacked here, for remainder of game, power 'shut down.'",
         "icons": [
           "Set 15"
         ],
@@ -66215,11 +66220,12 @@
     {
       "front": {
         "destiny": "5",
-        "errataDate": "2022-12-12",
-        "errataNotes": "Original did not require Leia to have a [Set 20] icon. Original only protected Han, Leia, and Luke. Original did not protect against Physical Choke.",
-        "errataSymbol": "E1",
-        "gametext": "If [Set 20] Leia imprisoned, deploy on table. [Set 8] Luke is a spy and stormtrooper. Chewie, Leia, and stormtroopers are immune to Nevar Yalnal, Physical Choke, and Put All Sections On Alert. Once per turn, may deploy a Death Star site from Reserve Deck; reshuffle. Immune to This Is Some Rescue! [Immune to Alter.]",
+        "errataDate": "2024-12-30",
+        "errataNotes": "Previous (E1) text: If [Set 20] Leia imprisoned, deploy on table. [Set 8] Luke is a spy and stormtrooper. Chewie, Leia, and stormtroopers are immune to Nevar Yalnal, Physical Choke, and Put All Sections On Alert. Once per turn, may deploy a Death Star site from Reserve Deck; reshuffle. Immune to This Is Some Rescue! [Immune to Alter.] Original did not require Leia to have a [Set 20] icon. Original only protected Han, Leia, and Luke. Original did not protect against Physical Choke.",
+        "errataSymbol": "E2",
+        "gametext": "If [A New Hope] Leia imprisoned, deploy on table. [Set 8] Luke is a spy and stormtrooper. Chewie, Leia, and stormtroopers are immune to Nevar Yalnal, Physical Choke, and Put All Sections On Alert. Once per turn, may deploy a blaster or rifle from Reserve Deck; reshuffle. Immune to This Is Some Rescue! [Immune to Alter.]",
         "icons": [
+          "A New Hope",
           "Set 15"
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual15-Light/large/cell2187.gif",
@@ -66300,14 +66306,15 @@
         ],
         "darkSideIcons": 1,
         "destiny": "0",
-        "errataDate": "2022-12-12",
-        "errataNotes": "Original Dark text worked with any Leia, but did not protect against 'all cards' situations: If Leia is about to be lost from a Death Star site, imprison her here instead (even if inactive).",
-        "errataSymbol": "E1",
-        "gametext": "Light:  If you control with a spy, may use 2 Force to release Leia here (retrieve 1 Force).  Dark:  If [Set 20] Leia is about to leave table (for any reason, even if inactive), imprison her here instead.",
+        "errataDate": "2024-12-30",
+        "errataNotes": "LS text has never changed. E1 DS text: If [Set 20] Leia is about to leave table (for any reason, even if inactive), imprison her here instead. Original DS text: If Leia is about to be lost from a Death Star site, imprison her here instead (even if inactive).",
+        "errataSymbol": "E2",
+        "gametext": "Light: If you control with a spy, may use 2 Force to release Leia here (retrieve 1 Force). Dark: Once per game, may deploy a non-[Maintenance] Imperial trooper here from Reserve Deck; reshuffle.",
         "icons": [
           "Interior",
           "Mobile",
           "Scomp Link",
+          "Special Edition",
           "Set 15"
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual15-Light/large/deathstardetentionblockcorridor.gif",
@@ -66329,12 +66336,6 @@
         }
       ],
       "rarity": "C",
-      "rulings": [
-        "When Dark's text imprisons Leia, she is restored to normal (no longer hit or forfeit = 0, etc).",
-        "When Dark's text imprisons Leia, any weapons and other cards on Leia remain on her (she did not leave table).",
-        "When Dark's text imprisons Leia from another site, she is placed here but it is not considered movement. It is not blocked by e.g. You Are Beaten.",
-        "The 'for any reason' text will even work against an 'all cards' situation, e.g. Program Trap will send Leia here instead of the Lost Pile."
-      ],
       "set": "215",
       "side": "Light"
     },
@@ -66367,8 +66368,8 @@
         }
       ],
       "pulledBy": [
-        "Cell 2187 (V)",
-        "Mindful Of The Future"
+        "Mindful Of The Future",
+        "Rescue The Princess (V)"
       ],
       "rarity": "C2",
       "rulings": [
@@ -66731,9 +66732,14 @@
       ],
       "back": {
         "destiny": "7",
-        "gametext": "Rescue The Princess:Deploy Central Core, A Power Loss, Detention Block Corridor (with Prisoner 2187 imprisoned there), and Trash Compactor.{For} remainder of game, Path Of Least Resistance is canceled. Your Force generation is +1 at your Death Star sites. Your Death Star sites are immune to Set Your Course For Alderaan. Death Star sites may not be converted. Jedi (except Obi-Wan) are lost.{Flip} this card if Leia is present at a Death Star site and A Power Loss has been 'shut down' this game.Sometimes I Amaze Even Myself:{For} remainder of game, I Can't Believe He's Gone may only add power in battles involving Leia or Luke.{While} this side up, for opponent to initiate a Force drain, opponent must use +1 Force. Whenever you 'hit' a character with a blaster, opponent loses 1 Force. May place Obi-Wan out of play from a Death Star site to cancel a battle just initiated anywhere on Death Star. During opponent's draw phase, if opponent did not initiate a battle this turn, may retrieve 1 Force.{Flip} this card if Leia is not at a Death Star site.",
+        "errataDate": "2024-12-30",
+        "errataNotes": "Adds [A New Hope] icon. Previous text: Rescue The Princess: Deploy Central Core, A Power Loss, Detention Block Corridor (with Prisoner 2187 imprisoned there), and Trash Compactor. For remainder of game, Path Of Least Resistance is canceled. Your Force generation is +1 at your Death Star sites. Your Death Star sites are immune to Set Your Course For Alderaan. Death Star sites may not be converted. Jedi (except Obi-Wan) are lost. Flip this card if Leia is present at a Death Star site and A Power Loss has been 'shut down' this game. Sometimes I Amaze Even Myself: For remainder of game, I Can't Believe He's Gone may only add power in battles involving Leia or Luke. While this side up, for opponent to initiate a Force drain, opponent must use +1 Force. Whenever you 'hit' a character with a blaster, opponent loses 1 Force. May place Obi-Wan out of play from a Death Star site to cancel a battle just initiated anywhere on Death Star. During opponent's draw phase, if opponent did not initiate a battle this turn, may retrieve 1 Force. Flip this card if Leia is not at a Death Star site.",
+        "errataSymbol": "E1",
+        "gametext": "Rescue The Princess: Deploy Central Core, A Power Loss, Detention Block Corridor (with [A New Hope] Leia imprisoned there), and Trash Compactor. For remainder of game, your Death Star sites generate +1 Force for you. You may not deploy Luke of ability > 4 or [Episode I] (or [Episode VII]) Jedi. If Leia is about to leave table (for any reason, even if inactive), imprison her in Detention Block Corridor (cards on her are placed in owner's Used Pile). Once per turn, may deploy a Death Star site from Reserve Deck; reshuffle. Flip this card if Leia occupies a Death Star site and A Power Loss is 'shut down.' Sometimes I Amaze Even Myself: While this side up, for opponent to initiate a Force drain, opponent must use +1 Force. Your Death Star sites are immune to Set Your Course For Alderaan. Once per turn, if you just 'hit' a character with a blaster, opponent loses 1 Force. May place Obi-Wan out of play from a Death Star site to cancel a battle just initiated anywhere on Death Star. I Can't Believe He's Gone is canceled. During opponent's draw phase, if opponent did not initiate a battle this turn, may retrieve 1 Force. Flip this card if Leia is not at a Death Star site.",
         "icons": [
-          "Set 15"
+          "A New Hope",
+          "Set 15",
+          "Special Edition"
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual15-Light/large/sometimesiamazeevenmyself.gif",
         "title": "Rescue The Princess / Sometimes I Amaze Even Myself (V)",
@@ -66743,9 +66749,14 @@
       },
       "front": {
         "destiny": "0",
-        "gametext": "Rescue The Princess:Deploy Central Core, A Power Loss, Detention Block Corridor (with Prisoner 2187 imprisoned there), and Trash Compactor.{For} remainder of game, Path Of Least Resistance is canceled. Your Death Star sites generate +1 Force for you and are immune to Set Your Course For Alderaan. Death Star sites may not be converted. You may not deploy Luke of ability > 4 or [Episode I] (or [Episode VII]) Jedi.{Flip} this card if Leia is present at a Death Star site and A Power Loss has been 'shut down' this game.Sometimes I Amaze Even Myself:{For} remainder of game, I Can't Believe He's Gone may only add power in battles involving Leia or Luke.{While} this side up, for opponent to initiate a Force drain, opponent must use +1 Force. Whenever you 'hit' a character with a blaster, opponent loses 1 Force. May place Obi-Wan out of play from a Death Star site to cancel a battle just initiated anywhere on Death Star. During opponent's draw phase, if opponent did not initiate a battle this turn, may retrieve 1 Force.{Flip} this card if Leia is not at a Death Star site.",
+        "errataDate": "2024-12-30",
+        "errataNotes": "Adds [A New Hope] icon. Previous text: Rescue The Princess: Deploy Central Core, A Power Loss, Detention Block Corridor (with Prisoner 2187 imprisoned there), and Trash Compactor. For remainder of game, Path Of Least Resistance is canceled. Your Force generation is +1 at your Death Star sites. Your Death Star sites are immune to Set Your Course For Alderaan. Death Star sites may not be converted. Jedi (except Obi-Wan) are lost. Flip this card if Leia is present at a Death Star site and A Power Loss has been 'shut down' this game. Sometimes I Amaze Even Myself: For remainder of game, I Can't Believe He's Gone may only add power in battles involving Leia or Luke. While this side up, for opponent to initiate a Force drain, opponent must use +1 Force. Whenever you 'hit' a character with a blaster, opponent loses 1 Force. May place Obi-Wan out of play from a Death Star site to cancel a battle just initiated anywhere on Death Star. During opponent's draw phase, if opponent did not initiate a battle this turn, may retrieve 1 Force. Flip this card if Leia is not at a Death Star site.",
+        "errataSymbol": "E1",
+        "gametext": "Rescue The Princess: Deploy Central Core, A Power Loss, Detention Block Corridor (with [A New Hope] Leia imprisoned there), and Trash Compactor. For remainder of game, your Death Star sites generate +1 Force for you. You may not deploy Luke of ability > 4 or [Episode I] (or [Episode VII]) Jedi. If Leia is about to leave table (for any reason, even if inactive), imprison her in Detention Block Corridor (cards on her are placed in owner's Used Pile). Once per turn, may deploy a Death Star site from Reserve Deck; reshuffle. Flip this card if Leia occupies a Death Star site and A Power Loss is 'shut down.' Sometimes I Amaze Even Myself: While this side up, for opponent to initiate a Force drain, opponent must use +1 Force. Your Death Star sites are immune to Set Your Course For Alderaan. Once per turn, if you just 'hit' a character with a blaster, opponent loses 1 Force. May place Obi-Wan out of play from a Death Star site to cancel a battle just initiated anywhere on Death Star. I Can't Believe He's Gone is canceled. During opponent's draw phase, if opponent did not initiate a battle this turn, may retrieve 1 Force. Flip this card if Leia is not at a Death Star site.",
         "icons": [
-          "Set 15"
+          "A New Hope",
+          "Set 15",
+          "Special Edition"
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual15-Light/large/rescuetheprincess.gif",
         "title": "Rescue The Princess / Sometimes I Amaze Even Myself (V)",
@@ -66764,9 +66775,12 @@
       ],
       "rarity": "R",
       "rulings": [
+        "When Dark's text imprisons Leia, she is restored to normal (no longer hit or forfeit = 0, etc).",
+        "When Dark's text imprisons Leia from another site, she is placed here but it is not considered movement. It is not blocked by e.g. You Are Beaten.",
+        "The 'for any reason' text will even work against an 'all cards' situation, e.g. Program Trap will send Leia to prison instead of the Lost Pile.",
         "At Death Star sites that are 'immune to SYCFA', Dark Side's Force drains and battle damage are not canceled by SYCFA.",
         "Excluding Leia from battle will not flip the objective back to the 0-side.",
-        "Capturing and siezing Leia (such as with IG-88 With Riot Gun) will flip the objective back to the 0-side.",
+        "Capturing and seizing Leia (such as with IG-88 With Riot Gun) will flip the objective back to the 0-side.",
         "On the 7-side, Leia's Blaster Rifle creates competing automatic actions. The player whose turn it is chooses whether the 1 Force loss or the character being lost happens first. If the character is lost first, the 1 Force loss does not occur."
       ],
       "set": "215",
@@ -69751,9 +69765,9 @@
         }
       ],
       "pulledBy": [
-        "Cell 2187 (V)",
         "Computer Interface (V)",
-        "Mindful Of The Future"
+        "Mindful Of The Future",
+        "Rescue The Princess (V)"
       ],
       "rarity": "PM",
       "rulings": [
@@ -70436,7 +70450,7 @@
           "Astromech Droid"
         ],
         "forfeit": "4",
-        "gametext": "When deployed, may play a Defensive Shield from under your Starting Effect (as if from hand). Once per game, may use 1 Force to place opponent’s just-played Interrupt out of play. While with Anakin, C-3PO, or Luke, attrition against you here is -2.",
+        "gametext": "When deployed, may play a Defensive Shield from under your Starting Effect (as if from hand). Once per game, may use 1 Force to place opponent's just-played Interrupt out of play. While with Anakin, C-3PO, or Luke, attrition against you here is -2.",
         "icons": [
           "Jabba's Palace",
           "Nav Computer",
@@ -71369,15 +71383,20 @@
           "senator",
           "female"
         ],
-        "deploy": "6",
+        "deploy": "4",
         "destiny": "1",
+        "errataDate": "2024-12-30",
+        "errataNotes": "Deploy reduced from 6 to 4. Adds [A New Hope] icon. Previous text: While on Death Star (even if imprisoned): Force drain +1 where you have a Rebel stormtrooper, Leia may not be transferred, moves using landspeed for free, draws one battle destiny if unable to otherwise, and her game text may not be canceled.",
+        "errataSymbol": "E1",
         "extraText": [
           "Force-Attuned"
         ],
         "forfeit": "6",
-        "gametext": "While on Death Star (even if imprisoned): Force drain +1 where you have a Rebel stormtrooper, Leia may not be transferred, moves using landspeed for free, draws one battle destiny if unable to otherwise, and her game text may not be canceled.",
+        "gametext": "Draws one battle destiny if unable to otherwise. While present at a Death Star site, Force drain +1 where you have a Rebel stormtrooper. While on Death Star (even if imprisoned), Leia may not be transferred and her gametext may not be canceled.",
         "icons": [
+          "A New Hope",
           "Premium",
+          "Set 20",
           "Warrior"
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual20-Light/large/prisoner2187.gif",
@@ -71410,7 +71429,7 @@
       ],
       "rarity": "PM",
       "rulings": [
-        "Prisoner 2187 (V)'s text works while in prison, but does not work while she is an escorted captive."
+        "The 'even if imprisoned' text does not work while she is an escorted captive."
       ],
       "set": "220",
       "side": "Light"
@@ -72052,7 +72071,7 @@
         "errataDate": "2024-12-30",
         "errataNotes": "Previous text: If His Destiny on table, choose: USED: If a character of ability > 4 was just 'hit' during battle, opponent loses 1 Force. OR Peek at the bottom card of your Force Pile; may move it to the top of that pile. LOST: Cancel game text of a Dark Jedi with Luke for remainder of turn.",
         "errataSymbol": "E1",
-        "gametext": "USED: Peek at the bottom card of your Force Pile; may move it to the top of that pile. LOST: Steal Luke’s Lightsaber into hand (immune to Weapon Of A Sith). OR If His Destiny on table, cancel game text of a Dark Jedi with Luke for remainder of turn.",
+        "gametext": "USED: Peek at the bottom card of your Force Pile; may move it to the top of that pile. LOST: Steal Luke's Lightsaber into hand (immune to Weapon Of A Sith). OR If His Destiny on table, cancel game text of a Dark Jedi with Luke for remainder of turn.",
         "icons": [
           "Death Star II",
           "Set 21"
@@ -73653,7 +73672,10 @@
     {
       "front": {
         "destiny": "0",
-        "gametext": "Deploy on Central Core. Leia may not modify Force drains. Once per game, opponent may stack up to two cards from hand face-down here. Allow The Ship To Leave: If you just won a battle at a Death Star site (or initiated a Force drain here), place a card stacked here in owner's Lost Pile. That Old Man Did It!: If you occupy this site and another Death Star site while no cards stacked here, power 'shut down' (place this card out of play; your movement between Death Star locations is free this turn).",
+        "errataDate": "2024-12-30",
+        "errataNotes": "Adds [A New Hope] icon. Previous text: Deploy on Central Core. Leia may not modify Force drains. Once per game, opponent may stack up to two cards from hand face-down here. Allow The Ship To Leave: If you just won a battle at a Death Star site (or initiated a Force drain here), place a card stacked here in owner's Lost Pile. That Old Man Did It!: If you occupy this site and another Death Star site while no cards stacked here, power 'shut down' (place this card out of play; your movement between Death Star locations is free this turn).",
+        "errataSymbol": "E1",
+        "gametext": "Deploy on Central Core. Once per game, opponent may stack up to two cards from hand face-down here. All This Sneaking Around: Path Of Least Resistance is canceled. While no cards stacked here, Leia moves using landspeed for free. Allow The Ship To Leave: If you just won a battle at a Death Star site (or initiated a Force drain here), place a card stacked here in owner's Lost Pile. That Old Man Did It!: If you occupy this site and another Death Star site while no cards stacked here, for remainder of game, power 'shut down.'",
         "icons": [
           "Set 15"
         ],
