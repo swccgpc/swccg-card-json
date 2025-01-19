@@ -21417,8 +21417,6 @@
         "Tydirium"
       ],
       "matchingWeapon": [
-        "Han's Blaster",
-        "So Uncivilized (V)",
         "Han's Heavy Blaster Pistol",
         "Han's Heavy Blaster Pistol (V)"
       ],
@@ -21694,8 +21692,11 @@
         ],
         "deploy": "3",
         "destiny": "2",
+        "errataDate": "2024-12-30",
+        "errataNotes": "Added 'Deploys -2 to Lothal.'",
+        "errataSymbol": "E1",
         "forfeit": "6",
-        "gametext": "May add 2 pilots, 3 passengers, and Phantom. Has ship-docking capability. May deploy Phantom here from reserve deck; reshuffle. While Hera piloting, immune to attrition < 5 (may not be canceled).",
+        "gametext": "Deploys -2 to Lothal. May add 2 pilots, 3 passengers, and Phantom. Has ship-docking capability. May deploy Phantom here from Reserve Deck; reshuffle. While Hera piloting, immune to attrition < 5 (may not be canceled).",
         "hyperspeed": "5",
         "icons": [
           "Nav Computer",
@@ -42880,8 +42881,6 @@
         "Ewok Spear",
         "Explosive Charge",
         "Golan Laser Battery",
-        "Han's Blaster",
-        "So Uncivilized (V)",
         "Han's Heavy Blaster Pistol",
         "Han's Heavy Blaster Pistol (V)",
         "Heavy Turbolaser Battery",
@@ -57892,10 +57891,10 @@
     {
       "front": {
         "destiny": "4",
-        "errataDate": "2023-06-01",
-        "errataNotes": "Original card accidentally omitted the word 'reshuffle' although it was always intended to be there.",
-        "errataSymbol": "E1",
-        "gametext": "USED: Deploy Ghost and Hera simultaneously (for -1 Force each) from your hand and/or Reserve Deck; reshuffle.  LOST: If Chopper, Ezra, Hera, Kanan, Sabine or Zeb in a battle, they each add 1 to your total battle destiny.",
+        "errataDate": "2024-12-30",
+        "errataNotes": "The LOST function has never hcanged. Previous (E1 version) USED function: Deploy Ghost and Hera simultaneously (for -1 Force each) from your hand and/or Reserve Deck; reshuffle. Original card accidentally omitted the word 'reshuffle' although it was always intended to be there.",
+        "errataSymbol": "E2",
+        "gametext": "USED: If Hera is piloting Ghost in battle, draw one destiny and subtract it from opponent's attrition against you. LOST: If Chopper, Ezra, Hera, Kanan, Sabine or Zeb in a battle, they each add 1 to your total battle destiny.",
         "icons": [
           "Set 7"
         ],
@@ -70778,10 +70777,10 @@
       "front": {
         "darkSideIcons": 1,
         "destiny": "0",
-        "errataDate": "2022-12-12",
-        "errataNotes": "Original Text: Light: Ghost deploys -2 here. While Ghost piloted here, opponent's battle destiny draws are -1 here. Dark: Unless Chimaera or Thrawn here, Force drain -1 here.",
-        "errataSymbol": "E1",
-        "gametext": "Light: Hera deploys -1 here. Once per game, may take This is MY Ship! into hand from Reserve Deck; reshuffle. Dark: Unless Thrawn here, Force drain -1 here and This Is MY Ship! is [Immune to Sense]. While Lothal converted, gains one [Dark Side] icon.",
+        "errataDate": "2024-12-30",
+        "errataNotes": "Previous (E1 version) text: Light: Hera deploys -1 here. Once per game, may take This is MY Ship! into hand from Reserve Deck; reshuffle. Dark: Unless Thrawn here, Force drain -1 here and This Is MY Ship! is [Immune to Sense]. While Lothal converted, gains one [Dark Side] icon. Original Text: Light: Ghost deploys -2 here. While Ghost piloted here, opponent's battle destiny draws are -1 here. Dark: Unless Chimaera or Thrawn here, Force drain -1 here.",
+        "errataSymbol": "E2",
+        "gametext": "Light: Once per game, may simultaneously deploy Ghost and Hera here from hand and/or Reserve Deck; reshuffle. Dark: Thrawn and Pryce deploy -1 (and shuttle for free) to here. While Lothal converted, gains one [Dark Side] icon.",
         "icons": [
           "Planet",
           "Set 19"
@@ -71199,7 +71198,7 @@
       "back": {
         "destiny": "7",
         "errataSymbol": "E1",
-        "gametext": "Zero Hour: Deploy Lothal system and a Lothal site. For remainder of game, Menace Fades and Projection Of A Skywalker are canceled. Jedi (except Ahsoka and Kanan), Resistance characters, and [Resistance] starships are deploy +1. Chopper, Ezra, Hera, Kanan, Sabine, and Zeb gain Phoenix Squadron. Once per turn, may deploy a Lothal site from Reserve Deck; reshuffle. Flip this card if Rebels control three Lothal locations (or you occupy three Lothal locations with Phoenix Squadron characters) and opponent controls no Lothal locations. Liberation Of Lothal: While this side up, if you Force drained at a battleground this turn, your other Force drains at battlegrounds are +1. Once per turn during battle, may add or subtract X from a just drawn battle destiny (or opponent's weapon destiny), where X = number of battlegrounds you occupy with Phoenix Squadron characters. At Lothal system, the number of battle destiny draws may not be limited for either player. Flip this card if opponent controls more Lothal locations than you.",
+        "gametext": "Zero Hour: Deploy Lothal system and a Lothal site. For remainder of game, Menace Fades and Projection Of A Skywalker are canceled. Harc, Jedi (except Ahsoka and Kanan), and your [Episode I] (and [Episode VII]) cards with ability are deploy +2. Chopper, Ezra, Hera, Kanan, Sabine, and Zeb gain Phoenix Squadron. Once per turn, may deploy a Lothal site from Reserve Deck; reshuffle. Flip this card if Rebels control three Lothal locations (or you occupy three Lothal locations with Phoenix Squadron characters) and opponent controls no Lothal locations. Liberation Of Lothal: While this side up, if you Force drained at a battleground this turn, your other Force drains at battlegrounds are +1. Once per turn during battle, may add or subtract X from a just drawn battle destiny (or opponent's weapon destiny), where X = number of battlegrounds you occupy with Phoenix Squadron characters. At Lothal system, the number of battle destiny draws may not be limited for either player. Flip this card if opponent controls more Lothal locations than you.",
         "icons": [
           "Set 19"
         ],
@@ -71211,7 +71210,10 @@
       },
       "front": {
         "destiny": "0",
-        "gametext": "Zero Hour: Deploy Lothal system and a Lothal site. For remainder of game, Menace Fades and Projection Of A Skywalker are canceled. Jedi (except Ahsoka and Kanan), Resistance characters, and [Resistance] starships are deploy +1. Chopper, Ezra, Hera, Kanan, Sabine, and Zeb gain Phoenix Squadron. Once per turn, may deploy a Lothal site from Reserve Deck; reshuffle. Flip this card if Rebels control three Lothal locations (or you occupy three Lothal locations with Phoenix Squadron characters) and opponent controls no Lothal locations. Liberation Of Lothal: While this side up, if you Force drained at a battleground this turn, your other Force drains at battlegrounds are +1. Once per turn during battle, may add or subtract X from a just drawn battle destiny (or opponent's weapon destiny), where X = number of battlegrounds you occupy with Phoenix Squadron characters. At Lothal system, the number of battle destiny draws may not be limited for either player. Flip this card if opponent controls more Lothal locations than you.",
+        "errataDate": "2024-12-30",
+        "errataNotes": "Previous text: Zero Hour: Deploy Lothal system and a Lothal site. For remainder of game, Menace Fades and Projection Of A Skywalker are canceled. Jedi (except Ahsoka and Kanan), Resistance characters, and [Resistance] starships are deploy +1. Chopper, Ezra, Hera, Kanan, Sabine, and Zeb gain Phoenix Squadron. Once per turn, may deploy a Lothal site from Reserve Deck; reshuffle. Flip this card if Rebels control three Lothal locations (or you occupy three Lothal locations with Phoenix Squadron characters) and opponent controls no Lothal locations. Liberation Of Lothal: While this side up, if you Force drained at a battleground this turn, your other Force drains at battlegrounds are +1. Once per turn during battle, may add or subtract X from a just drawn battle destiny (or opponent's weapon destiny), where X = number of battlegrounds you occupy with Phoenix Squadron characters. At Lothal system, the number of battle destiny draws may not be limited for either player. Flip this card if opponent controls more Lothal locations than you.",
+        "errataSymbol": "E1",
+        "gametext": "Zero Hour: Deploy Lothal system and a Lothal site. For remainder of game, Menace Fades and Projection Of A Skywalker are canceled. Harc, Jedi (except Ahsoka and Kanan), and your [Episode I] (and [Episode VII]) cards with ability are deploy +2. Chopper, Ezra, Hera, Kanan, Sabine, and Zeb gain Phoenix Squadron. Once per turn, may deploy a Lothal site from Reserve Deck; reshuffle. Flip this card if Rebels control three Lothal locations (or you occupy three Lothal locations with Phoenix Squadron characters) and opponent controls no Lothal locations. Liberation Of Lothal: While this side up, if you Force drained at a battleground this turn, your other Force drains at battlegrounds are +1. Once per turn during battle, may add or subtract X from a just drawn battle destiny (or opponent's weapon destiny), where X = number of battlegrounds you occupy with Phoenix Squadron characters. At Lothal system, the number of battle destiny draws may not be limited for either player. Flip this card if opponent controls more Lothal locations than you.",
         "icons": [
           "Set 19"
         ],
