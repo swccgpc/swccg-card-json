@@ -50,6 +50,7 @@
         "destiny": "5",
         "gametext": "If Leia imprisoned, deploy on table. [Set 8] Luke is a spy and stormtrooper. Han, Leia, and Luke are immune to Nevar Yalnal and Put All Sections On Alert. Once per turn, may deploy a Death Star site from Reserve Deck; reshuffle. Immune to This Is Some Rescue! [Immune to Alter.]",
         "icons": [
+          "A New Hope",
           "Set 15"
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual15-Light/large/cell2187.gif",
@@ -132,6 +133,7 @@
           "Interior",
           "Mobile",
           "Scomp Link",
+          "Special Edition",
           "Set 15"
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual15-Light/large/deathstardetentionblockcorridor.gif",
@@ -3210,6 +3212,7 @@
         "errataSymbol": "E1",
         "gametext": "If [Set 20] Leia imprisoned, deploy on table. [Set 8] Luke is a spy and stormtrooper. Chewie, Leia, and stormtroopers are immune to Nevar Yalnal, Physical Choke, and Put All Sections On Alert. Once per turn, may deploy a Death Star site from Reserve Deck; reshuffle. Immune to This Is Some Rescue! [Immune to Alter.]",
         "icons": [
+          "A New Hope",
           "Set 15"
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual15-Light/large/cell2187.gif",
@@ -3674,6 +3677,7 @@
           "Interior",
           "Mobile",
           "Scomp Link",
+          "Special Edition",
           "Set 15"
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual15-Light/large/deathstardetentionblockcorridor.gif",
@@ -3832,7 +3836,8 @@
         "destiny": "7",
         "gametext": "Rescue The Princess:Deploy Central Core, A Power Loss, Detention Block Corridor (with Prisoner 2187 imprisoned there), and Trash Compactor.{For} remainder of game, Path Of Least Resistance is canceled. Your Force generation is +1 at your Death Star sites. Your Death Star sites are immune to Set Your Course For Alderaan. Death Star sites may not be converted. Jedi (except Obi-Wan) are lost.{Flip} this card if Leia is present at a Death Star site and A Power Loss has been 'shut down' this game.Sometimes I Amaze Even Myself:{For} remainder of game, I Can't Believe He's Gone may only add power in battles involving Leia or Luke.{While} this side up, for opponent to initiate a Force drain, opponent must use +1 Force. Whenever you 'hit' a character with a blaster, opponent loses 1 Force. May place Obi-Wan out of play from a Death Star site to cancel a battle just initiated anywhere on Death Star. During opponent's draw phase, if opponent did not initiate a battle this turn, may retrieve 1 Force.{Flip} this card if Leia is not at a Death Star site.",
         "icons": [
-          "Set 15"
+          "Set 15",
+          "Special Edition"
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual15-Light/large/sometimesiamazeevenmyself.gif",
         "title": "Rescue The Princess / Sometimes I Amaze Even Myself (V)",
@@ -3844,7 +3849,8 @@
         "destiny": "0",
         "gametext": "Rescue The Princess:Deploy Central Core, A Power Loss, Detention Block Corridor (with Prisoner 2187 imprisoned there), and Trash Compactor.{For} remainder of game, Path Of Least Resistance is canceled. Your Death Star sites generate +1 Force for you and are immune to Set Your Course For Alderaan. Death Star sites may not be converted. You may not deploy Luke of ability > 4 or [Episode I] (or [Episode VII]) Jedi.{Flip} this card if Leia is present at a Death Star site and A Power Loss has been 'shut down' this game.Sometimes I Amaze Even Myself:{For} remainder of game, I Can't Believe He's Gone may only add power in battles involving Leia or Luke.{While} this side up, for opponent to initiate a Force drain, opponent must use +1 Force. Whenever you 'hit' a character with a blaster, opponent loses 1 Force. May place Obi-Wan out of play from a Death Star site to cancel a battle just initiated anywhere on Death Star. During opponent's draw phase, if opponent did not initiate a battle this turn, may retrieve 1 Force.{Flip} this card if Leia is not at a Death Star site.",
         "icons": [
-          "Set 15"
+          "Set 15",
+          "Special Edition"
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual15-Light/large/rescuetheprincess.gif",
         "title": "Rescue The Princess / Sometimes I Amaze Even Myself (V)",
@@ -3971,7 +3977,7 @@
         "deploy": "3",
         "destiny": "2",
         "forfeit": "6",
-        "gametext": "May add 2 pilots, 3 passengers, and Phantom. Has ship-docking capability. May deploy Phantom here from reserve deck; reshuffle. While Hera piloting, immune to attrition < 5 (may not be canceled).",
+        "gametext": "May add 2 pilots, 3 passengers, and Phantom. Has ship-docking capability. May deploy Phantom here from Reserve Deck; reshuffle. While Hera piloting, immune to attrition < 5 (may not be canceled).",
         "hyperspeed": "5",
         "icons": [
           "Nav Computer",
