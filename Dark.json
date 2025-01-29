@@ -9454,7 +9454,14 @@
       "set": "9",
       "side": "Dark",
       "underlyingCardFor": [
-        "Chimaera (V)"
+        {
+          "title": "Chimaera (V)",
+          "cardId": 7074
+        },
+        {
+          "title": "Chimaera (V) (AI)",
+          "cardId": 7361
+        }
       ]
     },
     {
@@ -10221,7 +10228,14 @@
       "set": "7",
       "side": "Dark",
       "underlyingCardFor": [
-        "Coruscant: The Works"
+        {
+          "title": "Coruscant: The Works",
+          "cardId": 6906
+        },
+        {
+          "title": "Coruscant: The Works (AI)",
+          "cardId": 7363
+        }
       ]
     },
     {
@@ -12781,7 +12795,14 @@
       "set": "12",
       "side": "Dark",
       "underlyingCardFor": [
-        "Coruscant (V)"
+        {
+          "title": "Coruscant (V)",
+          "cardId": 5028
+        },
+        {
+          "title": "Coruscant (V) (AI)",
+          "cardId": 7362
+        }
       ]
     },
     {
@@ -14285,12 +14306,22 @@
       "set": "11",
       "side": "Dark",
       "underlyingCardFor": [
-        "Daroe (V)",
-        "R'tic H'weei"
+        {
+          "title": "Daroe (V)",
+          "cardId": 5004
+        },
+        {
+          "title": "Daroe (V) (AI)",
+          "cardId": 7364
+        },
+        {
+          "title": "R'tic H'weei",
+          "cardId": 4031
+        }
       ]
     },
     {
-      "conceptBy": "(Original concept by Ryan Jellison and Tom Marlin)",
+      "conceptBy": "Original concept by Ryan Jellison and Tom Marlin",
       "front": {
         "ability": "2",
         "characteristics": [
@@ -15509,13 +15540,20 @@
         }
       ],
       "pulledBy": [
-        "Set Your Course For Alderaan/The Ultimate Power In The Universe"
+        "Set Your Course For Alderaan / The Ultimate Power In The Universe"
       ],
       "rarity": "R2",
       "set": "2",
       "side": "Dark",
       "underlyingCardFor": [
-        "Death Star (V)"
+        {
+          "title": "Death Star (V)",
+          "cardId": 6910
+        },
+        {
+          "title": "Death Star (V) (AI)",
+          "cardId": 7367
+        }
       ]
     },
     {
@@ -25405,7 +25443,14 @@
       "set": "11",
       "side": "Dark",
       "underlyingCardFor": [
-        "Darth Vader, Betrayer Of The Jedi"
+        {
+          "title": "Darth Vader, Betrayer Of The Jedi",
+          "cardId": 6909
+        },
+        {
+          "title": "Darth Vader, Betrayer Of The Jedi (AI)",
+          "cardId": 7366
+        }
       ]
     },
     {
@@ -25532,7 +25577,7 @@
         "destiny": "2",
         "errataSymbol": "E1",
         "forfeit": "5",
-        "gametext": "Draws one battle destiny in not able to otherwise. While at Audience Chamber (or stacked on your Objective), your other Weequays are deploy -1, power +1, and forfeit +2. Once per game, may deploy Aurra, Slave I, or a Kowakian from Reserve Deck; reshuffle.",
+        "gametext": "Draws one battle destiny if not able to otherwise. While at Audience Chamber (or stacked on your Objective), your other Weequays are deploy -1, power +1, and forfeit +2. Once per game, may deploy Aurra, Slave I, or a Kowakian from Reserve Deck; reshuffle.",
         "icons": [
           "Pilot",
           "Warrior",
@@ -26409,15 +26454,23 @@
       "set": "5",
       "side": "Dark",
       "underlyingCardFor": [
-        "I Am Your Father (V)"
+        {
+          "title": "I Am Your Father (V)",
+          "cardId": 5119
+        },
+        {
+          "title": "I Am Your Father (V) (AI)",
+          "cardId": 7369
+        }
       ]
     },
     {
       "counterpart": "Like My Father Before Me",
       "front": {
         "destiny": "6",
-        "gametext": "Deploy on table. [Death Star 2] Vader is deploy = 6. Once per turn, may deploy Vader's Lightsaber from Reserve Deck; reshuffle (or lose 1 Force to deploy from Lost Pile). Whenever a lightsaber swung by Vader 'hits' a character, opponent loses 1 Force. Immune to NOOOOOOOOOOOO!. (Immune to Alter.)",
+        "gametext": "Deploy on table. [Death Star 2] Vader is deploy = 6. Once per turn, may deploy Vader's Lightsaber from Reserve Deck; reshuffle (or lose 1 Force to deploy it from Lost Pile). Whenever a lightsaber swung by Vader 'hits' a character, opponent loses 1 Force. Immune to NOOOOOOOOOOOO! [Immune to Alter.]",
         "icons": [
+          "Cloud City",
           "Set 5"
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual5-Dark/large/iamyourfather.gif",
@@ -26445,7 +26498,8 @@
       "pulls": [
         "Darth Vader's Lightsaber",
         "Darth Vader's Lightsaber (V)",
-        "Vader's Lightsaber"
+        "Vader's Lightsaber",
+        "Vader's Lightsaber (V)"
       ],
       "rarity": "R",
       "set": "205",
@@ -28024,14 +28078,21 @@
       "set": "5",
       "side": "Dark",
       "underlyingCardFor": [
-        "Imperial Decree (V)"
+        {
+          "title": "Imperial Decree (V)",
+          "cardId": 1269
+        },
+        {
+          "title": "Imperial Decree (V) (AI)",
+          "cardId": 7370
+        }
       ]
     },
     {
       "front": {
         "destiny": "4",
         "errataSymbol": "E1",
-        "gametext": "Deploy on table. Whenever you lose Force (except from Force drains, battle damage, or your card), may reduce loss (to a minimum of 1) by the number of battlegrounds you occupy. During battle, may place this Effect out of play to draw one battle destiny if unable to otherwise. (Immune to Alter.)",
+        "gametext": "Deploy on table. Whenever you lose Force (except from Force drains, battle damage, or your card), may reduce loss (to a minimum of 1) by the number of battlegrounds you occupy. During battle, may place this Effect out of play to draw one battle destiny if unable to otherwise. [Immune to Alter.]",
         "icons": [
           "Cloud City",
           "Set 0"
@@ -34867,7 +34928,7 @@
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual5-Dark/large/lukeskywalkertheemperorsprizeback.gif",
         "power": "6",
         "subType": "Rebel",
-        "title": "•Luke Skywalker, The Emperor's Prize / Luke Skywalker, The Emperor's Prize",
+        "title": "•Luke Skywalker, The Emperor's Prize / •Luke Skywalker, The Emperor's Prize",
         "type": "Character",
         "uniqueness": "*",
         "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Luke Skywalker The Emperors Prize (front)/image.png",
@@ -41500,7 +41561,14 @@
       "set": "1",
       "side": "Dark",
       "underlyingCardFor": [
-        "Darth Tyranus"
+        {
+          "title": "Darth Tyranus",
+          "cardId": 6794
+        },
+        {
+          "title": "Darth Tyranus (AI)",
+          "cardId": 7365
+        }
       ]
     },
     {
@@ -58115,8 +58183,18 @@
       "set": "6",
       "side": "Dark",
       "underlyingCardFor": [
-        "Grummgar",
-        "Hondo Ohnaka"
+        {
+          "title": "Grummgar",
+          "cardId": 6963
+        },
+        {
+          "title": "Hondo Ohnaka",
+          "cardId": 6351
+        },
+        {
+          "title": "Hondo Ohnaka (AI)",
+          "cardId": 7368
+        }
       ]
     },
     {
@@ -60999,7 +61077,7 @@
           "set": "213"
         }
       ],
-      "rarity": "C",
+      "rarity": "C2",
       "rulings": [
         "This card is the same persona as Count Dooku, and cards that target Dooku (e.g. Dooku's Lightsaber, Evil Is Everywhere) target this card.",
         "'Immune to Sorry About The Mess' prevents the control phase firing function and prevents the place in Lost Pile function of the combo card. It does not prevent the 3 being added to weapon destiny function of the combo card."
@@ -62902,12 +62980,13 @@
         }
       ],
       "pulls": [
-        "Darth Sidious",
         "Emperor Palpatine",
-        "Emperor Palpatine, Forseer",
+        "Emperor Palpatine, Foreseer",
         "Lord Sidious",
         "Palpatine, Emperor Returned",
-        "The Emperor"
+        "Palpatine, Galactic Emperor",
+        "The Emperor",
+        "The Emperor (V)"
       ],
       "rarity": "U",
       "rulings": [
@@ -63024,7 +63103,8 @@
       "matchingWeapon": [
         "Darth Vader's Lightsaber",
         "Darth Vader's Lightsaber (V)",
-        "Vader's Lightsaber"
+        "Vader's Lightsaber",
+        "Vader's Lightsaber (V)"
       ],
       "printings": [
         {
@@ -63033,7 +63113,7 @@
       ],
       "pulledBy": [
         "Mustafar: Vader's Castle",
-        "Vaneé"
+        "Vanee"
       ],
       "rarity": "C",
       "rulings": [
@@ -63075,7 +63155,7 @@
         }
       ],
       "pulledBy": [
-        "On The Verge Of Greatness/Taking Control Of The Weapon"
+        "On The Verge Of Greatness / Taking Control Of The Weapon"
       ],
       "rarity": "R2",
       "rulings": [
@@ -70789,6 +70869,451 @@
       ],
       "rarity": "C",
       "set": "224",
+      "side": "Dark"
+    },
+    {
+      "front": {
+        "armor": "6",
+        "deploy": "8",
+        "destiny": "1",
+        "forfeit": "9",
+        "gametext": "May add 6 pilots, 6 passengers, and 4 TIEs. Permanent pilot provides ability of 2. While Thrawn piloting, immune to attrition < 5 and game text of We're In Attack Position Now may not be canceled.",
+        "hyperspeed": "3",
+        "icons": [
+          "Death Star II",
+          "Scomp Link",
+          "Pilot",
+          "Nav Computer",
+          "Set 19"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/VirtualAlternateImage-Dark/large/chimaera_ai.gif",
+        "lore": "Early model Imperial-class Star Destroyer. Acting command ship in the absence of Executor.",
+        "power": "9",
+        "subType": "Capital: Imperial-Class Star Destroyer",
+        "title": "•Chimaera (V) (AI)",
+        "type": "Starship",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Chimaera (V) (AI)/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "219_2",
+      "id": 7361,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "219"
+        }
+      ],
+      "rarity": "R",
+      "rulings": [
+        "With Thrawn aboard, the game text of We're In Attack Position Now cannot be canceled/suspended by General Leia Organa.",
+        "Kuat Drive Yards (V) will still cancel the entire We're In Attack Position Now card, sending it to Lost Pile.",
+        "If General Leia Organa is currently suspending WIAPN, and then Dark uses Alert My Star Destroyer (V) to deploy Chimaera (V) with Thrawn aboard simultaneously, the discount from WIAPN is not applied (Dark pays the deploy cost first, before WIAPN gets un-suspended)."
+      ],
+      "set": "219",
+      "side": "Dark"
+    },
+    {
+      "counterpart": "Coruscant",
+      "front": {
+        "darkSideIcons": 2,
+        "destiny": "0",
+        "gametext": "Dark:  While you occupy with a Black Sun agent or ISB agent, gains one [Dark Side] icon and one [Light Side] icon.  Light:  While you control, gains one [Light Side] icon.",
+        "icons": [
+          "Planet",
+          "Set 3"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/VirtualAlternateImage-Dark/large/coruscant_ai.gif",
+        "lightSideIcons": 0,
+        "parsec": "0",
+        "subType": "System",
+        "title": "•Coruscant (V) (AI)",
+        "type": "Location",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Coruscant (Dark) (V) (AI)/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "203_31",
+      "id": 7362,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "203"
+        }
+      ],
+      "rarity": "C",
+      "set": "203",
+      "side": "Dark"
+    },
+    {
+      "front": {
+        "darkSideIcons": 2,
+        "destiny": "0",
+        "errataSymbol": "E1",
+        "gametext": "Dark:  May deploy non-[Theed Palace] Sidious here from Reserve Deck; reshuffle. If your [Special Edition] objective on table, gains one [Light Side] icon and opponent's Force drains are +2 here.  Light:  -",
+        "icons": [
+          "Exterior",
+          "Planet",
+          "Episode I",
+          "Set 16"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/VirtualAlternateImage-Dark/large/coruscanttheworks_ai.gif",
+        "lightSideIcons": 0,
+        "subType": "Site",
+        "title": "•Coruscant: The Works (AI)",
+        "type": "Location",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Coruscant The Works (AI)/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "216_4",
+      "id": 7363,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "216"
+        }
+      ],
+      "pulls": [
+        "Emperor Palpatine",
+        "Emperor Palpatine, Foreseer",
+        "Lord Sidious",
+        "Palpatine, Emperor Returned",
+        "Palpatine, Galactic Emperor",
+        "The Emperor",
+        "The Emperor (V)"
+      ],
+      "rarity": "U",
+      "rulings": [
+        "May deploy any card with the Sidious persona (Emperor Palpatine, The Emperor, Lord Sidious, etc).",
+        "If rotated by Revolution, Light could use the text to deploy Senator Palpatine."
+      ],
+      "set": "216",
+      "side": "Dark"
+    },
+    {
+      "conceptBy": "Original concept by Ryan Jellison and Tom Marlin",
+      "front": {
+        "ability": "2",
+        "characteristics": [
+          "Information Broker",
+          "Black Sun agent",
+          "ISB agent",
+          "Jawa"
+        ],
+        "deploy": "2",
+        "destiny": "3",
+        "forfeit": "4",
+        "gametext": "Adds 2 to power of anything he pilots. Information Broker. When deployed, may deploy a droid here or a Restraining Bolt from Reserve Deck; reshuffle. During battle, may retarget an opponent's weapon targeting your droid to another one of your characters present (even Daroe).",
+        "icons": [
+          "Pilot",
+          "Tatooine",
+          "Set 2"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/VirtualAlternateImage-Dark/large/daroe_ai.gif",
+        "lore": "Jawa who has inside connections with the Empire. Frequently speaks with his Imperial contact, whom he reports to regarding Rebel activity in the Outer Rim.",
+        "power": "2",
+        "subType": "Alien",
+        "title": "•Daroe (V) (AI)",
+        "type": "Character",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Daroe (V) (AI)/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "202_9",
+      "id": 7364,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "202"
+        }
+      ],
+      "pulledBy": [
+        "Herat"
+      ],
+      "pulls": [
+        "A droid or a restraining bolt"
+      ],
+      "rarity": "R",
+      "rulings": [
+        "If deployed at the start of the game using the text on 'You Can Either Profit By This...', may deploy a droid (the droid is free).",
+        "Restraining bolt can be deployed to a different location."
+      ],
+      "set": "202",
+      "side": "Dark"
+    },
+    {
+      "front": {
+        "ability": "7",
+        "characteristics": [
+          "leader"
+        ],
+        "deploy": "7",
+        "destiny": "1",
+        "extraText": [
+          "Dark Jedi Master"
+        ],
+        "forfeit": "8",
+        "gametext": "Deploys -1 to an [Episode I] location. Jedi here are power and immunity to attrition -1. During battle or lightsaber combat involving Dooku, may cancel and redraw an opponent's just drawn destiny. Immune to Sorry About The Mess and attrition < 6.",
+        "icons": [
+          "Pilot",
+          "Warrior",
+          "Separatist",
+          "Episode I",
+          "Set 13"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/VirtualAlternateImage-Dark/large/darthtyranus_ai.gif",
+        "lore": "Serennian leader. Trade Federation.",
+        "power": "5",
+        "subType": "Dark Jedi Master",
+        "title": "•Darth Tyranus (AI)",
+        "type": "Character",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Darth Tyranus (AI)/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "213_3",
+      "id": 7365,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "213"
+        }
+      ],
+      "rarity": "C2",
+      "rulings": [
+        "This card is the same persona as Count Dooku, and cards that target Dooku (e.g. Dooku's Lightsaber, Evil Is Everywhere) target this card.",
+        "'Immune to Sorry About The Mess' prevents the control phase firing function and prevents the place in Lost Pile function of the combo card. It does not prevent the 3 being added to weapon destiny function of the combo card."
+      ],
+      "set": "213",
+      "side": "Dark"
+    },
+    {
+      "front": {
+        "ability": "6",
+        "characteristics": [
+          "leader"
+        ],
+        "deploy": "6",
+        "destiny": "1",
+        "extraText": [
+          "Dark Jedi"
+        ],
+        "forfeit": "8",
+        "gametext": "Adds 3 to power of anything he pilots. During battle, if a lightsaber swung by Vader just 'hit' a character, character's game text is canceled (and if Amidala, she is immediately lost). While on Coruscant, adds one [Dark Side] icon here. Immune to [Set 3] Amidala and attrition < 5.",
+        "icons": [
+          "Pilot",
+          "Warrior",
+          "Episode I",
+          "Set 16"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/VirtualAlternateImage-Dark/large/darthvaderbetrayerofthejedi_ai.gif",
+        "lore": "Leader.",
+        "power": "6",
+        "subType": "Sith",
+        "title": "•Darth Vader, Betrayer Of The Jedi (AI)",
+        "type": "Character",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Darth Vader Betrayer Of The Jedi (AI)/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "216_6",
+      "id": 7366,
+      "legacy": false,
+      "matching": [
+        "Vader's Custom TIE",
+        "Vader's Custom TIE (V)",
+        "Vader's Personal Shuttle",
+        "Vader's Personal Shuttle (V)"
+      ],
+      "matchingWeapon": [
+        "Darth Vader's Lightsaber",
+        "Darth Vader's Lightsaber (V)",
+        "Vader's Lightsaber",
+        "Vader's Lightsaber (V)"
+      ],
+      "printings": [
+        {
+          "set": "216"
+        }
+      ],
+      "pulledBy": [
+        "Mustafar: Vader's Castle",
+        "Vanee"
+      ],
+      "rarity": "C",
+      "rulings": [
+        "If Amidala is prevented from being made immediately lost by K'lor'slug (V), her gametext is still canceled.",
+        "Even if persona replacing a Vader whose gametext is already being canceled by Amidala, this card's game text will not be canceled by Amidala."
+      ],
+      "set": "216",
+      "side": "Dark"
+    },
+    {
+      "abbr": [
+        "DS",
+        "D*"
+      ],
+      "counterpart": "Death Star",
+      "front": {
+        "darkSideIcons": 2,
+        "destiny": "0",
+        "gametext": "Dark:  X = parsec of current position (starts at 4). Deploys only if On The Verge Of Greatness on table. Hyperspeed = 2. Starships may move between Death Star and system it orbits as a 'react.'  Light:  -",
+        "icons": [
+          "Mobile",
+          "Set 16"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/VirtualAlternateImage-Dark/large/deathstar_ai.gif",
+        "lightSideIcons": 0,
+        "subType": "System",
+        "title": "•Death Star (V) (AI)",
+        "type": "Location",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Death Star (V) (AI)/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "216_7",
+      "id": 7367,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "216"
+        }
+      ],
+      "pulledBy": [
+        "On The Verge Of Greatness / Taking Control Of The Weapon"
+      ],
+      "rarity": "R2",
+      "rulings": [
+        "Both players may use the 'react' text on this card."
+      ],
+      "set": "216",
+      "side": "Dark"
+    },
+    {
+      "front": {
+        "ability": "3",
+        "characteristics": [
+          "Weequay",
+          "gangster",
+          "leader",
+          "pirate"
+        ],
+        "deploy": "3",
+        "destiny": "2",
+        "errataSymbol": "E1",
+        "forfeit": "5",
+        "gametext": "Draws one battle destiny if not able to otherwise. While at Audience Chamber (or stacked on your Objective), your other Weequays are deploy -1, power +1, and forfeit +2. Once per game, may deploy Aurra, Slave I, or a Kowakian from Reserve Deck; reshuffle.",
+        "icons": [
+          "Pilot",
+          "Warrior",
+          "Set 5"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/VirtualAlternateImage-Dark/large/hondoohnaka_ai.gif",
+        "lore": "Weequay gangster, leader, and pirate.",
+        "power": "4",
+        "subType": "Alien",
+        "title": "•Hondo Ohnaka (AI)",
+        "type": "Character",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Hondo Ohnaka (AI)/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "205_13",
+      "id": 7368,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "205"
+        }
+      ],
+      "pulls": [
+        "Aurra Sing",
+        "Aurra Sing With Blaster Rifle",
+        "Boba Fett In Slave I",
+        "Boba Fett In Slave I (V)",
+        "Slave I",
+        "Slave I, Symbol Of Fear",
+        "Salacious Crumb"
+      ],
+      "rarity": "C",
+      "rulings": [
+        "May deploy any card with the Aurra persona (including Aurra Sing and Aurra Sing With Blaster Rifle)"
+      ],
+      "set": "205",
+      "side": "Dark"
+    },
+    {
+      "counterpart": "Like My Father Before Me",
+      "front": {
+        "destiny": "6",
+        "gametext": "Deploy on table. [Death Star 2] Vader is deploy = 6. Once per turn, may deploy Vader's Lightsaber from Reserve Deck; reshuffle (or lose 1 Force to deploy it from Lost Pile). Whenever a lightsaber swung by Vader 'hits' a character, opponent loses 1 Force. Immune to NOOOOOOOOOOOO! [Immune to Alter.]",
+        "icons": [
+          "Cloud City",
+          "Set 5"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/VirtualAlternateImage-Dark/large/iamyourfather_ai.gif",
+        "lore": "'Search your feelings, you know it to be true.'",
+        "title": "•I Am Your Father (V) (AI)",
+        "type": "Effect",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/I Am Your Father (V) (AI)/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "205_17",
+      "id": 7369,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "205"
+        }
+      ],
+      "pulledBy": [
+        "Surface Defense (V)",
+        "Twi'lek Advisor",
+        "We Must Accelerate Our Plans",
+        "You Are Beaten"
+      ],
+      "pulls": [
+        "Darth Vader's Lightsaber",
+        "Darth Vader's Lightsaber (V)",
+        "Vader's Lightsaber",
+        "Vader's Lightsaber (V)"
+      ],
+      "rarity": "R",
+      "set": "205",
+      "side": "Dark"
+    },
+    {
+      "front": {
+        "destiny": "4",
+        "errataSymbol": "E1",
+        "gametext": "Deploy on table. Whenever you lose Force (except from Force drains, battle damage, or your card), may reduce loss (to a minimum of 1) by the number of battlegrounds you occupy. During battle, may place this Effect out of play to draw one battle destiny if unable to otherwise. [Immune to Alter.]",
+        "icons": [
+          "Cloud City",
+          "Set 0"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/VirtualAlternateImage-Dark/large/imperialdecree_ai.gif",
+        "lore": "To Imperial command personnel: The Rebellion must be crushed! Minor acts of sedition are to be ignored. The destruction of the Alliance is your primary goal.",
+        "title": "Imperial Decree (V) (AI)",
+        "type": "Effect",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Imperial Decree (V) (AI)/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "200_108",
+      "id": 7370,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "200"
+        }
+      ],
+      "pulledBy": [
+        "Twi'lek Advisor",
+        "We Must Accelerate Our Plans"
+      ],
+      "rarity": "U",
+      "set": "200",
       "side": "Dark"
     }
   ]
