@@ -2779,7 +2779,14 @@
       "set": "3",
       "side": "Light",
       "underlyingCardFor": [
-        "Anakin's Lightsaber (V)"
+        {
+          "title": "Anakin's Lightsaber (V)",
+          "cardId": 5343
+        },
+        {
+          "title": "Anakin's Lightsaber (V) (AI)",
+          "cardId": 7373
+        }
       ]
     },
     {
@@ -2819,10 +2826,12 @@
         "Luke With Lightsaber",
         "Mara Jade",
         "Master Luke",
+        "Master Luke (V)",
         "Rey",
         "Rey, All Of The Jedi",
-        "Master Luke",
-        "Son Of Skywalker"
+        "Son Of Skywalker",
+        "Son Of Skywalker (V)",
+        "Young Skywalker"
       ],
       "printings": [
         {
@@ -2832,6 +2841,7 @@
       "pulledBy": [
         "Gift Of The Mentor",
         "Son Of Skywalker",
+        "Son Of Skywalker (V)",
         "Your Thoughts Dwell On Your Mother"
       ],
       "rarity": "R1",
@@ -8082,7 +8092,7 @@
       "side": "Light"
     },
     {
-      "conceptBy": "(Original concept by Matt Schmaltz)",
+      "conceptBy": "Original concept by Matt Schmaltz",
       "front": {
         "ability": "3",
         "characteristics": [
@@ -8124,7 +8134,7 @@
         }
       ],
       "pulledBy": [
-        "This Is MY Ship!",
+        "Lothal",
         "Yavin 4: Massassi War Room (V)"
       ],
       "rarity": "C",
@@ -8132,7 +8142,7 @@
       "side": "Light"
     },
     {
-      "conceptBy": "(Original concept by Matt Schmaltz)",
+      "conceptBy": "Original concept by Matt Schmaltz",
       "front": {
         "ability": "3",
         "characteristics": [
@@ -8174,7 +8184,7 @@
         }
       ],
       "pulledBy": [
-        "This Is MY Ship!",
+        "Lothal",
         "Yavin 4: Massassi War Room (V)"
       ],
       "rarity": "C",
@@ -11239,7 +11249,14 @@
       "set": "2",
       "side": "Light",
       "underlyingCardFor": [
-        "Lor San Tekka"
+        {
+          "title": "Lor San Tekka",
+          "cardId": 5083
+        },
+        {
+          "title": "Lor San Tekka (AI)",
+          "cardId": 7377
+        }
       ]
     },
     {
@@ -12950,7 +12967,14 @@
       "set": "7",
       "side": "Light",
       "underlyingCardFor": [
-        "Restore Freedom To The Galaxy"
+        {
+          "title": "Restore Freedom To The Galaxy",
+          "cardId": 5235
+        },
+        {
+          "title": "Restore Freedom To The Galaxy (AI)",
+          "cardId": 7381
+        }
       ]
     },
     {
@@ -13856,8 +13880,18 @@
       "set": "4",
       "side": "Light",
       "underlyingCardFor": [
-        "Ahch-To: Luke's Hut",
-        "Ajan Kloss: Training Course"
+        {
+          "title": "Ahch-To: Luke's Hut",
+          "cardId": 5325
+        },
+        {
+          "title": "Ajan Kloss: Training Course",
+          "cardId": 6979
+        },
+        {
+          "title": "Ajan Kloss: Training Course (AI)",
+          "cardId": 7371
+        }
       ]
     },
     {
@@ -13975,9 +14009,22 @@
       "set": "4",
       "side": "Light",
       "underlyingCardFor": [
-        "Ahch-To: Saddle",
-        "Ahch-To: Saddle (AI)",
-        "Dagobah: Yoda's Hut (V)"
+        {
+          "title": "Ahch-To: Saddle",
+          "cardId": 5326
+        },
+        {
+          "title": "Ahch-To: Saddle (AI)",
+          "cardId": 7020
+        },
+        {
+          "title": "Dagobah: Yoda's Hut (V)",
+          "cardId": 6929
+        },
+        {
+          "title": "Dagobah: Yoda's Hut (V) (AI)",
+          "cardId": 7375
+        }
       ]
     },
     {
@@ -25189,7 +25236,14 @@
       "set": "9",
       "side": "Light",
       "underlyingCardFor": [
-        "Like My Father Before Me"
+        {
+          "title": "Like My Father Before Me",
+          "cardId": 5015
+        },
+        {
+          "title": "Like My Father Before Me (AI)",
+          "cardId": 7376
+        }
       ]
     },
     {
@@ -28351,7 +28405,7 @@
       "front": {
         "darkSideIcons": 1,
         "destiny": "0",
-        "gametext": "Light:  Lor San Tekka is power +4 and defense value -2 here.  Dark:  If your First Order character here, your total power here is +2.",
+        "gametext": "Light: Lor San Tekka is power +4 and defense value -2 here. Dark: If your First Order character here, your total power here is +2.",
         "icons": [
           "Exterior",
           "Planet",
@@ -28827,8 +28881,18 @@
       "set": "1",
       "side": "Light",
       "underlyingCardFor": [
-        "Jedi Lightsaber (V)",
-        "Mace Windu's Lightsaber"
+        {
+          "title": "Jedi Lightsaber (V)",
+          "cardId": 5631
+        },
+        {
+          "title": "Mace Windu's Lightsaber",
+          "cardId": 1387
+        },
+        {
+          "title": "Mace Windu's Lightsaber (AI)",
+          "cardId": 7378
+        }
       ]
     },
     {
@@ -30523,8 +30587,18 @@
       "set": "7",
       "side": "Light",
       "underlyingCardFor": [
-        "Captain Hera Syndulla",
-        "Captain Hera Syndulla (AI)"
+        {
+          "title": "Captain Hera Syndulla",
+          "cardId": 5087
+        },
+        {
+          "title": "Captain Hera Syndulla (AI)",
+          "cardId": 7022
+        },
+        {
+          "title": "Captain Hera Syndulla (Border Breaker AI)",
+          "cardId": 7383
+        }
       ]
     },
     {
@@ -33310,7 +33384,7 @@
       "combo": [
         "Like My Father Before Me + Luke Skywalker, Jedi Knight"
       ],
-      "conceptBy": "(Original concept by Chris Kelly)",
+      "conceptBy": "Original concept by Chris Kelly",
       "front": {
         "destiny": "4",
         "errataSymbol": "E1",
@@ -35411,6 +35485,7 @@
         "destiny": "1",
         "gametext": "Deploy on Mace. May add 1 to Force drain where present. Mace may add 1 to his duel total. May target a character or creature for free. Draw two destiny. Target hit, and its forfeit = 0, if total destiny > defense value.",
         "icons": [
+          "Episode I",
           "Set 1"
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual1-Light/large/macewinduslightsaber.gif",
@@ -41303,7 +41378,14 @@
       "set": "10",
       "side": "Light",
       "underlyingCardFor": [
-        "Outrider (V)"
+        {
+          "title": "Outrider (V)",
+          "cardId": 7068
+        },
+        {
+          "title": "Outrider (V) (AI)",
+          "cardId": 7379
+        }
       ]
     },
     {
@@ -42558,7 +42640,6 @@
       "gempId": "12_21",
       "id": 1916,
       "legacy": false,
-      "matchingWeapon": [],
       "printings": [
         {
           "set": "12"
@@ -42572,12 +42653,22 @@
       "set": "12",
       "side": "Light",
       "underlyingCardFor": [
-        "Plo Koon (V)"
+        {
+          "title": "Plo Koon (V)",
+          "cardId": 5804
+        },
+        {
+          "title": "Plo Koon (V) (AI)",
+          "cardId": 7380
+        }
       ]
     },
     {
       "front": {
         "ability": "7",
+        "characteristics": [
+          "Jedi Council member"
+        ],
         "deploy": "5",
         "destiny": "2",
         "extraText": [
@@ -42586,6 +42677,7 @@
         "forfeit": "5",
         "gametext": "Adds 2 to power of anything he pilots. Deploys -2 to same location as Ahsoka (or vice versa). Once per turn, may lose top card of Force Pile to make your character (or piloted [Episode I] starfighter) here forfeit +2 and immune to attrition for remainder of turn.",
         "icons": [
+          "Coruscant",
           "Pilot",
           "Warrior",
           "Episode I",
@@ -55855,7 +55947,14 @@
       "set": "1",
       "side": "Light",
       "underlyingCardFor": [
-        "Tatooine: Obi-Wan's Hut (V)"
+        {
+          "title": "Tatooine: Obi-Wan's Hut (V)",
+          "cardId": 6946
+        },
+        {
+          "title": "Tatooine: Obi-Wan's Hut (V) (AI)",
+          "cardId": 7382
+        }
       ]
     },
     {
@@ -59628,7 +59727,14 @@
       "set": "3",
       "side": "Light",
       "underlyingCardFor": [
-        "Anakin Skywalker, Jedi Knight"
+        {
+          "title": "Anakin Skywalker, Jedi Knight",
+          "cardId": 6924
+        },
+        {
+          "title": "Anakin Skywalker, Jedi Knight (Holo AI)",
+          "cardId": 7372
+        }
       ]
     },
     {
@@ -66997,6 +67103,9 @@
       "side": "Light"
     },
     {
+      "abbr": [
+        "ASJK"
+      ],
       "front": {
         "ability": "6",
         "characteristics": [
@@ -67030,7 +67139,8 @@
       "id": 6924,
       "legacy": false,
       "matchingWeapon": [
-        "Anakin's Lightsaber"
+        "Anakin's Lightsaber",
+        "Anakin's Lightsaber (V)"
       ],
       "printings": [
         {
@@ -67199,7 +67309,7 @@
       "rarity": "U",
       "rulings": [
         "Light may not attempt to deploy Theed Palace Generator if it is already on table.",
-        "Light may only attempt to deploy Theed Palace Generator once per turn (during their own deploy phase)."
+        "Light may only attempt to deploy Theed Palace Generator during their own deploy phase."
       ],
       "set": "216",
       "side": "Light"
@@ -68248,7 +68358,7 @@
       "front": {
         "darkSideIcons": 0,
         "destiny": "0",
-        "gametext": "Dark:  Light: Deploys only as a starting location. If you just chose You Have That Power, Too on your [Skywalker] Epic Event, deploy My Parents Were Strong from Reserve Deck; reshuffle.",
+        "gametext": "Light: Deploys only as a starting location. If you just chose You Have That Power, Too on your [Skywalker] Epic Event, deploy My Parents Were Strong from Reserve Deck; reshuffle. Dark:",
         "icons": [
           "Exterior",
           "Planet",
@@ -73941,7 +74051,7 @@
       "front": {
         "darkSideIcons": 1,
         "destiny": "0",
-        "gametext": "Light:  Lor San Tekka is power +4 and defense value -2 here.  Dark:  If your First Order character here, your total power here is +2.",
+        "gametext": "Light: Lor San Tekka is power +4 and defense value -2 here. Dark: If your First Order character here, your total power here is +2.",
         "icons": [
           "Exterior",
           "Planet",
@@ -75798,6 +75908,581 @@
       ],
       "rarity": "R2",
       "set": "224",
+      "side": "Light"
+    },
+    {
+      "abbr": [
+        "AKTC"
+      ],
+      "front": {
+        "darkSideIcons": 0,
+        "destiny": "0",
+        "gametext": "Light: Deploys only as a starting location. If you just chose You Have That Power, Too on your [Skywalker] Epic Event, deploy My Parents Were Strong from Reserve Deck; reshuffle. Dark:",
+        "icons": [
+          "Exterior",
+          "Planet",
+          "Skywalker",
+          "Episode VII",
+          "Set 17"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/VirtualAlternateImage-Light/large/ajanklosstrainingcourse_ai.gif",
+        "lightSideIcons": 2,
+        "subType": "Site",
+        "title": "•Ajan Kloss: Training Course (AI)",
+        "type": "Location",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Ajan Kloss Training Course (AI)/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "217_27",
+      "id": 7371,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "217"
+        }
+      ],
+      "pulls": [
+        "My Parents Were Strong"
+      ],
+      "rarity": "U",
+      "rulings": [
+        "Cannot be deployed by another card (such as an Objective or Starting Interrupt)."
+      ],
+      "set": "217",
+      "side": "Light"
+    },
+    {
+      "abbr": [
+        "Anakin Skywalker, Jedi Knight (AI)",
+        "ASJK"
+      ],
+      "front": {
+        "ability": "6",
+        "characteristics": [
+          "Jedi Council member"
+        ],
+        "deploy": "8",
+        "destiny": "1",
+        "extraText": [
+          "Jedi Knight"
+        ],
+        "forfeit": "8",
+        "gametext": "Adds 3 to power of anything he pilots. While armed with a lightsaber, adds 2 to his defense value. During battle, may lose 2 Force to add one battle destiny. Immune to attrition < 6.",
+        "icons": [
+          "Pilot",
+          "Warrior",
+          "Episode I",
+          "Clone Army",
+          "Set 16"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/VirtualAlternateImage-Light/large/anakinskywalkerjediknight_ai.gif",
+        "lore": "Jedi Council member",
+        "power": "7",
+        "subType": "Republic",
+        "title": "•Anakin Skywalker, Jedi Knight (Holo AI)",
+        "type": "Character",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Anakin Skywalker Jedi Knight (AI)/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "216_21",
+      "id": 7372,
+      "legacy": false,
+      "matchingWeapon": [
+        "Anakin's Lightsaber",
+        "Anakin's Lightsaber (V)"
+      ],
+      "printings": [
+        {
+          "set": "216"
+        }
+      ],
+      "rarity": "C2",
+      "rulings": [
+        "Losing 2 Force is a cost to add a battle destiny; this cost cannot be reduced such as by It Could Be Worse. Likewise if We're Doomed has been played, it is simply ignored and Light still loses 2, not 1."
+      ],
+      "set": "216",
+      "side": "Light"
+    },
+    {
+      "front": {
+        "destiny": "1",
+        "gametext": "Deploy on Anakin, Luke, or Rey. May add 1 to Force drain where present. May target a character or creature for free. Draw two destiny. Target hit, and its forfeit = 0, if total destiny > defense value.",
+        "icons": [
+          "Hoth",
+          "Episode I",
+          "Episode VII",
+          "Set 10"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/VirtualAlternateImage-Light/large/anakinslightsaber_ai.gif",
+        "lore": "Constructed by Anakin Skywalker. Kept by Obi-Wan Kenobi until given to Luke.",
+        "subType": "Character",
+        "title": "•Anakin's Lightsaber (V) (AI)",
+        "type": "Weapon",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Anakins Lightsaber (V) (AI)/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "210_3",
+      "id": 7373,
+      "legacy": false,
+      "matchingWeapon": [
+        "Anakin Skywalker, Jedi Knight",
+        "Anakin Skywalker, Padawan Learner",
+        "Commander Luke Skywalker",
+        "Commander Luke Skywalker (V)",
+        "Luke",
+        "Luke Skywalker",
+        "Luke Skywalker (V)",
+        "Luke Skywalker, Jedi Knight",
+        "Luke Skywalker, Rebel Scout",
+        "Luke Skywalker, Rebel Scout (V)",
+        "Luke Skywalker, The Rebellion's Hope",
+        "Luke With Lightsaber",
+        "Mara Jade",
+        "Master Luke",
+        "Master Luke (V)",
+        "Rey",
+        "Rey, All Of The Jedi",
+        "Son Of Skywalker",
+        "Son Of Skywalker (V)",
+        "Young Skywalker"
+      ],
+      "printings": [
+        {
+          "set": "210"
+        }
+      ],
+      "pulledBy": [
+        "Gift Of The Mentor",
+        "Son Of Skywalker",
+        "Son Of Skywalker (V)",
+        "Your Thoughts Dwell On Your Mother"
+      ],
+      "rarity": "R1",
+      "set": "210",
+      "side": "Light"
+    },
+    {
+      "front": {
+        "darkSideIcons": 0,
+        "destiny": "0",
+        "gametext": "Light: While Qui-Gon 'communing,' no Force drains here and, once per turn, may deploy Theed Palace Generator from Reserve Deck; reshuffle. Dark:",
+        "icons": [
+          "Interior",
+          "Planet",
+          "Episode I",
+          "Set 16"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/VirtualAlternateImage-Light/large/coruscantjeditemplemeditationroom_ai.gif",
+        "lightSideIcons": 2,
+        "subType": "Site",
+        "title": "•Coruscant: Jedi Temple Meditation Room (AI)",
+        "type": "Location",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Coruscant Jedi Temple Meditation Room (AI)/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "216_25",
+      "id": 7374,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "216"
+        }
+      ],
+      "rarity": "U",
+      "rulings": [
+        "Light may not attempt to deploy Theed Palace Generator if it is already on table.",
+        "Light may only attempt to deploy Theed Palace Generator during their own deploy phase."
+      ],
+      "set": "216",
+      "side": "Light"
+    },
+    {
+      "front": {
+        "darkSideIcons": 0,
+        "destiny": "0",
+        "errataSymbol": "E1",
+        "gametext": "Light: If Yoda here or [Set 16] Yoda 'communing,' Broken Concentration is canceled and, once per turn, you may subtract 2 from attrition against you. Dark:",
+        "icons": [
+          "Dagobah",
+          "Exterior",
+          "Planet",
+          "Set 16"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/VirtualAlternateImage-Light/large/dagobahyodashut_ai.gif",
+        "lightSideIcons": 2,
+        "subType": "Site",
+        "title": "•Dagobah: Yoda's Hut (V) (AI)",
+        "type": "Location",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Dagobah Yodas Hut (V) (AI)/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "216_26",
+      "id": 7375,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "216"
+        }
+      ],
+      "pulledBy": [
+        "Dagobah",
+        "Dagobah (V)",
+        "Our Only Hope (V)"
+      ],
+      "rarity": "R",
+      "rulings": [
+        "Declare attrition subtraction during the power segment, after all battle destinies and attrition destinies have been drawn by both players."
+      ],
+      "set": "216",
+      "side": "Light"
+    },
+    {
+      "abbr": [
+        "LMFBM"
+      ],
+      "combo": [
+        "Like My Father Before Me + Luke Skywalker, Jedi Knight"
+      ],
+      "conceptBy": "Original concept by Chris Kelly",
+      "front": {
+        "destiny": "4",
+        "errataSymbol": "E1",
+        "gametext": "If an Endor site on table, deploy on table. [Death Star II] Luke is deploy = 6 and may not be Disarmed. If Luke is at a battleground (even as a captive), your battle destiny draws are +1 there and, once during your turn, may deploy Luke's Lightsaber from Reserve Deck (reshuffle) or place a card from hand on Force Pile. [Immune to Alter.]",
+        "icons": [
+          "Set 2"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/VirtualAlternateImage-Light/large/likemyfatherbeforeme_ai.gif",
+        "lore": "The final act of Luke's ascension to Jedi Knighthood was sending off his father, draped in the garb of Vader.",
+        "title": "•Like My Father Before Me (AI)",
+        "type": "Effect",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Like My Father Before Me (AI)/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "202_5",
+      "id": 7376,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "202"
+        }
+      ],
+      "pulledBy": [
+        "Endor: Anakin's Funeral Pyre"
+      ],
+      "pulls": [
+        "Luke's Lightsaber"
+      ],
+      "rarity": "U",
+      "rulings": [
+        "Although you are allowed to attempt to deploy Luke's Lightsaber when he is a captive at a battleground, it fails to deploy on him (he is inactive)."
+      ],
+      "set": "202",
+      "side": "Light"
+    },
+    {
+      "front": {
+        "ability": "4",
+        "characteristics": [
+          "Information broker",
+          "leader"
+        ],
+        "deploy": "3",
+        "destiny": "3",
+        "forfeit": "5",
+        "gametext": "If you just deployed BB-8 or a Resistance leader to same or related location, may draw top card of Reserve Deck. During your control phase, one of your other Resistance characters present may make a regular move.",
+        "icons": [
+          "Episode VII",
+          "Set 4"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/VirtualAlternateImage-Light/large/lorsantekka_ai.gif",
+        "lore": "Information broker. Leader.",
+        "power": "1",
+        "subType": "Resistance",
+        "title": "•Lor San Tekka (AI)",
+        "type": "Character",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Lor San Tekka (AI)/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "204_7",
+      "id": 7377,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "204"
+        }
+      ],
+      "pulledBy": [
+        "Why Does Everyone Want To Go Back To Jakku?!"
+      ],
+      "rarity": "C1",
+      "rulings": [
+        "May respond to his own deployment."
+      ],
+      "set": "204",
+      "side": "Light"
+    },
+    {
+      "front": {
+        "characteristics": [
+          "lightsaber"
+        ],
+        "destiny": "1",
+        "gametext": "Deploy on Mace. May add 1 to Force drain where present. Mace may add 1 to his duel total. May target a character or creature for free. Draw two destiny. Target hit, and its forfeit = 0, if total destiny > defense value.",
+        "icons": [
+          "Episode I",
+          "Set 1"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/VirtualAlternateImage-Light/large/macewinduslightsaber_ai.gif",
+        "lore": "Elegant sword of pure energy. 'This is the weapon of a Jedi Knight. Not as clumsy or as random as a blaster.' A lightsaber can be dangerous to an unskilled user.",
+        "subType": "Character",
+        "title": "•Mace Windu's Lightsaber (AI)",
+        "type": "Weapon",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Mace Windus Lightsaber (AI)/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "201_21",
+      "id": 7378,
+      "legacy": false,
+      "matchingWeapon": [
+        "Mace Windu"
+      ],
+      "printings": [
+        {
+          "set": "201"
+        }
+      ],
+      "pulledBy": [
+        "Gift Of The Mentor"
+      ],
+      "rarity": "U1",
+      "set": "201",
+      "side": "Light"
+    },
+    {
+      "front": {
+        "characteristics": [
+          "Independent (starship)"
+        ],
+        "deploy": "2",
+        "destiny": "2",
+        "forfeit": "5",
+        "gametext": "May add 2 pilots and 1 passenger. Power, maneuver, and immunity to attrition +1 for each card stacked on A Useless Gesture (limit +3). While Dash or Leebo piloting, immune to attrition < 4.",
+        "hyperspeed": "5",
+        "icons": [
+          "Reflections 2",
+          "Scomp Link",
+          "Independent",
+          "Nav Computer",
+          "Set 18"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/VirtualAlternateImage-Light/large/outrider_ai.gif",
+        "lore": "Highly modified Corellian Engineering Corporation YT-2400. KonGar KGDefender military grade ion engines. Griffyn/Y2TG hyperdrive. Never boarded by Imperial customs.",
+        "maneuver": "3",
+        "power": "3",
+        "subType": "Starfighter: Modified Light Freighter",
+        "title": "•Outrider (V) (AI)",
+        "type": "Starship",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Outrider (V) (AI)/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "218_27",
+      "id": 7379,
+      "legacy": false,
+      "matching": [
+        "Dash Rendar",
+        "Dash Rendar (V)",
+        "LE-BO2D9 (Leebo)"
+      ],
+      "printings": [
+        {
+          "set": "218"
+        }
+      ],
+      "pulledBy": [
+        "Local Defense",
+        "Local Defense & Put That Down",
+        "Seeking An Audience (V) (only from Lost Pile)",
+        "Yoxgit (V) (only if Outrider (V) drawn for destiny)"
+      ],
+      "rarity": "PM",
+      "rulings": [
+        "More than 3 cards may still be stacked on A Useless Gesture, they just don't grant any further bonus to Outrider (V).",
+        "Even if the +3 bonus has been reached, Outrider (V) may still receive bonuses from other cards (e.g. Special Modifications still adds 2 to maneuver)."
+      ],
+      "set": "218",
+      "side": "Light"
+    },
+    {
+      "front": {
+        "ability": "7",
+        "characteristics": [
+          "Jedi Council member"
+        ],
+        "deploy": "5",
+        "destiny": "2",
+        "extraText": [
+          "Jedi Master"
+        ],
+        "forfeit": "5",
+        "gametext": "Adds 2 to power of anything he pilots. Deploys -2 to same location as Ahsoka (or vice versa). Once per turn, may lose top card of Force Pile to make your character (or piloted [Episode I] starfighter) here forfeit +2 and immune to attrition for remainder of turn.",
+        "icons": [
+          "Coruscant",
+          "Pilot",
+          "Warrior",
+          "Episode I",
+          "Set 10"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/VirtualAlternateImage-Light/large/plokoon_ai.gif",
+        "lore": "Kel Dor Jedi Council member descended from a long line of Jedi. Known for exceptional sensory skills, Plo Koon's control of the Force is unmatched by most.",
+        "power": "5",
+        "subType": "Jedi Master",
+        "title": "•Plo Koon (V) (AI)",
+        "type": "Character",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Plo Koon (V) (AI)/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "210_23",
+      "id": 7380,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "210"
+        }
+      ],
+      "rarity": "R",
+      "set": "210",
+      "side": "Light"
+    },
+    {
+      "abbr": [
+        "RFTTG"
+      ],
+      "front": {
+        "destiny": "0",
+        "gametext": "If Yavin 4 on table, deploy on table. If you just initiated a Force drain at a battleground system (except a 'liberated' system), may draw destiny. Add 1 for each piloted unique (•) snub fighter present at that system. If total destiny > 5, opponent loses 1 Force and stacks lost card face down there (while that card stacked there, system is 'liberated'). If opponent Force drains at a 'liberated' system, place stacked card in owner's Used Pile. At each 'liberated' system, your Force drains are +1 and opponent's starships are deploy +1.",
+        "icons": [
+          "Set 8"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/VirtualAlternateImage-Light/large/restorefreedomtothegalaxy_ai.gif",
+        "title": "•Restore Freedom To The Galaxy (AI)",
+        "type": "Epic Event",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Restore Freedom To The Galaxy (AI)/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "208_17",
+      "id": 7381,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "208"
+        }
+      ],
+      "rarity": "R",
+      "rulings": [
+        "When Light Force drains, Dark gets first optional response, and may cancel the drain (e.g. with Control), preventing Light from responding with a destiny draw attempt to liberate the system.",
+        "When Light liberates a system, the Force drain +1 bonus is immediately applied to the very same Force drain that triggered the liberation.",
+        "When Dark Force drains, placing the stacked card in owner's Used Pile is an automatic response, occurring before optional responses such as Light using Control or Blue Squadron 1 to cancel the drain.",
+        "If a player loses Force from hand to stack under a system, it is first revealed to both players, then stacked face down.",
+        "If a player loses Force from Life Force to stack under a system, it is not revealed to anyone. Stack it face down, unseen.",
+        "Only Dark may view Dark's cards after they are stacked face down under a system."
+      ],
+      "set": "208",
+      "side": "Light"
+    },
+    {
+      "front": {
+        "darkSideIcons": 0,
+        "destiny": "0",
+        "errataSymbol": "E1",
+        "gametext": "Light: While Obi-Wan 'communing,' no Force drains here and, once per turn, may subtract 2 from a just drawn [Permanent Weapon] weapon destiny. Dark:",
+        "icons": [
+          "Exterior",
+          "Planet",
+          "Set 16"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/VirtualAlternateImage-Light/large/tatooineobiwanshut_ai.gif",
+        "lightSideIcons": 2,
+        "subType": "Site",
+        "title": "•Tatooine: Obi-Wan's Hut (V) (AI)",
+        "type": "Location",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Tatooine Obi-Wans Hut (V) (AI)/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "216_43",
+      "id": 7382,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "216"
+        }
+      ],
+      "pulledBy": [
+        "Return Of A Jedi (V)"
+      ],
+      "rarity": "R1",
+      "set": "216",
+      "side": "Light"
+    },
+    {
+      "conceptBy": "Original concept by Matt Schmaltz",
+      "front": {
+        "ability": "3",
+        "characteristics": [
+          "leader",
+          "female",
+          "Twi'lek"
+        ],
+        "deploy": "4",
+        "destiny": "3",
+        "extraText": [
+          "Force-Attuned"
+        ],
+        "forfeit": "6",
+        "gametext": "Adds 3 to power of anything she pilots. If with an Imperial (or two Rebels), adds one battle destiny. During battle, if you just drew a destiny < number of Rebels here, may cancel and redraw that destiny.",
+        "icons": [
+          "Pilot",
+          "Warrior",
+          "Set 4"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/VirtualAlternateImage-Light/large/captainherasyndulla_ai2.gif",
+        "lore": "Female Twi'lek leader.",
+        "power": "4",
+        "subType": "Rebel",
+        "title": "•Captain Hera Syndulla (Border Breaker AI)",
+        "type": "Character",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Captain Hera Syndulla (AI - Border Breaker)/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "204_3",
+      "id": 7383,
+      "legacy": false,
+      "matching": [
+        "Ghost"
+      ],
+      "printings": [
+        {
+          "set": "204"
+        }
+      ],
+      "pulledBy": [
+        "Lothal",
+        "Yavin 4: Massassi War Room (V)"
+      ],
+      "rarity": "C",
+      "set": "204",
       "side": "Light"
     }
   ]
