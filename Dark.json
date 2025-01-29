@@ -41566,7 +41566,7 @@
           "cardId": 6794
         },
         {
-          "title": "Darth Tyranus (AI)",
+          "title": "Darth Tyranus (Holo AI)",
           "cardId": 7365
         }
       ]
@@ -61040,6 +61040,9 @@
       "side": "Dark"
     },
     {
+      "abbr": [
+        "DT"
+      ],
       "front": {
         "ability": "7",
         "characteristics": [
@@ -71043,6 +71046,10 @@
       "side": "Dark"
     },
     {
+      "abbr": [
+        "Darth Tyranus (AI)",
+        "DT"
+      ],
       "front": {
         "ability": "7",
         "characteristics": [
@@ -71066,7 +71073,7 @@
         "lore": "Serennian leader. Trade Federation.",
         "power": "5",
         "subType": "Dark Jedi Master",
-        "title": "•Darth Tyranus (AI)",
+        "title": "•Darth Tyranus (Holo AI)",
         "type": "Character",
         "uniqueness": "*",
         "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Darth Tyranus (AI)/image.png",

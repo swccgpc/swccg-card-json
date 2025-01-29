@@ -59732,7 +59732,7 @@
           "cardId": 6924
         },
         {
-          "title": "Anakin Skywalker, Jedi Knight (AI)",
+          "title": "Anakin Skywalker, Jedi Knight (Holo AI)",
           "cardId": 7372
         }
       ]
@@ -67103,6 +67103,9 @@
       "side": "Light"
     },
     {
+      "abbr": [
+        "ASJK"
+      ],
       "front": {
         "ability": "6",
         "characteristics": [
@@ -75950,6 +75953,10 @@
       "side": "Light"
     },
     {
+      "abbr": [
+        "Anakin Skywalker, Jedi Knight (AI)",
+        "ASJK"
+      ],
       "front": {
         "ability": "6",
         "characteristics": [
@@ -75973,7 +75980,7 @@
         "lore": "Jedi Council member",
         "power": "7",
         "subType": "Republic",
-        "title": "•Anakin Skywalker, Jedi Knight (AI)",
+        "title": "•Anakin Skywalker, Jedi Knight (Holo AI)",
         "type": "Character",
         "uniqueness": "*",
         "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Anakin Skywalker Jedi Knight (AI)/image.png",
