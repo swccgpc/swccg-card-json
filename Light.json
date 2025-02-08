@@ -58048,10 +58048,9 @@
       ],
       "rarity": "C",
       "rulings": [
-        "May choose to deploy both cards from hand only, without even searching Reserve Deck. But if that is not possible then Reserve Deck must be searched.",
-        "If Reserve Deck is not searched, do not reshuffle it.",
-        "If one or both cards cannot be found, opponent only verifies Reserve Deck. A judge may be required to verify combined contents of hand and Reserve Deck to check for the cards.",
-        "May search Reserve Deck, then decide to deploy both cards entirely from hand (this does not trigger verification)."
+        "The USED function can only be initiated if attrition exists (opponent successfully completed a battle destiny draw, even if it was a 0).",
+        "The USED function is initiated in the power segment after battle destinies (and any attrition destinies) are drawn.",
+        "The LOST function is played during the weapons segment and requires at least one of the named characters to be participating in the battle."
       ],
       "set": "207",
       "side": "Light"
@@ -66098,6 +66097,10 @@
         "Wuta"
       ],
       "rarity": "R",
+      "rulings": [
+        "Light may move Luke during any phase of Dark's turn, as a top-level action.",
+        "This is a regular move (so for example, it would prevent Light from also using Run Luke, Run! in the same turn)."
+      ],
       "set": "214",
       "side": "Light"
     },
@@ -66275,9 +66278,7 @@
       ],
       "rarity": "U2",
       "rulings": [
-        "Causes all forms of movement between two Death Star locations to be free.",
-        "When using Nabrun Leids for free, draw destiny but do not pay any cost.",
-        "After placing this card out of play, it is possible for Light to deploy a 2nd copy of this card on Central Core later in the game."
+        "When Light initiates a Force drain here, a stacked card is removed (automatic response) before Dark can play an optional Force drain canceler (e.g. Control)."
       ],
       "set": "215",
       "side": "Light"
@@ -66931,13 +66932,14 @@
       ],
       "rarity": "R",
       "rulings": [
-        "When Dark's text imprisons Leia, she is restored to normal (no longer hit or forfeit = 0, etc).",
-        "When Dark's text imprisons Leia from another site, she is placed here but it is not considered movement. It is not blocked by e.g. You Are Beaten.",
+        "When the 'For remainder of game' text re-imprisons Leia, she is restored to normal (no longer hit or forfeit = 0, etc).",
+        "When the 'For remainder of game' text re-imprisons Leia, it is not considered movement. It is not blocked by e.g. You Are Beaten.",
         "The 'for any reason' text will even work against an 'all cards' situation, e.g. Program Trap will send Leia to prison instead of the Lost Pile.",
-        "At Death Star sites that are 'immune to SYCFA', Dark Side's Force drains and battle damage are not canceled by SYCFA.",
-        "Excluding Leia from battle will not flip the objective back to the 0-side.",
-        "Capturing and seizing Leia (such as with IG-88 With Riot Gun) will flip the objective back to the 0-side.",
-        "On the 7-side, Leia's Blaster Rifle creates competing automatic actions. The player whose turn it is chooses whether the 1 Force loss or the character being lost happens first. If the character is lost first, the 1 Force loss does not occur."
+        "(7-side) At Death Star sites that are 'immune to SYCFA', Dark Side's Force drains and battle damage are not canceled by SYCFA.",
+        "(7-side) Leia's Blaster Rifle creates competing automatic actions. The player whose turn it is chooses whether the 1 Force loss or the character being lost happens first. If the character is lost first, the 1 Force loss does not occur.",
+        "(7-side) If Light cancels a battle (e.g. using It's A Trap!) that was initiated by Dark, then Dark has 'initiated a battle' and prevents Light from retrieving 1 Force with this Objective.",
+        "(7-side) Excluding Leia from battle will not flip the objective back to the 0-side.",
+        "(7-side) Capturing and seizing Leia (such as with IG-88 With Riot Gun) will flip the objective back to the 0-side."
       ],
       "set": "215",
       "side": "Light"
@@ -70970,7 +70972,11 @@
       "rarity": "U2",
       "rulings": [
         "Only follow the 'While Lothal converted' text of the topmost (active) Lothal system card.  It is applicable if there exists one (or more) converted copies of Lothal underneath.",
-        "Disregard the text of the copies of Lothal underneath."
+        "Disregard the text of the copies of Lothal underneath.",
+        "May choose to deploy both cards from hand only, without even searching Reserve Deck. But if that is not possible then Reserve Deck must be searched.",
+        "If Reserve Deck is not searched, do not reshuffle it.",
+        "If one or both cards cannot be found, opponent only verifies Reserve Deck. A judge may be required to verify combined contents of hand and Reserve Deck to check for the cards.",
+        "May search Reserve Deck, then decide to deploy both cards entirely from hand (this does not trigger verification)."
       ],
       "set": "219",
       "side": "Light"
@@ -72261,6 +72267,10 @@
         }
       ],
       "rarity": "R",
+      "rulings": [
+        "May only steal Luke's Lightsaber into hand from table, not from opponent's hand, Lost Pile, etc.",
+        "May steal back a stolen Luke's Lightsaber from table even if it is inactive (e.g. carried by a Vader who cannot use it)."
+      ],
       "set": "221",
       "side": "Light"
     },
@@ -73055,6 +73065,10 @@
         }
       ],
       "rarity": "R",
+      "rulings": [
+        "When Light wins a battle or duel, handle I Feel The Conflict (automatic response) before His Destiny (optional response).",
+        "The last function plays only the non-virtual [Death Star II] Anakin Skywalker Interrupt (not an Anakin character card). The usual conditions and timing stated on the Interrupt must be met. As it is a Used Interrupt, it is played in Used Pile after being played, even though it originated outside the deck."
+      ],
       "set": "221",
       "side": "Light"
     },
@@ -73866,9 +73880,7 @@
       ],
       "rarity": "U2",
       "rulings": [
-        "Causes all forms of movement between two Death Star locations to be free.",
-        "When using Nabrun Leids for free, draw destiny but do not pay any cost.",
-        "After placing this card out of play, it is possible for Light to deploy a 2nd copy of this card on Central Core later in the game."
+        "When Light initiates a Force drain here, a stacked card is removed (automatic response) before Dark can play an optional Force drain canceler (e.g. Control)."
       ],
       "set": "215",
       "side": "Light"
