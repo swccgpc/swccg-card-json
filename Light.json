@@ -3376,7 +3376,7 @@
       ],
       "pulledBy": [
         "General Crix Madine",
-        "Soth Petikkin (when at a Jabba's Palace site you control)",
+        "Soth Petikkin",
         "Arleil Schous",
         "Nar Shaddaa Wind Chimes",
         "Nar Shaddaa Wind Chimes & Out Of Somewhere"
@@ -3424,7 +3424,7 @@
       ],
       "front": {
         "destiny": "5",
-        "gametext": "USED: Target your [Episode I] Jedi defending a battle. Target is immune to attrition for rest of turn (unless Dark Jedi present).  LOST: In a battle you lost, place a Jedi Council Member you just forfeited in Used Pile to cancel all battle damage and attrition against you.",
+        "gametext": "USED: Target your [Episode I] Jedi defending a battle. Target is immune to attrition for rest of turn (unless Dark Jedi present).  LOST: In a battle you lost, place a Jedi Council member you just forfeited in Used Pile to cancel all battle damage and attrition against you.",
         "icons": [
           "Episode I",
           "Coruscant"
@@ -6228,7 +6228,7 @@
         "gametext": "May add 1 pilot and 2 passengers. Permanent pilot provides ability of 2. Once per turn, may deploy a non-pilot Rebel of ability < 5 aboard from Reserve Deck; reshuffle. Immune to attrition < 4.",
         "icons": [
           "Scomp Link",
-          "Permanent Pilot",
+          "Pilot",
           "Set 9"
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual9-Light/large/blue11.gif",
@@ -6794,7 +6794,8 @@
       ],
       "rarity": "U1",
       "rulings": [
-        "His lore does not make him a member of Rogue Squadron."
+        "His lore does not make him a member of Rogue Squadron.",
+        "Both of BoShek's actions (subtracing 1 or canceling an attempt) cost 1 Force to use, and BoShek may only use one of them once per battle, not once each."
       ],
       "set": "210",
       "side": "Light"
@@ -6918,7 +6919,7 @@
         }
       ],
       "pulledBy": [
-        "Soth Petikkin (when at a Jabba's Palace site you control)",
+        "Soth Petikkin",
         "Arleil Schous",
         "Nar Shaddaa Wind Chimes",
         "Nar Shaddaa Wind Chimes & Out Of Somewhere"
@@ -8902,7 +8903,7 @@
         }
       ],
       "pulledBy": [
-        "Soth Petikkin (when at a Jabba's Palace site you control)",
+        "Soth Petikkin",
         "Arleil Schous",
         "Nar Shaddaa Wind Chimes",
         "Nar Shaddaa Wind Chimes & Out Of Somewhere"
@@ -9063,7 +9064,7 @@
       "pulledBy": [
         "Beldon's Eye (V)",
         "Life Debt",
-        "Soth Petikkin (when at a Jabba's Palace site you control)",
+        "Soth Petikkin",
         "Wookiee Roar"
       ],
       "rarity": "R2",
@@ -10441,6 +10442,9 @@
         "Quiet Mining Colony"
       ],
       "rarity": "C",
+      "rulings": [
+        "When this site prevents a character from being hit by relocating them to the Weather Vane, it also prevents any other weapon results, such as the Force loss from P-59."
+      ],
       "set": "5",
       "side": "Light",
       "underlyingCardFor": [
@@ -12162,7 +12166,7 @@
         }
       ],
       "pulledBy": [
-        "Soth Petikkin (when at a Jabba's Palace site you control)",
+        "Soth Petikkin",
         "Arleil Schous",
         "Nar Shaddaa Wind Chimes",
         "Nar Shaddaa Wind Chimes & Out Of Somewhere"
@@ -14310,7 +14314,7 @@
         "deploy": "3",
         "destiny": "2",
         "errataDate": "2024-12-30",
-        "errataNotes": "Previous text: May add 1 pilot. Permanent pilot is •Dash, who provides ability of 3. During battle, if with another T-47 and about to draw battle destiny, may draw two and choose one. Immune to attrition < 4.",
+        "errataNotes": "Added Hoth icon. Previous lore: 'Enclosed.' Previous text: May add 1 pilot. Permanent pilot is •Dash, who provides ability of 3. During battle, if with another T-47 and about to draw battle destiny, may draw two and choose one. Immune to attrition < 4.",
         "errataSymbol": "E2",
         "forfeit": "5",
         "gametext": "May add 1 pilot. Permanent pilot is •Dash, who provides ability of 3. Unless this card 'hit', other T-47s here may not be targeted by Crash Landing, High-speed Tactics, or weapons. Immune to attrition < 4.",
@@ -14321,7 +14325,7 @@
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual1-Light/large/dashinrogue12.gif",
         "landspeed": "4",
-        "lore": "Enclosed.",
+        "lore": "Technicians at the Rebel Base on Hoth modified T-47 airspeeders to fly in the frigid atmosphere of the ice planet. Enclosed.",
         "maneuver": "5",
         "power": "5",
         "subType": "Combat: T-47 Snowspeeder",
@@ -14348,9 +14352,7 @@
       "rarity": "PM",
       "rulings": [
         "Not a Rogue Squadron pilot (e.g. does not work for Wedge Antilles, Red Squadron Leader).",
-        "Dash is a matching pilot, so this vehicle is immune to attrition < 6 with Echo Base Garrison.",
-        "The 'draw two and choose one' text does <u>not</u> play nice with 'draws two battle destiny if unable to otherwise' (e.g. Commander Luke Skywalker (V)). These texts cannot be combined. It's almost always best for Light to just draw two battle destiny with Luke, and ignore Dash's text.",
-        "When using 'draw two and choose one', any response to an individual destiny draw (such as adding 1 with Heading To The Medical Frigate, or canceling a draw with Grand Moff Tarkin) is a response to a draw immediately after it is made, not a response to a draw being chosen. For example, if Dark cancels a draw or subtracts from a draw, Light can then simply choose the other draw."
+        "Dash is a matching pilot, so this vehicle is immune to attrition < 6 with Echo Base Garrison."
       ],
       "set": "201",
       "side": "Light"
@@ -14399,7 +14401,7 @@
       ],
       "pulledBy": [
         "Beldon's Eye (V)",
-        "Soth Petikkin (when at a Jabba's Palace site you control)"
+        "Soth Petikkin"
       ],
       "rarity": "PM",
       "set": "10",
@@ -15141,7 +15143,7 @@
       "front": {
         "ability": "7",
         "characteristics": [
-          "Jedi Council Member",
+          "Jedi Council member",
           "female"
         ],
         "deploy": "4",
@@ -15598,7 +15600,19 @@
           "set": "203"
         }
       ],
+      "pulls": [
+        "Alderaan",
+        "Any Tatooine battleground site",
+        "Artoo (V)",
+        "R2-D2 (Artoo-Detoo) (V)",
+        "R2-D2 & C-3PO",
+        "Tantive IV (V)",
+        "Tatooine: Dune Sea (V)"
+      ],
       "rarity": "R1",
+      "rulings": [
+        "Pulls Alderaan system, and Tatooine battleground sites."
+      ],
       "set": "203",
       "side": "Light"
     },
@@ -19126,7 +19140,7 @@
       "pulledBy": [
         "Chief Chirpa",
         "General Crix Madine",
-        "Soth Petikkin (when at a Jabba's Palace site you control)",
+        "Soth Petikkin",
         "Surprise Counter Assault",
         "Arleil Schous",
         "Nar Shaddaa Wind Chimes",
@@ -20732,7 +20746,7 @@
       ],
       "pulledBy": [
         "General Crix Madine",
-        "Soth Petikkin (when at a Jabba's Palace site you control)"
+        "Soth Petikkin"
       ],
       "pulls": [
         "Related exterior planet site"
@@ -21226,7 +21240,7 @@
         "ability": "6",
         "characteristics": [
           "General",
-          "Jedi Council Member",
+          "Jedi Council member",
           "Leader"
         ],
         "deploy": "6",
@@ -21277,7 +21291,7 @@
         "ability": "6",
         "characteristics": [
           "General",
-          "Jedi Council Member",
+          "Jedi Council member",
           "Leader"
         ],
         "deploy": "6",
@@ -21526,7 +21540,8 @@
         "Millennium Falcon"
       ],
       "matchingWeapon": [
-        "Han's Heavy Blaster Pistol"
+        "Han's Heavy Blaster Pistol",
+        "Han's Heavy Blaster Pistol (V)"
       ],
       "printings": [
         {
@@ -23999,7 +24014,11 @@
         "Han",
         "Han (V)",
         "Han Solo",
-        "Solo"
+        "Han Solo (V)",
+        "Han Solo, Optimistic General",
+        "Han... Solo",
+        "Solo",
+        "Tobias Beckett"
       ],
       "previousId": 40096,
       "printings": [
@@ -24011,6 +24030,10 @@
         "Portable Scanner"
       ],
       "rarity": "R2",
+      "rulings": [
+        "Matching weapon for Han or Beckett, but not for smugglers in general.",
+        "This weapon will not prevent Greedo (V) from deploying as a react. He deploys as a react, and then it will cancel his game text as soon as he arrives."
+      ],
       "set": "200",
       "side": "Light"
     },
@@ -29207,7 +29230,7 @@
         }
       ],
       "pulledBy": [
-        "Soth Petikkin (when at a Jabba's Palace site you control)"
+        "Soth Petikkin"
       ],
       "rarity": "R",
       "rulings": [
@@ -29443,7 +29466,7 @@
         }
       ],
       "pulledBy": [
-        "Soth Petikkin (when at a Jabba's Palace site you control)"
+        "Soth Petikkin"
       ],
       "rarity": "U1",
       "set": "1",
@@ -30252,7 +30275,7 @@
       ],
       "pulledBy": [
         "General Crix Madine",
-        "Soth Petikkin (when at a Jabba's Palace site you control)"
+        "Soth Petikkin"
       ],
       "rarity": "R",
       "set": "7",
@@ -30605,7 +30628,7 @@
       "front": {
         "ability": "7",
         "characteristics": [
-          "Jedi Council Member",
+          "Jedi Council member",
           "Nautolan"
         ],
         "deploy": "6",
@@ -30650,7 +30673,7 @@
       "front": {
         "ability": "7",
         "characteristics": [
-          "Jedi Council Member",
+          "Jedi Council member",
           "Nautolan"
         ],
         "deploy": "6",
@@ -31302,7 +31325,7 @@
       ],
       "pulledBy": [
         "Lobot (V) as a 'react'",
-        "Soth Petikkin (when at a Jabba's Palace site you control)"
+        "Soth Petikkin"
       ],
       "rarity": "PM",
       "rulings": [
@@ -31365,7 +31388,7 @@
       ],
       "pulledBy": [
         "Lobot (V) as a 'react'",
-        "Soth Petikkin (when at a Jabba's Palace site you control)"
+        "Soth Petikkin"
       ],
       "rarity": "PM",
       "rulings": [
@@ -33299,8 +33322,15 @@
         "LM",
         "Hammerhead Corvette"
       ],
+      "cancels": [
+        "Opponent's immunity to attrition"
+      ],
+      "counterpart": "Dengar In Punishing One",
       "front": {
         "armor": "5",
+        "characteristics": [
+          "Rebel (starship)"
+        ],
         "deploy": "5",
         "destiny": "2",
         "errataDate": "2024-12-30",
@@ -34588,6 +34618,9 @@
       "side": "Light"
     },
     {
+      "abbr": [
+        "LBH"
+      ],
       "front": {
         "destiny": "7",
         "errataDate": "2024-12-30",
@@ -34620,11 +34653,12 @@
         "Portable Scanner"
       ],
       "pulls": [
-        "Any Interrupt from Lost Pile (exchange with card from hand)"
+        "Any Interrupt from Lost Pile"
       ],
       "rarity": "R",
       "rulings": [
-        "May deploy on a Luke that does not have any immunity to attrition."
+        "May deploy on a Luke that does not have any immunity to attrition.",
+        "Must be participating in the battle to exchange a card."
       ],
       "set": "200",
       "side": "Light"
@@ -35296,6 +35330,9 @@
       "side": "Light"
     },
     {
+      "abbr": [
+        "Mace Windu (V) (AI)"
+      ],
       "front": {
         "ability": "7",
         "deploy": "7",
@@ -35339,6 +35376,9 @@
       "side": "Light"
     },
     {
+      "abbr": [
+        "Mace Windu (V) (AI)"
+      ],
       "front": {
         "ability": "7",
         "deploy": "7",
@@ -36230,7 +36270,7 @@
         "deploy": "5",
         "destiny": "2",
         "forfeit": "8",
-        "gametext": "Deploys -4 to same system as any non-unique Star Cruiser. May add 3 pilots, 4 passengers and 1 vehicle. Has ship docking capability. Permanent pilot provides ability of 1. Cannot be 'hit' by missiles.",
+        "gametext": "Deploys -4 to same system as any non-unique Star Cruiser. May add 3 pilots, 4 passengers and 1 vehicle. Has ship-docking capability. Permanent pilot provides ability of 1. Cannot be 'hit' by missiles.",
         "hyperspeed": "3",
         "icons": [
           "Pilot",
@@ -36492,7 +36532,7 @@
         "Master Qui-Gon + matching lightsaber + A Jedi's Resilience",
         "Master Qui-Gon (V) + Credits Will Do Fine"
       ],
-      "conceptBy": "(Original concept by James Booker - Worlds 2005)",
+      "conceptBy": "Original concept by James Booker - Worlds 2005",
       "front": {
         "ability": "7",
         "deploy": "7",
@@ -36978,7 +37018,7 @@
         }
       ],
       "pulledBy": [
-        "Soth Petikkin (when at a Jabba's Palace site you control)"
+        "Soth Petikkin"
       ],
       "rarity": "R",
       "set": "7",
@@ -37028,9 +37068,12 @@
         }
       ],
       "pulledBy": [
-        "Soth Petikkin (when at a Jabba's Palace site you control)"
+        "Soth Petikkin"
       ],
       "rarity": "R",
+      "rulings": [
+        "Causing your StarSpeeders to move for free includes making their relocate action free."
+      ],
       "set": "201",
       "side": "Light"
     },
@@ -37527,7 +37570,7 @@
       "pulledBy": [
         "Beldon's Eye (V)",
         "Booster In Pulsar Skate (V)",
-        "Soth Petikkin (when at a Jabba's Palace site you control)"
+        "Soth Petikkin"
       ],
       "rarity": "PM",
       "set": "10",
@@ -37605,7 +37648,7 @@
         }
       ],
       "pulledBy": [
-        "Soth Petikkin (when at a Jabba's Palace site you control)"
+        "Soth Petikkin"
       ],
       "rarity": "U2",
       "set": "1",
@@ -38030,7 +38073,7 @@
         }
       ],
       "pulledBy": [
-        "Soth Petikkin (when at a Jabba's Palace site you control)"
+        "Soth Petikkin"
       ],
       "rarity": "R",
       "set": "12",
@@ -38625,6 +38668,9 @@
         "Mindful Of The Future"
       ],
       "rarity": "PM",
+      "rulings": [
+        "When this site prevents a character from being hit, it also prevents any other weapon results, such as the Force loss from P-59."
+      ],
       "set": "13",
       "side": "Light"
     },
@@ -39657,6 +39703,10 @@
         }
       ],
       "rarity": "R",
+      "rulings": [
+        "The 'may not cloak' text works against both Maul's Sith Infiltrator and Maul In Scimitar.",
+        "The total battle destiny reset protection text works against Zuckuss In Mist Hunter."
+      ],
       "set": "200",
       "side": "Light"
     },
@@ -39771,6 +39821,9 @@
         "Tatooine: City Outskirts"
       ],
       "rarity": "R1",
+      "rulings": [
+        "For example, if with Vader, Emperor, and Luke, then Obi-Wan Kenobi (V) is power +3."
+      ],
       "set": "201",
       "side": "Light"
     },
@@ -41745,7 +41798,7 @@
         }
       ],
       "pulledBy": [
-        "Soth Petikkin (when at a Jabba's Palace site you control)",
+        "Soth Petikkin",
         "Arleil Schous",
         "Nar Shaddaa Wind Chimes",
         "Nar Shaddaa Wind Chimes & Out Of Somewhere"
@@ -42046,7 +42099,7 @@
       ],
       "pulledBy": [
         "General Crix Madine",
-        "Soth Petikkin (when at a Jabba's Palace site you control)"
+        "Soth Petikkin"
       ],
       "pulls": [
         "Free Ride",
@@ -44893,6 +44946,9 @@
         "Seeking An Audience (V)"
       ],
       "rarity": "R2",
+      "rulings": [
+        "For R2-D2 (V) to use his 'subtract 1' action, the following conditions must be met: First, the battle must be at an interior site. Second, R2-D2 (V) must be at the same site or at a related site (not necessarily an interior one, but R2-D2 (V) must be at a site - not a system or sector)."
+      ],
       "set": "201",
       "side": "Light"
     },
@@ -45205,7 +45261,7 @@
         }
       ],
       "pulledBy": [
-        "Soth Petikkin (when at a Jabba's Palace site you control)"
+        "Soth Petikkin"
       ],
       "rarity": "U",
       "set": "8",
@@ -45441,7 +45497,7 @@
       ],
       "pulledBy": [
         "General Crix Madine",
-        "Soth Petikkin (when at a Jabba's Palace site you control)",
+        "Soth Petikkin",
         "Arleil Schous",
         "Nar Shaddaa Wind Chimes",
         "Nar Shaddaa Wind Chimes & Out Of Somewhere"
@@ -45614,7 +45670,7 @@
         }
       ],
       "pulledBy": [
-        "Soth Petikkin (when at a Jabba's Palace site you control)"
+        "Soth Petikkin"
       ],
       "rarity": "R",
       "set": "6",
@@ -48370,7 +48426,8 @@
       ],
       "rarity": "C2",
       "rulings": [
-        "When searching Used Pile, it includes the Force that was just used to pay for deploying Rey."
+        "When searching Used Pile, it includes the Force that was just used to pay for deploying Rey.",
+        "If Rey is at the Jakku system location, she is not 'on' Jakku."
       ],
       "set": "204",
       "side": "Light"
@@ -48426,7 +48483,8 @@
       ],
       "rarity": "C2",
       "rulings": [
-        "When searching Used Pile, it includes the Force that was just used to pay for deploying Rey."
+        "When searching Used Pile, it includes the Force that was just used to pay for deploying Rey.",
+        "If Rey is at the Jakku system location, she is not 'on' Jakku."
       ],
       "set": "204",
       "side": "Light"
@@ -49273,7 +49331,7 @@
       ],
       "pulledBy": [
         "General Crix Madine",
-        "Soth Petikkin (when at a Jabba's Palace site you control)"
+        "Soth Petikkin"
       ],
       "rarity": "R",
       "set": "8",
@@ -50847,6 +50905,9 @@
         "Threepio With His Parts Showing"
       ],
       "rarity": "PM",
+      "rulings": [
+        "This card increases the Force a player activates for themselves from 1 to 2. It does not interfere with cards that increase total Force generation (e.g. the Premiere version of Luke Skywalker still works with this Effect on table)."
+      ],
       "set": "201",
       "side": "Light"
     },
@@ -51559,7 +51620,7 @@
       ],
       "pulledBy": [
         "General Crix Madine",
-        "Soth Petikkin (when at a Jabba's Palace site you control)",
+        "Soth Petikkin",
         "Arleil Schous",
         "Nar Shaddaa Wind Chimes",
         "Nar Shaddaa Wind Chimes & Out Of Somewhere"
@@ -52135,7 +52196,7 @@
       ],
       "pulledBy": [
         "General Crix Madine",
-        "Soth Petikkin (when at a Jabba's Palace site you control)",
+        "Soth Petikkin",
         "Arleil Schous",
         "Nar Shaddaa Wind Chimes",
         "Nar Shaddaa Wind Chimes & Out Of Somewhere"
@@ -54644,7 +54705,7 @@
         }
       ],
       "pulledBy": [
-        "Soth Petikkin (when at a Jabba's Palace site you control)"
+        "Soth Petikkin"
       ],
       "rarity": "PM",
       "rulings": [
@@ -54776,7 +54837,7 @@
       "pulledBy": [
         "Seeking An Audience",
         "Seeking An Audience (V)",
-        "Soth Petikkin (when at a Jabba's Palace site you control)"
+        "Soth Petikkin"
       ],
       "pulls": [
         "Undercover"
@@ -54909,7 +54970,7 @@
         }
       ],
       "pulledBy": [
-        "Soth Petikkin (when at a Jabba's Palace site you control)"
+        "Soth Petikkin"
       ],
       "rarity": "R",
       "set": "6",
@@ -56337,7 +56398,7 @@
       ],
       "pulledBy": [
         "General Crix Madine",
-        "Soth Petikkin (when at a Jabba's Palace site you control)"
+        "Soth Petikkin"
       ],
       "rarity": "PM",
       "set": "102",
@@ -58020,10 +58081,9 @@
       ],
       "rarity": "C",
       "rulings": [
-        "May choose to deploy both cards from hand only, without even searching Reserve Deck. But if that is not possible then Reserve Deck must be searched.",
-        "If Reserve Deck is not searched, do not reshuffle it.",
-        "If one or both cards cannot be found, opponent only verifies Reserve Deck. A judge may be required to verify combined contents of hand and Reserve Deck to check for the cards.",
-        "May search Reserve Deck, then decide to deploy both cards entirely from hand (this does not trigger verification)."
+        "The USED function can only be initiated if attrition exists (opponent successfully completed a battle destiny draw, even if it was a 0).",
+        "The USED function is initiated in the power segment after battle destinies (and any attrition destinies) are drawn.",
+        "The LOST function is played during the weapons segment and requires at least one of the named characters to be participating in the battle."
       ],
       "set": "207",
       "side": "Light"
@@ -59626,7 +59686,7 @@
       ],
       "pulledBy": [
         "Aved Luun to deploy to same location",
-        "Soth Petikkin (when at a Jabba's Palace site you control)"
+        "Soth Petikkin"
       ],
       "rarity": "R",
       "set": "7",
@@ -60917,6 +60977,9 @@
         "Wokling (V)"
       ],
       "rarity": "U",
+      "rulings": [
+        "This card can allow you to deploy cards to interior Naboo sites while We Have A Plan is on the 0 side. It does not allow you to ignore the restrictions regarding cards with ability."
+      ],
       "set": "201",
       "side": "Light"
     },
@@ -61522,7 +61585,7 @@
       ],
       "pulledBy": [
         "General Crix Madine",
-        "Soth Petikkin (when at a Jabba's Palace site you control)"
+        "Soth Petikkin"
       ],
       "rarity": "R",
       "set": "8",
@@ -61830,6 +61893,10 @@
         "An effect that has no deploy cost and deploys on another card"
       ],
       "rarity": "R",
+      "rulings": [
+        "This card increases the Force a player activates for themselves from 1 to 2. It does not interfere with cards that increase total Force generation (e.g. the Premiere version of Luke Skywalker still works with this Effect on table).",
+        "This card can only pull a normal Effect (not an Immediate Effect, Utinni Effect, etc)."
+      ],
       "set": "200",
       "side": "Light"
     },
@@ -62089,7 +62156,7 @@
       "pulledBy": [
         "Chewbacca Of Kashyyyk",
         "General Crix Madine",
-        "Soth Petikkin (when at a Jabba's Palace site you control)"
+        "Soth Petikkin"
       ],
       "pulls": [
         "Endor: Back Door",
@@ -62462,7 +62529,7 @@
       "pulledBy": [
         "General Crix Madine",
         "Might Of The Republic",
-        "Soth Petikkin (when at a Jabba's Palace site you control)",
+        "Soth Petikkin",
         "Arleil Schous",
         "Nar Shaddaa Wind Chimes",
         "Nar Shaddaa Wind Chimes & Out Of Somewhere"
@@ -62931,7 +62998,7 @@
           "set": "209"
         }
       ],
-      "rarity": "C",
+      "rarity": "U1",
       "set": "209",
       "side": "Light"
     },
@@ -63272,7 +63339,10 @@
       "side": "Light"
     },
     {
-      "conceptBy": "(Original concept by Sean Miller)",
+      "abbr": [
+        "YKOTP"
+      ],
+      "conceptBy": "Original concept by Sean Miller",
       "front": {
         "ability": "7",
         "deploy": "5",
@@ -63290,7 +63360,7 @@
           "Set 2"
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual2-Light/large/yodakeeperofthepeace.gif",
-        "lore": "Yoda calls upon the Force often to try and foresee what destiny has in store. Jedi Council Member.",
+        "lore": "Yoda calls upon the Force often to try and foresee what destiny has in store. Jedi Council member.",
         "power": "3",
         "subType": "Jedi Master",
         "title": "•Yoda, Keeper Of The Peace",
@@ -63310,6 +63380,7 @@
       ],
       "rarity": "U",
       "rulings": [
+        "Must be at a site to limit players to one battle destiny and to prevent those draws from being modified or canceled.",
         "Preventing destiny draws from being modified even prevents global modifiers such as from the Silence Is Golden (V) and the Senate Objective.",
         "Preventing destiny draws from being modified can be circumvented with a substituted destiny that has been modified <u>before</u> the substitution (e.g. Darklighter Spin on a modified maneuver value, or a senator on Sando Aqua Monster that is already receiving a global modifier from the Senate Objective)."
       ],
@@ -63317,7 +63388,11 @@
       "side": "Light"
     },
     {
-      "conceptBy": "(Original concept by Sean Miller)",
+      "abbr": [
+        "YKOTP",
+        "Yoda, Keeper Of The Peace (AI)"
+      ],
+      "conceptBy": "Original concept by Sean Miller",
       "front": {
         "ability": "7",
         "deploy": "5",
@@ -63335,7 +63410,7 @@
           "Set 2"
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual2-Light/large/yodakeeperofthepeace_ai.gif",
-        "lore": "Yoda calls upon the Force often to try and foresee what destiny has in store. Jedi Council Member.",
+        "lore": "Yoda calls upon the Force often to try and foresee what destiny has in store. Jedi Council member.",
         "power": "3",
         "subType": "Jedi Master",
         "title": "•Yoda, Keeper Of The Peace (C-Slip AI)",
@@ -63355,6 +63430,7 @@
       ],
       "rarity": "R",
       "rulings": [
+        "Must be at a site to limit players to one battle destiny and to prevent those draws from being modified or canceled.",
         "Preventing destiny draws from being modified even prevents global modifiers such as from the Silence Is Golden (V) and the Senate Objective.",
         "Preventing destiny draws from being modified can be circumvented with a substituted destiny that has been modified <u>before</u> the substitution (e.g. Darklighter Spin on a modified maneuver value, or a senator on Sando Aqua Monster that is already receiving a global modifier from the Senate Objective)."
       ],
@@ -63362,7 +63438,11 @@
       "side": "Light"
     },
     {
-      "conceptBy": "(Original concept by Sean Miller)",
+      "abbr": [
+        "YKOTP",
+        "Yoda, Keeper Of The Peace (AI)"
+      ],
+      "conceptBy": "Original concept by Sean Miller",
       "front": {
         "ability": "7",
         "deploy": "5",
@@ -63380,7 +63460,7 @@
           "Set 2"
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual2-Light/large/yodakeeperofthepeace_ai2.gif",
-        "lore": "Yoda calls upon the Force often to try and foresee what destiny has in store. Jedi Council Member.",
+        "lore": "Yoda calls upon the Force often to try and foresee what destiny has in store. Jedi Council member.",
         "power": "3",
         "subType": "Jedi Master",
         "title": "•Yoda, Keeper Of The Peace (C-Slip AI 2)",
@@ -63398,6 +63478,7 @@
       ],
       "rarity": "R",
       "rulings": [
+        "Must be at a site to limit players to one battle destiny and to prevent those draws from being modified or canceled.",
         "Preventing destiny draws from being modified even prevents global modifiers such as from the Silence Is Golden (V) and the Senate Objective.",
         "Preventing destiny draws from being modified can be circumvented with a substituted destiny that has been modified <u>before</u> the substitution (e.g. Darklighter Spin on a modified maneuver value, or a senator on Sando Aqua Monster that is already receiving a global modifier from the Senate Objective)."
       ],
@@ -63406,8 +63487,7 @@
     },
     {
       "abbr": [
-        "Yoda",
-        "MOTF"
+        "YMOTF"
       ],
       "combo": [
         "Yoda, Master Of The Force + Are You Brain Dead?! Yoda, Master Of The Force + Encampment Deploy regardless of location deployment restrictions."
@@ -63429,7 +63509,7 @@
           "Reflections 3"
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/ReflectionsIII-Light/large/yodamasteroftheforce.gif",
-        "lore": "Jedi Council Member. 'More to say have you?'",
+        "lore": "Jedi Council member. 'More to say have you?'",
         "power": "3",
         "subType": "Jedi Master",
         "title": "•Yoda, Master Of The Force",
@@ -63704,7 +63784,7 @@
         }
       ],
       "pulledBy": [
-        "Soth Petikkin (when at a Jabba's Palace site you control)"
+        "Soth Petikkin"
       ],
       "pulls": [
         "Free Ride",
@@ -64926,7 +65006,7 @@
       "pulledBy": [
         "Beldon's Eye (V)",
         "Life Debt",
-        "Soth Petikkin (when at a Jabba's Palace site you control)",
+        "Soth Petikkin",
         "Wookiee Roar"
       ],
       "rarity": "R2",
@@ -65102,6 +65182,9 @@
         }
       ],
       "rarity": "C",
+      "rulings": [
+        "Counts weapon destiny draws completed by both players."
+      ],
       "set": "213",
       "side": "Light"
     },
@@ -65210,7 +65293,7 @@
           "Set 13"
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual13-Light/large/yodamasteroftheforce.gif",
-        "lore": "Jedi Council Member. 'More to say have you?'",
+        "lore": "Jedi Council member. 'More to say have you?'",
         "power": "3",
         "subType": "Jedi Master",
         "title": "•Yoda, Master Of The Force (V)",
@@ -66047,6 +66130,10 @@
         "Wuta"
       ],
       "rarity": "R",
+      "rulings": [
+        "Light may move Luke during any phase of Dark's turn, as a top-level action.",
+        "This is a regular move (so for example, it would prevent Light from also using Run Luke, Run! in the same turn)."
+      ],
       "set": "214",
       "side": "Light"
     },
@@ -66193,6 +66280,12 @@
         }
       ],
       "rarity": "U",
+      "rulings": [
+        "Jedi: Light Side character with 6 ability or higher.",
+        "Padawan: A character defined as a Padawan by their title, lore, or game text. Must also have ability less than 6.",
+        "If Dark steals this weapon, note that a Dark Jedi is not a Jedi.",
+        "This is a matching weapon for Ahsoka, but not for other Jedi or Padawans in general."
+      ],
       "set": "214",
       "side": "Light"
     },
@@ -66224,9 +66317,7 @@
       ],
       "rarity": "U2",
       "rulings": [
-        "Causes all forms of movement between two Death Star locations to be free.",
-        "When using Nabrun Leids for free, draw destiny but do not pay any cost.",
-        "After placing this card out of play, it is possible for Light to deploy a 2nd copy of this card on Central Core later in the game."
+        "When Light initiates a Force drain here, a stacked card is removed (automatic response) before Dark can play an optional Force drain canceler (e.g. Control)."
       ],
       "set": "215",
       "side": "Light"
@@ -66880,13 +66971,14 @@
       ],
       "rarity": "R",
       "rulings": [
-        "When Dark's text imprisons Leia, she is restored to normal (no longer hit or forfeit = 0, etc).",
-        "When Dark's text imprisons Leia from another site, she is placed here but it is not considered movement. It is not blocked by e.g. You Are Beaten.",
+        "When the 'For remainder of game' text re-imprisons Leia, she is restored to normal (no longer hit or forfeit = 0, etc).",
+        "When the 'For remainder of game' text re-imprisons Leia, it is not considered movement. It is not blocked by e.g. You Are Beaten.",
         "The 'for any reason' text will even work against an 'all cards' situation, e.g. Program Trap will send Leia to prison instead of the Lost Pile.",
-        "At Death Star sites that are 'immune to SYCFA', Dark Side's Force drains and battle damage are not canceled by SYCFA.",
-        "Excluding Leia from battle will not flip the objective back to the 0-side.",
-        "Capturing and seizing Leia (such as with IG-88 With Riot Gun) will flip the objective back to the 0-side.",
-        "On the 7-side, Leia's Blaster Rifle creates competing automatic actions. The player whose turn it is chooses whether the 1 Force loss or the character being lost happens first. If the character is lost first, the 1 Force loss does not occur."
+        "(7-side) At Death Star sites that are 'immune to SYCFA', Dark Side's Force drains and battle damage are not canceled by SYCFA.",
+        "(7-side) Leia's Blaster Rifle creates competing automatic actions. The player whose turn it is chooses whether the 1 Force loss or the character being lost happens first. If the character is lost first, the 1 Force loss does not occur.",
+        "(7-side) If Light cancels a battle (e.g. using It's A Trap!) that was initiated by Dark, then Dark has 'initiated a battle' and prevents Light from retrieving 1 Force with this Objective.",
+        "(7-side) Excluding Leia from battle will not flip the objective back to the 0-side.",
+        "(7-side) Capturing and seizing Leia (such as with IG-88 With Riot Gun) will flip the objective back to the 0-side."
       ],
       "set": "215",
       "side": "Light"
@@ -67484,7 +67576,8 @@
       ],
       "rarity": "U",
       "rulings": [
-        "If an Interrupt is partially immune to Sense, only the immune functions may be played."
+        "If an Interrupt is partially immune to Sense, Grogu may cancel it only if a non-immune function is being played.",
+        "May only save a Mandalorian just lost from an active or inactive state on table."
       ],
       "set": "216",
       "side": "Light"
@@ -67672,7 +67765,7 @@
       ],
       "pulledBy": [
         "General Crix Madine",
-        "Soth Petikkin (when at a Jabba's Palace site you control)"
+        "Soth Petikkin"
       ],
       "rarity": "R",
       "rulings": [
@@ -67786,7 +67879,7 @@
         "deploy": "7",
         "destiny": "1",
         "errataDate": "2022-12-12",
-        "errataNotes": "Original card allowed all Jedi to be deployed. Only Jedi Council Members got destiny +1.",
+        "errataNotes": "Original card allowed all Jedi to be deployed. Only Jedi Council members got destiny +1.",
         "errataSymbol": "E1",
         "extraText": [
           "Jedi Master"
@@ -68252,7 +68345,8 @@
       ],
       "rarity": "F",
       "rulings": [
-        "If K'lor'slug (V) is on table, attempting to use this card's text to lose itself will fail to restore the 'hit' character to normal, but will still cause Wookiee Warrior to be lost at end of battle per K'lor'slug (and if forfeited, forfeit for 0)."
+        "Wookiee Warrior prevents your Force drains from being canceled (e.g. by Control) or modified (e.g. by In The Hands Of The Empire), but does not prevent your Force drain bonuses from being canceled (e.g. by Imperial Decree).",
+        "When Wookiee Warrior forfeits in place of your other 'hit' character, any other results of the weapon (e.g. 'forfeit = 0' or 'may not be used to satisfy attrition') are restored to normal - they do not affect the original target or the Wookiee Warrior."
       ],
       "set": "216",
       "side": "Light"
@@ -70586,9 +70680,7 @@
       ],
       "rarity": "R",
       "rulings": [
-        "Artoo's action to draw destiny and subtract from attrition can only be initiated if attrition exists (opponent successfully completed a battle destiny draw, even if it was a 0).",
-        "Artoo's action to draw destiny and subtract from attrition is initiated in the power segment after battle destinies (and any attrition destinies) are drawn.",
-        "Artoo's action subtracts from attrition against his owner (Light, assuming he hasn't been stolen)."
+        "Artoo placing an Interrupt out of play is global (e.g. he can do this during a battle at another location)."
       ],
       "set": "219",
       "side": "Light"
@@ -70878,7 +70970,9 @@
       ],
       "rarity": "U",
       "rulings": [
-        "If Fenn Rau was excluded from the battle, he cannot return to hand."
+        "If Fenn Rau was excluded from the battle, he cannot return to hand.",
+        "You require at least 1 card in Reserve Deck to initiate the action that returns Fenn to hand.",
+        "To retrieve, you need to successfully complete activating 2 Force. If you activate 1 and hit an empty Reserve, the rest of the action fails."
       ],
       "set": "219",
       "side": "Light"
@@ -70917,7 +71011,11 @@
       "rarity": "U2",
       "rulings": [
         "Only follow the 'While Lothal converted' text of the topmost (active) Lothal system card.  It is applicable if there exists one (or more) converted copies of Lothal underneath.",
-        "Disregard the text of the copies of Lothal underneath."
+        "Disregard the text of the copies of Lothal underneath.",
+        "May choose to deploy both cards from hand only, without even searching Reserve Deck. But if that is not possible then Reserve Deck must be searched.",
+        "If Reserve Deck is not searched, do not reshuffle it.",
+        "If one or both cards cannot be found, opponent only verifies Reserve Deck. A judge may be required to verify combined contents of hand and Reserve Deck to check for the cards.",
+        "May search Reserve Deck, then decide to deploy both cards entirely from hand (this does not trigger verification)."
       ],
       "set": "219",
       "side": "Light"
@@ -71403,6 +71501,7 @@
         "gametext": "May add 2 pilots and 2 passengers. Once per game, may deploy Han or Chewie aboard from Reserve Deck; reshuffle. While [A New Hope] Han piloting, Force drain +1 here. While Han or Chewie piloting, immune to attrition < 5 (< 7 if both).",
         "hyperspeed": "6",
         "icons": [
+          "A New Hope",
           "Scomp Link",
           "Nav Computer",
           "Set 20"
@@ -71445,6 +71544,9 @@
         "Any Chewie"
       ],
       "rarity": "R1",
+      "rulings": [
+        "May deploy Han or Chewie aboard from Reserve Deck even if Falcon is landed and/or unpiloted."
+      ],
       "set": "220",
       "side": "Light"
     },
@@ -71541,6 +71643,7 @@
       ],
       "rarity": "PM",
       "rulings": [
+        "The 'While present at a Death Star site' text does not work while she is a captive.",
         "The 'even if imprisoned' text does not work while she is an escorted captive."
       ],
       "set": "220",
@@ -72171,6 +72274,9 @@
         "Gold Squadron 1"
       ],
       "rarity": "R",
+      "rulings": [
+        "When using this Effect to deploy the empty starship Gold Squadron 1 to the Endor system, it may deploy simultaneously with a pilot from hand. It may either deploy aboard another starship with capacity (e.g. Home One) or directly to the system (a pilot is required to deploy directly to the system)."
+      ],
       "set": "221",
       "side": "Light"
     },
@@ -72207,6 +72313,10 @@
         }
       ],
       "rarity": "R",
+      "rulings": [
+        "May only steal Luke's Lightsaber into hand from table, not from opponent's hand, Lost Pile, etc.",
+        "May steal back a stolen Luke's Lightsaber from table even if it is inactive (e.g. carried by a Vader who cannot use it)."
+      ],
       "set": "221",
       "side": "Light"
     },
@@ -73001,6 +73111,10 @@
         }
       ],
       "rarity": "R",
+      "rulings": [
+        "When Light wins a battle or duel, handle I Feel The Conflict (automatic response) before His Destiny (optional response).",
+        "The last function plays only the non-virtual [Death Star II] Anakin Skywalker Interrupt (not an Anakin character card). The usual conditions and timing stated on the Interrupt must be met. As it is a Used Interrupt, it is played in Used Pile after being played, even though it originated outside the deck."
+      ],
       "set": "221",
       "side": "Light"
     },
@@ -73734,6 +73848,9 @@
         }
       ],
       "rarity": "R",
+      "rulings": [
+        "This card increases the Force a player activates for themselves from 1 to 2. It does not interfere with cards that increase total Force generation (e.g. the Premiere version of Luke Skywalker still works with this Effect on table)."
+      ],
       "set": "222",
       "side": "Light"
     },
@@ -73809,9 +73926,7 @@
       ],
       "rarity": "U2",
       "rulings": [
-        "Causes all forms of movement between two Death Star locations to be free.",
-        "When using Nabrun Leids for free, draw destiny but do not pay any cost.",
-        "After placing this card out of play, it is possible for Light to deploy a 2nd copy of this card on Central Core later in the game."
+        "When Light initiates a Force drain here, a stacked card is removed (automatic response) before Dark can play an optional Force drain canceler (e.g. Control)."
       ],
       "set": "215",
       "side": "Light"
@@ -74325,6 +74440,9 @@
         "Seeking An Audience (V)"
       ],
       "rarity": "R2",
+      "rulings": [
+        "For R2-D2 (V) to use his 'subtract 1' action, the following conditions must be met: First, the battle must be at an interior site. Second, R2-D2 (V) must be at the same site or at a related site (not necessarily an interior one, but R2-D2 (V) must be at a site - not a system or sector)."
+      ],
       "set": "201",
       "side": "Light"
     },
@@ -75877,6 +75995,10 @@
         "ZIR2"
       ],
       "front": {
+        "characteristics": [
+          "speeder",
+          "enclosed"
+        ],
         "deploy": "6",
         "destiny": "2",
         "forfeit": "6",

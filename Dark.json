@@ -4207,7 +4207,7 @@
       ],
       "rarity": "C2",
       "rulings": [
-        "Her game text does not make him a member of Black Squadron."
+        "Her game text does not make her a member of Black Squadron."
       ],
       "set": "203",
       "side": "Dark"
@@ -9972,6 +9972,9 @@
         "I'm Sorry"
       ],
       "rarity": "C",
+      "rulings": [
+        "When this site prevents a character from being hit by relocating them to the Weather Vane, it also prevents any other weapon results, such as the Force loss from P-59."
+      ],
       "set": "5",
       "side": "Dark",
       "underlyingCardFor": [
@@ -14524,6 +14527,9 @@
       "side": "Dark"
     },
     {
+      "abbr": [
+        "DMLH"
+      ],
       "cancels": [
         "Amidala's game text"
       ],
@@ -16783,13 +16789,20 @@
         "Double Back (V)"
       ],
       "rarity": "R",
+      "rulings": [
+        "Pulls any weapon with the blaster attribute, but only pulls the bounty card with the exact card title 'Bounty' (e.g. not Tarkin's Bounty)."
+      ],
       "set": "205",
       "side": "Dark"
     },
     {
+      "abbr": [
+        "DiPO"
+      ],
       "cancels": [
         "Opponent's immunity to attrition"
       ],
+      "counterpart": "Lightmaker",
       "front": {
         "characteristics": [
           "Independent (starship)"
@@ -16810,7 +16823,7 @@
         "lore": "Corellian starfighter. Dengar replaced its passenger capacity and TIE cannons with enhanced targeting systems. Allows Dengar to track and engage multiple enemies at once.",
         "maneuver": "5",
         "power": "2",
-        "subType": "Starfighter: Corellian Jm 5000",
+        "subType": "Starfighter: Corellian JM 5000",
         "title": "•Dengar In Punishing One",
         "type": "Starship",
         "uniqueness": "*"
@@ -17146,6 +17159,9 @@
         }
       ],
       "rarity": "R",
+      "rulings": [
+        "Dark 'has a frozen captive' regardless of whose card it is (e.g. it could be Light's frozen Han in Profit, or Dark's Jabba's Prize, etc)."
+      ],
       "set": "201",
       "side": "Dark"
     },
@@ -17817,7 +17833,7 @@
       ],
       "rarity": "R2",
       "rulings": [
-        "This card is not an assassin."
+        "This card is an assassin even while his game text is canceled."
       ],
       "set": "201",
       "side": "Dark"
@@ -19909,6 +19925,9 @@
       "side": "Dark"
     },
     {
+      "abbr": [
+        "EPS"
+      ],
       "combo": [
         "Emperor's Personal Shuttle + Emperor Palpatine"
       ],
@@ -24094,7 +24113,7 @@
           "Hoth"
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/Hoth-Dark/large/generalveers.gif",
-        "lore": "General Maximillian Veers is the model of Imperial Army officer. Cunning, loyal and ruthlessly efficient leader. In charge of the ground assault troops in Vader's forces.",
+        "lore": "General Maximillian Veers is the model of an Imperial Army officer. Cunning, loyal and a ruthlessly efficient leader. In charge of the ground assault troops in Vader's forces.",
         "power": "3",
         "subType": "Imperial",
         "title": "•General Veers",
@@ -24152,7 +24171,7 @@
           "Set 0"
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual0-Dark/large/generalveers.gif",
-        "lore": "General Maximillian Veers is the model of Imperial Army officer. Cunning, loyal and ruthlessly efficient leader. In charge of the ground assault troops in Vader's forces.",
+        "lore": "General Maximillian Veers is the model of an Imperial Army officer. Cunning, loyal and a ruthlessly efficient leader. In charge of the ground assault troops in Vader's forces.",
         "power": "3",
         "subType": "Imperial",
         "title": "•General Veers (V)",
@@ -24178,6 +24197,9 @@
         "Imperial Command"
       ],
       "rarity": "R1",
+      "rulings": [
+        "The 'immunity to attrition +2' text allows permanent pilots, so (for example) it can work while piloting Blizzard 2."
+      ],
       "set": "200",
       "side": "Dark"
     },
@@ -29925,8 +29947,7 @@
       ],
       "rarity": "R",
       "rulings": [
-        "While with a Dark alien leader, may not use Weapon Levitation.",
-        "Stunning Leader will exclude the alien leader, and then as a result will also exclude Jabba The Hutt (V)."
+        "The player is not required to say 'OH-HO-HO!' out loud, although it is encouraged."
       ],
       "set": "200",
       "side": "Dark"
@@ -29969,6 +29990,7 @@
       ],
       "rarity": "U",
       "rulings": [
+        "May be deployed even if Dark's [Jabba's Palace] icon site has been converted.",
         "If Revenge Of The Sith is on table and Dark loses 1 Force to make battle destiny modifiers affect total battle destiny instead, then the first Sith drawn for battle destiny will cause Revenge Of The Sith to add +2 to total battle destiny. The next Sith drawn for battle destiny will <u>not</u> cause Revenge Of The Sith to add another +2 (the cumulative rule prevents it)."
       ],
       "set": "201",
@@ -30530,7 +30552,7 @@
         "icons": [
           "Independent",
           "Nav Computer",
-          "Permanent Pilot",
+          "Pilot",
           "Scomp Link",
           "Set 10"
         ],
@@ -32700,6 +32722,10 @@
         }
       ],
       "rarity": "C",
+      "rulings": [
+        "To deploy simultaneously with Kylo, Kylo must deploy aboard it.",
+        "If revealed to take Kylo into hand from Reserve Deck but deploying them is impossible (e.g. not enough Force), Kylo returns to Reserve Deck."
+      ],
       "set": "210",
       "side": "Dark"
     },
@@ -34931,7 +34957,7 @@
         "title": "•Luke Skywalker, The Emperor's Prize / •Luke Skywalker, The Emperor's Prize",
         "type": "Character",
         "uniqueness": "*",
-        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Luke Skywalker The Emperors Prize (front)/image.png",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Luke Skywalker The Emperors Prize (back)/image.png",
         "printableSlipType": "VIRTUAL"
       },
       "front": {
@@ -34952,7 +34978,7 @@
         "title": "•Luke Skywalker, The Emperor's Prize / Luke Skywalker, The Emperor's Prize",
         "type": "Character",
         "uniqueness": "*",
-        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Luke Skywalker The Emperors Prize (back)/image.png",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Luke Skywalker The Emperors Prize (front)/image.png",
         "printableSlipType": "VIRTUAL"
       },
       "gempId": "205_14",
@@ -35946,7 +35972,6 @@
         "Monnok",
         "Ng'ok",
         "The Phantom Menace",
-        "Revenge Of The Sith (V)",
         "Visage Of The Emperor"
       ],
       "rarity": "R",
@@ -37941,6 +37966,9 @@
         "Invasion"
       ],
       "rarity": "PM",
+      "rulings": [
+        "When this site prevents a character from being hit, it also prevents any other weapon results, such as the Force loss from P-59."
+      ],
       "set": "13",
       "side": "Dark"
     },
@@ -40291,6 +40319,9 @@
         }
       ],
       "rarity": "R",
+      "rulings": [
+        "Rep is defined on the Objective card My Kind Of Scum."
+      ],
       "set": "203",
       "side": "Dark"
     },
@@ -42248,7 +42279,7 @@
         "lore": "Old Corellian Engineering Corporation starfighter. Has outdated Class Three hyperdrive, but high sublight speed capability. Easy to maintain. Owned by Dengar.",
         "maneuver": "5",
         "power": "2",
-        "subType": "Starfighter: Corellian Jm 5000",
+        "subType": "Starfighter: Corellian JM 5000",
         "title": "•Punishing One",
         "type": "Starship",
         "uniqueness": "*",
@@ -42297,7 +42328,7 @@
         "lore": "Old Corellian Engineering Corporation starfighter. Has outdated Class Three hyperdrive, but high sublight speed capability. Easy to maintain. Owned by Dengar.",
         "maneuver": "5",
         "power": "2",
-        "subType": "Starfighter: Corellian Jm 5000",
+        "subType": "Starfighter: Corellian JM 5000",
         "title": "•Punishing One (V)",
         "type": "Starship",
         "uniqueness": "*",
@@ -42525,6 +42556,9 @@
         }
       ],
       "rarity": "U",
+      "rulings": [
+        "When Dark reveals up to two aliens, the gaining of assassin (and Black Sun agent) applies to those cards and all other cards with the exact same card title. Not other cards of the same persona with different titles."
+      ],
       "set": "211",
       "side": "Dark"
     },
@@ -52901,6 +52935,9 @@
       "side": "Dark"
     },
     {
+      "abbr": [
+        "TPM"
+      ],
       "front": {
         "destiny": "7",
         "gametext": "Deploy on table. Once per turn, if Maul on table, may deploy a Neimoidian from Reserve Deck; reshuffle. While present with opponent's Jedi, Maul is defense value +2 and immune to attrition. If Maul just lost, place Effect in Used Pile. (Immune to Alter.)",
@@ -56443,6 +56480,9 @@
       ]
     },
     {
+      "abbr": [
+        "VPS"
+      ],
       "front": {
         "characteristics": [
           "Imperial (starship)"
@@ -56495,6 +56535,9 @@
       ]
     },
     {
+      "abbr": [
+        "VPSv"
+      ],
       "cancels": [
         "You lose no force to Uncontrollable Fury or You Must Confront Vader"
       ],
@@ -56585,6 +56628,10 @@
         }
       ],
       "rarity": "C",
+      "rulings": [
+        "To be a Vader's Castle site, it must have 'Vader's Castle' in the title (e.g. not Mustfar: Private Platform)",
+        "A card with 'Vader' in title can be plural or possessive (e.g. Vader's Cape or Vader's Castle is allowed) but not part of a larger word (e.g. Evader is not allowed)."
+      ],
       "set": "209",
       "side": "Dark"
     },
@@ -58921,13 +58968,7 @@
       ],
       "rarity": "R",
       "set": "8",
-      "side": "Dark",
-      "underlyingCardFor": [
-        {
-          "cardId": 7235,
-          "title": "Black Krrsantan"
-        }
-      ]
+      "side": "Dark"
     },
     {
       "cancels": [
@@ -58962,7 +59003,13 @@
         "If opponent had a 'Draw X and Choose Y destinies' scenario, only the chosen destinies are counted and targeted; the others are ignored entirely."
       ],
       "set": "6",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+        {
+          "cardId": 7235,
+          "title": "Black Krrsantan"
+        }
+      ]
     },
     {
       "canceledBy": [
@@ -60621,7 +60668,8 @@
     },
     {
       "abbr": [
-        "EPP Aurra"
+        "EPP Aurra",
+        "Aurra Sing With Blaster Rifle (AI)"
       ],
       "front": {
         "ability": "4",
@@ -61438,6 +61486,7 @@
         "destiny": "7",
         "gametext": "Lose 2 Force to deploy on Vader's Castle. Your Force generation here may not be limited. Each player loses 1 Force at the end of their own turn. Once per game, may take a lightsaber into hand from Reserve Deck; reshuffle. (Immune to Alter.)",
         "icons": [
+          "Dagobah",
           "Set 13"
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual13-Dark/large/visageoftheemperor.gif",
@@ -61616,6 +61665,9 @@
       "side": "Dark"
     },
     {
+      "abbr": [
+        "WMMC"
+      ],
       "front": {
         "characteristics": [
           "hologram"
@@ -61645,6 +61697,9 @@
         {
           "set": "213"
         }
+      ],
+      "pulls": [
+        "Qi'ra, Top Lieutenant"
       ],
       "rarity": "U",
       "set": "213",
@@ -62157,6 +62212,9 @@
         }
       ],
       "rarity": "U1",
+      "rulings": [
+        "To cause Force loss, the character must be placed out of play from the Lost Pile, or from an active or inactive state on the table."
+      ],
       "set": "214",
       "side": "Dark"
     },
@@ -64617,8 +64675,9 @@
       ],
       "rarity": "C2",
       "rulings": [
-        "If you used an Objective, you do not have a starting location and cannot play the Starting function of this card.",
-        "(Used function) Activation is determined at the beginning of the turn. If a converted location is raised to the top during the activate phase, it will <u>not</u> change the activation amount that turn."
+        "(Lost function) Activation is determined at the beginning of the turn. If a converted location is raised to the top during the activate phase, it will <u>not</u> change the activation amount that turn.",
+        "(Starting function) If you used an Objective, you do not have a starting location and cannot play the Starting function of this card.",
+        "The phrase 'non-Palace' means the location does not have the word 'Palace' anywhere in its title."
       ],
       "set": "217",
       "side": "Dark"
@@ -65319,7 +65378,7 @@
         "(Both sides) This Objective must flip as an automatic action as soon as the flip conditions are met.",
         "(0-side) 'Flip this card during any deploy phase' means it will flip during either player's deploy phase.",
         "(0-side) 'Imperial Star Destroyers' refers to Imperial affiliation (not First Order, Rebel, Independent, etc).  It does not refer to Imperial-class. Thus Dominator and Executor are deploy -1.",
-        "(7-side) After studying an artwork card, place it in Lost Pile even if it was not possible to perform the specified action (e.g., even if there was no character to exclude from battle or no immunity to attrition to cancel).",
+        "(7-side) After studying an artwork card, place it in Lost Pile even if it was not possible to perform the specified action (e.g., even if there was no immunity to attrition to cancel or no cards in Reserve Deck to search through).",
         "(7-side) For a multi-destiny artwork card such as R2-D2, the destiny value is chosen by the card owner (typically Light) <u>after</u> Dark chooses it to be studied.",
         "(7-side) If multiple battles occur in the same turn, Dark may study an artwork once in each battle."
       ],
@@ -65524,11 +65583,6 @@
         }
       ],
       "rarity": "U1",
-      "rulings": [
-        "Fennec schedules the prevention of battle damage as an automatic response to initiating battle, which will then occur even if Fennec is subsequently removed from table or excluded from battle.",
-        "If Fennec is to be automatically excluded (e.g. due to being targeted by Rebel Barrier earlier that turn), her exclusion and the prevention of battle damage are competing automatic actions.",
-        "Fennec's 'once per turn' function schedules potential Force loss which may occur later even if Fennec's game text is subsequently canceled."
-      ],
       "set": "219",
       "side": "Dark"
     },
@@ -66877,6 +66931,10 @@
       "side": "Dark"
     },
     {
+      "abbr": [
+        "DMLH",
+        "Darth Maul, Lone Hunter (AI)"
+      ],
       "cancels": [
         "Amidala's game text"
       ],
@@ -66938,6 +66996,10 @@
       "side": "Dark"
     },
     {
+      "abbr": [
+        "DMLH",
+        "Darth Maul, Lone Hunter (AI)"
+      ],
       "cancels": [
         "Amidala's game text"
       ],
@@ -69615,6 +69677,10 @@
         }
       ],
       "rarity": "C",
+      "rulings": [
+        "To be a Vader's Castle site, it must have 'Vader's Castle' in the title (e.g. not Mustfar: Private Platform)",
+        "A card with 'Vader' in title can be plural or possessive (e.g. Vader's Cape or Vader's Castle is allowed) but not part of a larger word (e.g. Evader is not allowed)."
+      ],
       "set": "209",
       "side": "Dark"
     },
@@ -70024,7 +70090,7 @@
           "set": "223"
         }
       ],
-      "rarity": "P",
+      "rarity": "PM",
       "set": "223",
       "side": "Dark"
     },
@@ -70096,6 +70162,9 @@
       "side": "Dark"
     },
     {
+      "combo": [
+        "Aratech Corporation (V)"
+      ],
       "front": {
         "ability": "2",
         "deploy": "2",
@@ -70129,6 +70198,10 @@
         {
           "set": "223"
         }
+      ],
+      "pulls": [
+        "Moff Gideon",
+        "Moff Gideon, Suited For Battle"
       ],
       "rarity": "C",
       "set": "223",
@@ -70281,6 +70354,9 @@
         }
       ],
       "rarity": "R",
+      "rulings": [
+        "In the event that Light controls Bunker when Dark deploys this card, this card goes to Used Pile as an automatic response, leaving Dark unable to take a card into hand from Force Pile."
+      ],
       "set": "223",
       "side": "Dark"
     },
