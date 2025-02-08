@@ -9972,6 +9972,9 @@
         "I'm Sorry"
       ],
       "rarity": "C",
+      "rulings": [
+        "When this site prevents a character from being hit by relocating them to the Weather Vane, it also prevents any other weapon results, such as the Force loss from P-59."
+      ],
       "set": "5",
       "side": "Dark",
       "underlyingCardFor": [
@@ -16793,9 +16796,13 @@
       "side": "Dark"
     },
     {
+      "abbr": [
+        "DiPO"
+      ],
       "cancels": [
         "Opponent's immunity to attrition"
       ],
+      "counterpart": "Lightmaker",
       "front": {
         "characteristics": [
           "Independent (starship)"
@@ -16816,7 +16823,7 @@
         "lore": "Corellian starfighter. Dengar replaced its passenger capacity and TIE cannons with enhanced targeting systems. Allows Dengar to track and engage multiple enemies at once.",
         "maneuver": "5",
         "power": "2",
-        "subType": "Starfighter: Corellian Jm 5000",
+        "subType": "Starfighter: Corellian JM 5000",
         "title": "•Dengar In Punishing One",
         "type": "Starship",
         "uniqueness": "*"
@@ -37959,6 +37966,9 @@
         "Invasion"
       ],
       "rarity": "PM",
+      "rulings": [
+        "When this site prevents a character from being hit, it also prevents any other weapon results, such as the Force loss from P-59."
+      ],
       "set": "13",
       "side": "Dark"
     },
@@ -42269,7 +42279,7 @@
         "lore": "Old Corellian Engineering Corporation starfighter. Has outdated Class Three hyperdrive, but high sublight speed capability. Easy to maintain. Owned by Dengar.",
         "maneuver": "5",
         "power": "2",
-        "subType": "Starfighter: Corellian Jm 5000",
+        "subType": "Starfighter: Corellian JM 5000",
         "title": "•Punishing One",
         "type": "Starship",
         "uniqueness": "*",
@@ -42318,7 +42328,7 @@
         "lore": "Old Corellian Engineering Corporation starfighter. Has outdated Class Three hyperdrive, but high sublight speed capability. Easy to maintain. Owned by Dengar.",
         "maneuver": "5",
         "power": "2",
-        "subType": "Starfighter: Corellian Jm 5000",
+        "subType": "Starfighter: Corellian JM 5000",
         "title": "•Punishing One (V)",
         "type": "Starship",
         "uniqueness": "*",

@@ -10442,6 +10442,9 @@
         "Quiet Mining Colony"
       ],
       "rarity": "C",
+      "rulings": [
+        "When this site prevents a character from being hit by relocating them to the Weather Vane, it also prevents any other weapon results, such as the Force loss from P-59."
+      ],
       "set": "5",
       "side": "Light",
       "underlyingCardFor": [
@@ -14311,7 +14314,7 @@
         "deploy": "3",
         "destiny": "2",
         "errataDate": "2024-12-30",
-        "errataNotes": "Previous text: May add 1 pilot. Permanent pilot is •Dash, who provides ability of 3. During battle, if with another T-47 and about to draw battle destiny, may draw two and choose one. Immune to attrition < 4.",
+        "errataNotes": "Added Hoth icon. Previous lore: 'Enclosed.' Previous text: May add 1 pilot. Permanent pilot is •Dash, who provides ability of 3. During battle, if with another T-47 and about to draw battle destiny, may draw two and choose one. Immune to attrition < 4.",
         "errataSymbol": "E2",
         "forfeit": "5",
         "gametext": "May add 1 pilot. Permanent pilot is •Dash, who provides ability of 3. Unless this card 'hit', other T-47s here may not be targeted by Crash Landing, High-speed Tactics, or weapons. Immune to attrition < 4.",
@@ -14322,7 +14325,7 @@
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual1-Light/large/dashinrogue12.gif",
         "landspeed": "4",
-        "lore": "Enclosed.",
+        "lore": "Technicians at the Rebel Base on Hoth modified T-47 airspeeders to fly in the frigid atmosphere of the ice planet. Enclosed.",
         "maneuver": "5",
         "power": "5",
         "subType": "Combat: T-47 Snowspeeder",
@@ -14349,9 +14352,7 @@
       "rarity": "PM",
       "rulings": [
         "Not a Rogue Squadron pilot (e.g. does not work for Wedge Antilles, Red Squadron Leader).",
-        "Dash is a matching pilot, so this vehicle is immune to attrition < 6 with Echo Base Garrison.",
-        "The 'draw two and choose one' text does <u>not</u> play nice with 'draws two battle destiny if unable to otherwise' (e.g. Commander Luke Skywalker (V)). These texts cannot be combined. It's almost always best for Light to just draw two battle destiny with Luke, and ignore Dash's text.",
-        "When using 'draw two and choose one', any response to an individual destiny draw (such as adding 1 with Heading To The Medical Frigate, or canceling a draw with Grand Moff Tarkin) is a response to a draw immediately after it is made, not a response to a draw being chosen. For example, if Dark cancels a draw or subtracts from a draw, Light can then simply choose the other draw."
+        "Dash is a matching pilot, so this vehicle is immune to attrition < 6 with Echo Base Garrison."
       ],
       "set": "201",
       "side": "Light"
@@ -15599,7 +15600,19 @@
           "set": "203"
         }
       ],
+      "pulls": [
+        "Alderaan",
+        "Any Tatooine battleground site",
+        "Artoo (V)",
+        "R2-D2 (Artoo-Detoo) (V)",
+        "R2-D2 & C-3PO",
+        "Tantive IV (V)",
+        "Tatooine: Dune Sea (V)"
+      ],
       "rarity": "R1",
+      "rulings": [
+        "Pulls Alderaan system, and Tatooine battleground sites."
+      ],
       "set": "203",
       "side": "Light"
     },
@@ -21527,7 +21540,8 @@
         "Millennium Falcon"
       ],
       "matchingWeapon": [
-        "Han's Heavy Blaster Pistol"
+        "Han's Heavy Blaster Pistol",
+        "Han's Heavy Blaster Pistol (V)"
       ],
       "printings": [
         {
@@ -24000,7 +24014,11 @@
         "Han",
         "Han (V)",
         "Han Solo",
-        "Solo"
+        "Han Solo (V)",
+        "Han Solo, Optimistic General",
+        "Han... Solo",
+        "Solo",
+        "Tobias Beckett"
       ],
       "previousId": 40096,
       "printings": [
@@ -24012,6 +24030,10 @@
         "Portable Scanner"
       ],
       "rarity": "R2",
+      "rulings": [
+        "Matching weapon for Han or Beckett, but not for smugglers in general.",
+        "This weapon will not prevent Greedo (V) from deploying as a react. He deploys as a react, and then it will cancel his game text as soon as he arrives."
+      ],
       "set": "200",
       "side": "Light"
     },
@@ -33300,8 +33322,15 @@
         "LM",
         "Hammerhead Corvette"
       ],
+      "cancels": [
+        "Opponent's immunity to attrition"
+      ],
+      "counterpart": "Dengar In Punishing One",
       "front": {
         "armor": "5",
+        "characteristics": [
+          "Rebel (starship)"
+        ],
         "deploy": "5",
         "destiny": "2",
         "errataDate": "2024-12-30",
@@ -38639,6 +38668,9 @@
         "Mindful Of The Future"
       ],
       "rarity": "PM",
+      "rulings": [
+        "When this site prevents a character from being hit, it also prevents any other weapon results, such as the Force loss from P-59."
+      ],
       "set": "13",
       "side": "Light"
     },
@@ -39671,6 +39703,10 @@
         }
       ],
       "rarity": "R",
+      "rulings": [
+        "The 'may not cloak' text works against both Maul's Sith Infiltrator and Maul In Scimitar.",
+        "The total battle destiny reset protection text works against Zuckuss In Mist Hunter."
+      ],
       "set": "200",
       "side": "Light"
     },
@@ -53653,9 +53689,6 @@
         "Senator Mon Mothma"
       ],
       "rarity": "R",
-      "rulings": [
-        "In order to deploy the empty starship Gold Squadron 1 to the Endor system, Light must either include a pilot from hand or deploy the starship empty aboard another starship with capacity (e.g. Home One)."
-      ],
       "set": "9",
       "side": "Light",
       "underlyingCardFor": [
@@ -66247,6 +66280,12 @@
         }
       ],
       "rarity": "U",
+      "rulings": [
+        "Jedi: Light Side character with 6 ability or higher.",
+        "Padawan: A character defined as a Padawan by their title, lore, or game text. Must also have ability less than 6.",
+        "If Dark steals this weapon, note that a Dark Jedi is not a Jedi.",
+        "This is a matching weapon for Ahsoka, but not for other Jedi or Padawans in general."
+      ],
       "set": "214",
       "side": "Light"
     },
@@ -71462,6 +71501,7 @@
         "gametext": "May add 2 pilots and 2 passengers. Once per game, may deploy Han or Chewie aboard from Reserve Deck; reshuffle. While [A New Hope] Han piloting, Force drain +1 here. While Han or Chewie piloting, immune to attrition < 5 (< 7 if both).",
         "hyperspeed": "6",
         "icons": [
+          "A New Hope",
           "Scomp Link",
           "Nav Computer",
           "Set 20"
@@ -71504,6 +71544,9 @@
         "Any Chewie"
       ],
       "rarity": "R1",
+      "rulings": [
+        "May deploy Han or Chewie aboard from Reserve Deck even if Falcon is landed and/or unpiloted."
+      ],
       "set": "220",
       "side": "Light"
     },
@@ -72231,6 +72274,9 @@
         "Gold Squadron 1"
       ],
       "rarity": "R",
+      "rulings": [
+        "When using this Effect to deploy the empty starship Gold Squadron 1 to the Endor system, it may deploy simultaneously with a pilot from hand. It may either deploy aboard another starship with capacity (e.g. Home One) or directly to the system (a pilot is required to deploy directly to the system)."
+      ],
       "set": "221",
       "side": "Light"
     },
@@ -75949,6 +75995,10 @@
         "ZIR2"
       ],
       "front": {
+        "characteristics": [
+          "speeder",
+          "enclosed"
+        ],
         "deploy": "6",
         "destiny": "2",
         "forfeit": "6",
