@@ -428,7 +428,7 @@
       "rarity": "U",
       "rulings": [
         "Character keeps power +1 after becoming a Jedi.",
-        "Passengers aboard starships or enclosed vehicles do not count towards the 6 ability requirement. If the requirement is not met, Dark does not get any battle destiny draws (even if they have multiple battle destiny adders such as Boba Fett Bounty Hunter, Mighty Jabba, etc). However, 'draws if unable to otherwise' still works without 6 ability."
+        "Passengers aboard starships or enclosed vehicles do not count toward the 6 ability requirement. If the requirement is not met, Dark does not get any battle destiny draws (even if they have multiple battle destiny adders such as Boba Fett Bounty Hunter, Mighty Jabba, etc). However, 'draws if unable to otherwise' still works without 6 ability."
       ],
       "set": "4",
       "side": "Light",
@@ -2741,6 +2741,7 @@
       "matchingWeapon": [
         "Anakin Skywalker, Jedi Knight",
         "Anakin Skywalker, Padawan Learner",
+        "Ben Solo",
         "Boushh",
         "Commander Luke Skywalker",
         "Commander Luke Skywalker (V)",
@@ -2759,10 +2760,13 @@
         "Luke With Lightsaber",
         "Mara Jade",
         "Master Luke",
+        "Master Luke (V)",
         "Princess Leia",
         "Princess Leia (V)",
         "Princess Leia Organa",
-        "Son Of Skywalker"
+        "Son Of Skywalker",
+        "Son Of Skywalker (V)",
+        "Young Skywalker"
       ],
       "printings": [
         {
@@ -2770,6 +2774,7 @@
         }
       ],
       "pulledBy": [
+        "A Cunning Warrior",
         "Gift Of The Mentor",
         "I Know",
         "Son Of Skywalker",
@@ -2839,6 +2844,7 @@
         }
       ],
       "pulledBy": [
+        "A Cunning Warrior",
         "Gift Of The Mentor",
         "Son Of Skywalker",
         "Son Of Skywalker (V)",
@@ -4173,7 +4179,7 @@
       "side": "Light"
     },
     {
-      "abbr": [
+      "combo": [
         "ASP-707 + Falcon + Intruder Missile"
       ],
       "front": {
@@ -10629,6 +10635,7 @@
         }
       ],
       "pulledBy": [
+        "A Cunning Warrior",
         "Mindful Of The Future",
         "Quiet Mining Colony"
       ],
@@ -10751,6 +10758,7 @@
         }
       ],
       "pulledBy": [
+        "A Cunning Warrior",
         "Quiet Mining Colony"
       ],
       "rarity": "C",
@@ -22346,6 +22354,9 @@
       "side": "Light"
     },
     {
+      "abbr": [
+        "Millennium Falcon"
+      ],
       "front": {
         "characteristics": [
           "Rebel (starship)"
@@ -23757,7 +23768,8 @@
     {
       "abbr": [
         "HCATF",
-        "HCF"
+        "HCF",
+        "Millennium Falcon"
       ],
       "combo": [
         "Han, Chewie, And The Falcon + Life Debt Adds two destinies, bringing it to a total of 4.",
@@ -23812,8 +23824,9 @@
     },
     {
       "abbr": [
-        "HCATFV",
-        "HCFV"
+        "HCATFv",
+        "HCFv",
+        "Millennium Falcon"
       ],
       "combo": [
         "Han, Chewie, And The Falcon + Punch It! Adds two destinies in a defending battle."
@@ -23947,7 +23960,7 @@
         "errataSymbol": "E1",
         "gametext": "Use 1 Force to deploy on Han, or 3 on your warrior. May target a character, creature or vehicle using 1 Force. Draw destiny. Target hit if destiny +1 > defense value. If hit by Han, target's forfeit = 0.",
         "imageUrl": "https://res.starwarsccg.org/cards/Premiere-Light/large/hansheavyblasterpistol.gif",
-        "lore": "BlasTech DL-44 heavy pistol. Short range, but relatively powerful. Carries energy for 25 shots. Illegal or restricted in most systems.",
+        "lore": "BlasTech DL-44 heavy blaster pistol. Short range, but relatively powerful. Carries energy for 25 shots. Illegal or restricted in most systems.",
         "subType": "Character",
         "title": "•Han's Heavy Blaster Pistol",
         "type": "Weapon",
@@ -23996,7 +24009,7 @@
           "Set 0"
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual0-Light/large/hansheavyblasterpistol.gif",
-        "lore": "BlasTech DL-44 heavy pistol. Short range, but relatively powerful. Carries energy for 25 shots. Illegal or restricted in most systems.",
+        "lore": "BlasTech DL-44 heavy blaster pistol. Short range, but relatively powerful. Carries energy for 25 shots. Illegal or restricted in most systems.",
         "subType": "Character",
         "title": "•Han's Heavy Blaster Pistol (V)",
         "type": "Weapon",
@@ -28341,7 +28354,7 @@
       ],
       "pulledBy": [
         "Mindful Of The Future",
-        "Old Allies/We Need Your Help"
+        "Old Allies / We Need Your Help"
       ],
       "rarity": "C",
       "set": "204",
@@ -28377,7 +28390,7 @@
         }
       ],
       "pulledBy": [
-        "Old Allies/We Need Your Help"
+        "Old Allies / We Need Your Help"
       ],
       "pulls": [
         "Rey"
@@ -28417,7 +28430,7 @@
       ],
       "pulledBy": [
         "Mindful Of The Future",
-        "Old Allies/We Need Your Help"
+        "Old Allies / We Need Your Help"
       ],
       "rarity": "C1",
       "set": "204",
@@ -28454,7 +28467,7 @@
       ],
       "pulledBy": [
         "Mindful Of The Future",
-        "Old Allies/We Need Your Help"
+        "Old Allies / We Need Your Help"
       ],
       "rarity": "C",
       "set": "204",
@@ -29866,7 +29879,7 @@
       "rarity": "C1",
       "rulings": [
         "(Light side text) A Wookiee who is also a smuggler would be deploy -2, not deploy -4.",
-        "(Dark side text) Passengers do not count towards the 6 ability requirement. If the requirement is not met, Dark does not get any battle destiny draws (even if they have multiple battle destiny adders such as Boba Fett Bounty Hunter, IG-88 In IG-2000, etc). However, 'draws if unable to otherwise' still works without 6 ability."
+        "(Dark side text) Passengers do not count toward the 6 ability requirement. If the requirement is not met, Dark does not get any battle destiny draws (even if they have multiple battle destiny adders such as Boba Fett Bounty Hunter, IG-88 In IG-2000, etc). However, 'draws if unable to otherwise' still works without 6 ability."
       ],
       "set": "2",
       "side": "Light",
@@ -55451,12 +55464,14 @@
         }
       ],
       "pulledBy": [
-        "A Weakness Can Be Found",
-        "Diplomatic Mission To Alderaan",
+        "Diplomatic Mission To Alderaan / A Weakness Can Be Found",
         "Mindful Of The Future",
         "Yarna d'al' Gargan (V)"
       ],
       "rarity": "C1",
+      "rulings": [
+        "(Dark side text) Passengers do not count toward the 6 ability requirement. If the requirement is not met, Dark does not get any battle destiny draws (even if they have multiple battle destiny adders such as Boba Fett Bounty Hunter, Mighty Jabba, etc). However, 'draws if unable to otherwise' still works without 6 ability."
+      ],
       "set": "1",
       "side": "Light",
       "underlyingCardFor": [
@@ -56735,6 +56750,9 @@
       "side": "Light"
     },
     {
+      "abbr": [
+        "Millennium Falcon"
+      ],
       "front": {
         "characteristics": [
           "Resistance (starship)"
@@ -56799,7 +56817,8 @@
     },
     {
       "abbr": [
-        "Flip Falcon"
+        "Flip Falcon",
+        "Millennium Falcon"
       ],
       "back": {
         "deploy": "0",
@@ -69141,7 +69160,7 @@
         "The Falcon initially stacks here 0-side up, and only deploys from here 0-side up.",
         "The Falcon stacked here <u>can</u> be deployed by Best Starpilot In The Galaxy.",
         "The Falcon stacked here <u>cannot</u> be revealed via Squadron Assignments.",
-        "The Falcon stacked here from outside the deck does not count towards the 60-card deck limit.",
+        "The Falcon stacked here from outside the deck does not count toward the 60-card deck limit.",
         "If the [Set 4] Falcon is bounced to hand by I'd Just As Soon Kiss A Wookiee, it instead goes out of play via its own game text."
       ],
       "set": "217",
@@ -71537,7 +71556,8 @@
       "pulledBy": [
         "All Wings Report In & Darklighter Spin",
         "Best Starpilot In The Galaxy",
-        "Life Debt"
+        "Life Debt",
+        "Passage To The Alderaan System"
       ],
       "pulls": [
         "Any Han",
@@ -71994,7 +72014,8 @@
     },
     {
       "abbr": [
-        "Flip Falcon"
+        "Flip Falcon",
+        "Millennium Falcon"
       ],
       "back": {
         "deploy": "0",
@@ -74152,7 +74173,7 @@
         }
       ],
       "pulledBy": [
-        "Old Allies/We Need Your Help"
+        "Old Allies / We Need Your Help"
       ],
       "pulls": [
         "Rey"
@@ -74192,7 +74213,7 @@
       ],
       "pulledBy": [
         "Mindful Of The Future",
-        "Old Allies/We Need Your Help"
+        "Old Allies / We Need Your Help"
       ],
       "rarity": "C",
       "set": "204",
@@ -75172,6 +75193,10 @@
           "set": "223"
         }
       ],
+      "pulls": [
+        "Han Solo (V)",
+        "Millennium Falcon (V)"
+      ],
       "rarity": "C2",
       "set": "223",
       "side": "Light"
@@ -75451,6 +75476,13 @@
           "set": "224"
         }
       ],
+      "pulls": [
+        "Anakin's Lightsaber",
+        "Anakin's Lightsaber (V)",
+        "Cloud City: Lower Corridor",
+        "Cloud City: Lower Corridor (V)",
+        "Cloud City: Upper Plaza Corridor"
+      ],
       "rarity": "C",
       "set": "224",
       "side": "Light"
@@ -75458,6 +75490,9 @@
     {
       "abbr": [
         "BA & DS"
+      ],
+      "combo": [
+        "Ability 7 pilots: Jedi Marshal Avar Kriss, Kit Fisto, Plo Koon (V)"
       ],
       "front": {
         "destiny": "5",
@@ -75479,6 +75514,9 @@
           "set": "224"
         }
       ],
+      "pulls": [
+        "A unique unpiloted starfighter"
+      ],
       "rarity": "C",
       "set": "224",
       "side": "Light"
@@ -75489,6 +75527,12 @@
       ],
       "front": {
         "ability": "2",
+        "characteristics": [
+          "Chorin",
+          "cyborg",
+          "mercenary",
+          "miner"
+        ],
         "armor": "5",
         "deploy": "5",
         "destiny": "2",
@@ -75518,12 +75562,19 @@
         }
       ],
       "rarity": "C",
+      "rulings": [
+        "If Beilert hits multiple characters in a single battle (e.g. via a repeating weapon) he can make all of them lost."
+      ],
       "set": "224",
       "side": "Light"
     },
     {
       "abbr": [
         "BS"
+      ],
+      "combo": [
+        "[Episode VII] Epic Event options: Be With Me or The Force Is Strong In My Family",
+        "Get Interrupts out of play with Rey, All Of The Jedi (also consider Solo or General Solo (V))"
       ],
       "front": {
         "ability": "5",
@@ -75553,12 +75604,18 @@
       "gempId": "224_11",
       "id": 7348,
       "legacy": false,
+      "matchingWeapon": [
+        "Anakin's Lightsaber"
+      ],
       "printings": [
         {
           "set": "224"
         }
       ],
       "rarity": "U",
+      "rulings": [
+        "All Light Side versions of Ben Solo are Skywalkers (e.g. for Anakin's Lightsaber), while Dark Side versions (Kylo Ren) are not Skywalkers."
+      ],
       "set": "224",
       "side": "Light"
     },
@@ -75596,7 +75653,19 @@
           "set": "224"
         }
       ],
+      "pulls": [
+        "Bo-Katan",
+        "Boba",
+        "Din Djarin",
+        "Fenn Rau",
+        "Heavy Infantry Mandalorian",
+        "Sabine Wren",
+        "Sabine, Padawan Learner"
+      ],
       "rarity": "C",
+      "rulings": [
+        "While Bo-Katan piloting, cancels Imperial Barrier globally."
+      ],
       "set": "224",
       "side": "Light"
     },
@@ -75632,6 +75701,11 @@
           "set": "224"
         }
       ],
+      "pulledBy": [
+        "A Cunning Warrior",
+        "Mindful Of The Future",
+        "Quiet Mining Colony"
+      ],
       "rarity": "U",
       "set": "224",
       "side": "Light"
@@ -75640,8 +75714,12 @@
       "abbr": [
         "CRv"
       ],
+      "conceptBy": "Original concept by Dan Tartaglione",
       "front": {
         "ability": "2",
+        "characteristics": [
+          "Royal Naboo Security"
+        ],
         "deploy": "2",
         "destiny": "3",
         "forfeit": "5",
@@ -75680,6 +75758,12 @@
       ],
       "front": {
         "ability": "3",
+        "characteristics": [
+          "general",
+          "leader",
+          "Corellian",
+          "scout"
+        ],
         "deploy": "3",
         "destiny": "1",
         "extraText": [
@@ -75711,6 +75795,10 @@
         }
       ],
       "rarity": "R",
+      "rulings": [
+        "Remains a scout if his game text is canceled.",
+        "When Light plays Critical Error Revealed, Dark gets first response (e.g. to cancel it with Sense). If canceled, Light can no longer respond to retrieve."
+      ],
       "set": "224",
       "side": "Light"
     },
@@ -75720,6 +75808,12 @@
       ],
       "front": {
         "ability": "3",
+        "characteristics": [
+          "Corellian",
+          "gambler",
+          "pirate",
+          "smuggler"
+        ],
         "deploy": "3",
         "destiny": "1",
         "extraText": [
@@ -75751,6 +75845,9 @@
           "set": "224"
         }
       ],
+      "pulledBy": [
+        "Passage To The Alderaan System"
+      ],
       "rarity": "R1",
       "set": "224",
       "side": "Light"
@@ -75759,8 +75856,17 @@
       "abbr": [
         "JTT"
       ],
+      "conceptBy": "Original concept by Angelo Consoli & Chris Menzel",
       "front": {
         "ability": "3",
+        "characteristics": [
+          "gambler",
+          "Lepi",
+          "mercenary",
+          "smuggler",
+          "thief",
+          "Star-Hopper"
+        ],
         "deploy": "3",
         "destiny": "3",
         "extraText": [
@@ -75770,8 +75876,7 @@
         "gametext": "Deploys -1 to Cloud City. Any blaster may deploy on Jaxxon. Once per game, may deploy a blaster on Jaxxon from Lost Pile (or Jaxxon may steal one from opponent's Lost Pile). While at opponent's battleground, Imperial Enforcement is suspended.",
         "icons": [
           "Pilot",
-          "Warrior",
-          "Warrior",
+          "Warrior x2",
           "Set 24"
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual24-Light/large/jaxxonttumperakki.gif",
@@ -75793,6 +75898,10 @@
         }
       ],
       "rarity": "R",
+      "rulings": [
+        "Jaxxon may use (fire) any blaster deployed on him (stolen or not).",
+        "A stolen blaster deploying on Jaxxon must still obey uniqueness rules."
+      ],
       "set": "224",
       "side": "Light"
     },
@@ -75800,8 +75909,14 @@
       "abbr": [
         "JMAK"
       ],
+      "conceptBy": "Original concept by Kris Van Beurden & Chris Menzel",
       "front": {
         "ability": "7",
+        "characteristics": [
+          "female",
+          "High Republic",
+          "musician"
+        ],
         "deploy": "5",
         "destiny": "2",
         "extraText": [
@@ -75870,6 +75985,10 @@
         }
       ],
       "rarity": "U2",
+      "rulings": [
+        "Characters piloting this starship functionally become Phoenix Squadron pilots. However, to deploy -1 aboard, the pilot must already be Phoenix Squadron beforehand (e.g. from title, lore, or the text of Zero Hour).",
+        "Although 'Force drains here may not be reduced or canceled', Force drain bonuses can still be canceled (e.g. Imperial Decree can cancel the Force drain +1 at Kessel)."
+      ],
       "set": "224",
       "side": "Light"
     },
@@ -75912,6 +76031,10 @@
         }
       ],
       "rarity": "R",
+      "rulings": [
+        "May even deploy Anakin's Lightsaber onto another character (e.g. Princess Leia) at his location.",
+        "The phrase 'exclude all other characters' means exclude all characters except for the targeted Dark Jedi and Son Of Skywalker himself."
+      ],
       "set": "224",
       "side": "Light"
     },
@@ -75952,6 +76075,10 @@
         }
       ],
       "rarity": "C",
+      "rulings": [
+        "Can relocate site-to-site, site-to-system, system-to-site, or system-to-system.",
+        "Can't get to interior sites or violate special rules (e.g. Ahch-To or Dagobah rules). Cannot go to/from Death Star II sectors. Otherwise, can go almost anywhere-to-anywhere."
+      ],
       "set": "224",
       "side": "Light"
     },
@@ -75986,7 +76113,15 @@
           "set": "224"
         }
       ],
+      "pulledBy": [
+        "Diplomatic Mission To Alderaan / A Weakness Can Be Found",
+        "Mindful Of The Future",
+        "Yarna d'al' Gargan (V)"
+      ],
       "rarity": "C1",
+      "rulings": [
+        "(Dark side text) Passengers do not count toward the 6 ability requirement. If the requirement is not met, Dark does not get any battle destiny draws (even if they have multiple battle destiny adders such as Boba Fett Bounty Hunter, Mighty Jabba, etc). However, 'draws if unable to otherwise' still works without 6 ability."
+      ],
       "set": "224",
       "side": "Light"
     },
@@ -76029,6 +76164,10 @@
         }
       ],
       "rarity": "R2",
+      "rulings": [
+        "Not a Rogue Squadron pilot (e.g. does not work for Wedge Antilles, Red Squadron Leader).",
+        "Zev is a matching pilot, so this vehicle is immune to attrition < 6 with Echo Base Garrison."
+      ],
       "set": "224",
       "side": "Light"
     },
@@ -76177,6 +76316,7 @@
         }
       ],
       "pulledBy": [
+        "A Cunning Warrior",
         "Gift Of The Mentor",
         "Son Of Skywalker",
         "Son Of Skywalker (V)",
