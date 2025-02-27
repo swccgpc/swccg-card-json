@@ -2233,6 +2233,9 @@
       "side": "Dark"
     },
     {
+      "abbr": [
+        "AWU"
+      ],
       "front": {
         "destiny": "2",
         "errataSymbol": "E1",
@@ -5261,7 +5264,7 @@
       "combo": [
         "Binder + Something Special Planned For Them"
       ],
-      "conceptBy": "(Original concept by Casper Jorgensen and Kristian Lund)",
+      "conceptBy": "Original concept by Casper Jorgensen and Kristian Lund",
       "front": {
         "armor": "5",
         "characteristics": [
@@ -6248,6 +6251,7 @@
         "Agent Kallus",
         "Arica (V)",
         "Baron Soontir Fel",
+        "Baron Soontir Fel (V)",
         "Biker Scout Trooper",
         "Captain Bewil",
         "Captain Bewil (V)",
@@ -11071,6 +11075,9 @@
       "side": "Dark"
     },
     {
+      "abbr": [
+        "CHYBC"
+      ],
       "cancels": [
         "Asteroid Sanctuary",
         "Opponent's Force drains at non-battleground locations",
@@ -11102,6 +11109,9 @@
       "side": "Dark"
     },
     {
+      "abbr": [
+        "CHYBC"
+      ],
       "front": {
         "destiny": "4",
         "errataSymbol": "E1",
@@ -26437,6 +26447,9 @@
       "side": "Dark"
     },
     {
+      "abbr": [
+        "IAYF"
+      ],
       "canceledBy": [
         "NOOOOOOOOOOOO!"
       ],
@@ -26487,6 +26500,9 @@
       ]
     },
     {
+      "abbr": [
+        "IAYFv"
+      ],
       "counterpart": "Like My Father Before Me",
       "front": {
         "destiny": "6",
@@ -31700,7 +31716,7 @@
       ],
       "rarity": "U2",
       "rulings": [
-        "(Light side text) Passengers do not count towards the 6 ability requirement. If the requirement is not met, Light does not get any battle destiny draws (even if they have multiple battle destiny adders such as Captain Han Solo, Life Debt, etc). However, 'draws if unable to otherwise' still works without 6 ability."
+        "(Light side text) Passengers do not count toward the 6 ability requirement. If the requirement is not met, Light does not get any battle destiny draws (even if they have multiple battle destiny adders such as Captain Han Solo, Life Debt, etc). However, 'draws if unable to otherwise' still works without 6 ability."
       ],
       "set": "1",
       "side": "Dark",
@@ -32396,7 +32412,7 @@
     },
     {
       "abbr": [
-        "KDY (V)"
+        "KDYv"
       ],
       "cancels": [
         "We're In Attack Position Now"
@@ -32448,8 +32464,10 @@
         "Malastare",
         "Mon Calamari",
         "Naboo",
+        "Naboo (V)",
         "Nal Hutta",
         "Ord Mantell",
+        "Ord Mantell (V)",
         "Raithal",
         "Rendili",
         "Sullust",
@@ -38491,7 +38509,7 @@
         "errataSymbol": "E1",
         "gametext": "If both players have a spy at same site, draw destiny. Add 2 if opponent's spy is Undercover. Opponent's spy is lost if total destiny > 2.",
         "imageUrl": "https://res.starwarsccg.org/cards/Premiere-Dark/large/nevaryalnal.gif",
-        "lore": "Immense Ranat scavenger from Aralia. Slyly spies for anyone willing to pay his price. Outcast. Works as a laborer for Hrchek, the Saurin droid trader.",
+        "lore": "Immense Ranat scavenger from Aralia. Slyly spies for anyone willing to pay his price. Outcast. Works as laborer for Hrchek, the Saurin droid trader.",
         "subType": "Lost",
         "title": "Nevar Yalnal",
         "type": "Interrupt",
@@ -38527,7 +38545,7 @@
           "A New Hope"
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/ANewHope-Dark/large/ngok.gif",
-        "lore": "Dejarik of a Ng'ok war beast. Foul temper gives rise to bad feelings.",
+        "lore": "Dejarik of a Ng'ok war beast. Foul temper gives rise to bad feelings. Has razor-sharp retractable claws. Used in many systems to frighten off potential attackers.",
         "subType": "Used",
         "title": "Ng'ok",
         "type": "Interrupt",
@@ -38570,7 +38588,7 @@
           "Set 1"
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual1-Dark/large/ngokwarbeast.gif",
-        "lore": "Dejarik.",
+        "lore": "Dejarik of a Ng'ok war beast. Foul temper gives rise to bad feelings. Has razor-sharp retractable claws. Used in many systems to frighten off potential attackers.",
         "title": "•Ng'ok War Beast",
         "type": "Effect",
         "uniqueness": "*",
@@ -41917,7 +41935,7 @@
       ],
       "rarity": "PM",
       "rulings": [
-        "Passengers aboard starships or enclosed vehicles do not count towards the 6 ability requirement. If the requirement is not met, Light does not get any battle destiny draws (even if they have multiple battle destiny adders such as Captain Han Solo, Life Debt, etc). However, 'draws if unable to otherwise' still works without 6 ability."
+        "Passengers aboard starships or enclosed vehicles do not count toward the 6 ability requirement. If the requirement is not met, Light does not get any battle destiny draws (even if they have multiple battle destiny adders such as Captain Han Solo, Life Debt, etc). However, 'draws if unable to otherwise' still works without 6 ability."
       ],
       "set": "10",
       "side": "Dark"
@@ -44420,7 +44438,8 @@
       "id": 2147,
       "legacy": false,
       "matching": [
-        "Baron Soontir Fel"
+        "Baron Soontir Fel",
+        "Baron Soontir Fel (V)"
       ],
       "printings": [
         {
@@ -52806,6 +52825,11 @@
       ],
       "front": {
         "ability": "5",
+        "characteristics": [
+          "Inquisitor",
+          "leader",
+          "Pau'an"
+        ],
         "deploy": "5",
         "destiny": "1",
         "extraText": [
@@ -56675,6 +56699,10 @@
       ],
       "front": {
         "ability": "3",
+        "characteristics": [
+          "ISB agent",
+          "general"
+        ],
         "deploy": "4",
         "destiny": "1",
         "extraText": [
@@ -69607,6 +69635,11 @@
       ],
       "front": {
         "ability": "5",
+        "characteristics": [
+          "Inquisitor",
+          "leader",
+          "Pau'an"
+        ],
         "deploy": "5",
         "destiny": "1",
         "extraText": [
@@ -70710,7 +70743,17 @@
           "set": "224"
         }
       ],
+      "pulls": [
+        "Ord Mantell (V)"
+      ],
       "rarity": "U",
+      "rulings": [
+        "Requires the bounty hunter be present, but does not require the target character to be present.",
+        "The target character applies their forfeit value, but does not leave table. Cards on the target character remain.",
+        "The target character cannot be targeted as 'just lost' or 'just forfeited.'",
+        "Dark can choose from the usual capture options (Seize, Imprison, Escape).",
+        "The captured character's values are restored to normal and if hit, is no longer hit."
+      ],
       "set": "224",
       "side": "Dark"
     },
@@ -70720,6 +70763,10 @@
       ],
       "front": {
         "ability": "3",
+        "characteristics": [
+          "leader",
+          "Corellian"
+        ],
         "deploy": "4",
         "destiny": "1",
         "extraText": [
@@ -70746,10 +70793,16 @@
       "gempId": "224_2",
       "id": 7339,
       "legacy": false,
+      "matching": [
+        "Saber 1"
+      ],
       "printings": [
         {
           "set": "224"
         }
+      ],
+      "pulledBy": [
+        "Blizzard 4"
       ],
       "rarity": "R",
       "set": "224",
@@ -70759,8 +70812,16 @@
       "abbr": [
         "BT1 & 000"
       ],
+      "combo": [
+        "E Chu Ta"
+      ],
       "front": {
         "armor": "5",
+        "characteristics": [
+          "assassin",
+          "information broker",
+          "r-unit"
+        ],
         "deploy": "5",
         "destiny": "3",
         "extraText": [
@@ -70792,6 +70853,9 @@
         }
       ],
       "rarity": "C2",
+      "rulings": [
+        "Cards with multiple warrior icons can still only escort one captive at a time."
+      ],
       "set": "224",
       "side": "Dark"
     },
@@ -70801,6 +70865,11 @@
       ],
       "front": {
         "ability": "7",
+        "characteristics": [
+          "leader",
+          "Muun",
+          "Trade Federation"
+        ],
         "deploy": "4",
         "destiny": "1",
         "extraText": [
@@ -70832,6 +70901,10 @@
         }
       ],
       "rarity": "U",
+      "rulings": [
+        "His text does not make himself deploy -1.",
+        "The 'if drawn for destiny' text can only put the Plagueis destiny draw out of play, not any other copy of Plagueis (e.g. not one from hand or table)."
+      ],
       "set": "224",
       "side": "Dark"
     },
@@ -70866,6 +70939,13 @@
           "set": "224"
         }
       ],
+      "pulledBy": [
+        "All Wrapped Up (V)",
+        "Kuat Drive Yards (V)"
+      ],
+      "pulls": [
+        "Death Mark"
+      ],
       "rarity": "C2",
       "set": "224",
       "side": "Dark"
@@ -70876,6 +70956,10 @@
       ],
       "front": {
         "ability": "5",
+        "characteristics": [
+          "female",
+          "Inquisitor"
+        ],
         "deploy": "5",
         "destiny": "2",
         "extraText": [
@@ -70947,6 +71031,10 @@
         }
       ],
       "rarity": "C",
+      "rulings": [
+        "Can relocate site-to-site, site-to-system, system-to-site, or system-to-system.",
+        "Can't get to interior sites or violate special rules (e.g. Ahch-To, Dagobah, or Hoth Energy Shield rules). Cannot go to/from Death Star II sectors. Otherwise, can go almost anywhere-to-anywhere."
+      ],
       "set": "224",
       "side": "Dark"
     },
@@ -71327,6 +71415,9 @@
       "side": "Dark"
     },
     {
+      "abbr": [
+        "IAYFv"
+      ],
       "counterpart": "Like My Father Before Me",
       "front": {
         "destiny": "6",
