@@ -76747,6 +76747,135 @@
       "rarity": "C",
       "set": "204",
       "side": "Light"
+    },
+    {
+      "abbr": [
+        "CERv"
+      ],
+      "front": {
+        "destiny": "4",
+        "gametext": "USED: Suspend Ominous Rumors or There Are Many Hunting You Now for remainder of turn. OR Take Blount, Orrimaarko, Tala Durith, or [Endor] Chewie into hand from Reserve Deck; reshuffle. LOST: Lose 1 Force to exclude opponent's passenger from battle (then place this Interrupt out of play).",
+        "icons": [
+          "Death Star II",
+          "Set 25"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual25-Light/large/criticalerrorrevealed.gif",
+        "lore": "Hologram technology allows efficient communication of complex intelligence during war room briefings.",
+        "subType": "Used Or Lost",
+        "title": "•Critical Error Revealed (V)",
+        "type": "Interrupt",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Critical Error Revealed (V)/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "225_7",
+      "id": 7391,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "225"
+        }
+      ],
+      "rarity": "C",
+      "set": "225",
+      "side": "Light"
+    },
+    {
+      "abbr": [
+        "IDNTSEv"
+      ],
+      "front": {
+        "destiny": "5",
+        "gametext": "USED: Take Houjix, Ounee Ta, or Scanner Techs into hand from Reserve Deck; reshuffle. OR Cancel a Force drain initiated by a lone Slave I. LOST: If an Imperial and a bounty hunter are in a battle together, draw one destiny and subtract that amount from opponent's attrition and total power.",
+        "icons": [
+          "Cloud City",
+          "Set 25"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual25-Light/large/idontneedtheirscumeither.gif",
+        "lore": "Of all the scum and villainy Lando had dealt with (pirates, smugglers, con-artists, thieves, swindlers, politicians and Imperial lackeys), he hated bounty hunters the most.",
+        "subType": "Used Or Lost",
+        "title": "•I Don't Need Their Scum, Either (V)",
+        "type": "Interrupt",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/I Don't Need Their Scum, Either (V)/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "225_8",
+      "id": 7392,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "225"
+        }
+      ],
+      "rarity": "R",
+      "set": "225",
+      "side": "Light"
+    },
+    {
+      "abbr": [
+        "MSHI"
+      ],
+      "front": {
+        "destiny": "5",
+        "gametext": "During battle involving Rebel Leia, the number of battle destiny draws may not be limited. OR Subtract 1 from a just drawn Force Lightning or 'choke' destiny (unless targeting an Undercover spy). OR If a [Skywalker] Effect on table, take Chief Chirpa's Hut or Guest Quarters into hand from Reserve Deck; reshuffle.",
+        "icons": [
+          "Skywalker",
+          "Set 25"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual25-Light/large/mysisterhasit.gif",
+        "lore": "'He's my brother.'",
+        "subType": "Used",
+        "title": "•My Sister Has It",
+        "type": "Interrupt",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/My Sister Has It/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "225_9",
+      "id": 7393,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "225"
+        }
+      ],
+      "rarity": "R",
+      "set": "225",
+      "side": "Light"
+    },
+    {
+      "front": {
+        "ability": "2",
+        "deploy": "2",
+        "destiny": "3",
+        "forfeit": "3",
+        "gametext": "Deploys only on Endor. Once per game, may take an Endor site into hand from Reserve Deck; reshuffle. Game text of your other scouts here may not be canceled. During any deploy phase, if an Imperial at an adjacent site, Wuta may move to that site (using landspeed) as a regular move.",
+        "icons": [
+          "Endor",
+          "Set 25"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual25-Light/large/wuta.gif",
+        "lore": "Ewok explorer. Scout. Searches for fallen trees to make tools. Tracks predators. First to notice the Imperial presence on Endor.",
+        "power": "2",
+        "subType": "Alien",
+        "title": "•Wuta (V)",
+        "type": "Character",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Wuta (V)/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "225_10",
+      "id": 7394,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "225"
+        }
+      ],
+      "rarity": "U",
+      "set": "225",
+      "side": "Light"
     }
   ]
 }

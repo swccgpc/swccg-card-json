@@ -71489,6 +71489,237 @@
       "rarity": "U",
       "set": "200",
       "side": "Dark"
+    },
+    {
+      "abbr": [
+        "BFv"
+      ],
+      "front": {
+        "ability": "1",
+        "deploy": "2",
+        "destiny": "1",
+        "forfeit": "3",
+        "gametext": "Deploys free to opponent's Audience Chamber. May deploy [Jabba's Palace] No Bargain from Reserve Deck; reshuffle. While with Jabba, Bib is power +2 and Jabba is immune to attrition. While at Audience Chamber, I Must Be Allowed To Speak may not target this site.",
+        "icons": [
+          "Jabba's Palace",
+          "Set 25"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual25-Dark/large/bibfortuna.gif",
+        "lore": "Twi'lek leader and majordomo of Jabba's palace. Succeeded Jabba's last majordomo, Naroon Cuthus. Plotting to kill Jabba.",
+        "power": "3",
+        "subType": "Alien",
+        "title": "•Bib Fortuna (V)",
+        "type": "Character",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Bib Fortuna (Jabba's Palace) (V)/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "225_1",
+      "id": 7384,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "225"
+        }
+      ],
+      "rarity": "R",
+      "set": "225",
+      "side": "Dark"
+    },
+    {
+      "abbr": [
+        "BPv"
+      ],
+      "front": {
+        "destiny": "5",
+        "gametext": "Take Ghhhk or Hyperwave Scan into hand from Reserve Deck; reshuffle. OR If you just won a battle, cancel Cloud City Celebration or Tatooine Celebration. OR If opponent just looked at cards in their Force Pile or Used Pile, peek at the top 2 cards of your Reserve Deck; take one into hand.",
+        "icons": [
+          "Special Edition",
+          "Set 25"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual25-Dark/large/blastpoints.gif",
+        "lore": "'Only Imperial stormtroopers are so precise.'",
+        "subType": "Used",
+        "title": "•Blast Points (V)",
+        "type": "Interrupt",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Blast Points (V)/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "225_2",
+      "id": 7385,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "225"
+        }
+      ],
+      "rarity": "C",
+      "set": "225",
+      "side": "Dark"
+    },
+    {
+      "abbr": [
+        "CHYBCv"
+      ],
+      "front": {
+        "destiny": "0",
+        "gametext": "Plays on table. Sectors are not battlegrounds. While you occupy a battleground and opponent occupies less than two battlegrounds, cancels: Asteroid Sanctuary, opponent's Force drains at non-battleground locations, and opponent's Force retrieval.",
+        "icons": [
+          "Reflections III",
+          "Set D"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual25-Dark/large/comehereyoubigcowardv.gif",
+        "lore": "'Chewie! Come here!'",
+        "title": "•Come Here You Big Coward (Special Edition) (V)",
+        "type": "Defensive Shield",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Come Here You Big Coward (Special Edition) (V)/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "225_3",
+      "id": 7387,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "225"
+        },
+        {
+          "set": "200d"
+        }
+      ],
+      "rarity": "PM*",
+      "set": "200d",
+      "side": "Dark"
+    },
+    {
+      "abbr": [
+        "CHYBCv"
+      ],
+      "front": {
+        "destiny": "0",
+        "gametext": "Plays on table. Sectors are not battlegrounds. While you occupy a battleground and opponent occupies less than two battlegrounds, cancels: Asteroid Sanctuary, opponent's Force drains at non-battleground locations, and opponent's Force retrieval.",
+        "icons": [
+          "Reflections III",
+          "Set D"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual25-Dark/large/comehereyoubigcoward.gif",
+        "lore": "'Chewie! Come here!'",
+        "title": "•Come Here You Big Coward (V)",
+        "type": "Defensive Shield",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Come Here You Big Coward (Reflections III) (V)/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "225_3",
+      "id": 7386,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "225"
+        },
+        {
+          "set": "200d"
+        }
+      ],
+      "rarity": "PM*",
+      "set": "200d",
+      "side": "Dark"
+    },
+    {
+      "abbr": [
+        "NBv"
+      ],
+      "front": {
+        "destiny": "4",
+        "gametext": "Deploy on Audience Chamber. May deploy Salacious Crumb here from Reserve Deck; reshuffle. Once per turn, may choose: Raise your converted Audience Chamber to the top or, if opponent just deployed a character here, place a card from hand on your Force Pile. [Immune to Alter.]",
+        "icons": [
+          "Special Edition",
+          "Jabba's Palace",
+          "Set 25"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual25-Dark/large/nobargain.gif",
+        "lore": "'Zeet tu seet. Jabba no tuzindy honkabee.'",
+        "title": "•No Bargain (V)",
+        "type": "Effect",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/No Bargain (V)/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "225_4",
+      "id": 7388,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "225"
+        }
+      ],
+      "rarity": "U",
+      "set": "225",
+      "side": "Dark"
+    },
+    {
+      "abbr": [
+        "SUv"
+      ],
+      "front": {
+        "ability": "2",
+        "deploy": "2",
+        "destiny": "2",
+        "forfeit": "4",
+        "gametext": "Adds 2 to power of anything he pilots. Once per game, may deploy a [Hoth] or [Episode I] device on a capital starship he is piloting from Reserve Deck; reshuffle. While piloting a [Trade Federation] capital starship, opponent may not cancel your battle destiny draws where you have a character with 'Trade Federation' in lore.",
+        "icons": [
+          "Theed Palace",
+          "Episode I",
+          "Pilot",
+          "Set 25"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual25-Dark/large/silunch.gif",
+        "lore": "Neimoidian Trade Federation Droid Control Ship officer. Specialized in battle droid control programming and interfaces. Does not enjoy being commanded by Daultay Dofine.",
+        "power": "2",
+        "title": "•Sil Unch (V)",
+        "type": "Character - Republic",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Sil Unch (V)/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "225_5",
+      "id": 7389,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "225"
+        }
+      ],
+      "rarity": "U",
+      "set": "225",
+      "side": "Dark"
+    },
+    {
+      "front": {
+        "destiny": "4",
+        "gametext": "Deploy on a character. Character may not be targeted by Clash Of Sabers and, if character is Luke or Leia, may not move except during opponent's move phase. Opponent may not cancel battle destiny draws here. Nabrun Leids is canceled. [Immune to Alter.]",
+        "icons": [
+          "Set 25"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual25-Dark/large/stranded.gif",
+        "lore": "Imperial troopers use tactics to strand and cut off fugitives. Only daring and unpredictable actions gave Luke and Leia a chance to escape.",
+        "title": "Stranded",
+        "type": "Effect",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Stranded/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "225_6",
+      "id": 7390,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "225"
+        }
+      ],
+      "rarity": "U1",
+      "set": "225",
+      "side": "Dark"
     }
   ]
 }
