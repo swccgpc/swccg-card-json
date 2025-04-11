@@ -5078,7 +5078,14 @@
       "set": "6",
       "side": "Dark",
       "underlyingCardFor": [
-        "Margo"
+        {
+          "title": "Bib Fortuna (V)",
+          "cardId": 7384
+        },
+        {
+          "title": "Margo",
+          "cardId": 6798
+        }
       ]
     },
     {
@@ -5827,6 +5834,10 @@
       "set": "7",
       "side": "Dark",
       "underlyingCardFor": [
+        {
+          "title": "Blast Points (V)",
+          "cardId": 7385
+        },
         {
           "title": "TD-110",
           "cardId": 7311
@@ -11106,7 +11117,13 @@
       ],
       "rarity": "PM",
       "set": "13",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+        {
+          "title": "Come Here You Big Coward (V)",
+          "cardId": 7386
+        }
+      ]
     },
     {
       "abbr": [
@@ -11137,7 +11154,13 @@
       ],
       "rarity": "C",
       "set": "7",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+        {
+          "title": "Come Here You Big Coward (Special Edition) (V)",
+          "cardId": 7387
+        }
+      ]
     },
     {
       "counterpart": "Eject! Eject!",
@@ -38775,7 +38798,13 @@
       ],
       "rarity": "U",
       "set": "7",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+        {
+          "title": "No Bargain (V)",
+          "cardId": 7388
+        }
+      ]
     },
     {
       "front": {
@@ -47101,7 +47130,13 @@
         "This card is not a commander ('commanded' doesn't count)."
       ],
       "set": "14",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+        {
+          "title": "Sil Unch (V)",
+          "cardId": 7389
+        }
+      ]
     },
     {
       "canceledBy": [
@@ -59068,7 +59103,13 @@
       ],
       "rarity": "U1",
       "set": "1",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+        {
+          "title": "Stranded",
+          "cardId": 7390
+        }
+      ]
     },
     {
       "front": {
@@ -71532,7 +71573,7 @@
       ],
       "front": {
         "destiny": "5",
-        "gametext": "Take Ghhhk or Hyperwave Scan into hand from Reserve Deck; reshuffle. OR If you just won a battle, cancel Cloud City Celebration or Tatooine Celebration. OR If opponent just looked at cards in their Force Pile or Used Pile, peek at the top 2 cards of your Reserve Deck; take one into hand.",
+        "gametext": "Take Ghhhk or Hyperwave Scan into hand from Reserve Deck; reshuffle. OR If you just won a battle, cancel Cloud City Celebration or Tatooine Celebration. OR If opponent just looked at one or more cards in their Force Pile or Used Pile, peek at the top 2 cards of your Reserve Deck; take one into hand.",
         "icons": [
           "Special Edition",
           "Set 25"
@@ -71569,16 +71610,16 @@
           "Reflections III",
           "Set D"
         ],
-        "imageUrl": "https://res.starwarsccg.org/cards/Virtual25-Dark/large/comehereyoubigcowardv.gif",
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual25-Dark/large/comehereyoubigcoward.gif",
         "lore": "'Chewie! Come here!'",
-        "title": "•Come Here You Big Coward (Special Edition) (V)",
+        "title": "•Come Here You Big Coward (V)",
         "type": "Defensive Shield",
         "uniqueness": "*",
-        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Come Here You Big Coward (Special Edition) (V)/image.png",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Come Here You Big Coward (Reflections III) (V)/image.png",
         "printableSlipType": "VIRTUAL"
       },
       "gempId": "225_3",
-      "id": 7387,
+      "id": 7386,
       "legacy": false,
       "printings": [
         {
@@ -71603,16 +71644,16 @@
           "Reflections III",
           "Set D"
         ],
-        "imageUrl": "https://res.starwarsccg.org/cards/Virtual25-Dark/large/comehereyoubigcoward.gif",
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual25-Dark/large/comehereyoubigcowardv.gif",
         "lore": "'Chewie! Come here!'",
-        "title": "•Come Here You Big Coward (V)",
+        "title": "•Come Here You Big Coward (Special Edition) (V)",
         "type": "Defensive Shield",
         "uniqueness": "*",
-        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Come Here You Big Coward (Reflections III) (V)/image.png",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Come Here You Big Coward (Special Edition) (V)/image.png",
         "printableSlipType": "VIRTUAL"
       },
       "gempId": "225_3",
-      "id": 7386,
+      "id": 7387,
       "legacy": false,
       "printings": [
         {

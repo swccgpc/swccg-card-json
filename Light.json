@@ -13463,7 +13463,14 @@
       "set": "9",
       "side": "Light",
       "underlyingCardFor": [
-        "Rebel Leadership & Critical Error Revealed"
+        {
+          "title": "Critical Error Revealed (V)",
+          "cardId": 7391
+        },
+        {
+          "title": "Rebel Leadership & Critical Error Revealed",
+          "cardId": 7045
+        }
       ]
     },
     {
@@ -26154,7 +26161,13 @@
       ],
       "rarity": "R",
       "set": "5",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        {
+          "title": "I Don't Need Their Scum, Either (V)",
+          "cardId": 7392
+        }
+      ]
     },
     {
       "counterpart": "Insignificant Rebellion",
@@ -57973,7 +57986,13 @@
       ],
       "rarity": "R",
       "set": "8",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        {
+          "title": "My Sister Has It",
+          "cardId": 7393
+        }
+      ]
     },
     {
       "counterpart": "Self-Destruct Mechanism",
@@ -62193,7 +62212,13 @@
       ],
       "rarity": "U",
       "set": "8",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        {
+          "title": "Wuta (V)",
+          "cardId": 7394
+        }
+      ]
     },
     {
       "combo": [
