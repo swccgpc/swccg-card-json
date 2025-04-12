@@ -5045,7 +5045,8 @@
       "front": {
         "ability": "1",
         "characteristics": [
-          "leader"
+          "leader",
+          "Twi'lek"
         ],
         "deploy": "3",
         "destiny": "1",
@@ -5072,6 +5073,7 @@
       ],
       "pulledBy": [
         "Power Of The Hutt",
+        "Power Of The Hutt (V)",
         "Sy Snootles"
       ],
       "rarity": "R",
@@ -47123,6 +47125,7 @@
       "pulledBy": [
         "Blockade Flagship",
         "Lord Sidious",
+        "Seal Off The Bridge",
         "The Phantom Menace"
       ],
       "rarity": "U",
@@ -71535,8 +71538,15 @@
       "abbr": [
         "BFv"
       ],
+      "combo": [
+        "Jabba The Hutt (V) doubles Bib to 10 power"
+      ],
       "front": {
         "ability": "1",
+        "characteristics": [
+          "leader",
+          "Twi'lek"
+        ],
         "deploy": "2",
         "destiny": "1",
         "forfeit": "3",
@@ -71563,6 +71573,14 @@
           "set": "225"
         }
       ],
+      "pulledBy": [
+        "Power Of The Hutt",
+        "Power Of The Hutt (V)",
+        "Sy Snootles"
+      ],
+      "pulls": [
+        "No Bargain (V)"
+      ],
       "rarity": "R",
       "set": "225",
       "side": "Dark"
@@ -71570,6 +71588,10 @@
     {
       "abbr": [
         "BPv"
+      ],
+      "cancels": [
+        "Cloud City Celebration",
+        "Tatooine Celebration"
       ],
       "front": {
         "destiny": "5",
@@ -71595,6 +71617,12 @@
           "set": "225"
         }
       ],
+      "pulls": [
+        "Ghhhk",
+        "Ghhhk & Those Rebels Won't Escape Us",
+        "Hyperwave Scan",
+        "Hyperwave Scan (V)"
+      ],
       "rarity": "C",
       "set": "225",
       "side": "Dark"
@@ -71602,6 +71630,11 @@
     {
       "abbr": [
         "CHYBCv"
+      ],
+      "cancels": [
+        "Asteroid Sanctuary",
+        "Opponent's Force drains at non-battleground locations",
+        "Opponent's Force retrieval"
       ],
       "front": {
         "destiny": "0",
@@ -71637,6 +71670,11 @@
       "abbr": [
         "CHYBCv"
       ],
+      "cancels": [
+        "Asteroid Sanctuary",
+        "Opponent's Force drains at non-battleground locations",
+        "Opponent's Force retrieval"
+      ],
       "front": {
         "destiny": "0",
         "gametext": "Plays on table. Sectors are not battlegrounds. While you occupy a battleground and opponent occupies less than two battlegrounds, cancels: Asteroid Sanctuary, opponent's Force drains at non-battleground locations, and opponent's Force retrieval.",
@@ -71671,6 +71709,9 @@
       "abbr": [
         "NBv"
       ],
+      "canceledBy": [
+        "May be impeded by My Kind Of Scum"
+      ],
       "front": {
         "destiny": "4",
         "gametext": "Deploy on Audience Chamber. May deploy Salacious Crumb here from Reserve Deck; reshuffle. Once per turn, may choose: Raise your converted Audience Chamber to the top or, if opponent just deployed a character here, place a card from hand on your Force Pile. [Immune to Alter.]",
@@ -71695,6 +71736,12 @@
           "set": "225"
         }
       ],
+      "pulledBy": [
+        "Bib Fortuna (V)"
+      ],
+      "pulls": [
+        "Salacious Crumb"
+      ],
       "rarity": "U",
       "set": "225",
       "side": "Dark"
@@ -71703,8 +71750,15 @@
       "abbr": [
         "SUv"
       ],
+      "combo": [
+        "A Stunning Move or Invasion"
+      ],
       "front": {
         "ability": "2",
+        "characteristics": [
+          "Trade Federation",
+          "Neimoidian"
+        ],
         "deploy": "2",
         "destiny": "2",
         "forfeit": "4",
@@ -71732,11 +71786,24 @@
           "set": "225"
         }
       ],
+      "pulledBy": [
+        "Blockade Flagship",
+        "Lord Sidious",
+        "Seal Off The Bridge",
+        "The Phantom Menace"
+      ],
+      "pulls": [
+        "Deflector Shield Generators",
+        "Deflector Shield Generators (V)"
+      ],
       "rarity": "U",
       "set": "225",
       "side": "Dark"
     },
     {
+      "cancels": [
+        "Nabrun Leids"
+      ],
       "front": {
         "destiny": "4",
         "gametext": "Deploy on a character. Character may not be targeted by Clash Of Sabers and, if character is Luke or Leia, may not move except during opponent's move phase. Opponent may not cancel battle destiny draws here. Nabrun Leids is canceled. [Immune to Alter.]",

@@ -9121,12 +9121,14 @@
       ],
       "pulledBy": [
         "General Crix Madine",
+        "General Crix Madine (V)",
         "Life Debt",
         "Wookiee Roar"
       ],
       "pulls": [
         "Lumat",
-        "Wuta"
+        "Wuta",
+        "Wuta (V)"
       ],
       "rarity": "R",
       "set": "8",
@@ -62195,9 +62197,11 @@
       "pulledBy": [
         "Chewbacca Of Kashyyyk",
         "General Crix Madine",
+        "General Crix Madine (V)",
         "Soth Petikkin"
       ],
       "pulls": [
+        "Endor: Anakin's Funeral Pyre",
         "Endor: Back Door",
         "Endor: Bunker",
         "Endor: Bunker (V)",
@@ -76777,7 +76781,17 @@
       "abbr": [
         "CERv"
       ],
+      "cancels": [
+        "Suspends Ominous Rumors or There Are Many Hunting You Now"
+      ],
+      "combo": [
+        "Dejarik Hologameboard",
+        "General Crix Madine (V)"
+      ],
       "front": {
+        "characteristics": [
+          "hologram"
+        ],
         "destiny": "4",
         "gametext": "USED: Suspend Ominous Rumors or There Are Many Hunting You Now for remainder of turn. OR Take Blount, Orrimaarko, Tala Durith, or [Endor] Chewie into hand from Reserve Deck; reshuffle. LOST: Lose 1 Force to exclude opponent's passenger from battle (then place this Interrupt out of play).",
         "icons": [
@@ -76800,6 +76814,15 @@
         {
           "set": "225"
         }
+      ],
+      "pulledBy": [
+        "Holoprojector"
+      ],
+      "pulls": [
+        "Chewbacca Of Kashyyyk",
+        "Chewbacca, Defender Of Kashyyyk",
+        "Lieutenant Blount",
+        "Orrimaarko"
       ],
       "rarity": "C",
       "set": "225",
@@ -76833,6 +76856,15 @@
           "set": "225"
         }
       ],
+      "pulls": [
+        "Houjix",
+        "Houjix & Out Of Nowhere",
+        "Ounee Ta (Jabba's Palace Sealed Deck)",
+        "Ounee Ta (Reflections III)",
+        "Ounee Ta (V)",
+        "Scanner Techs",
+        "Scanner Techs (V)"
+      ],
       "rarity": "R",
       "set": "225",
       "side": "Light"
@@ -76840,6 +76872,10 @@
     {
       "abbr": [
         "MSHI"
+      ],
+      "combo": [
+        "Leia With Blaster Rifle or Princess Leia (V) + any Han + I Know = 4 battle destiny that cannot be limited",
+        "[Skywalker] Effects: Best Starpilot In The Galaxy and A Cunning Warrior"
       ],
       "front": {
         "destiny": "5",
@@ -76865,13 +76901,26 @@
           "set": "225"
         }
       ],
+      "pulls": [
+        "Cloud City: Guest Quarters",
+        "Endor: Chief Chirpa's Hut",
+        "Endor: Chief Chirpa's Hut (V)"
+      ],
       "rarity": "R",
       "set": "225",
       "side": "Light"
     },
     {
+      "canceledBy": [
+        "Dead Ewok",
+        "Eee Chu Wawa! (cancels game text)"
+      ],
       "front": {
         "ability": "2",
+        "characteristics": [
+          "scout",
+          "Ewok"
+        ],
         "deploy": "2",
         "destiny": "3",
         "forfeit": "3",
@@ -76897,6 +76946,26 @@
         {
           "set": "225"
         }
+      ],
+      "pulledBy": [
+        "Chewbacca Of Kashyyyk",
+        "General Crix Madine",
+        "General Crix Madine (V)",
+        "Soth Petikkin"
+      ],
+      "pulls": [
+        "Endor: Anakin's Funeral Pyre",
+        "Endor: Back Door",
+        "Endor: Bunker",
+        "Endor: Bunker (V)",
+        "Endor: Chief Chirpa's Hut",
+        "Endor: Dense Forest",
+        "Endor: Ewok Village",
+        "Endor: Ewok Village (V)",
+        "Endor: Great Forest",
+        "Endor: Hidden Forest Trail",
+        "Endor: Landing Platform (Docking Bay)",
+        "Endor: Rebel Landing Site (Forest)"
       ],
       "rarity": "U",
       "set": "225",
