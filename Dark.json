@@ -71582,6 +71582,9 @@
         "No Bargain (V)"
       ],
       "rarity": "R",
+      "rulings": [
+        "The last sentence means that I Must Be Allowed To Speak (V) will not take a card into hand for characters deploying here."
+      ],
       "set": "225",
       "side": "Dark"
     },
@@ -71593,6 +71596,7 @@
         "Cloud City Celebration",
         "Tatooine Celebration"
       ],
+      "counterpart": "Ascension Guns (V)",
       "front": {
         "destiny": "5",
         "gametext": "Take Ghhhk or Hyperwave Scan into hand from Reserve Deck; reshuffle. OR If you just won a battle, cancel Cloud City Celebration or Tatooine Celebration. OR If opponent just looked at one or more cards in their Force Pile or Used Pile, peek at the top 2 cards of your Reserve Deck; take one into hand.",
@@ -71624,6 +71628,10 @@
         "Hyperwave Scan (V)"
       ],
       "rarity": "C",
+      "rulings": [
+        "Last function: Cannot be played if Reserve Deck is empty.",
+        "Last function: If only one card in Reserve Deck, peek at it but do not take it into hand."
+      ],
       "set": "225",
       "side": "Dark"
     },
@@ -71636,6 +71644,7 @@
         "Opponent's Force drains at non-battleground locations",
         "Opponent's Force retrieval"
       ],
+      "counterpart": "Simple Tricks And Nonsense",
       "front": {
         "destiny": "0",
         "gametext": "Plays on table. Sectors are not battlegrounds. While you occupy a battleground and opponent occupies less than two battlegrounds, cancels: Asteroid Sanctuary, opponent's Force drains at non-battleground locations, and opponent's Force retrieval.",
@@ -71662,7 +71671,10 @@
           "set": "200d"
         }
       ],
-      "rarity": "PM*",
+      "rarity": "PM",
+      "rulings": [
+        "Asteroid sectors (including Big One), Clouds, Death Star II sectors, and the unique Bespin: Cloud City all become non-battlegrounds."
+      ],
       "set": "200d",
       "side": "Dark"
     },
@@ -71675,6 +71687,7 @@
         "Opponent's Force drains at non-battleground locations",
         "Opponent's Force retrieval"
       ],
+      "counterpart": "Simple Tricks And Nonsense",
       "front": {
         "destiny": "0",
         "gametext": "Plays on table. Sectors are not battlegrounds. While you occupy a battleground and opponent occupies less than two battlegrounds, cancels: Asteroid Sanctuary, opponent's Force drains at non-battleground locations, and opponent's Force retrieval.",
@@ -71701,7 +71714,10 @@
           "set": "200d"
         }
       ],
-      "rarity": "PM*",
+      "rarity": "C",
+      "rulings": [
+        "Asteroid sectors (including Big One), Clouds, Death Star II sectors, and the unique Bespin: Cloud City all become non-battlegrounds."
+      ],
       "set": "200d",
       "side": "Dark"
     },
@@ -71743,6 +71759,9 @@
         "Salacious Crumb"
       ],
       "rarity": "U",
+      "rulings": [
+        "You may place a card from hand onto an empty Force Pile."
+      ],
       "set": "225",
       "side": "Dark"
     },
@@ -71797,6 +71816,9 @@
         "Deflector Shield Generators (V)"
       ],
       "rarity": "U",
+      "rulings": [
+        "Only deploys a device directly onto a starship card, not onto a starship site or onto a card that is aboard said starship."
+      ],
       "set": "225",
       "side": "Dark"
     },
@@ -71826,6 +71848,12 @@
         }
       ],
       "rarity": "U1",
+      "rulings": [
+        "If deployed on Dark's character, protects that character from Clash Of Sabers.",
+        "If deployed on Light's character, prevents that character from using Clash Of Sabers.",
+        "If deployed on Luke or Leia, prevents movement such as Dodge, Narrow Escape, Run Luke Run, reacts, etc.",
+        "Cancels Nabrun Leids globally."
+      ],
       "set": "225",
       "side": "Dark"
     }

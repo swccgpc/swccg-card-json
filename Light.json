@@ -4110,6 +4110,7 @@
     },
     {
       "conceptBy": "(Original concept by Pat Johnson)",
+      "counterpart": "Blast Points (V)",
       "front": {
         "destiny": "5",
         "gametext": "During your deploy phase, use X Force (minimum 1) to relocate X of your characters at an interior Theed Palace site to Theed Palace Throne Room. (Immune to Sense.) OR If opponent occupies your location, peek at top two cards of your Reserve Deck and take one into hand.",
@@ -4140,6 +4141,10 @@
         "Naboo: Theed Palace Hallway (V)"
       ],
       "rarity": "U",
+      "rulings": [
+        "Last function: Cannot be played if Reserve Deck is empty.",
+        "Last function: If only one card in Reserve Deck, peek at it but do not take it into hand."
+      ],
       "set": "201",
       "side": "Light"
     },
@@ -51860,6 +51865,7 @@
         "Opponent's Force drains at non-battlegrounds",
         "Opponent's Force retrieval"
       ],
+      "counterpart": "Come Here You Big Coward (V)",
       "front": {
         "destiny": "0",
         "gametext": "Plays on table.  While you occupy a battleground and opponent occupies less than two battlegrounds, cancel opponent's Force drains at non-battleground locations and opponent's Force retrieval.",
@@ -76825,6 +76831,13 @@
         "Orrimaarko"
       ],
       "rarity": "C",
+      "rulings": [
+        "Suspending Ominous Rumors will flip Endor Operations from the 7-side to the 0-side. When Ominous Rumors is restored to normal (at end of turn), Endor Operations will flip back to the 7-side if the conditions are met.",
+        "General Crix Madine (V) is an optional response that occurs during the response step of playing this Interrupt (before the result). Dark gets first response to Light's action, and if Dark cancels this Interrupt first, then Madine cannot respond to it.",
+        "Lost function: If General Crix Madine (V) is on table, first Light loses 1 Force to pay the cost, then Dark has a chance to respond (e.g. with Sense), then (if not canceled) Light may respond such as with General Crix Madine (V)'s retrieval. Once there are no further responses, the Interrupt has its result and places itself out of play.",
+        "Lost function: If canceled (e.g. by Sense) then this Interrupt does not place itself out of play.",
+        "Lost function: If played successfully (e.g. not canceled by Sense), this card never actually reaches the Lost Pile but instead goes straight out of play."
+      ],
       "set": "225",
       "side": "Light"
     },
@@ -76866,6 +76879,11 @@
         "Scanner Techs (V)"
       ],
       "rarity": "R",
+      "rulings": [
+        "Slave I is alone if its owner has no other active characters, vehicles, or starships there (aside from ones aboard Slave I).",
+        "The LOST function can only be initiated if attrition exists (opponent successfully completed a battle destiny draw, even if it was a 0).",
+        "The LOST function is initiated in the power segment after battle destinies (and any attrition destinies) are drawn."
+      ],
       "set": "225",
       "side": "Light"
     },
@@ -76907,6 +76925,11 @@
         "Endor: Chief Chirpa's Hut (V)"
       ],
       "rarity": "R",
+      "rulings": [
+        "First function: Players may still initiate an action that would limit battle destiny draws, such as taking a card off I Don't Like Sand or playing the limiting function on Imperial Command & In Range. The limit is simply ignored.",
+        "Second function: The phrase 'unless targeting an Undercover spy' applies to both Force Lightning and 'choke' destiny draws.",
+        "Examples of 'choke' destiny draws: Darth Vader Dark Lord Of The Sith, Physical Choke, and Vader."
+      ],
       "set": "225",
       "side": "Light"
     },
@@ -76968,6 +76991,10 @@
         "Endor: Rebel Landing Site (Forest)"
       ],
       "rarity": "U",
+      "rulings": [
+        "'Deploys only on Endor' may not deploy to the Endor system location.",
+        "If Wuta (V)'s game text is canceled, it is then possible for Light's other scouts there to have their game text canceled. If Wuta (V)'s game text is subsequently restored, the other Light characters game texts would then be restored via Wuta (V)."
+      ],
       "set": "225",
       "side": "Light"
     }
