@@ -4110,6 +4110,7 @@
     },
     {
       "conceptBy": "(Original concept by Pat Johnson)",
+      "counterpart": "Blast Points (V)",
       "front": {
         "destiny": "5",
         "gametext": "During your deploy phase, use X Force (minimum 1) to relocate X of your characters at an interior Theed Palace site to Theed Palace Throne Room. (Immune to Sense.) OR If opponent occupies your location, peek at top two cards of your Reserve Deck and take one into hand.",
@@ -4140,6 +4141,10 @@
         "Naboo: Theed Palace Hallway (V)"
       ],
       "rarity": "U",
+      "rulings": [
+        "Last function: Cannot be played if Reserve Deck is empty.",
+        "Last function: If only one card in Reserve Deck, peek at it but do not take it into hand."
+      ],
       "set": "201",
       "side": "Light"
     },
@@ -9121,12 +9126,14 @@
       ],
       "pulledBy": [
         "General Crix Madine",
+        "General Crix Madine (V)",
         "Life Debt",
         "Wookiee Roar"
       ],
       "pulls": [
         "Lumat",
-        "Wuta"
+        "Wuta",
+        "Wuta (V)"
       ],
       "rarity": "R",
       "set": "8",
@@ -13463,7 +13470,14 @@
       "set": "9",
       "side": "Light",
       "underlyingCardFor": [
-        "Rebel Leadership & Critical Error Revealed"
+        {
+          "title": "Critical Error Revealed (V)",
+          "cardId": 7391
+        },
+        {
+          "title": "Rebel Leadership & Critical Error Revealed",
+          "cardId": 7045
+        }
       ]
     },
     {
@@ -26154,7 +26168,13 @@
       ],
       "rarity": "R",
       "set": "5",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        {
+          "title": "I Don't Need Their Scum, Either (V)",
+          "cardId": 7392
+        }
+      ]
     },
     {
       "counterpart": "Insignificant Rebellion",
@@ -51845,6 +51865,7 @@
         "Opponent's Force drains at non-battlegrounds",
         "Opponent's Force retrieval"
       ],
+      "counterpart": "Come Here You Big Coward (V)",
       "front": {
         "destiny": "0",
         "gametext": "Plays on table.  While you occupy a battleground and opponent occupies less than two battlegrounds, cancel opponent's Force drains at non-battleground locations and opponent's Force retrieval.",
@@ -57973,7 +57994,13 @@
       ],
       "rarity": "R",
       "set": "8",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        {
+          "title": "My Sister Has It",
+          "cardId": 7393
+        }
+      ]
     },
     {
       "counterpart": "Self-Destruct Mechanism",
@@ -62176,9 +62203,11 @@
       "pulledBy": [
         "Chewbacca Of Kashyyyk",
         "General Crix Madine",
+        "General Crix Madine (V)",
         "Soth Petikkin"
       ],
       "pulls": [
+        "Endor: Anakin's Funeral Pyre",
         "Endor: Back Door",
         "Endor: Bunker",
         "Endor: Bunker (V)",
@@ -62193,7 +62222,13 @@
       ],
       "rarity": "U",
       "set": "8",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        {
+          "title": "Wuta (V)",
+          "cardId": 7394
+        }
+      ]
     },
     {
       "combo": [
@@ -76746,6 +76781,221 @@
       ],
       "rarity": "C",
       "set": "204",
+      "side": "Light"
+    },
+    {
+      "abbr": [
+        "CERv"
+      ],
+      "cancels": [
+        "Suspends Ominous Rumors or There Are Many Hunting You Now"
+      ],
+      "combo": [
+        "Dejarik Hologameboard",
+        "General Crix Madine (V)"
+      ],
+      "front": {
+        "characteristics": [
+          "hologram"
+        ],
+        "destiny": "4",
+        "gametext": "USED: Suspend Ominous Rumors or There Are Many Hunting You Now for remainder of turn. OR Take Blount, Orrimaarko, Tala Durith, or [Endor] Chewie into hand from Reserve Deck; reshuffle. LOST: Lose 1 Force to exclude opponent's passenger from battle (then place this Interrupt out of play).",
+        "icons": [
+          "Death Star II",
+          "Set 25"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual25-Light/large/criticalerrorrevealed.gif",
+        "lore": "Hologram technology allows efficient communication of complex intelligence during war room briefings.",
+        "subType": "Used Or Lost",
+        "title": "•Critical Error Revealed (V)",
+        "type": "Interrupt",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Critical Error Revealed (V)/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "225_7",
+      "id": 7391,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "225"
+        }
+      ],
+      "pulledBy": [
+        "Holoprojector"
+      ],
+      "pulls": [
+        "Chewbacca Of Kashyyyk",
+        "Chewbacca, Defender Of Kashyyyk",
+        "Lieutenant Blount",
+        "Orrimaarko"
+      ],
+      "rarity": "C",
+      "rulings": [
+        "Suspending Ominous Rumors will flip Endor Operations from the 7-side to the 0-side. When Ominous Rumors is restored to normal (at end of turn), Endor Operations will flip back to the 7-side if the conditions are met.",
+        "General Crix Madine (V) is an optional response that occurs during the response step of playing this Interrupt (before the result). Dark gets first response to Light's action, and if Dark cancels this Interrupt first, then Madine cannot respond to it.",
+        "Lost function: If General Crix Madine (V) is on table, first Light loses 1 Force to pay the cost, then Dark has a chance to respond (e.g. with Sense), then (if not canceled) Light may respond such as with General Crix Madine (V)'s retrieval. Once there are no further responses, the Interrupt has its result and places itself out of play.",
+        "Lost function: If canceled (e.g. by Sense) then this Interrupt does not place itself out of play.",
+        "Lost function: If played successfully (e.g. not canceled by Sense), this card never actually reaches the Lost Pile but instead goes straight out of play."
+      ],
+      "set": "225",
+      "side": "Light"
+    },
+    {
+      "abbr": [
+        "IDNTSEv"
+      ],
+      "front": {
+        "destiny": "5",
+        "gametext": "USED: Take Houjix, Ounee Ta, or Scanner Techs into hand from Reserve Deck; reshuffle. OR Cancel a Force drain initiated by a lone Slave I. LOST: If an Imperial and a bounty hunter are in a battle together, draw one destiny and subtract that amount from opponent's attrition and total power.",
+        "icons": [
+          "Cloud City",
+          "Set 25"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual25-Light/large/idontneedtheirscumeither.gif",
+        "lore": "Of all the scum and villainy Lando had dealt with (pirates, smugglers, con-artists, thieves, swindlers, politicians and Imperial lackeys), he hated bounty hunters the most.",
+        "subType": "Used Or Lost",
+        "title": "•I Don't Need Their Scum, Either (V)",
+        "type": "Interrupt",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/I Don't Need Their Scum, Either (V)/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "225_8",
+      "id": 7392,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "225"
+        }
+      ],
+      "pulls": [
+        "Houjix",
+        "Houjix & Out Of Nowhere",
+        "Ounee Ta (Jabba's Palace Sealed Deck)",
+        "Ounee Ta (Reflections III)",
+        "Ounee Ta (V)",
+        "Scanner Techs",
+        "Scanner Techs (V)"
+      ],
+      "rarity": "R",
+      "rulings": [
+        "Slave I is alone if its owner has no other active characters, vehicles, or starships there (aside from ones aboard Slave I).",
+        "The LOST function can only be initiated if attrition exists (opponent successfully completed a battle destiny draw, even if it was a 0).",
+        "The LOST function is initiated in the power segment after battle destinies (and any attrition destinies) are drawn."
+      ],
+      "set": "225",
+      "side": "Light"
+    },
+    {
+      "abbr": [
+        "MSHI"
+      ],
+      "combo": [
+        "Leia With Blaster Rifle or Princess Leia (V) + any Han + I Know = 4 battle destiny that cannot be limited",
+        "[Skywalker] Effects: Best Starpilot In The Galaxy and A Cunning Warrior"
+      ],
+      "front": {
+        "destiny": "5",
+        "gametext": "During battle involving Rebel Leia, the number of battle destiny draws may not be limited. OR Subtract 1 from a just drawn Force Lightning or 'choke' destiny (unless targeting an Undercover spy). OR If a [Skywalker] Effect on table, take Chief Chirpa's Hut or Guest Quarters into hand from Reserve Deck; reshuffle.",
+        "icons": [
+          "Skywalker",
+          "Set 25"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual25-Light/large/mysisterhasit.gif",
+        "lore": "'He's my brother.'",
+        "subType": "Used",
+        "title": "•My Sister Has It",
+        "type": "Interrupt",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/My Sister Has It/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "225_9",
+      "id": 7393,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "225"
+        }
+      ],
+      "pulls": [
+        "Cloud City: Guest Quarters",
+        "Endor: Chief Chirpa's Hut",
+        "Endor: Chief Chirpa's Hut (V)"
+      ],
+      "rarity": "R",
+      "rulings": [
+        "First function: Players may still initiate an action that would limit battle destiny draws, such as taking a card off I Don't Like Sand or playing the limiting function on Imperial Command & In Range. The limit is simply ignored.",
+        "Second function: The phrase 'unless targeting an Undercover spy' applies to both Force Lightning and 'choke' destiny draws.",
+        "Examples of 'choke' destiny draws: Darth Vader Dark Lord Of The Sith, Physical Choke, and Vader."
+      ],
+      "set": "225",
+      "side": "Light"
+    },
+    {
+      "canceledBy": [
+        "Dead Ewok",
+        "Eee Chu Wawa! (cancels game text)"
+      ],
+      "front": {
+        "ability": "2",
+        "characteristics": [
+          "scout",
+          "Ewok"
+        ],
+        "deploy": "2",
+        "destiny": "3",
+        "forfeit": "3",
+        "gametext": "Deploys only on Endor. Once per game, may take an Endor site into hand from Reserve Deck; reshuffle. Game text of your other scouts here may not be canceled. During any deploy phase, if an Imperial at an adjacent site, Wuta may move to that site (using landspeed) as a regular move.",
+        "icons": [
+          "Endor",
+          "Set 25"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual25-Light/large/wuta.gif",
+        "lore": "Ewok explorer. Scout. Searches for fallen trees to make tools. Tracks predators. First to notice the Imperial presence on Endor.",
+        "power": "2",
+        "subType": "Alien",
+        "title": "•Wuta (V)",
+        "type": "Character",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Wuta (V)/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "225_10",
+      "id": 7394,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "225"
+        }
+      ],
+      "pulledBy": [
+        "Chewbacca Of Kashyyyk",
+        "General Crix Madine",
+        "General Crix Madine (V)",
+        "Soth Petikkin"
+      ],
+      "pulls": [
+        "Endor: Anakin's Funeral Pyre",
+        "Endor: Back Door",
+        "Endor: Bunker",
+        "Endor: Bunker (V)",
+        "Endor: Chief Chirpa's Hut",
+        "Endor: Dense Forest",
+        "Endor: Ewok Village",
+        "Endor: Ewok Village (V)",
+        "Endor: Great Forest",
+        "Endor: Hidden Forest Trail",
+        "Endor: Landing Platform (Docking Bay)",
+        "Endor: Rebel Landing Site (Forest)"
+      ],
+      "rarity": "U",
+      "rulings": [
+        "'Deploys only on Endor' may not deploy to the Endor system location.",
+        "If Wuta (V)'s game text is canceled, it is then possible for Light's other scouts there to have their game text canceled. If Wuta (V)'s game text is subsequently restored, the other Light characters game texts would then be restored via Wuta (V)."
+      ],
+      "set": "225",
       "side": "Light"
     }
   ]
