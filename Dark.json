@@ -71857,6 +71857,911 @@
       ],
       "set": "225",
       "side": "Dark"
+    },
+    {
+      "abbr": [
+        "Chin Cannons"
+      ],
+      "front": {
+        "destiny": "3",
+        "gametext": "Deploy on your AT-M6. May target a character or vehicle. Draw destiny. Add 1 if at an [Episode VII] site. If total destiny +1 > defense value, target hit, its forfeit is cumulatively -3 and, if during battle, opponent's characters and vehicles there are cumulatively power -1.",
+        "icons": [
+          "Episode VII",
+          "Set 25"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual25-Dark/large/atm6cannon.gif",
+        "lore": "Blank.",
+        "subType": "Vehicle Weapon",
+        "title": "AT-M6 Cannon",
+        "type": "Weapon",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/AT-M6 Cannon/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "225_11",
+      "id": 7395,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "225"
+        }
+      ],
+      "rarity": "U",
+      "set": "225",
+      "side": "Dark"
+    },
+    {
+      "abbr": [
+        "BS"
+      ],
+      "front": {
+        "ability": "6",
+        "deploy": "6",
+        "destiny": "1",
+        "extraText": [
+          "Dark Jedi"
+        ],
+        "forfeit": "7",
+        "gametext": "Once per game, may deploy a card with 'mercenary' in lore (or a lightsaber on Baylan) from Reserve Deck; reshuffle. While in battle alone or with Shin, unless Sidious on table, opponent must have two characters (or Anakin or Yoda) in battle to draw battle destiny. Immune to attrition < 5.",
+        "icons": [
+          "Warrior",
+          "Set 25"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual25-Dark/large/baylanskoll.gif",
+        "lore": "Mercenary.",
+        "power": "6",
+        "subType": "Sith",
+        "title": "•Baylan Skoll",
+        "type": "Character",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Baylan Skoll/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "225_12",
+      "id": 7396,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "225"
+        }
+      ],
+      "rarity": "PM",
+      "set": "225",
+      "side": "Dark"
+    },
+    {
+      "abbr": [
+        "CMC"
+      ],
+      "front": {
+        "ability": "2",
+        "deploy": "3",
+        "destiny": "2",
+        "forfeit": "5",
+        "gametext": "Adds 2 to power of anything he pilots. While piloting a [First Order] starship, it is armor and immunity to attrition +1 (if Fulminatrix, it is armor +2 and immune to attrition < 6 instead). During battle, cancels Alternatives To Fighting, Hit And Run, and opponent's 'reacts.'",
+        "icons": [
+          "Episode VII",
+          "Pilot",
+          "Set 25"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual25-Dark/large/captainmodencanady.gif",
+        "lore": "Leader.",
+        "power": "2",
+        "title": "•Captain Moden Canady",
+        "type": "Character - First Order",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Captain Moden Canady/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "225_13",
+      "id": 7397,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "225"
+        }
+      ],
+      "rarity": "U2",
+      "set": "225",
+      "side": "Dark"
+    },
+    {
+      "front": {
+        "ability": "3",
+        "deploy": "4",
+        "destiny": "2",
+        "extraText": [
+          "Force-Attuned"
+        ],
+        "forfeit": "6",
+        "gametext": "Adds 2 to power of anything he pilots. While an [Episode VII] objective on table, draws one battle destiny if unable to otherwise. Permanent weapon is •Arm Cannon (may target a character for free; draw destiny; target hit, and its forfeit = 0, if destiny + 1 > defense value).",
+        "icons": [
+          "Episode VII",
+          "Pilot",
+          "Warrior",
+          "Permanent Weapon",
+          "Set 25"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual25-Dark/large/cardo.gif",
+        "lore": "Knight of Ren.",
+        "power": "4",
+        "subType": "First Order",
+        "title": "•Cardo",
+        "type": "Character",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Cardo/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "225_14",
+      "id": 7398,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "225"
+        }
+      ],
+      "rarity": "R",
+      "set": "225",
+      "side": "Dark"
+    },
+    {
+      "front": {
+        "darkSideIcons": 1,
+        "destiny": "0",
+        "gametext": "Dark: You shuttle from here for free. While you occupy, gains one [Dark Side] icon. Light: Your capital starships here are armor +1 and are hyperspeed +1 when moving from here.",
+        "icons": [
+          "Planet",
+          "Episode VII",
+          "Set 25"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual25-Dark - Location/large/crait.gif",
+        "lightSideIcons": 1,
+        "parsec": "8",
+        "title": "•Crait",
+        "type": "System",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Crait (Dark)/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "225_15",
+      "id": 7399,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "225"
+        }
+      ],
+      "rarity": "U2",
+      "set": "225",
+      "side": "Dark - Location"
+    },
+    {
+      "abbr": [
+        "COEC"
+      ],
+      "front": {
+        "darkSideIcons": 2,
+        "destiny": "0",
+        "gametext": "Dark: Force drain +1 here. Kylo may not be excluded from battles here. Light: During battle here, Force Projection is immune to Sense.",
+        "icons": [
+          "Episode VII",
+          "Interior",
+          "Exterior",
+          "Planet",
+          "Set 25"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual25-Dark/large/craitoutpostentrancecavern.gif",
+        "lightSideIcons": 1,
+        "subType": "Site",
+        "title": "•Crait: Outpost Entrance Cavern",
+        "type": "Location",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Crait Outpost Entrance Cavern/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "225_16",
+      "id": 7400,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "225"
+        }
+      ],
+      "rarity": "C2",
+      "set": "225",
+      "side": "Dark"
+    },
+    {
+      "abbr": [
+        "CSP"
+      ],
+      "front": {
+        "darkSideIcons": 2,
+        "destiny": "0",
+        "gametext": "Dark: Your combat vehicles are power and defense value +1 here. Light: While The Resistance Is Doomed on table, Force drains here may not be canceled or reduced.",
+        "icons": [
+          "Exterior",
+          "Planet",
+          "Episode VII",
+          "Set 25"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual25-Dark/large/craitsaltplateau.gif",
+        "lightSideIcons": 1,
+        "subType": "Site",
+        "title": "•Crait: Salt Plateau",
+        "type": "Location",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Crait Salt Plateau/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "225_17",
+      "id": 7401,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "225"
+        }
+      ],
+      "rarity": "C2",
+      "set": "225",
+      "side": "Dark"
+    },
+    {
+      "front": {
+        "ability": "2",
+        "deploy": "2",
+        "destiny": "2",
+        "forfeit": "4",
+        "gametext": "Adds 3 to power of anything he pilots. While piloting a dreadnaught or starfighter, draws one battle destiny if unable to otherwise and opponent's immunity to attrition here is limited to < 7 (< 5 if piloting Black 3 or with Vader). Your non-[Coruscant] Interrupts with 'back' in title are destiny +2.",
+        "icons": [
+          "Pilot",
+          "Warrior",
+          "Set 25"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual25-Dark/large/ds613.gif",
+        "lore": "Pilot DS-61-3. Vader's right wingman. Flies Black 3. Reputation for ferocity in combat. Corellian pilot with excellent skills. Nicknamed 'Backstabber.'",
+        "power": "3",
+        "subType": "Imperial",
+        "title": "•DS-61-3 (V)",
+        "type": "Character",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/DS-61-3 (V)/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "225_18",
+      "id": 7402,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "225"
+        }
+      ],
+      "rarity": "R1",
+      "set": "225",
+      "side": "Dark"
+    },
+    {
+      "abbr": [
+        "FOA"
+      ],
+      "front": {
+        "armor": "6",
+        "deploy": "6",
+        "destiny": "2",
+        "forfeit": "7",
+        "gametext": "May add 1 pilot and 6 passengers. Permanent pilot provides ability of 2. Once during your deploy phase, may deploy a First Order trooper here from Used Pile; reshuffle.",
+        "icons": [
+          "Scomp Link",
+          "Episode VII",
+          "First Order",
+          "Pilot",
+          "Set 25"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual25-Dark/large/firstorderatm6.gif",
+        "landspeed": "1",
+        "lore": "Enclosed.",
+        "power": "7",
+        "subType": "Combat Vehicle: At-M6",
+        "title": "First Order AT-M6",
+        "type": "Vehicle",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/First Order AT-M6/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "225_19",
+      "id": 7403,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "225"
+        }
+      ],
+      "rarity": "U1",
+      "set": "225",
+      "side": "Dark"
+    },
+    {
+      "front": {
+        "armor": "8",
+        "deploy": "9",
+        "destiny": "3",
+        "forfeit": "9",
+        "gametext": "May add 5 pilots, 4 passengers, 3 [First Order] TIEs, and 2 vehicles. If opponent about to move a starship from here, opponent loses 1 Force. Deploys -2 if Tracked Fleet on table. Permanent pilot provides ability of 2.",
+        "hyperspeed": "3",
+        "icons": [
+          "Scomp Link",
+          "Episode VII",
+          "First Order",
+          "Pilot",
+          "Nav Computer",
+          "Set 25"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual25-Dark/large/fulminatrix.gif",
+        "lore": "Blank",
+        "power": "10",
+        "subType": "Capital: Mandator IV-Class Dreadnaught",
+        "title": "•Fulminatrix",
+        "type": "Starship",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Fulminatrix/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "225_20",
+      "id": 7404,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "225"
+        }
+      ],
+      "rarity": "R1",
+      "set": "225",
+      "side": "Dark"
+    },
+    {
+      "abbr": [
+        "IPCv",
+        "IGPCv"
+      ],
+      "front": {
+        "destiny": "1",
+        "gametext": "Deploy on your bounty hunter. May target a character. Draw destiny. If destiny +1 > defense value, target hit, its forfeit = 0 and, if IG-88 firing repeatedly, may add one destiny to power or attrition. May fire repeatedly for 2 Force each time.",
+        "icons": [
+          "Dagobah",
+          "Set 25"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual25-Dark/large/ig88spulsecannon.gif",
+        "lore": "IG-88's personal favorite for mass destruction. Rapid-fire fusion plasma bursts are extremely effective against multiple targets. Not widely used due to incidental damage.",
+        "subType": "Character Weapon",
+        "title": "•IG-88's Pulse Cannon (V)",
+        "type": "Weapon",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/IG-88s Pulse Cannon (V)/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "225_21",
+      "id": 7405,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "225"
+        }
+      ],
+      "rarity": "R",
+      "set": "225",
+      "side": "Dark"
+    },
+    {
+      "abbr": [
+        "MS"
+      ],
+      "front": {
+        "ability": "7",
+        "deploy": "6",
+        "destiny": "1",
+        "extraText": [
+          "Dark Jedi Master"
+        ],
+        "forfeit": "8",
+        "gametext": "While alone on Coruscant, your apprentice is immune to attrition. During your move phase, if on Coruscant, may use 1 Force to relocate to your apprentice's site. Once per game, may take Hyperwave Scan, Unlimited Power!, or Young Fool into hand from Reserve Deck; reshuffle. Immune to attrition.",
+        "icons": [
+          "Episode I",
+          "Warrior",
+          "Separatist",
+          "Set 25"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual25-Dark/large/mastersidious.gif",
+        "lore": "Leader. Trade Federation.",
+        "power": "5",
+        "subType": "Dark Jedi Master/Imperial/Republic",
+        "title": "•Master Sidious",
+        "type": "Character",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Master Sidious/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "225_22",
+      "id": 7406,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "225"
+        }
+      ],
+      "rarity": "PM",
+      "set": "225",
+      "side": "Dark"
+    },
+    {
+      "abbr": [
+        "MM"
+      ],
+      "front": {
+        "destiny": "5",
+        "gametext": "Fire an [Episode VII] blaster or [Episode VII] cannon into a battle at an adjacent site. OR If Kylo in battle, add 1 to a just drawn destiny. OR Once per game, during battle, if you just fired an [Episode VII] weapon (except a lightsaber), it may fire again this battle.",
+        "icons": [
+          "Episode VII",
+          "Set 25"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual25-Dark/large/moremore.gif",
+        "lore": "Blank.",
+        "subType": "Used",
+        "title": "•More! MORE!!!!",
+        "type": "Interrupt",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/More! MORE!!!!/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "225_23",
+      "id": 7407,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "225"
+        }
+      ],
+      "rarity": "C",
+      "set": "225",
+      "side": "Dark"
+    },
+    {
+      "abbr": [
+        "NOTFO"
+      ],
+      "front": {
+        "destiny": "4",
+        "gametext": "Deploy on table. [First Order] starships are deploy -1 (-2 to D'Qar) and hyperspeed +1. During your deploy phase, may reveal one [First Order] starship from hand to take a First Order pilot (or vice versa) into hand from Reserve Deck (reshuffle) and deploy both simultaneously. [Immune to Alter.]",
+        "icons": [
+          "Episode VII",
+          "Set 25"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual25-Dark/large/navyofthefirstorder.gif",
+        "lore": "Blank.",
+        "title": "•Navy Of The First Order",
+        "type": "Effect",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Navy Of The First Order/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "225_24",
+      "id": 7408,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "225"
+        }
+      ],
+      "rarity": "C",
+      "set": "225",
+      "side": "Dark"
+    },
+    {
+      "abbr": [
+        "NCOPv"
+      ],
+      "front": {
+        "destiny": "4",
+        "gametext": "LOST: Take Coruscant Guard into hand from Reserve Deck; reshuffle. STARTING: If My Lord, Is That Legal? on table, deploy With Thunderous Applause and two Effects that deploy on your side of the table, deploy for free, and are always immune to Alter. Place Interrupt in hand.",
+        "icons": [],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual25-Dark/large/nocivilityonlypolitics.gif",
+        "lore": "It's not rare to see a senator using the system to forward his own personal agenda. Much goes on behind closed doors that the Senate never sees.",
+        "subType": "Lost Or Starting",
+        "title": "•No Civility, Only Politics (V)",
+        "type": "Interrupt",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/No Civility, Only Politics (V)/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "225_25",
+      "id": 7409,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "225"
+        }
+      ],
+      "rarity": "C",
+      "set": "225",
+      "side": "Dark"
+    },
+    {
+      "abbr": [
+        "OB"
+      ],
+      "front": {
+        "destiny": "5",
+        "gametext": "During battle at a site related to a system your dreadnaught or Star Destroyer occupies, add 1 to your total battle destiny. If you also control that system (or occupy it with Fulminatrix), add 2 instead and the number of battle destiny draws may not be limited.",
+        "icons": [
+          "Episode VII",
+          "Set 25"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual25-Dark/large/orbitalbombardment.gif",
+        "lore": "Blank.",
+        "subType": "Used",
+        "title": "•Orbital Bombardment",
+        "type": "Interrupt",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Orbital Bombardment/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "225_26",
+      "id": 7410,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "225"
+        }
+      ],
+      "rarity": "U",
+      "set": "225",
+      "side": "Dark"
+    },
+    {
+      "front": {
+        "armor": "10",
+        "deploy": "16",
+        "destiny": "1",
+        "forfeit": "16",
+        "gametext": "May add unlimited pilots, passengers, starfighters, and vehicles. Permanent pilot provides ability of 4. Immune to attrition < 10 (< 12 while Snoke aboard). While Tracked Fleet here, immune to attrition.",
+        "hyperspeed": "2",
+        "icons": [
+          "Scomp Link",
+          "Episode VII",
+          "First Order",
+          "Permanent Pilot",
+          "Nav Computer",
+          "Set 25"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual25-Dark/large/supremacy.gif",
+        "lore": "Blank.",
+        "power": "13",
+        "subType": "Capital: Mega-Class Star Dreadnaught",
+        "title": "•Supremacy",
+        "type": "Starship",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Supremacy/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "225_27",
+      "id": 7411,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "225"
+        }
+      ],
+      "rarity": "R",
+      "set": "225",
+      "side": "Dark"
+    },
+    {
+      "abbr": [
+        "SB"
+      ],
+      "front": {
+        "darkSideIcons": 2,
+        "destiny": "0",
+        "gametext": "Dark: While you control, Supremacy is power + 3. Light: Unless your piloted [Resistance] starship at a system, Force drain -1 here.",
+        "icons": [
+          "Interior",
+          "Starship",
+          "Mobile",
+          "Scomp Link",
+          "Episode VII",
+          "Set 25"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual25-Dark/large/supremacybridge.gif",
+        "lightSideIcons": 0,
+        "subType": "Site",
+        "title": "•Supremacy: Bridge",
+        "type": "Location",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Supremacy Bridge/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "225_28",
+      "id": 7412,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "225"
+        }
+      ],
+      "rarity": "C2",
+      "set": "225",
+      "side": "Dark"
+    },
+    {
+      "abbr": [
+        "STR"
+      ],
+      "front": {
+        "darkSideIcons": 2,
+        "destiny": "0",
+        "gametext": "Dark: Once per game, may deploy Snoke here from Reserve Deck; reshuffle. Light: While Snoke here (and Rey is not), attrition against you here is +1.",
+        "icons": [
+          "Interior",
+          "Starship",
+          "Mobile",
+          "Scomp Link",
+          "Episode VII",
+          "Set 25"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual25-Dark/large/supremacythroneroom.gif",
+        "lightSideIcons": 1,
+        "subType": "Site",
+        "title": "•Supremacy: Throne Room",
+        "type": "Location",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Supremacy Throne Room/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "225_29",
+      "id": 7413,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "225"
+        }
+      ],
+      "rarity": "C2",
+      "set": "225",
+      "side": "Dark"
+    },
+    {
+      "abbr": [
+        "TDHv"
+      ],
+      "front": {
+        "darkSideIcons": 2,
+        "destiny": "0",
+        "gametext": "Dark: Once per turn, if you just deployed an alien here, may raise your converted [Jabba's Palace] site to the top. Light: Unless you occupy, you must first use 1 Force to deploy a non-alien character here.",
+        "icons": [
+          "Planet",
+          "Exterior",
+          "Jabba's Palace",
+          "Set 25"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual25-Dark/large/tatooinedesertheart.gif",
+        "lightSideIcons": 1,
+        "subType": "Site",
+        "title": "•Tatooine: Desert Heart (V)",
+        "type": "Location",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Tatooine Desert Heart (V)/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "225_30",
+      "id": 7414,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "225"
+        }
+      ],
+      "rarity": "PM",
+      "set": "225",
+      "side": "Dark"
+    },
+    {
+      "abbr": [
+        "TCB"
+      ],
+      "front": {
+        "destiny": "4",
+        "gametext": "Deploy on opponent's just deployed character. Once per turn, if a bounty hunter here, may reveal the top card of each player's Reserve Deck. If this character about to be captured, retrieve 2 Force (3 if The Client on table) and return this card to your hand. [Immune to Control.]",
+        "icons": [
+          "Set 25"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual25-Dark/large/theclientsbounty.gif",
+        "lore": "One of the most profitable occupations in the galaxy is hunting down and capturing wanted beings. The more notable the quarry, the more profitable the venture.",
+        "subType": "Immediate",
+        "title": "•The Client's Bounty",
+        "type": "Effect",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/The Client's Bounty/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "225_31",
+      "id": 7415,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "225"
+        }
+      ],
+      "rarity": "C",
+      "set": "225",
+      "side": "Dark"
+    },
+    {
+      "abbr": [
+        "TFOR/TRID"
+      ],
+      "back": {
+        "destiny": "7",
+        "gametext": "The First Order Reigns: Deploy Crait and D'Qar systems, Supremacy: Bridge, and Tracked Fleet. For remainder of game, you may not deploy cards with ability except [Episode VII] cards. Your [Episode VII] characters and starships are power +1. Supremacy is deploy -9 to [Episode VII] systems. Once per turn, may deploy an [Episode VII] battleground from Reserve Deck; reshuffle. While this side up, neither player loses more than 1 Force to Force drains at systems (unless Tracked Fleet there). Flip this card if Tracked Fleet is 'annihilated.' The Resistance Is Doomed: While this side up, once per turn, may deploy a non-unique trooper (or non-unique [First Order] vehicle) from Lost Pile. While you occupy a Crait location, your Force drains at battlegrounds where you have two First Order characters are +1. While Kylo occupies Salt Plateau, opponent may not Force drain where their character or permanent pilot is alone. While you control Salt Plateau, opponent's Force retrieval is canceled. Place out of play if Kylo just forfeited from a battle you lost at Salt Plateau where Han, Leia, or Luke present.",
+        "icons": [
+          "Episode VII",
+          "Set 25"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual25-Dark/large/theresistanceisdoomed.gif",
+        "title": "The First Order Reigns / The Resistance Is Doomed",
+        "type": "Objective",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/The Resistance Is Doomed/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "front": {
+        "destiny": "0",
+        "gametext": "The First Order Reigns: Deploy Crait and D'Qar systems, Supremacy: Bridge, and Tracked Fleet. For remainder of game, you may not deploy cards with ability except [Episode VII] cards. Your [Episode VII] characters and starships are power +1. Supremacy is deploy -9 to [Episode VII] systems. Once per turn, may deploy an [Episode VII] battleground from Reserve Deck; reshuffle. While this side up, neither player loses more than 1 Force to Force drains at systems (unless Tracked Fleet there). Flip this card if Tracked Fleet is 'annihilated.' The Resistance Is Doomed: While this side up, once per turn, may deploy a non-unique trooper (or non-unique [First Order] vehicle) from Lost Pile. While you occupy a Crait location, your Force drains at battlegrounds where you have two First Order characters are +1. While Kylo occupies Salt Plateau, opponent may not Force drain where their character or permanent pilot is alone. While you control Salt Plateau, opponent's Force retrieval is canceled. Place out of play if Kylo just forfeited from a battle you lost at Salt Plateau where Han, Leia, or Luke present.",
+        "icons": [
+          "Episode VII",
+          "Set 25"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual25-Dark/large/thefirstorderreigns.gif",
+        "title": "The First Order Reigns / The Resistance Is Doomed",
+        "type": "Objective",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/The First Order Reigns/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "225_32",
+      "id": 7416,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "225"
+        }
+      ],
+      "rarity": "C",
+      "set": "225",
+      "side": "Dark"
+    },
+    {
+      "abbr": [
+        "TGIL"
+      ],
+      "front": {
+        "destiny": "2",
+        "gametext": "Deploy on an Inquisitor. Dodge may not target characters here. May target a character. Draw two destiny. Target hit, and may not be used to satisfy attrition, if total destiny > defense value. If hit by Grand Inquisitor, target's forfeit = 0.",
+        "icons": [
+          "Set 25"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual25-Dark/large/thegrandinquisitorslightsaber.gif",
+        "lore": "Blank.",
+        "subType": "Character Weapon",
+        "title": "•The Grand Inquisitor's Lightsaber",
+        "type": "Weapon",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/The Grand Inquisitor's Lightsaber/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "225_33",
+      "id": 7417,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "225"
+        }
+      ],
+      "rarity": "U",
+      "set": "225",
+      "side": "Dark"
+    },
+    {
+      "abbr": [
+        "TF"
+      ],
+      "front": {
+        "destiny": "0",
+        "gametext": "Deploy on D'Qar system (only at start of game). Tied To The End Of A String: You may not deploy starships here. Supremacy moves to here for free. There Will Be No Surrender: Three times per game, at start of opponent's move phase, opponent may stack a card from hand face down on this card to relocate it to an [Episode VII] system within 3 parsecs. Fire At Will!: At the start of your turn, if you control this system, Tracked Fleet is 'annihilated' (placed out of play).",
+        "icons": [
+          "Episode VII",
+          "Set 25"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual25-Dark/large/trackedfleet.gif",
+        "title": "•Tracked Fleet",
+        "type": "Epic Event",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Tracked Fleet/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "225_34",
+      "id": 7418,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "225"
+        }
+      ],
+      "rarity": "R",
+      "set": "225",
+      "side": "Dark"
+    },
+    {
+      "front": {
+        "ability": "4",
+        "deploy": "4",
+        "destiny": "2",
+        "extraText": [
+          "Force-Sensitive"
+        ],
+        "forfeit": "7",
+        "gametext": "Adds 2 to power of anything he pilots. Power +1 for each opponent's card out of play. Opponent may not cancel your battle destiny draws where you have Kylo or a Knight of Ren. If you just initiated a Force drain here, may place topmost Interrupt of opponent's Lost Pile out of play.",
+        "icons": [
+          "Episode VII",
+          "Pilot",
+          "Warrior",
+          "Set 25"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual25-Dark/large/vicrul.gif",
+        "lore": "Knight of Ren.",
+        "power": "4",
+        "title": "•Vicrul",
+        "type": "Character - First Order",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Vicrul/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "225_35",
+      "id": 7419,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "225"
+        }
+      ],
+      "rarity": "C",
+      "set": "225",
+      "side": "Dark"
+    },
+    {
+      "abbr": [
+        "WTA"
+      ],
+      "front": {
+        "destiny": "0",
+        "gametext": "Deploy on Galactic Senate. [V17] Passel Argente's game text and your Political Effects are canceled. Twice per turn, may target your agenda here: Blockade: Cancel a 'react.' Taxation: Place a card with no printed destiny number > 4 from hand in Used Pile to activate 1 Force. Trade: During your draw phase, place a card from hand in Lost Pile, shuffle that pile, and take top card into hand. Wealth: Subtract 1 from attrition against you.",
+        "icons": [
+          "Coruscant",
+          "Episode I",
+          "Set 25"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual25-Dark/large/withthunderousapplause.gif",
+        "title": "•With Thunderous Applause",
+        "type": "Epic Event",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/With Thunderous Applause/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "225_36",
+      "id": 7420,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "225"
+        }
+      ],
+      "rarity": "R",
+      "set": "225",
+      "side": "Dark"
     }
   ]
 }
