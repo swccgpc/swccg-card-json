@@ -25180,7 +25180,7 @@
         "icons": [
           "Interior",
           "Exterior",
-          "Starship Site",
+          "Starship",
           "Mobile",
           "Scomp Link",
           "Death Star II"
@@ -25225,7 +25225,7 @@
         "gametext": "Light:  While you control with a Rebel here, Home One is deploy -5 and power +3.  Dark:  Force drain -1 here. When you initiate a battle here, add one battle destiny.",
         "icons": [
           "Interior",
-          "Starship Site",
+          "Starship",
           "Mobile",
           "Scomp Link",
           "Death Star II"
@@ -77531,7 +77531,7 @@
           "Reflections III",
           "Set D"
         ],
-        "imageUrl": "https://res.starwarsccg.org/cards/Virtual25-Light/large/letskeepalittleoptimismhere.gif",
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual25-Light/large/letskeepalittleoptimismherev.gif",
         "lore": "The heroes of the Rebellion know that where there is life, there is hope.",
         "title": "•Let's Keep A Little Optimism Here (Death Star II) (V)",
         "type": "Defensive Shield",
@@ -77807,9 +77807,8 @@
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual25-Light/large/youwillgotothedagobahsystem.gif",
         "lore": "'There you will learn from Yoda, the Jedi Master who instructed me.'",
         "subType": "Lost Or Starting",
-        "title": "•You Will Go To The Dagobah System (V)",
+        "title": "You Will Go To The Dagobah System (V)",
         "type": "Interrupt",
-        "uniqueness": "*",
         "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/You Will Go To The Dagobah System (V)/image.png",
         "printableSlipType": "VIRTUAL"
       },
