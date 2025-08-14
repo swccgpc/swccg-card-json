@@ -66004,7 +66004,10 @@
       ],
       "front": {
         "destiny": "4",
-        "gametext": "Deploy on table. When deployed, may take the top card of Lost Pile into hand. During your move phase, may cancel Landing Claw (then place it out of play from Lost Pile). Elis Helrot and Nabrun Leids are unique (•) and are Lost Interrupts. [Immune to Alter.]",
+        "errataDate": "2025-08-08",
+        "errataNotes": "The original wording of this card allowed Landing Claw to be saved by Crash Site Memorial. That is no longer possible. Previous text: Deploy on table. When deployed, may take the top card of Lost Pile into hand. During your move phase, may cancel Landing Claw (then place it out of play from Lost Pile). Elis Helrot and Nabrun Leids are unique (•) and are Lost Interrupts. [Immune to Alter.]",
+        "errataSymbol": "E1",
+        "gametext": "Deploy on table. When deployed, may take the top card of Lost Pile into hand. During your move phase, may cancel Landing Claw. If Landing Claw was just lost, place it out of play. Elis Helrot and Nabrun Leids are unique (•) and are Lost Interrupts. [Immune to Alter.]",
         "icons": [
           "Premium",
           "Set 19"
@@ -66020,6 +66023,7 @@
       "gempId": "219_16",
       "id": 7088,
       "legacy": false,
+      "previousId": 20058,
       "printings": [
         {
           "set": "219"
