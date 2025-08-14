@@ -2488,6 +2488,38 @@
       "rarity": "U2",
       "set": "219",
       "side": "Dark"
+    },
+    {
+      "abbr": [
+        "NEv"
+      ],
+      "front": {
+        "destiny": "4",
+        "gametext": "Deploy on table. When deployed, may take the top card of Lost Pile into hand. During your move phase, may cancel Landing Claw (then place it out of play from Lost Pile). Elis Helrot and Nabrun Leids are unique (•) and are Lost Interrupts. [Immune to Alter.]",
+        "icons": [
+          "Premium",
+          "Set 19"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual19-Dark/large/noescape.gif",
+        "lore": "Jabba's influence is not easily ignored. Neither are his voracious and vile appetites. Even Jedi soon learn this lesson.",
+        "title": "•No Escape (V)",
+        "type": "Effect",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/No Escape (V)/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "219_16",
+      "id": 20058,
+      "legacy": false,
+      "nextId": 7088,
+      "printings": [
+        {
+          "set": "219"
+        }
+      ],
+      "rarity": "PM",
+      "set": "219",
+      "side": "Dark"
     }
   ]
 }

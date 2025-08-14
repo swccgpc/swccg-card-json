@@ -9878,7 +9878,7 @@
       "counterpart": "You Are Beaten",
       "front": {
         "destiny": "3",
-        "gametext": "Use 2 Force to target a character present with your warrior with a lightsaber. Target cannot move or battle until the end of your next turn. OR Use 1 Force to search your Reserve Deck, take one Uncontrollable Fury into hand and reshuffle. OR Cancel Presence Of The Force.",
+        "gametext": "Use 2 Force to target a character present with your warrior with a lightsaber. Target cannot move or battle until end of your next turn. OR Use 1 Force to search your Reserve Deck, take one Uncontrollable Fury into hand and reshuffle. OR Cancel Presence Of The Force.",
         "icons": [
           "Cloud City"
         ],
@@ -24015,10 +24015,10 @@
           "blaster"
         ],
         "destiny": "2",
-        "errataDate": "2024-12-30",
-        "errataNotes": "Previous text: Deploy on Beckett or non-spy Han. May target a character. Draw destiny. Target hit, and its forfeit = 0, if destiny +2 > defense value. If on Han, may fire once during your control phase, and may place this weapon in Used Pile to cancel a weapon destiny targeting Han.",
-        "errataSymbol": "E2",
-        "gametext": "Deploy on Han or a smuggler. Greedo's gametext is canceled here. May target a character. Draw destiny. Target hit if destiny +2 > defense value. If hit by Han or Beckett, target's forfeit = 0. If on Han (unless Undercover), may fire once during your control phase.",
+        "errataDate": "2025-08-08",
+        "errataNotes": "E2 text: Deploy on Han or a smuggler. Greedo's gametext is canceled here. May target a character. Draw destiny. Target hit if destiny +2 > defense value. If hit by Han or Beckett, target's forfeit = 0. If on Han (unless Undercover), may fire once during your control phase. E1 text: Deploy on Beckett or non-spy Han. May target a character. Draw destiny. Target hit, and its forfeit = 0, if destiny +2 > defense value. If on Han, may fire once during your control phase, and may place this weapon in Used Pile to cancel a weapon destiny targeting Han.",
+        "errataSymbol": "E3",
+        "gametext": "Deploy on Han. Battles may not be canceled at same site. Greedo's game text is canceled here. May target a character. Draw destiny. Target hit, and its forfeit = 0, if destiny +2 > defense value. Once per game, if on Han, may fire during your control phase.",
         "icons": [
           "Set 0"
         ],
@@ -24036,6 +24036,7 @@
       "legacy": false,
       "matchingWeapon": [
         "Captain Han Solo",
+        "Captain Han Solo (V)",
         "General Solo",
         "General Solo (V)",
         "Han",
@@ -24044,10 +24045,9 @@
         "Han Solo (V)",
         "Han Solo, Optimistic General",
         "Han... Solo",
-        "Solo",
-        "Tobias Beckett"
+        "Solo"
       ],
-      "previousId": 40096,
+      "previousId": 40097,
       "printings": [
         {
           "set": "200"
@@ -24058,7 +24058,7 @@
       ],
       "rarity": "R2",
       "rulings": [
-        "Matching weapon for Han or Beckett, but not for smugglers in general.",
+        "Battles may be indirectly canceled such as by excluding characters with Blast The Door, Kid!",
         "This weapon will not prevent Greedo (V) from deploying as a react. He deploys as a react, and then it will cancel his game text as soon as he arrives."
       ],
       "set": "200",
@@ -40693,7 +40693,7 @@
       "counterpart": "They've Shut Down The Main Reactor",
       "front": {
         "destiny": "5",
-        "gametext": "If you have a piloted capital starship armed with a starship weapon, use 2 Force to target an opponent's starship present. Until the end of your next turn, target cannot move and its pilots may not apply ability toward drawing battle destiny.",
+        "gametext": "If you have a piloted capital starship armed with a starship weapon, use 2 Force to target an opponent's starship present. Until end of your next turn, target cannot move and its pilots may not apply ability toward drawing battle destiny.",
         "icons": [
           "Special Edition"
         ],
@@ -52169,7 +52169,7 @@
       ],
       "front": {
         "destiny": "3",
-        "gametext": "Deploy on a smuggler. May use 2 Force to cancel Limited Resources. Also, if 'trained' by Rycar Ryjerd and piloting as starship when that starship completes Kessel Run, Rycar's Run or The First Transport Is Away, any retrieved Force may be taken into hand.",
+        "gametext": "Deploy on a smuggler. May use 2 Force to cancel Limited Resources. Also, if 'trained' by Rycar Ryjerd and piloting a starship when that starship completes Kessel Run, Rycar's Run or The First Transport Is Away, any retrieved Force may be taken into hand.",
         "icons": [
           "Dagobah"
         ],

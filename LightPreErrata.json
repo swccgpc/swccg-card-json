@@ -4328,7 +4328,7 @@
         "Han Solo",
         "Solo"
       ],
-      "nextId": 1107,
+      "nextId": 40097,
       "printings": [
         {
           "set": "200"
@@ -4338,6 +4338,62 @@
         "Portable Scanner"
       ],
       "rarity": "R2",
+      "set": "200",
+      "side": "Light"
+    },
+    {
+      "front": {
+        "characteristics": [
+          "blaster"
+        ],
+        "destiny": "2",
+        "errataDate": "2024-12-30",
+        "errataNotes": "Previous text: Deploy on Beckett or non-spy Han. May target a character. Draw destiny. Target hit, and its forfeit = 0, if destiny +2 > defense value. If on Han, may fire once during your control phase, and may place this weapon in Used Pile to cancel a weapon destiny targeting Han.",
+        "errataSymbol": "E2",
+        "gametext": "Deploy on Han or a smuggler. Greedo's gametext is canceled here. May target a character. Draw destiny. Target hit if destiny +2 > defense value. If hit by Han or Beckett, target's forfeit = 0. If on Han (unless Undercover), may fire once during your control phase.",
+        "icons": [
+          "Set 0"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual0-Light/large/hansheavyblasterpistol.gif",
+        "lore": "BlasTech DL-44 heavy blaster pistol. Short range, but relatively powerful. Carries energy for 25 shots. Illegal or restricted in most systems.",
+        "subType": "Character",
+        "title": "•Han's Heavy Blaster Pistol (V)",
+        "type": "Weapon",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Hans Heavy Blaster Pistol (V)/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "200_70",
+      "id": 40097,
+      "legacy": false,
+      "matchingWeapon": [
+        "Captain Han Solo",
+        "General Solo",
+        "General Solo (V)",
+        "Han",
+        "Han (V)",
+        "Han Solo",
+        "Han Solo (V)",
+        "Han Solo, Optimistic General",
+        "Han... Solo",
+        "Solo",
+        "Tobias Beckett"
+      ],
+      "nextId": 1107,
+      "previousId": 40096,
+      "printings": [
+        {
+          "set": "200"
+        }
+      ],
+      "pulledBy": [
+        "Portable Scanner"
+      ],
+      "rarity": "R2",
+      "rulings": [
+        "Matching weapon for Han or Beckett, but not for smugglers in general.",
+        "This weapon will not prevent Greedo (V) from deploying as a react. He deploys as a react, and then it will cancel his game text as soon as he arrives."
+      ],
       "set": "200",
       "side": "Light"
     }
