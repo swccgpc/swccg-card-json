@@ -2105,7 +2105,14 @@
       "set": "7",
       "side": "Dark",
       "underlyingCardFor": [
-        "Alert My Star Destroyer! (V)"
+        {
+          "title": "Alert My Star Destroyer! (V)",
+          "cardId": 5191
+        },
+        {
+          "title": "Navy Of The First Order",
+          "cardId": 7408
+        }
       ]
     },
     {
@@ -2823,7 +2830,13 @@
       ],
       "rarity": "C",
       "set": "7",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+        {
+          "title": "Vicrul",
+          "cardId": 7419
+        }
+      ]
     },
     {
       "canceledBy": [
@@ -2861,7 +2874,13 @@
       ],
       "rarity": "U",
       "set": "6",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+        {
+          "title": "AT-M6 Cannon",
+          "cardId": 7395
+        }
+      ]
     },
     {
       "front": {
@@ -4962,6 +4981,10 @@
         {
           "title": "Mustafar",
           "cardId": 6527
+        },
+        {
+          "title": "The Grand Inquisitor's Lightsaber",
+          "cardId": 7417
         }
       ]
     },
@@ -7864,7 +7887,13 @@
         "Only completes if the captive is imprisoned by the original seizing bounty hunter card."
       ],
       "set": "5",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+        {
+          "title": "The Client's Bounty",
+          "cardId": 7415
+        }
+      ]
     },
     {
       "abbr": [
@@ -13997,7 +14026,13 @@
         "If Alter is played in response to the attempted deployment of this Effect, this Effect's game text may not be used yet."
       ],
       "set": "102",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+        {
+          "title": "Master Sidious",
+          "cardId": 7406
+        }
+      ]
     },
     {
       "front": {
@@ -19156,7 +19191,13 @@
       ],
       "rarity": "R1",
       "set": "1",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+        {
+          "title": "DS-61-3 (V)",
+          "cardId": 7402
+        }
+      ]
     },
     {
       "front": {
@@ -22515,7 +22556,13 @@
       ],
       "rarity": "R",
       "set": "4",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+        {
+          "title": "Supremacy",
+          "cardId": 7411
+        }
+      ]
     },
     {
       "combo": [
@@ -25056,7 +25103,13 @@
         "May target a character aboard a starship or vehicle. If successful, the character is removed from the starship or vehicle and becomes missing at that site."
       ],
       "set": "3",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+        {
+          "title": "Crait: Salt Plateau",
+          "cardId": 7401
+        }
+      ]
     },
     {
       "front": {
@@ -25156,7 +25209,14 @@
       "set": "7",
       "side": "Dark",
       "underlyingCardFor": [
-        "Officer Valin Hess"
+        {
+          "title": "More! MORE!!!!",
+          "cardId": 7407
+        },
+        {
+          "title": "Officer Valin Hess",
+          "cardId": 6969
+        }
       ]
     },
     {
@@ -25621,7 +25681,13 @@
       ],
       "rarity": "R",
       "set": "7",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+        {
+          "title": "Tracked Fleet",
+          "cardId": 7418
+        }
+      ]
     },
     {
       "front": {
@@ -25703,7 +25769,13 @@
       ],
       "rarity": "C",
       "set": "8",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+        {
+          "title": "The First Order Reigns / The Resistance Is Doomed",
+          "cardId": 7416
+        }
+      ]
     },
     {
       "counterpart": "Hoth",
@@ -25739,8 +25811,18 @@
       "set": "3",
       "side": "Dark",
       "underlyingCardFor": [
-        "Starkiller Base",
-        "Starkiller Base (AI)"
+        {
+          "title": "Crait",
+          "cardId": 7399
+        },
+        {
+          "title": "Starkiller Base",
+          "cardId": 5204
+        },
+        {
+          "title": "Starkiller Base (AI)",
+          "cardId": 7018
+        }
       ]
     },
     {
@@ -25874,7 +25956,14 @@
       "set": "3",
       "side": "Dark",
       "underlyingCardFor": [
-        "Starkiller Base: Docking Bay"
+        {
+          "title": "Crait: Outpost Entrance Cavern",
+          "cardId": 7400
+        },
+        {
+          "title": "Starkiller Base: Docking Bay",
+          "cardId": 5205
+        }
       ]
     },
     {
@@ -27482,7 +27571,13 @@
       ],
       "rarity": "R",
       "set": "4",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+        {
+          "title": "IG-88's Pulse Cannon (V)",
+          "cardId": 7405
+        }
+      ]
     },
     {
       "canceledBy": [
@@ -33466,7 +33561,13 @@
       ],
       "rarity": "U2",
       "set": "3",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+        {
+          "title": "Captain Moden Canady",
+          "cardId": 7397
+        }
+      ]
     },
     {
       "front": {
@@ -36312,7 +36413,13 @@
       ],
       "rarity": "PM",
       "set": "112",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+        {
+          "title": "Baylan Skoll",
+          "cardId": 7396
+        }
+      ]
     },
     {
       "front": {
@@ -38835,7 +38942,13 @@
       ],
       "rarity": "C",
       "set": "12",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+        {
+          "title": "No Civility, Only Politics (V)",
+          "cardId": 7409
+        }
+      ]
     },
     {
       "counterpart": "Ounee Ta",
@@ -39687,7 +39800,13 @@
       ],
       "rarity": "R",
       "set": "7",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+        {
+          "title": "Cardo",
+          "cardId": 7398
+        }
+      ]
     },
     {
       "front": {
@@ -42309,7 +42428,13 @@
       ],
       "rarity": "U",
       "set": "4",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+        {
+          "title": "Orbital Bombardment",
+          "cardId": 7410
+        }
+      ]
     },
     {
       "front": {
@@ -45040,7 +45165,13 @@
       ],
       "rarity": "C2",
       "set": "1",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+        {
+          "title": "Supremacy: Bridge",
+          "cardId": 7412
+        }
+      ]
     },
     {
       "front": {
@@ -49646,7 +49777,13 @@
         "To initiate this Interrupt, there must be at least one character targeted to be excluded."
       ],
       "set": "2",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+        {
+          "title": "Supremacy: Throne Room",
+          "cardId": 7413
+        }
+      ]
     },
     {
       "counterpart": "Ineffective Maneuver",
@@ -51070,7 +51207,13 @@
       ],
       "rarity": "PM",
       "set": "112",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+        {
+          "title": "Tatooine: Desert Heart (V)",
+          "cardId": 7414
+        }
+      ]
     },
     {
       "abbr": [
@@ -55609,7 +55752,13 @@
       ],
       "rarity": "R1",
       "set": "3",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+        {
+          "title": "Fulminatrix",
+          "cardId": 7404
+        }
+      ]
     },
     {
       "combo": [
@@ -57432,7 +57581,13 @@
       ],
       "rarity": "R",
       "set": "12",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+        {
+          "title": "With Thunderous Applause",
+          "cardId": 7420
+        }
+      ]
     },
     {
       "counterpart": "The Republic No Longer Functions",
@@ -57574,6 +57729,10 @@
         {
           "title": "Echo Base Destroyed",
           "cardId": 7298
+        },
+        {
+          "title": "First Order AT-M6",
+          "cardId": 7403
         }
       ]
     },

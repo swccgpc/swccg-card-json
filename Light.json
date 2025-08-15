@@ -4072,7 +4072,14 @@
       "set": "5",
       "side": "Light",
       "underlyingCardFor": [
-        "Tobias Beckett"
+        {
+          "title": "Honoring What They Fight For",
+          "cardId": 7430
+        },
+        {
+          "title": "Tobias Beckett",
+          "cardId": 6830
+        }
       ]
     },
     {
@@ -4875,7 +4882,13 @@
         "A character in Bacta Tank with an asterisk deploy cost is treated as 0 deploy cost."
       ],
       "set": "3",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        {
+          "title": "Bacta Tank",
+          "cardId": 7429
+        }
+      ]
     },
     {
       "front": {
@@ -5376,8 +5389,18 @@
       "set": "5",
       "side": "Light",
       "underlyingCardFor": [
-        "Beldon's Eye (V)",
-        "Beldon's Eye & All My Urchins"
+        {
+          "title": "Beldon's Corridor",
+          "cardId": 7424
+        },
+        {
+          "title": "Beldon's Eye (V)",
+          "cardId": 218
+        },
+        {
+          "title": "Beldon's Eye & All My Urchins",
+          "cardId": 5376
+        }
       ]
     },
     {
@@ -8101,7 +8124,13 @@
       ],
       "rarity": "R",
       "set": "5",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        {
+          "title": "Captain Han Solo (V)",
+          "cardId": 7422
+        }
+      ]
     },
     {
       "conceptBy": "Original concept by Matt Schmaltz",
@@ -9383,8 +9412,18 @@
       "set": "109",
       "side": "Light",
       "underlyingCardFor": [
-        "Chewie With Bowcaster",
-        "Chewie With Bowcaster (AI)"
+        {
+          "title": "Chewie With Blaster Rifle (V)",
+          "cardId": 7423
+        },
+        {
+          "title": "Chewie With Bowcaster",
+          "cardId": 5086
+        },
+        {
+          "title": "Chewie With Bowcaster (AI)",
+          "cardId": 7140
+        }
       ]
     },
     {
@@ -10383,7 +10422,13 @@
       ],
       "rarity": "U",
       "set": "5",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        {
+          "title": "Cloud City: Carbonite Chamber (V)",
+          "cardId": 7425
+        }
+      ]
     },
     {
       "counterpart": "Cloud City: Casino",
@@ -13289,7 +13334,13 @@
       ],
       "rarity": "R",
       "set": "5",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        {
+          "title": "Courage Of A Skywalker (V)",
+          "cardId": 7426
+        }
+      ]
     },
     {
       "combo": [
@@ -18470,7 +18521,13 @@
       ],
       "rarity": "R",
       "set": "8",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        {
+          "title": "Endor: Rebel Landing Site (Forest) (V)",
+          "cardId": 7428
+        }
+      ]
     },
     {
       "counterpart": "Energy Walls",
@@ -20670,7 +20727,13 @@
       ],
       "rarity": "R",
       "set": "5",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        {
+          "title": "Lando With Blaster Rifle",
+          "cardId": 7433
+        }
+      ]
     },
     {
       "front": {
@@ -26045,7 +26108,13 @@
         "Ships/vehicles might be left behind due to Gravity Shadow, Imperial Barrier, not enough Force to move everything, etc."
       ],
       "set": "1",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        {
+          "title": "Din Djarin's Modified N-1",
+          "cardId": 7427
+        }
+      ]
     },
     {
       "abbr": [
@@ -27661,7 +27730,13 @@
         "If a card says to 'shuffle Reserve Deck and draw destiny' then Light should shuffle normally first, and may then substitute the draw with the card stacked here."
       ],
       "set": "4",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        {
+          "title": "It Is The Future You See (V)",
+          "cardId": 7432
+        }
+      ]
     },
     {
       "front": {
@@ -32318,7 +32393,13 @@
       ],
       "rarity": "U1",
       "set": "1",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        {
+          "title": "Leia's Lightsaber",
+          "cardId": 7434
+        }
+      ]
     },
     {
       "front": {
@@ -32504,9 +32585,22 @@
       "set": "9",
       "side": "Light",
       "underlyingCardFor": [
-        "Han Solo, Optimistic General",
-        "It's True, All Of It",
-        "Phoenix Squadron Operations"
+        {
+          "title": "Han Solo, Optimistic General",
+          "cardId": 6885
+        },
+        {
+          "title": "It's True, All Of It",
+          "cardId": 5616
+        },
+        {
+          "title": "Let's Keep A Little Optimism Here (V)",
+          "cardId": 7436
+        },
+        {
+          "title": "Phoenix Squadron Operations",
+          "cardId": 7116
+        }
       ]
     },
     {
@@ -32534,7 +32628,13 @@
       ],
       "rarity": "PM",
       "set": "13",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        {
+          "title": "Let's Keep A Little Optimism Here (V)",
+          "cardId": 7435
+        }
+      ]
     },
     {
       "cancels": [
@@ -35941,7 +36041,13 @@
       ],
       "rarity": "U",
       "set": "9",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        {
+          "title": "Major Panno (V)",
+          "cardId": 7437
+        }
+      ]
     },
     {
       "front": {
@@ -37378,7 +37484,14 @@
       "set": "7",
       "side": "Light",
       "underlyingCardFor": [
-        "The Galaxy May Need A Legend / We Need Luke Skywalker"
+        {
+          "title": "Mind What You Have Learned / Save You It Can (V)",
+          "cardId": 7438
+        },
+        {
+          "title": "The Galaxy May Need A Legend / We Need Luke Skywalker",
+          "cardId": 5961
+        }
       ]
     },
     {
@@ -39352,7 +39465,13 @@
       ],
       "rarity": "C",
       "set": "12",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        {
+          "title": "New Leadership Is Needed (V)",
+          "cardId": 7439
+        }
+      ]
     },
     {
       "cancels": [
@@ -39380,7 +39499,13 @@
       ],
       "rarity": "C2",
       "set": "3",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        {
+          "title": "A Good Friend",
+          "cardId": 7421
+        }
+      ]
     },
     {
       "front": {
@@ -39525,7 +39650,13 @@
         "The 3 Force loss is once per battle, not once per Rebel."
       ],
       "set": "4",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        {
+          "title": "No Disintegrations! (V)",
+          "cardId": 7440
+        }
+      ]
     },
     {
       "front": {
@@ -40173,7 +40304,14 @@
       "set": "4",
       "side": "Light",
       "underlyingCardFor": [
-        "Master Kenobi"
+        {
+          "title": "Master Kenobi",
+          "cardId": 6939
+        },
+        {
+          "title": "Patience!",
+          "cardId": 7442
+        }
       ]
     },
     {
@@ -41085,7 +41223,13 @@
       ],
       "rarity": "R",
       "set": "8",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        {
+          "title": "Orrimaarko (V)",
+          "cardId": 7441
+        }
+      ]
     },
     {
       "combo": [
@@ -60035,7 +60179,13 @@
       ],
       "rarity": "R",
       "set": "12",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        {
+          "title": "How Liberty Dies",
+          "cardId": 7431
+        }
+      ]
     },
     {
       "cancels": [
@@ -63803,8 +63953,18 @@
       "set": "4",
       "side": "Light",
       "underlyingCardFor": [
-        "Din Djarin",
-        "Din Djarin (AI)"
+        {
+          "title": "Din Djarin",
+          "cardId": 6864
+        },
+        {
+          "title": "Din Djarin (AI)",
+          "cardId": 7276
+        },
+        {
+          "title": "Yoda's Hope (V)",
+          "cardId": 7443
+        }
       ]
     },
     {
@@ -64079,7 +64239,13 @@
       ],
       "rarity": "R1",
       "set": "3",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        {
+          "title": "You Will Go To The Dagobah System (V)",
+          "cardId": 7444
+        }
+      ]
     },
     {
       "front": {
