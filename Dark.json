@@ -4356,7 +4356,7 @@
         "destiny": "2",
         "errataSymbol": "E1",
         "forfeit": "3",
-        "gametext": "Deploys only to a Jabba's Palace site. Power = 0 at any location other than a Tatooine site. Power +2 at any Jabba's Palace site while Jabba is on the table. Your transport vehicles lost from same site may go to your Used Pile rather than your Lost Pile.",
+        "gametext": "Deploys only to a Jabba's Palace site. Power = 0 at any location other than a Tatooine site. Power +2 at any Jabba's Palace site, while Jabba on table. Your transport vehicles just lost from same site may be placed in your Used Pile.",
         "icons": [
           "Warrior",
           "Jabba's Palace"
@@ -23517,7 +23517,7 @@
           "Medical Droid"
         ],
         "forfeit": "3",
-        "gametext": "Once per turn, one of your 'hit' non-droid characters at same or adjacent site may go to your Used Pile rather than your Lost Pile.",
+        "gametext": "Once per turn, one of your 'hit' non-droid characters at same or adjacent site may be placed in your Used Pile instead of Lost Pile when forfeited.",
         "icons": [
           "Hoth"
         ],
