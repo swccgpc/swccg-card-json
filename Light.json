@@ -9,7 +9,7 @@
           "Medical Droid"
         ],
         "forfeit": "5",
-        "gametext": "Once per turn, one of your non-droid characters lost from same site may go to your Used Pile rather than your Lost Pile. Subtracts 2 from X on you Bacta Tank.",
+        "gametext": "Once per turn, one of your non-droid characters just lost from same site may be placed in your Used Pile. Subtracts 2 from X on your Bacta Tank.",
         "icons": [
           "Hoth"
         ],
@@ -20640,7 +20640,7 @@
           "Medical Droid"
         ],
         "forfeit": "3",
-        "gametext": "Once per turn, one of your 'hit' non-droid characters at same or adjacent site may go to your Used Pile rather than your Lost Pile. Cumulatively subtracts 2 from X on your Bacta Tank.",
+        "gametext": "Once per turn, one of your 'hit' non-droid characters at same or adjacent site may be placed in your Used Pile instead of Lost Pile when forfeited. Cumulatively subtracts 2 from X on your Bacta Tank.",
         "icons": [
           "Hoth"
         ],
@@ -77562,7 +77562,7 @@
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual25-Light/large/itisthefutureyousee.gif",
         "title": "It Is The Future You See (V)",
-        "type": "Jedi Test # 5",
+        "type": "Jedi Test #5",
         "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/It Is The Future You See (V)/image.png",
         "printableSlipType": "VIRTUAL"
       },
