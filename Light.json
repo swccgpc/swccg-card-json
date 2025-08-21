@@ -13235,6 +13235,10 @@
         "Now, This Is Podracing!"
       ],
       "rarity": "R2",
+      "rulings": [
+        "Although characters here cannot be excluded from battle, a card like Rebel Barrier or Clash Of Sabers might prevent a battle from being initiated in the first place, particularly if used on a character who is alone. Once a battle is successfully initiated (such as by having another non-Barriered character), no characters will be excluded.",
+        "Characters can be made immediately lost (e.g. via Blaster Proficiency) as this is not exclusion."
+      ],
       "set": "200",
       "side": "Light"
     },
@@ -13271,6 +13275,10 @@
         "Now, This Is Podracing!"
       ],
       "rarity": "R2",
+      "rulings": [
+        "Although characters here cannot be excluded from battle, a card like Rebel Barrier or Clash Of Sabers might prevent a battle from being initiated in the first place, particularly if used on a character who is alone. Once a battle is successfully initiated (such as by having another non-Barriered character), no characters will be excluded.",
+        "Characters can be made immediately lost (e.g. via Blaster Proficiency) as this is not exclusion."
+      ],
       "set": "200",
       "side": "Light"
     },
@@ -76350,7 +76358,7 @@
         "lore": "Enclosed. First snowspeeder to be successfully adapted to Hoth's environment. Piloted by Zev Senesca. Led team in search of Captain Solo and Commander Skywalker.",
         "maneuver": "6",
         "power": "6",
-        "subType": "Combat Vehicle: T-47 Snowspeeder",
+        "subType": "Combat: T-47 Snowspeeder",
         "title": "•Zev In Rogue 2",
         "type": "Vehicle",
         "uniqueness": "*",
