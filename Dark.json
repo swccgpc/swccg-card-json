@@ -27973,7 +27973,8 @@
         "Read this as owner's move phase and <u>any</u> exterior sites (not as owner's move phase and <u>owner's</u> exterior sites).",
         "For Nabrun and Elis, the origin site and the destination site must <u>both</u> be exterior (interior/exterior sites such as Death Star: Docking Bay are allowed).",
         "Light has the option to decline and cancel the retrieval.",
-        "The amount of Force used ('X') equals the retrieval amount initiated, even if the Lost pile has fewer than X cards."
+        "The amount of Force used ('X') equals the retrieval amount initiated, even if the Lost pile has fewer than X cards.",
+        "If Light is to search their Lost Pile to retrieve card(s) that meet specific criteria, Light searches first, then pays for Secret Plans only if they find valid card(s) and choose to retrieve."
       ],
       "set": "12",
       "side": "Dark"
@@ -45827,7 +45828,8 @@
       "rarity": "PM",
       "rulings": [
         "Light has the option to decline and cancel the retrieval.",
-        "The amount of Force used ('X') equals the retrieval amount initiated, even if the Lost pile has fewer than X cards."
+        "The amount of Force used ('X') equals the retrieval amount initiated, even if the Lost pile has fewer than X cards.",
+        "If Light is to search their Lost Pile to retrieve card(s) that meet specific criteria, Light searches first, then pays for Secret Plans only if they find valid card(s) and choose to retrieve."
       ],
       "set": "13",
       "side": "Dark"
@@ -45865,7 +45867,8 @@
       "rarity": "U",
       "rulings": [
         "Light has the option to decline and cancel the retrieval.",
-        "The amount of Force used ('X') equals the retrieval amount initiated, even if the Lost pile has fewer than X cards."
+        "The amount of Force used ('X') equals the retrieval amount initiated, even if the Lost pile has fewer than X cards.",
+        "If Light is to search their Lost Pile to retrieve card(s) that meet specific criteria, Light searches first, then pays for Secret Plans only if they find valid card(s) and choose to retrieve."
       ],
       "set": "7",
       "side": "Dark",
@@ -70161,6 +70164,9 @@
       ],
       "rarity": "U1",
       "rulings": [
+        "(Competing Grabbers) In this specific context, the words '(if possible)' are intended to mean that if A Useless Gesture and another grabber would both automatically grab the same Interrupt, that other grabber takes precedence. It is NOT competing automatic actions.",
+        "(Competing Grabbers) If A Useless Gesture would automatically stack an Interrupt, and another grabber could optionally stack it, the automatic A Useless Gesture takes precedence.",
+        "(Competing Grabbers) Light only pays the costs of one grabber, the grabber that actually stacked the Interrupt.",
         "A card that deploys for 0 such as Kal'Falnl C'ndros is not the same as 'free' and thus doesn't trigger the anti-free portion of this card.",
         "When Light simultaneously deploys a pair of cards for free (e.g. due to I'd Just As Soon Kiss A Wookiee), each card is separately affected by Imperial Detention, potentially causing a total cost of 4.",
         "The separate cost for non-unique cards must be paid even if the non-unique card being deployed is free."
@@ -72051,6 +72057,9 @@
         }
       ],
       "rarity": "U",
+      "rulings": [
+        "The power -1 modifiers expire at the end of the battle."
+      ],
       "set": "225",
       "side": "Dark"
     },
@@ -72090,6 +72099,9 @@
         }
       ],
       "rarity": "PM",
+      "rulings": [
+        "The phrase 'two characters' means 'at least two characters'."
+      ],
       "set": "225",
       "side": "Dark"
     },
@@ -72127,6 +72139,9 @@
         }
       ],
       "rarity": "U2",
+      "rulings": [
+        "Canady must be participating in the battle to use his 'During battle' text."
+      ],
       "set": "225",
       "side": "Dark"
     },
@@ -72166,6 +72181,9 @@
         }
       ],
       "rarity": "R",
+      "rulings": [
+        "Works with any [Episode VII] objective, including the opponent's."
+      ],
       "set": "225",
       "side": "Dark"
     },
@@ -72234,6 +72252,10 @@
         }
       ],
       "rarity": "C2",
+      "rulings": [
+        "Although Kylo cannot be excluded from battle, a card like Rebel Barrier or Clash Of Sabers targeting Kylo might prevent a battle from being initiated in the first place, particularly if he is alone. Once a battle is successfully initiated (such as by having another non-Barriered character), Kylo will not be excluded.",
+        "Kylo can be made immediately lost (e.g. via Blaster Proficiency) as this is not exclusion."
+      ],
       "set": "225",
       "side": "Dark"
     },
@@ -72269,6 +72291,9 @@
         }
       ],
       "rarity": "C2",
+      "rulings": [
+        "Force drain bonuses may be canceled (e.g. Great Warrior or Menace Fades) as that is not canceling or reducing a Force drain."
+      ],
       "set": "225",
       "side": "Dark"
     },
@@ -72308,7 +72333,7 @@
     },
     {
       "abbr": [
-        "FOA"
+        "Walker"
       ],
       "front": {
         "armor": "6",
@@ -72327,7 +72352,7 @@
         "landspeed": "1",
         "lore": "Enclosed.",
         "power": "7",
-        "subType": "Combat Vehicle: At-M6",
+        "subType": "Combat: AT-M6",
         "title": "First Order AT-M6",
         "type": "Vehicle",
         "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/First Order AT-M6/image.png",
@@ -72342,6 +72367,9 @@
         }
       ],
       "rarity": "U1",
+      "rulings": [
+        "Not an AT-AT (e.g. cannot use Trample or be targeted by Power Harpoon)."
+      ],
       "set": "225",
       "side": "Dark"
     },
@@ -72380,6 +72408,11 @@
         }
       ],
       "rarity": "R1",
+      "rulings": [
+        "If opponent moves multiple starships away in the same turn, they lose 1 Force each time.",
+        "Only the starship making a move causes Force loss (e.g. Home One moving away with X-wings embarked aboard loses 1 Force, not multiple).",
+        "Force loss is based on an opponent's starship moving from Fulminatrix's location to any other location. Can be caused by using hyperspeed, landing, moving to a sector, moving to/from a Death Star, etc., not by embarking/disembarking."
+      ],
       "set": "225",
       "side": "Dark"
     },
@@ -72413,6 +72446,9 @@
         }
       ],
       "rarity": "R",
+      "rulings": [
+        "This weapon may fire repeatedly, add one destiny to power, and then fire repeatedly again and add one destiny to attrition. It may continue firing but cannot add more destiny draws after that due to the cumulative rule."
+      ],
       "set": "225",
       "side": "Dark"
     },
@@ -72454,6 +72490,9 @@
         }
       ],
       "rarity": "PM",
+      "rulings": [
+        "Dark's 'apprentice' is defined on Revenge Of The Sith."
+      ],
       "set": "225",
       "side": "Dark"
     },
@@ -72486,6 +72525,9 @@
         }
       ],
       "rarity": "C",
+      "rulings": [
+        "A permanent weapon does not possess any icons (other than the [Permanent Weapon] icon itself)."
+      ],
       "set": "225",
       "side": "Dark"
     },
@@ -72546,6 +72588,9 @@
         }
       ],
       "rarity": "C",
+      "rulings": [
+        "The Lost function searches for a card with the exact title Coruscant Guard, including Coruscant Guard (V). It may not take Keder The Black."
+      ],
       "set": "225",
       "side": "Dark"
     },
@@ -72578,6 +72623,10 @@
         }
       ],
       "rarity": "U",
+      "rulings": [
+        "The phrase 'the number of battle destiny draws may not be limited' applies to both players.",
+        "Players may still initiate an action that would limit battle destiny draws, such as taking a card off I Don't Like Sand or playing the limiting function on Imperial Command & In Range. The limit is simply ignored."
+      ],
       "set": "225",
       "side": "Dark"
     },
@@ -72616,6 +72665,10 @@
         }
       ],
       "rarity": "R",
+      "rulings": [
+        "If Snoke is at a Supremacy site, he is 'aboard', boosting the immunity to attrition to < 12.",
+        "If Snoke aboard and Supremacy also with Tracked Fleet, the greater immunity is used."
+      ],
       "set": "225",
       "side": "Dark"
     },
@@ -72653,6 +72706,9 @@
         }
       ],
       "rarity": "C2",
+      "rulings": [
+        "The piloted [Resistance] starship can be at any system."
+      ],
       "set": "225",
       "side": "Dark"
     },
@@ -72690,6 +72746,9 @@
         }
       ],
       "rarity": "C2",
+      "rulings": [
+        "The attrition +1 requires Snoke to be participating in the battle and Rey to not be participating in the battle (or not be there at all)."
+      ],
       "set": "225",
       "side": "Dark"
     },
@@ -72725,6 +72784,9 @@
         }
       ],
       "rarity": "PM",
+      "rulings": [
+        "A 'non-alien character' is any character that does not possess the alien icon. An Alien/Rebel is an alien (not a non-alien)."
+      ],
       "set": "225",
       "side": "Dark"
     },
@@ -72798,6 +72860,11 @@
         }
       ],
       "rarity": "C",
+      "rulings": [
+        "Dark may deploy [Presence] droids such as P-59.",
+        "(7-side) Light may initiate an action that causes retrieval, but the retrieval result is canceled.",
+        "(7-side) Han, Leia, or Luke must still be present at the Salt Plateau and active (not excluded from battle, captive, missing, Undercover, etc) at the time that Kylo was forfeited from a battle Dark lost there for the Objective to be placed out of play."
+      ],
       "set": "225",
       "side": "Dark"
     },
@@ -72829,6 +72896,9 @@
         }
       ],
       "rarity": "U",
+      "rulings": [
+        "Prevents both functions of Dodge."
+      ],
       "set": "225",
       "side": "Dark"
     },
@@ -72859,6 +72929,9 @@
         }
       ],
       "rarity": "R",
+      "rulings": [
+        "The card stacked from hand face down is not revealed (unlike cards that say to 'lose 1 Force and stack' such as I Feel The Conflict)."
+      ],
       "set": "225",
       "side": "Dark"
     },
@@ -72897,6 +72970,10 @@
         }
       ],
       "rarity": "C",
+      "rulings": [
+        "Dark (not Light) may search Light's entire Lost Pile while finding the topmost Interrupt. If the finding is disputed, a judge may confirm.",
+        "Do not shuffle or reorder any other cards of the Lost Pile."
+      ],
       "set": "225",
       "side": "Dark"
     },
@@ -72928,6 +73005,10 @@
         }
       ],
       "rarity": "R",
+      "rulings": [
+        "The same agenda / same character may be targeted twice in the same turn.",
+        "However, note that Wealth's 'subtract 1 from attrition' is not cumulative."
+      ],
       "set": "225",
       "side": "Dark"
     }
