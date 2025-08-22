@@ -27738,6 +27738,7 @@
       ],
       "rarity": "R",
       "rulings": [
+        "If stacked with a card with two destiny values (e.g. Artoo-Detoo In Red 5), Light will choose their desired value each time they substitute a destiny draw.",
         "If a card says to 'shuffle Reserve Deck and draw destiny' then Light should shuffle normally first, and may then substitute the draw with the card stacked here."
       ],
       "set": "4",
@@ -77578,7 +77579,7 @@
       "rulings": [
         "The same agenda / same character may be targeted twice in the same turn.",
         "However, note that Peace's 'subtract 1 from attrition' is not cumulative.",
-        "Justice's 'subtract 1 from a weapon destiny' is not cumulative on the same weapon destiny, but would be effective against a weapon that draws two weapon destiny (subtract 1 from each draw)."
+        "Justice's 'subtract 1 from a weapon destiny' is not cumulative on the same weapon destiny, but would be effective against a weapon that draws two weapon destiny (by subtracting 1 from each draw)."
       ],
       "set": "225",
       "side": "Light"
@@ -77610,7 +77611,8 @@
       ],
       "rarity": "R",
       "rulings": [
-        "If stacked with a card with two destiny values (e.g. Artoo-Detoo In Red 5), Light will choose their desired value each time they substitute a destiny draw."
+        "If stacked with a card with two destiny values (e.g. Artoo-Detoo In Red 5), Light will choose their desired value each time they substitute a destiny draw.",
+        "If a card says to 'shuffle Reserve Deck and draw destiny' then Light should shuffle normally first, and may then substitute the draw with the card stacked here."
       ],
       "set": "225",
       "side": "Light"
@@ -78022,7 +78024,7 @@
       "rarity": "U",
       "rulings": [
         "Jedi Tests may be attempted both at the start of opponent's deploy phase (draw two training destiny and choose one) and during their normal timing (draw training destiny normally).",
-        "When attempting Domain Of Evil at the start of Dark's deploy phase, Light's cards will not have participated in any of Dark's Force drains. This is not a concern even if the Force drain was at Light's location, or if Light had a droid or empty vehicle at the location, etc."
+        "When attempting Domain Of Evil at the start of Dark's deploy phase, Light's cards are not considered to have participated in any of Dark's Force drains. This is not a concern even if the Force drain was at Light's location, or if Light had a droid or empty vehicle at the location, etc."
       ],
       "set": "225",
       "side": "Light"
