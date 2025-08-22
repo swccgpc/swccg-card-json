@@ -1867,7 +1867,8 @@
       "rarity": "R",
       "rulings": [
         "Dark has the option to decline and cancel the retrieval.",
-        "The amount of Force used ('X') equals the retrieval amount initiated, even if the Lost pile has fewer than X cards."
+        "The amount of Force used ('X') equals the retrieval amount initiated, even if the Lost pile has fewer than X cards.",
+        "If Dark is to search their Lost Pile to retrieve card(s) that meet specific criteria, Dark searches first, then pays for Aim High only if they find valid card(s) and choose to retrieve."
       ],
       "set": "8",
       "side": "Light"
@@ -1898,7 +1899,8 @@
       "rarity": "PM",
       "rulings": [
         "Dark has the option to decline and cancel the retrieval.",
-        "The amount of Force used ('X') equals the retrieval amount initiated, even if the Lost pile has fewer than X cards."
+        "The amount of Force used ('X') equals the retrieval amount initiated, even if the Lost pile has fewer than X cards.",
+        "If Dark is to search their Lost Pile to retrieve card(s) that meet specific criteria, Dark searches first, then pays for Aim High only if they find valid card(s) and choose to retrieve."
       ],
       "set": "13",
       "side": "Light"
@@ -27498,7 +27500,8 @@
         "Read this as owner's move phase and <u>any</u> exterior sites (not as owner's move phase and <u>owner's</u> exterior sites).",
         "For Nabrun and Elis, the origin site and the destination site must <u>both</u> be exterior (interior/exterior sites such as Death Star: Docking Bay are allowed).",
         "Dark has the option to decline and cancel the retrieval.",
-        "The amount of Force used ('X') equals the retrieval amount initiated, even if the Lost pile has fewer than X cards."
+        "The amount of Force used ('X') equals the retrieval amount initiated, even if the Lost pile has fewer than X cards.",
+        "If Dark is to search their Lost Pile to retrieve card(s) that meet specific criteria, Dark searches first, then pays for Aim High only if they find valid card(s) and choose to retrieve."
       ],
       "set": "12",
       "side": "Light"
@@ -77201,6 +77204,10 @@
         }
       ],
       "rarity": "C2",
+      "rulings": [
+        "Be With Me, Jedi Village, and Leia's Lightsaber may all be deployed by A Good Friend in the same turn. Each one is a separate action. Once the search has been initiated, one of those three cards must be deployed if possible.",
+        "A weapon may be used by multiple characters in the same turn, but is limited to participating in one Force drain per turn and one battle per turn."
+      ],
       "set": "225",
       "side": "Light"
     },
@@ -77242,6 +77249,11 @@
         }
       ],
       "rarity": "R",
+      "rulings": [
+        "His text protects him from being 'choked' by Darth Vader, Dark Lord Of The Sith, and also protects him from the permanent weapon of Darth Vader With Lightsaber.",
+        "His text does NOT protect him from the power and forfeit -1 of Vader (V) as modifiers are not actions and thus do not have a targeting step.",
+        "His 'just captured' text works regardless of being seized, imprisoned, or escaped."
+      ],
       "set": "225",
       "side": "Light"
     },
@@ -77282,6 +77294,9 @@
         }
       ],
       "rarity": "PM",
+      "rulings": [
+        "Adds a battle destiny with either player's droid."
+      ],
       "set": "225",
       "side": "Light"
     },
@@ -77377,6 +77392,9 @@
         }
       ],
       "rarity": "R",
+      "rulings": [
+        "A destiny draw that has been reset = 2 ignores all modifiers (additions and subtrations). It could be reset again, but only to a lower number."
+      ],
       "set": "225",
       "side": "Light"
     },
@@ -77491,6 +77509,9 @@
         }
       ],
       "rarity": "R2",
+      "rulings": [
+        "This text permits Jedi Lightsaber (V) to deploy on (and be used by) Finn."
+      ],
       "set": "225",
       "side": "Light"
     },
@@ -77554,6 +77575,11 @@
         }
       ],
       "rarity": "R",
+      "rulings": [
+        "The same agenda / same character may be targeted twice in the same turn.",
+        "However, note that Peace's 'subtract 1 from attrition' is not cumulative.",
+        "Justice's 'subtract 1 from a weapon destiny' is not cumulative on the same weapon destiny, but would be effective against a weapon that draws two weapon destiny (subtract 1 from each draw)."
+      ],
       "set": "225",
       "side": "Light"
     },
@@ -77583,6 +77609,9 @@
         }
       ],
       "rarity": "R",
+      "rulings": [
+        "If stacked with a card with two destiny values (e.g. Artoo-Detoo In Red 5), Light will choose their desired value each time they substitute a destiny draw."
+      ],
       "set": "225",
       "side": "Light"
     },
@@ -77625,6 +77654,9 @@
         }
       ],
       "rarity": "R",
+      "rulings": [
+        "Lando's retrieval action occurs as soon as Light has calculated their total battle destiny, including any modifiers. If Light initiated the battle, this will be after Light has completed their battle destiny draws and before Dark has started their battle destiny draws."
+      ],
       "set": "225",
       "side": "Light"
     },
@@ -77657,6 +77689,10 @@
         }
       ],
       "rarity": "U1",
+      "rulings": [
+        "If stolen by Dark, Kylo Ren cannot use this weapon.",
+        "If a character does not have immunity to attrition, they still receive defense value +1."
+      ],
       "set": "225",
       "side": "Light"
     },
@@ -77691,6 +77727,9 @@
         }
       ],
       "rarity": "PM",
+      "rulings": [
+        "'Renegade planet' is defined on the Objective card Imperial Occupation."
+      ],
       "set": "200d",
       "side": "Light"
     },
@@ -77725,6 +77764,9 @@
         }
       ],
       "rarity": "C",
+      "rulings": [
+        "'Renegade planet' is defined on the Objective card Imperial Occupation."
+      ],
       "set": "200d",
       "side": "Light"
     },
@@ -77808,6 +77850,10 @@
         }
       ],
       "rarity": "R",
+      "rulings": [
+        "(7-side) The phrase 'return Luke and any cards on him' refers to cards attached to Luke (e.g. weapons, devices, and Effects), not cards that are 'aboard' him via Luke's Backpack. If a character is aboard Luke, they are not returned to hand but may 'jump off'.",
+        "(7-side) Light may react to a single battle with both Luke and a weapon, but if doing so, they are two separate react actions performed one at a time. It Light reacts to a Force drain with Luke, this will typically cancel the Force drain, preventing further reacts."
+      ],
       "set": "225",
       "side": "Light"
     },
@@ -77869,6 +77915,11 @@
         }
       ],
       "rarity": "R",
+      "rulings": [
+        "When capturing a character that is being forfeited, that character is captured after applying forfeit value but before being placed in the Lost Pile.",
+        "This Effect does not restore the captured character to normal, so if they are 'hit' then they will be immediately lost upon being seized (due to being 'hit' while no longer participating in the battle).",
+        "This Effect does not say to seize 'if possible' so Dark might be required to release another captive and/or disembark a vehicle in order to seize. See Captives - Seizure ('if possible')."
+      ],
       "set": "225",
       "side": "Light"
     },
@@ -77933,6 +77984,11 @@
         }
       ],
       "rarity": "R",
+      "rulings": [
+        "Light may stack any five Jedi Tests, even duplicates. (One each of Jedi Tests 1 - 5 are recommended).",
+        "Whenever Luke leaves table (or is inactive), all Jedi Tests on table are suspended, whether the tests are complete or incomplete. If Luke returns to the table (or returns to being active) the tests are no longer suspended.",
+        "If during the course of battle, Luke switches from being alone to not (or vice versa), Jedi Test #3 will likewise switch to being suspended (or vice versa)."
+      ],
       "set": "225",
       "side": "Light"
     },
@@ -77964,6 +78020,10 @@
         }
       ],
       "rarity": "U",
+      "rulings": [
+        "Jedi Tests may be attempted both at the start of opponent's deploy phase (draw two training destiny and choose one) and during their normal timing (draw training destiny normally).",
+        "When attempting Domain Of Evil at the start of Dark's deploy phase, Light's cards will not have participated in any of Dark's Force drains. This is not a concern even if the Force drain was at Light's location, or if Light had a droid or empty vehicle at the location, etc."
+      ],
       "set": "225",
       "side": "Light"
     },

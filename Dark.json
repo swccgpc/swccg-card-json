@@ -27973,7 +27973,8 @@
         "Read this as owner's move phase and <u>any</u> exterior sites (not as owner's move phase and <u>owner's</u> exterior sites).",
         "For Nabrun and Elis, the origin site and the destination site must <u>both</u> be exterior (interior/exterior sites such as Death Star: Docking Bay are allowed).",
         "Light has the option to decline and cancel the retrieval.",
-        "The amount of Force used ('X') equals the retrieval amount initiated, even if the Lost pile has fewer than X cards."
+        "The amount of Force used ('X') equals the retrieval amount initiated, even if the Lost pile has fewer than X cards.",
+        "If Light is to search their Lost Pile to retrieve card(s) that meet specific criteria, Light searches first, then pays for Secret Plans only if they find valid card(s) and choose to retrieve."
       ],
       "set": "12",
       "side": "Dark"
@@ -45827,7 +45828,8 @@
       "rarity": "PM",
       "rulings": [
         "Light has the option to decline and cancel the retrieval.",
-        "The amount of Force used ('X') equals the retrieval amount initiated, even if the Lost pile has fewer than X cards."
+        "The amount of Force used ('X') equals the retrieval amount initiated, even if the Lost pile has fewer than X cards.",
+        "If Light is to search their Lost Pile to retrieve card(s) that meet specific criteria, Light searches first, then pays for Secret Plans only if they find valid card(s) and choose to retrieve."
       ],
       "set": "13",
       "side": "Dark"
@@ -45865,7 +45867,8 @@
       "rarity": "U",
       "rulings": [
         "Light has the option to decline and cancel the retrieval.",
-        "The amount of Force used ('X') equals the retrieval amount initiated, even if the Lost pile has fewer than X cards."
+        "The amount of Force used ('X') equals the retrieval amount initiated, even if the Lost pile has fewer than X cards.",
+        "If Light is to search their Lost Pile to retrieve card(s) that meet specific criteria, Light searches first, then pays for Secret Plans only if they find valid card(s) and choose to retrieve."
       ],
       "set": "7",
       "side": "Dark",
@@ -70161,6 +70164,9 @@
       ],
       "rarity": "U1",
       "rulings": [
+        "(Competing Grabbers) In this specific context, the words '(if possible)' are intended to mean that if A Useless Gesture and another grabber would both automatically grab the same Interrupt, that other grabber takes precedence. It is NOT competing automatic actions.",
+        "(Competing Grabbers) If A Useless Gesture would automatically stack an Interrupt, and another grabber could optionally stack it, the automatic A Useless Gesture takes precedence.",
+        "(Competing Grabbers) Light only pays the costs of one grabber, the grabber that actually stacked the Interrupt.",
         "A card that deploys for 0 such as Kal'Falnl C'ndros is not the same as 'free' and thus doesn't trigger the anti-free portion of this card.",
         "When Light simultaneously deploys a pair of cards for free (e.g. due to I'd Just As Soon Kiss A Wookiee), each card is separately affected by Imperial Detention, potentially causing a total cost of 4.",
         "The separate cost for non-unique cards must be paid even if the non-unique card being deployed is free."
@@ -73000,7 +73006,8 @@
       ],
       "rarity": "R",
       "rulings": [
-        "The same agenda / same character may be targeted twice in the same turn. However, note that Wealth's 'subtract 1 from attrition' is not cumulative."
+        "The same agenda / same character may be targeted twice in the same turn.",
+        "However, note that Wealth's 'subtract 1 from attrition' is not cumulative."
       ],
       "set": "225",
       "side": "Dark"
