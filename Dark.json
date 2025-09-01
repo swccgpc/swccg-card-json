@@ -11730,7 +11730,7 @@
       "underlyingCardFor": [
         {
           "cardId": 5154,
-          "title": "Director Orson Krennic",
+          "title": "Director Orson Krennic"
         },
         {
           "cardId": 7265,
@@ -14108,7 +14108,10 @@
       "set": "2",
       "side": "Dark",
       "underlyingCardFor": [
-        "Dannik Jerriko (V)"
+        {
+          "cardId": 6898,
+          "title": "Dannik Jerriko (V)"
+        }
       ]
     },
     {
@@ -14387,7 +14390,10 @@
       "set": "1",
       "side": "Dark",
       "underlyingCardFor": [
-        "Dathomir: Maul's Chambers"
+        {
+          "cardId": 6811,
+          "title": "Dathomir: Maul's Chambers"
+        }
       ]
     },
     {
@@ -14425,7 +14431,10 @@
       "set": "1",
       "side": "Dark",
       "underlyingCardFor": [
-        "Dark Jedi Lightsaber (V)"
+        {
+          "cardId": 6216,
+          "title": "Dark Jedi Lightsaber (V)"
+        }
       ]
     },
     {
@@ -14519,8 +14528,14 @@
       "set": "1",
       "side": "Dark",
       "underlyingCardFor": [
-        "Count Dooku",
-        "Count Dooku (AI)"
+        {
+          "cardId": 4022,
+          "title": "Count Dooku"
+        },
+        {
+          "cardId": 7136,
+          "title": "Count Dooku (AI)"
+        }
       ]
     },
     {
@@ -14625,8 +14640,14 @@
       "set": "5",
       "side": "Dark",
       "underlyingCardFor": [
-        "Supreme Leader Snoke",
-        "Supreme Leader Snoke (Holo AI)"
+        {
+          "cardId": 6669,
+          "title": "Supreme Leader Snoke"
+        },
+        {
+          "cardId": 7019,
+          "title": "Supreme Leader Snoke (Holo AI)"
+        }
       ]
     },
     {
@@ -15224,7 +15245,10 @@
       "set": "1",
       "side": "Dark",
       "underlyingCardFor": [
-        "Darth Vader (V)"
+        {
+          "cardId": 635,
+          "title": "Darth Vader (V)"
+        }
       ]
     },
     {
@@ -15518,7 +15542,10 @@
       "set": "9",
       "side": "Dark",
       "underlyingCardFor": [
-        "Darth Vader's Lightsaber (V)"
+        {
+          "cardId": 5211,
+          "title": "Darth Vader's Lightsaber (V)"
+        }
       ]
     },
     {
@@ -15608,7 +15635,10 @@
       "set": "1",
       "side": "Dark",
       "underlyingCardFor": [
-        "Dathcha (V)"
+        {
+          "cardId": 5111,
+          "title": "Dathcha (V)"
+        }
       ]
     },
     {
@@ -15698,7 +15728,10 @@
       "set": "12",
       "side": "Dark",
       "underlyingCardFor": [
-        "Daultay Dofine (V)"
+        {
+          "cardId": 7075,
+          "title": "Daultay Dofine (V)"
+        }
       ]
     },
     {
@@ -15827,7 +15860,10 @@
       "set": "3",
       "side": "Dark",
       "underlyingCardFor": [
-        "Death Squadron Assignment"
+        {
+          "cardId": 6231,
+          "title": "Death Squadron Assignment"
+        }
       ]
     },
     {
@@ -15903,7 +15939,10 @@
       "set": "7",
       "side": "Dark",
       "underlyingCardFor": [
-        "Binder"
+        {
+          "cardId": 5008,
+          "title": "Binder"
+        }
       ]
     },
     {
@@ -16250,7 +16289,10 @@
       "set": "9",
       "side": "Dark",
       "underlyingCardFor": [
-        "Exegol: Sith Throne"
+        {
+          "cardId": 6856,
+          "title": "Exegol: Sith Throne"
+        }
       ]
     },
     {
@@ -16423,7 +16465,10 @@
       "set": "1",
       "side": "Dark",
       "underlyingCardFor": [
-        "Scarif: Citadel Tower"
+        {
+          "cardId": 6918,
+          "title": "Scarif: Citadel Tower"
+        }
       ]
     },
     {
@@ -16631,7 +16676,10 @@
       "set": "101",
       "side": "Dark",
       "underlyingCardFor": [
-        "Starkiller Base: Shield Control"
+        {
+          "cardId": 5208,
+          "title": "Starkiller Base: Shield Control"
+        }
       ]
     },
     {
@@ -16698,7 +16746,10 @@
       "set": "1",
       "side": "Dark",
       "underlyingCardFor": [
-        "Death Star: War Room (V)"
+        {
+          "cardId": 5201,
+          "title": "Death Star: War Room (V)"
+        }
       ]
     },
     {
@@ -16799,7 +16850,10 @@
       "set": "3",
       "side": "Dark",
       "underlyingCardFor": [
-        "Bow To The First Order"
+        {
+          "cardId": 5101,
+          "title": "Bow To The First Order"
+        }
       ]
     },
     {
@@ -16905,7 +16959,10 @@
       "set": "4",
       "side": "Dark",
       "underlyingCardFor": [
-        "Defensive Fire (V)"
+        {
+          "cardId": 690,
+          "title": "Defensive Fire (V)"
+        }
       ]
     },
     {
@@ -16995,8 +17052,14 @@
       "set": "3",
       "side": "Dark",
       "underlyingCardFor": [
-        "Deflector Shield Generators (V)",
-        "Shield Gate"
+        {
+          "cardId": 5026,
+          "title": "Deflector Shield Generators (V)"
+        },
+        {
+          "cardId": 6921,
+          "title": "Shield Gate"
+        }
       ]
     },
     {
@@ -17060,8 +17123,14 @@
       "set": "6",
       "side": "Dark",
       "underlyingCardFor": [
-        "Alien Mob",
-        "First Light: Reception Area"
+        {
+          "cardId": 6904,
+          "title": "Alien Mob"
+        },
+        {
+          "cardId": 6815,
+          "title": "First Light: Reception Area"
+        }
       ]
     },
     {
@@ -17120,7 +17189,10 @@
       "set": "4",
       "side": "Dark",
       "underlyingCardFor": [
-        "Dengar (V)"
+        {
+          "cardId": 5112,
+          "title": "Dengar (V)"
+        }
       ]
     },
     {
@@ -17288,7 +17360,10 @@
       "set": "110",
       "side": "Dark",
       "underlyingCardFor": [
-        "Dengar With Blaster Carbine (V)"
+        {
+          "cardId": 4023,
+          "title": "Dengar With Blaster Carbine (V)"
+        }
       ]
     },
     {
@@ -17518,7 +17593,10 @@
       "set": "5",
       "side": "Dark",
       "underlyingCardFor": [
-        "Despair (V)"
+        {
+          "cardId": 715,
+          "title": "Despair (V)"
+        }
       ]
     },
     {
@@ -17721,7 +17799,10 @@
       "set": "1",
       "side": "Dark",
       "underlyingCardFor": [
-        "Devastator (V)"
+        {
+          "cardId": 6911,
+          "title": "Devastator (V)"
+        }
       ]
     },
     {
@@ -18126,7 +18207,10 @@
       "set": "7",
       "side": "Dark",
       "underlyingCardFor": [
-        "Black Sun Blaster"
+        {
+          "cardId": 6819,
+          "title": "Black Sun Blaster"
+        }
       ]
     },
     {
@@ -18175,7 +18259,10 @@
       "set": "1",
       "side": "Dark",
       "underlyingCardFor": [
-        "Djas Puhr (V)"
+        {
+          "cardId": 742,
+          "title": "Djas Puhr (V)"
+        }
       ]
     },
     {
@@ -18529,9 +18616,18 @@
       "set": "5",
       "side": "Dark",
       "underlyingCardFor": [
-        "Double Back (V)",
-        "Gar Saxon",
-        "He's No Good To Me Dead"
+        {
+          "cardId": 5196,
+          "title": "Double Back (V)"
+        },
+        {
+          "cardId": 6962,
+          "title": "Gar Saxon"
+        },
+        {
+          "cardId": 7050,
+          "title": "He's No Good To Me Dead"
+        }
       ]
     },
     {
@@ -18813,7 +18909,10 @@
       "set": "1",
       "side": "Dark",
       "underlyingCardFor": [
-        "You'll Be Dead!"
+        {
+          "cardId": 4046,
+          "title": "You'll Be Dead!"
+        }
       ]
     },
     {
@@ -19051,7 +19150,10 @@
       "set": "1",
       "side": "Dark",
       "underlyingCardFor": [
-        "I Want That Map / And Now You'll Give It To Me"
+        {
+          "cardId": 6373,
+          "title": "I Want That Map / And Now You'll Give It To Me"
+        }
       ]
     },
     {
@@ -19084,7 +19186,10 @@
       "set": "14",
       "side": "Dark",
       "underlyingCardFor": [
-        "Droid Racks (V)"
+        {
+          "cardId": 5192,
+          "title": "Droid Racks (V)"
+        }
       ]
     },
     {
@@ -19346,7 +19451,10 @@
       "set": "12",
       "side": "Dark",
       "underlyingCardFor": [
-        "Drop! (V)"
+        {
+          "cardId": 7124,
+          "title": "Drop! (V)"
+        }
       ]
     },
     {
@@ -19466,7 +19574,10 @@
       "set": "1",
       "side": "Dark",
       "underlyingCardFor": [
-        "Lt. Poldin Lehuse"
+        {
+          "cardId": 6500,
+          "title": "Lt. Poldin Lehuse"
+        }
       ]
     },
     {
@@ -19850,7 +19961,10 @@
       "set": "3",
       "side": "Dark",
       "underlyingCardFor": [
-        "Sergeant Narthax With E-web Blaster"
+        {
+          "cardId": 6632,
+          "title": "Sergeant Narthax With E-web Blaster"
+        }
       ]
     },
     {
@@ -20399,8 +20513,14 @@
       "set": "9",
       "side": "Dark",
       "underlyingCardFor": [
-        "Emperor Palpatine, Foreseer",
-        "Insidious Prisoner"
+        {
+          "cardId": 5113,
+          "title": "Emperor Palpatine, Foreseer"
+        },
+        {
+          "cardId": 6416,
+          "title": "Insidious Prisoner"
+        }
       ]
     },
     {
@@ -20626,7 +20746,10 @@
       "set": "9",
       "side": "Dark",
       "underlyingCardFor": [
-        "Endor Shield (V)"
+        {
+          "cardId": 4099,
+          "title": "Endor Shield (V)"
+        }
       ]
     },
     {
@@ -21097,7 +21220,10 @@
       "set": "2",
       "side": "Dark",
       "underlyingCardFor": [
-        "Black 6"
+        {
+          "cardId": 5009,
+          "title": "Black 6"
+        }
       ]
     },
     {
@@ -21244,7 +21370,10 @@
       "set": "102",
       "side": "Dark",
       "underlyingCardFor": [
-        "Eriadu (V)"
+        {
+          "cardId": 6961,
+          "title": "Eriadu (V)"
+        }
       ]
     },
     {
@@ -21283,7 +21412,14 @@
       "set": "7",
       "side": "Dark",
       "underlyingCardFor": [
-        "Vanee"
+        {
+          "cardId": 6733,
+          "title": "Vanee"
+        },
+        {
+          "cardId": 7272,
+          "title": "Vanee (AI)"
+        }
       ]
     },
     {
@@ -21323,7 +21459,10 @@
       "set": "12",
       "side": "Dark",
       "underlyingCardFor": [
-        "Establish Control (V)"
+        {
+          "cardId": 4041,
+          "title": "Establish Control (V)"
+        }
       ]
     },
     {
@@ -21397,7 +21536,10 @@
       "set": "8",
       "side": "Dark",
       "underlyingCardFor": [
-        "Establish Secret Base (V)"
+        {
+          "cardId": 5161,
+          "title": "Establish Secret Base (V)"
+        }
       ]
     },
     {
@@ -21624,8 +21766,14 @@
       "set": "4",
       "side": "Dark",
       "underlyingCardFor": [
-        "Finalizer",
-        "Finalizer (AI)"
+        {
+          "cardId": 5106,
+          "title": "Finalizer"
+        },
+        {
+          "cardId": 7011,
+          "title": "Finalizer (AI)"
+        }
       ]
     },
     {
@@ -21662,7 +21810,10 @@
       "set": "4",
       "side": "Dark",
       "underlyingCardFor": [
-        "Scarif: Command Center"
+        {
+          "cardId": 6919,
+          "title": "Scarif: Command Center"
+        }
       ]
     },
     {
@@ -21699,8 +21850,14 @@
       "set": "4",
       "side": "Dark",
       "underlyingCardFor": [
-        "Executor: Control Station (V)",
-        "Invisible Hand: Bridge"
+        {
+          "cardId": 6812,
+          "title": "Executor: Control Station (V)"
+        },
+        {
+          "cardId": 6420,
+          "title": "Invisible Hand: Bridge"
+        }
       ]
     },
     {
@@ -21818,7 +21975,10 @@
       "set": "4",
       "side": "Dark",
       "underlyingCardFor": [
-        "Invisible Hand: Observatory Entrance"
+        {
+          "cardId": 6423,
+          "title": "Invisible Hand: Observatory Entrance"
+        }
       ]
     },
     {
@@ -21920,7 +22080,10 @@
       "set": "1",
       "side": "Dark",
       "underlyingCardFor": [
-        "Imperial Entanglements / No One To Stop Us This Time"
+        {
+          "cardId": 6397,
+          "title": "Imperial Entanglements / No One To Stop Us This Time"
+        }
       ]
     },
     {
@@ -22029,7 +22192,10 @@
       "set": "4",
       "side": "Dark",
       "underlyingCardFor": [
-        "Failure At The Cave (V)"
+        {
+          "cardId": 6801,
+          "title": "Failure At The Cave (V)"
+        }
       ]
     },
     {
