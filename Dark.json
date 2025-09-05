@@ -5914,10 +5914,8 @@
     },
     {
       "cancels": [
-        "Blast The Door",
-        "Kid!",
-        "Into The Garbage Chute",
-        "Flyboy",
+        "Blast The Door, Kid!",
+        "Into The Garbage Chute, Flyboy",
         "Narrow Escape",
         "Rebel Barrier"
       ],
@@ -22298,7 +22296,10 @@
       "set": "13",
       "side": "Dark",
       "underlyingCardFor": [
-        "Fanfare (V)"
+        {
+          "cardId": 4402,
+          "title": "Fanfare (V)"
+        }
       ]
     },
     {
@@ -22357,7 +22358,10 @@
       "set": "11",
       "side": "Dark",
       "underlyingCardFor": [
-        "Fanfare (Tatooine) (V)"
+        {
+          "cardId": 6293,
+          "title": "Fanfare (Tatooine) (V)"
+        }
       ]
     },
     {
@@ -22480,8 +22484,14 @@
       "set": "4",
       "side": "Dark",
       "underlyingCardFor": [
-        "Far More Frightening Than Death",
-        "Xizor's Bounty"
+        {
+          "cardId": 6807,
+          "title": "Far More Frightening Than Death"
+        },
+        {
+          "cardId": 5144,
+          "title": "Xizor's Bounty"
+        }
       ]
     },
     {
@@ -22519,7 +22529,10 @@
       "set": "13",
       "side": "Dark",
       "underlyingCardFor": [
-        "Evil Is Everywhere"
+        {
+          "cardId": 6785,
+          "title": "Evil Is Everywhere"
+        }
       ]
     },
     {
@@ -22556,7 +22569,10 @@
       "set": "1",
       "side": "Dark",
       "underlyingCardFor": [
-        "Tarkin Doctrine"
+        {
+          "cardId": 4045,
+          "title": "Tarkin Doctrine"
+        }
       ]
     },
     {
@@ -23436,7 +23452,10 @@
       "set": "5",
       "side": "Dark",
       "underlyingCardFor": [
-        "Force Field (V)"
+        {
+          "cardId": 4049,
+          "title": "Force Field (V)"
+        }
       ]
     },
     {
@@ -23592,7 +23611,10 @@
       "set": "13",
       "side": "Dark",
       "underlyingCardFor": [
-        "Force Push (V)"
+        {
+          "cardId": 4050,
+          "title": "Force Push (V)"
+        }
       ]
     },
     {
@@ -23729,7 +23751,10 @@
       "set": "7",
       "side": "Dark",
       "underlyingCardFor": [
-        "Starkiller Base: Forest"
+        {
+          "cardId": 5206,
+          "title": "Starkiller Base: Forest"
+        }
       ]
     },
     {
@@ -23924,7 +23949,10 @@
       "set": "1",
       "side": "Dark",
       "underlyingCardFor": [
-        "Stormtrooper Patrol"
+        {
+          "cardId": 5099,
+          "title": "Stormtrooper Patrol"
+        }
       ]
     },
     {
@@ -23960,8 +23988,14 @@
       "set": "3",
       "side": "Dark",
       "underlyingCardFor": [
-        "Dr. Chelli Lona Aphra",
-        "Dr. Chelli Lona Aphra (AI)"
+        {
+          "cardId": 6263,
+          "title": "Dr. Chelli Lona Aphra"
+        },
+        {
+          "cardId": 7008,
+          "title": "Dr. Chelli Lona Aphra (AI)"
+        }
       ]
     },
     {
@@ -23989,7 +24023,10 @@
       "set": "1",
       "side": "Dark",
       "underlyingCardFor": [
-        "Wat Tambor"
+        {
+          "cardId": 6977,
+          "title": "Wat Tambor"
+        }
       ]
     },
     {
@@ -24166,7 +24203,10 @@
       "set": "11",
       "side": "Dark",
       "underlyingCardFor": [
-        "Tragedy Of Plagueis"
+        {
+          "cardId": 6975,
+          "title": "Tragedy Of Plagueis"
+        }
       ]
     },
     {
@@ -24230,7 +24270,10 @@
       "set": "6",
       "side": "Dark",
       "underlyingCardFor": [
-        "Hylobon Enforcer"
+        {
+          "cardId": 6791,
+          "title": "Hylobon Enforcer"
+        }
       ]
     },
     {
@@ -24710,7 +24753,10 @@
       "set": "3",
       "side": "Dark",
       "underlyingCardFor": [
-        "General Veers (V)"
+        {
+          "cardId": 1030,
+          "title": "General Veers (V)"
+        }
       ]
     },
     {
@@ -25040,9 +25086,18 @@
       "set": "10",
       "side": "Dark",
       "underlyingCardFor": [
-        "Grand Admiral Thrawn (V)",
-        "Grand Admiral Thrawn (V) (AI)",
-        "Mitth'raw'nuruodo"
+        {
+          "cardId": 5155,
+          "title": "Grand Admiral Thrawn (V)"
+        },
+        {
+          "cardId": 7122,
+          "title": "Grand Admiral Thrawn (V) (AI)"
+        },
+        {
+          "cardId": 6522,
+          "title": "Mitth'raw'nuruodo"
+        }
       ]
     },
     {
@@ -25157,7 +25212,10 @@
       "set": "1",
       "side": "Dark",
       "underlyingCardFor": [
-        "Grand Moff Tarkin (V)"
+        {
+          "cardId": 4026,
+          "title": "Grand Moff Tarkin (V)"
+        }
       ]
     },
     {
@@ -25234,7 +25292,10 @@
       "set": "1",
       "side": "Dark",
       "underlyingCardFor": [
-        "Coarse And Rough And Irritating"
+        {
+          "cardId": 1276,
+          "title": "Coarse And Rough And Irritating"
+        }
       ]
     },
     {
@@ -25361,7 +25422,10 @@
       "set": "2",
       "side": "Dark",
       "underlyingCardFor": [
-        "Greedo (V)"
+        {
+          "cardId": 5096,
+          "title": "Greedo (V)"
+        }
       ]
     },
     {
@@ -25558,7 +25622,10 @@
       "set": "1",
       "side": "Dark",
       "underlyingCardFor": [
-        "Kylo Ren's Lightsaber"
+        {
+          "cardId": 5109,
+          "title": "Kylo Ren's Lightsaber"
+        }
       ]
     },
     {
@@ -25847,7 +25914,10 @@
       "set": "6",
       "side": "Dark",
       "underlyingCardFor": [
-        "Quiggold"
+        {
+          "cardId": 5156,
+          "title": "Quiggold"
+        }
       ]
     },
     {
@@ -25878,7 +25948,10 @@
       "set": "5",
       "side": "Dark",
       "underlyingCardFor": [
-        "He's All Yours, Bounty Hunter (V)"
+        {
+          "cardId": 6349,
+          "title": "He's All Yours, Bounty Hunter (V)"
+        }
       ]
     },
     {
@@ -25947,8 +26020,14 @@
       "set": "6",
       "side": "Dark",
       "underlyingCardFor": [
-        "Darksaber",
-        "Darksaber (AI)"
+        {
+          "cardId": 6861,
+          "title": "Darksaber"
+        },
+        {
+          "cardId": 7263,
+          "title": "Darksaber (AI)"
+        }
       ]
     },
     {
@@ -26137,7 +26216,10 @@
       "set": "4",
       "side": "Dark",
       "underlyingCardFor": [
-        "Working Much More Closely"
+        {
+          "cardId": 6810,
+          "title": "Working Much More Closely"
+        }
       ]
     },
     {
@@ -26480,8 +26562,14 @@
       "set": "3",
       "side": "Dark",
       "underlyingCardFor": [
-        "Hoth: Ice Plains (5th Marker) (V)",
-        "Hoth: Ice Plains (5th Marker) (V) (AI)"
+        {
+          "cardId": 6356,
+          "title": "Hoth: Ice Plains (5th Marker) (V)"
+        },
+        {
+          "cardId": 7267,
+          "title": "Hoth: Ice Plains (5th Marker) (V) (AI)"
+        }
       ]
     },
     {
@@ -26577,7 +26665,10 @@
       "set": "3",
       "side": "Dark",
       "underlyingCardFor": [
-        "Hoth: North Ridge (4th Marker) (V)"
+        {
+          "cardId": 6964,
+          "title": "Hoth: North Ridge (4th Marker) (V)"
+        }
       ]
     },
     {
@@ -26652,7 +26743,10 @@
       "set": "4",
       "side": "Dark",
       "underlyingCardFor": [
-        "Hound's Tooth (V)"
+        {
+          "cardId": 1186,
+          "title": "Hound's Tooth (V)"
+        }
       ]
     },
     {
@@ -26777,7 +26871,10 @@
       "set": "7",
       "side": "Dark",
       "underlyingCardFor": [
-        "Hunt Down And Destroy The Jedi / Their Fire Has Gone Out Of The Universe (V)"
+        {
+          "cardId": 6821,
+          "title": "Hunt Down And Destroy The Jedi / Their Fire Has Gone Out Of The Universe (V)"
+        }
       ]
     },
     {
@@ -26810,7 +26907,10 @@
       "set": "7",
       "side": "Dark",
       "underlyingCardFor": [
-        "Hunting Party (V)"
+        {
+          "cardId": 5110,
+          "title": "Hunting Party (V)"
+        }
       ]
     },
     {
@@ -27189,7 +27289,10 @@
       "set": "7",
       "side": "Dark",
       "underlyingCardFor": [
-        "I Can't Shake Him! (V)"
+        {
+          "cardId": 4002,
+          "title": "I Can't Shake Him! (V)"
+        }
       ]
     },
     {
@@ -27325,7 +27428,10 @@
       "set": "1",
       "side": "Dark",
       "underlyingCardFor": [
-        "I Have You Now (V)"
+        {
+          "cardId": 7052,
+          "title": "I Have You Now (V)"
+        }
       ]
     },
     {
@@ -27678,8 +27784,14 @@
       "set": "11",
       "side": "Dark",
       "underlyingCardFor": [
-        "Darth Maul, Lone Hunter",
-        "Darth Maul, Lone Hunter (AI)"
+        {
+          "cardId": 5023,
+          "title": "Darth Maul, Lone Hunter"
+        },
+        {
+          "cardId": 7137,
+          "title": "Darth Maul, Lone Hunter (AI)"
+        }
       ]
     },
     {
@@ -27826,7 +27938,10 @@
       "set": "4",
       "side": "Dark",
       "underlyingCardFor": [
-        "IG-88 (V)"
+        {
+          "cardId": 1246,
+          "title": "IG-88 (V)"
+        }
       ]
     },
     {
@@ -28204,7 +28319,10 @@
       "set": "3",
       "side": "Dark",
       "underlyingCardFor": [
-        "Image Of The Dark Lord (V)"
+        {
+          "cardId": 1254,
+          "title": "Image Of The Dark Lord (V)"
+        }
       ]
     },
     {
@@ -28275,9 +28393,18 @@
       "set": "4",
       "side": "Dark",
       "underlyingCardFor": [
-        "Imbalance & Kintan Strider",
-        "Maul",
-        "Maul (Holo AI)"
+        {
+          "cardId": 4051,
+          "title": "Imbalance & Kintan Strider"
+        },
+        {
+          "cardId": 6800,
+          "title": "Maul"
+        },
+        {
+          "cardId": 7273,
+          "title": "Maul (Holo AI)"
+        }
       ]
     },
     {
@@ -28566,13 +28693,15 @@
       "set": "1",
       "side": "Dark",
       "underlyingCardFor": [
-        "F-11D Blaster Rifle"
+        {
+          "cardId": 5108,
+          "title": "F-11D Blaster Rifle"
+        }
       ]
     },
     {
       "cancels": [
-        "Into The Garbage Chute",
-        "Flyboy",
+        "Into The Garbage Chute, Flyboy",
         "Scomp Link Access"
       ],
       "front": {
@@ -28596,7 +28725,10 @@
       "set": "1",
       "side": "Dark",
       "underlyingCardFor": [
-        "Imperial Code Cylinder (V)"
+        {
+          "cardId": 6806,
+          "title": "Imperial Code Cylinder (V)"
+        }
       ]
     },
     {
@@ -28799,7 +28931,10 @@
       "set": "3",
       "side": "Dark",
       "underlyingCardFor": [
-        "Imperial Enforcement"
+        {
+          "cardId": 1271,
+          "title": "Imperial Enforcement"
+        }
       ]
     },
     {
@@ -29306,7 +29441,10 @@
       "set": "3",
       "side": "Dark",
       "underlyingCardFor": [
-        "Thrawn Pincer"
+        {
+          "cardId": 7092,
+          "title": "Thrawn Pincer"
+        }
       ]
     },
     {
@@ -29344,8 +29482,14 @@
       "set": "1",
       "side": "Dark",
       "underlyingCardFor": [
-        "Agent Kallus",
-        "Agent Kallus (AI)"
+        {
+          "cardId": 5019,
+          "title": "Agent Kallus"
+        },
+        {
+          "cardId": 6078,
+          "title": "Agent Kallus (AI)"
+        }
       ]
     },
     {
@@ -29424,7 +29568,10 @@
       "set": "8",
       "side": "Dark",
       "underlyingCardFor": [
-        "Understand Art, Understand A Species"
+        {
+          "cardId": 7096,
+          "title": "Understand Art, Understand A Species"
+        }
       ]
     },
     {
@@ -29544,7 +29691,10 @@
       "set": "7",
       "side": "Dark",
       "underlyingCardFor": [
-        "Imperial Command & In Range"
+        {
+          "cardId": 7041,
+          "title": "Imperial Command & In Range"
+        }
       ]
     },
     {
@@ -29721,8 +29871,14 @@
       "set": "6",
       "side": "Dark",
       "underlyingCardFor": [
-        "A Lawless Time",
-        "A Lawless Time (AI)"
+        {
+          "cardId": 6805,
+          "title": "A Lawless Time"
+        },
+        {
+          "cardId": 7262,
+          "title": "A Lawless Time (AI)"
+        }
       ]
     },
     {
@@ -29794,8 +29950,14 @@
       "set": "9",
       "side": "Dark",
       "underlyingCardFor": [
-        "According To My Design",
-        "Insignificant Rebellion (V)"
+        {
+          "cardId": 4101,
+          "title": "According To My Design"
+        },
+        {
+          "cardId": 6788,
+          "title": "Insignificant Rebellion (V)"
+        }
       ]
     },
     {
@@ -29932,7 +30094,10 @@
       "set": "14",
       "side": "Dark",
       "underlyingCardFor": [
-        "A Stunning Move / A Valuable Hostage"
+        {
+          "cardId": 6064,
+          "title": "A Stunning Move / A Valuable Hostage"
+        }
       ]
     },
     {
@@ -30513,7 +30678,10 @@
       "set": "6",
       "side": "Dark",
       "underlyingCardFor": [
-        "Jabba The Hutt (V)"
+        {
+          "cardId": 1347,
+          "title": "Jabba The Hutt (V)"
+        }
       ]
     },
     {
@@ -30681,7 +30849,10 @@
       "set": "6",
       "side": "Dark",
       "underlyingCardFor": [
-        "Jabba's Haven"
+        {
+          "cardId": 4100,
+          "title": "Jabba's Haven"
+        }
       ]
     },
     {
@@ -30729,7 +30900,10 @@
       "set": "6",
       "side": "Dark",
       "underlyingCardFor": [
-        "Malachor: Sith Temple Upper Chamber"
+        {
+          "cardId": 6816,
+          "title": "Malachor: Sith Temple Upper Chamber"
+        }
       ]
     },
     {
@@ -30768,7 +30942,10 @@
       "set": "6",
       "side": "Dark",
       "underlyingCardFor": [
-        "Lothal: Advanced Projects Laboratory"
+        {
+          "cardId": 7083,
+          "title": "Lothal: Advanced Projects Laboratory"
+        }
       ]
     },
     {
@@ -30811,7 +30988,10 @@
       "set": "6",
       "side": "Dark",
       "underlyingCardFor": [
-        "Malachor: Sith Temple Gateway"
+        {
+          "cardId": 6967,
+          "title": "Malachor: Sith Temple Gateway"
+        }
       ]
     },
     {
@@ -30851,7 +31031,10 @@
       "set": "6",
       "side": "Dark",
       "underlyingCardFor": [
-        "Malachor: Sith Temple Entrance"
+        {
+          "cardId": 6817,
+          "title": "Malachor: Sith Temple Entrance"
+        }
       ]
     },
     {
@@ -31024,7 +31207,10 @@
       "set": "6",
       "side": "Dark",
       "underlyingCardFor": [
-        "Jabba's Sail Barge (V)"
+        {
+          "cardId": 5135,
+          "title": "Jabba's Sail Barge (V)"
+        }
       ]
     },
     {
@@ -31161,7 +31347,10 @@
       "set": "7",
       "side": "Dark",
       "underlyingCardFor": [
-        "Jabba's Space Cruiser (V)"
+        {
+          "cardId": 6438,
+          "title": "Jabba's Space Cruiser (V)"
+        }
       ]
     },
     {
@@ -32329,7 +32518,10 @@
       "set": "1",
       "side": "Dark",
       "underlyingCardFor": [
-        "Lothal"
+        {
+          "cardId": 7082,
+          "title": "Lothal"
+        }
       ]
     },
     {
@@ -32400,7 +32592,10 @@
       "set": "1",
       "side": "Dark",
       "underlyingCardFor": [
-        "Shadow Collective / You Know Who I Answer To"
+        {
+          "cardId": 6822,
+          "title": "Shadow Collective / You Know Who I Answer To"
+        }
       ]
     },
     {
