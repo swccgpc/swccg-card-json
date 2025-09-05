@@ -22298,7 +22298,10 @@
       "set": "13",
       "side": "Dark",
       "underlyingCardFor": [
-        "Fanfare (V)"
+        {
+          "cardId": 4402,
+          "title": "Fanfare (V)"
+        }
       ]
     },
     {
@@ -22357,7 +22360,10 @@
       "set": "11",
       "side": "Dark",
       "underlyingCardFor": [
-        "Fanfare (Tatooine) (V)"
+        {
+          "cardId": 6293,
+          "title": "Fanfare (Tatooine) (V)"
+        }
       ]
     },
     {
@@ -22480,8 +22486,14 @@
       "set": "4",
       "side": "Dark",
       "underlyingCardFor": [
-        "Far More Frightening Than Death",
-        "Xizor's Bounty"
+        {
+          "cardId": 6807,
+          "title": "Far More Frightening Than Death"
+        },
+        {
+          "cardId": 5144,
+          "title": "Xizor's Bounty"
+        }
       ]
     },
     {
@@ -22519,7 +22531,10 @@
       "set": "13",
       "side": "Dark",
       "underlyingCardFor": [
-        "Evil Is Everywhere"
+        {
+          "cardId": 6785,
+          "title": "Evil Is Everywhere"
+        }
       ]
     },
     {
@@ -22556,7 +22571,10 @@
       "set": "1",
       "side": "Dark",
       "underlyingCardFor": [
-        "Tarkin Doctrine"
+        {
+          "cardId": 4045,
+          "title": "Tarkin Doctrine"
+        }
       ]
     },
     {
@@ -23436,7 +23454,10 @@
       "set": "5",
       "side": "Dark",
       "underlyingCardFor": [
-        "Force Field (V)"
+        {
+          "cardId": 4049,
+          "title": "Force Field (V)"
+        }
       ]
     },
     {
@@ -23592,7 +23613,10 @@
       "set": "13",
       "side": "Dark",
       "underlyingCardFor": [
-        "Force Push (V)"
+        {
+          "cardId": 4050,
+          "title": "Force Push (V)"
+        }
       ]
     },
     {
@@ -23729,7 +23753,10 @@
       "set": "7",
       "side": "Dark",
       "underlyingCardFor": [
-        "Starkiller Base: Forest"
+        {
+          "cardId": 5206,
+          "title": "Starkiller Base: Forest"
+        }
       ]
     },
     {
@@ -23924,7 +23951,10 @@
       "set": "1",
       "side": "Dark",
       "underlyingCardFor": [
-        "Stormtrooper Patrol"
+        {
+          "cardId": 5099,
+          "title": "Stormtrooper Patrol"
+        }
       ]
     },
     {
@@ -23960,8 +23990,14 @@
       "set": "3",
       "side": "Dark",
       "underlyingCardFor": [
-        "Dr. Chelli Lona Aphra",
-        "Dr. Chelli Lona Aphra (AI)"
+        {
+          "cardId": 6263,
+          "title": "Dr. Chelli Lona Aphra"
+        },
+        {
+          "cardId": 7008,
+          "title": "Dr. Chelli Lona Aphra (AI)"
+        }
       ]
     },
     {
@@ -23989,7 +24025,10 @@
       "set": "1",
       "side": "Dark",
       "underlyingCardFor": [
-        "Wat Tambor"
+        {
+          "cardId": 6977,
+          "title": "Wat Tambor"
+        }
       ]
     },
     {
@@ -24166,7 +24205,10 @@
       "set": "11",
       "side": "Dark",
       "underlyingCardFor": [
-        "Tragedy Of Plagueis"
+        {
+          "cardId": 6975,
+          "title": "Tragedy Of Plagueis"
+        }
       ]
     },
     {
@@ -24230,7 +24272,10 @@
       "set": "6",
       "side": "Dark",
       "underlyingCardFor": [
-        "Hylobon Enforcer"
+        {
+          "cardId": 6791,
+          "title": "Hylobon Enforcer"
+        }
       ]
     },
     {
@@ -24710,7 +24755,10 @@
       "set": "3",
       "side": "Dark",
       "underlyingCardFor": [
-        "General Veers (V)"
+        {
+          "cardId": 1030,
+          "title": "General Veers (V)"
+        }
       ]
     },
     {
@@ -25040,9 +25088,18 @@
       "set": "10",
       "side": "Dark",
       "underlyingCardFor": [
-        "Grand Admiral Thrawn (V)",
-        "Grand Admiral Thrawn (V) (AI)",
-        "Mitth'raw'nuruodo"
+        {
+          "cardId": 5155,
+          "title": "Grand Admiral Thrawn (V)"
+        },
+        {
+          "cardId": 7122,
+          "title": "Grand Admiral Thrawn (V) (AI)"
+        },
+        {
+          "cardId": 6522,
+          "title": "Mitth'raw'nuruodo"
+        }
       ]
     },
     {
@@ -25157,7 +25214,10 @@
       "set": "1",
       "side": "Dark",
       "underlyingCardFor": [
-        "Grand Moff Tarkin (V)"
+        {
+          "cardId": 4026,
+          "title": "Grand Moff Tarkin (V)"
+        }
       ]
     },
     {
@@ -25234,7 +25294,10 @@
       "set": "1",
       "side": "Dark",
       "underlyingCardFor": [
-        "Coarse And Rough And Irritating"
+        {
+          "cardId": 1276,
+          "title": "Coarse And Rough And Irritating"
+        }
       ]
     },
     {
@@ -25361,7 +25424,10 @@
       "set": "2",
       "side": "Dark",
       "underlyingCardFor": [
-        "Greedo (V)"
+        {
+          "cardId": 5096,
+          "title": "Greedo (V)"
+        }
       ]
     },
     {
@@ -25558,7 +25624,10 @@
       "set": "1",
       "side": "Dark",
       "underlyingCardFor": [
-        "Kylo Ren's Lightsaber"
+        {
+          "cardId": 5109,
+          "title": "Kylo Ren's Lightsaber"
+        }
       ]
     },
     {
