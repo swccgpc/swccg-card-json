@@ -32674,7 +32674,10 @@
       "set": "7",
       "side": "Dark",
       "underlyingCardFor": [
-        "Bala-Tik"
+        {
+          "cardId": 6112,
+          "title": "Bala-Tik"
+        }
       ]
     },
     {
@@ -32740,7 +32743,10 @@
       "set": "1",
       "side": "Dark",
       "underlyingCardFor": [
-        "Dryden Vos"
+        {
+          "cardId": 6790,
+          "title": "Dryden Vos"
+        }
       ]
     },
     {
@@ -32784,7 +32790,10 @@
       "set": "10",
       "side": "Dark",
       "underlyingCardFor": [
-        "Kir Kanos (V)"
+        {
+          "cardId": 5189,
+          "title": "Kir Kanos (V)"
+        }
       ]
     },
     {
@@ -32982,7 +32991,10 @@
       "set": "4",
       "side": "Dark",
       "underlyingCardFor": [
-        "Knowledge And Defense (V)"
+        {
+          "cardId": 4042,
+          "title": "Knowledge And Defense (V)"
+        }
       ]
     },
     {
@@ -33088,7 +33100,10 @@
       "set": "2",
       "side": "Dark",
       "underlyingCardFor": [
-        "Qi'ra, Top Lieutenant"
+        {
+          "cardId": 6971,
+          "title": "Qi'ra, Top Lieutenant"
+        }
       ]
     },
     {
@@ -33210,7 +33225,10 @@
       "set": "7",
       "side": "Dark",
       "underlyingCardFor": [
-        "Kuat Drive Yards (V)"
+        {
+          "cardId": 1459,
+          "title": "Kuat Drive Yards (V)"
+        }
       ]
     },
     {
@@ -33588,7 +33606,10 @@
       "set": "1",
       "side": "Dark",
       "underlyingCardFor": [
-        "Burg"
+        {
+          "cardId": 6957,
+          "title": "Burg"
+        }
       ]
     },
     {
@@ -33670,7 +33691,10 @@
       "set": "8",
       "side": "Dark",
       "underlyingCardFor": [
-        "Kylo Ren's Command Shuttle"
+        {
+          "cardId": 5107,
+          "title": "Kylo Ren's Command Shuttle"
+        }
       ]
     },
     {
@@ -33793,7 +33817,10 @@
       "set": "5",
       "side": "Dark",
       "underlyingCardFor": [
-        "Lando Calrissian, Vader's Broker"
+        {
+          "cardId": 6965,
+          "title": "Lando Calrissian, Vader's Broker"
+        }
       ]
     },
     {
@@ -33821,8 +33848,14 @@
       "set": "4",
       "side": "Dark",
       "underlyingCardFor": [
-        "Jango Fett",
-        "Jango Fett (AI)"
+        {
+          "cardId": 4098,
+          "title": "Jango Fett"
+        },
+        {
+          "cardId": 7013,
+          "title": "Jango Fett (AI)"
+        }
       ]
     },
     {
@@ -34159,8 +34192,14 @@
       "set": "5",
       "side": "Dark",
       "underlyingCardFor": [
-        "Kylo Ren With Lightsaber",
-        "Kylo Ren With Lightsaber (AI)"
+        {
+          "cardId": 6472,
+          "title": "Kylo Ren With Lightsaber"
+        },
+        {
+          "cardId": 7015,
+          "title": "Kylo Ren With Lightsaber (AI)"
+        }
       ]
     },
     {
@@ -34289,7 +34328,10 @@
       "set": "5",
       "side": "Dark",
       "underlyingCardFor": [
-        "Ensign Eli Vanto"
+        {
+          "cardId": 7077,
+          "title": "Ensign Eli Vanto"
+        }
       ]
     },
     {
@@ -34402,8 +34444,14 @@
       "set": "9",
       "side": "Dark",
       "underlyingCardFor": [
-        "DS-61-5",
-        "DS-61-5 (AI)"
+        {
+          "cardId": 4025,
+          "title": "DS-61-5"
+        },
+        {
+          "cardId": 7010,
+          "title": "DS-61-5 (AI)"
+        }
       ]
     },
     {
@@ -34638,7 +34686,10 @@
       "set": "1",
       "side": "Dark",
       "underlyingCardFor": [
-        "Lieutenant Dopheld Mitaka"
+        {
+          "cardId": 5186,
+          "title": "Lieutenant Dopheld Mitaka"
+        }
       ]
     },
     {
@@ -34678,7 +34729,10 @@
       "set": "4",
       "side": "Dark",
       "underlyingCardFor": [
-        "Lieutenant Venka (V)"
+        {
+          "cardId": 6491,
+          "title": "Lieutenant Venka (V)"
+        }
       ]
     },
     {
@@ -34794,9 +34848,18 @@
       "set": "1",
       "side": "Dark",
       "underlyingCardFor": [
-        "B2 Battle Droid",
-        "B2 Battle Droid (AI)",
-        "Rise Of The Sith"
+        {
+          "cardId": 5090,
+          "title": "B2 Battle Droid"
+        },
+        {
+          "cardId": 7134,
+          "title": "B2 Battle Droid (AI)"
+        },
+        {
+          "cardId": 6973,
+          "title": "Rise Of The Sith"
+        }
       ]
     },
     {
@@ -34975,8 +35038,14 @@
       "set": "1",
       "side": "Dark",
       "underlyingCardFor": [
-        "Droideka",
-        "Droideka (AI)"
+        {
+          "cardId": 4024,
+          "title": "Droideka"
+        },
+        {
+          "cardId": 7009,
+          "title": "Droideka (AI)"
+        }
       ]
     },
     {
@@ -35049,7 +35118,10 @@
       "set": "12",
       "side": "Dark",
       "underlyingCardFor": [
-        "Vote Of No Confidence"
+        {
+          "cardId": 4408,
+          "title": "Vote Of No Confidence"
+        }
       ]
     },
     {
@@ -35625,7 +35697,10 @@
       "set": "2",
       "side": "Dark",
       "underlyingCardFor": [
-        "Lt. Pol Treidum (V)"
+        {
+          "cardId": 4097,
+          "title": "Lt. Pol Treidum (V)"
+        }
       ]
     },
     {
@@ -36199,7 +36274,10 @@
       "set": "9",
       "side": "Dark",
       "underlyingCardFor": [
-        "Death Trooper"
+        {
+          "cardId": 6238,
+          "title": "Death Trooper"
+        }
       ]
     },
     {
@@ -36240,7 +36318,10 @@
       "set": "9",
       "side": "Dark",
       "underlyingCardFor": [
-        "Maarek Stele, The Emperor's Reach"
+        {
+          "cardId": 4028,
+          "title": "Maarek Stele, The Emperor's Reach"
+        }
       ]
     },
     {
@@ -36278,8 +36359,14 @@
       "set": "7",
       "side": "Dark",
       "underlyingCardFor": [
-        "Savage Opress",
-        "Savage Opress (AI)"
+        {
+          "cardId": 5157,
+          "title": "Savage Opress"
+        },
+        {
+          "cardId": 7017,
+          "title": "Savage Opress (AI)"
+        }
       ]
     },
     {
@@ -36353,7 +36440,10 @@
       "set": "12",
       "side": "Dark",
       "underlyingCardFor": [
-        "Malastare (V)"
+        {
+          "cardId": 7053,
+          "title": "Malastare (V)"
+        }
       ]
     },
     {
@@ -36594,7 +36684,10 @@
       "set": "110",
       "side": "Dark",
       "underlyingCardFor": [
-        "Mara Jade With Lightsaber"
+        {
+          "cardId": 4029,
+          "title": "Mara Jade With Lightsaber"
+        }
       ]
     },
     {
@@ -36753,7 +36846,10 @@
       "set": "7",
       "side": "Dark",
       "underlyingCardFor": [
-        "Grievous' Gambit"
+        {
+          "cardId": 7080,
+          "title": "Grievous' Gambit"
+        }
       ]
     },
     {
@@ -36967,7 +37063,10 @@
       "set": "11",
       "side": "Dark",
       "underlyingCardFor": [
-        "Lord Maul With Lightsaber"
+        {
+          "cardId": 5187,
+          "title": "Lord Maul With Lightsaber"
+        }
       ]
     },
     {
@@ -37447,7 +37546,10 @@
       "set": "9",
       "side": "Dark",
       "underlyingCardFor": [
-        "Emperor's Orders"
+        {
+          "cardId": 6899,
+          "title": "Emperor's Orders"
+        }
       ]
     },
     {
@@ -37602,7 +37704,10 @@
       "set": "1",
       "side": "Dark",
       "underlyingCardFor": [
-        "Moment Of Triumph (V)"
+        {
+          "cardId": 6968,
+          "title": "Moment Of Triumph (V)"
+        }
       ]
     },
     {
@@ -37718,7 +37823,10 @@
       "set": "6",
       "side": "Dark",
       "underlyingCardFor": [
-        "Crimson Dawn Blaster"
+        {
+          "cardId": 6820,
+          "title": "Crimson Dawn Blaster"
+        }
       ]
     },
     {
@@ -38328,7 +38436,10 @@
       "set": "9",
       "side": "Dark",
       "underlyingCardFor": [
-        "Myn Kyneugh (V)"
+        {
+          "cardId": 6536,
+          "title": "Myn Kyneugh (V)"
+        }
       ]
     },
     {
@@ -38484,7 +38595,10 @@
       "set": "12",
       "side": "Dark",
       "underlyingCardFor": [
-        "Naboo (V)"
+        {
+          "cardId": 6913,
+          "title": "Naboo (V)"
+        }
       ]
     },
     {
@@ -39387,7 +39501,10 @@
       "set": "2",
       "side": "Dark",
       "underlyingCardFor": [
-        "Ng'ok War Beast"
+        {
+          "cardId": 1689,
+          "title": "Ng'ok War Beast"
+        }
       ]
     },
     {
@@ -39466,7 +39583,10 @@
       "set": "11",
       "side": "Dark",
       "underlyingCardFor": [
-        "Ni Chuba Na?? (V)"
+        {
+          "cardId": 7054,
+          "title": "Ni Chuba Na?? (V)"
+        }
       ]
     },
     {
@@ -39669,7 +39789,10 @@
       "set": "112",
       "side": "Dark",
       "underlyingCardFor": [
-        "No Escape (V)"
+        {
+          "cardId": 7088,
+          "title": "No Escape (V)"
+        }
       ]
     },
     {
@@ -39881,7 +40004,10 @@
       "set": "12",
       "side": "Dark",
       "underlyingCardFor": [
-        "Nute Gunray (V)"
+        {
+          "cardId": 6547,
+          "title": "Nute Gunray (V)"
+        }
       ]
     },
     {
@@ -40059,7 +40185,10 @@
       "set": "1",
       "side": "Dark",
       "underlyingCardFor": [
-        "Observation Holocam (V)"
+        {
+          "cardId": 7089,
+          "title": "Observation Holocam (V)"
+        }
       ]
     },
     {
@@ -40145,7 +40274,10 @@
       "set": "5",
       "side": "Dark",
       "underlyingCardFor": [
-        "Seventh Sister"
+        {
+          "cardId": 6799,
+          "title": "Seventh Sister"
+        }
       ]
     },
     {
@@ -40188,7 +40320,10 @@
       "set": "5",
       "side": "Dark",
       "underlyingCardFor": [
-        "Eighth Brother"
+        {
+          "cardId": 6793,
+          "title": "Eighth Brother"
+        }
       ]
     },
     {
@@ -40274,7 +40409,10 @@
       "set": "2",
       "side": "Dark",
       "underlyingCardFor": [
-        "Krennic, Death Star Commandant"
+        {
+          "cardId": 6470,
+          "title": "Krennic, Death Star Commandant"
+        }
       ]
     },
     {
@@ -40532,7 +40670,10 @@
       "set": "9",
       "side": "Dark",
       "underlyingCardFor": [
-        "Colonel Jendon In Onyx 1"
+        {
+          "cardId": 4057,
+          "title": "Colonel Jendon In Onyx 1"
+        }
       ]
     },
     {
@@ -40578,7 +40719,10 @@
       "set": "9",
       "side": "Dark",
       "underlyingCardFor": [
-        "Onyx 2 (V)"
+        {
+          "cardId": 4059,
+          "title": "Onyx 2 (V)"
+        }
       ]
     },
     {
@@ -40660,7 +40804,10 @@
       "set": "2",
       "side": "Dark",
       "underlyingCardFor": [
-        "Oo-ta Goo-ta, Solo? (V)"
+        {
+          "cardId": 6560,
+          "title": "Oo-ta Goo-ta, Solo? (V)"
+        }
       ]
     },
     {
@@ -40839,7 +40986,10 @@
       "set": "9",
       "side": "Dark",
       "underlyingCardFor": [
-        "Operational As Planned (V)"
+        {
+          "cardId": 5197,
+          "title": "Operational As Planned (V)"
+        }
       ]
     },
     {
@@ -40935,7 +41085,10 @@
       "set": "7",
       "side": "Dark",
       "underlyingCardFor": [
-        "Seal Off The Bridge"
+        {
+          "cardId": 7042,
+          "title": "Seal Off The Bridge"
+        }
       ]
     },
     {
@@ -41125,8 +41278,14 @@
       "set": "6",
       "side": "Dark",
       "underlyingCardFor": [
-        "Aemon Gremm With Percussive Cannon",
-        "Ortugg (V)"
+        {
+          "cardId": 6792,
+          "title": "Aemon Gremm With Percussive Cannon"
+        },
+        {
+          "cardId": 5025,
+          "title": "Ortugg (V)"
+        }
       ]
     },
     {
@@ -41367,7 +41526,10 @@
       "set": "3",
       "side": "Dark",
       "underlyingCardFor": [
-        "Captain Peavey"
+        {
+          "cardId": 5183,
+          "title": "Captain Peavey"
+        }
       ]
     },
     {
@@ -41509,7 +41671,10 @@
       "set": "9",
       "side": "Dark",
       "underlyingCardFor": [
-        "Overseeing It Personally (V)"
+        {
+          "cardId": 5120,
+          "title": "Overseeing It Personally (V)"
+        }
       ]
     },
     {
@@ -41762,7 +41927,10 @@
       "set": "12",
       "side": "Dark",
       "underlyingCardFor": [
-        "Passel Argente (V)"
+        {
+          "cardId": 6970,
+          "title": "Passel Argente (V)"
+        }
       ]
     },
     {
@@ -42098,7 +42266,10 @@
       "set": "5",
       "side": "Dark",
       "underlyingCardFor": [
-        "Point Man (V)"
+        {
+          "cardId": 5122,
+          "title": "Point Man (V)"
+        }
       ]
     },
     {
@@ -42177,7 +42348,10 @@
       "set": "1",
       "side": "Dark",
       "underlyingCardFor": [
-        "Ponda Baba (V)"
+        {
+          "cardId": 4027,
+          "title": "Ponda Baba (V)"
+        }
       ]
     },
     {
@@ -42323,7 +42497,10 @@
       "set": "6",
       "side": "Dark",
       "underlyingCardFor": [
-        "Pote Snitkin (V)"
+        {
+          "cardId": 5006,
+          "title": "Pote Snitkin (V)"
+        }
       ]
     },
     {
@@ -42515,7 +42692,10 @@
       "set": "13",
       "side": "Dark",
       "underlyingCardFor": [
-        "Prepare For A Surface Attack (V)"
+        {
+          "cardId": 6572,
+          "title": "Prepare For A Surface Attack (V)"
+        }
       ]
     },
     {
@@ -42689,8 +42869,14 @@
       "set": "7",
       "side": "Dark",
       "underlyingCardFor": [
-        "Allegiant General Pryde",
-        "Pride Of The Empire (V)"
+        {
+          "cardId": 6782,
+          "title": "Allegiant General Pryde"
+        },
+        {
+          "cardId": 6575,
+          "title": "Pride Of The Empire (V)"
+        }
       ]
     },
     {
@@ -43040,7 +43226,10 @@
       "set": "5",
       "side": "Dark",
       "underlyingCardFor": [
-        "Projective Telepathy (V)"
+        {
+          "cardId": 6915,
+          "title": "Projective Telepathy (V)"
+        }
       ]
     },
     {
@@ -43163,7 +43352,10 @@
       "set": "4",
       "side": "Dark",
       "underlyingCardFor": [
-        "Punishing One (V)"
+        {
+          "cardId": 5160,
+          "title": "Punishing One (V)"
+        }
       ]
     },
     {
@@ -43380,7 +43572,10 @@
       "set": "11",
       "side": "Dark",
       "underlyingCardFor": [
-        "Quietly Observing (V)"
+        {
+          "cardId": 6585,
+          "title": "Quietly Observing (V)"
+        }
       ]
     },
     {
@@ -43654,7 +43849,10 @@
       "set": "1",
       "side": "Dark",
       "underlyingCardFor": [
-        "Ninth Sister"
+        {
+          "cardId": 6797,
+          "title": "Ninth Sister"
+        }
       ]
     },
     {
