@@ -43894,7 +43894,10 @@
       "set": "2",
       "side": "Dark",
       "underlyingCardFor": [
-        "Fifth Brother"
+        {
+          "cardId": 6795,
+          "title": "Fifth Brother"
+        }
       ]
     },
     {
@@ -44036,9 +44039,18 @@
       "set": "7",
       "side": "Dark",
       "underlyingCardFor": [
-        "General Grievous",
-        "General Grievous (AI)",
-        "General Grievous (Holo AI)"
+        {
+          "cardId": 5024,
+          "title": "General Grievous"
+        },
+        {
+          "cardId": 6322,
+          "title": "General Grievous (AI)"
+        },
+        {
+          "cardId": 6321,
+          "title": "General Grievous (Holo AI)"
+        }
       ]
     },
     {
@@ -44071,8 +44083,14 @@
       "set": "2",
       "side": "Dark",
       "underlyingCardFor": [
-        "Kijimi",
-        "Ralltiir (V)"
+        {
+          "cardId": 6857,
+          "title": "Kijimi"
+        },
+        {
+          "cardId": 7125,
+          "title": "Ralltiir (V)"
+        }
       ]
     },
     {
@@ -44110,10 +44128,7 @@
       ],
       "rarity": "R",
       "set": "7",
-      "side": "Dark",
-      "underlyingCardFor": [
-        "Ralltiir Operations / In The Hands Of The Empire (V)"
-      ]
+      "side": "Dark"
     },
     {
       "front": {
@@ -44246,7 +44261,10 @@
       "set": "1",
       "side": "Dark",
       "underlyingCardFor": [
-        "Death Star Reactor Terminal"
+        {
+          "cardId": 6233,
+          "title": "Death Star Reactor Terminal"
+        }
       ]
     },
     {
@@ -44326,7 +44344,10 @@
       "set": "6",
       "side": "Dark",
       "underlyingCardFor": [
-        "Ree-Yees (V)"
+        {
+          "cardId": 6596,
+          "title": "Ree-Yees (V)"
+        }
       ]
     },
     {
@@ -44408,7 +44429,10 @@
       "set": "2",
       "side": "Dark",
       "underlyingCardFor": [
-        "Unkar Plutt"
+        {
+          "cardId": 7097,
+          "title": "Unkar Plutt"
+        }
       ]
     },
     {
@@ -44465,7 +44489,10 @@
       "set": "7",
       "side": "Dark",
       "underlyingCardFor": [
-        "There Are Many Hunting You Now"
+        {
+          "cardId": 6803,
+          "title": "There Are Many Hunting You Now"
+        }
       ]
     },
     {
@@ -44669,7 +44696,10 @@
       "set": "6",
       "side": "Dark",
       "underlyingCardFor": [
-        "Jabba's Trophies"
+        {
+          "cardId": 5007,
+          "title": "Jabba's Trophies"
+        }
       ]
     },
     {
@@ -44894,7 +44924,10 @@
       "set": "9",
       "side": "Dark",
       "underlyingCardFor": [
-        "The First Order Was Just The Beginning"
+        {
+          "cardId": 6854,
+          "title": "The First Order Was Just The Beginning"
+        }
       ]
     },
     {
@@ -45012,7 +45045,10 @@
       "set": "2",
       "side": "Dark",
       "underlyingCardFor": [
-        "Zam Wesell"
+        {
+          "cardId": 5100,
+          "title": "Zam Wesell"
+        }
       ]
     },
     {
@@ -45052,7 +45088,10 @@
       "set": "4",
       "side": "Dark",
       "underlyingCardFor": [
-        "Planetary Rings"
+        {
+          "cardId": 6802,
+          "title": "Planetary Rings"
+        }
       ]
     },
     {
@@ -45580,7 +45619,10 @@
       "set": "9",
       "side": "Dark",
       "underlyingCardFor": [
-        "Third Sister"
+        {
+          "cardId": 7126,
+          "title": "Third Sister"
+        }
       ]
     },
     {
@@ -45662,8 +45704,14 @@
       "set": "7",
       "side": "Dark",
       "underlyingCardFor": [
-        "A Trophy Sacrificed",
-        "Lana Dobreed & Sacrifice"
+        {
+          "cardId": 5121,
+          "title": "A Trophy Sacrificed"
+        },
+        {
+          "cardId": 6478,
+          "title": "Lana Dobreed & Sacrifice"
+        }
       ]
     },
     {
@@ -46096,7 +46144,10 @@
       "set": "9",
       "side": "Dark",
       "underlyingCardFor": [
-        "Sidious' Lightsaber"
+        {
+          "cardId": 6974,
+          "title": "Sidious' Lightsaber"
+        }
       ]
     },
     {
@@ -46473,7 +46524,10 @@
       "set": "9",
       "side": "Dark",
       "underlyingCardFor": [
-        "First Order Special Forces TIE"
+        {
+          "cardId": 6300,
+          "title": "First Order Special Forces TIE"
+        }
       ]
     },
     {
@@ -46548,7 +46602,10 @@
       "set": "11",
       "side": "Dark",
       "underlyingCardFor": [
-        "Sebulba (V)"
+        {
+          "cardId": 6622,
+          "title": "Sebulba (V)"
+        }
       ]
     },
     {
@@ -46583,7 +46640,10 @@
       "set": "11",
       "side": "Dark",
       "underlyingCardFor": [
-        "Sebulba (V) (AI)"
+        {
+          "cardId": 6624,
+          "title": "Sebulba (V) (AI)"
+        }
       ]
     },
     {
@@ -46751,7 +46811,10 @@
       "set": "7",
       "side": "Dark",
       "underlyingCardFor": [
-        "A Great Tactician Creates Plans / The Result Is Often Resentment"
+        {
+          "cardId": 7073,
+          "title": "A Great Tactician Creates Plans / The Result Is Often Resentment"
+        }
       ]
     },
     {
@@ -46834,7 +46897,10 @@
       "set": "8",
       "side": "Dark",
       "underlyingCardFor": [
-        "Security Precautions (V)"
+        {
+          "cardId": 5162,
+          "title": "Security Precautions (V)"
+        }
       ]
     },
     {
@@ -47130,7 +47196,10 @@
       "set": "7",
       "side": "Dark",
       "underlyingCardFor": [
-        "Falleen's Fist"
+        {
+          "cardId": 5032,
+          "title": "Falleen's Fist"
+        }
       ]
     },
     {
@@ -47986,7 +48055,10 @@
       "set": "4",
       "side": "Dark",
       "underlyingCardFor": [
-        "An Effective Demonstration"
+        {
+          "cardId": 6953,
+          "title": "An Effective Demonstration"
+        }
       ]
     },
     {
@@ -48187,7 +48259,10 @@
       "set": "3",
       "side": "Dark",
       "underlyingCardFor": [
-        "Silence Is Golden (V)"
+        {
+          "cardId": 6642,
+          "title": "Silence Is Golden (V)"
+        }
       ]
     },
     {
@@ -48261,7 +48336,10 @@
       "set": "9",
       "side": "Dark",
       "underlyingCardFor": [
-        "Sim Aloo (V)"
+        {
+          "cardId": 5115,
+          "title": "Sim Aloo (V)"
+        }
       ]
     },
     {
@@ -48367,8 +48445,14 @@
       "set": "11",
       "side": "Dark",
       "underlyingCardFor": [
-        "A Sith Legend",
-        "Sith Fury (V)"
+        {
+          "cardId": 6903,
+          "title": "A Sith Legend"
+        },
+        {
+          "cardId": 4003,
+          "title": "Sith Fury (V)"
+        }
       ]
     },
     {
@@ -48451,7 +48535,10 @@
       "set": "11",
       "side": "Dark",
       "underlyingCardFor": [
-        "DRK-1 (Dark Eye Probe Droid)"
+        {
+          "cardId": 4033,
+          "title": "DRK-1 (Dark Eye Probe Droid)"
+        }
       ]
     },
     {
@@ -48631,8 +48718,14 @@
       "set": "5",
       "side": "Dark",
       "underlyingCardFor": [
-        "Slave I, Symbol Of Fear",
-        "Slave I, Symbol Of Fear (AI)"
+        {
+          "cardId": 4107,
+          "title": "Slave I, Symbol Of Fear"
+        },
+        {
+          "cardId": 6649,
+          "title": "Slave I, Symbol Of Fear (AI)"
+        }
       ]
     },
     {
@@ -48805,7 +48898,10 @@
       "set": "5",
       "side": "Dark",
       "underlyingCardFor": [
-        "Slip Sliding Away (V)"
+        {
+          "cardId": 6786,
+          "title": "Slip Sliding Away (V)"
+        }
       ]
     },
     {
@@ -48835,7 +48931,10 @@
       "set": "8",
       "side": "Dark",
       "underlyingCardFor": [
-        "Sneak Attack (V)"
+        {
+          "cardId": 2289,
+          "title": "Sneak Attack (V)"
+        }
       ]
     },
     {
@@ -48904,7 +49003,10 @@
       "set": "2",
       "side": "Dark",
       "underlyingCardFor": [
-        "Fennec Shand"
+        {
+          "cardId": 7078,
+          "title": "Fennec Shand"
+        }
       ]
     },
     {
@@ -49027,7 +49129,10 @@
       "set": "3",
       "side": "Dark",
       "underlyingCardFor": [
-        "Blizzard 8"
+        {
+          "cardId": 6897,
+          "title": "Blizzard 8"
+        }
       ]
     },
     {
@@ -49126,7 +49231,10 @@
       "set": "9",
       "side": "Dark",
       "underlyingCardFor": [
-        "Something Special Planned For Them (V)"
+        {
+          "cardId": 4044,
+          "title": "Something Special Planned For Them (V)"
+        }
       ]
     },
     {
@@ -49202,7 +49310,10 @@
       "set": "5",
       "side": "Dark",
       "underlyingCardFor": [
-        "Sonic Bombardment (V)"
+        {
+          "cardId": 5198,
+          "title": "Sonic Bombardment (V)"
+        }
       ]
     },
     {
@@ -49312,7 +49423,10 @@
       "set": "7",
       "side": "Dark",
       "underlyingCardFor": [
-        "Lothal: Capital City"
+        {
+          "cardId": 7084,
+          "title": "Lothal: Capital City"
+        }
       ]
     },
     {
