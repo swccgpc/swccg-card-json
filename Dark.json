@@ -49497,9 +49497,18 @@
       "set": "7",
       "side": "Dark",
       "underlyingCardFor": [
-        "First Light: Dryden's Study",
-        "Jedha: Jedha City",
-        "Jedha: Jedha City (AI)"
+        {
+          "cardId": 6814,
+          "title": "First Light: Dryden's Study"
+        },
+        {
+          "cardId": 6444,
+          "title": "Jedha: Jedha City"
+        },
+        {
+          "cardId": 7014,
+          "title": "Jedha: Jedha City (AI)"
+        }
       ]
     },
     {
@@ -49955,7 +49964,10 @@
       "set": "3",
       "side": "Dark",
       "underlyingCardFor": [
-        "Stalker (V)"
+        {
+          "cardId": 2340,
+          "title": "Stalker (V)"
+        }
       ]
     },
     {
@@ -50375,7 +50387,10 @@
       "set": "10",
       "side": "Dark",
       "underlyingCardFor": [
-        "Stinger (V)"
+        {
+          "cardId": 4063,
+          "title": "Stinger (V)"
+        }
       ]
     },
     {
@@ -50487,7 +50502,10 @@
       "set": "1",
       "side": "Dark",
       "underlyingCardFor": [
-        "First Order Stormtrooper"
+        {
+          "cardId": 5093,
+          "title": "First Order Stormtrooper"
+        }
       ]
     },
     {
@@ -50843,8 +50861,14 @@
       "set": "9",
       "side": "Dark",
       "underlyingCardFor": [
-        "Jakku",
-        "Jakku (AI)"
+        {
+          "cardId": 5104,
+          "title": "Jakku"
+        },
+        {
+          "cardId": 7012,
+          "title": "Jakku (AI)"
+        }
       ]
     },
     {
@@ -50876,7 +50900,10 @@
       "set": "1",
       "side": "Dark",
       "underlyingCardFor": [
-        "Twin Suns Of Tatooine / Well Trained In The Jedi Arts"
+        {
+          "cardId": 6716,
+          "title": "Twin Suns Of Tatooine / Well Trained In The Jedi Arts"
+        }
       ]
     },
     {
@@ -50942,7 +50969,10 @@
       "set": "2",
       "side": "Dark",
       "underlyingCardFor": [
-        "Superlaser (V)"
+        {
+          "cardId": 6922,
+          "title": "Superlaser (V)"
+        }
       ]
     },
     {
@@ -51093,7 +51123,10 @@
       "set": "7",
       "side": "Dark",
       "underlyingCardFor": [
-        "Surface Defense (V)"
+        {
+          "cardId": 4017,
+          "title": "Surface Defense (V)"
+        }
       ]
     },
     {
@@ -51287,7 +51320,10 @@
       "set": "7",
       "side": "Dark",
       "underlyingCardFor": [
-        "Xizor's Palace: Sewer"
+        {
+          "cardId": 6769,
+          "title": "Xizor's Palace: Sewer"
+        }
       ]
     },
     {
@@ -51322,7 +51358,10 @@
       "set": "2",
       "side": "Dark",
       "underlyingCardFor": [
-        "Ysanne Isard"
+        {
+          "cardId": 4035,
+          "title": "Ysanne Isard"
+        }
       ]
     },
     {
@@ -51587,7 +51626,10 @@
       "set": "1",
       "side": "Dark",
       "underlyingCardFor": [
-        "BB-9E"
+        {
+          "cardId": 6954,
+          "title": "BB-9E"
+        }
       ]
     },
     {
@@ -51709,7 +51751,10 @@
       "set": "102",
       "side": "Dark",
       "underlyingCardFor": [
-        "Tarkin (V)"
+        {
+          "cardId": 5098,
+          "title": "Tarkin (V)"
+        }
       ]
     },
     {
