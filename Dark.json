@@ -8651,7 +8651,13 @@
       ],
       "rarity": "U",
       "set": "9",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+        {
+          "title": "Major Partagaz",
+          "cardId": 7174
+        }
+      ]
     },
     {
       "front": {
@@ -51870,7 +51876,10 @@
       "set": "7",
       "side": "Dark",
       "underlyingCardFor": [
-        "Tarkin's Bounty (V)"
+        {
+          "cardId": 5193,
+          "title": "Tarkin's Bounty (V)"
+        }
       ]
     },
     {
@@ -52011,7 +52020,10 @@
       "set": "1",
       "side": "Dark",
       "underlyingCardFor": [
-        "Tatooine (V)"
+        {
+          "cardId": 5031,
+          "title": "Tatooine (V)"
+        }
       ]
     },
     {
@@ -52213,7 +52225,10 @@
       "set": "6",
       "side": "Dark",
       "underlyingCardFor": [
-        "Scarif: Beach"
+        {
+          "cardId": 6917,
+          "title": "Scarif: Beach"
+        }
       ]
     },
     {
@@ -52586,7 +52601,10 @@
       "set": "1",
       "side": "Dark",
       "underlyingCardFor": [
-        "Jakku: Tuanul Village"
+        {
+          "cardId": 6873,
+          "title": "Jakku: Tuanul Village"
+        }
       ]
     },
     {
@@ -52707,7 +52725,10 @@
       "set": "11",
       "side": "Dark",
       "underlyingCardFor": [
-        "Tatooine: Mos Espa (V)"
+        {
+          "cardId": 5209,
+          "title": "Tatooine: Mos Espa (V)"
+        }
       ]
     },
     {
@@ -53351,7 +53372,10 @@
       "set": "8",
       "side": "Dark",
       "underlyingCardFor": [
-        "Tempest Scout 3 (V)"
+        {
+          "cardId": 5010,
+          "title": "Tempest Scout 3 (V)"
+        }
       ]
     },
     {
@@ -53736,7 +53760,10 @@
       "set": "4",
       "side": "Dark",
       "underlyingCardFor": [
-        "The Dark Path (V)"
+        {
+          "cardId": 6686,
+          "title": "The Dark Path (V)"
+        }
       ]
     },
     {
@@ -53873,7 +53900,10 @@
       "set": "10",
       "side": "Dark",
       "underlyingCardFor": [
-        "The Emperor (V)"
+        {
+          "cardId": 7091,
+          "title": "The Emperor (V)"
+        }
       ]
     },
     {
@@ -53912,7 +53942,10 @@
       "set": "5",
       "side": "Dark",
       "underlyingCardFor": [
-        "Luke Skywalker, The Emperor's Prize"
+        {
+          "cardId": 6501,
+          "title": "Luke Skywalker, The Emperor's Prize"
+        }
       ]
     },
     {
@@ -54563,8 +54596,14 @@
       "set": "12",
       "side": "Dark",
       "underlyingCardFor": [
-        "Always Two There Are",
-        "They Will Be No Match For You (V)"
+        {
+          "cardId": 6087,
+          "title": "Always Two There Are"
+        },
+        {
+          "cardId": 6698,
+          "title": "They Will Be No Match For You (V)"
+        }
       ]
     },
     {
@@ -54965,13 +55004,7 @@
       ],
       "rarity": "C",
       "set": "4",
-      "side": "Dark",
-      "underlyingCardFor": [
-        {
-          "title": "Major Partagaz",
-          "cardId": 7174
-        }
-      ]
+      "side": "Dark"
     },
     {
       "front": {
@@ -55092,7 +55125,10 @@
       "set": "9",
       "side": "Dark",
       "underlyingCardFor": [
-        "Thunderflare (V)"
+        {
+          "cardId": 7094,
+          "title": "Thunderflare (V)"
+        }
       ]
     },
     {
@@ -55172,7 +55208,10 @@
       "set": "1",
       "side": "Dark",
       "underlyingCardFor": [
-        "Kylo Ren's TIE Silencer"
+        {
+          "cardId": 6473,
+          "title": "Kylo Ren's TIE Silencer"
+        }
       ]
     },
     {
@@ -55254,7 +55293,10 @@
       "set": "4",
       "side": "Dark",
       "underlyingCardFor": [
-        "Mara Jade In VT-49 Decimator"
+        {
+          "cardId": 5210,
+          "title": "Mara Jade In VT-49 Decimator"
+        }
       ]
     },
     {
@@ -55346,7 +55388,10 @@
       "set": "7",
       "side": "Dark",
       "underlyingCardFor": [
-        "Alpha 1"
+        {
+          "cardId": 7048,
+          "title": "Alpha 1"
+        }
       ]
     },
     {
@@ -55478,8 +55523,14 @@
       "set": "1",
       "side": "Dark",
       "underlyingCardFor": [
-        "Bestoon Legacy",
-        "Meson Martinet"
+        {
+          "cardId": 6858,
+          "title": "Bestoon Legacy"
+        },
+        {
+          "cardId": 5159,
+          "title": "Meson Martinet"
+        }
       ]
     },
     {
@@ -55508,7 +55559,10 @@
       "set": "5",
       "side": "Dark",
       "underlyingCardFor": [
-        "TIE Sentry Ships (V)"
+        {
+          "cardId": 4104,
+          "title": "TIE Sentry Ships (V)"
+        }
       ]
     },
     {
@@ -55947,7 +56001,10 @@
       "set": "12",
       "side": "Dark",
       "underlyingCardFor": [
-        "Blockade Support Ship"
+        {
+          "cardId": 4054,
+          "title": "Blockade Support Ship"
+        }
       ]
     },
     {
@@ -56025,7 +56082,10 @@
       "set": "14",
       "side": "Dark",
       "underlyingCardFor": [
-        "Trade Federation Tactics (V)"
+        {
+          "cardId": 6709,
+          "title": "Trade Federation Tactics (V)"
+        }
       ]
     },
     {
@@ -56178,7 +56238,10 @@
       "set": "1",
       "side": "Dark",
       "underlyingCardFor": [
-        "Ochi"
+        {
+          "cardId": 6850,
+          "title": "Ochi"
+        }
       ]
     },
     {
@@ -56500,7 +56563,10 @@
       "set": "3",
       "side": "Dark",
       "underlyingCardFor": [
-        "Turn It Off! Turn It Off! (V)"
+        {
+          "cardId": 4105,
+          "title": "Turn It Off! Turn It Off! (V)"
+        }
       ]
     },
     {
@@ -56567,7 +56633,10 @@
       "set": "12",
       "side": "Dark",
       "underlyingCardFor": [
-        "Tusken Raider With Hunting Rifle"
+        {
+          "cardId": 7095,
+          "title": "Tusken Raider With Hunting Rifle"
+        }
       ]
     },
     {
@@ -56659,9 +56728,18 @@
       "set": "6",
       "side": "Dark",
       "underlyingCardFor": [
-        "The Grand Inquisitor",
-        "The Grand Inquisitor (AI)",
-        "Twi'lek Advisor (V)"
+        {
+          "cardId": 6692,
+          "title": "The Grand Inquisitor"
+        },
+        {
+          "cardId": 7271,
+          "title": "The Grand Inquisitor (AI)"
+        },
+        {
+          "cardId": 6715,
+          "title": "Twi'lek Advisor (V)"
+        }
       ]
     },
     {
@@ -57377,7 +57455,10 @@
       "set": "101",
       "side": "Dark",
       "underlyingCardFor": [
-        "Vader (V)"
+        {
+          "cardId": 7098,
+          "title": "Vader (V)"
+        }
       ]
     },
     {
@@ -57406,7 +57487,10 @@
       "set": "11",
       "side": "Dark",
       "underlyingCardFor": [
-        "Vader's Anger (V)"
+        {
+          "cardId": 6725,
+          "title": "Vader's Anger (V)"
+        }
       ]
     },
     {
@@ -57563,7 +57647,10 @@
       "set": "1",
       "side": "Dark",
       "underlyingCardFor": [
-        "Vader's Custom TIE (V)"
+        {
+          "cardId": 5143,
+          "title": "Vader's Custom TIE (V)"
+        }
       ]
     },
     {
@@ -57643,7 +57730,10 @@
       "set": "1",
       "side": "Dark",
       "underlyingCardFor": [
-        "I Will Finish What You Started"
+        {
+          "cardId": 5195,
+          "title": "I Will Finish What You Started"
+        }
       ]
     },
     {
@@ -57688,7 +57778,10 @@
       "set": "1",
       "side": "Dark",
       "underlyingCardFor": [
-        "Vader's Lightsaber (V)"
+        {
+          "cardId": 7099,
+          "title": "Vader's Lightsaber (V)"
+        }
       ]
     },
     {
@@ -57783,8 +57876,14 @@
       "set": "7",
       "side": "Dark",
       "underlyingCardFor": [
-        "Colonel Jendon In Vader's Personal Shuttle",
-        "Vader's Personal Shuttle (V)"
+        {
+          "cardId": 7149,
+          "title": "Colonel Jendon In Vader's Personal Shuttle"
+        },
+        {
+          "cardId": 4060,
+          "title": "Vader's Personal Shuttle (V)"
+        }
       ]
     },
     {
@@ -57963,7 +58062,10 @@
       "set": "104",
       "side": "Dark",
       "underlyingCardFor": [
-        "Veers (V)"
+        {
+          "cardId": 5142,
+          "title": "Veers (V)"
+        }
       ]
     },
     {
@@ -58081,7 +58183,10 @@
       "set": "6",
       "side": "Dark",
       "underlyingCardFor": [
-        "Velken Tezeri (V)"
+        {
+          "cardId": 5116,
+          "title": "Velken Tezeri (V)"
+        }
       ]
     },
     {
@@ -58170,7 +58275,10 @@
       "set": "7",
       "side": "Dark",
       "underlyingCardFor": [
-        "Vengeance (V)"
+        {
+          "cardId": 6737,
+          "title": "Vengeance (V)"
+        }
       ]
     },
     {
@@ -58333,7 +58441,10 @@
       "set": "10",
       "side": "Dark",
       "underlyingCardFor": [
-        "Vigo (V)"
+        {
+          "cardId": 4038,
+          "title": "Vigo (V)"
+        }
       ]
     },
     {
@@ -58463,7 +58574,10 @@
       "set": "10",
       "side": "Dark",
       "underlyingCardFor": [
-        "Elis In Hinthra"
+        {
+          "cardId": 4058,
+          "title": "Elis In Hinthra"
+        }
       ]
     },
     {
@@ -58550,8 +58664,14 @@
       "set": "4",
       "side": "Dark",
       "underlyingCardFor": [
-        "Shadows Of The Empire",
-        "Visage Of The Emperor (V)"
+        {
+          "cardId": 6638,
+          "title": "Shadows Of The Empire"
+        },
+        {
+          "cardId": 6804,
+          "title": "Visage Of The Emperor (V)"
+        }
       ]
     },
     {
@@ -58732,7 +58852,10 @@
       "set": "7",
       "side": "Dark",
       "underlyingCardFor": [
-        "Wakeelmui (V)"
+        {
+          "cardId": 6818,
+          "title": "Wakeelmui (V)"
+        }
       ]
     },
     {
@@ -59115,7 +59238,10 @@
       "set": "2",
       "side": "Dark",
       "underlyingCardFor": [
-        "FN-2199 (Nines)"
+        {
+          "cardId": 5185,
+          "title": "FN-2199 (Nines)"
+        }
       ]
     },
     {
@@ -59325,8 +59451,14 @@
       "set": "5",
       "side": "Dark",
       "underlyingCardFor": [
-        "Dooku's Lightsaber",
-        "Dooku's Lightsaber (AI)"
+        {
+          "cardId": 4064,
+          "title": "Dooku's Lightsaber"
+        },
+        {
+          "cardId": 7138,
+          "title": "Dooku's Lightsaber (AI)"
+        }
       ]
     },
     {
@@ -59460,7 +59592,10 @@
       "set": "6",
       "side": "Dark",
       "underlyingCardFor": [
-        "Rukh"
+        {
+          "cardId": 6900,
+          "title": "Rukh"
+        }
       ]
     },
     {
@@ -59615,8 +59750,14 @@
       "set": "6",
       "side": "Dark",
       "underlyingCardFor": [
-        "Magistrate Morgan Elsbeth",
-        "Well Guarded (V)"
+        {
+          "cardId": 7087,
+          "title": "Magistrate Morgan Elsbeth"
+        },
+        {
+          "cardId": 7150,
+          "title": "Well Guarded (V)"
+        }
       ]
     },
     {
@@ -59837,7 +59978,10 @@
       "set": "13",
       "side": "Dark",
       "underlyingCardFor": [
-        "Where Are Those Droidekas?! (V)"
+        {
+          "cardId": 5194,
+          "title": "Where Are Those Droidekas?! (V)"
+        }
       ]
     },
     {
@@ -59903,7 +60047,10 @@
       "set": "6",
       "side": "Dark",
       "underlyingCardFor": [
-        "Sidon Ithano"
+        {
+          "cardId": 5158,
+          "title": "Sidon Ithano"
+        }
       ]
     },
     {
@@ -60157,7 +60304,10 @@
       "set": "6",
       "side": "Dark",
       "underlyingCardFor": [
-        "Wooof (V)"
+        {
+          "cardId": 2828,
+          "title": "Wooof (V)"
+        }
       ]
     },
     {
@@ -60607,7 +60757,10 @@
       "set": "1",
       "side": "Dark",
       "underlyingCardFor": [
-        "Xizor's Palace: Uplink Station"
+        {
+          "cardId": 5030,
+          "title": "Xizor's Palace: Uplink Station"
+        }
       ]
     },
     {
@@ -60802,9 +60955,18 @@
       "set": "9",
       "side": "Dark",
       "underlyingCardFor": [
-        "I've Been Searching For You For Some Time",
-        "I've Been Searching For You For Some Time (AI)",
-        "You Cannot Hide Forever (Death Star II) (V)"
+        {
+          "cardId": 6809,
+          "title": "I've Been Searching For You For Some Time"
+        },
+        {
+          "cardId": 7268,
+          "title": "I've Been Searching For You For Some Time (AI)"
+        },
+        {
+          "cardId": 6771,
+          "title": "You Cannot Hide Forever (Death Star II) (V)"
+        }
       ]
     },
     {
@@ -60837,7 +60999,10 @@
       "set": "13",
       "side": "Dark",
       "underlyingCardFor": [
-        "You Cannot Hide Forever (V)"
+        {
+          "cardId": 4400,
+          "title": "You Cannot Hide Forever (V)"
+        }
       ]
     },
     {
@@ -61181,7 +61346,10 @@
       "set": "11",
       "side": "Dark",
       "underlyingCardFor": [
-        "You Swindled Me! (V)"
+        {
+          "cardId": 5199,
+          "title": "You Swindled Me! (V)"
+        }
       ]
     },
     {
@@ -61251,7 +61419,10 @@
       "set": "11",
       "side": "Dark",
       "underlyingCardFor": [
-        "Specter Of The Supreme Leader"
+        {
+          "cardId": 5163,
+          "title": "Specter Of The Supreme Leader"
+        }
       ]
     },
     {
@@ -61550,7 +61721,10 @@
       "set": "6",
       "side": "Dark",
       "underlyingCardFor": [
-        "Cad Bane"
+        {
+          "cardId": 5021,
+          "title": "Cad Bane"
+        }
       ]
     },
     {
@@ -61655,7 +61829,10 @@
       "set": "4",
       "side": "Dark",
       "underlyingCardFor": [
-        "Zuckuss (V)"
+        {
+          "cardId": 7127,
+          "title": "Zuckuss (V)"
+        }
       ]
     },
     {
@@ -68686,13 +68863,7 @@
       ],
       "rarity": "C",
       "set": "221",
-      "side": "Dark",
-      "underlyingCardFor": [
-        {
-          "title": "•Cloud City: Chasm Walkway (V)",
-          "cardId": 7159
-        }
-      ]
+      "side": "Dark"
     },
     {
       "abbr": [
