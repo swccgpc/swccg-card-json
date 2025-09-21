@@ -1053,7 +1053,10 @@
       "set": "2",
       "side": "Light",
       "underlyingCardFor": [
-        "Corellia (V)"
+        {
+          "cardId": 6843,
+          "title": "Corellia (V)"
+        }
       ]
     },
     {
