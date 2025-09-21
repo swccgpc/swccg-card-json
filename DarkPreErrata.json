@@ -708,7 +708,10 @@
       "set": "2",
       "side": "Dark",
       "underlyingCardFor": [
-        "Black 6"
+        {
+          "cardId": 5009,
+          "title": "Black 6"
+        }
       ]
     },
     {
@@ -845,7 +848,10 @@
       "set": "4",
       "side": "Dark",
       "underlyingCardFor": [
-        "Captain Needa (V)"
+        {
+          "cardId": 6958,
+          "title": "Captain Needa (V)"
+        }
       ]
     },
     {
