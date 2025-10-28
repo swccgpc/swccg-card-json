@@ -29188,7 +29188,7 @@
       ],
       "counterpart": "I Don't Like Sand",
       "front": {
-        "destiny": "3",
+        "destiny": "4",
         "gametext": "Deploy on table; shuffle your Reserve Deck, peek at top two cards, and stack them face-up here. During battle, may take a card here into hand to prevent all battle destiny draws from being modified or canceled (each player may draw no more than one battle destiny). (Immune to Alter.)",
         "icons": [
           "Episode I",
@@ -29215,7 +29215,7 @@
         "We Must Accelerate Our Plans",
         "Surface Defense (V)"
       ],
-      "rarity": "C2",
+      "rarity": "U2",
       "rulings": [
         "Preventing destiny draws from being modified even prevents global modifiers such as from the Silence Is Golden (V) and the Senate Objective.",
         "Preventing destiny draws from being modified can be circumvented with a substituted destiny that has been modified <u>before</u> the substitution (e.g. Darklighter Spin on a modified maneuver value, or a senator on Sando Aqua Monster that is already receiving a global modifier from the Senate Objective)."
@@ -30480,7 +30480,8 @@
       "rulings": [
         "Increases the original Force loss amount, for example a Force drain of 1 could be increased to a drain of 6, then finally the damage capped to 2 by Ultimatum.",
         "When increasing the loss from a Force drain, It's Worse is a Force drain modifier and a Force drain bonus. As such, its increase to a Force drain can be entirely eliminated by (for example) Menace Fades, Great Warrior, or The Planet That It's Farthest From.",
-        "Responses to the original Force loss are no longer possible, for example a Force drain that has been increased can no longer be canceled by Control."
+        "Responses to the original Force loss are no longer possible, for example a Force drain that has been increased can no longer be canceled by Control.",
+        "See It Could Be Worse for additional rulings."
       ],
       "set": "1",
       "side": "Dark"
@@ -36573,7 +36574,7 @@
           "Set 0"
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual0-Dark/large/marajadewithlightsaber.gif",
-        "lore": "Ordered to kill Luke Skywalker. Assumed the identity of a dancer named 'Arica' in order to sneak into Jabba's Palace.",
+        "lore": "Ordered to kill Luke Skywalker. Assumed the identity of a dancer named 'Arica' in order to sneak into Jabba's palace.",
         "power": "4",
         "subType": "Alien/Imperial",
         "title": "•Mara Jade With Lightsaber",
@@ -36632,7 +36633,7 @@
           "Premium"
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/EnhancedJabbasPalace-Dark/large/marajadetheemperorshand.gif",
-        "lore": "Spy. Ordered to kill Luke Skywalker. Assumed the identity of a dancer named 'Arica' in order to sneak into Jabba's Palace.",
+        "lore": "Spy. Ordered to kill Luke Skywalker. Assumed the identity of a dancer named 'Arica' in order to sneak into Jabba's palace.",
         "power": "4",
         "subType": "Alien/Imperial",
         "title": "•Mara Jade, The Emperor's Hand",
@@ -37469,7 +37470,7 @@
           "leader"
         ],
         "deploy": "3",
-        "destiny": "1",
+        "destiny": "2",
         "extraText": [
           "Force-Attuned"
         ],
@@ -40557,6 +40558,9 @@
         }
       ],
       "rarity": "PM",
+      "rulings": [
+        "See It's Worse and It Could Be Worse for various rulings."
+      ],
       "set": "10",
       "side": "Dark"
     },
