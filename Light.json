@@ -8036,7 +8036,7 @@
           "spy"
         ],
         "deploy": "4",
-        "destiny": "3",
+        "destiny": "2",
         "forfeit": "5",
         "gametext": "Deploys -1 if a Rebel leader on table. Once per game, may place a character in your Lost Pile out of play to cancel a just drawn weapon or battle destiny here. If just lost, may activate 1 Force. While at opponent's location immune to attrition < 4.",
         "icons": [
@@ -18911,7 +18911,7 @@
       ],
       "counterpart": "Coarse And Rough And Irritating",
       "front": {
-        "destiny": "3",
+        "destiny": "4",
         "gametext": "Deploy on table; shuffle your Reserve Deck, peek at top two cards, and stack them face-up here. During battle, may take a card here into hand to prevent all battle destiny draws from being modified or canceled (each player may draw no more than one battle destiny). (Immune to Alter.)",
         "icons": [
           "Episode I",
@@ -18938,7 +18938,7 @@
         "The Signal",
         "We Wish To Board At Once"
       ],
-      "rarity": "U1",
+      "rarity": "U",
       "rulings": [
         "Preventing destiny draws from being modified even prevents global modifiers such as from the Silence Is Golden (V) and the Senate Objective.",
         "Preventing destiny draws from being modified can be circumvented with a substituted destiny that has been modified <u>before</u> the substitution (e.g. Darklighter Spin on a modified maneuver value, or a senator on Sando Aqua Monster that is already receiving a global modifier from the Senate Objective)."
@@ -23901,7 +23901,8 @@
       ],
       "rarity": "PM",
       "rulings": [
-        "Gravity Shadow targets Han's 3 ability."
+        "Gravity Shadow targets Han's 3 ability.",
+        "Deploy +2 (not +4) from Bad Feeling Have I."
       ],
       "set": "13",
       "side": "Light",
@@ -23964,6 +23965,7 @@
       "rarity": "PM",
       "rulings": [
         "Gravity Shadow targets Han's 3 ability.",
+        "Deploy +2 (not +4) from Bad Feeling Have I.",
         "Cannot be taken into hand with Life Debt."
       ],
       "set": "205",
@@ -27703,6 +27705,11 @@
         }
       ],
       "rarity": "C2",
+      "rulings": [
+        "May be played to reduce battle damage (may use multiple Force to reduce multiple points of battle damage).",
+        "If It's Worse is then played to increase Force loss, this increases battle damage. Damage segment continues normally, with Light still able to forfeit cards to cover battle damage.",
+        "See It's Worse for additional rulings."
+      ],
       "set": "1",
       "side": "Light",
       "underlyingCardFor": [
@@ -31092,7 +31099,7 @@
       "front": {
         "ability": "2",
         "deploy": "4",
-        "destiny": "1",
+        "destiny": "2",
         "forfeit": "3",
         "gametext": "Adds 2 to power of anything he pilots. May move as a 'react' for free. While at opponent's battleground, may not be targeted by opponent's Interrupts and your Force drains here may not be canceled or reduced by opponent.",
         "icons": [
@@ -31118,7 +31125,7 @@
           "set": "209"
         }
       ],
-      "rarity": "U1",
+      "rarity": "C2",
       "set": "209",
       "side": "Light"
     },
@@ -46644,7 +46651,7 @@
           "trooper"
         ],
         "deploy": "4",
-        "destiny": "1",
+        "destiny": "3",
         "forfeit": "5",
         "gametext": "May deploy as a 'react' to a site. Deploys -2 to a site where opponent has more characters than you. Ambush is a Used Interrupt.",
         "icons": [
@@ -75828,7 +75835,8 @@
       ],
       "rarity": "U",
       "rulings": [
-        "All Light Side versions of Ben Solo are Skywalkers (e.g. for Anakin's Lightsaber), while Dark Side versions (Kylo Ren) are not Skywalkers."
+        "All Light Side versions of Ben Solo are Skywalkers (e.g. for Anakin's Lightsaber), while Dark Side versions (Kylo Ren) are not Skywalkers.",
+        "Only a lightsaber that can deploy on Ben may deploy on him from Lost Pile."
       ],
       "set": "224",
       "side": "Light"
