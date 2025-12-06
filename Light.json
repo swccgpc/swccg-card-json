@@ -78069,6 +78069,540 @@
       "rarity": "R1",
       "set": "225",
       "side": "Light"
+    },
+    {
+      "abbr": [
+        "FO"
+      ],
+      "front": {
+        "destiny": "0",
+        "gametext": "If The Hidden Path on table, deploy on table. When deployed, stack three Jedi survivors from Reserve Deck here. During your deploy phase, Jedi survivors here may deploy as if from hand.",
+        "icons": [],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual26-Light/large/fallenorder.gif",
+        "title": "•Fallen Order",
+        "type": "Epic Event",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Fallen Order/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "226_14",
+      "id": 7458,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "226"
+        }
+      ],
+      "rarity": "PM",
+      "set": "226",
+      "side": "Light"
+    },
+    {
+      "abbr": [
+        "JPOC"
+      ],
+      "front": {
+        "darkSideIcons": 0,
+        "destiny": "0",
+        "gametext": "Light: Once per turn, may deploy a lightsaber here from Reserve Deck; reshuffle. Dark: Blank.",
+        "icons": [
+          "Interior",
+          "Planet",
+          "Scomp Link",
+          "Set 26"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual26-Light/large/jabiimpathoperationscenter.gif",
+        "lightSideIcons": 2,
+        "subType": "Site",
+        "title": "•Jabiim: Path Operations Center",
+        "type": "Location",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Jabiim Path Operations Center/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "226_15",
+      "id": 7459,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "226"
+        }
+      ],
+      "rarity": "C",
+      "set": "226",
+      "side": "Light"
+    },
+    {
+      "abbr": [
+        "JSH"
+      ],
+      "front": {
+        "darkSideIcons": 1,
+        "destiny": "0",
+        "gametext": "Light: While a Jedi survivor present, you lose no Force to Visage Of The Emperor. Dark: Once per game, may deploy from Reserve Deck (reshuffle) (or deploy from Lost Pile) Grand Inquisitor here.",
+        "icons": [
+          "Interior",
+          "Exterior",
+          "Planet",
+          "Scomp Link",
+          "Set 26"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual26-Light/large/jabiimstarshiphangar.gif",
+        "lightSideIcons": 2,
+        "subType": "Site",
+        "title": "•Jabiim: Starship Hangar",
+        "type": "Location",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Jabiim Starship Hangar/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "226_16",
+      "id": 7460,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "226"
+        }
+      ],
+      "rarity": "U",
+      "set": "226",
+      "side": "Light"
+    },
+    {
+      "abbr": [
+        "KCH"
+      ],
+      "front": {
+        "darkSideIcons": 0,
+        "destiny": "0",
+        "gametext": "Light: Deploys only as a starting location. Once per game, may take a Wookiee into hand from Reserve Deck; reshuffle. While Wookiee Homestead on table, no Force drains here. Dark: Blank.",
+        "icons": [
+          "Episode I",
+          "Interior",
+          "Planet",
+          "Set 26"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual26-Light/large/kashyyykchewieshut.gif",
+        "lightSideIcons": 2,
+        "subType": "Site",
+        "title": "•Kashyyyk: Chewie's Hut",
+        "type": "Location",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Kashyyyk Chewie's Hut/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "226_17",
+      "id": 7461,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "226"
+        }
+      ],
+      "rarity": "R",
+      "set": "226",
+      "side": "Light"
+    },
+    {
+      "abbr": [
+        "KB"
+      ],
+      "front": {
+        "ability": "7",
+        "deploy": "8",
+        "destiny": "1",
+        "extraText": [
+          "Jedi Master"
+        ],
+        "forfeit": "8",
+        "gametext": "Adds 2 to power of anything he pilots. Adds one battle destiny with Grogu or a Padawan. Any lightsaber may deploy on Beq. Once per game, may deploy a lightsaber on Beq from Lost Pile. Your other characters here are defense value +1 for each lightsaber on Beq. Immune to attrition < 6.",
+        "icons": [
+          "Episode I",
+          "Pilot",
+          "Warrior x2",
+          "Set 26"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual26-Light/large/kelleranbeq.gif",
+        "lore": "Jedi survivor.",
+        "power": "6",
+        "subType": "Jedi Master/Republic",
+        "title": "•Kelleran Beq",
+        "type": "Character",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Kelleran Beq/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "226_18",
+      "id": 7462,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "226"
+        }
+      ],
+      "rarity": "R",
+      "set": "226",
+      "side": "Light"
+    },
+    {
+      "front": {
+        "ability": "7",
+        "deploy": "5",
+        "destiny": "2",
+        "extraText": [
+          "Jedi Master"
+        ],
+        "forfeit": "7",
+        "gametext": "Once per turn, if Wookiee Homestead on table, may place a card from hand on Force Pile to draw bottom card of your Force Pile. Once per game, may deploy a unique (•) forest from Reserve Deck; reshuffle. Immune to Wookiee Strangle and You Are Beaten.",
+        "icons": [
+          "Episode I",
+          "Warrior",
+          "Set 26"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual26-Light/large/kelnacca.gif",
+        "lore": "High Republic. Wookiee.",
+        "power": "5",
+        "subType": "Jedi Master",
+        "title": "•Kelnacca",
+        "type": "Character",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Kelnacca/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "226_19",
+      "id": 7463,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "226"
+        }
+      ],
+      "rarity": "R",
+      "set": "226",
+      "side": "Light"
+    },
+    {
+      "abbr": [
+        "LTAv"
+      ],
+      "front": {
+        "destiny": "4",
+        "gametext": "If your Endor (or Rebel Base) location on table, deploy on table. May deploy Home One or Sullust from Reserve Deck; reshuffle. Home One is deploy = 8 to an [Endor] or [Death Star II] system and its power may not be reduced. Once per game, Home One may move as a 'react' to [Death Star II] Falcon's location (or vice versa). [Immune to Alter.]",
+        "icons": [
+          "Death Star II",
+          "Set 26"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual26-Light/large/launchingtheassault.gif",
+        "lore": "By recruiting the Mon Calamari, a race of master shipwrights, the Rebel starfleet gained capital starships rivaling the dreaded Imperial Star Destroyers.",
+        "title": "•Launching The Assault (V)",
+        "type": "Effect",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Launching The Assault (V)/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "226_20",
+      "id": 7464,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "226"
+        }
+      ],
+      "rarity": "R",
+      "set": "226",
+      "side": "Light"
+    },
+    {
+      "abbr": [
+        "MMV"
+      ],
+      "front": {
+        "darkSideIcons": 1,
+        "destiny": "0",
+        "gametext": "Light: Your miners are power +1 here. Once per game, may deploy Tala Durith here from Reserve Deck; reshuffle. Dark: While Vader or an Inquisitor present, your Force drains here may not be modified.",
+        "icons": [
+          "Exterior",
+          "Planet",
+          "Set 26"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual26-Light/large/mapuzominingvillage.gif",
+        "lightSideIcons": 2,
+        "subType": "Site",
+        "title": "•Mapuzo: Mining Village",
+        "type": "Location",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Mapuzo Mining Village/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "226_21",
+      "id": 7465,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "226"
+        }
+      ],
+      "rarity": "U",
+      "set": "226",
+      "side": "Light"
+    },
+    {
+      "abbr": [
+        "MS"
+      ],
+      "front": {
+        "darkSideIcons": 1,
+        "destiny": "0",
+        "gametext": "Light: The first Jedi you deploy here each turn is immune to Imperial Barrier. Dark: Unless Third Sister here, Force drain -1 here.",
+        "icons": [
+          "Interior",
+          "Planet",
+          "Scomp Link",
+          "Set 26"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual26-Light/large/mapuzosafehouse.gif",
+        "lightSideIcons": 2,
+        "subType": "Site",
+        "title": "•Mapuzo: Safehouse",
+        "type": "Location",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Mapuzo Safehouse/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "226_22",
+      "id": 7466,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "226"
+        }
+      ],
+      "rarity": "U",
+      "set": "226",
+      "side": "Light"
+    },
+    {
+      "abbr": [
+        "MUC"
+      ],
+      "front": {
+        "darkSideIcons": 0,
+        "destiny": "0",
+        "gametext": "Light: During your move phase, Jedi survivors may move from here to a Jabiim site (or to opponent's battleground site). Dark: Blank.",
+        "icons": [
+          "Underground",
+          "Interior",
+          "Planet",
+          "Set 26"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual26-Light/large/mapuzoundergroundcorridor.gif",
+        "lightSideIcons": 1,
+        "subType": "Site",
+        "title": "•Mapuzo: Underground Corridor",
+        "type": "Location",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Mapuzo Underground Corridor/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "226_23",
+      "id": 7467,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "226"
+        }
+      ],
+      "rarity": "C2",
+      "set": "226",
+      "side": "Light"
+    },
+    {
+      "abbr": [
+        "OKJIE",
+        "OWKJIE"
+      ],
+      "front": {
+        "ability": "6",
+        "deploy": "8",
+        "destiny": "1",
+        "extraText": [
+          "Jedi Knight"
+        ],
+        "forfeit": "8",
+        "gametext": "Adds one battle destiny with Maul, Sidious, or Vader. Opponent's characters here are power and forfeit -1. Once per game, may take into hand from Reservek Deck (reshuffle) (or retrieve into hand) Glancing Blow or Help Me Obi-Wan Kenobi. Immune to You Are Beaten and attrition < 6.",
+        "icons": [
+          "Pilot",
+          "Warrior",
+          "Set 26"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual26-Light/large/obiwankenobijediinexile.gif",
+        "lore": "Jedi survivor.",
+        "power": "6",
+        "subType": "Rebel",
+        "title": "•Obi-Wan Kenobi, Jedi In Exile",
+        "type": "Character",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Obi-Wan Kenobi, Jedi In Exile/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "226_24",
+      "id": 7468,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "226"
+        }
+      ],
+      "rarity": "C2",
+      "set": "226",
+      "side": "Light"
+    },
+    {
+      "abbr": [
+        "PM"
+      ],
+      "front": {
+        "ability": "3",
+        "deploy": "2",
+        "destiny": "2",
+        "extraText": [
+          "Force-Attuned"
+        ],
+        "forfeit": "4",
+        "gametext": "While at Starship Graveyard, a Tatooine site, or a docking bay, power +3 and may cancel I've Lost Artoo! or Lateral Damage (or Restraining Bolt here). During your control phase, if at a battleground with Grogu, a Jawa, or a landed starfighter, may retrieve 1 Force.",
+        "icons": [
+          "Set 26"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual26-Light/large/pelimotto.gif",
+        "lore": "Female mechanic and scavenger.",
+        "power": "1",
+        "subType": "Alien",
+        "title": "•Peli Motto",
+        "type": "Character",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Peli Motto/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "226_25",
+      "id": 7469,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "226"
+        }
+      ],
+      "rarity": "U1",
+      "set": "226",
+      "side": "Light"
+    },
+    {
+      "abbr": [
+        "QV"
+      ],
+      "front": {
+        "ability": "7",
+        "deploy": "8",
+        "destiny": "1",
+        "extraText": [
+          "Jedi Master"
+        ],
+        "forfeit": "8",
+        "gametext": "Adds 2 to power of anything he pilots. Adds one battle destiny with Dooku, Grievous, or Ventress. Once per turn, may peek at the top card of a Reserve Deck or subtract 1 from a just drawn weapon destiny here. Dark Approach is a Used Interrupt. Immune to Sniper and attrition < 6 (< 8 if alone).",
+        "icons": [
+          "Pilot",
+          "Warrior",
+          "Set 26"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual26-Light/large/quinlanvos.gif",
+        "lore": "Jedi survivor.",
+        "power": "7",
+        "subType": "Jedi Master",
+        "title": "•Quinlan Vos",
+        "type": "Character",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Quinlan Vos/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "226_26",
+      "id": 7470,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "226"
+        }
+      ],
+      "rarity": "U",
+      "set": "226",
+      "side": "Light"
+    },
+    {
+      "abbr": [
+        "SATB"
+      ],
+      "front": {
+        "destiny": "3",
+        "gametext": "LOST: Relocate Prophecy Of The Force to a site. STARTING: If your starting location was Skywalker Hut, deploy Prophecy Of The Force there, Do, Or Do Not, and Jedi Business. Light Side goes first. Place Interrupt in Reserve Deck.",
+        "icons": [],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual26-Light/large/somethingaboutthisboy.gif",
+        "lore": "'What'd he mean by that?' 'I'll tell you later.'",
+        "subType": "Lost Or Starting",
+        "title": "•Something About This Boy",
+        "type": "Interrupt",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Something About This Boy/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "226_27",
+      "id": 7471,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "226"
+        }
+      ],
+      "rarity": "C",
+      "set": "226",
+      "side": "Light"
+    },
+    {
+      "abbr": [
+        "THP/GAAT"
+      ],
+      "back": {
+        "destiny": "7",
+        "gametext": "The Hidden Path: Deploy Mining Village, Safehouse, Underground Corridor, and Fallen Order. For remainder of game, you may not deploy <> locations or Jedi (except Jedi survivors). Once per turn, may ▼ a Jabiim site or a battleground (except a Kamino, Tatooine, or [Reflections III] location). While this side up, you may not play Nabrun Leids. Your Force drains at Mapuzo sites are -1. Once per turn, may ▼ a holocron. Flip this card if Jedi occupy two non-Mapuzo sites. Gather Allies And Train: While this side up, if your holocron is about to leave table, place it in Used Pile. Your lightsaber Force drain bonuses may not be canceled. Opponent's total battle destiny where they have a character of ability > 4 is -1. During your move phase, may relocate a Jedi between a Jabiim site and a battleground site as a regular move for free. At the end of your turn, opponent loses 1 Force. Flip this card if Jedi do not occupy two sites.",
+        "icons": [
+          "Set 26"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual26-Light/large/gatheralliesandtrain.gif",
+        "title": "The Hidden Path / Gather Allies And Train",
+        "type": "Objective",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/The Hidden Path/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "front": {
+        "destiny": "0",
+        "gametext": "The Hidden Path: Deploy Mining Village, Safehouse, Underground Corridor, and Fallen Order. For remainder of game, you may not deploy <> locations or Jedi (except Jedi survivors). Once per turn, may ▼ a Jabiim site or a battleground (except a Kamino, Tatooine, or [Reflections III] location). While this side up, you may not play Nabrun Leids. Your Force drains at Mapuzo sites are -1. Once per turn, may ▼ a holocron. Flip this card if Jedi occupy two non-Mapuzo sites. Gather Allies And Train: While this side up, if your holocron is about to leave table, place it in Used Pile. Your lightsaber Force drain bonuses may not be canceled. Opponent's total battle destiny where they have a character of ability > 4 is -1. During your move phase, may relocate a Jedi between a Jabiim site and a battleground site as a regular move for free. At the end of your turn, opponent loses 1 Force. Flip this card if Jedi do not occupy two sites.",
+        "icons": [
+          "Set 26"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual26-Light/large/thehiddenpath.gif",
+        "title": "The Hidden Path / Gather Allies And Train",
+        "type": "Objective",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Gather Allies And Train/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "226_28",
+      "id": 7472,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "226"
+        }
+      ],
+      "rarity": "U",
+      "set": "226",
+      "side": "Light"
     }
   ]
 }
