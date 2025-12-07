@@ -27060,7 +27060,7 @@
     {
       "front": {
         "destiny": "6",
-        "gametext": "If opponent just attempted to 'freeze' a character using Carbon- Freezing or All Too Easy, draw destiny. Add character's ability. If total destiny > 7, effect canceled. Character released (if captive) and 'hides' (may not participate in battle) for remainder of turn.",
+        "gametext": "If opponent just attempted to 'freeze' a character using Carbon-Freezing or All Too Easy, draw destiny. Add character's ability. If total destiny > 7, effect canceled. Character released (if captive) and 'hides' (may not participate in battle) for remainder of turn.",
         "icons": [
           "Cloud City"
         ],
@@ -49019,7 +49019,7 @@
         "deploy": "3",
         "destiny": "1",
         "forfeit": "3",
-        "gametext": "Deploys only on Tatooine. Jawa weapons deploy free on R'kik, when firing one, may add up to 3 to the total weapon destiny just drawn. When he playing Dune Sea Sabacc and wins, wins double.",
+        "gametext": "Deploys only on Tatooine. Jawa weapons deploy free on R'kik, when firing one, may add up to 3 to the total weapon destiny just drawn. When he is playing Dune Sea Sabacc and wins, he wins double.",
         "icons": [
           "Warrior",
           "Jabba's Palace"
@@ -69668,6 +69668,9 @@
       "abbr": [
         "TSH"
       ],
+      "combo": [
+        "Something About This Boy"
+      ],
       "front": {
         "darkSideIcons": 0,
         "destiny": "0",
@@ -78187,11 +78190,6 @@
       "abbr": [
         "FO"
       ],
-      "combo": [
-        "Kelleran Beq",
-        "Obi-Wan Kenobi, Jedi In Exile",
-        "Quinlan Vos"
-      ],
       "front": {
         "destiny": "0",
         "gametext": "If The Hidden Path on table, deploy on table. When deployed, stack three Jedi survivors from Reserve Deck here. During your deploy phase, Jedi survivors here may deploy as if from hand. The Light Will Fade: While The Hidden Path on table, Jedi survivors are deploy = 2, power = 3, forfeit = 3, deploy only to Safehouse, move using landspeed for free, and their game text is canceled. But It Is Never Forgotten: If your Jedi survivor was just lost, may stack it here. (Immune to Cold Feet.)",
@@ -78212,6 +78210,11 @@
         {
           "set": "226"
         }
+      ],
+      "pulls": [
+        "Kelleran Beq",
+        "Obi-Wan Kenobi, Jedi In Exile",
+        "Quinlan Vos"
       ],
       "rarity": "PM",
       "rulings": [
@@ -78392,6 +78395,9 @@
           "set": "226"
         }
       ],
+      "pulledBy": [
+        "Fallen Order"
+      ],
       "rarity": "R",
       "rulings": [
         "Beq's text does not cause lightsabers to become matching weapons for him."
@@ -78462,6 +78468,9 @@
       "abbr": [
         "LTAv"
       ],
+      "combo": [
+        "Gold Squadron 1"
+      ],
       "front": {
         "destiny": "4",
         "gametext": "If your Endor (or Rebel Base) location on table, deploy on table. May deploy Home One or Sullust from Reserve Deck; reshuffle. Home One is deploy = 8 to an [Endor] or [Death Star II] system and its power may not be reduced. Once per game, Home One may move as a 'react' to [Death Star II] Falcon's location (or vice versa). [Immune to Alter.]",
@@ -78485,7 +78494,15 @@
           "set": "226"
         }
       ],
+      "pulls": [
+        "Home One",
+        "Sullust"
+      ],
       "rarity": "R",
+      "rulings": [
+        "Home One and Sullust may both be pulled on the same turn (as two separate actions).",
+        "A landed [Death Star II] Falcon may take off from a site as a 'react' to same system as Home One."
+      ],
       "set": "226",
       "side": "Light"
     },
@@ -78519,13 +78536,22 @@
           "set": "226"
         }
       ],
+      "pulledBy": [
+        "The Hidden Path / Gather Allies And Train"
+      ],
       "rarity": "U",
+      "rulings": [
+        "Dark's text prevents modifiers from either player. Vader's Lightsaber will not add to drain, and Projection Of A Skywalker will not subtract from the drain."
+      ],
       "set": "226",
       "side": "Light"
     },
     {
       "abbr": [
         "MS"
+      ],
+      "cancels": [
+        "Imperial Barrier"
       ],
       "front": {
         "darkSideIcons": 1,
@@ -78554,7 +78580,13 @@
           "set": "226"
         }
       ],
+      "pulledBy": [
+        "The Hidden Path / Gather Allies And Train"
+      ],
       "rarity": "U",
+      "rulings": [
+        "Mapuzo's layout requires the Safehouse as the middle site."
+      ],
       "set": "226",
       "side": "Light"
     },
@@ -78589,7 +78621,16 @@
           "set": "226"
         }
       ],
+      "pulledBy": [
+        "The Hidden Path / Gather Allies And Train"
+      ],
       "rarity": "C2",
+      "rulings": [
+        "Mapuzo's layout requires the Underground Corridor be at the end (Safehouse is the middle site).",
+        "This text uses up a Jedi survivor's regular move.",
+        "Multiple Jedi survivors may use the relocate text in the same turn (as separate actions, and may go to different destinations).",
+        "This text is not 'or vice versa' - Jedi survivors cannot use the text to return back to Underground Corridor."
+      ],
       "set": "226",
       "side": "Light"
     },
@@ -78598,15 +78639,21 @@
         "OKJIE",
         "OWKJIE"
       ],
+      "cancels": [
+        "You Are Beaten"
+      ],
       "front": {
         "ability": "6",
+        "characteristics": [
+          "Jedi survivor"
+        ],
         "deploy": "8",
         "destiny": "1",
         "extraText": [
           "Jedi Knight"
         ],
         "forfeit": "8",
-        "gametext": "Adds one battle destiny with Maul, Sidious, or Vader. Opponent's characters here are power and forfeit -1. Once per game, may take into hand from Reservek Deck (reshuffle) (or retrieve into hand) Glancing Blow or Help Me Obi-Wan Kenobi. Immune to You Are Beaten and attrition < 6.",
+        "gametext": "Adds one battle destiny with Maul, Sidious, or Vader. Opponent's characters here are power and forfeit -1. Once per game, may take into hand from Reserve Deck (reshuffle) (or retrieve into hand) Glancing Blow or Help Me Obi-Wan Kenobi. Immune to You Are Beaten and attrition < 6.",
         "icons": [
           "Pilot",
           "Warrior",
@@ -78625,10 +78672,21 @@
       "gempId": "226_24",
       "id": 7468,
       "legacy": false,
+      "matchingWeapon": [
+        "Obi-Wan's Lightsaber",
+        "Uncivilized Blaster"
+      ],
       "printings": [
         {
           "set": "226"
         }
+      ],
+      "pulledBy": [
+        "Fallen Order"
+      ],
+      "pulls": [
+        "Glancing Blow",
+        "Help Me Obi-Wan Kenobi"
       ],
       "rarity": "C2",
       "set": "226",
@@ -78638,8 +78696,23 @@
       "abbr": [
         "PM"
       ],
+      "cancels": [
+        "I've Lost Artoo!",
+        "Lateral Damage",
+        "Restraining Bolt"
+      ],
+      "combo": [
+        "Grogu",
+        "Jakku: Starship Graveyard",
+        "StarSpeeder 3000"
+      ],
       "front": {
         "ability": "3",
+        "characteristics": [
+          "female",
+          "mechanic",
+          "scavenger"
+        ],
         "deploy": "2",
         "destiny": "2",
         "extraText": [
@@ -78669,6 +78742,10 @@
         }
       ],
       "rarity": "U1",
+      "rulings": [
+        "May cancel I've Lost Artoo! and Lateral Damage globally, but may only cancel Restraining Bolt at same location.",
+        "Retrieval works with a Jawa or landed starship belonging to either player."
+      ],
       "set": "226",
       "side": "Light"
     },
@@ -78676,8 +78753,18 @@
       "abbr": [
         "QV"
       ],
+      "cancels": [
+        "Sniper"
+      ],
+      "combo": [
+        "Dark Approach",
+        "Leesub Sirln (V)"
+      ],
       "front": {
         "ability": "7",
+        "characteristics": [
+          "Jedi survivor"
+        ],
         "deploy": "8",
         "destiny": "1",
         "extraText": [
@@ -78708,13 +78795,24 @@
           "set": "226"
         }
       ],
+      "pulledBy": [
+        "Fallen Order"
+      ],
       "rarity": "U",
+      "rulings": [
+        "Cards referring to 'Vos' (e.g. A Lawless Time or Qi'ra) refer only to Dryden Vos. Quinlan Vos' persona name is 'Quinlan'.",
+        "Dark Approach is a Used Interrupt even if used in a battle elsewhere on table.",
+        "If the battle is at Quinlan's location but Quinlan is excluded from the battle, he is inactive and does not make Dark Approach a Used Interrupt."
+      ],
       "set": "226",
       "side": "Light"
     },
     {
       "abbr": [
         "SATB"
+      ],
+      "combo": [
+        "Tatooine: Skywalker Hut"
       ],
       "front": {
         "destiny": "3",
@@ -78737,6 +78835,12 @@
           "set": "226"
         }
       ],
+      "pulls": [
+        "Do, Or Do Not",
+        "Do, Or Do Not & Wise Advice",
+        "Jedi Business",
+        "Prophecy Of The Force"
+      ],
       "rarity": "C",
       "set": "226",
       "side": "Light"
@@ -78745,9 +78849,12 @@
       "abbr": [
         "THP/GAAT"
       ],
+      "combo": [
+        "Jedi Lightsaber (V)"
+      ],
       "back": {
         "destiny": "7",
-        "gametext": "The Hidden Path: Deploy Mining Village, Safehouse, Underground Corridor, and Fallen Order. For remainder of game, you may not deploy <> locations or Jedi (except Jedi survivors). Once per turn, may ▼ a Jabiim site or a battleground (except a Kamino, Tatooine, or [Reflections III] location). While this side up, you may not play Nabrun Leids. Your Force drains at Mapuzo sites are -1. Once per turn, may ▼ a holocron. Flip this card if Jedi occupy two non-Mapuzo sites. Gather Allies And Train: While this side up, if your holocron is about to leave table, place it in Used Pile. Your lightsaber Force drain bonuses may not be canceled. Opponent's total battle destiny where they have a character of ability > 4 is -1. During your move phase, may relocate a Jedi between a Jabiim site and a battleground site as a regular move for free. At the end of your turn, opponent loses 1 Force. Flip this card if Jedi do not occupy two sites.",
+        "gametext": "The Hidden Path: Deploy Mining Village, Safehouse, Underground Corridor, and Fallen Order. For remainder of game, you may not deploy <> locations or Jedi (except Jedi survivors). Once per turn, may deploy a Jabiim site or a battleground (except a Kamino, Tatooine, or [Reflections III] location) from Reserve Deck; reshuffle. While this side up, you may not play Nabrun Leids. Your Force drains at Mapuzo sites are -1. Once per turn, may deploy a holocron from Reserve Deck; reshuffle. Flip this card if Jedi occupy two non-Mapuzo sites. Gather Allies And Train: While this side up, if your holocron is about to leave table, place it in Used Pile. Your lightsaber Force drain bonuses may not be canceled. Opponent's total battle destiny where they have a character of ability > 4 is -1. During your move phase, may relocate a Jedi between a Jabiim site and a battleground site as a regular move for free. At the end of your turn, opponent loses 1 Force. Flip this card if Jedi do not occupy two sites.",
         "icons": [
           "Set 26"
         ],
@@ -78759,7 +78866,7 @@
       },
       "front": {
         "destiny": "0",
-        "gametext": "The Hidden Path: Deploy Mining Village, Safehouse, Underground Corridor, and Fallen Order. For remainder of game, you may not deploy <> locations or Jedi (except Jedi survivors). Once per turn, may ▼ a Jabiim site or a battleground (except a Kamino, Tatooine, or [Reflections III] location). While this side up, you may not play Nabrun Leids. Your Force drains at Mapuzo sites are -1. Once per turn, may ▼ a holocron. Flip this card if Jedi occupy two non-Mapuzo sites. Gather Allies And Train: While this side up, if your holocron is about to leave table, place it in Used Pile. Your lightsaber Force drain bonuses may not be canceled. Opponent's total battle destiny where they have a character of ability > 4 is -1. During your move phase, may relocate a Jedi between a Jabiim site and a battleground site as a regular move for free. At the end of your turn, opponent loses 1 Force. Flip this card if Jedi do not occupy two sites.",
+        "gametext": "The Hidden Path: Deploy Mining Village, Safehouse, Underground Corridor, and Fallen Order. For remainder of game, you may not deploy <> locations or Jedi (except Jedi survivors). Once per turn, may deploy a Jabiim site or a battleground (except a Kamino, Tatooine, or [Reflections III] location) from Reserve Deck; reshuffle. While this side up, you may not play Nabrun Leids. Your Force drains at Mapuzo sites are -1. Once per turn, may deploy a holocron from Reserve Deck; reshuffle. Flip this card if Jedi occupy two non-Mapuzo sites. Gather Allies And Train: While this side up, if your holocron is about to leave table, place it in Used Pile. Your lightsaber Force drain bonuses may not be canceled. Opponent's total battle destiny where they have a character of ability > 4 is -1. During your move phase, may relocate a Jedi between a Jabiim site and a battleground site as a regular move for free. At the end of your turn, opponent loses 1 Force. Flip this card if Jedi do not occupy two sites.",
         "icons": [
           "Set 26"
         ],
@@ -78777,7 +78884,21 @@
           "set": "226"
         }
       ],
+      "pulls": [
+        "Fallen Order",
+        "Mapuzo: Mining Village",
+        "Mapuzo: Safehouse",
+        "Mapuzo: Underground Corridor",
+        "Jabiim: Path Operations Center",
+        "Jabiim: Starship Hangar",
+        "Jedi Holocron",
+        "Most battleground locations"
+      ],
       "rarity": "U",
+      "rulings": [
+        "Mapuzo's layout requires the Safehouse as the middle site.",
+        "Relocating a Jedi between a Jabiim site and a battleground site is once per turn, and works in both directions."
+      ],
       "set": "226",
       "side": "Light"
     }
