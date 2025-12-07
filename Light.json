@@ -6489,7 +6489,13 @@
         "While Bo Shuda is deployed on Audience Chamber, Audience Chamber is not a battleground."
       ],
       "set": "6",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        {
+          "cardId": 7466,
+          "title": "Mapuzo: Safehouse"
+        }
+      ]
     },
     {
       "front": {
@@ -8792,7 +8798,14 @@
       "set": "8",
       "side": "Light",
       "underlyingCardFor": [
-        "Careful Planning (V)"
+        {
+          "cardId": 382,
+          "title": "Careful Planning (V)"
+        },
+        {
+          "cardId": 7459,
+          "title": "Jabiim: Path Operations Center"
+        }
       ]
     },
     {
@@ -9588,7 +9601,13 @@
       ],
       "rarity": "R",
       "set": "8",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        {
+          "cardId": 7461,
+          "title": "Kashyyyk: Chewie's Hut"
+        }
+      ]
     },
     {
       "front": {
@@ -18334,8 +18353,18 @@
       "set": "8",
       "side": "Light",
       "underlyingCardFor": [
-        "Endor: Ewok Village (V)",
-        "Kashyyyk: Kachirho"
+        {
+          "cardId": 5236,
+          "title": "Endor: Ewok Village (V)"
+        },
+        {
+          "cardId": 6888,
+          "title": "Kashyyyk: Kachirho"
+        },
+        {
+          "cardId": 7465,
+          "title": "Mapuzo: Mining Village"
+        }
       ]
     },
     {
@@ -18450,7 +18479,14 @@
       "set": "8",
       "side": "Light",
       "underlyingCardFor": [
-        "Kashyyyk: Sacred Falls (Forest)"
+        {
+          "cardId": 6935,
+          "title": "Kashyyyk: Sacred Falls (Forest)"
+        }
+        {
+          "cardId": 7472,
+          "title": "The Hidden Path / Gather Allies And Train"
+        }
       ]
     },
     {
@@ -18683,8 +18719,12 @@
       "side": "Light",
       "underlyingCardFor": [
         {
-          "title": "Battle Of Geonosis",
-          "cardId": 7199
+          "cardId": 7199,
+		  "title": "Battle Of Geonosis"
+        },
+        {
+          "cardId": 7471,
+		  "title": "Something About This Boy"
         }
       ]
     },
@@ -19569,7 +19609,13 @@
       ],
       "rarity": "PM",
       "set": "13",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        {
+          "cardId": 7458,
+          "title": "Fallen Order"
+        }
+      ]
     },
     {
       "front": {
@@ -25698,7 +25744,13 @@
       ],
       "rarity": "C2",
       "set": "3",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        {
+          "cardId": 7467,
+          "title": "Mapuzo: Underground Corridor"
+        }
+      ]
     },
     {
       "counterpart": "Hoth: Echo Docking Bay",
@@ -28630,7 +28682,13 @@
       ],
       "rarity": "R",
       "set": "11",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        {
+          "cardId": 7462,
+          "title": "Kelleran Beq"
+        }
+      ]
     },
     {
       "front": {
@@ -28825,7 +28883,14 @@
       "set": "1",
       "side": "Light",
       "underlyingCardFor": [
-        "Offworld Jawas"
+        {
+          "cardId": 6943,
+          "title": "Offworld Jawas"
+        },
+        {
+          "cardId": 7469,
+          "title": "Peli Motto"
+        }
       ]
     },
     {
@@ -31705,7 +31770,13 @@
       ],
       "rarity": "R",
       "set": "9",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        {
+          "cardId": 7464,
+          "title": "Launching The Assault (V)"
+        }
+      ]
     },
     {
       "front": {
@@ -37035,8 +37106,18 @@
       "set": "7",
       "side": "Light",
       "underlyingCardFor": [
-        "Wild Karrde",
-        "Wild Karrde (AI)"
+        {
+          "cardId": 5053,
+          "title": "Wild Karrde"
+        },
+        {
+          "cardId": 7039,
+          "title": "Wild Karrde (AI)"
+        },
+        {
+          "cardId": 7460,
+          "title": "Jabiim: Starship Hangar"
+        }
       ]
     },
     {
@@ -40785,7 +40866,14 @@
       "set": "1",
       "side": "Light",
       "underlyingCardFor": [
-        "Are You Okay?"
+        {
+          "cardId": 5074,
+          "title": "Are You Okay?"
+        },
+        {
+          "cardId": 7468,
+          "title": "Obi-Wan Kenobi, Jedi In Exile"
+        }
       ]
     },
     {
@@ -52590,7 +52678,13 @@
       ],
       "rarity": "U",
       "set": "6",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        {
+          "cardId": 7470,
+          "title": "Quinlan Vos"
+        }
+      ]
     },
     {
       "combo": [
@@ -59699,7 +59793,13 @@
       ],
       "rarity": "R",
       "set": "5",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        {
+          "cardId": 7463,
+          "title": "Kelnacca"
+        }
+      ]
     },
     {
       "combo": [

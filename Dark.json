@@ -10274,7 +10274,13 @@
       ],
       "rarity": "R",
       "set": "5",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+        {
+		  "cardId": 7445,
+          "title": "Cloud City: Dining Room (V)"
+        }
+      ]
     },
     {
       "counterpart": "Cloud City: Downtown Plaza",
@@ -13197,7 +13203,13 @@
       ],
       "rarity": "R",
       "set": "7",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+        {
+          "cardId": 7446,
+          "title": "Coruscant (V)"
+        }
+      ]
     },
     {
       "counterpart": "Coruscant",
@@ -24356,7 +24368,13 @@
       ],
       "rarity": "R2",
       "set": "1",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+        {
+          "cardId": 7448,
+          "title": "Garindan, Imperial Spy"
+        }
+      ]
     },
     {
       "front": {
@@ -25568,7 +25586,13 @@
       ],
       "rarity": "PM",
       "set": "10",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+        {
+          "cardId": 7449,
+          "title": "Guri (V)"
+        }
+      ]
     },
     {
       "front": {
@@ -28253,7 +28277,13 @@
       ],
       "rarity": "R",
       "set": "11",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+        {
+          "cardId": 7450,
+          "title": "I'm Sorry (V)"
+        }
+      ]
     },
     {
       "front": {
@@ -29884,6 +29914,10 @@
         {
           "cardId": 7262,
           "title": "A Lawless Time (AI)"
+        },
+        {
+          "cardId": 7451,
+          "title": "Information Exchange (V)"
         }
       ]
     },
@@ -36695,6 +36729,10 @@
       "side": "Dark",
       "underlyingCardFor": [
         {
+          "cardId": 7452,
+          "title": "Mara Jade, The Emperor's Hand (V)"
+        },
+        {
           "cardId": 4029,
           "title": "Mara Jade With Lightsaber"
         }
@@ -40565,7 +40603,13 @@
         "See It's Worse and It Could Be Worse for various rulings."
       ],
       "set": "10",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+        {
+          "cardId": 7453,
+          "title": "Ommni Box & It's Worse (V)"
+        }
+      ]
     },
     {
       "front": {
@@ -44909,7 +44953,13 @@
       ],
       "rarity": "R",
       "set": "7",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+        {
+          "cardId": 7457,
+          "title": "Welcome Home, Lord Tyranus"
+        }
+      ]
     },
     {
       "front": {
@@ -45494,7 +45544,13 @@
         "This character is female."
       ],
       "set": "7",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+        {
+          "cardId": 7454,
+          "title": "Rystall (V)"
+        }
+      ]
     },
     {
       "combo": [
@@ -45763,7 +45819,13 @@
         "When a destiny card is lost, this does not affect the destiny value (e.g. a battle destiny draw of 5 is still a 5 after the card is lost)."
       ],
       "set": "6",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+        {
+          "cardId": 7455,
+          "title": "Salacious Crumb (V)"
+        }
+      ]
     },
     {
       "counterpart": "Sandcrawler",
@@ -54770,7 +54832,13 @@
       ],
       "rarity": "PM",
       "set": "109",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+        {
+          "cardId": 7456,
+          "title": "This Deal Is Getting Worse All The Time / Pray I Don't Alter It Any Further (V)"
+        }
+      ]
     },
     {
       "canceledBy": [
@@ -56302,7 +56370,13 @@
       ],
       "rarity": "U2",
       "set": "1",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+        {
+          "cardId": 7447,
+          "title": "Endless Legions"
+        }
+      ]
     },
     {
       "front": {
