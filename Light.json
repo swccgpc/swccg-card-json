@@ -62247,8 +62247,10 @@
       ],
       "pulledBy": [
         "Arleil Schous",
+        "Kashyyyk: Chewie's Hut",
         "Nar Shaddaa Wind Chimes",
-        "Nar Shaddaa Wind Chimes & Out Of Somewhere"
+        "Nar Shaddaa Wind Chimes & Out Of Somewhere",
+        "Wookiee Guide (V)"
       ],
       "rarity": "F",
       "set": "7",
@@ -62969,7 +62971,9 @@
         }
       ],
       "pulledBy": [
-        "Might Of The Republic"
+        "Kashyyyk: Chewie's Hut",
+        "Might Of The Republic",
+        "Wookiee Guide (V)"
       ],
       "rarity": "U",
       "set": "12",
@@ -68461,6 +68465,7 @@
         }
       ],
       "pulledBy": [
+        "Kashyyyk: Chewie's Hut",
         "Wookiee Guide (V)"
       ],
       "rarity": "U",
@@ -68728,6 +68733,7 @@
         }
       ],
       "pulledBy": [
+        "Kashyyyk: Chewie's Hut",
         "Might Of The Republic",
         "Wookiee Guide (V)"
       ],
@@ -69224,6 +69230,10 @@
         {
           "set": "217"
         }
+      ],
+      "pulledBy": [
+        "Kashyyyk: Chewie's Hut",
+        "Wookiee Guide (V)"
       ],
       "pulls": [
         "Bowcaster",
@@ -70867,6 +70877,7 @@
         }
       ],
       "pulledBy": [
+        "Kashyyyk: Chewie's Hut",
         "Wookiee Guide (V)"
       ],
       "rarity": "C",
@@ -75818,7 +75829,9 @@
       "front": {
         "destiny": "5",
         "gametext": "USED: Take a unique (•) unpiloted starfighter into hand from Reserve Deck; reshuffle. LOST: During battle at a system or sector, if you are about to draw a card for battle destiny, target your participating starship to instead use the ability number of its highest-ability pilot. OR Once per game, if Alderaan 'blown away' (or if opponent has deployed two battleground systems and no battleground sites), deploy a non-unique Corellian Corvette from outside your deck.",
-        "icons": [],
+        "icons": [
+          "Set 24"
+        ],
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual24-Light/large/balancedattackdarklighterspin.gif",
         "subType": "Used Or Lost",
         "title": "•Balanced Attack & •Darklighter Spin",
@@ -78239,6 +78252,12 @@
           "set": "226"
         }
       ],
+      "pulledBy": [
+        "The Hidden Path / Gather Allies And Train"
+      ],
+      "pulls": [
+        "Any lightsaber"
+      ],
       "rarity": "C",
       "set": "226",
       "side": "Light"
@@ -78275,6 +78294,9 @@
           "set": "226"
         }
       ],
+      "pulledBy": [
+        "The Hidden Path / Gather Allies And Train"
+      ],
       "rarity": "U",
       "set": "226",
       "side": "Light"
@@ -78282,6 +78304,9 @@
     {
       "abbr": [
         "KCH"
+      ],
+      "combo": [
+        "Let The Wookiee Win (V) + Kashyyyk: Kachirho + Wookiee Homestead"
       ],
       "front": {
         "darkSideIcons": 0,
@@ -78310,6 +78335,16 @@
           "set": "226"
         }
       ],
+      "pulls": [
+        "Any Chewie",
+        "Grakchawwaa",
+        "Kelnacca",
+        "Sagwa",
+        "Tarfful",
+        "Wookiee",
+        "Yarua",
+        "Yarua (V)"
+      ],
       "rarity": "R",
       "set": "226",
       "side": "Light"
@@ -78318,8 +78353,14 @@
       "abbr": [
         "KB"
       ],
+      "combo": [
+        "Leia's Lightsaber + Luke's Lightsaber (Defense 9, Immune < 7)"
+      ],
       "front": {
         "ability": "7",
+        "characteristics": [
+          "Jedi survivor"
+        ],
         "deploy": "8",
         "destiny": "1",
         "extraText": [
@@ -78352,12 +78393,25 @@
         }
       ],
       "rarity": "R",
+      "rulings": [
+        "Beq's text does not cause lightsabers to become matching weapons for him."
+      ],
       "set": "226",
       "side": "Light"
     },
     {
+      "cancels": [
+        "You Are Beaten"
+      ],
+      "combo": [
+        "Wookiee Homestead"
+      ],
       "front": {
         "ability": "7",
+        "characteristics": [
+          "High Republic",
+          "Wookiee"
+        ],
         "deploy": "5",
         "destiny": "2",
         "extraText": [
@@ -78387,6 +78441,18 @@
         {
           "set": "226"
         }
+      ],
+      "pulledBy": [
+        "Kashyyyk: Chewie's Hut",
+        "Wookiee Guide (V)"
+      ],
+      "pulls": [
+        "Endor: Dense Forest",
+        "Endor: Hidden Forest Trail",
+        "Endor: Rebel Landing Site (Forest)",
+        "Endor: Rebel Landing Site (Forest) (V)",
+        "Kashyyyk: Forest Depths",
+        "Kashyyyk: Sacred Falls (Forest)"
       ],
       "rarity": "R",
       "set": "226",
