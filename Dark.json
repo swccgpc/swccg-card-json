@@ -28269,6 +28269,8 @@
       "pulls": [
         "Cloud City: Carbonite Chamber",
         "Cloud City: Chasm Walkway",
+        "Cloud City: Chasm Walkway (V)",
+        "Cloud City: Dining Room (V)",
         "Cloud City: Incinerator",
         "Cloud City: Interrogation Room",
         "Cloud City: Lower Corridor",
@@ -36589,8 +36591,7 @@
     {
       "abbr": [
         "EPP Mara",
-        "MJ",
-        "Shannon McRandle"
+        "MJ"
       ],
       "front": {
         "ability": "5",
@@ -36761,7 +36762,8 @@
       "matchingWeapon": [
         "Arica",
         "Arica (V)",
-        "Mara Jade, The Emperor's Hand"
+        "Mara Jade, The Emperor's Hand",
+        "Mara Jade, The Emperor's Hand (V)"
       ],
       "printings": [
         {
@@ -36771,6 +36773,7 @@
       "pulledBy": [
         "I Will Finish What You Started",
         "Mara Jade, The Emperor's Hand",
+        "Mara Jade, The Emperor's Hand (V)",
         "Maul Strikes"
       ],
       "rarity": "PM",
@@ -45784,8 +45787,14 @@
       ]
     },
     {
+      "combo": [
+        "Jabba The Hutt (V)"
+      ],
       "front": {
         "ability": "1",
+        "characteristics": [
+          "Kowakian"
+        ],
         "deploy": "1",
         "destiny": "3",
         "forfeit": "3",
@@ -45810,7 +45819,8 @@
         }
       ],
       "pulledBy": [
-        "Hondo Ohnaka"
+        "Hondo Ohnaka",
+        "No Bargain (V)"
       ],
       "rarity": "R",
       "rulings": [
@@ -70697,6 +70707,9 @@
       "abbr": [
         "YPAWOMv"
       ],
+      "combo": [
+        "Ommni Box & It's Worse (V)"
+      ],
       "front": {
         "destiny": "5",
         "gametext": "If opponent just lost a battle, they lose 2 Force. OR During battle, if Obi-Wan is participating (or 'communing'), add one battle destiny; characters may not be 'revived' this turn. OR Cancel Clash Of Sabers targeting your Dark Jedi.",
@@ -70720,6 +70733,9 @@
         }
       ],
       "rarity": "R1",
+      "rulings": [
+        "Multiple copies of this card may be played after winning a battle, causing 2 Force loss each."
+      ],
       "set": "222",
       "side": "Dark"
     },
@@ -74336,6 +74352,16 @@
       "gempId": "226_1",
       "id": 7445,
       "legacy": false,
+      "pulledBy": [
+        "I'm Sorry",
+        "I'm Sorry (V)",
+        "This Deal Is Getting Worse All The Time",
+        "This Deal Is Getting Worse All The Time (V)"
+      ],
+      "pulls": [
+        "Lando Calrissian",
+        "Lando Calrissian, Vader's Broker"		
+      ],
       "printings": [
         {
           "set": "226"
@@ -74346,6 +74372,9 @@
       "side": "Dark"
     },
     {
+      "cancels": [
+        "Suspends Menace Fades"
+      ],
       "front": {
         "darkSideIcons": 2,
         "destiny": "0",
@@ -74404,6 +74433,11 @@
         }
       ],
       "rarity": "U2",
+      "rulings": [
+        "To initiate the first function requires a card in Force Pile.",
+        "To initiate the first function also requires a card in hand, but Endless Legions itself satisfies this requirement (provided that it is being played from hand).",
+        "If the Force Pile contains only 1 or 2 cards, the player will draw them, then the action will end without placing any cards back."
+      ],
       "set": "226",
       "side": "Dark"
     },
@@ -74413,6 +74447,10 @@
       ],
       "front": {
         "ability": "1",
+        "characteristics": [
+          "Kubaz",
+          "spy"
+        ],
         "deploy": "2",
         "destiny": "4",
         "forfeit": "3",
@@ -74439,12 +74477,22 @@
         }
       ],
       "rarity": "R2",
+      "rulings": [
+        "Works with Imperial Enforcement.",
+        "Works with Scum And Villainy.",
+        "Prevents playing None Shall Pass."
+      ],
       "set": "226",
       "side": "Dark"
     },
     {
       "front": {
         "armor": "5",
+        "characteristics": [
+          "assassin",
+          "Black Sun agent",
+          "female"
+        ],
         "deploy": "4",
         "destiny": "2",
         "extraText": [
@@ -74478,12 +74526,22 @@
         }
       ],
       "rarity": "PM",
+      "rulings": [
+        "This character is female.",
+        "First sentence requires both Guri (V) and Xizor to be present at the site (not in a starship or enclosed vehicle).",
+        "Reflections II objective is required for Guri (V) to be immune to attrition < 5."
+      ],
       "set": "226",
       "side": "Dark"
     },
     {
       "abbr": [
         "ISv"
+      ],
+      "cancels": [
+        "Elis Helrot",
+        "Stunning Leader",
+        "Surreptitious Glance"
       ],
       "front": {
         "destiny": "5",
@@ -74508,6 +74566,20 @@
         {
           "set": "226"
         }
+      ],
+      "pulls": [
+        "Cloud City: Carbonite Chamber",
+        "Cloud City: Chasm Walkway",
+        "Cloud City: Chasm Walkway (V)",
+        "Cloud City: Dining Room",
+        "Cloud City: Dining Room (V)",
+        "Cloud City: Incinerator",
+        "Cloud City: Interrogation Room",
+        "Cloud City: Lower Corridor",
+        "Cloud City: Security Tower",
+        "Cloud City: Security Tower (V)",
+        "Cloud City: Upper Plaza Corridor",
+        "Cloud City: West Gallery"
       ],
       "rarity": "R",
       "set": "226",
@@ -74542,15 +74614,31 @@
         }
       ],
       "rarity": "U",
+      "rulings": [
+        "This works with Black Sun Fleet (deploy a Black Sun agent to a site, they become an information broker, then Dark exchanges a card)."
+      ],
       "set": "226",
       "side": "Dark"
     },
     {
       "abbr": [
         "MJTEHv"
+        "Mara TEHv",
+        "Shannon McRandle"
+      ],
+      "cancels": [
+        "Rebel Barrier"
+      ],
+      "combo": [
+        "Master Sidious",
+        "Revenge Of The Sith"
       ],
       "front": {
         "ability": "5",
+        "characteristics": [
+          "female",
+          "spy"
+        ],
         "deploy": "5",
         "destiny": "1",
         "extraText": [
@@ -74578,12 +74666,27 @@
       "gempId": "226_8",
       "id": 7452,
       "legacy": false,
+      "matchingWeapon": [
+        "Mara Jade's Lightsaber"
+      ],
       "printings": [
         {
           "set": "226"
         }
       ],
+      "pulledBy": [
+        "Blizzard 4",
+        "Murttoc Yine"
+      ],
+      "pulls": [
+        "Mara Jade's Lightsaber"
+      ],
       "rarity": "PM",
+      "rulings": [
+        "Used with Revenge Of The Sith, Mara functions as your chosen apprentice in addition to your actual chosen apprentice.",
+        "Used with Revenge Of The Sith, Mara functions as your chosen apprentice (and therefore is a Sith) in all card states and thus benefits from the destiny +2 on ROTS.",
+        "Even without Revenge Of The Sith, Mara is your apprentice, e.g. works with Master Sidious."
+      ],
       "set": "226",
       "side": "Dark"
     },
@@ -74591,10 +74694,25 @@
       "abbr": [
         "OB&IWv"
       ],
+      "canceledBy": [
+        "It's A Hit! (partially immune)"
+      ],
+      "cancels": [
+        "Blast The Door, Kid!",
+        "It Could Be Worse"
+      ],
+      "combo": [
+        "Sy Snootles",
+        "Tech Mo'r",
+        "Your Powers Are Weak, Old Man (V)"
+      ],
       "front": {
         "destiny": "5",
-        "gametext": "USED: For remainder of turn, you lose no Force to the following cards on table (if any): A Good Blaster At Your Side, No Disintegrations!, Stardust, and They Will Be Lost And Confused. OR Cancel Blast The Door, Kid! or It Could Be Worse. (Immune to It's A Hit!) OR Shuffle any player's Reserve Deck or Lost Pile.",
-        "icons": [],
+        "gametext": "USED: For remainder of turn, you lose no Force to the following cards on table (if any): A Good Blaster At Your Side, No Disintegrations!, Stardust, and They Will Be Lost And Confused. OR Cancel Blast The Door, Kid! or It Could Be Worse. (Immune to It's A Hit!) OR Shuffle any player's Reserve Deck or Lost Pile. LOST: If opponent just lost a battle, they lose 2 Force.",
+        "icons": [
+          "Reflections II",
+          "Set 26"
+        ],
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual26-Dark/large/ommniboxitsworse.gif",
         "subType": "Used Or Lost",
         "title": "Ommni Box & It's Worse (V)",
@@ -74611,12 +74729,20 @@
         }
       ],
       "rarity": "PM",
+      "rulings": [
+        "Multiple copies of this card may be played after winning a battle, causing 2 Force loss each."
+      ],
       "set": "226",
       "side": "Dark"
     },
     {
       "front": {
         "ability": "2",
+        "characteristics": [
+          "Black Sun agent",
+          "female",
+          "musician"
+        ],
         "deploy": "2",
         "destiny": "3",
         "forfeit": "3",
@@ -74638,12 +74764,20 @@
       "gempId": "226_10",
       "id": 7454,
       "legacy": false,
+      "pulledBy": [
+        "Ak-rev",
+        "Coruscant: Imperial City (V)"
+      ],
       "printings": [
         {
           "set": "226"
         }
       ],
       "rarity": "R",
+      "rulings": [
+        "May respond to her own deployment.",
+        "This character is female."
+      ],
       "set": "226",
       "side": "Dark"
     },
@@ -74651,8 +74785,14 @@
       "abbr": [
         "SCv"
       ],
+      "combo": [
+        "Jabba The Hutt (V)"
+      ],
       "front": {
         "ability": "1",
+        "characteristics": [
+          "Kowakian"
+        ],
         "deploy": "1",
         "destiny": "3",
         "forfeit": "3",
@@ -74674,12 +74814,19 @@
       "gempId": "226_11",
       "id": 7455,
       "legacy": false,
+      "pulledBy": [
+        "Hondo Ohnaka",
+        "No Bargain (V)"
+      ],
       "printings": [
         {
           "set": "226"
         }
       ],
       "rarity": "R",
+      "rulings": [
+        "If Salacious Crumb is a leader (e.g. due to being the Rep in My Kind Of Scum) he prevents himself from being targeted by weapons."
+      ],
       "set": "226",
       "side": "Dark"
     },
@@ -74702,6 +74849,11 @@
         "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Pray I Don't Alter It Any Further (V)/image.png",
         "printableSlipType": "VIRTUAL"
       },
+      "cancels": [
+        "Alter",
+        "Sense",
+        "Admiral's Orders game text"
+      ],
       "front": {
         "destiny": "0",
         "gametext": "This Deal Is Getting Worse All The Time: Deploy a Cloud City battleground site and [Cloud City] I'm Sorry. For remainder of game, you may not deploy Admiral's Orders. During your control phase, your Lando may make a regular move. While this side up, once per turn, may take Cloud City Occupation, Dark Deal, Vader's Bounty, or [Special Edition] Bespin into hand from Reserve Deck; reshuffle. Flip this card if you control 3 Bespin locations and opponent controls fewer than 3 Bespin locations. Pray I Don't Alter It Any Further: While this side up, Sense and Alter may not be played. Force drain bonuses at same site as your Lando or your Lobot may not be canceled. While Vader at a Bespin location, game text of Admiral's Orders is canceled and, if a character was just frozen, opponent loses 3 Force. If your alien/Imperial pair in battle, your total battle destiny is +2. If your Lando in battle, may target a character present with him; target is forfeit = 0. Flip this card if opponent controls more Bespin locations than you.",
@@ -74724,13 +74876,30 @@
           "set": "226"
         }
       ],
+      "pulls": [
+        "Bespin (V)",
+        "Cloud City Occupation",
+        "Dark Deal",
+        "Dark Deal (V)",
+        "Vader's Bounty"
+      ],
       "rarity": "PM",
+      "rulings": [
+        "Multiple alien/Imperial pairs still only gives total battle destiny +2, not +4 or more."
+      ],
       "set": "226",
       "side": "Dark"
     },
     {
       "abbr": [
         "WHLT"
+      ],
+      "cancels": [
+        "Sense"
+      ],
+      "combo": [
+        "Darth Tyranus",
+        "Revenge Of The Sith"
       ],
       "front": {
         "destiny": "6",
@@ -74755,7 +74924,13 @@
           "set": "226"
         }
       ],
+      "pulls": [
+        "Coruscant: The Works"
+      ],
       "rarity": "R",
+      "rulings": [
+        "The third function only works with a card titled exactly 'Darth Tyranus'."
+      ],
       "set": "226",
       "side": "Dark"
     }
