@@ -6489,7 +6489,13 @@
         "While Bo Shuda is deployed on Audience Chamber, Audience Chamber is not a battleground."
       ],
       "set": "6",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        {
+          "cardId": 7466,
+          "title": "Mapuzo: Safehouse"
+        }
+      ]
     },
     {
       "front": {
@@ -8792,7 +8798,14 @@
       "set": "8",
       "side": "Light",
       "underlyingCardFor": [
-        "Careful Planning (V)"
+        {
+          "cardId": 382,
+          "title": "Careful Planning (V)"
+        },
+        {
+          "cardId": 7459,
+          "title": "Jabiim: Path Operations Center"
+        }
       ]
     },
     {
@@ -9588,7 +9601,13 @@
       ],
       "rarity": "R",
       "set": "8",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        {
+          "cardId": 7461,
+          "title": "Kashyyyk: Chewie's Hut"
+        }
+      ]
     },
     {
       "front": {
@@ -18334,8 +18353,18 @@
       "set": "8",
       "side": "Light",
       "underlyingCardFor": [
-        "Endor: Ewok Village (V)",
-        "Kashyyyk: Kachirho"
+        {
+          "cardId": 5236,
+          "title": "Endor: Ewok Village (V)"
+        },
+        {
+          "cardId": 6888,
+          "title": "Kashyyyk: Kachirho"
+        },
+        {
+          "cardId": 7465,
+          "title": "Mapuzo: Mining Village"
+        }
       ]
     },
     {
@@ -18450,7 +18479,14 @@
       "set": "8",
       "side": "Light",
       "underlyingCardFor": [
-        "Kashyyyk: Sacred Falls (Forest)"
+        {
+          "cardId": 6935,
+          "title": "Kashyyyk: Sacred Falls (Forest)"
+        },
+        {
+          "cardId": 7472,
+          "title": "The Hidden Path / Gather Allies And Train"
+        }
       ]
     },
     {
@@ -18683,8 +18719,12 @@
       "side": "Light",
       "underlyingCardFor": [
         {
-          "title": "Battle Of Geonosis",
-          "cardId": 7199
+          "cardId": 7199,
+          "title": "Battle Of Geonosis"
+        },
+        {
+          "cardId": 7471,
+          "title": "Something About This Boy"
         }
       ]
     },
@@ -19569,7 +19609,13 @@
       ],
       "rarity": "PM",
       "set": "13",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        {
+          "cardId": 7458,
+          "title": "Fallen Order"
+        }
+      ]
     },
     {
       "front": {
@@ -25698,7 +25744,13 @@
       ],
       "rarity": "C2",
       "set": "3",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        {
+          "cardId": 7467,
+          "title": "Mapuzo: Underground Corridor"
+        }
+      ]
     },
     {
       "counterpart": "Hoth: Echo Docking Bay",
@@ -27008,7 +27060,7 @@
     {
       "front": {
         "destiny": "6",
-        "gametext": "If opponent just attempted to 'freeze' a character using Carbon- Freezing or All Too Easy, draw destiny. Add character's ability. If total destiny > 7, effect canceled. Character released (if captive) and 'hides' (may not participate in battle) for remainder of turn.",
+        "gametext": "If opponent just attempted to 'freeze' a character using Carbon-Freezing or All Too Easy, draw destiny. Add character's ability. If total destiny > 7, effect canceled. Character released (if captive) and 'hides' (may not participate in battle) for remainder of turn.",
         "icons": [
           "Cloud City"
         ],
@@ -28630,7 +28682,13 @@
       ],
       "rarity": "R",
       "set": "11",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        {
+          "cardId": 7462,
+          "title": "Kelleran Beq"
+        }
+      ]
     },
     {
       "front": {
@@ -28825,7 +28883,14 @@
       "set": "1",
       "side": "Light",
       "underlyingCardFor": [
-        "Offworld Jawas"
+        {
+          "cardId": 6943,
+          "title": "Offworld Jawas"
+        },
+        {
+          "cardId": 7469,
+          "title": "Peli Motto"
+        }
       ]
     },
     {
@@ -31705,7 +31770,13 @@
       ],
       "rarity": "R",
       "set": "9",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        {
+          "cardId": 7464,
+          "title": "Launching The Assault (V)"
+        }
+      ]
     },
     {
       "front": {
@@ -37035,8 +37106,18 @@
       "set": "7",
       "side": "Light",
       "underlyingCardFor": [
-        "Wild Karrde",
-        "Wild Karrde (AI)"
+        {
+          "cardId": 5053,
+          "title": "Wild Karrde"
+        },
+        {
+          "cardId": 7039,
+          "title": "Wild Karrde (AI)"
+        },
+        {
+          "cardId": 7460,
+          "title": "Jabiim: Starship Hangar"
+        }
       ]
     },
     {
@@ -40785,7 +40866,14 @@
       "set": "1",
       "side": "Light",
       "underlyingCardFor": [
-        "Are You Okay?"
+        {
+          "cardId": 5074,
+          "title": "Are You Okay?"
+        },
+        {
+          "cardId": 7468,
+          "title": "Obi-Wan Kenobi, Jedi In Exile"
+        }
       ]
     },
     {
@@ -48931,7 +49019,7 @@
         "deploy": "3",
         "destiny": "1",
         "forfeit": "3",
-        "gametext": "Deploys only on Tatooine. Jawa weapons deploy free on R'kik, when firing one, may add up to 3 to the total weapon destiny just drawn. When he playing Dune Sea Sabacc and wins, wins double.",
+        "gametext": "Deploys only on Tatooine. Jawa weapons deploy free on R'kik, when firing one, may add up to 3 to the total weapon destiny just drawn. When he is playing Dune Sea Sabacc and wins, he wins double.",
         "icons": [
           "Warrior",
           "Jabba's Palace"
@@ -52590,7 +52678,13 @@
       ],
       "rarity": "U",
       "set": "6",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        {
+          "cardId": 7470,
+          "title": "Quinlan Vos"
+        }
+      ]
     },
     {
       "combo": [
@@ -59699,7 +59793,13 @@
       ],
       "rarity": "R",
       "set": "5",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        {
+          "cardId": 7463,
+          "title": "Kelnacca"
+        }
+      ]
     },
     {
       "combo": [
@@ -62147,8 +62247,10 @@
       ],
       "pulledBy": [
         "Arleil Schous",
+        "Kashyyyk: Chewie's Hut",
         "Nar Shaddaa Wind Chimes",
-        "Nar Shaddaa Wind Chimes & Out Of Somewhere"
+        "Nar Shaddaa Wind Chimes & Out Of Somewhere",
+        "Wookiee Guide (V)"
       ],
       "rarity": "F",
       "set": "7",
@@ -62869,7 +62971,9 @@
         }
       ],
       "pulledBy": [
-        "Might Of The Republic"
+        "Kashyyyk: Chewie's Hut",
+        "Might Of The Republic",
+        "Wookiee Guide (V)"
       ],
       "rarity": "U",
       "set": "12",
@@ -68361,6 +68465,7 @@
         }
       ],
       "pulledBy": [
+        "Kashyyyk: Chewie's Hut",
         "Wookiee Guide (V)"
       ],
       "rarity": "U",
@@ -68628,6 +68733,7 @@
         }
       ],
       "pulledBy": [
+        "Kashyyyk: Chewie's Hut",
         "Might Of The Republic",
         "Wookiee Guide (V)"
       ],
@@ -69125,6 +69231,10 @@
           "set": "217"
         }
       ],
+      "pulledBy": [
+        "Kashyyyk: Chewie's Hut",
+        "Wookiee Guide (V)"
+      ],
       "pulls": [
         "Bowcaster",
         "Bowcaster (V)",
@@ -69557,6 +69667,9 @@
     {
       "abbr": [
         "TSH"
+      ],
+      "combo": [
+        "Something About This Boy"
       ],
       "front": {
         "darkSideIcons": 0,
@@ -70767,6 +70880,7 @@
         }
       ],
       "pulledBy": [
+        "Kashyyyk: Chewie's Hut",
         "Wookiee Guide (V)"
       ],
       "rarity": "C",
@@ -75718,7 +75832,9 @@
       "front": {
         "destiny": "5",
         "gametext": "USED: Take a unique (•) unpiloted starfighter into hand from Reserve Deck; reshuffle. LOST: During battle at a system or sector, if you are about to draw a card for battle destiny, target your participating starship to instead use the ability number of its highest-ability pilot. OR Once per game, if Alderaan 'blown away' (or if opponent has deployed two battleground systems and no battleground sites), deploy a non-unique Corellian Corvette from outside your deck.",
-        "icons": [],
+        "icons": [
+          "Set 24"
+        ],
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual24-Light/large/balancedattackdarklighterspin.gif",
         "subType": "Used Or Lost",
         "title": "•Balanced Attack & •Darklighter Spin",
@@ -78068,6 +78184,722 @@
       ],
       "rarity": "R1",
       "set": "225",
+      "side": "Light"
+    },
+    {
+      "abbr": [
+        "FO"
+      ],
+      "front": {
+        "destiny": "0",
+        "gametext": "If The Hidden Path on table, deploy on table. When deployed, stack three Jedi survivors from Reserve Deck here. During your deploy phase, Jedi survivors here may deploy as if from hand. The Light Will Fade: While The Hidden Path on table, Jedi survivors are deploy = 2, power = 3, forfeit = 3, deploy only to Safehouse, move using landspeed for free, and their game text is canceled. But It Is Never Forgotten: If your Jedi survivor was just lost, may stack it here. (Immune to Cold Feet.)",
+        "icons": [
+          "Set 26"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual26-Light/large/fallenorder.gif",
+        "title": "•Fallen Order",
+        "type": "Epic Event",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Fallen Order/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "226_14",
+      "id": 7458,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "226"
+        }
+      ],
+      "pulls": [
+        "Kelleran Beq",
+        "Obi-Wan Kenobi, Jedi In Exile",
+        "Quinlan Vos"
+      ],
+      "rarity": "PM",
+      "rulings": [
+        "Stacking a just lost Jedi survivor on Fallen Order could be prevented e.g. by Darth Sidious, Dannik Jerriko, or Dannik Jerriko (V).",
+        "Automatic responses (e.g. Force loss on The Grand Inquisitor) happen before optionally stacking a Jedi survivor."
+      ],
+      "set": "226",
+      "side": "Light"
+    },
+    {
+      "abbr": [
+        "JPOC"
+      ],
+      "front": {
+        "darkSideIcons": 0,
+        "destiny": "0",
+        "gametext": "Light: Once per turn, may deploy a lightsaber here from Reserve Deck; reshuffle. Dark: Blank.",
+        "icons": [
+          "Interior",
+          "Planet",
+          "Scomp Link",
+          "Set 26"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual26-Light/large/jabiimpathoperationscenter.gif",
+        "lightSideIcons": 2,
+        "subType": "Site",
+        "title": "•Jabiim: Path Operations Center",
+        "type": "Location",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Jabiim Path Operations Center/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "226_15",
+      "id": 7459,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "226"
+        }
+      ],
+      "pulledBy": [
+        "The Hidden Path / Gather Allies And Train"
+      ],
+      "pulls": [
+        "Any lightsaber"
+      ],
+      "rarity": "C",
+      "set": "226",
+      "side": "Light"
+    },
+    {
+      "abbr": [
+        "JSH"
+      ],
+      "front": {
+        "darkSideIcons": 1,
+        "destiny": "0",
+        "gametext": "Light: While a Jedi survivor present, you lose no Force to Visage Of The Emperor. Dark: Once per game, may deploy from Reserve Deck (reshuffle) (or deploy from Lost Pile) Grand Inquisitor here.",
+        "icons": [
+          "Interior",
+          "Exterior",
+          "Planet",
+          "Scomp Link",
+          "Set 26"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual26-Light/large/jabiimstarshiphangar.gif",
+        "lightSideIcons": 2,
+        "subType": "Site",
+        "title": "•Jabiim: Starship Hangar",
+        "type": "Location",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Jabiim Starship Hangar/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "226_16",
+      "id": 7460,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "226"
+        }
+      ],
+      "pulledBy": [
+        "The Hidden Path / Gather Allies And Train"
+      ],
+      "rarity": "U",
+      "set": "226",
+      "side": "Light"
+    },
+    {
+      "abbr": [
+        "KCH"
+      ],
+      "combo": [
+        "Let The Wookiee Win (V) + Kashyyyk: Kachirho + Wookiee Homestead"
+      ],
+      "front": {
+        "darkSideIcons": 0,
+        "destiny": "0",
+        "gametext": "Light: Deploys only as a starting location. Once per game, may take a Wookiee into hand from Reserve Deck; reshuffle. While Wookiee Homestead on table, no Force drains here. Dark: Blank.",
+        "icons": [
+          "Episode I",
+          "Interior",
+          "Planet",
+          "Set 26"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual26-Light/large/kashyyykchewieshut.gif",
+        "lightSideIcons": 2,
+        "subType": "Site",
+        "title": "•Kashyyyk: Chewie's Hut",
+        "type": "Location",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Kashyyyk Chewie's Hut/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "226_17",
+      "id": 7461,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "226"
+        }
+      ],
+      "pulls": [
+        "Any Chewie",
+        "Grakchawwaa",
+        "Kelnacca",
+        "Sagwa",
+        "Tarfful",
+        "Wookiee",
+        "Yarua",
+        "Yarua (V)"
+      ],
+      "rarity": "R",
+      "set": "226",
+      "side": "Light"
+    },
+    {
+      "abbr": [
+        "KB"
+      ],
+      "combo": [
+        "Leia's Lightsaber + Luke's Lightsaber (Defense 9, Immune < 7)"
+      ],
+      "front": {
+        "ability": "7",
+        "characteristics": [
+          "Jedi survivor"
+        ],
+        "deploy": "8",
+        "destiny": "1",
+        "extraText": [
+          "Jedi Master"
+        ],
+        "forfeit": "8",
+        "gametext": "Adds 2 to power of anything he pilots. Adds one battle destiny with Grogu or a Padawan. Any lightsaber may deploy on Beq. Once per game, may deploy a lightsaber on Beq from Lost Pile. Your other characters here are defense value +1 for each lightsaber on Beq. Immune to attrition < 6.",
+        "icons": [
+          "Episode I",
+          "Pilot",
+          "Warrior x2",
+          "Set 26"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual26-Light/large/kelleranbeq.gif",
+        "lore": "Jedi survivor.",
+        "power": "6",
+        "subType": "Jedi Master/Republic",
+        "title": "•Kelleran Beq",
+        "type": "Character",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Kelleran Beq/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "226_18",
+      "id": 7462,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "226"
+        }
+      ],
+      "pulledBy": [
+        "Fallen Order"
+      ],
+      "rarity": "R",
+      "rulings": [
+        "Beq's text does not cause lightsabers to become matching weapons for him."
+      ],
+      "set": "226",
+      "side": "Light"
+    },
+    {
+      "cancels": [
+        "You Are Beaten"
+      ],
+      "combo": [
+        "Wookiee Homestead"
+      ],
+      "front": {
+        "ability": "7",
+        "characteristics": [
+          "High Republic",
+          "Wookiee"
+        ],
+        "deploy": "5",
+        "destiny": "2",
+        "extraText": [
+          "Jedi Master"
+        ],
+        "forfeit": "7",
+        "gametext": "Once per turn, if Wookiee Homestead on table, may place a card from hand on Force Pile to draw bottom card of your Force Pile. Once per game, may deploy a unique (•) forest from Reserve Deck; reshuffle. Immune to Wookiee Strangle and You Are Beaten.",
+        "icons": [
+          "Episode I",
+          "Warrior",
+          "Set 26"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual26-Light/large/kelnacca.gif",
+        "lore": "High Republic. Wookiee.",
+        "power": "5",
+        "subType": "Jedi Master",
+        "title": "•Kelnacca",
+        "type": "Character",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Kelnacca/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "226_19",
+      "id": 7463,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "226"
+        }
+      ],
+      "pulledBy": [
+        "Kashyyyk: Chewie's Hut",
+        "Wookiee Guide (V)"
+      ],
+      "pulls": [
+        "Endor: Dense Forest",
+        "Endor: Hidden Forest Trail",
+        "Endor: Rebel Landing Site (Forest)",
+        "Endor: Rebel Landing Site (Forest) (V)",
+        "Kashyyyk: Forest Depths",
+        "Kashyyyk: Sacred Falls (Forest)"
+      ],
+      "rarity": "R",
+      "set": "226",
+      "side": "Light"
+    },
+    {
+      "abbr": [
+        "LTAv"
+      ],
+      "combo": [
+        "Gold Squadron 1"
+      ],
+      "front": {
+        "destiny": "4",
+        "gametext": "If your Endor (or Rebel Base) location on table, deploy on table. May deploy Home One or Sullust from Reserve Deck; reshuffle. Home One is deploy = 8 to an [Endor] or [Death Star II] system and its power may not be reduced. Once per game, Home One may move as a 'react' to [Death Star II] Falcon's location (or vice versa). [Immune to Alter.]",
+        "icons": [
+          "Death Star II",
+          "Set 26"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual26-Light/large/launchingtheassault.gif",
+        "lore": "By recruiting the Mon Calamari, a race of master shipwrights, the Rebel starfleet gained capital starships rivaling the dreaded Imperial Star Destroyers.",
+        "title": "•Launching The Assault (V)",
+        "type": "Effect",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Launching The Assault (V)/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "226_20",
+      "id": 7464,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "226"
+        }
+      ],
+      "pulls": [
+        "Home One",
+        "Sullust"
+      ],
+      "rarity": "R",
+      "rulings": [
+        "Home One and Sullust may both be pulled on the same turn (as two separate actions).",
+        "A landed [Death Star II] Falcon may take off from a site as a 'react' to same system as Home One."
+      ],
+      "set": "226",
+      "side": "Light"
+    },
+    {
+      "abbr": [
+        "MMV"
+      ],
+      "front": {
+        "darkSideIcons": 1,
+        "destiny": "0",
+        "gametext": "Light: Your miners are power +1 here. Once per game, may deploy Tala Durith here from Reserve Deck; reshuffle. Dark: While Vader or an Inquisitor present, your Force drains here may not be modified.",
+        "icons": [
+          "Exterior",
+          "Planet",
+          "Set 26"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual26-Light/large/mapuzominingvillage.gif",
+        "lightSideIcons": 2,
+        "subType": "Site",
+        "title": "•Mapuzo: Mining Village",
+        "type": "Location",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Mapuzo Mining Village/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "226_21",
+      "id": 7465,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "226"
+        }
+      ],
+      "pulledBy": [
+        "The Hidden Path / Gather Allies And Train"
+      ],
+      "rarity": "U",
+      "rulings": [
+        "Dark's text prevents modifiers from either player. Vader's Lightsaber will not add to drain, and Projection Of A Skywalker will not subtract from the drain."
+      ],
+      "set": "226",
+      "side": "Light"
+    },
+    {
+      "abbr": [
+        "MS"
+      ],
+      "cancels": [
+        "Imperial Barrier"
+      ],
+      "front": {
+        "darkSideIcons": 1,
+        "destiny": "0",
+        "gametext": "Light: The first Jedi you deploy here each turn is immune to Imperial Barrier. Dark: Unless Third Sister here, Force drain -1 here.",
+        "icons": [
+          "Interior",
+          "Planet",
+          "Scomp Link",
+          "Set 26"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual26-Light/large/mapuzosafehouse.gif",
+        "lightSideIcons": 2,
+        "subType": "Site",
+        "title": "•Mapuzo: Safehouse",
+        "type": "Location",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Mapuzo Safehouse/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "226_22",
+      "id": 7466,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "226"
+        }
+      ],
+      "pulledBy": [
+        "The Hidden Path / Gather Allies And Train"
+      ],
+      "rarity": "U",
+      "rulings": [
+        "Mapuzo's layout requires the Safehouse as the middle site."
+      ],
+      "set": "226",
+      "side": "Light"
+    },
+    {
+      "abbr": [
+        "MUC"
+      ],
+      "front": {
+        "darkSideIcons": 0,
+        "destiny": "0",
+        "gametext": "Light: During your move phase, Jedi survivors may move from here to a Jabiim site (or to opponent's battleground site). Dark: Blank.",
+        "icons": [
+          "Underground",
+          "Interior",
+          "Planet",
+          "Set 26"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual26-Light/large/mapuzoundergroundcorridor.gif",
+        "lightSideIcons": 1,
+        "subType": "Site",
+        "title": "•Mapuzo: Underground Corridor",
+        "type": "Location",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Mapuzo Underground Corridor/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "226_23",
+      "id": 7467,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "226"
+        }
+      ],
+      "pulledBy": [
+        "The Hidden Path / Gather Allies And Train"
+      ],
+      "rarity": "C2",
+      "rulings": [
+        "Mapuzo's layout requires the Underground Corridor be at the end (Safehouse is the middle site).",
+        "This text uses up a Jedi survivor's regular move.",
+        "Multiple Jedi survivors may use the relocate text in the same turn (as separate actions, and may go to different destinations).",
+        "This text is not 'or vice versa' - Jedi survivors cannot use the text to return back to Underground Corridor."
+      ],
+      "set": "226",
+      "side": "Light"
+    },
+    {
+      "abbr": [
+        "OKJIE",
+        "OWKJIE"
+      ],
+      "cancels": [
+        "You Are Beaten"
+      ],
+      "front": {
+        "ability": "6",
+        "characteristics": [
+          "Jedi survivor"
+        ],
+        "deploy": "8",
+        "destiny": "1",
+        "extraText": [
+          "Jedi Knight"
+        ],
+        "forfeit": "8",
+        "gametext": "Adds one battle destiny with Maul, Sidious, or Vader. Opponent's characters here are power and forfeit -1. Once per game, may take into hand from Reserve Deck (reshuffle) (or retrieve into hand) Glancing Blow or Help Me Obi-Wan Kenobi. Immune to You Are Beaten and attrition < 6.",
+        "icons": [
+          "Pilot",
+          "Warrior",
+          "Set 26"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual26-Light/large/obiwankenobijediinexile.gif",
+        "lore": "Jedi survivor.",
+        "power": "6",
+        "subType": "Rebel",
+        "title": "•Obi-Wan Kenobi, Jedi In Exile",
+        "type": "Character",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Obi-Wan Kenobi, Jedi In Exile/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "226_24",
+      "id": 7468,
+      "legacy": false,
+      "matchingWeapon": [
+        "Obi-Wan's Lightsaber",
+        "Uncivilized Blaster"
+      ],
+      "printings": [
+        {
+          "set": "226"
+        }
+      ],
+      "pulledBy": [
+        "Fallen Order"
+      ],
+      "pulls": [
+        "Glancing Blow",
+        "Help Me Obi-Wan Kenobi"
+      ],
+      "rarity": "C2",
+      "set": "226",
+      "side": "Light"
+    },
+    {
+      "abbr": [
+        "PM"
+      ],
+      "cancels": [
+        "I've Lost Artoo!",
+        "Lateral Damage",
+        "Restraining Bolt"
+      ],
+      "combo": [
+        "Grogu",
+        "Jakku: Starship Graveyard",
+        "StarSpeeder 3000"
+      ],
+      "front": {
+        "ability": "3",
+        "characteristics": [
+          "female",
+          "mechanic",
+          "scavenger"
+        ],
+        "deploy": "2",
+        "destiny": "2",
+        "extraText": [
+          "Force-Attuned"
+        ],
+        "forfeit": "4",
+        "gametext": "While at Starship Graveyard, a Tatooine site, or a docking bay, power +3 and may cancel I've Lost Artoo! or Lateral Damage (or Restraining Bolt here). During your control phase, if at a battleground with Grogu, a Jawa, or a landed starfighter, may retrieve 1 Force.",
+        "icons": [
+          "Set 26"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual26-Light/large/pelimotto.gif",
+        "lore": "Female mechanic and scavenger.",
+        "power": "1",
+        "subType": "Alien",
+        "title": "•Peli Motto",
+        "type": "Character",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Peli Motto/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "226_25",
+      "id": 7469,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "226"
+        }
+      ],
+      "rarity": "U1",
+      "rulings": [
+        "May cancel I've Lost Artoo! and Lateral Damage globally, but may only cancel Restraining Bolt at same location.",
+        "Retrieval works with a Jawa or landed starship belonging to either player."
+      ],
+      "set": "226",
+      "side": "Light"
+    },
+    {
+      "abbr": [
+        "QV"
+      ],
+      "cancels": [
+        "Sniper"
+      ],
+      "combo": [
+        "Dark Approach",
+        "Leesub Sirln (V)"
+      ],
+      "front": {
+        "ability": "7",
+        "characteristics": [
+          "Jedi survivor"
+        ],
+        "deploy": "8",
+        "destiny": "1",
+        "extraText": [
+          "Jedi Master"
+        ],
+        "forfeit": "8",
+        "gametext": "Adds 2 to power of anything he pilots. Adds one battle destiny with Dooku, Grievous, or Ventress. Once per turn, may peek at the top card of a Reserve Deck or subtract 1 from a just drawn weapon destiny here. Dark Approach is a Used Interrupt. Immune to Sniper and attrition < 6 (< 8 if alone).",
+        "icons": [
+          "Pilot",
+          "Warrior",
+          "Set 26"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual26-Light/large/quinlanvos.gif",
+        "lore": "Jedi survivor.",
+        "power": "7",
+        "subType": "Jedi Master",
+        "title": "•Quinlan Vos",
+        "type": "Character",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Quinlan Vos/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "226_26",
+      "id": 7470,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "226"
+        }
+      ],
+      "pulledBy": [
+        "Fallen Order"
+      ],
+      "rarity": "U",
+      "rulings": [
+        "Cards referring to 'Vos' (e.g. A Lawless Time or Qi'ra) refer only to Dryden Vos. Quinlan Vos' persona name is 'Quinlan'.",
+        "Dark Approach is a Used Interrupt even if used in a battle elsewhere on table.",
+        "If the battle is at Quinlan's location but Quinlan is excluded from the battle, he is inactive and does not make Dark Approach a Used Interrupt."
+      ],
+      "set": "226",
+      "side": "Light"
+    },
+    {
+      "abbr": [
+        "SATB"
+      ],
+      "combo": [
+        "Tatooine: Skywalker Hut"
+      ],
+      "front": {
+        "destiny": "3",
+        "gametext": "LOST: Relocate Prophecy Of The Force to a site. STARTING: If your starting location was Skywalker Hut, deploy Prophecy Of The Force there, Do, Or Do Not, and Jedi Business. Light Side goes first. Place Interrupt in Reserve Deck.",
+        "icons": [],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual26-Light/large/somethingaboutthisboy.gif",
+        "lore": "'What'd he mean by that?' 'I'll tell you later.'",
+        "subType": "Lost Or Starting",
+        "title": "•Something About This Boy",
+        "type": "Interrupt",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Something About This Boy/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "226_27",
+      "id": 7471,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "226"
+        }
+      ],
+      "pulls": [
+        "Do, Or Do Not",
+        "Do, Or Do Not & Wise Advice",
+        "Jedi Business",
+        "Prophecy Of The Force"
+      ],
+      "rarity": "C",
+      "set": "226",
+      "side": "Light"
+    },
+    {
+      "abbr": [
+        "THP/GAAT"
+      ],
+      "combo": [
+        "Jedi Lightsaber (V)"
+      ],
+      "back": {
+        "destiny": "7",
+        "gametext": "The Hidden Path: Deploy Mining Village, Safehouse, Underground Corridor, and Fallen Order. For remainder of game, you may not deploy <> locations or Jedi (except Jedi survivors). Once per turn, may deploy a Jabiim site or a battleground (except a Kamino, Tatooine, or [Reflections III] location) from Reserve Deck; reshuffle. While this side up, you may not play Nabrun Leids. Your Force drains at Mapuzo sites are -1. Once per turn, may deploy a holocron from Reserve Deck; reshuffle. Flip this card if Jedi occupy two non-Mapuzo sites. Gather Allies And Train: While this side up, if your holocron is about to leave table, place it in Used Pile. Your lightsaber Force drain bonuses may not be canceled. Opponent's total battle destiny where they have a character of ability > 4 is -1. During your move phase, may relocate a Jedi between a Jabiim site and a battleground site as a regular move for free. At the end of your turn, opponent loses 1 Force. Flip this card if Jedi do not occupy two sites.",
+        "icons": [
+          "Set 26"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual26-Light/large/gatheralliesandtrain.gif",
+        "title": "The Hidden Path / Gather Allies And Train",
+        "type": "Objective",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Gather Allies And Train/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "front": {
+        "destiny": "0",
+        "gametext": "The Hidden Path: Deploy Mining Village, Safehouse, Underground Corridor, and Fallen Order. For remainder of game, you may not deploy <> locations or Jedi (except Jedi survivors). Once per turn, may deploy a Jabiim site or a battleground (except a Kamino, Tatooine, or [Reflections III] location) from Reserve Deck; reshuffle. While this side up, you may not play Nabrun Leids. Your Force drains at Mapuzo sites are -1. Once per turn, may deploy a holocron from Reserve Deck; reshuffle. Flip this card if Jedi occupy two non-Mapuzo sites. Gather Allies And Train: While this side up, if your holocron is about to leave table, place it in Used Pile. Your lightsaber Force drain bonuses may not be canceled. Opponent's total battle destiny where they have a character of ability > 4 is -1. During your move phase, may relocate a Jedi between a Jabiim site and a battleground site as a regular move for free. At the end of your turn, opponent loses 1 Force. Flip this card if Jedi do not occupy two sites.",
+        "icons": [
+          "Set 26"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual26-Light/large/thehiddenpath.gif",
+        "title": "The Hidden Path / Gather Allies And Train",
+        "type": "Objective",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/The Hidden Path/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "226_28",
+      "id": 7472,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "226"
+        }
+      ],
+      "pulls": [
+        "Fallen Order",
+        "Mapuzo: Mining Village",
+        "Mapuzo: Safehouse",
+        "Mapuzo: Underground Corridor",
+        "Jabiim: Path Operations Center",
+        "Jabiim: Starship Hangar",
+        "Jedi Holocron",
+        "Most battleground locations"
+      ],
+      "rarity": "U",
+      "rulings": [
+        "Mapuzo's layout requires the Safehouse as the middle site.",
+        "Relocating a Jedi between a Jabiim site and a battleground site is once per turn, and works in both directions."
+      ],
+      "set": "226",
       "side": "Light"
     }
   ]

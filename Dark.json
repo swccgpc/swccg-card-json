@@ -10274,7 +10274,13 @@
       ],
       "rarity": "R",
       "set": "5",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+        {
+          "cardId": 7445,
+          "title": "Cloud City: Dining Room (V)"
+        }
+      ]
     },
     {
       "counterpart": "Cloud City: Downtown Plaza",
@@ -13197,7 +13203,13 @@
       ],
       "rarity": "R",
       "set": "7",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+        {
+          "cardId": 7446,
+          "title": "Coruscant (V)"
+        }
+      ]
     },
     {
       "counterpart": "Coruscant",
@@ -24356,7 +24368,13 @@
       ],
       "rarity": "R2",
       "set": "1",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+        {
+          "cardId": 7448,
+          "title": "Garindan, Imperial Spy"
+        }
+      ]
     },
     {
       "front": {
@@ -25568,7 +25586,13 @@
       ],
       "rarity": "PM",
       "set": "10",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+        {
+          "cardId": 7449,
+          "title": "Guri (V)"
+        }
+      ]
     },
     {
       "front": {
@@ -28245,6 +28269,8 @@
       "pulls": [
         "Cloud City: Carbonite Chamber",
         "Cloud City: Chasm Walkway",
+        "Cloud City: Chasm Walkway (V)",
+        "Cloud City: Dining Room (V)",
         "Cloud City: Incinerator",
         "Cloud City: Interrogation Room",
         "Cloud City: Lower Corridor",
@@ -28253,7 +28279,13 @@
       ],
       "rarity": "R",
       "set": "11",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+        {
+          "cardId": 7450,
+          "title": "I'm Sorry (V)"
+        }
+      ]
     },
     {
       "front": {
@@ -29884,6 +29916,10 @@
         {
           "cardId": 7262,
           "title": "A Lawless Time (AI)"
+        },
+        {
+          "cardId": 7451,
+          "title": "Information Exchange (V)"
         }
       ]
     },
@@ -36555,8 +36591,7 @@
     {
       "abbr": [
         "EPP Mara",
-        "MJ",
-        "Shannon McRandle"
+        "MJ"
       ],
       "front": {
         "ability": "5",
@@ -36695,6 +36730,10 @@
       "side": "Dark",
       "underlyingCardFor": [
         {
+          "cardId": 7452,
+          "title": "Mara Jade, The Emperor's Hand (V)"
+        },
+        {
           "cardId": 4029,
           "title": "Mara Jade With Lightsaber"
         }
@@ -36723,7 +36762,8 @@
       "matchingWeapon": [
         "Arica",
         "Arica (V)",
-        "Mara Jade, The Emperor's Hand"
+        "Mara Jade, The Emperor's Hand",
+        "Mara Jade, The Emperor's Hand (V)"
       ],
       "printings": [
         {
@@ -36733,6 +36773,7 @@
       "pulledBy": [
         "I Will Finish What You Started",
         "Mara Jade, The Emperor's Hand",
+        "Mara Jade, The Emperor's Hand (V)",
         "Maul Strikes"
       ],
       "rarity": "PM",
@@ -40565,7 +40606,13 @@
         "See It's Worse and It Could Be Worse for various rulings."
       ],
       "set": "10",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+        {
+          "cardId": 7453,
+          "title": "Ommni Box & It's Worse (V)"
+        }
+      ]
     },
     {
       "front": {
@@ -44909,7 +44956,13 @@
       ],
       "rarity": "R",
       "set": "7",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+        {
+          "cardId": 7457,
+          "title": "Welcome Home, Lord Tyranus"
+        }
+      ]
     },
     {
       "front": {
@@ -45494,7 +45547,13 @@
         "This character is female."
       ],
       "set": "7",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+        {
+          "cardId": 7454,
+          "title": "Rystall (V)"
+        }
+      ]
     },
     {
       "combo": [
@@ -45728,8 +45787,14 @@
       ]
     },
     {
+      "combo": [
+        "Jabba The Hutt (V)"
+      ],
       "front": {
         "ability": "1",
+        "characteristics": [
+          "Kowakian"
+        ],
         "deploy": "1",
         "destiny": "3",
         "forfeit": "3",
@@ -45754,7 +45819,8 @@
         }
       ],
       "pulledBy": [
-        "Hondo Ohnaka"
+        "Hondo Ohnaka",
+        "No Bargain (V)"
       ],
       "rarity": "R",
       "rulings": [
@@ -45763,7 +45829,13 @@
         "When a destiny card is lost, this does not affect the destiny value (e.g. a battle destiny draw of 5 is still a 5 after the card is lost)."
       ],
       "set": "6",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+        {
+          "cardId": 7455,
+          "title": "Salacious Crumb (V)"
+        }
+      ]
     },
     {
       "counterpart": "Sandcrawler",
@@ -53395,7 +53467,7 @@
         "deploy": "3",
         "destiny": "3",
         "forfeit": "4",
-        "gametext": "May add 1 pilot. May move as a 'react.' Permanent pilot provides ability of 2. Unless this vehicle 'hit,' your other vehicles here may not be targeted by non-character weapons or opponent's Interrupts.",
+        "gametext": "May add 1 pilot. May move as a 'react.' Permanent pilot provides ability of 2. Unless this vehicle 'hit,' your other vehicles here may not be targeted by artillery weapons, vehicle weapons, or opponent's Interrupts.",
         "icons": [
           "Pilot",
           "Scomp Link",
@@ -54770,7 +54842,13 @@
       ],
       "rarity": "PM",
       "set": "109",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+        {
+          "cardId": 7456,
+          "title": "This Deal Is Getting Worse All The Time / Pray I Don't Alter It Any Further (V)"
+        }
+      ]
     },
     {
       "canceledBy": [
@@ -56302,7 +56380,13 @@
       ],
       "rarity": "U2",
       "set": "1",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+        {
+          "cardId": 7447,
+          "title": "Endless Legions"
+        }
+      ]
     },
     {
       "front": {
@@ -70623,6 +70707,9 @@
       "abbr": [
         "YPAWOMv"
       ],
+      "combo": [
+        "Ommni Box & It's Worse (V)"
+      ],
       "front": {
         "destiny": "5",
         "gametext": "If opponent just lost a battle, they lose 2 Force. OR During battle, if Obi-Wan is participating (or 'communing'), add one battle destiny; characters may not be 'revived' this turn. OR Cancel Clash Of Sabers targeting your Dark Jedi.",
@@ -70646,6 +70733,9 @@
         }
       ],
       "rarity": "R1",
+      "rulings": [
+        "Multiple copies of this card may be played after winning a battle, causing 2 Force loss each."
+      ],
       "set": "222",
       "side": "Dark"
     },
@@ -74233,6 +74323,615 @@
         "However, note that Wealth's 'subtract 1 from attrition' is not cumulative."
       ],
       "set": "225",
+      "side": "Dark"
+    },
+    {
+      "abbr": [
+        "CCDRv"
+      ],
+      "front": {
+        "darkSideIcons": 2,
+        "destiny": "0",
+        "gametext": "Dark: Vader, your Boba Fett, and your Lando deploy -1 here. May deploy Lando here from Reserve Deck; reshuffle. Light: Chewie, Han, Leia, and your Lando move to here using landspeed for free.",
+        "icons": [
+          "Cloud City",
+          "Interior",
+          "Mobile",
+          "Scomp Link",
+          "Set 26"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual26-Dark/large/cloudcitydiningroom.gif",
+        "lightSideIcons": 1,
+        "subType": "Site",
+        "title": "•Cloud City: Dining Room (V)",
+        "type": "Location",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Cloud City Dining Room (V)/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "226_1",
+      "id": 7445,
+      "legacy": false,
+      "pulledBy": [
+        "I'm Sorry",
+        "I'm Sorry (V)",
+        "This Deal Is Getting Worse All The Time",
+        "This Deal Is Getting Worse All The Time (V)"
+      ],
+      "pulls": [
+        "Lando Calrissian",
+        "Lando Calrissian, Vader's Broker"
+      ],
+      "printings": [
+        {
+          "set": "226"
+        }
+      ],
+      "rarity": "R",
+      "set": "226",
+      "side": "Dark"
+    },
+    {
+      "cancels": [
+        "Suspends Menace Fades"
+      ],
+      "front": {
+        "darkSideIcons": 2,
+        "destiny": "0",
+        "gametext": "Dark: Invisible Hand is hyperspeed +3 when moving to or from here. Your [Episode I] pilots deploy -1 here. Light: While Invisible Hand controls this system, Menace Fades is suspended.",
+        "icons": [
+          "Planet",
+          "Episode I",
+          "Set 26"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual26-Dark/large/coruscant.gif",
+        "lightSideIcons": 1,
+        "parsec": "0",
+        "subType": "System",
+        "title": "•Coruscant (V)",
+        "type": "Location",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Coruscant (Special Edition) (Dark) (V)/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "226_2",
+      "id": 7446,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "226"
+        }
+      ],
+      "rarity": "R",
+      "set": "226",
+      "side": "Dark"
+    },
+    {
+      "abbr": [
+        "EL"
+      ],
+      "front": {
+        "destiny": "4",
+        "gametext": "If your stormtroopers occupy three battlegrounds and/or Rebel Base locations, choose: Draw three cards from Force Pile, then place two cards from hand on Force Pile. OR Once per game, if you just lost a non-[Maintenance] stormtrooper, take it into hand.",
+        "icons": [
+          "Set 26"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual26-Dark/large/endlesslegions.gif",
+        "lore": "Imperial troopers are fearless and totally indoctrinated. Backed by the most powerful weapons and starships in the galaxy, they tend to consider themselves invincible.",
+        "title": "•Endless Legions",
+        "type": "Used Interrupt",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Endless Legions/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "226_3",
+      "id": 7447,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "226"
+        }
+      ],
+      "rarity": "U2",
+      "rulings": [
+        "To initiate the first function requires a card in Force Pile.",
+        "To initiate the first function also requires a card in hand, but Endless Legions itself satisfies this requirement (provided that it is being played from hand).",
+        "If the Force Pile contains only 1 or 2 cards, the player will draw them, then the action will end without placing any cards back."
+      ],
+      "set": "226",
+      "side": "Dark"
+    },
+    {
+      "abbr": [
+        "GIS"
+      ],
+      "front": {
+        "ability": "1",
+        "characteristics": [
+          "Kubaz",
+          "spy"
+        ],
+        "deploy": "2",
+        "destiny": "4",
+        "forfeit": "3",
+        "gametext": "Imperials move to here using landspeed for free. If present at a site and not 'hit,' may place Garindan in Used Pile to cancel a just drawn weapon destiny targeting your other character here (or to make an Undercover spy here lost).",
+        "icons": [
+          "Set 26"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual26-Dark/large/garindanimperialspy.gif",
+        "lore": "Long-nosed, male Kubaz from Kubindi. Spy. Squealed on Obi-Wan and Luke outside Docking Bay 94. Works for Jabba the Hutt or the highest bidder. Not particularly brave.",
+        "power": "1",
+        "subType": "Alien/Imperial",
+        "title": "•Garindan, Imperial Spy",
+        "type": "Character",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Garindan, Imperial Spy/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "226_4",
+      "id": 7448,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "226"
+        }
+      ],
+      "rarity": "R2",
+      "rulings": [
+        "Works with Imperial Enforcement.",
+        "Works with Scum And Villainy.",
+        "Prevents playing None Shall Pass."
+      ],
+      "set": "226",
+      "side": "Dark"
+    },
+    {
+      "front": {
+        "armor": "5",
+        "characteristics": [
+          "assassin",
+          "Black Sun agent",
+          "female"
+        ],
+        "deploy": "4",
+        "destiny": "2",
+        "extraText": [
+          "Assassin Droid"
+        ],
+        "forfeit": "6",
+        "gametext": "Adds 2 to power of anything she pilots. While Guri and Xizor present at same site, Force drain +1 here and Xizor may not be targeted by weapons (unless Guri 'hit'). While your [Reflections II] objective on table, draws one battle destiny if unable to otherwise and immune to attrition < 5.",
+        "icons": [
+          "Reflections II",
+          "Pilot",
+          "Warrior",
+          "Presence",
+          "Set 26"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual26-Dark/large/guri.gif",
+        "lore": "Human-replica droid. Programmed to function as Xizor's personal bodyguard and assassin. Black Sun agent. Cost 9 million credits. Worth every decicred.",
+        "power": "6",
+        "subType": "Droid",
+        "title": "•Guri (V)",
+        "type": "Character",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Guri (V)/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "226_5",
+      "id": 7449,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "226"
+        }
+      ],
+      "rarity": "PM",
+      "rulings": [
+        "This character is female.",
+        "First sentence requires both Guri (V) and Xizor to be present at the site (not in a starship or enclosed vehicle).",
+        "Reflections II objective is required for Guri (V) to be immune to attrition < 5."
+      ],
+      "set": "226",
+      "side": "Dark"
+    },
+    {
+      "abbr": [
+        "ISv"
+      ],
+      "cancels": [
+        "Elis Helrot",
+        "Stunning Leader",
+        "Surreptitious Glance"
+      ],
+      "front": {
+        "destiny": "5",
+        "gametext": "If your [Cloud City] objective on table, deploy on table. Elis Helrot, Stunning Leader, and Surreptitious Glance may not be played. Once per turn, may deploy an interior Cloud City site from Reserve Deck; reshuffle. Your unique (•) characters with printed forfeit < 5 are forfeit +2 (limit +2). [Immune to Alter.]",
+        "icons": [
+          "Tatooine",
+          "Cloud City",
+          "Set 26"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual26-Dark/large/imsorry.gif",
+        "lore": "'I'm sorry, too.'",
+        "title": "•I'm Sorry (V)",
+        "type": "Effect",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/I'm Sorry (V)/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "226_6",
+      "id": 7450,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "226"
+        }
+      ],
+      "pulls": [
+        "Cloud City: Carbonite Chamber",
+        "Cloud City: Chasm Walkway",
+        "Cloud City: Chasm Walkway (V)",
+        "Cloud City: Dining Room",
+        "Cloud City: Dining Room (V)",
+        "Cloud City: Incinerator",
+        "Cloud City: Interrogation Room",
+        "Cloud City: Lower Corridor",
+        "Cloud City: Security Tower",
+        "Cloud City: Security Tower (V)",
+        "Cloud City: Upper Plaza Corridor",
+        "Cloud City: West Gallery"
+      ],
+      "rarity": "R",
+      "set": "226",
+      "side": "Dark"
+    },
+    {
+      "abbr": [
+        "IEv"
+      ],
+      "front": {
+        "destiny": "5",
+        "gametext": "Deploy on table. Black Sun agents are forfeit and defense value +1. Once per turn, if you just deployed an information broker, may exchange the top card of Force Pile with any one card in hand. [Reflections II] Emperor deploys -1 and moves for free. [Immune to Alter.]",
+        "icons": [
+          "Jabba's Palace",
+          "Reflections II",
+          "Set 26"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual26-Dark/large/informationexchange.gif",
+        "lore": "'Chisa nyooda ishaley. Kun Jabba neguda len malta.' 'Ikkit ui! Yobbit, yobbit. Nelan tui ke bada.'",
+        "title": "•Information Exchange (V)",
+        "type": "Effect",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Information Exchange (V)/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "226_7",
+      "id": 7451,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "226"
+        }
+      ],
+      "rarity": "U",
+      "rulings": [
+        "This works with Black Sun Fleet (deploy a Black Sun agent to a site, they become an information broker, then Dark exchanges a card)."
+      ],
+      "set": "226",
+      "side": "Dark"
+    },
+    {
+      "abbr": [
+        "MJTEHv",
+        "Mara TEHv",
+        "Shannon McRandle"
+      ],
+      "cancels": [
+        "Rebel Barrier"
+      ],
+      "combo": [
+        "Master Sidious",
+        "Revenge Of The Sith"
+      ],
+      "front": {
+        "ability": "5",
+        "characteristics": [
+          "female",
+          "spy"
+        ],
+        "deploy": "5",
+        "destiny": "1",
+        "extraText": [
+          "Force-Sensitive"
+        ],
+        "forfeit": "7",
+        "gametext": "Functions as your apprentice. Battle destiny draws may not be added here. May deploy Mara Jade's Lightsaber here from Reserve Deck; reshuffle. If you just won a battle here, may retrieve a card with 'Mara' in game text. Immune to Rebel Barrier and attrition < 4 (< 5 if Luke on table).",
+        "icons": [
+          "Premium",
+          "Pilot",
+          "Warrior",
+          "Death Star II",
+          "Set 26"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual26-Dark/large/marajadetheemperorshand.gif",
+        "lore": "Spy. Ordered to kill Luke Skywalker. Assumed the identity of a dancer named 'Arica' in order to sneak into Jabba's palace.",
+        "power": "4",
+        "subType": "Alien/Imperial",
+        "title": "•Mara Jade, The Emperor's Hand (V)",
+        "type": "Character",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Mara Jade, The Emperor's Hand (V)/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "226_8",
+      "id": 7452,
+      "legacy": false,
+      "matchingWeapon": [
+        "Mara Jade's Lightsaber"
+      ],
+      "printings": [
+        {
+          "set": "226"
+        }
+      ],
+      "pulledBy": [
+        "Blizzard 4",
+        "Murttoc Yine"
+      ],
+      "pulls": [
+        "Mara Jade's Lightsaber"
+      ],
+      "rarity": "PM",
+      "rulings": [
+        "Used with Revenge Of The Sith, Mara functions as your chosen apprentice in addition to your actual chosen apprentice.",
+        "Used with Revenge Of The Sith, Mara functions as your chosen apprentice (and therefore is a Sith) in all card states and thus benefits from the destiny +2 on ROTS.",
+        "Even without Revenge Of The Sith, Mara is your apprentice, e.g. works with Master Sidious."
+      ],
+      "set": "226",
+      "side": "Dark"
+    },
+    {
+      "abbr": [
+        "OB&IWv"
+      ],
+      "canceledBy": [
+        "It's A Hit! (partially immune)"
+      ],
+      "cancels": [
+        "Blast The Door, Kid!",
+        "It Could Be Worse"
+      ],
+      "combo": [
+        "Sy Snootles",
+        "Tech Mo'r",
+        "Your Powers Are Weak, Old Man (V)"
+      ],
+      "front": {
+        "destiny": "5",
+        "gametext": "USED: For remainder of turn, you lose no Force to the following cards on table (if any): A Good Blaster At Your Side, No Disintegrations!, Stardust, and They Will Be Lost And Confused. OR Cancel Blast The Door, Kid! or It Could Be Worse. (Immune to It's A Hit!) OR Shuffle any player's Reserve Deck or Lost Pile. LOST: If opponent just lost a battle, they lose 2 Force.",
+        "icons": [
+          "Reflections II",
+          "Set 26"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual26-Dark/large/ommniboxitsworse.gif",
+        "subType": "Used Or Lost",
+        "title": "Ommni Box & It's Worse (V)",
+        "type": "Interrupt",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Ommni Box & It's Worse (V)/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "226_9",
+      "id": 7453,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "226"
+        }
+      ],
+      "rarity": "PM",
+      "rulings": [
+        "Multiple copies of this card may be played after winning a battle, causing 2 Force loss each."
+      ],
+      "set": "226",
+      "side": "Dark"
+    },
+    {
+      "front": {
+        "ability": "2",
+        "characteristics": [
+          "Black Sun agent",
+          "female",
+          "musician"
+        ],
+        "deploy": "2",
+        "destiny": "3",
+        "forfeit": "3",
+        "gametext": "Power and forfeit +2 at a Coruscant site. Once per turn, if you just deployed a Black Sun agent to same site, may retrieve 1 Force. If opponent's [Maintenance] card just deployed here, it may not battle for remainder of turn.",
+        "icons": [
+          "Special Edition",
+          "Set 26"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual26-Dark/large/rystall.gif",
+        "lore": "Musician. Raised by Ortolans. Grew up on the streets of Coruscant. Rescued from the Black Sun crime cartel by Lando Calrissian.",
+        "power": "1",
+        "subType": "Alien",
+        "title": "•Rystall (V)",
+        "type": "Character",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Rystall (V)/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "226_10",
+      "id": 7454,
+      "legacy": false,
+      "pulledBy": [
+        "Ak-rev",
+        "Coruscant: Imperial City (V)"
+      ],
+      "printings": [
+        {
+          "set": "226"
+        }
+      ],
+      "rarity": "R",
+      "rulings": [
+        "May respond to her own deployment.",
+        "This character is female."
+      ],
+      "set": "226",
+      "side": "Dark"
+    },
+    {
+      "abbr": [
+        "SCv"
+      ],
+      "combo": [
+        "Jabba The Hutt (V)"
+      ],
+      "front": {
+        "ability": "1",
+        "characteristics": [
+          "Kowakian"
+        ],
+        "deploy": "1",
+        "destiny": "3",
+        "forfeit": "3",
+        "gametext": "When deployed, may reveal the top two cards of your Reserve Deck; take one into hand and place the other in Used Pile. Unless Crumb is 'hit', your leaders here may not be targeted by weapons. Undercover spies here are lost. ('AH-hahahaha!')",
+        "icons": [
+          "Jabba's Palace",
+          "Set 26"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual26-Dark/large/salaciouscrumb.gif",
+        "lore": "Male Kowakian. Prankster. Humiliates others for Jabba's amusement. His life depends on making Jabba laugh at least once per day.",
+        "power": "1",
+        "subType": "Alien",
+        "title": "•Salacious Crumb (V)",
+        "type": "Character",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Salacious Crumb (V)/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "226_11",
+      "id": 7455,
+      "legacy": false,
+      "pulledBy": [
+        "Hondo Ohnaka",
+        "No Bargain (V)"
+      ],
+      "printings": [
+        {
+          "set": "226"
+        }
+      ],
+      "rarity": "R",
+      "rulings": [
+        "If Salacious Crumb is a leader (e.g. due to being the Rep in My Kind Of Scum) he prevents himself from being targeted by weapons."
+      ],
+      "set": "226",
+      "side": "Dark"
+    },
+    {
+      "abbr": [
+        "TDIGWATT/PIDAIAFv",
+        "TDIGWATTv"
+      ],
+      "back": {
+        "destiny": "7",
+        "gametext": "This Deal Is Getting Worse All The Time: Deploy a Cloud City battleground site and [Cloud City] I'm Sorry. For remainder of game, you may not deploy Admiral's Orders. During your control phase, your Lando may make a regular move. While this side up, once per turn, may take Cloud City Occupation, Dark Deal, Vader's Bounty, or [Special Edition] Bespin into hand from Reserve Deck; reshuffle. Flip this card if you control 3 Bespin locations and opponent controls fewer than 3 Bespin locations. Pray I Don't Alter It Any Further: While this side up, Sense and Alter may not be played. Force drain bonuses at same site as your Lando or your Lobot may not be canceled. While Vader at a Bespin location, game text of Admiral's Orders is canceled and, if a character was just frozen, opponent loses 3 Force. If your alien/Imperial pair in battle, your total battle destiny is +2. If your Lando in battle, may target a character present with him; target is forfeit = 0. Flip this card if opponent controls more Bespin locations than you.",
+        "icons": [
+          "Cloud City",
+          "Premium",
+          "Set 26"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual26-Dark/large/prayidontalteritanyfurther.gif",
+        "title": "This Deal Is Getting Worse All The Time / Pray I Don't Alter It Any Further (V)",
+        "type": "Objective",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Pray I Don't Alter It Any Further (V)/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "cancels": [
+        "Alter",
+        "Sense",
+        "Admiral's Orders game text"
+      ],
+      "front": {
+        "destiny": "0",
+        "gametext": "This Deal Is Getting Worse All The Time: Deploy a Cloud City battleground site and [Cloud City] I'm Sorry. For remainder of game, you may not deploy Admiral's Orders. During your control phase, your Lando may make a regular move. While this side up, once per turn, may take Cloud City Occupation, Dark Deal, Vader's Bounty, or [Special Edition] Bespin into hand from Reserve Deck; reshuffle. Flip this card if you control 3 Bespin locations and opponent controls fewer than 3 Bespin locations. Pray I Don't Alter It Any Further: While this side up, Sense and Alter may not be played. Force drain bonuses at same site as your Lando or your Lobot may not be canceled. While Vader at a Bespin location, game text of Admiral's Orders is canceled and, if a character was just frozen, opponent loses 3 Force. If your alien/Imperial pair in battle, your total battle destiny is +2. If your Lando in battle, may target a character present with him; target is forfeit = 0. Flip this card if opponent controls more Bespin locations than you.",
+        "icons": [
+          "Cloud City",
+          "Premium",
+          "Set 26"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual26-Dark/large/thisdealisgettingworseallthetime.gif",
+        "title": "This Deal Is Getting Worse All The Time / Pray I Don't Alter It Any Further (V)",
+        "type": "Objective",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/This Deal Is Getting Worse All The Time (V)/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "226_12",
+      "id": 7456,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "226"
+        }
+      ],
+      "pulls": [
+        "Bespin (V)",
+        "Cloud City Occupation",
+        "Dark Deal",
+        "Dark Deal (V)",
+        "Vader's Bounty"
+      ],
+      "rarity": "PM",
+      "rulings": [
+        "Multiple alien/Imperial pairs still only gives total battle destiny +2, not +4 or more."
+      ],
+      "set": "226",
+      "side": "Dark"
+    },
+    {
+      "abbr": [
+        "WHLT"
+      ],
+      "cancels": [
+        "Sense"
+      ],
+      "combo": [
+        "Darth Tyranus",
+        "Revenge Of The Sith"
+      ],
+      "front": {
+        "destiny": "6",
+        "gametext": "If Dooku is your apprentice, choose: Take Petranaki Arena or The Works into hand from Reserve Deck; reshuffle. OR If Dooku and Sidious on table, cancel Sense. OR Once per game, if Darth Tyranus in battle at a site and you are about to draw a card for battle destiny, instead use his ability number.",
+        "icons": [
+          "Set 26"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual26-Dark/large/welcomehomelordtyranus.gif",
+        "lore": "Blank.",
+        "subType": "Lost",
+        "title": "•Welcome Home, Lord Tyranus",
+        "type": "Interupt",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Welcome Home, Lord Tyranus/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "226_13",
+      "id": 7457,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "226"
+        }
+      ],
+      "pulls": [
+        "Coruscant: The Works"
+      ],
+      "rarity": "R",
+      "rulings": [
+        "The third function only works with a card titled exactly 'Darth Tyranus'."
+      ],
+      "set": "226",
       "side": "Dark"
     }
   ]
