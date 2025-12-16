@@ -2203,6 +2203,7 @@
         "armor": "4",
         "deploy": "3",
         "destiny": "3",
+        "forfeit": "4",
         "gametext": "Adds 2 to the power of anything he pilots. May not be targeted by weapons unless your other slavers present are each 'hit'. Permanent weapon is •Bossk's Mortar Gun (may target a character for free. Draw destiny. Target hit and forfeit =0, if destiny matches target's destiny number).",
         "icons": ["Pilot", "Warrior", "Permanent Weapon"],
         "imageUrl": "https://res.starwarsccg.org/cards/legacy/VirtualBlock8-Dark/large/bosskwithmortargun.gif",
@@ -6143,6 +6144,7 @@
           "Force-Attuned"
         ],
         "forfeit": "5",
+        "gametext": "During battle, if [Virtual Block 4] No Bargain on table, may lose 2 Force to cancel a non-[Immune to Sense] Interrupt.  Once per game, during your move phase, may relocate any of your characters here to a site you occupy as a regular move (or vice versa).  Immune to attrition < 3.",
         "icons": [
           "Episode I"
         ],
@@ -14418,6 +14420,9 @@
       "front": {
         "destiny": "6",
         "gametext": "Deploy on Galen, Grievous or your female of ability >3. Character is immunity to attrition +2 (and power +2 if female). May add 1 to Force drain where present. This device lost if character Disarmed.",
+        "icons": [
+          "Premium"
+        ],
         "imageUrl": "https://res.starwarsccg.org/cards/legacy/VirtualBlock7-Dark/large/trophyofakill.gif",
         "title": "••Trophy Of A Kill",
         "type": "Device"
