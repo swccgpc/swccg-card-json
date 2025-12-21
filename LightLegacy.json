@@ -765,7 +765,7 @@
     {
       "front": {
         "destiny": "4",
-        "gametext": "USED: Cancel Disarmed or Stunning Leader. OR  If a battle was just initiated, deploy a character weapon on your participating character from Reserve Deck (or hand); reshuffle. LOST: Use 1 Force to deploy (or retrieve) non-[Reflections 3] Obi-Wan from Reserve Deck; reshuffle. OR  If opponent just initiated a battle against non-[Reflections 3] Obi-Wan alone at a site, his forfeit cannot be reduced.",
+        "gametext": "USED: Cancel Disarmed or Stunning Leader. OR If a battle was just initiated, deploy a character weapon on your participating character from Reserve Deck (or hand); reshuffle. LOST: Use 1 Force to deploy (or retrieve) non-[Reflections 3] Obi-Wan from Reserve Deck; reshuffle. OR If opponent just initiated a battle against non-[Reflections 3] Obi-Wan alone at a site, his forfeit cannot be reduced.",
         "icons": [
           "Cloud City"
         ],
@@ -1174,7 +1174,7 @@
     {
       "front": {
         "destiny": "5",
-        "gametext": "USED: An opponent's just drawn [Permanent Weapon] weapon destiny is -3. (Immune to Sense.)  LOST: Once per game, retrieve up to 5 weapons (may take one retireved card into hand).",
+        "gametext": "USED: An opponent's just drawn [Permanent Weapon] weapon destiny is -3. (Immune to Sense.) LOST: Once per game, retrieve up to 5 weapons (may take one retireved card into hand).",
         "icons": [
           "Dagobah"
         ],
@@ -3600,7 +3600,7 @@
     {
       "front": {
         "destiny": "4",
-        "gametext": "During the weapons segment, if your character is about to be lost, it is instead lost at end of battle (forfeit for 0). OR  Play a Defensive Shield from under your Starting Effect. OR  During the power segment, cancel a just drawn destiny (except battle destiny).",
+        "gametext": "During the weapons segment, if your character is about to be lost, it is instead lost at end of battle (forfeit for 0). OR Play a Defensive Shield from under your Starting Effect. OR During the power segment, cancel a just drawn destiny (except battle destiny).",
         "icons": [
           "Cloud City"
         ],
@@ -3648,7 +3648,7 @@
     {
       "front": {
         "destiny": "3",
-        "gametext": "Deploy a battleground system from Reserve Deck; reshuffle. OR  If opponent just modified your battle destiny draw, cancel and redraw it (it may not be modified). OR  If opponent just canceled your battle destiny draw, make that destiny = X instead, where X is the number of battlegrounds you occupy.",
+        "gametext": "Deploy a battleground system from Reserve Deck; reshuffle. OR If opponent just modified your battle destiny draw, cancel and redraw it (it may not be modified). OR If opponent just canceled your battle destiny draw, make that destiny = X instead, where X is the number of battlegrounds you occupy.",
         "icons": [
           "Special Edition"
         ],
@@ -3919,7 +3919,7 @@
       "conceptBy": "(Original concept by Clayton Atkin - California States 2009)",
       "front": {
         "destiny": "4",
-        "gametext": "If opponent just initiated battle, lose 1 Force to target a character present. Target is power +2 and loses all immunity to attrition this turn. OR  Once per game, exchange a character in hand with a character of the same persona from Lost Pile or Reserve Deck; reshuffle.",
+        "gametext": "If opponent just initiated battle, lose 1 Force to target a character present. Target is power +2 and loses all immunity to attrition this turn. OR Once per game, exchange a character in hand with a character of the same persona from Lost Pile or Reserve Deck; reshuffle.",
         "icons": [
           "Special Edition"
         ],
@@ -4346,7 +4346,7 @@
     {
       "front": {
         "destiny": "5",
-        "gametext": "Deploy on opponent's just deployed [Reflections 3][Maintenance] card; opponent loses 1 Force, you may retrieve 1 Force, and you may play a Defensive Shield from under your Starting Effect. Target is power -3 and opponent must use 1 Force to apply target's ability towards drawing battle destiny. During opponent's draw phase, opponent must lose 1 Force or place target in Lost Pile. If just lost, place this Effect in Used Pile. (Immune to Control.)  OR  If you are about to lose Force during opponent's control phase, deploy on table to reduce loss by 2.",
+        "gametext": "Deploy on opponent's just deployed [Reflections 3][Maintenance] card; opponent loses 1 Force, you may retrieve 1 Force, and you may play a Defensive Shield from under your Starting Effect. Target is power -3 and opponent must use 1 Force to apply target's ability towards drawing battle destiny. During opponent's draw phase, opponent must lose 1 Force or place target in Lost Pile. If just lost, place this Effect in Used Pile. (Immune to Control.) OR If you are about to lose Force during opponent's control phase, deploy on table to reduce loss by 2.",
         "icons": [
           "A New Hope"
         ],
@@ -5802,7 +5802,7 @@
       "conceptBy": "(Original concept by Ben Kline - Mystic Visions 2004)",
       "front": {
         "destiny": "5",
-        "gametext": "USED: Retrieve a device, or take a device into hand from Reserve Deck; reshuffle. (Immune to Sense.)  STARTING: If your starting location was a Tatooine location, deploy from Reserve Deck a farm, two devices, and two Effects that are always [Immune to Alter]. Place this Interrupt in Reserve Deck.",
+        "gametext": "USED: Retrieve a device, or take a device into hand from Reserve Deck; reshuffle. (Immune to Sense.) STARTING: If your starting location was a Tatooine location, deploy from Reserve Deck a farm, two devices, and two Effects that are always [Immune to Alter]. Place this Interrupt in Reserve Deck.",
         "icons": [
           "Special Edition"
         ],
@@ -5874,7 +5874,7 @@
     {
       "front": {
         "destiny": "5",
-        "gametext": "Take a 'grabber' into hand from Reserve Deck; reshuffle. (Immune to Sense.)  OR  Play a Defensive Shield from under your Starting Effect. OR  Cancel Counter Assault, [Virtual Block 2] Defensive Fire, Hidden Weapons, I'd Just As Soon Kiss A Wookiee, or Overload. OR  Lose 1 Force to cancel Cease Fire (except during a battle at a [Reflections 3] site).",
+        "gametext": "Take a 'grabber' into hand from Reserve Deck; reshuffle. (Immune to Sense.) OR Play a Defensive Shield from under your Starting Effect. OR Cancel Counter Assault, [Virtual Block 2] Defensive Fire, Hidden Weapons, I'd Just As Soon Kiss A Wookiee, or Overload. OR Lose 1 Force to cancel Cease Fire (except during a battle at a [Reflections 3] site).",
         "imageUrl": "https://res.starwarsccg.org/cards/legacy/VirtualBlock4-Light/large/hearmebabyholdtogether.gif",
         "lore": "Smuggler and Rebel starships use black market armor plating and deflector shields to withstand enemy fire. Expensive but life-saving modifications.",
         "subType": "Used",
@@ -6335,7 +6335,7 @@
       "conceptBy": "(Original concept by Chris Gogolen - League Cube Tournament 2009)",
       "front": {
         "destiny": "6",
-        "gametext": "If Rescue The Princess on table,LOST: Once per game, choose: Cancel an attempt to make non-Heroic R2-D2 lost. OR  Lose 2 Force to cancel a battle just initiated if Leia defending alone. [Immune to Sense.]  STARTING: Deploy from Reserve Deck Cell 2187 and one always-[Immune to Alter] Effect. Place this Interrupt in hand.",
+        "gametext": "If Rescue The Princess on table,LOST: Once per game, choose: Cancel an attempt to make non-Heroic R2-D2 lost. OR Lose 2 Force to cancel a battle just initiated if Leia defending alone. [Immune to Sense.]  STARTING: Deploy from Reserve Deck Cell 2187 and one always-[Immune to Alter] Effect. Place this Interrupt in hand.",
         "icons": [
           "A New Hope"
         ],
@@ -6627,7 +6627,7 @@
     {
       "front": {
         "destiny": "5",
-        "gametext": "Use 1 Force to take [Virtual Block 6] Phylo Gandish or an Immediate Effect into hand from Reserve Deck; reshuffle. OR  Use 2 Force to take an Effect that deploys for free into hand from Reserve Deck; reshuffle. OR  If a Dark Jedi on table, retrieve Return Of The Jedi into hand.",
+        "gametext": "Use 1 Force to take [Virtual Block 6] Phylo Gandish or an Immediate Effect into hand from Reserve Deck; reshuffle. OR Use 2 Force to take an Effect that deploys for free into hand from Reserve Deck; reshuffle. OR If a Dark Jedi on table, retrieve Return Of The Jedi into hand.",
         "icons": [
           "Special Edition"
         ],
@@ -6650,7 +6650,7 @@
     {
       "front": {
         "destiny": "4",
-        "gametext": "Use 1 Force to deploy (or retrieve) non-[Virtual] Amidala, Panaka, or Ric Olie from Reserve Deck; reshuffle. OR  If your ability = 3 character defending a battle alone at a site (except Senate), character is power +2, adds one destiny to power and may draw one battle destiny if not able to otherwise. (Immune to Sense.)",
+        "gametext": "Use 1 Force to deploy (or retrieve) non-[Virtual] Amidala, Panaka, or Ric Olie from Reserve Deck; reshuffle. OR If your ability = 3 character defending a battle alone at a site (except Senate), character is power +2, adds one destiny to power and may draw one battle destiny if not able to otherwise. (Immune to Sense.)",
         "icons": [
           "Episode I",
           "Coruscant"
@@ -10797,7 +10797,7 @@
     {
       "front": {
         "destiny": "4",
-        "gametext": "USED: Raise your converted Kashyyyk system to the top. (Immune to Sense.)  STARTING: If Kashyyyk was your starting location, deploy from Reserve Deck Forest Depths, Grrrghrrrgh!, and up to two Effects that are always [Immune to Alter]. Place this Interrupt in hand.",
+        "gametext": "USED: Raise your converted Kashyyyk system to the top. (Immune to Sense.) STARTING: If Kashyyyk was your starting location, deploy from Reserve Deck Forest Depths, Grrrghrrrgh!, and up to two Effects that are always [Immune to Alter]. Place this Interrupt in hand.",
         "icons": [
           "Cloud City"
         ],
@@ -11995,7 +11995,7 @@
     {
       "front": {
         "destiny": "4",
-        "gametext": "Deploy on a site to cancel a Force drain there. Skywalkers are power +1 here. At end of your turn, place this Effect in Lost Pile. OR  At any time, deploy on Sidious or [Virtual Block 3] Emperor. Opponent's Interrupts with 'Emperor' in game text are canceled and Sidious may not place Jedi out of play. (Immune to Control.)",
+        "gametext": "Deploy on a site to cancel a Force drain there. Skywalkers are power +1 here. At end of your turn, place this Effect in Lost Pile. OR At any time, deploy on Sidious or [Virtual Block 3] Emperor. Opponent's Interrupts with 'Emperor' in game text are canceled and Sidious may not place Jedi out of play. (Immune to Control.)",
         "icons": [
           "Death Star II"
         ],
