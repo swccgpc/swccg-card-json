@@ -2118,7 +2118,7 @@
         "deploy": "3",
         "destiny": "3",
         "forfeit": "4",
-        "gametext": "Artillery weapons here are 'powered.'  Permanent weapon is Blaster Cannon (may target a character, creature, or vehicle at same or adjacent site for free; draw destiny; target 'hit,' and its forfeit = 0, if destiny +1 > defense value).",
+        "gametext": "Artillery weapons here are 'powered.' Permanent weapon is Blaster Cannon (may target a character, creature, or vehicle at same or adjacent site for free; draw destiny; target 'hit,' and its forfeit = 0, if destiny +1 > defense value).",
         "icons": [
           "Warrior",
           "Permanent Weapon",
@@ -4667,7 +4667,7 @@
     {
       "front": {
         "destiny": "5",
-        "gametext": "Deploy on a holosite. [Virtual Block] Wipe Them Out, All Of Them ignores this site. 'Effect' on Alter may be treated as 'Mantellian Savrip.'  The game text of your Effects here may not be suspended. Except during battles here, may play your Interrupts here as if from hand.",
+        "gametext": "Deploy on a holosite. [Virtual Block] Wipe Them Out, All Of Them ignores this site. 'Effect' on Alter may be treated as 'Mantellian Savrip.' The game text of your Effects here may not be suspended. Except during battles here, may play your Interrupts here as if from hand.",
         "imageUrl": "https://res.starwarsccg.org/cards/legacy/VirtualBlock4-Light/large/eyesinthedark.gif",
         "lore": "'I don't like the look of this.'",
         "title": "•Eyes In The Dark (V)",
@@ -6121,7 +6121,7 @@
     {
       "front": {
         "destiny": "0",
-        "gametext": "Light: While Liberation on table, Hoth Energy Shield covers only this site and Echo sites. Unique (•) speeders cannot be 'thrown.'  Dark: 'Hoth Energy Shield Rules' in effect. If 'blown away,' Light Side loses 8 Force. Artillery weapons on Hoth are powered.",
+        "gametext": "Light: While Liberation on table, Hoth Energy Shield covers only this site and Echo sites. Unique (•) speeders cannot be 'thrown.' Dark: 'Hoth Energy Shield Rules' in effect. If 'blown away,' Light Side loses 8 Force. Artillery weapons on Hoth are powered.",
         "icons": [
           "Exterior",
           "Planet",
@@ -6560,7 +6560,7 @@
     {
       "front": {
         "destiny": "5",
-        "gametext": "Deploy on table. 'Battleground system' on your [Virtual Block 4] objective is treated as 'unique (•) battleground site.'  When targeted by weapons, your characters of ability = 3 may use the defense value of your other character present. Once per turn, may deploy No Disintegrations! from Reserve Deck; reshuffle. (Immune to Alter.)",
+        "gametext": "Deploy on table. 'Battleground system' on your [Virtual Block 4] objective is treated as 'unique (•) battleground site.' When targeted by weapons, your characters of ability = 3 may use the defense value of your other character present. Once per turn, may deploy No Disintegrations! from Reserve Deck; reshuffle. (Immune to Alter.)",
         "icons": [
           "Endor"
         ],
@@ -8997,7 +8997,7 @@
     {
       "front": {
         "destiny": "4",
-        "gametext": "Deploy on Yavin 4; it is 'liberated.'  During battle at sites related to other 'liberated' systems, may add 2 to power of each Rebel warrior (to a maximum of 4). Once per turn, while you control this system, may retrieve 1 Force when you Force drain at another 'liberated' system.",
+        "gametext": "Deploy on Yavin 4; it is 'liberated.' During battle at sites related to other 'liberated' systems, may add 2 to power of each Rebel warrior (to a maximum of 4). Once per turn, while you control this system, may retrieve 1 Force when you Force drain at another 'liberated' system.",
         "icons": [
           "Setup"
         ],
@@ -11466,7 +11466,7 @@
         "deploy": "2",
         "destiny": "3",
         "forfeit": "5",
-        "gametext": "May add Biggs as pilot. If Red 3 is about to be lost before the damage segment, it is instead 'hit.'  If targeted by Darklighter Spin, it is a Used Interrupt. Immune to Lateral Damage and attrition < 4.",
+        "gametext": "May add Biggs as pilot. If Red 3 is about to be lost before the damage segment, it is instead 'hit.' If targeted by Darklighter Spin, it is a Used Interrupt. Immune to Lateral Damage and attrition < 4.",
         "hyperspeed": "5",
         "icons": [
           "Nav Computer",
