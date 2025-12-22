@@ -8652,7 +8652,7 @@
         "deploy": "3",
         "destiny": "3",
         "forfeit": "4",
-        "gametext": "Artillery weapons here are 'powered.'  Permanent weapon is Blaster Cannon (may target a character, creature, or vehicle at same or adjacent site for free; draw destiny; target 'hit,' and its forfeit = 0, if destiny +1 > defense value).",
+        "gametext": "Artillery weapons here are 'powered.' Permanent weapon is Blaster Cannon (may target a character, creature, or vehicle at same or adjacent site for free; draw destiny; target 'hit,' and its forfeit = 0, if destiny +1 > defense value).",
         "icons": [
           "Warrior",
           "Permanent Weapon",
@@ -12134,7 +12134,7 @@
         "errataDate": "2023-02-01",
         "errataNotes": "Cleaned up Dark's wording. No gameplay change.",
         "errataSymbol": "E1",
-        "gametext": "Light: Your Falcon and your Corellian corvettes may deploy here as a 'react.'  Dark: Your starships are hyperspeed +1 when moving from here.",
+        "gametext": "Light: Your Falcon and your Corellian corvettes may deploy here as a 'react.' Dark: Your starships are hyperspeed +1 when moving from here.",
         "icons": [
           "Planet",
           "A New Hope"
@@ -45706,7 +45706,7 @@
       "front": {
         "darkSideIcons": 1,
         "destiny": "0",
-        "gametext": "Light: Your starships may move here as a 'react.'  Dark: Your capital starships deploy -2 here.",
+        "gametext": "Light: Your starships may move here as a 'react.' Dark: Your capital starships deploy -2 here.",
         "icons": [
           "Planet",
           "A New Hope"
@@ -64306,7 +64306,7 @@
       "counterpart": "Your Destiny",
       "front": {
         "destiny": "6",
-        "gametext": "Deploy on table. Target a Skywalker who has completed Jedi Test #5. While target on Dagobah, 'move phase' on Save You It Can may be treated as 'deploy phase.'  Until Jedi Test completed, battles you initiate at Vader's site are canceled and opponent loses 2 Force at start of your turn unless Vader is at a battleground site. Attempt during your move phase when Vader with target (even as a non-frozen captive). Vader and target duel: Each player draws destiny. Add ability. Highest total wins. If target wins, test completed: Leave on table. Add one battle destiny in every battle. Also, target is immune to attrition < 5.",
+        "gametext": "Deploy on table. Target a Skywalker who has completed Jedi Test #5. While target on Dagobah, 'move phase' on Save You It Can may be treated as 'deploy phase.' Until Jedi Test completed, battles you initiate at Vader's site are canceled and opponent loses 2 Force at start of your turn unless Vader is at a battleground site. Attempt during your move phase when Vader with target (even as a non-frozen captive). Vader and target duel: Each player draws destiny. Add ability. Highest total wins. If target wins, test completed: Leave on table. Add one battle destiny in every battle. Also, target is immune to attrition < 5.",
         "icons": [
           "Death Star II"
         ],
@@ -70299,7 +70299,7 @@
       "front": {
         "darkSideIcons": 1,
         "destiny": "0",
-        "gametext": "Light: Your stormtroopers here may move to an adjacent site as a 'react.'  Dark: If you occupy, opponent's Level 6 Core Shaft Corridor game text is canceled.",
+        "gametext": "Light: Your stormtroopers here may move to an adjacent site as a 'react.' Dark: If you occupy, opponent's Level 6 Core Shaft Corridor game text is canceled.",
         "icons": [
           "Interior",
           "Mobile",
