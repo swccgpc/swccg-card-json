@@ -2788,6 +2788,9 @@
       "front": {
         "destiny": "6",
         "gametext": "Unique (•) starfighters are immunity to attrition +2 for each non-unique starship of their class present with them. Unique (•) capital starships are defense value +1 for each non-unique starship present at same system. For each of your unique (•)/non-unique starship pairs of the same class present at same system, your battle destiny draws there (and at related sites) are +1.",
+        "icons": [
+          "Death Star II"
+        ],
         "imageUrl": "https://res.starwarsccg.org/cards/legacy/VirtualBlock7-Light/large/combinedfleetaction.gif",
         "title": "•Combined Fleet Action (V)",
         "type": "Admiral's Order"
