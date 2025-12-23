@@ -1854,7 +1854,9 @@
     },
     {
       "front": {
+        "ability": "π",
         "deploy": "3",
+        "destiny": "π",
         "extraText": [
           "Force-Attuned"
         ],
@@ -1865,6 +1867,7 @@
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/legacy/VirtualBlock1-Light/large/brainiac.gif",
         "lore": "BoShek nicknamed this male Siniteen 'Brainiac' due to his ability to calculate hyperspace coordinates in his head. 'He's the brains, sweetheart!'",
+        "power": "X-Y",
         "subType": "Alien",
         "title": "•Brainiac (V)",
         "type": "Character"
