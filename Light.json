@@ -77427,9 +77427,18 @@
         "CCBC"
       ],
       "front": {
-        "destiny": "",
-        "icons": [],
+        "darkSideIcons": 1,
+        "destiny": "0",
+        "gametext": "Light: While a [Cloud City] Rebel here, Their Fire Has Gone Out Of The Universe flips and may not flip back. Dark: Your troopers here are defense value +1. While you occupy, cancels Path Of Least Resistance.",
+        "icons": [
+          "Cloud City",
+          "Interior",
+          "Mobile",
+          "Scomp Link",
+          "Set 25"
+        ],
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual25-Light/large/cloudcitybeldonscorridor.gif",
+        "lightSideIcons": 2,
         "subType": "Site",
         "title": "•Cloud City: Beldon's Corridor",
         "type": "Location",
