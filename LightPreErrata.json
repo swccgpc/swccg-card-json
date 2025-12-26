@@ -4399,6 +4399,103 @@
       ],
       "set": "200",
       "side": "Light"
+    },
+    {
+      "abbr": [
+        "FO"
+      ],
+      "front": {
+        "destiny": "0",
+        "gametext": "If The Hidden Path on table, deploy on table. When deployed, stack three Jedi survivors from Reserve Deck here. During your deploy phase, Jedi survivors here may deploy as if from hand. The Light Will Fade: While The Hidden Path on table, Jedi survivors are deploy = 2, power = 3, forfeit = 3, deploy only to Safehouse, move using landspeed for free, and their game text is canceled. But It Is Never Forgotten: If your Jedi survivor was just lost, may stack it here. (Immune to Cold Feet.)",
+        "icons": [
+          "Set 26"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual26-Light/large/fallenorder.gif",
+        "title": "•Fallen Order",
+        "type": "Epic Event",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Fallen Order/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "226_14",
+      "id": 40098,
+      "legacy": false,
+      "nextId": 7458,
+      "printings": [
+        {
+          "set": "226"
+        }
+      ],
+      "pulls": [
+        "Kelleran Beq",
+        "Obi-Wan Kenobi, Jedi In Exile",
+        "Quinlan Vos"
+      ],
+      "rarity": "PM",
+      "rulings": [
+        "Stacking a just lost Jedi survivor on Fallen Order could be prevented e.g. by Darth Sidious, Dannik Jerriko, or Dannik Jerriko (V).",
+        "Automatic responses (e.g. Force loss on The Grand Inquisitor) happen before optionally stacking a Jedi survivor."
+      ],
+      "set": "226",
+      "side": "Light"
+    },
+    {
+      "abbr": [
+        "THP/GAAT"
+      ],
+      "combo": [
+        "Jedi Lightsaber (V)"
+      ],
+      "back": {
+        "destiny": "7",
+        "gametext": "The Hidden Path: Deploy Mining Village, Safehouse, Underground Corridor, and Fallen Order. For remainder of game, you may not deploy <> locations or Jedi (except Jedi survivors). Once per turn, may deploy a Jabiim site or a battleground (except a Kamino, Tatooine, or [Reflections III] location) from Reserve Deck; reshuffle. While this side up, you may not play Nabrun Leids. Your Force drains at Mapuzo sites are -1. Once per turn, may deploy a holocron from Reserve Deck; reshuffle. Flip this card if Jedi occupy two non-Mapuzo sites. Gather Allies And Train: While this side up, if your holocron is about to leave table, place it in Used Pile. Your lightsaber Force drain bonuses may not be canceled. Opponent's total battle destiny where they have a character of ability > 4 is -1. During your move phase, may relocate a Jedi between a Jabiim site and a battleground site as a regular move for free. At the end of your turn, opponent loses 1 Force. Flip this card if Jedi do not occupy two sites.",
+        "icons": [
+          "Set 26"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual26-Light/large/gatheralliesandtrain.gif",
+        "title": "The Hidden Path / Gather Allies And Train",
+        "type": "Objective",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Gather Allies And Train/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "front": {
+        "destiny": "0",
+        "gametext": "The Hidden Path: Deploy Mining Village, Safehouse, Underground Corridor, and Fallen Order. For remainder of game, you may not deploy <> locations or Jedi (except Jedi survivors). Once per turn, may deploy a Jabiim site or a battleground (except a Kamino, Tatooine, or [Reflections III] location) from Reserve Deck; reshuffle. While this side up, you may not play Nabrun Leids. Your Force drains at Mapuzo sites are -1. Once per turn, may deploy a holocron from Reserve Deck; reshuffle. Flip this card if Jedi occupy two non-Mapuzo sites. Gather Allies And Train: While this side up, if your holocron is about to leave table, place it in Used Pile. Your lightsaber Force drain bonuses may not be canceled. Opponent's total battle destiny where they have a character of ability > 4 is -1. During your move phase, may relocate a Jedi between a Jabiim site and a battleground site as a regular move for free. At the end of your turn, opponent loses 1 Force. Flip this card if Jedi do not occupy two sites.",
+        "icons": [
+          "Set 26"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual26-Light/large/thehiddenpath.gif",
+        "title": "The Hidden Path / Gather Allies And Train",
+        "type": "Objective",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/The Hidden Path/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "226_28",
+      "id": 40099,
+      "legacy": false,
+      "nextId": 7472,
+      "printings": [
+        {
+          "set": "226"
+        }
+      ],
+      "pulls": [
+        "Fallen Order",
+        "Mapuzo: Mining Village",
+        "Mapuzo: Safehouse",
+        "Mapuzo: Underground Corridor",
+        "Jabiim: Path Operations Center",
+        "Jabiim: Starship Hangar",
+        "Jedi Holocron",
+        "Most battleground locations"
+      ],
+      "rarity": "U",
+      "rulings": [
+        "Mapuzo's layout requires the Safehouse as the middle site.",
+        "Relocating a Jedi between a Jabiim site and a battleground site is once per turn, and works in both directions."
+      ],
+      "set": "226",
+      "side": "Light"
     }
   ]
 }

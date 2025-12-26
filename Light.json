@@ -78199,7 +78199,10 @@
       ],
       "front": {
         "destiny": "0",
-        "gametext": "If The Hidden Path on table, deploy on table. When deployed, stack three Jedi survivors from Reserve Deck here. During your deploy phase, Jedi survivors here may deploy as if from hand. The Light Will Fade: While The Hidden Path on table, Jedi survivors are deploy = 2, power = 3, forfeit = 3, deploy only to Safehouse, move using landspeed for free, and their game text is canceled. But It Is Never Forgotten: If your Jedi survivor was just lost, may stack it here. (Immune to Cold Feet.)",
+        "errataDate": "2025-12-26",
+        "errataNotes": "Original text made Jedi deploy = 2 instead of 3. Also, original text did not require losing 1 Force to stack a Jedi.",
+        "errataSymbol": "E1",
+        "gametext": "If The Hidden Path on table, deploy on table. When deployed, stack three Jedi survivors from Reserve Deck here. During your deploy phase, Jedi survivors here may deploy as if from hand. The Light Will Fade: While The Hidden Path on table, Jedi survivors are deploy = 3, power = 3, forfeit = 3, deploy only to Safehouse, move using landspeed for free, and their game text is canceled. But It Is Never Forgotten: If your Jedi survivor was just lost, may lose 1 Force to stack it here. (Immune to Cold Feet.)",
         "icons": [
           "Set 26"
         ],
@@ -78213,6 +78216,7 @@
       "gempId": "226_14",
       "id": 7458,
       "legacy": false,
+      "previousId": 40098,
       "printings": [
         {
           "set": "226"
@@ -78861,7 +78865,10 @@
       ],
       "back": {
         "destiny": "7",
-        "gametext": "The Hidden Path: Deploy Mining Village, Safehouse, Underground Corridor, and Fallen Order. For remainder of game, you may not deploy <> locations or Jedi (except Jedi survivors). Once per turn, may deploy a Jabiim site or a battleground (except a Kamino, Tatooine, or [Reflections III] location) from Reserve Deck; reshuffle. While this side up, you may not play Nabrun Leids. Your Force drains at Mapuzo sites are -1. Once per turn, may deploy a holocron from Reserve Deck; reshuffle. Flip this card if Jedi occupy two non-Mapuzo sites. Gather Allies And Train: While this side up, if your holocron is about to leave table, place it in Used Pile. Your lightsaber Force drain bonuses may not be canceled. Opponent's total battle destiny where they have a character of ability > 4 is -1. During your move phase, may relocate a Jedi between a Jabiim site and a battleground site as a regular move for free. At the end of your turn, opponent loses 1 Force. Flip this card if Jedi do not occupy two sites.",
+        "errataDate": "2025-12-26",
+        "errataNotes": "(Back Errata) Original text did not have the deploy -1 modifier. Also, original text had 'your lightsaber Force drain bonuses may not be canceled.' Original text had the relocation being free, and did not require battlegrounds to ping.",
+        "errataSymbol": "E1",
+        "gametext": "The Hidden Path: Deploy Mining Village, Safehouse, Underground Corridor, and Fallen Order. For remainder of game, you may not deploy <> locations or Jedi (except Jedi survivors). Weapon Levitation may not steal weapons. Once per turn, may deploy a Jabiim location from Reserve Deck; reshuffle. While this side up, you may not play Nabrun Leids. Your Force drains at Mapuzo sites are -1. Once per turn, may deploy a holocron from Reserve Deck; reshuffle. Flip this card if Jedi occupy two non-Mapuzo sites. Gather Allies And Train: While this side up, Jedi survivors are deploy -1. if your holocron is about to leave table, place it in Used Pile. Opponent's total battle destiny where they have a character of ability > 4 is -1. During your move phase, may use 2 Force to relocate a Jedi between a Jabiim site and a battleground site as a regular move. At the end of your turn, if Jedi occupy two battleground sites, opponent loses 1 Force. Flip this card if Jedi do not occupy two sites.",
         "icons": [
           "Set 26"
         ],
@@ -78873,7 +78880,10 @@
       },
       "front": {
         "destiny": "0",
-        "gametext": "The Hidden Path: Deploy Mining Village, Safehouse, Underground Corridor, and Fallen Order. For remainder of game, you may not deploy <> locations or Jedi (except Jedi survivors). Once per turn, may deploy a Jabiim site or a battleground (except a Kamino, Tatooine, or [Reflections III] location) from Reserve Deck; reshuffle. While this side up, you may not play Nabrun Leids. Your Force drains at Mapuzo sites are -1. Once per turn, may deploy a holocron from Reserve Deck; reshuffle. Flip this card if Jedi occupy two non-Mapuzo sites. Gather Allies And Train: While this side up, if your holocron is about to leave table, place it in Used Pile. Your lightsaber Force drain bonuses may not be canceled. Opponent's total battle destiny where they have a character of ability > 4 is -1. During your move phase, may relocate a Jedi between a Jabiim site and a battleground site as a regular move for free. At the end of your turn, opponent loses 1 Force. Flip this card if Jedi do not occupy two sites.",
+        "errataDate": "2025-12-26",
+        "errataNotes": "(Front Errata) Original did not have the Weapon Levitation restriction. Original version could pull 'a Jabiim site or a battleground (except a Kamino, Tatooine, or [Reflections III] location)'.",
+        "errataSymbol": "E1",
+        "gametext": "The Hidden Path: Deploy Mining Village, Safehouse, Underground Corridor, and Fallen Order. For remainder of game, you may not deploy <> locations or Jedi (except Jedi survivors). Weapon Levitation may not steal weapons. Once per turn, may deploy a Jabiim location from Reserve Deck; reshuffle. While this side up, you may not play Nabrun Leids. Your Force drains at Mapuzo sites are -1. Once per turn, may deploy a holocron from Reserve Deck; reshuffle. Flip this card if Jedi occupy two non-Mapuzo sites. Gather Allies And Train: While this side up, Jedi survivors are deploy -1. if your holocron is about to leave table, place it in Used Pile. Opponent's total battle destiny where they have a character of ability > 4 is -1. During your move phase, may use 2 Force to relocate a Jedi between a Jabiim site and a battleground site as a regular move. At the end of your turn, if Jedi occupy two battleground sites, opponent loses 1 Force. Flip this card if Jedi do not occupy two sites.",
         "icons": [
           "Set 26"
         ],
@@ -78886,6 +78896,7 @@
       "gempId": "226_28",
       "id": 7472,
       "legacy": false,
+      "previousId": 40099,
       "printings": [
         {
           "set": "226"
