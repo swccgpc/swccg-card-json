@@ -314,7 +314,10 @@
         "Canceling 4-LOM's game text or excluding him from battle could result in a battle ending immediately (in cases where his game text is required for the battle to occur)."
       ],
       "set": "4",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "4-LOM"
+      ]
     },
     {
       "abbr": [
@@ -382,6 +385,10 @@
           "title": "4-LOM With Concussion Rifle (V) (AI)",
           "cardId": 7133
         }
+      ],
+      "personas": [
+        "4-LOM",
+        "4-LOM's Concussion Rifle"
       ]
     },
     {
@@ -437,7 +444,11 @@
         "This weapon is not a blaster."
       ],
       "set": "200",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "4-LOM",
+        "4-LOM's Concussion Rifle"
+      ]
     },
     {
       "front": {
@@ -479,7 +490,10 @@
         "This weapon is not a blaster."
       ],
       "set": "4",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "4-LOM's Concussion Rifle"
+      ]
     },
     {
       "combo": [
@@ -1549,6 +1563,9 @@
           "title": "Admiral Motti (V)",
           "cardId": 61
         }
+      ],
+      "personas": [
+        "Motti"
       ]
     },
     {
@@ -1605,7 +1622,10 @@
       ],
       "rarity": "R2",
       "set": "200",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Motti"
+      ]
     },
     {
       "combo": [
@@ -1660,6 +1680,9 @@
           "title": "Admiral Ozzel (V)",
           "cardId": 6789
         }
+      ],
+      "personas": [
+        "Ozzel"
       ]
     },
     {
@@ -1743,6 +1766,9 @@
           "title": "Admiral Piett (V)",
           "cardId": 6896
         }
+      ],
+      "personas": [
+        "Piett"
       ]
     },
     {
@@ -1867,7 +1893,10 @@
         "A character is only an ISB agent if the ISB Operations objective is being used."
       ],
       "set": "203",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Kallus"
+      ]
     },
     {
       "front": {
@@ -1911,7 +1940,10 @@
         "A character is only an ISB agent if the ISB Operations objective is being used."
       ],
       "set": "203",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Kallus"
+      ]
     },
     {
       "abbr": [
@@ -3301,6 +3333,9 @@
           "title": "Arica (V)",
           "cardId": 4021
         }
+      ],
+      "personas": [
+        "Mara Jade"
       ]
     },
     {
@@ -3355,7 +3390,10 @@
       ],
       "rarity": "PM",
       "set": "200",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Mara Jade"
+      ]
     },
     {
       "combo": [
@@ -3451,7 +3489,11 @@
         "Canceling the targeting of one character (e.g. Blaster Deflection) cancels the entire action."
       ],
       "set": "301",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Ventress",
+        "Asajj's Lightsabers"
+      ]
     },
     {
       "abbr": [
@@ -3506,7 +3548,11 @@
         "Canceling the targeting of one character (e.g. Blaster Deflection) cancels the entire action."
       ],
       "set": "301",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Ventress",
+        "Asajj's Lightsabers"
+      ]
     },
     {
       "front": {
@@ -3872,6 +3918,9 @@
           "cardId": 6874,
           "title": "Aurra Sing With Blaster Rifle (AI)"
         }
+      ],
+      "personas": [
+        "Aurra"
       ]
     },
     {
@@ -3918,6 +3967,9 @@
           "cardId": 6783,
           "title": "Aurra Sing With Blaster Rifle"
         }
+      ],
+      "personas": [
+        "Aurra"
       ]
     },
     {
@@ -3966,6 +4018,9 @@
           "title": "Aurra Sing With Blaster Rifle (C-Slip AI)",
           "cardId": 7228
         }
+      ],
+      "personas": [
+        "Aurra Sing's Blaster Rifle"
       ]
     },
     {
@@ -4923,7 +4978,10 @@
       ],
       "rarity": "R",
       "set": "6",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Beedo"
+      ]
     },
     {
       "counterpart": "Security Control",
@@ -5222,6 +5280,9 @@
           "title": "Margo",
           "cardId": 6798
         }
+      ],
+      "personas": [
+        "Bib Fortuna"
       ]
     },
     {
@@ -5257,7 +5318,10 @@
       ],
       "rarity": "PM",
       "set": "13",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Bib Fortuna"
+      ]
     },
     {
       "counterpart": "Big One",
@@ -5568,6 +5632,9 @@
           "cardId": 248,
           "title": "Black 2 (V)"
         }
+      ],
+      "personas": [
+        "Black 2"
       ]
     },
     {
@@ -5623,7 +5690,10 @@
       ],
       "rarity": "R1",
       "set": "200",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Black 2"
+      ]
     },
     {
       "front": {
@@ -5670,6 +5740,9 @@
           "cardId": 6125,
           "title": "Black 3 (V)"
         }
+      ],
+      "personas": [
+        "Black 3"
       ]
     },
     {
@@ -5705,7 +5778,10 @@
       ],
       "rarity": "U1",
       "set": "210",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Black 3"
+      ]
     },
     {
       "front": {
@@ -6267,6 +6343,9 @@
           "cardId": 6956,
           "title": "Blizzard 1 (V)"
         }
+      ],
+      "personas": [
+        "Blizzard 1"
       ]
     },
     {
@@ -6736,7 +6815,10 @@
         "The once per game action may deploy a Neimoidian pilot to a Blockade Flagship site."
       ],
       "set": "14",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Blockade Flagship"
+      ]
     },
     {
       "combo": [
@@ -6773,7 +6855,10 @@
       ],
       "rarity": "R",
       "set": "12",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Blockade Flagship"
+      ]
     },
     {
       "counterpart": "Blockade Flagship: Docking Bay",
@@ -6826,6 +6911,9 @@
           "cardId": 6421,
           "title": "Invisible Hand: Docking Bay"
         }
+      ],
+      "personas": [
+        "Blockade Flagship"
       ]
     },
     {
@@ -6870,6 +6958,9 @@
           "cardId": 6422,
           "title": "Invisible Hand: Hallway 328"
         }
+      ],
+      "personas": [
+        "Blockade Flagship"
       ]
     },
     {
@@ -7052,6 +7143,9 @@
           "cardId": 6138,
           "title": "Boba Fett (V)"
         }
+      ],
+      "personas": [
+        "Boba Fett"
       ]
     },
     {
@@ -7111,7 +7205,10 @@
       ],
       "rarity": "R",
       "set": "7",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Boba Fett"
+      ]
     },
     {
       "front": {
@@ -7151,7 +7248,10 @@
       ],
       "rarity": "R",
       "set": "206",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Boba Fett"
+      ]
     },
     {
       "combo": [
@@ -7202,6 +7302,10 @@
           "cardId": 4055,
           "title": "Boba Fett In Slave I (V)"
         }
+      ],
+      "personas": [
+        "Slave I",
+        "Boba Fett"
       ]
     },
     {
@@ -7250,7 +7354,11 @@
       ],
       "rarity": "PM",
       "set": "200",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Slave I",
+        "Boba Fett"
+      ]
     },
     {
       "abbr": [
@@ -7314,6 +7422,10 @@
           "cardId": 7236,
           "title": "Boba Fett With Blaster Rifle (V)"
         }
+      ],
+      "personas": [
+        "Boba Fett",
+        "Boba Fett's Blaster Rifle"
       ]
     },
     {
@@ -7376,7 +7488,10 @@
       ],
       "rarity": "PM",
       "set": "13",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Boba Fett"
+      ]
     },
     {
       "canceledBy": [
@@ -7428,6 +7543,9 @@
           "cardId": 5123,
           "title": "Boba Fett's Blaster Rifle (V)"
         }
+      ],
+      "personas": [
+        "Boba Fett's Blaster Rifle"
       ]
     },
     {
@@ -7472,7 +7590,10 @@
       ],
       "rarity": "R",
       "set": "205",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Boba Fett's Blaster Rifle"
+      ]
     },
     {
       "combo": [
@@ -7779,6 +7900,9 @@
           "cardId": 309,
           "title": "Bossk (V)"
         }
+      ],
+      "personas": [
+        "Bossk"
       ]
     },
     {
@@ -7827,7 +7951,10 @@
       ],
       "rarity": "R",
       "set": "200",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Bossk"
+      ]
     },
     {
       "abbr": [
@@ -7876,6 +8003,10 @@
           "cardId": 4056,
           "title": "Bossk In Hound's Tooth (V)"
         }
+      ],
+      "personas": [
+        "Hound's Tooth",
+        "Bossk"
       ]
     },
     {
@@ -7922,7 +8053,11 @@
       ],
       "rarity": "R",
       "set": "200",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Hound's Tooth",
+        "Bossk"
+      ]
     },
     {
       "abbr": [
@@ -7972,7 +8107,11 @@
         "May not target inactive cards or owner's cards."
       ],
       "set": "110",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Bossk",
+        "Bossk's Mortar Gun"
+      ]
     },
     {
       "front": {
@@ -8010,7 +8149,10 @@
         "May not target inactive cards or owner's cards."
       ],
       "set": "4",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Bossk's Mortar Gun"
+      ]
     },
     {
       "combo": [
@@ -8369,7 +8511,10 @@
       ],
       "rarity": "C",
       "set": "203",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Cad"
+      ]
     },
     {
       "counterpart": "Caller",
@@ -8581,7 +8726,10 @@
       ],
       "rarity": "R",
       "set": "14",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Dofine"
+      ]
     },
     {
       "front": {
@@ -8753,7 +8901,11 @@
       ],
       "rarity": "U",
       "set": "205",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Scimitar 2",
+        "Jonus"
+      ]
     },
     {
       "front": {
@@ -8802,6 +8954,9 @@
           "cardId": 6875,
           "title": "Captain Khurgee (V)"
         }
+      ],
+      "personas": [
+        "Khurgee"
       ]
     },
     {
@@ -9103,7 +9258,10 @@
       ],
       "rarity": "R2",
       "set": "3",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Piett"
+      ]
     },
     {
       "combo": [
@@ -9720,6 +9878,9 @@
           "title": "Chimaera (V) (AI)",
           "cardId": 7361
         }
+      ],
+      "personas": [
+        "Chimaera"
       ]
     },
     {
@@ -11057,7 +11218,10 @@
       "pulledBy": [],
       "rarity": "R",
       "set": "9",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Jendon"
+      ]
     },
     {
       "conceptBy": "(Original concept by Jeremy Gardner - PC Volunteer Award 2009)",
@@ -11110,7 +11274,11 @@
       ],
       "rarity": "R",
       "set": "200",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Onyx 1",
+        "Jendon"
+      ]
     },
     {
       "front": {
@@ -11156,6 +11324,9 @@
           "cardId": 4096,
           "title": "Colonel Wullf Yularen (V)"
         }
+      ],
+      "personas": [
+        "Yularen"
       ]
     },
     {
@@ -11194,7 +11365,10 @@
       ],
       "rarity": "U1",
       "set": "201",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Yularen"
+      ]
     },
     {
       "front": {
@@ -12096,6 +12270,9 @@
           "title": "Commander Praji (V)",
           "cardId": 7160
         }
+      ],
+      "personas": [
+        "Praji"
       ]
     },
     {
@@ -12806,7 +12983,10 @@
       ],
       "rarity": "R",
       "set": "7",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Grenwick"
+      ]
     },
     {
       "front": {
@@ -13692,7 +13872,10 @@
         "When using this text, treat all instances of the word 'Emperor' on Force Lightning as 'Dooku' instead."
       ],
       "set": "200",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Dooku"
+      ]
     },
     {
       "canceledBy": [
@@ -14138,6 +14321,9 @@
           "cardId": 6898,
           "title": "Dannik Jerriko (V)"
         }
+      ],
+      "personas": [
+        "Dannik Jerriko"
       ]
     },
     {
@@ -14867,7 +15053,10 @@
         "If a character of ability > 3 is excluded and this causes Maul's text to make Dark control the location, the excluded character is still active for the purposes of Objective flip conditions (e.g. Quiet Mining Colony) and for the purposes of preventing cards like Haven from leaving table."
       ],
       "set": "11",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Maul"
+      ]
     },
     {
       "front": {
@@ -14903,7 +15092,10 @@
       ],
       "rarity": "R",
       "set": "11",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Maul"
+      ]
     },
     {
       "abbr": [
@@ -14961,7 +15153,11 @@
       ],
       "rarity": "R",
       "set": "14",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Maul",
+        "Maul's Double-Bladed Lightsaber"
+      ]
     },
     {
       "abbr": [
@@ -15025,7 +15221,10 @@
         "Cancels game text of any version of the Amidala persona, including Padme."
       ],
       "set": "203",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Maul"
+      ]
     },
     {
       "abbr": [
@@ -15083,6 +15282,9 @@
           "title": "Darth Maul, Lone Hunter (C-Slip AI)",
           "cardId": 7225
         }
+      ],
+      "personas": [
+        "Maul"
       ]
     },
     {
@@ -15128,6 +15330,9 @@
           "title": "Darth Maul, Lone Hunter (C-Slip AI 2)",
           "cardId": 7229
         }
+      ],
+      "personas": [
+        "Maul"
       ]
     },
     {
@@ -15170,7 +15375,10 @@
       ],
       "rarity": "R",
       "set": "14",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Sidious"
+      ]
     },
     {
       "front": {
@@ -15205,7 +15413,10 @@
       ],
       "rarity": "R",
       "set": "14",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Sidious"
+      ]
     },
     {
       "abbr": [
@@ -15275,6 +15486,9 @@
           "cardId": 635,
           "title": "Darth Vader (V)"
         }
+      ],
+      "personas": [
+        "Vader"
       ]
     },
     {
@@ -15348,7 +15562,10 @@
         "Vader only looks for <u>your</u> Black Squadron pilot, not an opponent's Black Squadron pilot."
       ],
       "set": "200",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Vader"
+      ]
     },
     {
       "abbr": [
@@ -15406,7 +15623,11 @@
       ],
       "rarity": "PM",
       "set": "108",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Vader",
+        "Vader's Lightsaber"
+      ]
     },
     {
       "abbr": [
@@ -15465,7 +15686,10 @@
       ],
       "rarity": "R",
       "set": "7",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Vader"
+      ]
     },
     {
       "front": {
@@ -15524,7 +15748,10 @@
         "'Immune to Sorry About The Mess' prevents the control phase firing function and prevents the place in Lost Pile function of the combo card. It does not prevent the 3 being added to weapon destiny function of the combo card."
       ],
       "set": "208",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Vader"
+      ]
     },
     {
       "front": {
@@ -15572,6 +15799,9 @@
           "cardId": 5211,
           "title": "Darth Vader's Lightsaber (V)"
         }
+      ],
+      "personas": [
+        "Vader's Lightsaber"
       ]
     },
     {
@@ -15617,7 +15847,10 @@
       ],
       "rarity": "R",
       "set": "208",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Vader's Lightsaber"
+      ]
     },
     {
       "front": {
@@ -15758,6 +15991,9 @@
           "cardId": 7075,
           "title": "Daultay Dofine (V)"
         }
+      ],
+      "personas": [
+        "Dofine"
       ]
     },
     {
@@ -16067,7 +16303,15 @@
         "Vader provides 6 ability. DS-61-2 and DS-61-3 each provide 2 ability."
       ],
       "set": "7",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Vader's Custom TIE",
+        "Black 2",
+        "Black 3",
+        "Vader",
+        "DS-61-2",
+        "DS-61-3"
+      ]
     },
     {
       "front": {
@@ -17219,6 +17463,9 @@
           "cardId": 5112,
           "title": "Dengar (V)"
         }
+      ],
+      "personas": [
+        "Dengar"
       ]
     },
     {
@@ -17279,7 +17526,10 @@
         "Pulls any weapon with the blaster attribute, but only pulls the bounty card with the exact card title 'Bounty' (e.g. not Tarkin's Bounty)."
       ],
       "set": "205",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Dengar"
+      ]
     },
     {
       "abbr": [
@@ -17328,7 +17578,11 @@
       ],
       "rarity": "PM",
       "set": "109",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Punishing One",
+        "Dengar"
+      ]
     },
     {
       "abbr": [
@@ -17387,6 +17641,10 @@
           "cardId": 4023,
           "title": "Dengar With Blaster Carbine (V)"
         }
+      ],
+      "personas": [
+        "Dengar",
+        "Dengar's Blaster Carbine"
       ]
     },
     {
@@ -17441,7 +17699,11 @@
       ],
       "rarity": "PM",
       "set": "200",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Dengar",
+        "Dengar's Blaster Carbine"
+      ]
     },
     {
       "front": {
@@ -17481,7 +17743,10 @@
       ],
       "rarity": "R",
       "set": "4",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Dengar's Blaster Carbine"
+      ]
     },
     {
       "front": {
@@ -18160,7 +18425,10 @@
       ],
       "rarity": "U",
       "set": "207",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Krennic"
+      ]
     },
     {
       "canceledBy": [
@@ -18570,7 +18838,10 @@
       ],
       "rarity": "U",
       "set": "200",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Dooku's Lightsaber"
+      ]
     },
     {
       "canceledBy": [
@@ -18850,7 +19121,10 @@
         "Unoccupied means neither player occupies AND neither player has an undercover spy there (not even an undercover droid)."
       ],
       "set": "209",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Aphra"
+      ]
     },
     {
       "abbr": [
@@ -18892,7 +19166,10 @@
         "Unoccupied means neither player occupies AND neither player has an undercover spy there (not even an undercover droid)."
       ],
       "set": "209",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Aphra"
+      ]
     },
     {
       "abbr": [
@@ -19620,6 +19897,9 @@
           "cardId": 6500,
           "title": "Lt. Poldin Lehuse"
         }
+      ],
+      "personas": [
+        "DS-61-2"
       ]
     },
     {
@@ -19669,6 +19949,9 @@
           "title": "DS-61-3 (V)",
           "cardId": 7402
         }
+      ],
+      "personas": [
+        "DS-61-3"
       ]
     },
     {
@@ -20298,7 +20581,10 @@
       ],
       "rarity": "PM",
       "set": "200",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Elis"
+      ]
     },
     {
       "front": {
@@ -20426,7 +20712,10 @@
         "May deploy, move, or persona replace to a <u>system or sector</u> opponent occupies."
       ],
       "set": "9",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Sidious"
+      ]
     },
     {
       "combo": [
@@ -20475,7 +20764,10 @@
       ],
       "rarity": "U",
       "set": "205",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Sidious"
+      ]
     },
     {
       "abbr": [
@@ -21816,6 +22108,9 @@
           "cardId": 7011,
           "title": "Finalizer (AI)"
         }
+      ],
+      "personas": [
+        "Executor"
       ]
     },
     {
@@ -21856,6 +22151,9 @@
           "cardId": 6919,
           "title": "Scarif: Command Center"
         }
+      ],
+      "personas": [
+        "Executor"
       ]
     },
     {
@@ -21900,6 +22198,9 @@
           "cardId": 6420,
           "title": "Invisible Hand: Bridge"
         }
+      ],
+      "personas": [
+        "Executor"
       ]
     },
     {
@@ -21945,7 +22246,10 @@
         "The above rulings apply to Flagship Executor as well."
       ],
       "set": "7",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Executor"
+      ]
     },
     {
       "front": {
@@ -21981,7 +22285,10 @@
       ],
       "rarity": "R",
       "set": "4",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Executor"
+      ]
     },
     {
       "front": {
@@ -22021,6 +22328,9 @@
           "cardId": 6423,
           "title": "Invisible Hand: Observatory Entrance"
         }
+      ],
+      "personas": [
+        "Executor"
       ]
     },
     {
@@ -22055,7 +22365,10 @@
       ],
       "rarity": "R",
       "set": "4",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Executor"
+      ]
     },
     {
       "front": {
@@ -23160,7 +23473,10 @@
       ],
       "rarity": "R",
       "set": "9",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Executor"
+      ]
     },
     {
       "combo": [
@@ -24400,6 +24716,9 @@
           "cardId": 7448,
           "title": "Garindan, Imperial Spy"
         }
+      ],
+      "personas": [
+        "Garindan"
       ]
     },
     {
@@ -24494,7 +24813,10 @@
         "A stolen lightsaber deploying on Grievous must still obey uniqueness rules."
       ],
       "set": "203",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Grievous"
+      ]
     },
     {
       "abbr": [
@@ -24549,7 +24871,10 @@
         "A stolen lightsaber deploying on Grievous must still obey uniqueness rules."
       ],
       "set": "203",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Grievous"
+      ]
     },
     {
       "conceptBy": "(Original concept by Jeremy Gardner)",
@@ -24601,7 +24926,10 @@
         "A stolen lightsaber deploying on Grievous must still obey uniqueness rules."
       ],
       "set": "203",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Grievous"
+      ]
     },
     {
       "front": {
@@ -24807,6 +25135,9 @@
           "cardId": 1030,
           "title": "General Veers (V)"
         }
+      ],
+      "personas": [
+        "Veers"
       ]
     },
     {
@@ -24866,7 +25197,10 @@
         "The 'immunity to attrition +2' text allows permanent pilots, so (for example) it can work while piloting Blizzard 2."
       ],
       "set": "200",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Veers"
+      ]
     },
     {
       "cancels": [
@@ -25148,6 +25482,9 @@
           "cardId": 6522,
           "title": "Mitth'raw'nuruodo"
         }
+      ],
+      "personas": [
+        "Thrawn"
       ]
     },
     {
@@ -25201,7 +25538,10 @@
       ],
       "rarity": "PM",
       "set": "207",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Thrawn"
+      ]
     },
     {
       "abbr": [
@@ -25266,6 +25606,9 @@
           "cardId": 4026,
           "title": "Grand Moff Tarkin (V)"
         }
+      ],
+      "personas": [
+        "Tarkin"
       ]
     },
     {
@@ -25315,7 +25658,10 @@
         "This card is not a commander ('commanded' doesn't count)."
       ],
       "set": "200",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Tarkin"
+      ]
     },
     {
       "front": {
@@ -26803,6 +27149,9 @@
           "cardId": 1186,
           "title": "Hound's Tooth (V)"
         }
+      ],
+      "personas": [
+        "Hound's Tooth"
       ]
     },
     {
@@ -26849,7 +27198,10 @@
       ],
       "rarity": "R",
       "set": "200",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Hound's Tooth"
+      ]
     },
     {
       "front": {
@@ -27936,7 +28288,10 @@
       ],
       "rarity": "R",
       "set": "4",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "IG-2000"
+      ]
     },
     {
       "front": {
@@ -27999,6 +28354,9 @@
           "cardId": 1246,
           "title": "IG-88 (V)"
         }
+      ],
+      "personas": [
+        "IG-88"
       ]
     },
     {
@@ -28058,7 +28416,10 @@
         "Cards with multiple warrior icons can still only escort one captive at a time."
       ],
       "set": "200",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "IG-88"
+      ]
     },
     {
       "front": {
@@ -28099,7 +28460,11 @@
         "Canceling IG-2000's game text or excluding it from battle could result in a battle ending immediately (in cases where its game text is required for the battle to occur)."
       ],
       "set": "110",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "IG-2000",
+        "IG-88"
+      ]
     },
     {
       "abbr": [
@@ -28153,7 +28518,10 @@
         "Canceling IG-88's game text or excluding him from battle could result in a battle ending immediately (in cases where his game text is required for the battle to occur)."
       ],
       "set": "109",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "IG-88"
+      ]
     },
     {
       "front": {
@@ -30206,7 +30574,10 @@
       ],
       "rarity": "PM",
       "set": "211",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Invisible Hand"
+      ]
     },
     {
       "front": {
@@ -30243,7 +30614,10 @@
       ],
       "rarity": "U",
       "set": "211",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Invisible Hand"
+      ]
     },
     {
       "front": {
@@ -30287,7 +30661,10 @@
         "If Invisible Hand is lost from table, this site remains on table."
       ],
       "set": "211",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Invisible Hand"
+      ]
     },
     {
       "front": {
@@ -30324,7 +30701,10 @@
       ],
       "rarity": "PM",
       "set": "211",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Invisible Hand"
+      ]
     },
     {
       "front": {
@@ -30358,7 +30738,10 @@
       ],
       "rarity": "C",
       "set": "211",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Invisible Hand"
+      ]
     },
     {
       "canceledBy": [
@@ -30651,7 +31034,10 @@
       ],
       "rarity": "R",
       "set": "7",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Jabba"
+      ]
     },
     {
       "combo": [
@@ -30695,7 +31081,10 @@
       ],
       "rarity": "PM",
       "set": "13",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Jabba"
+      ]
     },
     {
       "combo": [
@@ -30752,6 +31141,9 @@
           "cardId": 1347,
           "title": "Jabba The Hutt (V)"
         }
+      ],
+      "personas": [
+        "Jabba"
       ]
     },
     {
@@ -30812,7 +31204,10 @@
         "The player is not required to say 'OH-HO-HO!' out loud, although it is encouraged."
       ],
       "set": "200",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Jabba"
+      ]
     },
     {
       "counterpart": "Seeking an Audience (V)",
@@ -31231,7 +31626,10 @@
         "If freed while You Can Either Profit By This... on table, Light flips that objective first, then retrieves 10 Force for the 0 power Han, and then finally may replace Jabba's Prize with a Han card."
       ],
       "set": "10",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Han"
+      ]
     },
     {
       "front": {
@@ -31281,6 +31679,9 @@
           "cardId": 5135,
           "title": "Jabba's Sail Barge (V)"
         }
+      ],
+      "personas": [
+        "Jabba's Sail Barge"
       ]
     },
     {
@@ -31327,7 +31728,10 @@
         "May deploy Passenger Deck or a skiff even if Jabba's Sail Barge is unpiloted."
       ],
       "set": "204",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Jabba's Sail Barge"
+      ]
     },
     {
       "front": {
@@ -31368,7 +31772,10 @@
         "This site does <u>not</u> take on the name of the planet (e.g. it is not a Tatooine site, a character here is not 'on Tatooine' or 'on Cloud City' even if the Sail Barge is, etc)."
       ],
       "set": "6",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Jabba's Sail Barge"
+      ]
     },
     {
       "front": {
@@ -31804,7 +32211,10 @@
         "'May be targeted by Hidden Weapons' means he may be used instead of Boba Fett or your character with Mandalorian Armor. Other conditions must still be met."
       ],
       "set": "201",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Jango"
+      ]
     },
     {
       "canceledBy": [
@@ -31855,7 +32265,10 @@
         "'May be targeted by Hidden Weapons' means he may be used instead of Boba Fett or your character with Mandalorian Armor. Other conditions must still be met."
       ],
       "set": "201",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Jango"
+      ]
     },
     {
       "combo": [
@@ -33210,7 +33623,10 @@
       ],
       "rarity": "U",
       "set": "209",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Krennic"
+      ]
     },
     {
       "front": {
@@ -33417,7 +33833,10 @@
       ],
       "rarity": "PM",
       "set": "204",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Kylo"
+      ]
     },
     {
       "abbr": [
@@ -33462,7 +33881,11 @@
         "If something prevents the target from being hit (e.g. Theed Palace Generator Core) neither player loses 1 Force."
       ],
       "set": "209",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Kylo",
+        "Kylo's Lightsaber"
+      ]
     },
     {
       "abbr": [
@@ -33507,7 +33930,11 @@
         "If something prevents the target from being hit (e.g. Theed Palace Generator Core) neither player loses 1 Force."
       ],
       "set": "209",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Kylo",
+        "Kylo's Lightsaber"
+      ]
     },
     {
       "front": {
@@ -33594,7 +34021,10 @@
       ],
       "rarity": "R2",
       "set": "204",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Kylo's Lightsaber"
+      ]
     },
     {
       "front": {
@@ -33720,7 +34150,10 @@
         "If there are only 1 or 2 cards in Reserve Deck, Proxima can still reveal them, but she cannot take an alien into hand."
       ],
       "set": "211",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Proxima"
+      ]
     },
     {
       "front": {
@@ -33893,6 +34326,9 @@
           "cardId": 6965,
           "title": "Lando Calrissian, Vader's Broker"
         }
+      ],
+      "personas": [
+        "Lando"
       ]
     },
     {
@@ -35271,6 +35707,9 @@
           "title": "Lobot, Lando's Broker",
           "cardId": 7304
         }
+      ],
+      "personas": [
+        "Lobot"
       ]
     },
     {
@@ -35475,7 +35914,10 @@
       ],
       "rarity": "PM",
       "set": "13",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Maul"
+      ]
     },
     {
       "front": {
@@ -35522,7 +35964,11 @@
       ],
       "rarity": "R",
       "set": "208",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Maul",
+        "Maul's Double-Bladed Lightsaber"
+      ]
     },
     {
       "front": {
@@ -35578,7 +36024,10 @@
       ],
       "rarity": "U",
       "set": "208",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Sidious"
+      ]
     },
     {
       "combo": [
@@ -35638,7 +36087,10 @@
       ],
       "rarity": "R",
       "set": "9",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Vader"
+      ]
     },
     {
       "front": {
@@ -35730,7 +36182,10 @@
       ],
       "rarity": "R",
       "set": "12",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Lott"
+      ]
     },
     {
       "front": {
@@ -35926,9 +36381,9 @@
         "forfeit": "0",
         "gametext": "{Immediately} 'thaw' Luke (Luke is non-frozen, captured, and seized by Vader). {While} this side up, subtracts 3 from attempts to cross Lule over (even while a captive). {Place} out of play if released or about to leave table.",
         "icons": [
-            "Pilot",
-            "Warrior",
-            "Set 5"
+          "Pilot",
+          "Warrior",
+          "Set 5"
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual5-Dark/large/lukeskywalkertheemperorsprizeback.gif",
         "power": "6",
@@ -35975,7 +36430,10 @@
         "Despite being a captive, all of this card's text is applicable whenever appropriate."
       ],
       "set": "205",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Luke"
+      ]
     },
     {
       "combo": [
@@ -36103,7 +36561,10 @@
       ],
       "rarity": "R",
       "set": "200",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Maarek Stele"
+      ]
     },
     {
       "front": {
@@ -36271,7 +36732,10 @@
         "This card is the same Marquand persona seen on Marquand In Blizzard 6. Both cannot be on table at the same time, and neither card may persona replace the other."
       ],
       "set": "8",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Marquand"
+      ]
     },
     {
       "front": {
@@ -36617,7 +37081,10 @@
       ],
       "rarity": "PM",
       "set": "208",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Mara Jade"
+      ]
     },
     {
       "abbr": [
@@ -36672,7 +37139,11 @@
         "When Mara moves for free using Elis Helrot, Elis Helrot is Used (not Lost) as payment was not declined; it was accepted and made free."
       ],
       "set": "200",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Mara Jade",
+        "Mara Jade's Lightsaber"
+      ]
     },
     {
       "abbr": [
@@ -36768,6 +37239,9 @@
           "cardId": 4029,
           "title": "Mara Jade With Lightsaber"
         }
+      ],
+      "personas": [
+        "Mara Jade"
       ]
     },
     {
@@ -36809,7 +37283,10 @@
       ],
       "rarity": "PM",
       "set": "110",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Mara Jade's Lightsaber"
+      ]
     },
     {
       "front": {
@@ -36847,7 +37324,10 @@
         "This card is the same Marquand persona as the Major Marquand character card. Both cannot be on table at the same time, and neither card may persona replace the other."
       ],
       "set": "210",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Marquand"
+      ]
     },
     {
       "front": {
@@ -37070,7 +37550,10 @@
       ],
       "rarity": "PM",
       "set": "13",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Maul's Double-Bladed Lightsaber"
+      ]
     },
     {
       "combo": [
@@ -37149,6 +37632,9 @@
           "cardId": 5187,
           "title": "Lord Maul With Lightsaber"
         }
+      ],
+      "personas": [
+        "Maul's Double-Bladed Lightsaber"
       ]
     },
     {
@@ -37200,7 +37686,10 @@
       ],
       "rarity": "R",
       "set": "12",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Maul's Sith Infiltrator"
+      ]
     },
     {
       "front": {
@@ -37234,7 +37723,10 @@
       ],
       "rarity": "R",
       "set": "12",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Maul's Sith Infiltrator"
+      ]
     },
     {
       "front": {
@@ -37406,7 +37898,10 @@
       ],
       "rarity": "PM",
       "set": "112",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Jabba"
+      ]
     },
     {
       "canceledBy": [
@@ -37530,6 +38025,9 @@
           "title": "Zuckuss And 4-LOM In Mist Hunter",
           "cardId": 7190
         }
+      ],
+      "personas": [
+        "Mist Hunter"
       ]
     },
     {
@@ -37580,7 +38078,10 @@
         "Counts as Thrawn for the purposes of Thrawn's Art Collection, A Great Tactician Creates Plans, etc."
       ],
       "set": "211",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Thrawn"
+      ]
     },
     {
       "abbr": [
@@ -38068,7 +38569,10 @@
       ],
       "rarity": "PM",
       "set": "102",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Motti"
+      ]
     },
     {
       "canceledBy": [
@@ -39234,7 +39738,10 @@
       ],
       "rarity": "R",
       "set": "8",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Fenson"
+      ]
     },
     {
       "front": {
@@ -40090,6 +40597,9 @@
           "cardId": 6547,
           "title": "Nute Gunray (V)"
         }
+      ],
+      "personas": [
+        "Gunray"
       ]
     },
     {
@@ -40127,7 +40637,10 @@
       ],
       "rarity": "R",
       "set": "210",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Gunray"
+      ]
     },
     {
       "front": {
@@ -40173,7 +40686,10 @@
       ],
       "rarity": "R",
       "set": "14",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Gunray"
+      ]
     },
     {
       "front": {
@@ -40207,7 +40723,10 @@
       ],
       "rarity": "R",
       "set": "14",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Gunray"
+      ]
     },
     {
       "front": {
@@ -40765,6 +41284,9 @@
           "cardId": 4057,
           "title": "Colonel Jendon In Onyx 1"
         }
+      ],
+      "personas": [
+        "Onyx 1"
       ]
     },
     {
@@ -41423,7 +41945,10 @@
         "Rep is defined on the Objective card My Kind Of Scum."
       ],
       "set": "203",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Ortugg's Ax"
+      ]
     },
     {
       "front": {
@@ -41463,7 +41988,10 @@
       ],
       "rarity": "R",
       "set": "7",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "OS-72-1"
+      ]
     },
     {
       "front": {
@@ -41541,7 +42069,10 @@
       ],
       "rarity": "R",
       "set": "7",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "OS-72-2"
+      ]
     },
     {
       "canceledBy": [
@@ -43448,6 +43979,9 @@
           "cardId": 5160,
           "title": "Punishing One (V)"
         }
+      ],
+      "personas": [
+        "Punishing One"
       ]
     },
     {
@@ -43494,7 +44028,10 @@
       ],
       "rarity": "R",
       "set": "207",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Punishing One"
+      ]
     },
     {
       "abbr": [
@@ -45459,7 +45996,10 @@
       ],
       "rarity": "R",
       "set": "12",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Haako"
+      ]
     },
     {
       "front": {
@@ -45502,7 +46042,10 @@
       ],
       "rarity": "R",
       "set": "14",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Haako"
+      ]
     },
     {
       "front": {
@@ -45536,7 +46079,10 @@
       ],
       "rarity": "R",
       "set": "14",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Haako"
+      ]
     },
     {
       "front": {
@@ -46322,6 +46868,9 @@
           "title": "Maul In Scimitar",
           "cardId": 7305
         }
+      ],
+      "personas": [
+        "Scimitar 2"
       ]
     },
     {
@@ -47619,7 +48168,10 @@
         "This card is not a commander ('commanded' doesn't count)."
       ],
       "set": "7",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Narthax"
+      ]
     },
     {
       "abbr": [
@@ -47661,7 +48213,10 @@
       ],
       "rarity": "C1",
       "set": "211",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Narthax"
+      ]
     },
     {
       "front": {
@@ -48843,6 +49398,9 @@
           "cardId": 6649,
           "title": "Slave I, Symbol Of Fear (AI)"
         }
+      ],
+      "personas": [
+        "Slave I"
       ]
     },
     {
@@ -48895,7 +49453,10 @@
       ],
       "rarity": "R",
       "set": "201",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Slave I"
+      ]
     },
     {
       "front": {
@@ -48932,7 +49493,10 @@
       ],
       "rarity": "R",
       "set": "201",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Slave I"
+      ]
     },
     {
       "counterpart": "Nudj",
@@ -51162,7 +51726,10 @@
         "Kylo globally gains the power +3, even affecting a Kylo card deployed after Snoke was lost."
       ],
       "set": "209",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Snoke"
+      ]
     },
     {
       "abbr": [
@@ -51207,7 +51774,10 @@
         "Kylo globally gains the power +3, even affecting a Kylo card deployed after Snoke was lost."
       ],
       "set": "209",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Snoke"
+      ]
     },
     {
       "abbr": [
@@ -51873,6 +52443,9 @@
           "cardId": 5098,
           "title": "Tarkin (V)"
         }
+      ],
+      "personas": [
+        "Tarkin"
       ]
     },
     {
@@ -51920,7 +52493,10 @@
       ],
       "rarity": "PM",
       "set": "204",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Tarkin"
+      ]
     },
     {
       "front": {
@@ -54016,6 +54592,9 @@
           "cardId": 7091,
           "title": "The Emperor, Relentess"
         }
+      ],
+      "personas": [
+        "Sidious"
       ]
     },
     {
@@ -54230,7 +54809,10 @@
       ],
       "rarity": "C",
       "set": "210",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "The Grand Inquisitor"
+      ]
     },
     {
       "cancels": [
@@ -57583,6 +58165,9 @@
           "cardId": 7098,
           "title": "Vader (V)"
         }
+      ],
+      "personas": [
+        "Vader"
       ]
     },
     {
@@ -57775,6 +58360,9 @@
           "cardId": 5143,
           "title": "Vader's Custom TIE (V)"
         }
+      ],
+      "personas": [
+        "Vader's Custom TIE"
       ]
     },
     {
@@ -57829,7 +58417,10 @@
         "An astromech slot counts as a type of passenger slot. For example if the character card R2-D2 is in the astromech slot of the starship card Red 5, Vader's Custom TIE (V) can cancel R2-D2's game text."
       ],
       "set": "206",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Vader's Custom TIE"
+      ]
     },
     {
       "front": {
@@ -57906,6 +58497,9 @@
           "cardId": 7099,
           "title": "Vader's Lightsaber (V)"
         }
+      ],
+      "personas": [
+        "Vader's Lightsaber"
       ]
     },
     {
@@ -58008,6 +58602,9 @@
           "cardId": 4060,
           "title": "Vader's Personal Shuttle (V)"
         }
+      ],
+      "personas": [
+        "Vader's Personal Shuttle"
       ]
     },
     {
@@ -58066,7 +58663,10 @@
       ],
       "rarity": "R",
       "set": "200",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Vader's Personal Shuttle"
+      ]
     },
     {
       "front": {
@@ -58109,7 +58709,10 @@
         "A card with 'Vader' in title can be plural or possessive (e.g. Vader's Cape or Vader's Castle is allowed) but not part of a larger word (e.g. Evader is not allowed)."
       ],
       "set": "209",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Vanee"
+      ]
     },
     {
       "front": {
@@ -58190,6 +58793,9 @@
           "cardId": 5142,
           "title": "Veers (V)"
         }
+      ],
+      "personas": [
+        "Veers"
       ]
     },
     {
@@ -58244,7 +58850,10 @@
       ],
       "rarity": "PM",
       "set": "206",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Veers"
+      ]
     },
     {
       "counterpart": "Vehicle Mine",
@@ -60620,6 +61229,9 @@
           "title": "Wuher (V)",
           "cardId": 7289
         }
+      ],
+      "personas": [
+        "Wuher"
       ]
     },
     {
@@ -61957,6 +62569,9 @@
           "cardId": 7127,
           "title": "Zuckuss (V)"
         }
+      ],
+      "personas": [
+        "Zuckuss"
       ]
     },
     {
@@ -62005,7 +62620,11 @@
       ],
       "rarity": "PM",
       "set": "110",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Mist Hunter",
+        "Zuckuss"
+      ]
     },
     {
       "front": {
@@ -62043,7 +62662,10 @@
       ],
       "rarity": "R",
       "set": "4",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Zuckuss' Snare Rifle"
+      ]
     },
     {
       "front": {
@@ -62140,7 +62762,10 @@
         "The limit of +3 is only a limit on how much Pryde can add, not other cards."
       ],
       "set": "212",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Pryde"
+      ]
     },
     {
       "abbr": [
@@ -62191,7 +62816,11 @@
       ],
       "rarity": "R",
       "set": "212",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Aurra",
+        "Aurra Sing's Blaster Rifle"
+      ]
     },
     {
       "abbr": [
@@ -62240,7 +62869,11 @@
       ],
       "rarity": "R",
       "set": "212",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Aurra",
+        "Aurra Sing's Blaster Rifle"
+      ]
     },
     {
       "abbr": [
@@ -62292,7 +62925,11 @@
       ],
       "rarity": "PM",
       "set": "212",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Aurra",
+        "Aurra Sing's Blaster Rifle"
+      ]
     },
     {
       "front": {
@@ -62340,7 +62977,10 @@
         "May deploy Sergeant Narthax With E-web Blaster (deploys -2)."
       ],
       "set": "212",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Gideon"
+      ]
     },
     {
       "front": {
@@ -62496,7 +63136,10 @@
       ],
       "rarity": "R1",
       "set": "213",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Ozzel"
+      ]
     },
     {
       "front": {
@@ -62548,7 +63191,10 @@
         "Immunity to attrition is determined only at the start of the Damage Segment and does not change if Qi'ra is subsequently forfeited."
       ],
       "set": "213",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Vos"
+      ]
     },
     {
       "front": {
@@ -62711,7 +63357,10 @@
         "'Immune to Sorry About The Mess' prevents the control phase firing function and prevents the place in Lost Pile function of the combo card. It does not prevent the 3 being added to weapon destiny function of the combo card."
       ],
       "set": "213",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Dooku"
+      ]
     },
     {
       "front": {
@@ -62866,7 +63515,10 @@
       ],
       "rarity": "C",
       "set": "213",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Margo"
+      ]
     },
     {
       "front": {
@@ -62907,7 +63559,10 @@
       ],
       "rarity": "C",
       "set": "213",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Seventh Sister"
+      ]
     },
     {
       "front": {
@@ -62959,7 +63614,10 @@
         "However, if Maul does happen to be at the battle location, then he must be participating in the battle (not excluded) in order to add or subtract 1."
       ],
       "set": "213",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Maul"
+      ]
     },
     {
       "front": {
@@ -63348,7 +64006,10 @@
       ],
       "rarity": "U",
       "set": "213",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Executor"
+      ]
     },
     {
       "front": {
@@ -63381,7 +64042,10 @@
       ],
       "rarity": "U2",
       "set": "213",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "First Light"
+      ]
     },
     {
       "front": {
@@ -63414,7 +64078,10 @@
       ],
       "rarity": "U2",
       "set": "213",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "First Light"
+      ]
     },
     {
       "front": {
@@ -63447,7 +64114,10 @@
       ],
       "rarity": "U2",
       "set": "213",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "First Light"
+      ]
     },
     {
       "front": {
@@ -63748,7 +64418,10 @@
         "When Khurgee reveals a card to cause Light to lose 1 Force, Light may choose to lose the revealed card."
       ],
       "set": "301",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Khurgee"
+      ]
     },
     {
       "front": {
@@ -63793,7 +64466,10 @@
         "To cause Force loss, the character must be placed out of play from the Lost Pile, or from an active or inactive state on the table."
       ],
       "set": "214",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Ochi"
+      ]
     },
     {
       "abbr": [
@@ -63843,7 +64519,10 @@
         "A Light Side Force icon could be added to the same location as Palpatine, Emperor Returned (e.g. due to Presence Of The Force). This does not violate Palpatine's text or cause him to be removed from table."
       ],
       "set": "214",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Sidious"
+      ]
     },
     {
       "front": {
@@ -64100,7 +64779,10 @@
       ],
       "rarity": "C2",
       "set": "214",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Bestoon Legacy"
+      ]
     },
     {
       "front": {
@@ -64181,7 +64863,10 @@
       ],
       "rarity": "C",
       "set": "214",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Steadfast"
+      ]
     },
     {
       "front": {
@@ -64275,7 +64960,10 @@
         "Does not cause an already attached starfighter to detach."
       ],
       "set": "215",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Piett"
+      ]
     },
     {
       "front": {
@@ -64358,7 +65046,10 @@
         "Only prevents characters being removed from lost pile while they are in a 'just lost' state."
       ],
       "set": "215",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Dannik Jerriko"
+      ]
     },
     {
       "abbr": [
@@ -64445,7 +65136,10 @@
         "Rukh peeks at the top 2 cards - he does not enable each of your assassins and leaders there to peek."
       ],
       "set": "215",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Rukh"
+      ]
     },
     {
       "front": {
@@ -64788,7 +65482,10 @@
         "Even if persona replacing a Vader whose gametext is already being canceled by Amidala, this card's game text will not be canceled by Amidala."
       ],
       "set": "216",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Vader"
+      ]
     },
     {
       "abbr": [
@@ -65531,7 +66228,10 @@
         "Immune to Under Attack and attrition < 4 does not require Veers piloting (but does require Blizzard 1 be piloted)."
       ],
       "set": "217",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Blizzard 1"
+      ]
     },
     {
       "front": {
@@ -65992,7 +66692,10 @@
         "The phrase 'on Cloud City' means at a Cloud City site, not the Bespin: Cloud City sector."
       ],
       "set": "217",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Lando"
+      ]
     },
     {
       "abbr": [
@@ -66225,7 +66928,10 @@
         "Doubles X on Secret Plans means (for example) to retrieve 2 Force, Light must use 4 Force (instead of 2)."
       ],
       "set": "217",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Qi'ra"
+      ]
     },
     {
       "abbr": [
@@ -66363,7 +67069,10 @@
         "If a destiny draw cannot be modified (e.g. I Don't Like Sand) then this card does not modify its own destiny value, and is destiny 0."
       ],
       "set": "217",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Sidious' Lightsaber"
+      ]
     },
     {
       "abbr": [
@@ -67063,7 +67772,10 @@
         "If General Leia Organa is currently suspending WIAPN, and then Dark uses Alert My Star Destroyer (V) to deploy Chimaera (V) with Thrawn aboard simultaneously, the discount from WIAPN is not applied (Dark pays the deploy cost first, before WIAPN gets un-suspended)."
       ],
       "set": "219",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Chimaera"
+      ]
     },
     {
       "abbr": [
@@ -67107,7 +67819,10 @@
         "If a [Presence] droid attempts to fire its permanent weapon and the firing is canceled, then the weapon did not fire, so Dofine gives +1 to total battle destiny."
       ],
       "set": "219",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Dofine"
+      ]
     },
     {
       "abbr": [
@@ -67181,7 +67896,10 @@
       ],
       "rarity": "U",
       "set": "219",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Vanto"
+      ]
     },
     {
       "abbr": [
@@ -67222,7 +67940,10 @@
       ],
       "rarity": "U1",
       "set": "219",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Fennec Shand"
+      ]
     },
     {
       "abbr": [
@@ -67262,7 +67983,10 @@
         "If Pryce is with (for example) Emperor Palpatine and Dark is facing 5 attrition (so Pryce is not immune), Dark must satisfy the attrition, but cannot forfeit Pryce; therefore Dark must forfeit Emperor Palpatine in this scenario."
       ],
       "set": "219",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Pryce"
+      ]
     },
     {
       "abbr": [
@@ -67711,7 +68435,10 @@
         "Total battle destiny +1 only applies while Agents Of Black Sun is on its 0-side."
       ],
       "set": "219",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Sidious"
+      ]
     },
     {
       "abbr": [
@@ -67979,7 +68706,10 @@
       ],
       "rarity": "PM",
       "set": "219",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Vader"
+      ]
     },
     {
       "abbr": [
@@ -68014,7 +68744,10 @@
         "If targeting Obi-Wan Kenobi, Padawan Learner, both the -1 and the +1 are applied (effectively canceling out)."
       ],
       "set": "219",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Vader's Lightsaber"
+      ]
     },
     {
       "front": {
@@ -68092,7 +68825,10 @@
       ],
       "rarity": "PM",
       "set": "207",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Thrawn"
+      ]
     },
     {
       "abbr": [
@@ -68136,7 +68872,10 @@
         "The phrase 'may activate 1 Force' means Dark may activate, not the opponent."
       ],
       "set": "220",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Bib Fortuna"
+      ]
     },
     {
       "front": {
@@ -68314,7 +69053,10 @@
         "Canceled weapon destiny draws do not count. For a weapon destiny that is canceled and redrawn, count only the redraw."
       ],
       "set": "220",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Zuckuss"
+      ]
     },
     {
       "combo": [
@@ -68368,7 +69110,11 @@
         "This weapon is not a blaster."
       ],
       "set": "200",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "4-LOM",
+        "4-LOM's Concussion Rifle"
+      ]
     },
     {
       "front": {
@@ -68522,7 +69268,10 @@
         "When using this text, treat all instances of the word 'Emperor' on Force Lightning as 'Dooku' instead."
       ],
       "set": "200",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Dooku"
+      ]
     },
     {
       "cancels": [
@@ -68583,7 +69332,10 @@
         "Cancels game text of any version of the Amidala persona, including Padme."
       ],
       "set": "203",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Maul"
+      ]
     },
     {
       "abbr": [
@@ -68648,7 +69400,10 @@
         "Cancels game text of any version of the Amidala persona, including Padme."
       ],
       "set": "203",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Maul"
+      ]
     },
     {
       "abbr": [
@@ -68711,7 +69466,10 @@
         "Cancels game text of any version of the Amidala persona, including Padme."
       ],
       "set": "203",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Maul"
+      ]
     },
     {
       "front": {
@@ -68752,7 +69510,10 @@
       ],
       "rarity": "U",
       "set": "200",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Dooku's Lightsaber"
+      ]
     },
     {
       "abbr": [
@@ -68848,7 +69609,11 @@
       ],
       "rarity": "R",
       "set": "221",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Vader's Personal Shuttle",
+        "Jendon"
+      ]
     },
     {
       "abbr": [
@@ -68954,7 +69719,10 @@
       ],
       "rarity": "U1",
       "set": "221",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Ventress"
+      ]
     },
     {
       "abbr": [
@@ -68989,7 +69757,10 @@
       ],
       "rarity": "C",
       "set": "221",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Asajj's Lightsabers"
+      ]
     },
     {
       "abbr": [
@@ -69109,7 +69880,10 @@
       ],
       "rarity": "U2",
       "set": "221",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Praji"
+      ]
     },
     {
       "abbr": [
@@ -69376,7 +70150,10 @@
       ],
       "rarity": "R1",
       "set": "221",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "First Light"
+      ]
     },
     {
       "abbr": [
@@ -70174,7 +70951,12 @@
       ],
       "rarity": "R",
       "set": "221",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Mist Hunter",
+        "Zuckuss",
+        "4-LOM"
+      ]
     },
     {
       "abbr": [
@@ -70374,7 +71156,11 @@
       ],
       "rarity": "PM",
       "set": "222",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Boba Fett",
+        "Boba Fett's Blaster Rifle"
+      ]
     },
     {
       "abbr": [
@@ -70560,7 +71346,10 @@
       ],
       "rarity": "U1",
       "set": "222",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Kylo"
+      ]
     },
     {
       "abbr": [
@@ -70601,7 +71390,10 @@
       ],
       "rarity": "C",
       "set": "222",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Kuruk"
+      ]
     },
     {
       "abbr": [
@@ -70643,7 +71435,10 @@
       ],
       "rarity": "C",
       "set": "222",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Sidious"
+      ]
     },
     {
       "abbr": [
@@ -71025,7 +71820,10 @@
         "'Immune to Sorry About The Mess' prevents the control phase firing function and prevents the place in Lost Pile function of the combo card. It does not prevent the 3 being added to weapon destiny function of the combo card."
       ],
       "set": "208",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Vader"
+      ]
     },
     {
       "front": {
@@ -71068,7 +71866,10 @@
       ],
       "rarity": "U",
       "set": "207",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Krennic"
+      ]
     },
     {
       "front": {
@@ -71233,7 +72034,10 @@
         "A Light Side Force icon could be added to the same location as Palpatine, Emperor Returned (e.g. due to Presence Of The Force). This does not violate Palpatine's text or cause him to be removed from table."
       ],
       "set": "214",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Sidious"
+      ]
     },
     {
       "front": {
@@ -71272,7 +72076,10 @@
       ],
       "rarity": "C",
       "set": "214",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Steadfast"
+      ]
     },
     {
       "abbr": [
@@ -71317,7 +72124,10 @@
       ],
       "rarity": "C",
       "set": "210",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "The Grand Inquisitor"
+      ]
     },
     {
       "front": {
@@ -71360,7 +72170,10 @@
         "A card with 'Vader' in title can be plural or possessive (e.g. Vader's Cape or Vader's Castle is allowed) but not part of a larger word (e.g. Evader is not allowed)."
       ],
       "set": "209",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Vanee"
+      ]
     },
     {
       "abbr": [
@@ -71416,7 +72229,10 @@
         "However, if Maul does happen to be at the battle location, then he must be participating in the battle (not excluded) in order to add or subtract 1."
       ],
       "set": "213",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Maul"
+      ]
     },
     {
       "abbr": [
@@ -71503,7 +72319,10 @@
         "If there are two battles here in the same turn (e.g. via Counterattack), players may fire one weapon in each battle (does not have to be the same weapon)."
       ],
       "set": "223",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Wuher"
+      ]
     },
     {
       "abbr": [
@@ -71562,7 +72381,11 @@
       ],
       "rarity": "U",
       "set": "223",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Zuckuss",
+        "Zuckuss' Snare Rifle"
+      ]
     },
     {
       "abbr": [
@@ -71783,7 +72606,10 @@
       ],
       "rarity": "PM",
       "set": "223",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Vanto"
+      ]
     },
     {
       "abbr": [
@@ -71945,7 +72771,10 @@
       ],
       "rarity": "R",
       "set": "223",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Lobot"
+      ]
     },
     {
       "abbr": [
@@ -71986,7 +72815,11 @@
       ],
       "rarity": "U",
       "set": "223",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Maul's Sith Infiltrator",
+        "Maul"
+      ]
     },
     {
       "abbr": [
@@ -72028,7 +72861,10 @@
       ],
       "rarity": "C",
       "set": "223",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Gideon"
+      ]
     },
     {
       "abbr": [
@@ -72768,7 +73604,10 @@
         "If General Leia Organa is currently suspending WIAPN, and then Dark uses Alert My Star Destroyer (V) to deploy Chimaera (V) with Thrawn aboard simultaneously, the discount from WIAPN is not applied (Dark pays the deploy cost first, before WIAPN gets un-suspended)."
       ],
       "set": "219",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Chimaera"
+      ]
     },
     {
       "counterpart": "Coruscant",
@@ -72947,7 +73786,10 @@
         "'Immune to Sorry About The Mess' prevents the control phase firing function and prevents the place in Lost Pile function of the combo card. It does not prevent the 3 being added to weapon destiny function of the combo card."
       ],
       "set": "213",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Dooku"
+      ]
     },
     {
       "front": {
@@ -73008,7 +73850,10 @@
         "Even if persona replacing a Vader whose gametext is already being canceled by Amidala, this card's game text will not be canceled by Amidala."
       ],
       "set": "216",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Vader"
+      ]
     },
     {
       "abbr": [
@@ -73232,7 +74077,10 @@
         "The last sentence means that I Must Be Allowed To Speak (V) will not take a card into hand for characters deploying here."
       ],
       "set": "225",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Bib Fortuna"
+      ]
     },
     {
       "abbr": [
@@ -73581,7 +74429,10 @@
         "The phrase 'two characters' means 'at least two characters'."
       ],
       "set": "225",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Baylan"
+      ]
     },
     {
       "abbr": [
@@ -73669,7 +74520,10 @@
         "Works with any [Episode VII] objective, including the opponent's."
       ],
       "set": "225",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Arm Cannon"
+      ]
     },
     {
       "front": {
@@ -73813,7 +74667,10 @@
       ],
       "rarity": "R1",
       "set": "225",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "DS-61-3"
+      ]
     },
     {
       "abbr": [
@@ -73991,7 +74848,10 @@
         "Dark's 'apprentice' is defined on Revenge Of The Sith."
       ],
       "set": "225",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Sidious"
+      ]
     },
     {
       "abbr": [
@@ -74170,7 +75030,10 @@
         "If Snoke aboard and Supremacy also with Tracked Fleet, the greater immunity is used."
       ],
       "set": "225",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Supremacy"
+      ]
     },
     {
       "abbr": [
@@ -74210,7 +75073,10 @@
         "The piloted [Resistance] starship can be at any system."
       ],
       "set": "225",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Supremacy"
+      ]
     },
     {
       "abbr": [
@@ -74250,7 +75116,10 @@
         "The attrition +1 requires Snoke to be participating in the battle and Rey to not be participating in the battle (or not be there at all)."
       ],
       "set": "225",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Supremacy"
+      ]
     },
     {
       "abbr": [
@@ -74700,7 +75569,10 @@
         "Prevents playing None Shall Pass."
       ],
       "set": "226",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Garindan"
+      ]
     },
     {
       "front": {
@@ -74907,7 +75779,10 @@
         "Even without Revenge Of The Sith, Mara is your apprentice, e.g. works with Master Sidious."
       ],
       "set": "226",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Mara Jade"
+      ]
     },
     {
       "abbr": [
@@ -75313,7 +76188,10 @@
       ],
       "rarity": "PM",
       "set": "211",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Invisible Hand"
+      ]
     },
     {
       "front": {
@@ -75369,7 +76247,10 @@
       ],
       "rarity": "U",
       "set": "208",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Sidious"
+      ]
     },
     {
       "front": {
@@ -75420,7 +76301,10 @@
       ],
       "rarity": "R",
       "set": "200",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Maarek Stele"
+      ]
     },
     {
       "front": {
@@ -75501,7 +76385,10 @@
         "If targeting Obi-Wan Kenobi, Padawan Learner, both the -1 and the +1 are applied (effectively canceling out)."
       ],
       "set": "219",
-      "side": "Dark"
+      "side": "Dark",
+      "personas": [
+        "Vader's Lightsaber"
+      ]
     },
     {
       "front": {
