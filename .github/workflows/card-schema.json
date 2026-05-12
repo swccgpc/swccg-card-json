@@ -20,10 +20,7 @@
           }
         },
         "back": {
-          "type": "object",
-          "items": {
-            "$ref": "#/$defs/cardFace"
-          }
+          "$ref": "#/$defs/cardFace"
         },
         "canceledBy": {
           "type": "array",
@@ -50,10 +47,7 @@
           "type": "string"
         },
         "front": {
-          "type": "object",
-          "items": {
-            "$ref": "#/$defs/cardFace"
-          }
+          "$ref": "#/$defs/cardFace"
         },
         "gempId": {
           "type": "string"
@@ -111,13 +105,45 @@
         },
         "sourceType": {
           "type": "string"
+        },
+        "personas": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "previousId": {
+          "type": "integer"
+        },
+        "underlyingCardFor": {
+          "type": "array",
+          "items": {
+            "oneOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "object",
+                "properties": {
+                  "cardId": {
+                    "type": "integer"
+                  },
+                  "title": {
+                    "type": "string"
+                  }
+                }
+              }
+            ]
+          }
         }
       }
     },
     "printing": {
       "type": "object",
       "properties": {
-        "set": "string"
+        "set": {
+          "type": "string"
+        }
       }
     },
     "cardFace": {
@@ -208,6 +234,27 @@
           "type": "string"
         },
         "uniqueness": {
+          "type": "string"
+        },
+        "darksideIcons": {
+          "type": "integer"
+        },
+        "errataDate": {
+          "type": "string"
+        },
+        "errataNotes": {
+          "type": "string"
+        },
+        "errataSymbol": {
+          "type": "string"
+        },
+        "lightsideIcons": {
+          "type": "integer"
+        },
+        "printableSlipType": {
+          "type": "string"
+        },
+        "printableSlipUrl": {
           "type": "string"
         }
       }
