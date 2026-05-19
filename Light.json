@@ -1175,6 +1175,9 @@
       "side": "Light",
       "underlyingCardFor": [
         "Admiral Ackbar (V)"
+      ],
+      "personas": [
+        "Ackbar"
       ]
     },
     {
@@ -1229,7 +1232,10 @@
       ],
       "rarity": "XR",
       "set": "203",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Ackbar"
+      ]
     },
     {
       "front": {
@@ -1731,7 +1737,10 @@
       ],
       "rarity": "C",
       "set": "211",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Ahsoka"
+      ]
     },
     {
       "abbr": [
@@ -1785,7 +1794,11 @@
         "Canceling the targeting of one character (e.g. Force Field) cancels the entire action."
       ],
       "set": "301",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Ahsoka",
+        "Ahsoka's Lightsabers"
+      ]
     },
     {
       "abbr": [
@@ -1839,7 +1852,11 @@
         "Canceling the targeting of one character (e.g. Force Field) cancels the entire action."
       ],
       "set": "301",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Ahsoka",
+        "Ahsoka's Lightsabers"
+      ]
     },
     {
       "combo": [
@@ -2680,7 +2697,10 @@
       ],
       "rarity": "C2",
       "set": "200",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Anakin"
+      ]
     },
     {
       "front": {
@@ -2722,7 +2742,10 @@
       ],
       "rarity": "C2",
       "set": "200",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Anakin"
+      ]
     },
     {
       "front": {
@@ -2801,6 +2824,9 @@
           "title": "Anakin's Lightsaber (V) (AI)",
           "cardId": 7373
         }
+      ],
+      "personas": [
+        "Anakin's Lightsaber"
       ]
     },
     {
@@ -2861,7 +2887,10 @@
       ],
       "rarity": "R1",
       "set": "210",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Anakin's Lightsaber"
+      ]
     },
     {
       "front": {
@@ -3757,6 +3786,9 @@
       "side": "Light",
       "underlyingCardFor": [
         "Artoo (V)"
+      ],
+      "personas": [
+        "R2-D2"
       ]
     },
     {
@@ -3826,7 +3858,11 @@
         "Canceling Artoo & Threepio's game text or excluding them from battle could result in a battle ending immediately (in cases where their game text is required for the battle to occur)."
       ],
       "set": "10",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "R2-D2",
+        "C-3PO"
+      ]
     },
     {
       "abbr": [
@@ -3883,7 +3919,10 @@
         "This card is <u>not</u> a maintenance droid (e.g. for Echo Base Garrison)."
       ],
       "set": "14",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "R2-D2"
+      ]
     },
     {
       "abbr": [
@@ -3921,7 +3960,10 @@
       ],
       "rarity": "R",
       "set": "14",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "R2-D2"
+      ]
     },
     {
       "front": {
@@ -4051,7 +4093,11 @@
         "Any Luke pilot character card is a matching pilot, including Luke cards with 5 or more ability."
       ],
       "set": "111",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Red 5",
+        "R2-D2"
+      ]
     },
     {
       "canceledBy": [
@@ -5240,7 +5286,11 @@
         "May fire during battle and then fire again when about to be lost from that same battle (whether being lost during the weapons segment, forfeited during the damage segment, or at any other time)."
       ],
       "set": "207",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Baze",
+        "Baze's Cannon"
+      ]
     },
     {
       "front": {
@@ -5293,7 +5343,10 @@
         "BB-8 may be placed in Used Pile even if there are no Undercover spies there."
       ],
       "set": "204",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "BB-8"
+      ]
     },
     {
       "front": {
@@ -5333,7 +5386,11 @@
       ],
       "rarity": "U",
       "set": "211",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Black 1",
+        "BB-8"
+      ]
     },
     {
       "canceledBy": [
@@ -5563,7 +5620,10 @@
         "The revived character could even battle again this turn (e.g. by moving to another site with Nabrun Leids and battling there)."
       ],
       "set": "7",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Obi-Wan"
+      ]
     },
     {
       "front": {
@@ -6267,7 +6327,10 @@
         "If Blockade Flagship is 'blown away' (see Bravo Fighter), this site and all cards here are lost, and Blockade Flagship sites cannot be deployed for remainder of game."
       ],
       "set": "14",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Blockade Flagship"
+      ]
     },
     {
       "front": {
@@ -6302,7 +6365,10 @@
       ],
       "rarity": "R",
       "set": "209",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Blue 11"
+      ]
     },
     {
       "cancels": [
@@ -6376,7 +6442,10 @@
         "Canceling a Force drain is an optional response, occurring after automatic responses such as Restore Freedom To The Galaxy."
       ],
       "set": "210",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Blue Squadron 1"
+      ]
     },
     {
       "front": {
@@ -6764,7 +6833,11 @@
       ],
       "rarity": "PM",
       "set": "200",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Pulsar Skate",
+        "Booster"
+      ]
     },
     {
       "front": {
@@ -6806,6 +6879,9 @@
       "side": "Light",
       "underlyingCardFor": [
         "BoShek, Gritty Smuggler"
+      ],
+      "personas": [
+        "BoShek"
       ]
     },
     {
@@ -6853,7 +6929,10 @@
         "Both of BoShek's actions (subtracing 1 or canceling an attempt) cost 1 Force to use, and BoShek may only use one of them once per battle, not once each."
       ],
       "set": "210",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "BoShek"
+      ]
     },
     {
       "front": {
@@ -7128,6 +7207,9 @@
           "title": "Boushh (V)",
           "cardId": 7320
         }
+      ],
+      "personas": [
+        "Leia"
       ]
     },
     {
@@ -7769,6 +7851,9 @@
       "side": "Light",
       "underlyingCardFor": [
         "C-3PO (See-Threepio) (V)"
+      ],
+      "personas": [
+        "C-3PO"
       ]
     },
     {
@@ -7813,7 +7898,10 @@
       ],
       "rarity": "R1",
       "set": "208",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Chopper"
+      ]
     },
     {
       "front": {
@@ -7856,6 +7944,9 @@
       "side": "Light",
       "underlyingCardFor": [
         "Cal Alder (V)"
+      ],
+      "personas": [
+        "Cal"
       ]
     },
     {
@@ -7896,7 +7987,10 @@
       ],
       "rarity": "U2",
       "set": "206",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Cal"
+      ]
     },
     {
       "front": {
@@ -8086,7 +8180,10 @@
       ],
       "rarity": "C2",
       "set": "206",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Cassian"
+      ]
     },
     {
       "combo": [
@@ -8154,6 +8251,9 @@
           "title": "Captain Han Solo (V)",
           "cardId": 7422
         }
+      ],
+      "personas": [
+        "Han"
       ]
     },
     {
@@ -8296,7 +8396,10 @@
       ],
       "rarity": "R",
       "set": "12",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Madakor"
+      ]
     },
     {
       "combo": [
@@ -8345,7 +8448,10 @@
       ],
       "rarity": "R",
       "set": "12",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Panaka"
+      ]
     },
     {
       "front": {
@@ -8652,7 +8758,10 @@
       ],
       "rarity": "U",
       "set": "8",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Yutani"
+      ]
     },
     {
       "abbr": [
@@ -8698,7 +8807,10 @@
       ],
       "rarity": "C1",
       "set": "200",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Yutani"
+      ]
     },
     {
       "cancels": [
@@ -8907,7 +9019,10 @@
         "If the destiny is not a whole number (e.g. Brainiac), it is neither even nor odd, so Odd Ball may not add or subtract 1."
       ],
       "set": "208",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Odd ball"
+      ]
     },
     {
       "canceledBy": [
@@ -9143,6 +9258,9 @@
       "side": "Light",
       "underlyingCardFor": [
         "Chewbacca (V)"
+      ],
+      "personas": [
+        "Chewie"
       ]
     },
     {
@@ -9200,6 +9318,9 @@
       "side": "Light",
       "underlyingCardFor": [
         "Chewbacca, Defender Of Kashyyyk"
+      ],
+      "personas": [
+        "Chewie"
       ]
     },
     {
@@ -9255,7 +9376,10 @@
         "If Leia is inactive (such as being an imprisoned or an escorted captive) then Chewie won't deploy -3."
       ],
       "set": "10",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Chewie"
+      ]
     },
     {
       "combo": [
@@ -9297,7 +9421,10 @@
       ],
       "rarity": "R",
       "set": "8",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Chewbacca's Bowcaster"
+      ]
     },
     {
       "abbr": [
@@ -9334,6 +9461,9 @@
       "side": "Light",
       "underlyingCardFor": [
         "Chewie (V)"
+      ],
+      "personas": [
+        "Chewie"
       ]
     },
     {
@@ -9391,7 +9521,10 @@
       ],
       "rarity": "PM",
       "set": "200",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Chewie"
+      ]
     },
     {
       "abbr": [
@@ -9455,6 +9588,9 @@
           "title": "Chewie With Bowcaster (AI)",
           "cardId": 7140
         }
+      ],
+      "personas": [
+        "Chewie"
       ]
     },
     {
@@ -9511,7 +9647,11 @@
       ],
       "rarity": "PM",
       "set": "204",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Chewie",
+        "Chewbacca's Bowcaster"
+      ]
     },
     {
       "abbr": [
@@ -9566,7 +9706,10 @@
       ],
       "rarity": "PM",
       "set": "13",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Chewie"
+      ]
     },
     {
       "combo": [
@@ -11063,6 +11206,9 @@
       "side": "Light",
       "underlyingCardFor": [
         "General Airen Cracken"
+      ],
+      "personas": [
+        "Cracken"
       ]
     },
     {
@@ -11422,6 +11568,9 @@
       "side": "Light",
       "underlyingCardFor": [
         "Commander Luke Skywalker (V)"
+      ],
+      "personas": [
+        "Luke"
       ]
     },
     {
@@ -11506,7 +11655,10 @@
       ],
       "rarity": "R1",
       "set": "200",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Luke"
+      ]
     },
     {
       "front": {
@@ -11588,7 +11740,10 @@
       ],
       "rarity": "U",
       "set": "209",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Melshi"
+      ]
     },
     {
       "cancels": [
@@ -11736,6 +11891,9 @@
       "side": "Light",
       "underlyingCardFor": [
         "Commander Wedge Antilles (V)"
+      ],
+      "personas": [
+        "Wedge"
       ]
     },
     {
@@ -11792,7 +11950,10 @@
         "May cancel any opponent's battle destiny except the first one. This works even if the first destiny was substituted (e.g. by Watch Your Back!)."
       ],
       "set": "205",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Wedge"
+      ]
     },
     {
       "front": {
@@ -12665,7 +12826,10 @@
       ],
       "rarity": "U",
       "set": "8",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Janse"
+      ]
     },
     {
       "combo": [
@@ -12705,7 +12869,10 @@
       ],
       "rarity": "R",
       "set": "8",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Kensaric"
+      ]
     },
     {
       "combo": [
@@ -12876,6 +13043,9 @@
           "title": "Corran Horn, Jedi",
           "cardId": 7323
         }
+      ],
+      "personas": [
+        "Corran Horn"
       ]
     },
     {
@@ -12920,7 +13090,10 @@
         "This card does not inherit any game text or attributes from the Corran Horn character card (e.g. the pilot is not a spy)."
       ],
       "set": "202",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Corran Horn"
+      ]
     },
     {
       "counterpart": "Corulag",
@@ -13880,7 +14053,10 @@
       ],
       "rarity": "R2",
       "set": "3",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Dack Ralter"
+      ]
     },
     {
       "counterpart": "Dagobah",
@@ -14476,7 +14652,10 @@
         "Dash is a matching pilot, so this vehicle is immune to attrition < 6 with Echo Base Garrison."
       ],
       "set": "201",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Dash"
+      ]
     },
     {
       "combo": [
@@ -14529,6 +14708,9 @@
       "side": "Light",
       "underlyingCardFor": [
         "Dash Rendar (V)"
+      ],
+      "personas": [
+        "Dash"
       ]
     },
     {
@@ -14576,7 +14758,10 @@
         "Dash's action subtracts from attrition against his owner (Light)."
       ],
       "set": "210",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Dash"
+      ]
     },
     {
       "abbr": [
@@ -14650,6 +14835,9 @@
       "side": "Light",
       "underlyingCardFor": [
         "Daughter Of Skywalker (V)"
+      ],
+      "personas": [
+        "Leia"
       ]
     },
     {
@@ -14712,7 +14900,10 @@
         "'Immune to Sniper' prevents the control phase sniping function and prevents the place in Lost Pile function of the combo card. It does not prevent the 3 being added to weapon destiny function of the combo card."
       ],
       "set": "200",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Leia"
+      ]
     },
     {
       "combo": [
@@ -16129,7 +16320,10 @@
         "Also increases any special requirements such as on A Jedi's Strength."
       ],
       "set": "2",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Doikk Na'ts"
+      ]
     },
     {
       "abbr": [
@@ -17043,6 +17237,9 @@
       "side": "Light",
       "underlyingCardFor": [
         "Dutch (V)"
+      ],
+      "personas": [
+        "Dutch"
       ]
     },
     {
@@ -17077,7 +17274,10 @@
       ],
       "rarity": "R1",
       "set": "210",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Dutch"
+      ]
     },
     {
       "front": {
@@ -19526,7 +19726,10 @@
         "To determine power bonus, count up all cards that are either Dark Jedi or Jedi (e.g. if there are 2 Dark Jedi and 1 Jedi, then Ezra Bridger is power +3)."
       ],
       "set": "210",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Ezra"
+      ]
     },
     {
       "counterpart": "Forced Servitude",
@@ -19849,7 +20052,10 @@
       ],
       "rarity": "U2",
       "set": "1",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Figrin D'an"
+      ]
     },
     {
       "front": {
@@ -19901,7 +20107,10 @@
         "May even deploy as a 'react' to same location as Light's permanent pilot such as on a vehicle or starship (even a landed starship)."
       ],
       "set": "204",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Finn"
+      ]
     },
     {
       "cancels": [
@@ -20965,7 +21174,10 @@
         "If with [Tatooine] Darth Maul, setting Light's total ability = 0, Light would still check all their individual cards with ability there and if they are all scouts and/or spies, Cracken's text would still work."
       ],
       "set": "200",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Cracken"
+      ]
     },
     {
       "front": {
@@ -21020,7 +21232,10 @@
       ],
       "rarity": "R",
       "set": "9",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Lando"
+      ]
     },
     {
       "cancels": [
@@ -21355,7 +21570,10 @@
       ],
       "rarity": "R",
       "set": "14",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Jar Jar"
+      ]
     },
     {
       "front": {
@@ -21390,7 +21608,10 @@
       ],
       "rarity": "R",
       "set": "14",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Jar Jar"
+      ]
     },
     {
       "abbr": [
@@ -21444,7 +21665,10 @@
         "The 'during battle' sentence is once per battle."
       ],
       "set": "209",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Obi-Wan"
+      ]
     },
     {
       "front": {
@@ -21495,7 +21719,10 @@
         "The 'during battle' sentence is once per battle."
       ],
       "set": "209",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Obi-Wan"
+      ]
     },
     {
       "front": {
@@ -21546,7 +21773,10 @@
       ],
       "rarity": "R",
       "set": "207",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Leia"
+      ]
     },
     {
       "combo": [
@@ -21593,7 +21823,10 @@
         "Also increases any special requirements such as on A Jedi's Strength."
       ],
       "set": "7",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "McQuarrie"
+      ]
     },
     {
       "combo": [
@@ -21658,6 +21891,9 @@
       "side": "Light",
       "underlyingCardFor": [
         "General Solo (V)"
+      ],
+      "personas": [
+        "Han"
       ]
     },
     {
@@ -21727,7 +21963,10 @@
       ],
       "rarity": "R",
       "set": "200",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Han"
+      ]
     },
     {
       "combo": [
@@ -22181,7 +22420,10 @@
       ],
       "rarity": "R2",
       "set": "1",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Gold 1"
+      ]
     },
     {
       "front": {
@@ -22449,6 +22691,10 @@
       "side": "Light",
       "underlyingCardFor": [
         "Gold Leader In Gold 1 (V)"
+      ],
+      "personas": [
+        "Gold 1",
+        "Dutch"
       ]
     },
     {
@@ -22503,7 +22749,11 @@
         "<b>In brief, how can I avoid paying?!</b> The <u>only</u> way to avoid paying is to have 0 Force remaining while using 'draw x battle destiny if unable to otherwise' text."
       ],
       "set": "200",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Gold 1",
+        "Dutch"
+      ]
     },
     {
       "abbr": [
@@ -22573,6 +22823,9 @@
       "side": "Light",
       "underlyingCardFor": [
         "The Falcon"
+      ],
+      "personas": [
+        "Falcon"
       ]
     },
     {
@@ -23085,7 +23338,10 @@
       ],
       "rarity": "R",
       "set": "9",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Green Leader"
+      ]
     },
     {
       "abbr": [
@@ -23132,7 +23388,11 @@
         "The permanent pilot <u>is</u> the same persona as the character card Green Leader, so both cannot be on table at same time."
       ],
       "set": "201",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Green Squadron 1",
+        "Green Leader"
+      ]
     },
     {
       "abbr": [
@@ -23179,7 +23439,11 @@
         "The permanent pilot <u>is</u> the same persona as the character card Green Leader, so both cannot be on table at same time."
       ],
       "set": "201",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Green Squadron 1",
+        "Green Leader"
+      ]
     },
     {
       "combo": [
@@ -23224,7 +23488,10 @@
       ],
       "rarity": "R",
       "set": "9",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Green Squadron 1"
+      ]
     },
     {
       "combo": [
@@ -23272,6 +23539,9 @@
       "side": "Light",
       "underlyingCardFor": [
         "Tycho In Green Squadron 3"
+      ],
+      "personas": [
+        "Green Squadron 3"
       ]
     },
     {
@@ -23440,7 +23710,10 @@
       ],
       "rarity": "R",
       "set": "7",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Grondorn"
+      ]
     },
     {
       "front": {
@@ -23731,6 +24004,9 @@
       "side": "Light",
       "underlyingCardFor": [
         "Han (V)"
+      ],
+      "personas": [
+        "Han"
       ]
     },
     {
@@ -23787,7 +24063,10 @@
       ],
       "rarity": "PM",
       "set": "200",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Han"
+      ]
     },
     {
       "cancels": [
@@ -23859,6 +24138,9 @@
           "title": "Han Solo (V)",
           "cardId": 7353
         }
+      ],
+      "personas": [
+        "Han"
       ]
     },
     {
@@ -23918,7 +24200,11 @@
       ],
       "rarity": "PM",
       "set": "108",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Han",
+        "Han's Heavy Blaster Pistol"
+      ]
     },
     {
       "abbr": [
@@ -23976,6 +24262,11 @@
       "side": "Light",
       "underlyingCardFor": [
         "Han, Chewie, And The Falcon (V)"
+      ],
+      "personas": [
+        "Falcon",
+        "Han",
+        "Chewie"
       ]
     },
     {
@@ -24037,7 +24328,12 @@
         "Cannot be taken into hand with Life Debt."
       ],
       "set": "205",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Falcon",
+        "Han",
+        "Chewie"
+      ]
     },
     {
       "canceledBy": [
@@ -24150,6 +24446,9 @@
       "side": "Light",
       "underlyingCardFor": [
         "Han's Heavy Blaster Pistol (V)"
+      ],
+      "personas": [
+        "Han's Heavy Blaster Pistol"
       ]
     },
     {
@@ -24205,7 +24504,10 @@
         "This weapon will not prevent Greedo (V) from deploying as a react. He deploys as a react, and then it will cancel his game text as soon as he arrives."
       ],
       "set": "200",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Han's Heavy Blaster Pistol"
+      ]
     },
     {
       "canceledBy": [
@@ -24918,7 +25220,10 @@
         "If game text is canceled, the asterisk is treated as an unmodifiable zero."
       ],
       "set": "2",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Het"
+      ]
     },
     {
       "abbr": [
@@ -25315,7 +25620,10 @@
       ],
       "rarity": "R",
       "set": "9",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Home One"
+      ]
     },
     {
       "front": {
@@ -25361,6 +25669,9 @@
       "side": "Light",
       "underlyingCardFor": [
         "Profundity: Docking Bay"
+      ],
+      "personas": [
+        "Home One"
       ]
     },
     {
@@ -25392,7 +25703,10 @@
       ],
       "rarity": "R",
       "set": "9",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Home One"
+      ]
     },
     {
       "abbr": [
@@ -26839,7 +27153,10 @@
       ],
       "rarity": "U2",
       "set": "2",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Ickabel G'ont"
+      ]
     },
     {
       "front": {
@@ -28712,6 +29029,9 @@
           "cardId": 7462,
           "title": "Kelleran Beq"
         }
+      ],
+      "personas": [
+        "Jar Jar"
       ]
     },
     {
@@ -29378,7 +29698,10 @@
       ],
       "rarity": "U",
       "set": "14",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Jerus"
+      ]
     },
     {
       "front": {
@@ -29528,7 +29851,10 @@
         "Text to 'draw one battle destiny if unable to otherwise' does not work while Jyn is Undercover."
       ],
       "set": "206",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Jyn Erso"
+      ]
     },
     {
       "front": {
@@ -29957,7 +30283,10 @@
       ],
       "rarity": "PM",
       "set": "203",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Kanan"
+      ]
     },
     {
       "conceptBy": "(Original concept by Jarad Konsker)",
@@ -29998,7 +30327,10 @@
       ],
       "rarity": "PM",
       "set": "203",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Kanan"
+      ]
     },
     {
       "combo": [
@@ -31316,6 +31648,9 @@
       "side": "Light",
       "underlyingCardFor": [
         "Lando Calrissian (V)"
+      ],
+      "personas": [
+        "Lando"
       ]
     },
     {
@@ -31386,7 +31721,10 @@
       ],
       "rarity": "R",
       "set": "201",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Lando"
+      ]
     },
     {
       "abbr": [
@@ -31438,7 +31776,10 @@
       ],
       "rarity": "PM",
       "set": "13",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Lando"
+      ]
     },
     {
       "front": {
@@ -31488,7 +31829,11 @@
       ],
       "rarity": "PM",
       "set": "109",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Falcon",
+        "Lando"
+      ]
     },
     {
       "abbr": [
@@ -31548,7 +31893,10 @@
         "The phrase 'on Cloud City' means at a Cloud City site, not the Bespin: Cloud City sector."
       ],
       "set": "109",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Lando"
+      ]
     },
     {
       "abbr": [
@@ -31613,7 +31961,10 @@
         "This card has only one Permanent Weapon icon (two such icons is a misprint)."
       ],
       "set": "112",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Lando"
+      ]
     },
     {
       "front": {
@@ -31653,7 +32004,10 @@
       ],
       "rarity": "R",
       "set": "7",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Lando's Blaster Rifle"
+      ]
     },
     {
       "abbr": [
@@ -31755,7 +32109,10 @@
       ],
       "rarity": "R",
       "set": "6",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Laudica"
+      ]
     },
     {
       "canceledBy": [
@@ -32014,6 +32371,9 @@
       "side": "Light",
       "underlyingCardFor": [
         "Leia (V)"
+      ],
+      "personas": [
+        "Leia"
       ]
     },
     {
@@ -32068,7 +32428,10 @@
       ],
       "rarity": "PM",
       "set": "200",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Leia"
+      ]
     },
     {
       "front": {
@@ -32199,6 +32562,9 @@
       "side": "Light",
       "underlyingCardFor": [
         "Leia Organa (V)"
+      ],
+      "personas": [
+        "Leia"
       ]
     },
     {
@@ -32245,7 +32611,10 @@
         "If she adds a destiny to total power or attrition, she can no longer draw one battle destiny if unable to otherwise that battle."
       ],
       "set": "202",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Leia"
+      ]
     },
     {
       "abbr": [
@@ -32305,7 +32674,11 @@
       ],
       "rarity": "PM",
       "set": "108",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Leia",
+        "Leia's Blaster Rifle"
+      ]
     },
     {
       "abbr": [
@@ -32372,7 +32745,10 @@
         "Second sentence - Due to her errata, opponent only needs a non-alien at the location (not necessarily present at the location) to avoid having total ability = 0."
       ],
       "set": "13",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Leia"
+      ]
     },
     {
       "front": {
@@ -32461,7 +32837,10 @@
       ],
       "rarity": "R",
       "set": "7",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Leia's Blaster Rifle"
+      ]
     },
     {
       "front": {
@@ -32865,7 +33244,10 @@
       ],
       "rarity": "U",
       "set": "211",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Libertine"
+      ]
     },
     {
       "front": {
@@ -32983,7 +33365,10 @@
       ],
       "rarity": "R",
       "set": "9",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Blount"
+      ]
     },
     {
       "front": {
@@ -33097,7 +33482,10 @@
       ],
       "rarity": "C1",
       "set": "209",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Connix"
+      ]
     },
     {
       "front": {
@@ -33783,6 +34171,9 @@
       "side": "Light",
       "underlyingCardFor": [
         "Lobot (V)"
+      ],
+      "personas": [
+        "Lobot"
       ]
     },
     {
@@ -33827,7 +34218,10 @@
         "Uniqueness rules prevent LS Lobot and DS Lobot (same card title) from being on table at the same time."
       ],
       "set": "200",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Lobot"
+      ]
     },
     {
       "front": {
@@ -34296,7 +34690,10 @@
       ],
       "rarity": "PM",
       "set": "101",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Luke"
+      ]
     },
     {
       "abbr": [
@@ -34357,6 +34754,9 @@
       "side": "Light",
       "underlyingCardFor": [
         "Luke Skywalker (V)"
+      ],
+      "personas": [
+        "Luke"
       ]
     },
     {
@@ -34419,7 +34819,10 @@
       ],
       "rarity": "R1",
       "set": "200",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Luke"
+      ]
     },
     {
       "abbr": [
@@ -34483,7 +34886,10 @@
         "This card even subtracts 3 from opponent's Epic Duel total involving Luke."
       ],
       "set": "9",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Luke"
+      ]
     },
     {
       "abbr": [
@@ -34553,6 +34959,9 @@
       "side": "Light",
       "underlyingCardFor": [
         "Luke Skywalker, Rebel Scout (V)"
+      ],
+      "personas": [
+        "Luke"
       ]
     },
     {
@@ -34616,7 +35025,10 @@
       ],
       "rarity": "PM",
       "set": "200",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Luke"
+      ]
     },
     {
       "abbr": [
@@ -34664,7 +35076,10 @@
         "May deploy (or persona replace) at a <u>system or sector</u> opponent occupies."
       ],
       "set": "210",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Luke"
+      ]
     },
     {
       "front": {
@@ -34719,7 +35134,10 @@
       ],
       "rarity": "U",
       "set": "208",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Luke"
+      ]
     },
     {
       "abbr": [
@@ -34781,7 +35199,11 @@
       ],
       "rarity": "PM",
       "set": "108",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Luke",
+        "Luke's Lightsaber"
+      ]
     },
     {
       "front": {
@@ -35186,7 +35608,10 @@
       ],
       "rarity": "R",
       "set": "9",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Luke's Lightsaber"
+      ]
     },
     {
       "front": {
@@ -35437,6 +35862,9 @@
       "side": "Light",
       "underlyingCardFor": [
         "Mace Windu (V)"
+      ],
+      "personas": [
+        "Mace"
       ]
     },
     {
@@ -35475,6 +35903,9 @@
       "side": "Light",
       "underlyingCardFor": [
         "Mace Windu (V) (AI)"
+      ],
+      "personas": [
+        "Mace"
       ]
     },
     {
@@ -35531,7 +35962,10 @@
         "When using Sorry About The Mess to swing during the control phase, Mace only swings once. If Mace then battles later that turn, he may still swing twice in that battle."
       ],
       "set": "201",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Mace"
+      ]
     },
     {
       "front": {
@@ -35574,7 +36008,10 @@
         "When using Sorry About The Mess to swing during the control phase, Mace only swings once. If Mace then battles later that turn, he may still swing twice in that battle."
       ],
       "set": "201",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Mace"
+      ]
     },
     {
       "abbr": [
@@ -35620,7 +36057,10 @@
         "When using Sorry About The Mess to swing during the control phase, Mace only swings once. If Mace then battles later that turn, he may still swing twice in that battle."
       ],
       "set": "201",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Mace"
+      ]
     },
     {
       "abbr": [
@@ -35664,7 +36104,10 @@
         "When using Sorry About The Mess to swing during the control phase, Mace only swings once. If Mace then battles later that turn, he may still swing twice in that battle."
       ],
       "set": "201",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Mace"
+      ]
     },
     {
       "cancels": [
@@ -35721,6 +36164,9 @@
           "title": "Mace Windu (V) (C-Slip AI)",
           "cardId": 7227
         }
+      ],
+      "personas": [
+        "Mace"
       ]
     },
     {
@@ -35762,6 +36208,9 @@
           "title": "Mace Windu (V) (C-Slip AI 2)",
           "cardId": 7230
         }
+      ],
+      "personas": [
+        "Mace"
       ]
     },
     {
@@ -36692,6 +37141,9 @@
       "side": "Light",
       "underlyingCardFor": [
         "Master Luke (V)"
+      ],
+      "personas": [
+        "Luke"
       ]
     },
     {
@@ -36738,6 +37190,9 @@
       "side": "Light",
       "underlyingCardFor": [
         "Master Qui-Gon (V)"
+      ],
+      "personas": [
+        "Qui-Gon"
       ]
     },
     {
@@ -36776,6 +37231,9 @@
       "side": "Light",
       "underlyingCardFor": [
         "Master Qui-Gon (V) (AI)"
+      ],
+      "personas": [
+        "Qui-Gon"
       ]
     },
     {
@@ -36834,7 +37292,10 @@
         "Example: Tatooine Occupation causes 3 Force loss. Master Qui-Gon (V) may respond once, not 3 times."
       ],
       "set": "200",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Qui-Gon"
+      ]
     },
     {
       "conceptBy": "(Original concept by James Booker - Worlds 2005)",
@@ -36875,7 +37336,10 @@
         "Example: Tatooine Occupation causes 3 Force loss. Master Qui-Gon (V) may respond once, not 3 times."
       ],
       "set": "200",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Qui-Gon"
+      ]
     },
     {
       "combo": [
@@ -36959,7 +37423,10 @@
         "If there are only 1 or 2 cards in Reserve Deck, Maz can still reveal them, but she cannot take an alien into hand."
       ],
       "set": "211",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Maz"
+      ]
     },
     {
       "front": {
@@ -37569,6 +38036,9 @@
       "side": "Light",
       "underlyingCardFor": [
         "Millennium Falcon (V)"
+      ],
+      "personas": [
+        "Falcon"
       ]
     },
     {
@@ -38172,6 +38642,9 @@
       "side": "Light",
       "underlyingCardFor": [
         "Senator Mon Mothma"
+      ],
+      "personas": [
+        "Mon Mothma"
       ]
     },
     {
@@ -39132,7 +39605,10 @@
       ],
       "rarity": "U2",
       "set": "2",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Nalan Cheel"
+      ]
     },
     {
       "conceptBy": "(Original concept by Jarad Konsker, New Jersey Mini Open 2011)",
@@ -39709,6 +40185,9 @@
           "cardId": 7256,
           "title": "Nien Nunb, Sullustan Smuggler"
         }
+      ],
+      "personas": [
+        "Nien Nunb"
       ]
     },
     {
@@ -40000,7 +40479,11 @@
         "The total battle destiny reset protection text works against Zuckuss In Mist Hunter."
       ],
       "set": "200",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Radiant VII",
+        "Madakor"
+      ]
     },
     {
       "combo": [
@@ -40055,6 +40538,9 @@
       "side": "Light",
       "underlyingCardFor": [
         "Obi-Wan Kenobi (V)"
+      ],
+      "personas": [
+        "Obi-Wan"
       ]
     },
     {
@@ -40117,7 +40603,10 @@
         "For example, if with Vader, Emperor, and Luke, then Obi-Wan Kenobi (V) is power +3."
       ],
       "set": "201",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Obi-Wan"
+      ]
     },
     {
       "abbr": [
@@ -40173,7 +40662,10 @@
         "'Immune to Sniper' prevents the control phase sniping function and prevents the place in Lost Pile function of the combo card. It does not prevent the 3 being added to weapon destiny function of the combo card."
       ],
       "set": "13",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Obi-Wan"
+      ]
     },
     {
       "combo": [
@@ -40226,6 +40718,9 @@
       "side": "Light",
       "underlyingCardFor": [
         "Obi-Wan Kenobi, Padawan Learner (V)"
+      ],
+      "personas": [
+        "Obi-Wan"
       ]
     },
     {
@@ -40264,6 +40759,9 @@
       "side": "Light",
       "underlyingCardFor": [
         "Obi-Wan Kenobi, Padawan Learner (V) (AI)"
+      ],
+      "personas": [
+        "Obi-Wan"
       ]
     },
     {
@@ -40310,7 +40808,10 @@
       ],
       "rarity": "R",
       "set": "200",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Obi-Wan"
+      ]
     },
     {
       "front": {
@@ -40346,7 +40847,10 @@
       ],
       "rarity": "R",
       "set": "200",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Obi-Wan"
+      ]
     },
     {
       "abbr": [
@@ -40400,7 +40904,11 @@
       ],
       "rarity": "PM",
       "set": "108",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Obi-Wan",
+        "Obi-Wan's Lightsaber"
+      ]
     },
     {
       "counterpart": "Image Of The Dark Lord",
@@ -40550,7 +41058,10 @@
       ],
       "rarity": "R1",
       "set": "1",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Obi-Wan's Lightsaber"
+      ]
     },
     {
       "front": {
@@ -40589,7 +41100,10 @@
       ],
       "rarity": "PM",
       "set": "13",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Obi-Wan's Lightsaber"
+      ]
     },
     {
       "counterpart": "Lana Dobreed",
@@ -40803,7 +41317,10 @@
         "Perosei's deploy phase relocation is an unlimited move. Perosei may make a regular move during the same turn."
       ],
       "set": "14",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Perosei"
+      ]
     },
     {
       "abbr": [
@@ -41951,6 +42468,9 @@
       "side": "Light",
       "underlyingCardFor": [
         "Padme Naberrie (V)"
+      ],
+      "personas": [
+        "Amidala"
       ]
     },
     {
@@ -41989,6 +42509,9 @@
       "side": "Light",
       "underlyingCardFor": [
         "Padme Naberrie (V) (AI)"
+      ],
+      "personas": [
+        "Amidala"
       ]
     },
     {
@@ -42042,7 +42565,10 @@
         "Cancels the +9 power from the game text of Death Star Assault Squadron. None of DSAS's other game text is affected."
       ],
       "set": "203",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Amidala"
+      ]
     },
     {
       "front": {
@@ -42078,7 +42604,10 @@
       ],
       "rarity": "R",
       "set": "203",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Amidala"
+      ]
     },
     {
       "front": {
@@ -42263,7 +42792,10 @@
       ],
       "rarity": "R",
       "set": "14",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Panaka"
+      ]
     },
     {
       "front": {
@@ -42298,7 +42830,10 @@
       ],
       "rarity": "R",
       "set": "14",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Panaka"
+      ]
     },
     {
       "combo": [
@@ -42423,6 +42958,9 @@
       "side": "Light",
       "underlyingCardFor": [
         "Paploo (V)"
+      ],
+      "personas": [
+        "Paploo"
       ]
     },
     {
@@ -42456,7 +42994,10 @@
       ],
       "rarity": "U",
       "set": "210",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Paploo"
+      ]
     },
     {
       "front": {
@@ -43027,6 +43568,9 @@
           "title": "Plo Koon (V) (AI)",
           "cardId": 7380
         }
+      ],
+      "personas": [
+        "Plo Koon"
       ]
     },
     {
@@ -43069,7 +43613,10 @@
       ],
       "rarity": "R",
       "set": "210",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Plo Koon"
+      ]
     },
     {
       "counterpart": "Start Your Engines!",
@@ -43154,7 +43701,10 @@
       ],
       "rarity": "U",
       "set": "204",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Poe Dameron"
+      ]
     },
     {
       "front": {
@@ -43553,6 +44103,9 @@
       "side": "Light",
       "underlyingCardFor": [
         "Princess Leia (V)"
+      ],
+      "personas": [
+        "Leia"
       ]
     },
     {
@@ -43616,7 +44169,10 @@
         "'Former member of the Imperial Senate' in lore makes her a senator."
       ],
       "set": "201",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Leia"
+      ]
     },
     {
       "combo": [
@@ -43671,7 +44227,10 @@
       ],
       "rarity": "R",
       "set": "6",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Leia"
+      ]
     },
     {
       "combo": [
@@ -43760,7 +44319,10 @@
       ],
       "rarity": "R",
       "set": "7",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Leia"
+      ]
     },
     {
       "front": {
@@ -43812,6 +44374,9 @@
       "underlyingCardFor": [
         "Prisoner 2187 (V)",
         "There Is Another"
+      ],
+      "personas": [
+        "Leia"
       ]
     },
     {
@@ -43855,7 +44420,10 @@
       ],
       "rarity": "U",
       "set": "207",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Profundity"
+      ]
     },
     {
       "front": {
@@ -43898,7 +44466,10 @@
       ],
       "rarity": "U",
       "set": "207",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Profundity"
+      ]
     },
     {
       "abbr": [
@@ -44210,6 +44781,9 @@
       "side": "Light",
       "underlyingCardFor": [
         "Booster In Pulsar Skate"
+      ],
+      "personas": [
+        "Pulsar Skate"
       ]
     },
     {
@@ -44405,7 +44979,10 @@
         "'Immune to Sniper' prevents the control phase sniping function and prevents the place in Lost Pile function of the combo card. It does not prevent the 3 being added to weapon destiny function of the combo card."
       ],
       "set": "14",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Amidala"
+      ]
     },
     {
       "front": {
@@ -44440,7 +45017,10 @@
       ],
       "rarity": "R",
       "set": "14",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Amidala"
+      ]
     },
     {
       "combo": [
@@ -44488,7 +45068,10 @@
       ],
       "rarity": "R",
       "set": "12",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Amidala"
+      ]
     },
     {
       "front": {
@@ -44521,7 +45104,10 @@
       ],
       "rarity": "R",
       "set": "12",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Amidala"
+      ]
     },
     {
       "front": {
@@ -44569,6 +45155,9 @@
       "side": "Light",
       "underlyingCardFor": [
         "Ric In Queen's Royal Starship"
+      ],
+      "personas": [
+        "Queen's Royal Starship"
       ]
     },
     {
@@ -44618,7 +45207,10 @@
       ],
       "rarity": "R",
       "set": "11",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Qui-Gon"
+      ]
     },
     {
       "front": {
@@ -44653,7 +45245,10 @@
       ],
       "rarity": "R",
       "set": "11",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Qui-Gon"
+      ]
     },
     {
       "abbr": [
@@ -44703,7 +45298,11 @@
       ],
       "rarity": "R",
       "set": "14",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Qui-Gon",
+        "Qui-Gon Jinn's Lightsaber"
+      ]
     },
     {
       "front": {
@@ -44752,7 +45351,10 @@
       ],
       "rarity": "PM",
       "set": "13",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Qui-Gon"
+      ]
     },
     {
       "front": {
@@ -44800,6 +45402,9 @@
           "title": "Qui-Gon Jinn's Lightsaber (V)",
           "cardId": 7217
         }
+      ],
+      "personas": [
+        "Qui-Gon Jinn's Lightsaber"
       ]
     },
     {
@@ -44833,6 +45438,9 @@
           "title": "Qui-Gon Jinn's Lightsaber (V) (AI)",
           "cardId": 7218
         }
+      ],
+      "personas": [
+        "Qui-Gon Jinn's Lightsaber"
       ]
     },
     {
@@ -44877,7 +45485,10 @@
       ],
       "rarity": "PM",
       "set": "13",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Qui-Gon Jinn's Lightsaber"
+      ]
     },
     {
       "front": {
@@ -45145,7 +45756,11 @@
         "Provided that their conditions are met, R2-D2 & C-3PO will relocate to the Dune Sea even if they are being affected by an 'all cards situation' such as Program Trap, Overwhelmed, etc."
       ],
       "set": "203",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "R2-D2",
+        "C-3PO"
+      ]
     },
     {
       "canceledBy": [
@@ -45206,6 +45821,9 @@
       "underlyingCardFor": [
         "R2-D2 (Artoo-Detoo) (V)",
         "R2-D2 (Artoo-Detoo) (V) (AI)"
+      ],
+      "personas": [
+        "R2-D2"
       ]
     },
     {
@@ -45269,7 +45887,10 @@
         "For R2-D2 (V) to use his 'subtract 1' action, the following conditions must be met: First, the battle must be at an interior site. Second, R2-D2 (V) must be at the same site or at a related site (not necessarily an interior one, but R2-D2 (V) must be at a site - not a system or sector)."
       ],
       "set": "201",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "R2-D2"
+      ]
     },
     {
       "front": {
@@ -45696,6 +46317,9 @@
       "side": "Light",
       "underlyingCardFor": [
         "Madakor In Radiant VII"
+      ],
+      "personas": [
+        "Radiant VII"
       ]
     },
     {
@@ -45993,7 +46617,10 @@
       ],
       "rarity": "R",
       "set": "6",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Rayc"
+      ]
     },
     {
       "front": {
@@ -46943,6 +47570,9 @@
       "underlyingCardFor": [
         "Red 1 (V)",
         "Red 12"
+      ],
+      "personas": [
+        "Red 1"
       ]
     },
     {
@@ -47003,7 +47633,10 @@
         "This <u>is not</u> the same starship persona as Red Squadron 1, so both could be on table at same time."
       ],
       "set": "200",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Red 1"
+      ]
     },
     {
       "combo": [
@@ -47110,7 +47743,10 @@
         "This <u>is</u> the same starship persona as Red Squadron 1, so both cannot be on table at same time."
       ],
       "set": "2",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Red 2"
+      ]
     },
     {
       "combo": [
@@ -47223,6 +47859,9 @@
       "underlyingCardFor": [
         "Corran Horn In Rogue 9",
         "Red 5 (V)"
+      ],
+      "personas": [
+        "Red 5"
       ]
     },
     {
@@ -47263,7 +47902,10 @@
       ],
       "rarity": "R1",
       "set": "209",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Red 5"
+      ]
     },
     {
       "combo": [
@@ -47553,7 +48195,10 @@
       ],
       "rarity": "R1",
       "set": "1",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Red Leader"
+      ]
     },
     {
       "abbr": [
@@ -47594,7 +48239,11 @@
         "The permanent pilot <u>is</u> the same persona as the character card Red Leader, so both cannot be on table at same time."
       ],
       "set": "103",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Red 1",
+        "Red Leader"
+      ]
     },
     {
       "abbr": [
@@ -47655,6 +48304,9 @@
       "side": "Light",
       "underlyingCardFor": [
         "Wedge In Red Squadron 1"
+      ],
+      "personas": [
+        "Red 2"
       ]
     },
     {
@@ -48749,7 +49401,10 @@
         "If Rey is at the Jakku system location, she is not 'on' Jakku."
       ],
       "set": "204",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Rey"
+      ]
     },
     {
       "front": {
@@ -48806,7 +49461,10 @@
         "If Rey is at the Jakku system location, she is not 'on' Jakku."
       ],
       "set": "204",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Rey"
+      ]
     },
     {
       "abbr": [
@@ -48858,7 +49516,11 @@
         "If something prevents the target from being hit (e.g. Theed Palace Generator Core) it also prevents retrieving 1 Force."
       ],
       "set": "209",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Rey",
+        "Anakin's Lightsaber"
+      ]
     },
     {
       "abbr": [
@@ -48910,7 +49572,11 @@
         "If something prevents the target from being hit (e.g. Theed Palace Generator Core) it also prevents retrieving 1 Force."
       ],
       "set": "209",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Rey",
+        "Anakin's Lightsaber"
+      ]
     },
     {
       "front": {
@@ -48950,7 +49616,11 @@
       ],
       "rarity": "R",
       "set": "205",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Queen's Royal Starship",
+        "Ric"
+      ]
     },
     {
       "combo": [
@@ -48996,7 +49666,10 @@
       ],
       "rarity": "R",
       "set": "12",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Ric"
+      ]
     },
     {
       "combo": [
@@ -49042,7 +49715,10 @@
       ],
       "rarity": "R",
       "set": "14",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Ric"
+      ]
     },
     {
       "front": {
@@ -49280,6 +49956,9 @@
           "title": "Zev In Rogue 2",
           "cardId": 7360
         }
+      ],
+      "personas": [
+        "Rogue 2"
       ]
     },
     {
@@ -49728,7 +50407,10 @@
         "Automatic 'about to be hit' actions (such as Theed Palace Generator Core) happen before optional ones (such as Rose Tico)."
       ],
       "set": "209",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Rose"
+      ]
     },
     {
       "front": {
@@ -50009,7 +50691,10 @@
       ],
       "rarity": "R",
       "set": "12",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Sabe"
+      ]
     },
     {
       "front": {
@@ -50056,7 +50741,10 @@
         "If firing a repeating weapon (e.g. BlasTech E-11B Blaster Rifle), only the first shot can be made free. The text can be used to add 2 to weapon destiny on a repeat firing instead, but it won't be free."
       ],
       "set": "207",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Sabine"
+      ]
     },
     {
       "canceledBy": [
@@ -50180,6 +50868,9 @@
       "side": "Light",
       "underlyingCardFor": [
         "Dorme"
+      ],
+      "personas": [
+        "Sache"
       ]
     },
     {
@@ -51116,6 +51807,9 @@
       "side": "Light",
       "underlyingCardFor": [
         "Kanan Jarrus"
+      ],
+      "personas": [
+        "C-3PO"
       ]
     },
     {
@@ -51353,7 +52047,10 @@
         "Her card title makes her a senator (as would 'former member of the Imperial Senate' in lore)."
       ],
       "set": "204",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Mon Mothma"
+      ]
     },
     {
       "combo": [
@@ -51394,7 +52091,10 @@
       ],
       "rarity": "R",
       "set": "12",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Sidious"
+      ]
     },
     {
       "front": {
@@ -51426,7 +52126,10 @@
       ],
       "rarity": "R",
       "set": "12",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Sidious"
+      ]
     },
     {
       "canceledBy": [
@@ -51706,7 +52409,10 @@
       ],
       "rarity": "R",
       "set": "6",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Doallyn"
+      ]
     },
     {
       "front": {
@@ -51823,7 +52529,10 @@
       ],
       "rarity": "U",
       "set": "8",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Junkin"
+      ]
     },
     {
       "combo": [
@@ -51906,7 +52615,10 @@
       ],
       "rarity": "U1",
       "set": "3",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Shawn"
+      ]
     },
     {
       "front": {
@@ -52616,7 +53328,10 @@
       ],
       "rarity": "R",
       "set": "204",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Han"
+      ]
     },
     {
       "canceledBy": [
@@ -52825,6 +53540,9 @@
           "title": "Son Of Skywalker (V)",
           "cardId": 7357
         }
+      ],
+      "personas": [
+        "Luke"
       ]
     },
     {
@@ -54710,7 +55428,10 @@
         "When counting spies out of play, two spies of the same title or same persona still count as two spies."
       ],
       "set": "209",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Sefla"
+      ]
     },
     {
       "combo": [
@@ -54993,7 +55714,10 @@
       ],
       "rarity": "U",
       "set": "211",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Tallie"
+      ]
     },
     {
       "front": {
@@ -55169,7 +55893,10 @@
       ],
       "rarity": "R",
       "set": "6",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Lando"
+      ]
     },
     {
       "front": {
@@ -55216,6 +55943,9 @@
       "underlyingCardFor": [
         "Tantive IV (V)",
         "Tantive IV (V) (AI)"
+      ],
+      "personas": [
+        "Tantive IV"
       ]
     },
     {
@@ -55258,7 +55988,10 @@
       ],
       "rarity": "R1",
       "set": "201",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Tantive IV"
+      ]
     },
     {
       "combo": [
@@ -56729,7 +57462,10 @@
       ],
       "rarity": "PM",
       "set": "102",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Tedn Dahai"
+      ]
     },
     {
       "front": {
@@ -56799,7 +57535,10 @@
       ],
       "rarity": "C2",
       "set": "208",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Snap Wexley"
+      ]
     },
     {
       "front": {
@@ -57125,7 +57864,10 @@
         "Versions of Han and Chewie without an Episode VII icon will not trigger the 'maneuver = 6' or 'immune to to attrition < 5' text, but they are still matching pilots (e.g. for Squadron Assignments)."
       ],
       "set": "206",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Falcon"
+      ]
     },
     {
       "abbr": [
@@ -57203,7 +57945,10 @@
         "Flipping from starship to vehicle causes attached Mynocks to detach."
       ],
       "set": "204",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Falcon"
+      ]
     },
     {
       "canceledBy": [
@@ -57860,7 +58605,10 @@
         "May serve as a Jawa Rep for Agents In The Court."
       ],
       "set": "7",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Thedit"
+      ]
     },
     {
       "front": {
@@ -58498,7 +59246,10 @@
       ],
       "rarity": "R",
       "set": "8",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "C-3PO"
+      ]
     },
     {
       "abbr": [
@@ -58550,7 +59301,10 @@
       ],
       "rarity": "R",
       "set": "11",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "C-3PO"
+      ]
     },
     {
       "abbr": [
@@ -58595,7 +59349,10 @@
       ],
       "rarity": "R",
       "set": "11",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "C-3PO"
+      ]
     },
     {
       "abbr": [
@@ -58903,7 +59660,10 @@
       ],
       "rarity": "U1",
       "set": "3",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Tigran"
+      ]
     },
     {
       "counterpart": "Timer Mine",
@@ -59030,6 +59790,9 @@
       "side": "Light",
       "underlyingCardFor": [
         "TK-422 (V)"
+      ],
+      "personas": [
+        "Han"
       ]
     },
     {
@@ -59527,6 +60290,9 @@
       "side": "Light",
       "underlyingCardFor": [
         "Tycho Celchu (V)"
+      ],
+      "personas": [
+        "Tycho"
       ]
     },
     {
@@ -59569,7 +60335,10 @@
       ],
       "rarity": "R",
       "set": "205",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Tycho"
+      ]
     },
     {
       "front": {
@@ -59608,7 +60377,11 @@
       ],
       "rarity": "R",
       "set": "205",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Green Squadron 3",
+        "Tycho"
+      ]
     },
     {
       "combo": [
@@ -60380,7 +61153,10 @@
       ],
       "rarity": "R",
       "set": "6",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Vul"
+      ]
     },
     {
       "front": {
@@ -61042,6 +61818,9 @@
       "side": "Light",
       "underlyingCardFor": [
         "Wedge Antilles (V)"
+      ],
+      "personas": [
+        "Wedge"
       ]
     },
     {
@@ -61088,7 +61867,10 @@
       ],
       "rarity": "R1",
       "set": "202",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Wedge"
+      ]
     },
     {
       "abbr": [
@@ -61179,7 +61961,10 @@
         "Admiral Raddus/Boshek/Boshek(V) are not Red/Rogue Squadron pilots by default (despite what's printed on their card). They still become one while piloting a Red/Rogue card, just like any other pilot."
       ],
       "set": "9",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Wedge"
+      ]
     },
     {
       "front": {
@@ -61222,7 +62007,11 @@
       ],
       "rarity": "R",
       "set": "200",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Red 2",
+        "Wedge"
+      ]
     },
     {
       "cancels": [
@@ -61521,7 +62310,10 @@
       ],
       "rarity": "R2",
       "set": "3",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Wes Janson"
+      ]
     },
     {
       "combo": [
@@ -63618,6 +64410,9 @@
       "side": "Light",
       "underlyingCardFor": [
         "Yoda (V)"
+      ],
+      "personas": [
+        "Yoda"
       ]
     },
     {
@@ -63653,7 +64448,10 @@
       ],
       "rarity": "R",
       "set": "207",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Yoda"
+      ]
     },
     {
       "front": {
@@ -63759,7 +64557,10 @@
         "Preventing destiny draws from being modified can be circumvented with a substituted destiny that has been modified <u>before</u> the substitution (e.g. Darklighter Spin on a modified maneuver value, or a senator on Sando Aqua Monster that is already receiving a global modifier from the Senate Objective)."
       ],
       "set": "202",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Yoda"
+      ]
     },
     {
       "abbr": [
@@ -63812,7 +64613,10 @@
         "Preventing destiny draws from being modified can be circumvented with a substituted destiny that has been modified <u>before</u> the substitution (e.g. Darklighter Spin on a modified maneuver value, or a senator on Sando Aqua Monster that is already receiving a global modifier from the Senate Objective)."
       ],
       "set": "202",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Yoda"
+      ]
     },
     {
       "abbr": [
@@ -63863,7 +64667,10 @@
         "Preventing destiny draws from being modified can be circumvented with a substituted destiny that has been modified <u>before</u> the substitution (e.g. Darklighter Spin on a modified maneuver value, or a senator on Sando Aqua Monster that is already receiving a global modifier from the Senate Objective)."
       ],
       "set": "202",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Yoda"
+      ]
     },
     {
       "abbr": [
@@ -63930,6 +64737,9 @@
       "side": "Light",
       "underlyingCardFor": [
         "Yoda, Master Of The Force (V)"
+      ],
+      "personas": [
+        "Yoda"
       ]
     },
     {
@@ -63986,6 +64796,9 @@
           "title": "Yoda, Keeper Of The Peace (C-Slip AI)",
           "cardId": 7224
         }
+      ],
+      "personas": [
+        "Yoda"
       ]
     },
     {
@@ -64026,6 +64839,9 @@
           "title": "Yoda, Keeper Of The Peace (C-Slip AI 2)",
           "cardId": 7231
         }
+      ],
+      "personas": [
+        "Yoda"
       ]
     },
     {
@@ -65163,7 +65979,10 @@
       ],
       "rarity": "R2",
       "set": "3",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Zev Senesca"
+      ]
     },
     {
       "combo": [
@@ -65307,7 +66126,10 @@
       ],
       "rarity": "C",
       "set": "213",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Lando"
+      ]
     },
     {
       "front": {
@@ -65351,7 +66173,10 @@
         "When stacking L3-37 on a freighter, she does not go to the Lost pile and therefore she is not 'just lost'."
       ],
       "set": "213",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "L3-37"
+      ]
     },
     {
       "front": {
@@ -65407,7 +66232,10 @@
       ],
       "rarity": "R2",
       "set": "213",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Chewie"
+      ]
     },
     {
       "abbr": [
@@ -65454,7 +66282,10 @@
       ],
       "rarity": "R1",
       "set": "213",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Qi'ra"
+      ]
     },
     {
       "front": {
@@ -65492,7 +66323,10 @@
       ],
       "rarity": "C",
       "set": "213",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Rio"
+      ]
     },
     {
       "front": {
@@ -65535,7 +66369,10 @@
       ],
       "rarity": "C",
       "set": "213",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Han"
+      ]
     },
     {
       "front": {
@@ -65579,7 +66416,10 @@
         "Counts weapon destiny draws completed by both players."
       ],
       "set": "213",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Qui-Gon"
+      ]
     },
     {
       "front": {
@@ -65625,7 +66465,10 @@
         "The destiny +3 text is not applicable while stacked on Kessel Run (V) or a podracer, etc."
       ],
       "set": "213",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Beckett"
+      ]
     },
     {
       "front": {
@@ -65665,7 +66508,10 @@
       ],
       "rarity": "C",
       "set": "213",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Val"
+      ]
     },
     {
       "front": {
@@ -65718,7 +66564,10 @@
         "Relocating does not allow Yoda to embark or disembark."
       ],
       "set": "213",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Yoda"
+      ]
     },
     {
       "canceledBy": [
@@ -66243,7 +67092,10 @@
       ],
       "rarity": "C2",
       "set": "301",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Puck"
+      ]
     },
     {
       "front": {
@@ -66278,7 +67130,10 @@
       ],
       "rarity": "U",
       "set": "214",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Beaumont"
+      ]
     },
     {
       "front": {
@@ -66353,7 +67208,10 @@
       ],
       "rarity": "U",
       "set": "214",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Din"
+      ]
     },
     {
       "abbr": [
@@ -66401,7 +67259,10 @@
         "When playing against Bring Him Before Me, Rey may not select Luke as either of the two cards."
       ],
       "set": "214",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Rey"
+      ]
     },
     {
       "abbr": [
@@ -66680,7 +67541,10 @@
         "This is a matching weapon for Ahsoka, but not for other Jedi or Padawans in general."
       ],
       "set": "214",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Ahsoka's Shoto Lightsaber"
+      ]
     },
     {
       "front": {
@@ -66759,7 +67623,10 @@
         "The Force loss is a mandatory action initiated by Light. If not initiated, it occurs automatically at end of control phase. "
       ],
       "set": "215",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "C-3PO"
+      ]
     },
     {
       "front": {
@@ -66804,7 +67671,10 @@
         "Cards mentioning 'Cal' refer to Cal Alder. To refer to this character, cards will say 'Cal Kestis' instead."
       ],
       "set": "215",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Cal Kestis"
+      ]
     },
     {
       "front": {
@@ -67105,7 +67975,10 @@
         "Destiny to total power is drawn before battle destiny."
       ],
       "set": "215",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Han"
+      ]
     },
     {
       "front": {
@@ -67148,7 +68021,10 @@
       ],
       "rarity": "U",
       "set": "215",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Jannah"
+      ]
     },
     {
       "front": {
@@ -67511,7 +68387,10 @@
         "Game text referring to troopers/stormtroopers counts characters on both sides."
       ],
       "set": "215",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Han"
+      ]
     },
     {
       "front": {
@@ -67646,7 +68525,10 @@
         "Losing 2 Force is a cost to add a battle destiny; this cost cannot be reduced such as by It Could Be Worse. Likewise if We're Doomed has been played, it is simply ignored and Light still loses 2, not 1."
       ],
       "set": "216",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Anakin"
+      ]
     },
     {
       "front": {
@@ -67733,7 +68615,10 @@
       ],
       "rarity": "R",
       "set": "216",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Chewie"
+      ]
     },
     {
       "front": {
@@ -67890,7 +68775,14 @@
         "This card contains all 5 of the unique personas listed in the lore box."
       ],
       "set": "216",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Figrin D'an",
+        "Doikk Na'ts",
+        "Ickabel G'ont",
+        "Nalan Cheel",
+        "Tedn Dahai"
+      ]
     },
     {
       "cancels": [
@@ -67982,7 +68874,10 @@
         "May only save a Mandalorian just lost from an active or inactive state on table."
       ],
       "set": "216",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Grogu"
+      ]
     },
     {
       "front": {
@@ -68176,7 +69071,10 @@
         "Last sentence only works on a starship freighter, not a vehicle freighter (e.g. does not work on the vehicle side of The Falcon, Junkyard Garbage)."
       ],
       "set": "216",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Ketwol"
+      ]
     },
     {
       "front": {
@@ -68228,7 +69126,10 @@
         "If there are only 1 or 2 cards in Reserve Deck, Lando can still reveal them, but he cannot take a starship into hand."
       ],
       "set": "216",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Lando"
+      ]
     },
     {
       "front": {
@@ -68273,7 +69174,10 @@
         "Technically may use 1 Force to add power multiple times in a single battle, but this is fairly useless as only the first usage will be applied."
       ],
       "set": "216",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Obi-Wan"
+      ]
     },
     {
       "front": {
@@ -68321,7 +69225,10 @@
         "You may not persona replace a character if the new version would violate this card's deployment restrictions."
       ],
       "set": "216",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Qui-Gon"
+      ]
     },
     {
       "front": {
@@ -68366,7 +69273,10 @@
         "For example, Qui-Gon Jinn (fully immune to attrition) would not be affected by Tyranus at all. Then the limit of < 4 would be applied to Qui-Gon."
       ],
       "set": "216",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Yoda"
+      ]
     },
     {
       "front": {
@@ -68483,7 +69393,10 @@
         "To place her out of play using her game text, she must be lost from an active or inactive state on table - not from hand or Life Force."
       ],
       "set": "216",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Paige"
+      ]
     },
     {
       "front": {
@@ -69023,7 +69936,10 @@
         "This card is a Fett (e.g. Boba deploys -1 at Kamino: Clone Training Center, and Mace Windu (V) prevents Boba from adding a battle destiny)."
       ],
       "set": "217",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Boba Fett"
+      ]
     },
     {
       "abbr": [
@@ -69073,7 +69989,10 @@
         "If firing a repeating blaster (e.g. BlasTech E-11B Blaster Rifle), only the first shot is free."
       ],
       "set": "217",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Bo-Katan"
+      ]
     },
     {
       "abbr": [
@@ -69412,7 +70331,10 @@
         "Do not reorder or reshuffle the cards in the Used Pile."
       ],
       "set": "217",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Kanan"
+      ]
     },
     {
       "abbr": [
@@ -69511,7 +70433,10 @@
         "Moving For Free: When using Nabrun Leids or docking bay transit, the cost is free <u>only</u> if Mara is moving alone or if the cards moving with her also move for free (Light still draws destiny for Nabrun Leids)."
       ],
       "set": "217",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Mara Jade"
+      ]
     },
     {
       "abbr": [
@@ -69640,7 +70565,10 @@
         "If Profundity is lost from table, this site remains on table."
       ],
       "set": "217",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Profundity"
+      ]
     },
     {
       "front": {
@@ -70041,7 +70969,11 @@
       ],
       "rarity": "C",
       "set": "218",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Qui-Gon",
+        "Qui-Gon Jinn's Lightsaber"
+      ]
     },
     {
       "abbr": [
@@ -70100,7 +71032,10 @@
         "When using Sorry About The Mess to swing during the control phase, Mace only swings once. If Mace then battles later that turn, he may still swing twice in that battle."
       ],
       "set": "218",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Mace"
+      ]
     },
     {
       "abbr": [
@@ -70500,7 +71435,10 @@
         "This card is the same persona as Admiral Ackbar (e.g. for <i>Home One</i> and for Rebel Leadership combo); Admiral Ackbar and Fleet Admiral Gial Ackbar cannot be on table at the same time."
       ],
       "set": "218",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Ackbar"
+      ]
     },
     {
       "abbr": [
@@ -70761,7 +71699,10 @@
         "Can only deploy a lightsaber from Lost Pile that is normally allowed to deploy on him (e.g. not Obi-Wan's Lightsaber)."
       ],
       "set": "218",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Luke"
+      ]
     },
     {
       "abbr": [
@@ -71100,7 +72041,10 @@
         "Artoo placing an Interrupt out of play is global (e.g. he can do this during a battle at another location)."
       ],
       "set": "219",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "R2-D2"
+      ]
     },
     {
       "abbr": [
@@ -71190,7 +72134,11 @@
         "Blaster Proficiency works, but note that it only adds 3 to a single shot, not both shots."
       ],
       "set": "219",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Cara Dune",
+        "Cara's Heavy Blaster Rifle"
+      ]
     },
     {
       "abbr": [
@@ -71314,7 +72262,10 @@
         "As this Ezra is not a spy, he would require presence or Force icons in order to deploy to Dathomir: Maul's Chambers."
       ],
       "set": "219",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Ezra"
+      ]
     },
     {
       "abbr": [
@@ -71345,7 +72296,10 @@
       ],
       "rarity": "C2",
       "set": "219",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Ezra's Blaster Lightsaber"
+      ]
     },
     {
       "abbr": [
@@ -71966,7 +72920,10 @@
         "May deploy Han or Chewie aboard from Reserve Deck even if Falcon is landed and/or unpiloted."
       ],
       "set": "220",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Falcon"
+      ]
     },
     {
       "abbr": [
@@ -72065,7 +73022,10 @@
         "The 'even if imprisoned' text does not work while she is an escorted captive."
       ],
       "set": "220",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Leia"
+      ]
     },
     {
       "abbr": [
@@ -72148,7 +73108,11 @@
       ],
       "rarity": "U",
       "set": "211",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Black 1",
+        "BB-8"
+      ]
     },
     {
       "abbr": [
@@ -72204,7 +73168,11 @@
       ],
       "rarity": "PM",
       "set": "204",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Chewie",
+        "Chewbacca's Bowcaster"
+      ]
     },
     {
       "front": {
@@ -72281,7 +73249,10 @@
       ],
       "rarity": "U",
       "set": "204",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Poe Dameron"
+      ]
     },
     {
       "front": {
@@ -72364,7 +73335,10 @@
       ],
       "rarity": "R",
       "set": "204",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Han"
+      ]
     },
     {
       "front": {
@@ -72408,7 +73382,10 @@
       ],
       "rarity": "R1",
       "set": "201",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Tantive IV"
+      ]
     },
     {
       "abbr": [
@@ -72486,7 +73463,10 @@
         "Flipping from starship to vehicle causes attached Mynocks to detach."
       ],
       "set": "204",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Falcon"
+      ]
     },
     {
       "abbr": [
@@ -72816,7 +73796,10 @@
       ],
       "rarity": "C1",
       "set": "221",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Yularen"
+      ]
     },
     {
       "abbr": [
@@ -72860,7 +73843,10 @@
       ],
       "rarity": "R",
       "set": "221",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Anakin"
+      ]
     },
     {
       "abbr": [
@@ -73687,7 +74673,10 @@
       ],
       "rarity": "R",
       "set": "221",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Qui-Gon Jinn's Lightsaber"
+      ]
     },
     {
       "abbr": [
@@ -73718,7 +74707,10 @@
       ],
       "rarity": "R",
       "set": "221",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Qui-Gon Jinn's Lightsaber"
+      ]
     },
     {
       "front": {
@@ -74060,7 +75052,10 @@
       ],
       "rarity": "C",
       "set": "222",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Poe Dameron"
+      ]
     },
     {
       "abbr": [
@@ -74203,7 +75198,10 @@
       ],
       "rarity": "R",
       "set": "222",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Nien Nunb"
+      ]
     },
     {
       "front": {
@@ -74358,7 +75356,10 @@
       ],
       "rarity": "U",
       "set": "222",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Luke"
+      ]
     },
     {
       "front": {
@@ -74444,7 +75445,10 @@
         "BB-8 may be placed in Used Pile even if there are no Undercover spies there."
       ],
       "set": "204",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "BB-8"
+      ]
     },
     {
       "front": {
@@ -74479,7 +75483,10 @@
       ],
       "rarity": "U",
       "set": "214",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Din"
+      ]
     },
     {
       "front": {
@@ -74531,7 +75538,10 @@
         "May even deploy as a 'react' to same location as Light's permanent pilot such as on a vehicle or starship (even a landed starship)."
       ],
       "set": "204",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Finn"
+      ]
     },
     {
       "front": {
@@ -74582,7 +75592,10 @@
       ],
       "rarity": "R",
       "set": "207",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Leia"
+      ]
     },
     {
       "front": {
@@ -74701,7 +75714,10 @@
         "Text to 'draw one battle destiny if unable to otherwise' does not work while Jyn is Undercover."
       ],
       "set": "206",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Jyn Erso"
+      ]
     },
     {
       "abbr": [
@@ -74805,7 +75821,10 @@
       ],
       "rarity": "U",
       "set": "208",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Luke"
+      ]
     },
     {
       "front": {
@@ -74906,7 +75925,10 @@
         "For R2-D2 (V) to use his 'subtract 1' action, the following conditions must be met: First, the battle must be at an interior site. Second, R2-D2 (V) must be at the same site or at a related site (not necessarily an interior one, but R2-D2 (V) must be at a site - not a system or sector)."
       ],
       "set": "201",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "R2-D2"
+      ]
     },
     {
       "abbr": [
@@ -74954,7 +75976,10 @@
         "When playing against Bring Him Before Me, Rey may not select Luke as either of the two cards."
       ],
       "set": "214",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Rey"
+      ]
     },
     {
       "abbr": [
@@ -75002,7 +76027,10 @@
       ],
       "rarity": "R1",
       "set": "213",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Qi'ra"
+      ]
     },
     {
       "abbr": [
@@ -75055,7 +76083,10 @@
         "However, if Ahsoka does happen to be at the location and is excluded during a battle, then she is inactive, and cannot subtract."
       ],
       "set": "223",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Ahsoka"
+      ]
     },
     {
       "abbr": [
@@ -75106,7 +76137,10 @@
         "Does not protect against Physical Choke."
       ],
       "set": "223",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Jyn Erso"
+      ]
     },
     {
       "abbr": [
@@ -75306,7 +76340,10 @@
       ],
       "rarity": "PM",
       "set": "223",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Leia"
+      ]
     },
     {
       "front": {
@@ -75419,7 +76456,10 @@
       ],
       "rarity": "PM",
       "set": "223",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Corran Horn"
+      ]
     },
     {
       "abbr": [
@@ -75802,7 +76842,10 @@
       ],
       "rarity": "C",
       "set": "223",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Sabine"
+      ]
     },
     {
       "abbr": [
@@ -76079,7 +77122,10 @@
         "Only a lightsaber that can deploy on Ben may deploy on him from Lost Pile."
       ],
       "set": "224",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Ben Solo"
+      ]
     },
     {
       "abbr": [
@@ -76312,7 +77358,10 @@
       ],
       "rarity": "R1",
       "set": "224",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Han"
+      ]
     },
     {
       "abbr": [
@@ -76365,7 +77414,10 @@
         "A stolen blaster deploying on Jaxxon must still obey uniqueness rules."
       ],
       "set": "224",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Jaxxon"
+      ]
     },
     {
       "abbr": [
@@ -76502,7 +77554,10 @@
         "The phrase 'exclude all other characters' means exclude all characters except for the targeted Dark Jedi and Son Of Skywalker himself."
       ],
       "set": "224",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Luke"
+      ]
     },
     {
       "abbr": [
@@ -76635,7 +77690,11 @@
         "Zev is a matching pilot, so this vehicle is immune to attrition < 6 with Echo Base Garrison."
       ],
       "set": "224",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Rogue 2",
+        "Zev Senesca"
+      ]
     },
     {
       "abbr": [
@@ -76730,7 +77789,10 @@
         "Losing 2 Force is a cost to add a battle destiny; this cost cannot be reduced such as by It Could Be Worse. Likewise if We're Doomed has been played, it is simply ignored and Light still loses 2, not 1."
       ],
       "set": "216",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Anakin"
+      ]
     },
     {
       "front": {
@@ -76790,7 +77852,10 @@
       ],
       "rarity": "R1",
       "set": "210",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Anakin's Lightsaber"
+      ]
     },
     {
       "front": {
@@ -77089,7 +78154,10 @@
       ],
       "rarity": "R",
       "set": "210",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Plo Koon"
+      ]
     },
     {
       "abbr": [
@@ -77517,7 +78585,10 @@
         "His 'just captured' text works regardless of being seized, imprisoned, or escaped."
       ],
       "set": "225",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Han"
+      ]
     },
     {
       "abbr": [
@@ -77566,7 +78637,10 @@
         "Adds a battle destiny with either player's droid."
       ],
       "set": "225",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Chewie"
+      ]
     },
     {
       "abbr": [
@@ -77797,7 +78871,10 @@
         "This text permits Jedi Lightsaber (V) to deploy on (and be used by) Finn."
       ],
       "set": "225",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Finn"
+      ]
     },
     {
       "abbr": [
@@ -77956,7 +79033,11 @@
         "Lando's retrieval action occurs as soon as Light has calculated their total battle destiny, including any modifiers. If Light initiated the battle, this will be after Light has completed their battle destiny draws and before Dark has started their battle destiny draws."
       ],
       "set": "225",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Lando",
+        "Lando's Blaster Rifle"
+      ]
     },
     {
       "abbr": [
@@ -77995,7 +79076,10 @@
         "If a character does not have immunity to attrition, they still receive defense value +1."
       ],
       "set": "225",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Leia's Lightsaber"
+      ]
     },
     {
       "abbr": [
@@ -78591,7 +79675,10 @@
         "Beq's text does not cause lightsabers to become matching weapons for him."
       ],
       "set": "226",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Beq"
+      ]
     },
     {
       "cancels": [
@@ -78878,7 +79965,10 @@
       ],
       "rarity": "C2",
       "set": "226",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Obi-Wan"
+      ]
     },
     {
       "abbr": [
@@ -79417,7 +80507,10 @@
       ],
       "rarity": "R1",
       "set": "200",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Luke"
+      ]
     },
     {
       "abbr": [
@@ -79465,7 +80558,10 @@
         "May deploy (or persona replace) at a <u>system or sector</u> opponent occupies."
       ],
       "set": "210",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Luke"
+      ]
     },
     {
       "abbr": [
@@ -79524,7 +80620,10 @@
         "When using Sorry About The Mess to swing during the control phase, Mace only swings once. If Mace then battles later that turn, he may still swing twice in that battle."
       ],
       "set": "218",
-      "side": "Light"
+      "side": "Light",
+      "personas": [
+        "Mace"
+      ]
     },
     {
       "counterpart": "Tatooine: Lars' Moisture Farm",
