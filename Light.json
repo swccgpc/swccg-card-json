@@ -9317,7 +9317,14 @@
       "set": "8",
       "side": "Light",
       "underlyingCardFor": [
-        "Chewbacca, Defender Of Kashyyyk"
+        {
+          "cardId": 6926,
+          "title": "Chewbacca, Defender Of Kashyyyk"
+        },
+        {
+          "cardId": 7499,
+          "title": "Chewbacca Of Kashyyyk (V)"
+        }
       ],
       "personas": [
         "Chewie"
@@ -11984,7 +11991,13 @@
       ],
       "rarity": "C",
       "set": "8",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        {
+          "cardId": 7500,
+          "title": "Commando Training (V)"
+        }
+      ]
     },
     {
       "canceledBy": [
@@ -33078,6 +33091,10 @@
       "set": "9",
       "side": "Light",
       "underlyingCardFor": [
+        {
+          "title": "A New Hope",
+          "cardId": 7498
+        },
         {
           "title": "Han Solo, Optimistic General",
           "cardId": 6885
@@ -80795,6 +80812,111 @@
       "rulings": [
         "If Dark chooses to deploy a Podracer, it must come from their Reserve Deck."
       ],
+      "set": "227",
+      "side": "Light"
+    },
+    {
+      "abbr": [
+        "ANH"
+      ],
+      "front": {
+        "destiny": "IV",
+        "gametext": "For remainder of turn, opponent may not cancel battle destiny draws. OR If Luke or Leia in battle alone, draw one battle destiny if unable to otherwise. OR If an Alderaan or Tatooine location on table, take Luke (or a Lars) or Leia (or Bail) with printed deploy < 4 into hand from Reserve Deck; reshuffle.",
+        "icons": [
+          "A New Hope",
+          "Set 27"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual27-Light/large/anewhope.gif",
+        "lore": "The heroes of the Rebellion know that where there is life, there is hope.",
+        "subType": "Used",
+        "title": "•A New Hope",
+        "type": "Interrupt",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/A New Hope/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "227_4",
+      "id": 7498,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "227"
+        }
+      ],
+      "rarity": "C",
+      "set": "227",
+      "side": "Light"
+    },
+    {
+      "abbr": [
+        "COKv"
+      ],
+      "front": {
+        "ability": "2",
+        "deploy": "4",
+        "destiny": "1",
+        "extraText": [
+          "Roar 4"
+        ],
+        "forfeit": "6",
+        "gametext": "Adds 2 to power of anything he pilots. Once per turn, may deploy Wuta from Reserve Deck; reshuffle (or Chewbacca's Bowcaster; or lose 1 Force to deploy it from Lost Pile) here. Characters may not be excluded from battles here. If Bunker has been 'blown away,' opponent's Force retrieval is canceled.",
+        "icons": [
+          "Endor",
+          "Pilot",
+          "Warrior",
+          "Set 27"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual27-Light/large/chewbaccaofkashyyyk.gif",
+        "lore": "Wookiee scout. Volunteered for Han's Endor strike team. Keeps his distance, but doesn't look like he's keeping his distance. Always thinks with his stomach.",
+        "power": "6",
+        "subType": "Rebel",
+        "title": "•Chewbacca Of Kashyyyk (V)",
+        "type": "Character",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Chewbacca Of Kashyyyk (V)/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "227_5",
+      "id": 7499,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "227"
+        }
+      ],
+      "rarity": "R",
+      "set": "227",
+      "side": "Light"
+    },
+    {
+      "abbr": [
+        "CTv"
+      ],
+      "front": {
+        "destiny": "4",
+        "gametext": "If Rebel Strike Team or They Have No Idea We're Coming on table, deploy on table. Your personal Force generation = 2. You initiate battles for free where you have two Rebels. At end of opponent's turn, if you occupy three battlegrounds, opponent loses 1 Force. [Immune to Alter.]",
+        "icons": [
+          "Endor",
+          "Personal Force",
+          "Set 27"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual27-Light/large/commandotraining.gif",
+        "lore": "Han's Rebel strike team on the forest moon of Endor was highly trained in the use of blasters and explosives.",
+        "title": "•Commando Training (V)",
+        "type": "Effect",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Commando Training (V)/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "227_6",
+      "id": 7500,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "227"
+        }
+      ],
+      "rarity": "C",
       "set": "227",
       "side": "Light"
     }
