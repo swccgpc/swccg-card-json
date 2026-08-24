@@ -6910,6 +6910,10 @@
         {
           "cardId": 6421,
           "title": "Invisible Hand: Docking Bay"
+        },
+        {
+          "cardId": 7497,
+          "title": "Invisible Hand: Observation Platform"
         }
       ],
       "personas": [
@@ -15376,6 +15380,12 @@
       "rarity": "R",
       "set": "14",
       "side": "Dark",
+      "underlyingCardFor": [
+        {
+          "title": "Behind Everything",
+          "cardId": 7496
+        }
+      ],
       "personas": [
         "Sidious"
       ]
@@ -40299,13 +40309,7 @@
       ],
       "rarity": "U",
       "set": "7",
-      "side": "Dark",
-      "underlyingCardFor": [
-        {
-          "title": "No Bargain (V)",
-          "cardId": 7388
-        }
-      ]
+      "side": "Dark"
     },
     {
       "front": {
@@ -75169,7 +75173,7 @@
       "front": {
         "destiny": "0",
         "errataDate": "2026-05-10",
-        "errataNotes": "Front previous text: The First Order Reigns: Deploy Crait and D'Qar systems, a Crait (or Supremacy) battleground site, and Tracked Fleet. For remainder of game, you may not deploy cards with ability except [Episode VII] cards. Supremacy is deploy = 7 to [Episode VII] systems. Once per turn, may deploy a card with 'Supremacy' in title or an [Episode VII] battleground from Reserve Deck; reshuffle. While this side up, neither player loses more than 1 Force to Force drains at systems (unless Tracked Fleet there). Flip this card if Tracked Fleet is 'annihilated.'",
+        "errataNotes": "Front E1 text: The First Order Reigns: Deploy Crait and D'Qar systems, a Crait (or Supremacy) battleground site, and Tracked Fleet. For remainder of game, you may not deploy cards with ability except [Episode VII] cards. Supremacy is deploy = 7 to [Episode VII] systems. Once per turn, may deploy a card with 'Supremacy' in title or an [Episode VII] battleground from Reserve Deck; reshuffle. While this side up, neither player loses more than 1 Force to Force drains at systems (unless Tracked Fleet there). Flip this card if Tracked Fleet is 'annihilated.' Front original text: The First Order Reigns: Deploy Crait and D'Qar systems, Supremacy: Bridge, and Tracked Fleet. For remainder of game, you may not deploy cards with ability except [Episode VII] cards. Your [Episode VII] characters and starships are power +1. Supremacy is deploy -9 to [Episode VII] systems. Once per turn, may deploy an [Episode VII] battleground from Reserve Deck; reshuffle. While this side up, neither player loses more than 1 Force to Force drains at systems (unless Tracked Fleet there). Flip this card if Tracked Fleet is 'annihilated.'",
         "errataSymbol": "E2",
         "gametext": "The First Order Reigns: Deploy Crait and D'Qar systems, Salt Plateau, and Tracked Fleet. For remainder of game, you may not deploy Bow To The First Order or cards with ability except [Episode VII] cards. Once per turn, may [download] a card with 'Supremacy' in title or an [Episode VII] battleground. While this side up, opponent loses no more than 1 Force to your Force drains at systems. Supremacy is deploy = 7 to [Episode VII] systems. Flip this card if Tracked Fleet is 'annihilated.' The Resistance Is Doomed: While this side up, once per turn, may deploy a non-unique trooper (or non-unique [First Order] vehicle) from Lost Pile. While Kylo occupies a Crait location, your Force drains at battlegrounds where you have two First Order characters are +1. While Kylo controls Salt Plateau, opponent may not Force drain where their character or permanent pilot is alone and opponent's Force retrieval is canceled. Place out of play if Kylo was just forfeited from a battle you lost at Salt Plateau where Han, Leia, or Luke present.",
         "icons": [
@@ -75185,7 +75189,7 @@
       "gempId": "225_32",
       "id": 7416,
       "legacy": false,
-      "previousId": 20075,
+      "previousId": 20078,
       "printings": [
         {
           "set": "225"
@@ -75250,7 +75254,7 @@
       "front": {
         "destiny": "0",
         "errataDate": "2026-05-10",
-        "errataNotes": "Previous text: Deploy on D'Qar system (only at start of game). Tied To The End Of A String: You may not deploy starships here. Supremacy moves to here for free. There Will Be No Surrender: Three times per game, at start of opponent's move phase, opponent may stack a card from hand face down on this card to relocate it to an [Episode VII] system within 3 parsecs. Fire At Will!: At the start of your turn, if you control this system, Tracked Fleet is 'annihilated' (placed out of play).",
+        "errataNotes": "E1 errata added '(or from top of Lost Pile)'.",
         "errataSymbol": "E1",
         "gametext": "Deploy on D'Qar system (only at start of game). Tied To The End Of A String: You may not deploy starships here. Supremacy moves to here for free. There Will Be No Surrender: Three times per game, at start of opponent's move phase, opponent may stack a card from hand (or from top of Lost Pile) face down on this card to relocate it to an [Episode VII] system within 3 parsecs. Fire At Will!: At the start of your turn, if you control this system, Tracked Fleet is 'annihilated' (placed out of play).",
         "icons": [
@@ -75267,6 +75271,7 @@
       "gempId": "225_34",
       "id": 7418,
       "legacy": false,
+      "previousId": 20079,
       "printings": [
         {
           "set": "225"
@@ -76392,6 +76397,75 @@
       ],
       "rarity": "C2",
       "set": "204",
+      "side": "Dark"
+    },
+    {
+      "abbr": [
+        "BE"
+      ],
+      "front": {
+        "destiny": "5",
+        "gametext": "If Revenge Of The Sith on table, deploy on table. While Sidious alone on Coruscant, he adds one [Dark Side] icon and one [Light Side] icon there. While your apprentice in battle, Blast The Door, Kid! and It's A Trap! may not be played and, once per battle, may choose a player to activate 1 Force. [Immune to Alter.]",
+        "icons": [
+          "Episode I",
+          "Sidious",
+          "Set 27"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual27-Dark/large/behindeverything.gif",
+        "lore": "Mysterious Sith Master who is manipulating the Trade Federation for his own nefarious ends. Shrouded in mystery, his identity and agenda remain unclear.",
+        "title": "•Behind Everything",
+        "type": "Effect",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Behind Everything/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "227_2",
+      "id": 7496,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "227"
+        }
+      ],
+      "rarity": "R",
+      "set": "227",
+      "side": "Dark"
+    },
+    {
+      "abbr": [
+        "IHOP"
+      ],
+      "front": {
+        "darkSideIcons": 2,
+        "destiny": "0",
+        "gametext": "Dark: If you just took a card into hand with A Valuable Hostage, retrieve 1 Force. Light: If you occupy, opponent's Observation Platform game text here is canceled.",
+        "icons": [
+          "Interior",
+          "Mobile",
+          "Starship",
+          "Scomp Link",
+          "Episode I",
+          "Set 27"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual27-Dark/large/invisiblehandobservationplatform.gif",
+        "lightSideIcons": 1,
+        "subType": "Site",
+        "title": "•Invisible Hand: Observation Platform",
+        "type": "Location",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Invisible Hand Observation Platform/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "227_3",
+      "id": 7497,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "227"
+        }
+      ],
+      "rarity": "U",
+      "set": "227",
       "side": "Dark"
     }
   ]

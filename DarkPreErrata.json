@@ -3183,7 +3183,7 @@
       "gempId": "225_32",
       "id": 20075,
       "legacy": false,
-      "nextId": 7416,
+      "nextId": 20078,
       "printings": [
         {
           "set": "225"
@@ -3257,6 +3257,146 @@
         "Multiple alien/Imperial pairs still only gives total battle destiny +2, not +4 or more."
       ],
       "set": "226",
+      "side": "Dark"
+    },
+    {
+      "abbr": [
+        "NBv"
+      ],
+      "canceledBy": [
+        "May be impeded by My Kind Of Scum"
+      ],
+      "front": {
+        "destiny": "4",
+        "errataNotes": "This card was blanked (removed from the game) on May 10, 2026.",
+        "gametext": "Deploy on Audience Chamber. May deploy Salacious Crumb here from Reserve Deck; reshuffle. Once per turn, may choose: Raise your converted Audience Chamber to the top or, if opponent just deployed a character here, place a card from hand on your Force Pile. [Immune to Alter.]",
+        "icons": [
+          "Special Edition",
+          "Jabba's Palace",
+          "Set 25"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual25-Dark/large/nobargain.gif",
+        "lore": "'Zeet tu seet. Jabba no tuzindy honkabee.'",
+        "title": "•No Bargain (V)",
+        "type": "Effect",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/No Bargain (V)/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "225_4",
+      "id": 7388,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "225"
+        }
+      ],
+      "pulledBy": [
+        "Bib Fortuna (V)"
+      ],
+      "pulls": [
+        "Salacious Crumb"
+      ],
+      "rarity": "U",
+      "rulings": [
+        "You may place a card from hand onto an empty Force Pile."
+      ],
+      "set": "225",
+      "side": "Dark"
+    },
+    {
+      "abbr": [
+        "TFOR/TRID"
+      ],
+      "back": {
+        "destiny": "7",
+        "errataDate": "2026-03-09",
+        "errataNotes": "Back original text: The Resistance Is Doomed: While this side up, once per turn, may deploy a non-unique trooper (or non-unique [First Order] vehicle) from Lost Pile. While you occupy a Crait location, your Force drains at battlegrounds where you have two First Order characters are +1. While Kylo occupies Salt Plateau, opponent may not Force drain where their character or permanent pilot is alone. While you control Salt Plateau, opponent's Force retrieval is canceled. Place out of play if Kylo just forfeited from a battle you lost at Salt Plateau where Han, Leia, or Luke present.",
+        "errataSymbol": "E1",
+        "gametext": "The First Order Reigns: Deploy Crait and D'Qar systems, a Crait (or Supremacy) battleground site, and Tracked Fleet. For remainder of game, you may not deploy cards with ability except [Episode VII] cards. Supremacy is deploy = 7 to [Episode VII] systems. Once per turn, may deploy a card with 'Supremacy' in title or an [Episode VII] battleground from Reserve Deck; reshuffle. While this side up, neither player loses more than 1 Force to Force drains at systems (unless Tracked Fleet there). Flip this card if Tracked Fleet is 'annihilated.' The Resistance Is Doomed: While this side up, once per turn, may deploy a non-unique trooper (or non-unique [First Order] vehicle) from Lost Pile. While Kylo occupies a Crait location, your Force drains at battlegrounds where you have two First Order characters are +1. While Kylo controls Salt Plateau, opponent may not Force drain where their character or permanent pilot is alone and opponent's Force retrieval is canceled. Place out of play if Kylo was just forfeited from a battle you lost at Salt Plateau where Han, Leia, or Luke present.",
+        "icons": [
+          "Episode VII",
+          "Set 25"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual25-Dark/large/theresistanceisdoomed.gif",
+        "title": "The First Order Reigns / The Resistance Is Doomed",
+        "type": "Objective",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/The Resistance Is Doomed/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "front": {
+        "destiny": "0",
+        "errataDate": "2026-03-09",
+        "errataNotes": "Front original text: The First Order Reigns: Deploy Crait and D'Qar systems, Supremacy: Bridge, and Tracked Fleet. For remainder of game, you may not deploy cards with ability except [Episode VII] cards. Your [Episode VII] characters and starships are power +1. Supremacy is deploy -9 to [Episode VII] systems. Once per turn, may deploy an [Episode VII] battleground from Reserve Deck; reshuffle. While this side up, neither player loses more than 1 Force to Force drains at systems (unless Tracked Fleet there). Flip this card if Tracked Fleet is 'annihilated.'",
+        "errataSymbol": "E1",
+        "gametext": "The First Order Reigns: Deploy Crait and D'Qar systems, a Crait (or Supremacy) battleground site, and Tracked Fleet. For remainder of game, you may not deploy cards with ability except [Episode VII] cards. Supremacy is deploy = 7 to [Episode VII] systems. Once per turn, may deploy a card with 'Supremacy' in title or an [Episode VII] battleground from Reserve Deck; reshuffle. While this side up, neither player loses more than 1 Force to Force drains at systems (unless Tracked Fleet there). Flip this card if Tracked Fleet is 'annihilated.' The Resistance Is Doomed: While this side up, once per turn, may deploy a non-unique trooper (or non-unique [First Order] vehicle) from Lost Pile. While Kylo occupies a Crait location, your Force drains at battlegrounds where you have two First Order characters are +1. While Kylo controls Salt Plateau, opponent may not Force drain where their character or permanent pilot is alone and opponent's Force retrieval is canceled. Place out of play if Kylo was just forfeited from a battle you lost at Salt Plateau where Han, Leia, or Luke present.",
+        "icons": [
+          "Episode VII",
+          "Set 25"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual25-Dark/large/thefirstorderreigns.gif",
+        "title": "The First Order Reigns / The Resistance Is Doomed",
+        "type": "Objective",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/The First Order Reigns/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "225_32",
+      "id": 20078,
+      "legacy": false,
+      "nextId": 7416,
+      "previousId": 20075,
+      "printings": [
+        {
+          "set": "225"
+        }
+      ],
+      "pulls": [
+        "An [Episode VII] battleground",
+        "Supremacy",
+        "Supremacy: Bridge",
+        "Supremacy: Throne Room"
+      ],
+      "rarity": "C",
+      "rulings": [
+        "Dark may deploy [Presence] droids such as P-59.",
+        "(7-side) Light may initiate an action that causes retrieval, but the retrieval result is canceled.",
+        "(7-side) Han, Leia, or Luke must still be present at the Salt Plateau and active (not excluded from battle, captive, missing, Undercover, etc) at the time that Kylo was forfeited from a battle Dark lost there for the Objective to be placed out of play."
+      ],
+      "set": "225",
+      "side": "Dark"
+    },
+    {
+      "abbr": [
+        "TF"
+      ],
+      "front": {
+        "destiny": "0",
+        "gametext": "Deploy on D'Qar system (only at start of game). Tied To The End Of A String: You may not deploy starships here. Supremacy moves to here for free. There Will Be No Surrender: Three times per game, at start of opponent's move phase, opponent may stack a card from hand face down on this card to relocate it to an [Episode VII] system within 3 parsecs. Fire At Will!: At the start of your turn, if you control this system, Tracked Fleet is 'annihilated' (placed out of play).",
+        "icons": [
+          "Episode VII",
+          "Set 25"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual25-Dark/large/trackedfleet.gif",
+        "title": "•Tracked Fleet",
+        "type": "Epic Event",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Tracked Fleet/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "225_34",
+      "id": 20079,
+      "legacy": false,
+      "nextId": 7418,
+      "printings": [
+        {
+          "set": "225"
+        }
+      ],
+      "rarity": "R",
+      "rulings": [
+        "The card stacked from hand face down is not revealed (unlike cards that say to 'lose 1 Force and stack' such as I Feel The Conflict)."
+      ],
+      "set": "225",
       "side": "Dark"
     }
   ]
