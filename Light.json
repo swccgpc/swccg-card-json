@@ -80821,6 +80821,9 @@
       ],
       "front": {
         "destiny": "IV",
+        "destinyValues": [
+          4
+        ],
         "gametext": "For remainder of turn, opponent may not cancel battle destiny draws. OR If Luke or Leia in battle alone, draw one battle destiny if unable to otherwise. OR If an Alderaan or Tatooine location on table, take Luke (or a Lars) or Leia (or Bail) with printed deploy < 4 into hand from Reserve Deck; reshuffle.",
         "icons": [
           "A New Hope",
@@ -80910,6 +80913,452 @@
       },
       "gempId": "227_6",
       "id": 7500,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "227"
+        }
+      ],
+      "rarity": "C",
+      "set": "227",
+      "side": "Light"
+    },
+    {
+      "abbr": [
+        "BSATH"
+      ],
+      "front": {
+        "armor": "4",
+        "deploy": "4",
+        "destiny": "2",
+        "forfeit": "5",
+        "gametext": "May add 2 pilots and 6 passengers. Permanent pilot provides ability of 2. Players may not draw more than two battle destiny (one if piloted by Rio) here. While Beckett on table or out of play, power +3.",
+        "hyperspeed": "4",
+        "icons": [
+          "Scomp Link",
+          "Independent",
+          "Pilot",
+          "Nav Computer",
+          "Set 27"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual27-Light/large/beckettsstolenathauler.gif",
+        "lore": "Blank.",
+        "power": "4",
+        "subType": "Starfighter: Y-45 Armored Transport",
+        "title": "•Beckett's Stolen AT-Hauler",
+        "type": "Starship",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Beckett's Stolen AT-Hauler/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "227_18",
+      "id": 7512,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "227"
+        }
+      ],
+      "rarity": "R",
+      "set": "227",
+      "side": "Light"
+    },
+    {
+      "abbr": [
+        "DODN&WAv"
+      ],
+      "front": {
+        "destiny": "1",
+        "gametext": "Deploy on table. Sense and Alter are Lost Interrupts. When any player makes a destiny draw for Sense or Alter, and that destiny draw is successful, that player loses 2 Force (may not be reduced). May deploy Bog Clearing from Reserve Deck; reshuffle. [Dagobah] Luke is a Padawan. Once per game, if [Dagobah] Luke in battle, may lose 1 Force to cancel a non-[Sense] Interrupt. Yoda and Padawans are immune to Imperial Barrier and Stunning Leader and may move for free using landspeed. While alone, Jedi Ahsoka's game text is canceled. [Immune to Alter.]",
+        "icons": [
+          "Reflections II",
+          "Set 27"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual27-Light/large/doordonotwiseadvice.gif",
+        "lore": "Blank",
+        "title": "•Do, Or Do Not & •Wise Advice (V)",
+        "type": "Effect",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Do, Or Do Not Wise Advice (V)/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "227_19",
+      "id": 7513,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "227"
+        }
+      ],
+      "rarity": "PM",
+      "set": "227",
+      "side": "Light"
+    },
+    {
+      "abbr": [
+        "GIRC"
+      ],
+      "front": {
+        "deploy": "6",
+        "destiny": "1",
+        "forfeit": "7",
+        "gametext": "May add 1 pilot and 1 passenger. Permanent pilot is  Grogu, who provides ability of 4. Unless opponent has total ability > 6 piloting here, reset opponent's total battle destiny here to 0.",
+        "hyperspeed": "4",
+        "icons": [
+          "Scomp Link",
+          "Independent",
+          "Pilot",
+          "Nav Computer",
+          "Set 27"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual27-Light/large/groguinrazorcrest.gif",
+        "lore": "Blank.",
+        "maneuver": "3",
+        "power": "5",
+        "subType": "Starfighter: ST-70 Assault Ship",
+        "title": "•Grogu In Razor Crest",
+        "type": "Starship",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Grogu In Razor Crest/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "227_20",
+      "id": 7514,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "227"
+        }
+      ],
+      "rarity": "C",
+      "set": "227",
+      "side": "Light"
+    },
+    {
+      "abbr": [
+        "LR"
+      ],
+      "front": {
+        "ability": "4",
+        "deploy": "4",
+        "destiny": "1",
+        "extraText": [
+          "Force-Sensitive"
+        ],
+        "forfeit": "6",
+        "gametext": "Once per turn, if at a site you control and your spy is in battle, may add or subtract 1 from a just drawn destiny. If alone at a non-battleground, may lose 1 Force to place Luthen out of play; may activate up to 2 Force.",
+        "icons": [
+          "Pilot",
+          "Warrior",
+          "Set 27"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual27-Light/large/luthenrael.gif",
+        "lore": "Spy. Leader. Massassi Group.",
+        "power": "2",
+        "subType": "Rebel",
+        "title": "•Luthen Rael",
+        "type": "Character",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Luthen Rael/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "227_21",
+      "id": 7515,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "227"
+        }
+      ],
+      "rarity": "C",
+      "set": "227",
+      "side": "Light"
+    },
+    {
+      "abbr": [
+        "QGJv"
+      ],
+      "front": {
+        "ability": "7",
+        "deploy": "7",
+        "destiny": "1",
+        "extraText": [
+          "Jedi Master"
+        ],
+        "forfeit": "9",
+        "gametext": "Where present, [Tatooine] Anakin deploys -2 and, while with Qui-Gon, may not be targeted by weapons and adds one [Dark Side] icon and one [Light Side] icon here. Once per game, may stack top card of Lost Pile on your Podracer. Immune to Dark Strike, Maul Strikes, and attrition.",
+        "icons": [
+          "Tatooine",
+          "Episode I",
+          "Warrior",
+          "Set 27"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual27-Light/large/quigonjinn_ai.gif",
+        "lore": "Accepted Obi-Wan Kenobi as his Padawan learner. Was given orders to protect Queen Amidala at all costs.",
+        "power": "6",
+        "subType": "Jedi Master",
+        "title": "•Qui-Gon Jinn (V) (ALT)",
+        "type": "Character",
+        "uniqueness": "*"
+      },
+      "gempId": "227_29",
+      "id": 7523,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "227"
+        }
+      ],
+      "rarity": "R",
+      "set": "227",
+      "side": "Light"
+    },
+    {
+      "abbr": [
+        "QGJv"
+      ],
+      "front": {
+        "ability": "7",
+        "deploy": "7",
+        "destiny": "1",
+        "extraText": [
+          "Jedi Master"
+        ],
+        "forfeit": "9",
+        "gametext": "Where present, [Tatooine] Anakin deploys -2 and, while with Qui-Gon, may not be targeted by weapons and adds one [Dark Side] icon and one [Light Side] icon here. Once per game, may stack top card of Lost Pile on your Podracer. Immune to Dark Strike, Maul Strikes, and attrition.",
+        "icons": [
+          "Tatooine",
+          "Episode I",
+          "Warrior",
+          "Set 27"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual27-Light/large/quigonjinn.gif",
+        "lore": "Accepted Obi-Wan Kenobi as his Padawan learner. Was given orders to protect Queen Amidala at all costs.",
+        "power": "6",
+        "subType": "Jedi Master",
+        "title": "•Qui-Gon Jinn (V)",
+        "type": "Character",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Qui-Gon Jinn (V)/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "227_22",
+      "id": 7516,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "227"
+        }
+      ],
+      "rarity": "R",
+      "set": "227",
+      "side": "Light"
+    },
+    {
+      "abbr": [
+        "SFSB"
+      ],
+      "back": {
+        "destiny": "7",
+        "gametext": "(Front): If Zero Hour on table, deploy on table. Once per game, may deploy Kanan from Reserve Deck; reshuffle. If Kanan just lost, place him out of play, relocate this Effect to a Lothal site, and flip this card. [Immune to Alter.] Back: Moves like a character at normal use of the Force. Where present, your Rebels gain Phoenix Squadron, your total power is +3, and opponent's immunity to attrition is canceled. If a Dark Jedi (or two Imperials) control this location, place this Effect out of play. [Immune to Alter.]",
+        "icons": [
+          "Set 27"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual27-Light/large/sacrificeforsomethingbiggerback.gif",
+        "lore": "When a Jedi dies, the spirit spreads through the Force and touches the living.",
+        "subType": "Back",
+        "title": "•Sacrifice For Something Bigger / •Sacrifice For Something Bigger",
+        "type": "Effect",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Sacrifice For Something Bigger (7)/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "front": {
+        "destiny": "0",
+        "gametext": "(Front): If Zero Hour on table, deploy on table. Once per game, may deploy Kanan from Reserve Deck; reshuffle. If Kanan just lost, place him out of play, relocate this Effect to a Lothal site, and flip this card. [Immune to Alter.] Back: Moves like a character at normal use of the Force. Where present, your Rebels gain Phoenix Squadron, your total power is +3, and opponent's immunity to attrition is canceled. If a Dark Jedi (or two Imperials) control this location, place this Effect out of play. [Immune to Alter.]",
+        "icons": [
+          "Set 27"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual27-Light/large/sacrificeforsomethingbiggerfront.gif",
+        "lore": "When a Jedi dies, the spirit spreads through the Force and touches t11he living.",
+        "subType": "Front",
+        "title": "•Sacrifice For Something Bigger / •Sacrifice For Something Bigger",
+        "type": "Effect",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Sacrifice For Something Bigger (0)/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "227_23",
+      "id": 7517,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "227"
+        }
+      ],
+      "rarity": "R",
+      "set": "227",
+      "side": "Light"
+    },
+    {
+      "abbr": [
+        "TFWBWYA"
+      ],
+      "front": {
+        "destiny": "4",
+        "gametext": "If a Jedi 'communing,' choose: Take Coruscant: Jedi Temple into hand from Reserve Deck; reshuffle. OR Once per game, draw bottom card of your Force Pile. OR Once per game, take your just drawn destiny into hand to cancel and redraw that destiny.",
+        "icons": [
+          "Set 27"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual27-Light/large/theforcewillbewithyoualways.gif",
+        "lore": "'You can't win Darth. If you strike me down I shall become more powerful than you can possibly imagine.' Obi-Wan's sacrifice gave the Rebels time to escape.",
+        "subType": "Used",
+        "title": "•The Force Will Be With You, Always",
+        "type": "Interrupt",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/The Force Will Be With You, Always/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "227_24",
+      "id": 7518,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "227"
+        }
+      ],
+      "rarity": "R2",
+      "set": "227",
+      "side": "Light"
+    },
+    {
+      "abbr": [
+        "TGOATJ"
+      ],
+      "front": {
+        "destiny": "0",
+        "gametext": "If your [Skywalker] Epic Event on table, deploy on table. Your personal Force generation = 2. While Jedi Anakin in battle alone, your total battle destiny is +1 for each of opponent's characters there and may place Effect out of play to allow Anakin's weapon to fire twice. [Immune to Alter.]",
+        "icons": [
+          "Episode I",
+          "Skywalker",
+          "Personal Force",
+          "Set 27"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual27-Light/large/thegreatestofallthejedi.gif",
+        "lore": "Blank.",
+        "title": "•The Greatest Of All The Jedi",
+        "type": "Effect",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/The Greatest Of All The Jedi/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "227_25",
+      "id": 7519,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "227"
+        }
+      ],
+      "rarity": "R",
+      "set": "227",
+      "side": "Light"
+    },
+    {
+      "abbr": [
+        "TM&G"
+      ],
+      "front": {
+        "ability": "4",
+        "armor": "5",
+        "deploy": "6",
+        "destiny": "1",
+        "forfeit": "7",
+        "gametext": "Adds 3 to power of anything he pilots. While piloting or at a site, draws two battle destiny if unable to otherwise. Once per game, may take into hand from Reserve Deck (reshuffle) or retrieve Beskar Deflection. Immune to None Shall Pass.",
+        "icons": [
+          "Pilot",
+          "Warrior",
+          "Set 27"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual27-Light/large/themandaloriangrogu.gif",
+        "lore": "Din Djarin. Foundling child. Mandalorians.",
+        "power": "6",
+        "subType": "Alien/Rebel",
+        "title": "•The Mandalorian & •Grogu",
+        "type": "Character",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/The Mandalorian Grogu/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "227_26",
+      "id": 7520,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "227"
+        }
+      ],
+      "rarity": "PM",
+      "set": "227",
+      "side": "Light"
+    },
+    {
+      "abbr": [
+        "WTCB"
+      ],
+      "front": {
+        "destiny": "6",
+        "gametext": "Add 2 to power and maneuver of your T-47 until end of turn. (Interrupt may even affect the result of a destiny draw targeting the T-47's maneuver.) OR Once per game, if you are about to lose Force, reduce the loss by 1 for each marker site you occupy.",
+        "icons": [
+          "Hoth",
+          "Set 27"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual27-Light/large/watchthatcrossfireboys.gif",
+        "lore": "Many pilots for the Rebellion learned their skills using modified T-47s and other airspeeders. Being able to weave in and out of combat has become second nature to them.",
+        "subType": "Used",
+        "title": "Watch That Crossfire, Boys",
+        "type": "Interrupt",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Watch That Crossfire, Boys/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "227_27",
+      "id": 7521,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "227"
+        }
+      ],
+      "rarity": "R",
+      "set": "227",
+      "side": "Light"
+    },
+    {
+      "front": {
+        "ability": "7",
+        "deploy": "4",
+        "destiny": "2",
+        "extraText": [
+          "Jedi Master"
+        ],
+        "forfeit": "7",
+        "gametext": "Battle destiny draws may not be canceled where you have a Jedi. While with a Dark Jedi Master, all immunity to attrition here is canceled. Once per turn, if you just drew an [Episode I] Jedi for destiny, may take that card into hand. Immune to attrition < 6.",
+        "icons": [
+          "Episode I",
+          "Set 27"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual27-Light/large/yaddle.gif",
+        "lore": "Female Jedi Council member.",
+        "power": "2",
+        "subType": "Jedi Master",
+        "title": "•Yaddle",
+        "type": "Character",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Yaddle/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "227_28",
+      "id": 7522,
       "legacy": false,
       "printings": [
         {

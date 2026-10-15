@@ -65061,10 +65061,10 @@
       ],
       "front": {
         "destiny": "0",
-        "errataDate": "2026-03-09",
-        "errataNotes": "Previous text: If you did not deploy an Objective, deploy on Executor. We're Not Going To Attack?: Your squadrons are destiny = 0. You may not deploy squadrons or non-Imperial starships. Unless you occupy a battleground site, Dreaded Imperial Starfleet is suspended. The Alliance Will Die...: Flagship Operations does not require any Executor sites on table to deploy. ...As Will Your Friends: At battleground systems where you have a piloted capital starship and a piloted TIE, your Force drains = 2. At sites related to systems you control, during battle may add one destiny to total power. If just lost, lose 3 Force.",
-        "errataSymbol": "E1",
-        "gametext": "If you did not deploy an Objective, deploy on table. We're Not Going To Attack?: Once per turn, may deploy a battleground system from Reserve Deck; reshuffle. You may not deploy non-Imperial starships. Unless you occupy a battleground site, Dreaded Imperial Starfleet is suspended. The Alliance Will Die...: Flagship Operations does not require any Executor sites on table to deploy, and does not target squadrons. ...As Will Your Friends: At battleground systems where you have a piloted capital starship/TIE pair, Force drains = 2. During battle at a site related to a system you occupy, may add one destiny to total power and/or re-circulate.",
+        "errataDate": "2026-10-09",
+        "errataNotes": "E2 and E1 are the same except that E1 allows playing other Epic Events. E0 text: If you did not deploy an Objective, deploy on Executor. We're Not Going To Attack?: Your squadrons are destiny = 0. You may not deploy squadrons or non-Imperial starships. Unless you occupy a battleground site, Dreaded Imperial Starfleet is suspended. The Alliance Will Die...: Flagship Operations does not require any Executor sites on table to deploy. ...As Will Your Friends: At battleground systems where you have a piloted capital starship and a piloted TIE, your Force drains = 2. At sites related to systems you control, during battle may add one destiny to total power. If just lost, lose 3 Force.",
+        "errataSymbol": "E2",
+        "gametext": "If you did not deploy an Epic Event or Objective, deploy on table. We're Not Going To Attack?: Once per turn, may deploy a battleground system from Reserve Deck; reshuffle. You may not deploy non-Imperial starships. Unless you occupy a battleground site, Dreaded Imperial Starfleet is suspended. The Alliance Will Die...: Flagship Operations does not require any Executor sites on table to deploy, and does not target squadrons. ...As Will Your Friends: At battleground systems where you have a piloted capital starship/TIE pair, Force drains = 2. During battle at a site related to a system you occupy, may add one destiny to total power and/or re-circulate.",
         "icons": [
           "Set 15"
         ],
@@ -65078,7 +65078,7 @@
       "gempId": "215_25",
       "id": 6899,
       "legacy": false,
-      "previousId": 20069,
+      "previousId": 20080,
       "printings": [
         {
           "set": "215"
@@ -76465,6 +76465,452 @@
         }
       ],
       "rarity": "U",
+      "set": "227",
+      "side": "Dark"
+    },
+    {
+      "abbr": [
+        "B1C"
+      ],
+      "front": {
+        "armor": "3",
+        "deploy": "1",
+        "destiny": "0",
+        "extraText": [
+          "Battle Droid"
+        ],
+        "forfeit": "3",
+        "gametext": "Infantry battle droid. * Power = number of [Separatist] systems on table. While alone, you may not Force drain here. Immune to Abyssin Ornament.",
+        "icons": [
+          "Episode I",
+          "Presence",
+          "Separatist",
+          "Set 27"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual27-Dark/large/b1clanker.gif",
+        "lore": "Manufactured by the Baktoid Combat Automata, battle droids are used by the Trade Federation throughout the galaxy in order to secure and protect sites of strategic importance.",
+        "power": "*",
+        "subType": "Droid",
+        "title": "••• •••B1 Clanker",
+        "type": "Character",
+        "uniqueness": "*** ***",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/B1 Clanker/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "227_7",
+      "id": 7501,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "227"
+        }
+      ],
+      "rarity": "C",
+      "set": "227",
+      "side": "Dark"
+    },
+    {
+      "abbr": [
+        "DL"
+      ],
+      "front": {
+        "destiny": "6",
+        "gametext": "Target a character present with your Dark Jedi Master. Draw destiny. If destiny +2 > target's ability, target's game text is canceled for remainder of turn and, if target is Anakin, Luke, or Rey, opponent loses 1 Force (2 Force if a [Skywalker] Epic Event is also on table).",
+        "icons": [
+          "Set 27"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual27-Dark/large/darklightning.gif",
+        "lore": "Blank.",
+        "subType": "Used",
+        "title": "•Dark Lightning",
+        "type": "Interrupt",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Dark Lightning/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "227_8",
+      "id": 7502,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "227"
+        }
+      ],
+      "rarity": "U2",
+      "set": "227",
+      "side": "Dark"
+    },
+    {
+      "back": {
+        "darkSideIcons": 2,
+        "destiny": "0",
+        "gametext": "Geonosis (Separatist Controlled): Dark: During battle here, you may draw one battle destiny if unable to otherwise. Light: If you just initiated a Force drain (or won a battle) at a Geonosis site, 'conquer' (flip) Geonosis. Geonosis (Republic Controlled): Dark: If you just initiated a Force drain (or won a battle) at a Geonosis site, 'conquer' (flip) Geonosis. Light: While you occupy with a [Republic] starship, your Jedi (and clones) at Geonosis sites are power +1.",
+        "icons": [
+          "Planet",
+          "Episode I",
+          "Clone Army",
+          "Set 27"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual27-Dark/large/geonosisrepubliccontrolled.gif",
+        "lightSideIcons": 2,
+        "parsec": "7",
+        "subType": "System",
+        "title": "•Geonosis (Separatist Controlled) / •Geonosis (Republic Controlled)",
+        "type": "Location",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Geonosis Republic Controlled/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "front": {
+        "darkSideIcons": 2,
+        "destiny": "0",
+        "gametext": "Geonosis (Separatist Controlled): Dark: During battle here, you may draw one battle destiny if unable to otherwise. Light: If you just initiated a Force drain (or won a battle) at a Geonosis site, 'conquer' (flip) Geonosis. Geonosis (Republic Controlled): Dark: If you just initiated a Force drain (or won a battle) at a Geonosis site, 'conquer' (flip) Geonosis. Light: While you occupy with a [Republic] starship, your Jedi (and clones) at Geonosis sites are power +1.",
+        "icons": [
+          "Planet",
+          "Episode I",
+          "Separatist",
+          "Set 27"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual27-Dark/large/geonosisseparatistcontrolled.gif",
+        "lightSideIcons": 1,
+        "parsec": "7",
+        "subType": "System",
+        "title": "•Geonosis (Separatist Controlled) / •Geonosis (Republic Controlled)",
+        "type": "Location",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Geonosis Separatist Controlled/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "227_9",
+      "id": 7503,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "227"
+        }
+      ],
+      "rarity": "C2",
+      "set": "227",
+      "side": "Dark"
+    },
+    {
+      "abbr": [
+        "GPA"
+      ],
+      "front": {
+        "darkSideIcons": 2,
+        "destiny": "0",
+        "gametext": "Dark: If your [Separatist] leader here, Force drain +1 here. Light: During battle here, you must first use 1 Force to play an Interrupt.",
+        "icons": [
+          "Exterior",
+          "Planet",
+          "Episode I",
+          "Separatist",
+          "Set 27"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual27-Dark/large/geonosispetranakiarena.gif",
+        "lightSideIcons": 1,
+        "subType": "Site",
+        "title": "•Geonosis: Petranaki Arena",
+        "type": "Location",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Geonosis Petranaki Arena/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "227_10",
+      "id": 7504,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "227"
+        }
+      ],
+      "rarity": "C",
+      "set": "227",
+      "side": "Dark"
+    },
+    {
+      "abbr": [
+        "MSWRTOC/TGTA"
+      ],
+      "back": {
+        "destiny": "7",
+        "gametext": "More Systems Will Rally To Our Cause: Deploy [Separatist] Geonosis system, a Geonosis site, a [Clone Army] system, and Droid Racks. Stack six (••• •••) cards from outside your deck on here. For remainder of game, you may not deploy cards with ability except [Episode I] cards. If your [Episode I] system was just converted, raise it to the top. Your (••• •••) cards stacked on Droid Racks may deploy as if from hand. Once per turn, may deploy Invisible Hand: Bridge or a [Separatist] location from Reserve Deck; reshuffle. Flip this card at the end of turn if your [Clone Army] system not on table. The Galaxy Torn Apart: May immediately retrieve up to 2 Force. While this side up, during your control phase, opponent loses X Force, where X = number of systems you control (limit 3). Once per turn, may deploy a (••• •••) card stacked here as if from hand. If you just lost a battle involving a (••• •••) card, opponent loses 1 Force. Once per turn, if your unique (•) character was just lost, may take a unique (•) character into hand from Reserve Deck; reshuffle. Flip this card at the end of turn if your [Clone Army] system is on table.",
+        "icons": [
+          "Episode I",
+          "Set 27"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual27-Dark/large/thegalaxytornapart.gif",
+        "title": "More Systems Will Rally To Our Cause / The Galaxy Torn Apart",
+        "type": "Objective",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/The Galaxy Torn Apart/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "front": {
+        "destiny": "0",
+        "gametext": "More Systems Will Rally To Our Cause: Deploy [Separatist] Geonosis system, a Geonosis site, a [Clone Army] system, and Droid Racks. Stack six (••• •••) cards from outside your deck on here. For remainder of game, you may not deploy cards with ability except [Episode I] cards. If your [Episode I] system was just converted, raise it to the top. Your (••• •••) cards stacked on Droid Racks may deploy as if from hand. Once per turn, may deploy Invisible Hand: Bridge or a [Separatist] location from Reserve Deck; reshuffle. Flip this card at the end of turn if your [Clone Army] system not on table. The Galaxy Torn Apart: May immediately retrieve up to 2 Force. While this side up, during your control phase, opponent loses X Force, where X = number of systems you control (limit 3). Once per turn, may deploy a (••• •••) card stacked here as if from hand. If you just lost a battle involving a (••• •••) card, opponent loses 1 Force. Once per turn, if your unique (•) character was just lost, may take a unique (•) character into hand from Reserve Deck; reshuffle. Flip this card at the end of turn if your [Clone Army] system is on table.",
+        "icons": [
+          "Episode I",
+          "Set 11"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual27-Dark/large/moresystemswillrallytoourcause.gif",
+        "title": "More Systems Will Rally To Our Cause / The Galaxy Torn Apart",
+        "type": "Objective",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/More Systems Will Rally To Our Cause/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "227_11",
+      "id": 7505,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "227"
+        }
+      ],
+      "rarity": "U",
+      "rulings": [
+        "May play cards without ability (such as 4-LOM, IG-88 (V), Guri, and Blizzard Walker) regardless of Episode I icon."
+      ],
+      "set": "227",
+      "side": "Dark"
+    },
+    {
+      "abbr": [
+        "RV"
+      ],
+      "front": {
+        "ability": "2",
+        "deploy": "2",
+        "destiny": "3",
+        "forfeit": "4",
+        "gametext": "Once per game, may deploy a sandcrawler here from Reserve Deck; reshuffle. While driving a sandcrawler, it moves for free, may not be targeted by weapons, and Run'heb adds one battle destiny. Once during your turn, may choose a player to activate 1 Force.",
+        "icons": [
+          "Set 27"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual27-Dark/large/runhebvoend.gif",
+        "lore": "Jawa mechanic.",
+        "power": "2",
+        "subType": "Alien",
+        "title": "•Run'heb Voend",
+        "type": "Character",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Run'heb Voend/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "227_12",
+      "id": 7506,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "227"
+        }
+      ],
+      "rarity": "C2",
+      "set": "227",
+      "side": "Dark"
+    },
+    {
+      "abbr": [
+        "SCC"
+      ],
+      "front": {
+        "darkSideIcons": 2,
+        "destiny": "0",
+        "gametext": "Dark: While you occupy with a non-unique [Presence] card, your non-unique [Presence] cards are power +1 at same and related sites. Light: Deploys only to a [Clone Army] or [Separatist] system. Immune to Ounee Ta.",
+        "icons": [
+          "Exterior",
+          "Planet",
+          "Scomp Link",
+          "Episode I",
+          "Separatist",
+          "Set 27"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual27-Dark/large/separatistcommandcenter.gif",
+        "lightSideIcons": 1,
+        "subType": "Site",
+        "title": "<>Separatist Command Center",
+        "type": "Location",
+        "uniqueness": "<>",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Separatist Command Center/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "227_13",
+      "id": 7507,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "227"
+        }
+      ],
+      "rarity": "U2",
+      "set": "227",
+      "side": "Dark"
+    },
+    {
+      "abbr": [
+        "SVD"
+      ],
+      "front": {
+        "deploy": "1",
+        "destiny": "0",
+        "extraText": [
+          "No Hyperdrive"
+        ],
+        "forfeit": "3",
+        "gametext": "* Power = number of [Separatist] systems on table. While alone, you may not Force drain here. If just lost, may stack on Droid Racks. Immune to Short-range Fighters.",
+        "icons": [
+          "Episode I",
+          "Separatist",
+          "Trade Federation",
+          "Pilot",
+          "Presence",
+          "Set 27"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual27-Dark/large/swarmingvulturedroid.gif",
+        "lore": "Tactical support starfighter that utilizes learning subroutines to maximize the effectiveness of droid starfighter offensive strategies.",
+        "maneuver": "3",
+        "power": "*",
+        "subType": "Starfighter: Droid Starfighter",
+        "title": "••• •••Swarming Vulture Droid",
+        "type": "Starship",
+        "uniqueness": "*** ***",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Swarming Vulture Droid/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "227_14",
+      "id": 7508,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "227"
+        }
+      ],
+      "rarity": "U",
+      "set": "227",
+      "side": "Dark"
+    },
+    {
+      "back": {
+        "darkSideIcons": 2,
+        "destiny": "0",
+        "gametext": "Utapau (Republic Controlled): Dark: If you just initiated a Force drain (or won a battle) at an Utapau site, 'conquer' (flip) Utapau. Light: If you control, Jedi deploy -1 to Utapau sites. Utapau (Separatist Controlled): Dark: During battle here, you may draw one battle destiny if unable to otherwise. Light: If you just initiated a Force drain (or won a battle) at an Utapau site, 'conquer' (flip) Utapau.",
+        "icons": [
+          "Planet",
+          "Episode I",
+          "Separatist",
+          "Set 27"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual27-Dark/large/utapauseparatistcontrolled.gif",
+        "lightSideIcons": 1,
+        "parsec": "4",
+        "subType": "System",
+        "title": "•Utapau (Republic Controlled) / •Utapau (Separatist Controlled)",
+        "type": "Location",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Utapau Separatist Controlled/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "front": {
+        "darkSideIcons": 2,
+        "destiny": "0",
+        "gametext": "Utapau (Republic Controlled): Dark: If you just initiated a Force drain (or won a battle) at an Utapau site, 'conquer' (flip) Utapau. Light: If you control, Jedi deploy -1 to Utapau sites. Utapau (Separatist Controlled): Dark: During battle here, you may draw one battle destiny if unable to otherwise. Light: If you just initiated a Force drain (or won a battle) at an Utapau site, 'conquer' (flip) Utapau.",
+        "icons": [
+          "Planet",
+          "Episode I",
+          "Clone Army",
+          "Set 27"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual27-Dark/large/utapaurepubliccontrolled.gif",
+        "lightSideIcons": 1,
+        "parsec": "4",
+        "subType": "System",
+        "title": "•Utapau (Republic Controlled) / •Utapau (Separatist Controlled)",
+        "type": "Location",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Utapau Republic Controlled/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "227_15",
+      "id": 7509,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "227"
+        }
+      ],
+      "rarity": "C",
+      "set": "227",
+      "side": "Dark"
+    },
+    {
+      "abbr": [
+        "UPC"
+      ],
+      "front": {
+        "darkSideIcons": 2,
+        "destiny": "0",
+        "gametext": "Dark: During opponent's turn, if you control with a [Separatist] leader, may activate 1 Force. Light: During battle here, you must first use 1 Force to fire a weapon.",
+        "icons": [
+          "Exterior",
+          "Planet",
+          "Episode I",
+          "Separatist",
+          "Set 27"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual27-Dark/large/utapaupaucity.gif",
+        "lightSideIcons": 1,
+        "subType": "Site",
+        "title": "•Utapau: Pau City",
+        "type": "Location",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Utapau Pau City/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "227_16",
+      "id": 7510,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "227"
+        }
+      ],
+      "rarity": "F",
+      "set": "227",
+      "side": "Dark"
+    },
+    {
+      "abbr": [
+        "WOB"
+      ],
+      "front": {
+        "ability": "2",
+        "deploy": "2",
+        "destiny": "2",
+        "forfeit": "4",
+        "gametext": "Adds 2 to power of anything he pilots. Devastator deploys -2 here. While piloting a Star Destroyer, it is hyperspeed +1 and opponent must first use 1 Force (if possible) to draw a card for battle destiny here. Once per game, may deploy Imperial Pilot here from outside your deck.",
+        "icons": [
+          "Pilot",
+          "Set 27"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual27-Dark/large/warrantofficerbachenkall.gif",
+        "lore": "Warrant Officer Bachenkall is typical of the many graduates of the Imperial Training Academy on Raithal. The sector naval school trains pilots in capital starship helm tactics.",
+        "power": "2",
+        "subType": "Imperial",
+        "title": "•Warrant Officer Bachenkall",
+        "type": "Character",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Warrant Officer Bachenkall/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "227_17",
+      "id": 7511,
+      "legacy": false,
+      "printings": [
+        {
+          "set": "227"
+        }
+      ],
+      "rarity": "C",
       "set": "227",
       "side": "Dark"
     }
