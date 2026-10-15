@@ -2956,7 +2956,7 @@
       "gempId": "215_25",
       "id": 20069,
       "legacy": false,
-      "nextId": 6899,
+      "nextId": 20080,
       "printings": [
         {
           "set": "215"
@@ -3397,6 +3397,48 @@
         "The card stacked from hand face down is not revealed (unlike cards that say to 'lose 1 Force and stack' such as I Feel The Conflict)."
       ],
       "set": "225",
+      "side": "Dark"
+    },
+    {
+      "abbr": [
+        "EO"
+      ],
+      "front": {
+        "destiny": "0",
+        "errataDate": "2026-03-09",
+        "errataNotes": "Previous text: If you did not deploy an Objective, deploy on Executor. We're Not Going To Attack?: Your squadrons are destiny = 0. You may not deploy squadrons or non-Imperial starships. Unless you occupy a battleground site, Dreaded Imperial Starfleet is suspended. The Alliance Will Die...: Flagship Operations does not require any Executor sites on table to deploy. ...As Will Your Friends: At battleground systems where you have a piloted capital starship and a piloted TIE, your Force drains = 2. At sites related to systems you control, during battle may add one destiny to total power. If just lost, lose 3 Force.",
+        "errataSymbol": "E1",
+        "gametext": "If you did not deploy an Objective, deploy on table. We're Not Going To Attack?: Once per turn, may deploy a battleground system from Reserve Deck; reshuffle. You may not deploy non-Imperial starships. Unless you occupy a battleground site, Dreaded Imperial Starfleet is suspended. The Alliance Will Die...: Flagship Operations does not require any Executor sites on table to deploy, and does not target squadrons. ...As Will Your Friends: At battleground systems where you have a piloted capital starship/TIE pair, Force drains = 2. During battle at a site related to a system you occupy, may add one destiny to total power and/or re-circulate.",
+        "icons": [
+          "Set 15"
+        ],
+        "imageUrl": "https://res.starwarsccg.org/cards/Virtual15-Dark/large/emperorsorders.gif",
+        "title": "•Emperor's Orders",
+        "type": "Epic Event",
+        "uniqueness": "*",
+        "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Emperors Orders/image.png",
+        "printableSlipType": "VIRTUAL"
+      },
+      "gempId": "215_25",
+      "id": 20080,
+      "legacy": false,
+      "nextId": 6899,
+      "previousId": 20069,
+      "printings": [
+        {
+          "set": "215"
+        }
+      ],
+      "pulls": [
+        "A battleground system"
+      ],
+      "rarity": "C",
+      "rulings": [
+        "A TIE inside a star destroyer is landed/unpiloted so it does not give Force drain = 2.",
+        "When Force drains = 2, they cannot be modified, but the Force loss could be modified by (for example) It Could Be Worse.",
+        "Adding one destiny to power and re-circulating are separate top-level actions, and each is once per battle."
+      ],
+      "set": "215",
       "side": "Dark"
     }
   ]
