@@ -5270,7 +5270,8 @@
         "type": "Character",
         "uniqueness": "*",
         "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Baze Malbus With Cannon/image.png",
-        "printableSlipType": "VIRTUAL"
+        "printableSlipType": "VIRTUAL",
+        "armor": "5"
       },
       "gempId": "207_1",
       "id": 5164,
@@ -8619,7 +8620,7 @@
           "Theed Palace"
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/TheedPalace-Light/large/captaintarpals.gif",
-        "lore": "Gungan leader of the forces that patrol and protect the city of Otoh Gunga. Consistantly placed in the top ten of the Big Nasty Free-For-All.",
+        "lore": "Gungan leader of the forces that patrol and protect the city of Otoh Gunga. Consistently placed in the top ten of the Big Nasty Free-For-All.",
         "power": "3",
         "subType": "Alien",
         "title": "•Captain Tarpals",
@@ -9737,7 +9738,7 @@
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/Endor-Light/large/chewiesatst.gif",
         "landspeed": "3",
-        "lore": "Enclosed Chewie's daring capture of an Imperial AT-ST helped turn the tide in the Battle of Endor.",
+        "lore": "Enclosed. Chewie's daring capture of an Imperial AT-ST helped turn the tide in the Battle of Endor.",
         "power": "3",
         "subType": "Combat: AT-ST",
         "title": "•Chewie's AT-ST",
@@ -9864,7 +9865,7 @@
         "deploy": "4",
         "destiny": "2",
         "forfeit": "5",
-        "gametext": "If a battle was just initiated here, may peek at the top card of any Reserve Desk; return it or place it on top of owner's Force Pile. If just lost, may take into hand from reserve deck; reshuffle or retrieve Baze. Once per game, you may re-circulate.",
+        "gametext": "If a battle was just initiated here, may peek at the top card of any Reserve Deck; return it or place it on top of owner's Force Pile. If just lost, may take into hand from reserve deck; reshuffle or retrieve Baze. Once per game, you may re-circulate.",
         "icons": [
           "Warrior",
           "Set 7"
@@ -9877,7 +9878,10 @@
         "type": "Character",
         "uniqueness": "*",
         "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Chirrut Imwe (AI)/image.png",
-        "printableSlipType": "VIRTUAL"
+        "printableSlipType": "VIRTUAL",
+        "extraText": [
+          "Force-Sensitive"
+        ]
       },
       "gempId": "207_2",
       "id": 7024,
@@ -12564,7 +12568,7 @@
     {
       "front": {
         "destiny": "4",
-        "gametext": "If opponent just initiated a Tallon Roll, add your maneuver + ability of one pilot on you targeted starfighter to your total. OR Decrease the maneuver of an opponent's starfighter by 1 for remainder of this turn.",
+        "gametext": "If opponent just initiated a Tallon Roll, add your maneuver + ability of one pilot on your targeted starfighter to your total. OR Decrease the maneuver of an opponent's starfighter by 1 for remainder of this turn.",
         "icons": [
           "A New Hope"
         ],
@@ -13813,7 +13817,7 @@
         "deploy": "3",
         "destiny": "2",
         "forfeit": "4",
-        "gametext": "During any move phase, may fire a weapon at an Undercover spy. Permanent weapon is Clone Snipe Rifle (may target a character or vehicle for free; draw destiny; target hit if destiny +2 > defense value).",
+        "gametext": "During any move phase, may fire a weapon at an Undercover spy. Permanent weapon is Clone Sniper Rifle (may target a character or vehicle for free; draw destiny; target hit if destiny +2 > defense value).",
         "icons": [
           "Warrior",
           "Permanent Weapon",
@@ -19107,7 +19111,7 @@
       "counterpart": "Masterful Move",
       "front": {
         "destiny": "6",
-        "gametext": "Use 1 Force to take a dejarik or holosite into hand from Reserve Deck; reshuffle. OR Cancel a Force drain at a holosite. OR If opponent is about to place your character our of play, place that character in your Lost Pile instead.",
+        "gametext": "Use 1 Force to take a dejarik or holosite into hand from Reserve Deck; reshuffle. OR Cancel a Force drain at a holosite. OR If opponent is about to place your character out of play, place that character in your Lost Pile instead.",
         "icons": [
           "Set 1"
         ],
@@ -20204,7 +20208,7 @@
         "deploy": "2",
         "destiny": "3",
         "forfeit": "4",
-        "gametext": "Subtracts 2 from deploy cost of each of your starfighters to same docking bay. Once during each of your control phases, may take one Advanced Preparation, Rebel Planners or docking bay into hand from Reserve Deck; reshuffle.",
+        "gametext": "Subtracts 2 from deploy cost of each of your starfighters to same docking bay. Once during each of your control phases, may take one Advance Preparation, Rebel Planners or docking bay into hand from Reserve Deck; reshuffle.",
         "icons": [
           "Warrior",
           "Special Edition"
@@ -22370,7 +22374,7 @@
           "Hoth"
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/Hoth-Light/large/golanlaserbattery.gif",
-        "lore": "Modified Golan Arms DForfeit: 9 anti-infantry battery. Proton-shielded control cylinder capped by one or more rotating turret-mounted laser cannons.",
+        "lore": "Modified Golan Arms DF.9 anti-infantry battery. Proton-shielded control cylinder capped by one or more rotating turret-mounted laser cannons.",
         "subType": "Artillery",
         "title": "Golan Laser Battery",
         "type": "Weapon",
@@ -23158,7 +23162,7 @@
         "deploy": "1",
         "destiny": "3",
         "forfeit": "2",
-        "gametext": "May add 2 pilots or passengers. Immune to attrition < 3 when Lieutenat Telsij or Karie Neth piloting (when both immune to attrition < 5 and adds one destiny to power only).",
+        "gametext": "May add 2 pilots or passengers. Immune to attrition < 3 when Lieutenant Telsij or Karie Neth piloting (when both immune to attrition < 5 and adds one destiny to power only).",
         "hyperspeed": "4",
         "icons": [
           "Nav Computer",
@@ -25012,7 +25016,7 @@
           "hologram"
         ],
         "destiny": "3",
-        "gametext": "During battle, target an opponent's character of ability of < 2 present with your Jedi;  target is excluded from battle. OR Cancel a 'react'. OR If Obi-Wan is at a battleground site, and your Rebel of Republic character (or Leia) is in battle at another location, add one battle destiny.",
+        "gametext": "During battle, target an opponent's character of ability of < 2 present with your Jedi;  target is excluded from battle. OR Cancel a 'react'. OR If Obi-Wan is at a battleground site, and your Rebel or Republic character (or Leia) is in battle at another location, add one battle destiny.",
         "icons": [
           "Set 7"
         ],
@@ -27195,7 +27199,10 @@
         "type": "Character",
         "uniqueness": "*",
         "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/IIco Munica/image.png",
-        "printableSlipType": "VIRTUAL"
+        "printableSlipType": "VIRTUAL",
+        "extraText": [
+          "Force-Attuned"
+        ]
       },
       "gempId": "208_7",
       "id": 5219,
@@ -28097,7 +28104,7 @@
         "destiny": "4",
         "gametext": "If you must lose Force for any reason, reduce the loss by X amount by using X Force.",
         "imageUrl": "https://res.starwarsccg.org/cards/Premiere-Light/large/itcouldbeworse.gif",
-        "lore": "After escaping Detention Block AA-23. Rebels found themselves in the trash compactor. Leia point out, 'It could be worse.' It soon was.",
+        "lore": "After escaping Detention Block AA-23. Rebels found themselves in the trash compactor. Leia pointed out, 'It could be worse.' It soon was.",
         "subType": "Used",
         "title": "It Could Be Worse",
         "type": "Interrupt"
@@ -32133,7 +32140,7 @@
       ],
       "front": {
         "destiny": "4",
-        "gametext": "Deploy on any system. Once per game, may take Home One into from Reserve Deck; reshuffle. Your Force drains are +1 at battleground systems where you have a Star Cruiser piloted by a character. Effecte canceled when Rendezvous Point on table. (Immune to Alter.)",
+        "gametext": "Deploy on any system. Once per game, may take Home One into from Reserve Deck; reshuffle. Your Force drains are +1 at battleground systems where you have a Star Cruiser piloted by a character. Effect canceled when Rendezvous Point on table. (Immune to Alter.)",
         "icons": [
           "Death Star II"
         ],
@@ -33285,7 +33292,7 @@
           "Death Star II"
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/DeathStarII-Light/large/liberty.gif",
-        "lore": "Winged star cruiser. Military transport for technical units. Afforced special care by the Alliance's top engineers.",
+        "lore": "Winged star cruiser. Military transport for technical units. Afforded special care by the Alliance's top engineers.",
         "power": "7",
         "subType": "Capital: Mon Calamari Star Cruiser",
         "title": "•Liberty",
@@ -36411,7 +36418,10 @@
         "type": "Character",
         "uniqueness": "*",
         "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Major Caluan Ematt/image.png",
-        "printableSlipType": "VIRTUAL"
+        "printableSlipType": "VIRTUAL",
+        "extraText": [
+          "Force-Attuned"
+        ]
       },
       "gempId": "207_7",
       "id": 5169,
@@ -36636,7 +36646,7 @@
         "deploy": "2",
         "destiny": "2",
         "forfeit": "4",
-        "gametext": "If opponent just looked at cards in their deck or pile, after replacing, you may peek at the top card of that deck or pile. At the start of your control phase, if the top card of your lost pile is a Resistance character or [Restistance] starship, opponent loses 1 Force.",
+        "gametext": "If opponent just looked at cards in their deck or pile, after replacing, you may peek at the top card of that deck or pile. At the start of your control phase, if the top card of your lost pile is a Resistance character or [Resistance] starship, opponent loses 1 Force.",
         "icons": [
           "Episode VII",
           "Warrior",
@@ -39605,7 +39615,7 @@
           "A New Hope"
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/ANewHope-Light/large/nalancheel.gif",
-        "lore": "Male Bith musician. Though he enjoys playing his Bandfill in Figrin D'an's band, he misses the bubblink pink swamps of his homeworld, Clak'dor VII.",
+        "lore": "Male Bith musician. Though he enjoys playing his Bandfill in Figrin D'an's band, he misses the bubbling pink swamps of his homeworld, Clak'dor VII.",
         "power": "2",
         "subType": "Alien",
         "title": "•Nalan Cheel",
@@ -39679,7 +39689,7 @@
       "front": {
         "darkSideIcons": 1,
         "destiny": "0",
-        "gametext": "Light: Force drain +1 here. Once per game, if your control, may take Han's Toolkit into hand from Reserve Deck; reshuffle. Dark: Starships piloted by bounty hunters are power +1 here. All starships may move between here and Nal Hutta as a react.",
+        "gametext": "Light: Force drain +1 here. Once per game, if you control, may take Han's Toolkit into hand from Reserve Deck; reshuffle. Dark: Starships piloted by bounty hunters are power +1 here. All starships may move between here and Nal Hutta as a react.",
         "icons": [
           "Planet",
           "Coruscant",
@@ -46909,7 +46919,7 @@
       "counterpart": "Imperial Command",
       "front": {
         "destiny": "4",
-        "gametext": "Each of your admirals and generals is forfeit +1 for remainder of turn. OR If your admiral is in battle at a system (or your general, except Obi-Wan, is in battle at a site), you may either add one battle destiny or prevent opponent from drawing more that one battle destiny.",
+        "gametext": "Each of your admirals and generals is forfeit +1 for remainder of turn. OR If your admiral is in battle at a system (or your general, except Obi-Wan, is in battle at a site), you may either add one battle destiny or prevent opponent from drawing more than one battle destiny.",
         "icons": [
           "Death Star II"
         ],
@@ -49451,7 +49461,10 @@
         "type": "Character",
         "uniqueness": "*",
         "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Rey (AI)/image.png",
-        "printableSlipType": "VIRTUAL"
+        "printableSlipType": "VIRTUAL",
+        "extraText": [
+          "Force-Sensitive"
+        ]
       },
       "gempId": "204_9",
       "id": 5870,
@@ -49567,7 +49580,10 @@
         "type": "Character",
         "uniqueness": "*",
         "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Rey With Lightsaber (AI)/image.png",
-        "printableSlipType": "VIRTUAL"
+        "printableSlipType": "VIRTUAL",
+        "extraText": [
+          "Force-Sensitive"
+        ]
       },
       "gempId": "209_10",
       "id": 7035,
@@ -53881,7 +53897,7 @@
       "front": {
         "darkSideIcons": 1,
         "destiny": "0",
-        "gametext": "Light: Your docking bay transit from here requires 2 Force. Your starfighters deploy -1 (or 2 is freighter) here. May not be deployed to Bespin, Dagobah, Endor, Hoth or Yavin 4. Dark: Your docking bay transit from here requires 3 Force. Your pilots deploy +1 here. May not be deployed to Bespin, Dagobah, Endor, Hoth or Yavin 4.",
+        "gametext": "Light: Your docking bay transit from here requires 2 Force. Your starfighters deploy -1 (or -2 if freighter) here. May not be deployed to Bespin, Dagobah, Endor, Hoth or Yavin 4. Dark: Your docking bay transit from here requires 3 Force. Your pilots deploy +1 here. May not be deployed to Bespin, Dagobah, Endor, Hoth or Yavin 4.",
         "icons": [
           "Exterior",
           "Planet",
@@ -53919,7 +53935,7 @@
         "errataSymbol": "E1",
         "gametext": "Sell one of your vehicles or droids at Mos Eisley or same site as Wioslea. Draw two destiny (three destiny if vehicle is Luke's X-34 Landspeeder). The total is the 'offer,' which you must accept. Activate that much Force; then vehicle or droid is lost.",
         "imageUrl": "https://res.starwarsccg.org/cards/Premiere-Light/large/spaceportspeeders.gif",
-        "lore": "Spacesport Speeders buys, trades and sells floater. Wioslea is known as a shrewd bargainer. Luke got 2,000 credits for his X-24 speeder.",
+        "lore": "Spaceport Speeders buys, trades and sells floater. Wioslea is known as a shrewd bargainer. Luke got 2,000 credits for his X-24 speeder.",
         "subType": "Used",
         "title": "•••Spaceport Speeders",
         "type": "Interrupt",
@@ -54864,7 +54880,7 @@
       "front": {
         "darkSideIcons": 1,
         "destiny": "0",
-        "gametext": "Light: To move your starship between here and Death Star II, system it orbits, or Mon Calmari requires -1 Force. Dark: Your starships deploy +1 here.",
+        "gametext": "Light: To move your starship between here and Death Star II, system it orbits, or Mon Calamari requires -1 Force. Dark: Your starships deploy +1 here.",
         "icons": [
           "Planet",
           "Death Star II"
@@ -57651,7 +57667,7 @@
           "Jabba's Palace"
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/JabbasPalace-Light/large/tessek.gif",
-        "lore": "Quarien accountant. Embezzling from Jabba. Leader. Escaped Mon Calamari after its subjugation by the Empire. Plotting to kill Jabba and free the Hutt's captives.",
+        "lore": "Quarren accountant. Embezzling from Jabba. Leader. Escaped Mon Calamari after its subjugation by the Empire. Plotting to kill Jabba and free the Hutt's captives.",
         "power": "1",
         "subType": "Alien",
         "title": "•Tessek",
@@ -58276,7 +58292,7 @@
     {
       "front": {
         "destiny": "4",
-        "gametext": "Deploy on Tatooine system or Dagobah system. Target another system. At locations related to target system, opponent's Force drain modifiers are canceled. Effect canceled of opponent controls this system. (Immune to Alter.)",
+        "gametext": "Deploy on Tatooine system or Dagobah system. Target another system. At locations related to target system, opponent's Force drain modifiers are canceled. Effect canceled if opponent controls this system. (Immune to Alter.)",
         "icons": [
           "Special Edition"
         ],
@@ -62427,7 +62443,7 @@
       "counterpart": "Imperial Decree (V)",
       "front": {
         "destiny": "5",
-        "gametext": "Deploy on table. Whenever you lost Force (except from a Force drain or your card) during opponent's control phase, unless opponent occupies more battlegrounds that you, may reduce loss (to a minimum of 1) by the number of battlegrounds you occupy. (Immune to Alter.)",
+        "gametext": "Deploy on table. Whenever you lost Force (except from a Force drain or your card) during opponent's control phase, unless opponent occupies more battlegrounds than you, may reduce loss (to a minimum of 1) by the number of battlegrounds you occupy. (Immune to Alter.)",
         "icons": [
           "Set 6"
         ],
@@ -73328,7 +73344,10 @@
         "type": "Character",
         "uniqueness": "*",
         "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Solo (AI)/image.png",
-        "printableSlipType": "VIRTUAL"
+        "printableSlipType": "VIRTUAL",
+        "extraText": [
+          "Force-Attuned"
+        ]
       },
       "gempId": "204_11",
       "id": 7144,
@@ -78018,7 +78037,10 @@
         "type": "Character",
         "uniqueness": "*",
         "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Lor San Tekka (AI)/image.png",
-        "printableSlipType": "VIRTUAL"
+        "printableSlipType": "VIRTUAL",
+        "extraText": [
+          "Force-Sensitive"
+        ]
       },
       "gempId": "204_7",
       "id": 7377,
@@ -80308,7 +80330,10 @@
         "type": "Character",
         "uniqueness": "*",
         "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Galen Erso (ALT)/image.png",
-        "printableSlipType": "VIRTUAL"
+        "printableSlipType": "VIRTUAL",
+        "extraText": [
+          "Force-Attuned"
+        ]
       },
       "gempId": "209_4",
       "id": 7484,

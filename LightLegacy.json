@@ -415,7 +415,9 @@
         "parsec": "2",
         "subType": "System",
         "title": "•Alderaan (Blown Away)",
-        "type": "Location"
+        "type": "Location",
+        "lightSideIcons": 2,
+        "darkSideIcons": 0
       },
       "id": 5328,
       "legacy": true,
@@ -969,7 +971,8 @@
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/legacy/VirtualBlock9-Light/large/assaultonmuunilinst.gif",
         "title": "•Assault On Muunilinst",
-        "type": "Mission"
+        "type": "Mission",
+        "gametext": "Deploy on Begun, The Clone War Has. Unless a card stacked here, if you control three Muunilinst locations (and opponent controls no Muunilinst locations), opponent loses 1 Force (cannot be reduced) and stacks lost card here face down (Mission complete). {Reward}: Your Force drains at Muunilinst locations are +1 and, once per turn, may raise your converted Muunilinst site to the top. {Turn The Tide}: If opponent controls two Muunilinst locations, place this Mission in Used Pile."
       },
       "id": 5356,
       "legacy": true,
@@ -1656,7 +1659,9 @@
         "imageUrl": "https://res.starwarsccg.org/cards/legacy/VirtualBlock5-Light/large/blockadeflagshipprison.gif",
         "subType": "Site",
         "title": "•Blockade Flagship: Prison",
-        "type": "Location"
+        "type": "Location",
+        "lightSideIcons": 1,
+        "darkSideIcons": 1
       },
       "id": 5385,
       "legacy": true,
@@ -3269,7 +3274,9 @@
         "imageUrl": "https://res.starwarsccg.org/cards/legacy/VirtualBlock5-Light/large/coruscantjediarchives.gif",
         "subType": "Site",
         "title": "•Coruscant: Jedi Archives",
-        "type": "Location"
+        "type": "Location",
+        "lightSideIcons": 1,
+        "darkSideIcons": 0
       },
       "id": 5455,
       "legacy": true,
@@ -3320,7 +3327,9 @@
         "imageUrl": "https://res.starwarsccg.org/cards/legacy/VirtualBlock7-Light/large/coruscantlowerlevels.gif",
         "subType": "Site",
         "title": "•Coruscant: Lower Levels",
-        "type": "Location"
+        "type": "Location",
+        "lightSideIcons": 2,
+        "darkSideIcons": 1
       },
       "id": 5457,
       "legacy": true,
@@ -3345,7 +3354,9 @@
         "imageUrl": "https://res.starwarsccg.org/cards/legacy/VirtualBlock7-Light/large/coruscantmainpowerplant.gif",
         "subType": "Site",
         "title": "•Coruscant: Main Power Plant",
-        "type": "Location"
+        "type": "Location",
+        "lightSideIcons": 1,
+        "darkSideIcons": 1
       },
       "id": 5458,
       "legacy": true,
@@ -3396,7 +3407,9 @@
         "imageUrl": "https://res.starwarsccg.org/cards/legacy/VirtualBlock5-Light/large/coruscantsenatelandingplatform.gif",
         "subType": "Site",
         "title": "•Coruscant: Senate Landing Platform",
-        "type": "Location"
+        "type": "Location",
+        "lightSideIcons": 2,
+        "darkSideIcons": 1
       },
       "id": 5460,
       "legacy": true,
@@ -3565,7 +3578,9 @@
         "imageUrl": "https://res.starwarsccg.org/cards/legacy/VirtualBlock4-Light/large/dantooinebasedockingbay.gif",
         "subType": "Site",
         "title": "•Dantooine: Base - Docking Bay",
-        "type": "Location"
+        "type": "Location",
+        "lightSideIcons": 1,
+        "darkSideIcons": 1
       },
       "id": 5470,
       "legacy": true,
@@ -3591,7 +3606,9 @@
         "imageUrl": "https://res.starwarsccg.org/cards/legacy/VirtualBlock4-Light/large/dantooinebaseoperationscenter.gif",
         "subType": "Site",
         "title": "•Dantooine: Base - Operations Center",
-        "type": "Location"
+        "type": "Location",
+        "lightSideIcons": 2,
+        "darkSideIcons": 1
       },
       "id": 5471,
       "legacy": true,
@@ -4260,7 +4277,9 @@
         "parsec": "2",
         "subType": "System",
         "title": "•Dressel",
-        "type": "Location"
+        "type": "Location",
+        "lightSideIcons": 2,
+        "darkSideIcons": 1
       },
       "id": 5499,
       "legacy": true,
@@ -4360,7 +4379,8 @@
         "imageUrl": "https://res.starwarsccg.org/cards/legacy/VirtualBlock4-Light/large/ejecteject.gif",
         "subType": "Immediate",
         "title": "Eject! Eject! (V)",
-        "type": "Effect"
+        "type": "Effect",
+        "lore": "The Guidenhouser ejection seat has saved many pilots from their exploding starships. However, system malfunctions have sometimes caused spontaneous ejection."
       },
       "id": 5505,
       "legacy": true,
@@ -5234,7 +5254,9 @@
         "imageUrl": "https://res.starwarsccg.org/cards/legacy/VirtualBlock9-Light/large/geonosisdockingbay.gif",
         "subType": "Site",
         "title": "•Geonosis: Docking Bay",
-        "type": "Location"
+        "type": "Location",
+        "lightSideIcons": 1,
+        "darkSideIcons": 1
       },
       "id": 5547,
       "legacy": true,
@@ -5260,7 +5282,9 @@
         "imageUrl": "https://res.starwarsccg.org/cards/legacy/VirtualBlock9-Light/large/geonosisforwardcommandcenter.gif",
         "subType": "Site",
         "title": "•Geonosis: Forward Command Center",
-        "type": "Location"
+        "type": "Location",
+        "lightSideIcons": 2,
+        "darkSideIcons": 0
       },
       "id": 5548,
       "legacy": true,
@@ -5285,7 +5309,9 @@
         "imageUrl": "https://res.starwarsccg.org/cards/legacy/VirtualBlock9-Light/large/geonosispetranakiarena.gif",
         "subType": "Site",
         "title": "•Geonosis: Petranaki Arena",
-        "type": "Location"
+        "type": "Location",
+        "lightSideIcons": 2,
+        "darkSideIcons": 1
       },
       "id": 5549,
       "legacy": true,
@@ -5310,7 +5336,9 @@
         "imageUrl": "https://res.starwarsccg.org/cards/legacy/VirtualBlock9-Light/large/geonosisrockyplains.gif",
         "subType": "Site",
         "title": "•Geonosis: Rocky Plains",
-        "type": "Location"
+        "type": "Location",
+        "lightSideIcons": 2,
+        "darkSideIcons": 2
       },
       "id": 5550,
       "legacy": true,
@@ -5499,7 +5527,11 @@
         "power": "*",
         "subType": "Vicious",
         "title": "Gundark",
-        "type": "Creature"
+        "type": "Creature",
+        "ferocity": "*",
+        "extraText": [
+          "CLAWS: 4"
+        ]
       },
       "id": 5558,
       "legacy": true,
@@ -6085,7 +6117,9 @@
         "imageUrl": "https://res.starwarsccg.org/cards/legacy/VirtualBlock8-Light/large/hothechocorridor.gif",
         "subType": "Site",
         "title": "•Hoth: Echo Corridor (v)",
-        "type": "Location"
+        "type": "Location",
+        "lightSideIcons": 1,
+        "darkSideIcons": 0
       },
       "id": 5584,
       "legacy": true,
@@ -6159,7 +6193,8 @@
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/legacy/VirtualBlock9-Light/large/huntdownthedarkacolyte.gif",
         "title": "•Hunt Down The Dark Acolyte",
-        "type": "Mission"
+        "type": "Mission",
+        "gametext": "Deploy on Begun, The Clone War Has. Opponent's characters of ability > 4 are 'acolytes.' Once during your move phase, if no card here, may target Anakin (or Obi-Wan) and initiate a duel with an 'acolyte' present. Each player draws two destiny (those destinies may not be canceled). Add ability. If your total higher, stack 'acolyte' here face down (Mission complete). Otherwise, place target in your Used Pile. {Reward}: May immediately [upload] a non-character card. {Turn the Tide}: If a card with the same persona as card here is deployed, place this Mission in Used Pile."
       },
       "id": 5592,
       "legacy": true,
@@ -6612,7 +6647,7 @@
       "conceptBy": "(Original concept by Chuck Sonnenburg - PC Volunteer Award 2005)",
       "front": {
         "destiny": "0",
-        "gametext": "If you deployed only 1 location (unless it is [Coruscant], [Reflections 3], or [Special Edition]), play instead of a Starting Interrupt. Deploy from Reserve Deck Battle Plan, Do, Or Do Not, and a [Immune to Alter] Effect. Revolution, insert cards, and your [Maintenance] and [Permanent Weapon] cards are lost. You go first. Choose one:",
+        "gametext": "If you deployed only 1 location (unless it is [Coruscant], [Reflections 3], or [Special Edition]), play instead of a Starting Interrupt. [download] Battle Plan, Do, Or Do Not, and a [Immune to Alter] Effect. Revolution, insert cards, and your [Maintenance] and [Permanent Weapon] cards are lost. You go first. Choose one: {Jedi}: Deploy on table. At start of your turn, turn all cards here face up. During your turn, may use 1 Force for each card stacked here to stack a card from hand face up here. Instead of using X Force, may turn X cards here face down. {Agent of Evil}: [upload] Luke and a site. Deploy on opponent's side of table; their total battle and duel destiny is +2.",
         "icons": [
           "Dagobah"
         ],
@@ -6641,7 +6676,8 @@
         "imageUrl": "https://res.starwarsccg.org/cards/legacy/VirtualBlock6-Light/large/itsnotmyfault.gif",
         "subType": "Used",
         "title": "•It's Not My Fault! (V)",
-        "type": "Interrupt"
+        "type": "Interrupt",
+        "lore": "\"It's not fair! The transfer circuits are working!\""
       },
       "id": 5615,
       "legacy": true,
@@ -6726,7 +6762,10 @@
         "power": "0",
         "subType": "Rebel",
         "title": "•Jabba's Prize/Jabba's Prize",
-        "type": "Character"
+        "type": "Character",
+        "extraText": [
+          "Carbon-Frozen"
+        ]
       },
       "id": 5620,
       "legacy": true,
@@ -7233,7 +7272,9 @@
         "imageUrl": "https://res.starwarsccg.org/cards/legacy/VirtualBlock5-Light/large/kashyyyksacredforest.gif",
         "subType": "Site",
         "title": "•Kashyyyk: Sacred Forest",
-        "type": "Location"
+        "type": "Location",
+        "lightSideIcons": 2,
+        "darkSideIcons": 2
       },
       "id": 5645,
       "legacy": true,
@@ -7259,7 +7300,9 @@
         "imageUrl": "https://res.starwarsccg.org/cards/legacy/VirtualBlock5-Light/large/kashyyykwookieehavenforest.gif",
         "subType": "Site",
         "title": "•Kashyyyk: Wookiee Haven (Forest)",
-        "type": "Location"
+        "type": "Location",
+        "lightSideIcons": 2,
+        "darkSideIcons": 1
       },
       "id": 5646,
       "legacy": true,
@@ -7351,7 +7394,7 @@
     {
       "front": {
         "destiny": "3",
-        "gametext": "Deploy on Infiltration or non-[Virtual Block 4] Watch Your Step. May deploy Kessel from Reserve Deck; reshuffle. May target a scoundrel or smuggler at a non-Kessel system (target is immune to Set For Stun) If target is lost, place cards here in Used Pile. When target reaches Kessel, draw five 'parsec' destinies and stack them here (or this Mission is lost). Whenever you win a battle (or at start of your turn), take a card here in hand. When target returns to original system; Mission completed (counts as two Kessel Runs), Infiltration flips, may take into hand any one card from Reserve Deck; reshuffle. If total 'parsec' destiny < 12 when completed, may subtract 1 from each of opponent's destiny draws. May not be canceled.",
+        "gametext": "Deploy on Infiltration or non-[Virtual Block 4] Watch Your Step. May [download] Kessel. May target a scoundrel or smuggler at a non-Kessel system (target is immune to Set For Stun). If target is lost, place cards here in Used Pile. When target reaches Kessel, draw five 'parsec' destinies and stack them here (or this Mission is lost). Whenever you win a battle (or at start of your turn), take a card here into hand. When target returns to original system: Mission completed (counts as two Kessel Runs), Infiltration flips, and may [upload] a card. If total 'parsec' destiny < 12 when completed, may subtract 1 from each of opponent's destiny draws. May not be canceled.",
         "icons": [
           "Setup"
         ],
@@ -7460,7 +7503,10 @@
         "power": "4",
         "subType": "Rebel",
         "title": "•Kyle Katarn",
-        "type": "Character"
+        "type": "Character",
+        "extraText": [
+          "Force-Sensitive"
+        ]
       },
       "id": 5656,
       "legacy": true,
@@ -7488,7 +7534,10 @@
         "power": "4",
         "subType": "Rebel",
         "title": "•Kyle Katarn (AI)",
-        "type": "Character"
+        "type": "Character",
+        "extraText": [
+          "Force-Sensitive"
+        ]
       },
       "id": 5657,
       "legacy": true,
@@ -9039,7 +9088,10 @@
         "power": "5",
         "subType": "Rebel",
         "title": "•Master Kenobi",
-        "type": "Character"
+        "type": "Character",
+        "extraText": [
+          "Jedi Knight"
+        ]
       },
       "id": 5727,
       "legacy": true,
@@ -9429,7 +9481,9 @@
         "imageUrl": "https://res.starwarsccg.org/cards/legacy/VirtualBlock9-Light/large/muunilinstcityofharnaidan.gif",
         "subType": "Site",
         "title": "•Muunilinst: City Of Harnaidan",
-        "type": "Location"
+        "type": "Location",
+        "lightSideIcons": 2,
+        "darkSideIcons": 1
       },
       "id": 5747,
       "legacy": true,
@@ -9455,7 +9509,9 @@
         "imageUrl": "https://res.starwarsccg.org/cards/legacy/VirtualBlock9-Light/large/muunilinstdockingbay.gif",
         "subType": "Site",
         "title": "•Muunilinst: Docking Bay",
-        "type": "Location"
+        "type": "Location",
+        "lightSideIcons": 1,
+        "darkSideIcons": 1
       },
       "id": 5748,
       "legacy": true,
@@ -9480,7 +9536,9 @@
         "imageUrl": "https://res.starwarsccg.org/cards/legacy/VirtualBlock9-Light/large/muunilinstharnaidanplains.gif",
         "subType": "Site",
         "title": "•Muunilinst: Harnaidan Plains",
-        "type": "Location"
+        "type": "Location",
+        "lightSideIcons": 2,
+        "darkSideIcons": 1
       },
       "id": 5749,
       "legacy": true,
@@ -9505,7 +9563,9 @@
         "imageUrl": "https://res.starwarsccg.org/cards/legacy/VirtualBlock9-Light/large/muunilinstrepubliclandingsite.gif",
         "subType": "Site",
         "title": "•Muunilinst: Republic Landing Site",
-        "type": "Location"
+        "type": "Location",
+        "lightSideIcons": 2,
+        "darkSideIcons": 1
       },
       "id": 5750,
       "legacy": true,
@@ -9553,7 +9613,9 @@
         "imageUrl": "https://res.starwarsccg.org/cards/legacy/VirtualBlock8-Light/large/narshaddaascoundrelsrest.gif",
         "subType": "Site",
         "title": "•Nar Shaddaa: Scoundrel's Rest",
-        "type": "Location"
+        "type": "Location",
+        "lightSideIcons": 2,
+        "darkSideIcons": 2
       },
       "id": 5752,
       "legacy": true,
@@ -9578,7 +9640,9 @@
         "imageUrl": "https://res.starwarsccg.org/cards/legacy/VirtualBlock8-Light/large/narshaddaaundercity.gif",
         "subType": "Site",
         "title": "•Nar Shaddaa: Undercity",
-        "type": "Location"
+        "type": "Location",
+        "lightSideIcons": 2,
+        "darkSideIcons": 0
       },
       "id": 5753,
       "legacy": true,
@@ -9603,7 +9667,9 @@
         "imageUrl": "https://res.starwarsccg.org/cards/legacy/VirtualBlock8-Light/large/narshaddaaundercitystreet.gif",
         "subType": "Site",
         "title": "•Nar Shaddaa: Undercity Street",
-        "type": "Location"
+        "type": "Location",
+        "lightSideIcons": 2,
+        "darkSideIcons": 1
       },
       "id": 5754,
       "legacy": true,
@@ -10277,7 +10343,9 @@
         "imageUrl": "https://res.starwarsccg.org/cards/legacy/VirtualBlock4-Light/large/outpost.gif",
         "subType": "Site",
         "title": "<>Outpost",
-        "type": "Location"
+        "type": "Location",
+        "lightSideIcons": 1,
+        "darkSideIcons": 1
       },
       "id": 5784,
       "legacy": true,
@@ -11007,7 +11075,10 @@
         "power": "4",
         "subType": "Rebel",
         "title": "•Rahm Kota, Blind Jedi",
-        "type": "Character"
+        "type": "Character",
+        "extraText": [
+          "Jedi Knight"
+        ]
       },
       "id": 5822,
       "legacy": true,
@@ -11076,7 +11147,7 @@
     {
       "front": {
         "destiny": "2",
-        "gametext": "Deploy on table. Your Sandwhirl is canceled. At battleground systems where you have a Rebel of ability = 2 piloting a starfighter, and you have no Force drain bonus (except from the system card itself), your Force drains are +1. Your starfighters with a pilot character aboard are immune to attrition < 4. Once per turn, may deploy Close Air Support from Reserve Deck; reshuffle. Your Rebel starfighters without astromech capacit (except Falcon or Artoo-Detoo In Red 5) gain 'May add 1 astromech.'",
+        "gametext": "Deploy on table. Your Sandwhirl is canceled. At battleground systems where you have a Rebel of ability = 2 piloting a starfighter, and you have no Force drain bonus (except from the system card itself), your Force drains are +1. Your starfighters with a pilot character aboard are immune to attrition < 4. Once per turn, may [download] Close Air Support. Your Rebel starfighters without astromech capacity (except Falcon or Artoo-Detoo In Red 5) gain \"May add 1 astromech.\"",
         "icons": [
           "Setup",
           "Death Star II"
@@ -11108,7 +11179,9 @@
         "imageUrl": "https://res.starwarsccg.org/cards/legacy/VirtualBlock4-Light/large/rebelcellhiddenlandingsite.gif",
         "subType": "Site",
         "title": "<>Rebel Cell - Hidden Landing Site",
-        "type": "Location"
+        "type": "Location",
+        "lightSideIcons": 2,
+        "darkSideIcons": 1
       },
       "id": 5826,
       "legacy": true,
@@ -11133,7 +11206,9 @@
         "imageUrl": "https://res.starwarsccg.org/cards/legacy/VirtualBlock4-Light/large/rebelcellmonitoringstation.gif",
         "subType": "Site",
         "title": "<>Rebel Cell - Monitoring Station",
-        "type": "Location"
+        "type": "Location",
+        "lightSideIcons": 1,
+        "darkSideIcons": 1
       },
       "id": 5827,
       "legacy": true,
@@ -11158,7 +11233,9 @@
         "imageUrl": "https://res.starwarsccg.org/cards/legacy/VirtualBlock4-Light/large/rebelcellperimeter.gif",
         "subType": "Site",
         "title": "<>Rebel Cell - Perimeter",
-        "type": "Location"
+        "type": "Location",
+        "lightSideIcons": 1,
+        "darkSideIcons": 1
       },
       "id": 5828,
       "legacy": true,
@@ -11183,7 +11260,9 @@
         "imageUrl": "https://res.starwarsccg.org/cards/legacy/VirtualBlock8-Light/large/rebelcellrefugeequarter.gif",
         "subType": "Site",
         "title": "<>Rebel Cell - Refugee Quarter",
-        "type": "Location"
+        "type": "Location",
+        "lightSideIcons": 1,
+        "darkSideIcons": 1
       },
       "id": 5829,
       "legacy": true,
@@ -11209,7 +11288,9 @@
         "imageUrl": "https://res.starwarsccg.org/cards/legacy/VirtualBlock4-Light/large/rebelcellsituationroom.gif",
         "subType": "Site",
         "title": "<>Rebel Cell - Situation Room",
-        "type": "Location"
+        "type": "Location",
+        "lightSideIcons": 1,
+        "darkSideIcons": 1
       },
       "id": 5830,
       "legacy": true,
@@ -11690,7 +11771,9 @@
         "imageUrl": "https://res.starwarsccg.org/cards/legacy/VirtualBlock2-Light/large/redemptioncommandpost.gif",
         "subType": "Site",
         "title": "•Redemption: Command Post",
-        "type": "Location"
+        "type": "Location",
+        "lightSideIcons": 1,
+        "darkSideIcons": 0
       },
       "id": 5853,
       "legacy": true,
@@ -11938,7 +12021,7 @@
     {
       "front": {
         "destiny": "5",
-        "gametext": "Deploy on Begun The Clone War Has. Once per turn, may take Amidala into hand from Reserve Deck; reshuffle. Petranaki Arena is a prison. May deploy Amidala imprisoned there (for free) from hand or Lost Pile and, unless this Mission 'complete', Amidala lost if not imprisoned there and she may not be transferred while imprisoned. If you just initiated a Force drain at Petranaki Arena, release a captive there (Mission 'complete').",
+        "gametext": "Deploy on Begun, The Clone War Has. Once per turn, may [upload] Amidala. Petranaki Arena is a prison. May deploy Amidala imprisoned there (for free) from hand or Lost Pile and, unless this Mission complete, Amidala lost if not imprisoned there and she may not be transferred while imprisoned. If you just initiated a Force drain at Petranaki Arena, release a captive there (Mission complete). {Reward}: If Obi-Wan is present with Anakin or Amidala, attrition against opponent is +2. {Turn the Tide}: If opponent controls Petranaki Arena (or if Amidala not on table), place this Mission in Used Pile.",
         "icons": [
           "Episode I",
           "Clone Army"
@@ -11961,7 +12044,7 @@
     {
       "front": {
         "destiny": "0",
-        "gametext": "Deploy on Yavin 4. Once per turn, may deploy a battleground system or an interior Yavin 4 site. Whenever you Force drain at another battleground system, may draw destiny. Add 1 for each Yavin 4 site on table (2 if you occupy). If total destiny > 6, stack top card from either player's Reserve Deck there (limit one per system) to 'liberate' the system. At 'liberated' systems: Force drains are +1, and at same and related locations your total power is +3 and you draw one battle destiny if not able to otherwise. If opponent Force drains at a 'liberated' system, place stacked card in owner's Used Pile.",
+        "gametext": "Deploy on Yavin 4. Once per turn, may [download] a battleground system or an interior Yavin 4 site. Whenever you Force drain at another battleground system, may draw destiny. Add 1 for each Yavin 4 site on table (2 if you occupy). If total destiny > 6, stack top card from either player's Reserve Deck face up there (limit one per system) to 'liberate' the system. At 'liberated' systems: Force drains are +1, and at same and related locations your total power is +3 and you draw one battle destiny if not able to otherwise. If opponent Force drains at a 'liberated' system, place stacked card in owner's Used Pile.",
         "icons": [
           "Setup",
           "Death Star II"
@@ -13021,7 +13104,9 @@
         "imageUrl": "https://res.starwarsccg.org/cards/legacy/VirtualBlock6-Light/large/spaceportscoundrelsguild.gif",
         "subType": "Site",
         "title": "<>Spaceport Scoundrels Guild",
-        "type": "Location"
+        "type": "Location",
+        "lightSideIcons": 1,
+        "darkSideIcons": 1
       },
       "id": 5920,
       "legacy": true,
@@ -13595,7 +13680,9 @@
         "imageUrl": "https://res.starwarsccg.org/cards/legacy/VirtualBlock6-Light/large/tatooinequeenslandingsite.gif",
         "subType": "Site",
         "title": "•Tatooine: Queen's Landing Site",
-        "type": "Location"
+        "type": "Location",
+        "lightSideIcons": 1,
+        "darkSideIcons": 0
       },
       "id": 5950,
       "legacy": true,
@@ -15318,7 +15405,9 @@
         "imageUrl": "https://res.starwarsccg.org/cards/legacy/VirtualBlock4-Light/large/yavin4jediacademy.gif",
         "subType": "Site",
         "title": "•Yavin 4: Jedi Academy",
-        "type": "Location"
+        "type": "Location",
+        "lightSideIcons": 2,
+        "darkSideIcons": 2
       },
       "id": 6034,
       "legacy": true,

@@ -4955,7 +4955,7 @@
           "Jabba's Palace"
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/JabbasPalace-Dark/large/beedo.gif",
-        "lore": "Rodian bounty hunter. Relative of Greedo. Taking Greedo's place in Jabba's court. Fearful of Jabba's wraith. Notorious sycophant.",
+        "lore": "Rodian bounty hunter. Relative of Greedo. Taking Greedo's place in Jabba's court. Fearful of Jabba's wrath. Notorious sycophant.",
         "power": "2",
         "subType": "Alien",
         "title": "•Beedo",
@@ -9937,7 +9937,7 @@
         "deploy": "2",
         "destiny": "2",
         "forfeit": "3",
-        "gametext": "While on Cloud City, adds 4 to destiny of each of your miners drawn for battle destiny and adds 1 to your Force drains at related cloud sectors where you have a minor or refinery (adds 2 if both).",
+        "gametext": "While on Cloud City, adds 4 to destiny of each of your miners drawn for battle destiny and adds 1 to your Force drains at related cloud sectors where you have a miner or refinery (adds 2 if both).",
         "icons": [
           "Warrior",
           "Special Edition"
@@ -11161,7 +11161,7 @@
           "Force-Attuned"
         ],
         "forfeit": "4",
-        "gametext": "While at Bunker of an Endor battleground site, prevents Ominous Rumors from being canceled. Your [Endor] troopers may move as a 'react' to same site.",
+        "gametext": "While at Bunker or an Endor battleground site, prevents Ominous Rumors from being canceled. Your [Endor] troopers may move as a 'react' to same site.",
         "icons": [
           "Warrior",
           "Endor"
@@ -11497,7 +11497,7 @@
           "Death Star II"
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/DeathStarII-Dark/large/combatresponse.gif",
-        "lore": "Being stationed at Endor during the construction of the second Dearth Star allows Imperial pilots time to train in the latest starfighter combat techniques.",
+        "lore": "Being stationed at Endor during the construction of the second Death Star allows Imperial pilots time to train in the latest starfighter combat techniques.",
         "title": "•Combat Response",
         "type": "Effect",
         "uniqueness": "*"
@@ -11540,7 +11540,7 @@
           "Set 0"
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual0-Dark/large/combatresponse.gif",
-        "lore": "Being stationed at Endor during the construction of the second Dearth Star allows Imperial pilots time to train in the latest starfighter combat techniques.",
+        "lore": "Being stationed at Endor during the construction of the second Death Star allows Imperial pilots time to train in the latest starfighter combat techniques.",
         "title": "•Combat Response (V)",
         "type": "Effect",
         "uniqueness": "*",
@@ -16146,7 +16146,7 @@
           "Set 9"
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/Virtual9-Dark/large/deathsquadronassignment.gif",
-        "lore": "'Make ready to land out troops beyond their energy field and deploy the fleet so that nothing gets off the system.'",
+        "lore": "'Make ready to land our troops beyond their energy field and deploy the fleet so that nothing gets off the system.'",
         "subType": "Used Or Lost",
         "title": "•Death Squadron Assignment",
         "type": "Interrupt",
@@ -19161,7 +19161,10 @@
         "type": "Character",
         "uniqueness": "*",
         "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Dr Chellilon Aphra (AI)/image.png",
-        "printableSlipType": "VIRTUAL"
+        "printableSlipType": "VIRTUAL",
+        "extraText": [
+          "Force-Attuned"
+        ]
       },
       "gempId": "209_35",
       "id": 7008,
@@ -19360,7 +19363,7 @@
       "counterpart": "Rebel Fleet",
       "front": {
         "destiny": "3",
-        "gametext": "Deploy on your side of table. Once per turn, you may cancel a Force drain by placing her from hand any non-unique starfighter. Starfighters may deploy from here as if from hand (if Effect canceled by opponent, any starfighters here may immediately deploy for free).",
+        "gametext": "Deploy on your side of table. Once per turn, you may cancel a Force drain by placing here from hand any non-unique starfighter. Starfighters may deploy from here as if from hand (if Effect canceled by opponent, any starfighters here may immediately deploy for free).",
         "icons": [
           "Special Edition"
         ],
@@ -27369,7 +27372,7 @@
       "front": {
         "destiny": "5",
         "errataSymbol": "E1",
-        "gametext": "Deploy on an opponent's smuggler, gambler, or thief. If subsequently captured, seized by a bounty hunter and then transfered to Jabba's Palace Dungeon, retrieve Force equal to character's forfeit (+6 if Han) and lose effect. (Immune to Alter.)",
+        "gametext": "Deploy on an opponent's smuggler, gambler, or thief. If subsequently captured, seized by a bounty hunter and then transferred to Jabba's Palace Dungeon, retrieve Force equal to character's forfeit (+6 if Han) and lose effect. (Immune to Alter.)",
         "icons": [
           "Jabba's Palace"
         ],
@@ -27464,7 +27467,7 @@
     {
       "front": {
         "destiny": "0",
-        "gametext": "[0] Corscant [1] Carida, Corellia, Eriadu, Kirdo III, Kuat [2] Alderaan, Bothuwui, Kiffex, Rendili, Tibrin, Wakeelmui [3] Malastare, Nal Hutta, Raithal, Ralltiir [4] Aquaris, Chandrila, Corulag, Yavin 4* [5] Anoat, Dantooine, Hoth*, Naboo [6] Bespin, Fondor, Kashyyyk, Mon Calamari [7] Clak'dor VII, Ord Mantell, Roche, Sullust, Tatooine [8] Endor, Kessel [9] Dagobah, Gall * Known Rebel Base",
+        "gametext": "[0] Coruscant [1] Carida, Corellia, Eriadu, Kirdo III, Kuat [2] Alderaan, Bothawui, Kiffex, Rendili, Tibrin, Wakeelmui [3] Malastare, Nal Hutta, Raithal, Ralltiir [4] Aquaris, Chandrila, Corulag, Yavin 4* [5] Anoat, Dantooine, Hoth*, Naboo [6] Bespin, Fondor, Kashyyyk, Mon Calamari [7] Clak'dor VII, Ord Mantell, Roche, Sullust, Tatooine [8] Endor, Kessel [9] Dagobah, Gall * Known Rebel Base",
         "icons": [
           "Premium"
         ],
@@ -28709,7 +28712,8 @@
         "power": "0",
         "subType": "Droid",
         "title": "IM4-099 (Eyeemmfour)",
-        "type": "Character"
+        "type": "Character",
+        "maneuver": "4"
       },
       "gempId": "7_181",
       "id": 1252,
@@ -31226,7 +31230,7 @@
         "errataDate": "2024-12-30",
         "errataNotes": "Previous text: If a Jabba's Palace site on table, deploy on table. The Camp is canceled. May deploy Nal Hutta from Reserve Deck; reshuffle. Once per battle, may lose 1 Force; your battle destiny modifiers affect your total battle destiny instead. Once per game, may retrieve a non-[Maintenance] alien or [Independent] starship into hand. [Immune to Alter.]",
         "errataSymbol": "E1",
-        "gametext": "If you have deployed a [Jabba's Place] site, deploy on table. May deploy Nal Hutta from Reserve Deck; reshuffle. You may not deploy systems except Nal Hutta and Tatooine. Cancels The Camp. During battle, may lose 1 Force; your battle destiny modifiers affect your total battle destiny instead. Once per game, may retrieve a non-[Maintenance] alien or [Independent] starship into hand. [Immune to Alter.]",
+        "gametext": "If you have deployed a [Jabba's Palace] site, deploy on table. May deploy Nal Hutta from Reserve Deck; reshuffle. You may not deploy systems except Nal Hutta and Tatooine. Cancels The Camp. During battle, may lose 1 Force; your battle destiny modifiers affect your total battle destiny instead. Once per game, may retrieve a non-[Maintenance] alien or [Independent] starship into hand. [Immune to Alter.]",
         "icons": [
           "Set 1"
         ],
@@ -31344,7 +31348,7 @@
       "front": {
         "darkSideIcons": 2,
         "destiny": "0",
-        "gametext": "Dark: One per game you may deploy one alien here from Reserve Deck; reshuffle. Light: If you control, may use 4 Force to cancel Scum and Villainy. Immune to Revolution.",
+        "gametext": "Dark: Once per game you may deploy one alien here from Reserve Deck; reshuffle. Light: If you control, may use 4 Force to cancel Scum and Villainy. Immune to Revolution.",
         "icons": [
           "Interior",
           "Planet",
@@ -32619,7 +32623,7 @@
         "deploy": "4",
         "destiny": "2",
         "forfeit": "3",
-        "gametext": "When in battle, if opponent draws more than one battle destiny, may cancel one. Once per turn, when firing a rifle or blaster, may target for free and add 2 to total weapon destiny. May be targeted by Hidden Weapons. May 'fly' (landspeeed = 3).",
+        "gametext": "When in battle, if opponent draws more than one battle destiny, may cancel one. Once per turn, when firing a rifle or blaster, may target for free and add 2 to total weapon destiny. May be targeted by Hidden Weapons. May 'fly' (landspeed = 3).",
         "icons": [
           "Warrior",
           "Premium"
@@ -33621,7 +33625,10 @@
         "type": "Character",
         "uniqueness": "*",
         "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Krennic Death Star Commandant/image.png",
-        "printableSlipType": "VIRTUAL"
+        "printableSlipType": "VIRTUAL",
+        "extraText": [
+          "Force-Attuned"
+        ]
       },
       "gempId": "209_36",
       "id": 6470,
@@ -36389,7 +36396,7 @@
           "Jedi Knight"
         ],
         "forfeit": "0",
-        "gametext": "{Immediately} 'thaw' Luke (Luke is non-frozen, captured, and seized by Vader). {While} this side up, subtracts 3 from attempts to cross Lule over (even while a captive). {Place} out of play if released or about to leave table.",
+        "gametext": "{Immediately} 'thaw' Luke (Luke is non-frozen, captured, and seized by Vader). {While} this side up, subtracts 3 from attempts to cross Luke over (even while a captive). {Place} out of play if released or about to leave table.",
         "icons": [
           "Pilot",
           "Warrior",
@@ -36843,7 +36850,7 @@
           "Death Star II"
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/DeathStarII-Dark/large/majorturrphennir.gif",
-        "lore": "Executive officer of the 181st Imperial Fighter Wing. Older brother killed by Wedge Antillies at the Battle of Yavin.",
+        "lore": "Executive officer of the 181st Imperial Fighter Wing. Older brother killed by Wedge Antilles at the Battle of Yavin.",
         "power": "2",
         "subType": "Imperial",
         "title": "•Major Turr Phennir",
@@ -37528,7 +37535,7 @@
           "Reflections 3"
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/ReflectionsIII-Dark/large/maulsdoublebladedlightsaber.gif",
-        "lore": "Maul's double-bladed lightsaber is two lightsabers fused into one that requires years of training wield properly. Like its mysterious owner, this weapon hasn't been seen for a millennia.",
+        "lore": "Maul's double-bladed lightsaber is two lightsabers fused into one that requires years of training to wield properly. Like its mysterious owner, this weapon hasn't been seen for a millennia.",
         "subType": "Character",
         "title": "•Maul's Double-Bladed Lightsaber",
         "type": "Weapon",
@@ -37652,7 +37659,6 @@
         "Maul's Sith Infiltrator + Darth Maul on Tatooine system Deploy for 6 (!)"
       ],
       "front": {
-        "armor": "5",
         "characteristics": [
           "Independent (starship)"
         ],
@@ -37673,7 +37679,8 @@
         "subType": "Starfighter: Sith Infiltrator",
         "title": "•Maul's Sith Infiltrator",
         "type": "Starship",
-        "uniqueness": "*"
+        "uniqueness": "*",
+        "maneuver": "5"
       },
       "gempId": "12_182",
       "id": 1659,
@@ -37703,7 +37710,6 @@
     },
     {
       "front": {
-        "armor": "5",
         "deploy": "3",
         "destiny": "6",
         "forfeit": "6",
@@ -37721,7 +37727,8 @@
         "subType": "Starfighter: Sith Infiltrator",
         "title": "•Maul's Sith Infiltrator (AI)",
         "type": "Starship",
-        "uniqueness": "*"
+        "uniqueness": "*",
+        "maneuver": "5"
       },
       "gempId": "12_183",
       "id": 6516,
@@ -38657,7 +38664,7 @@
     {
       "front": {
         "destiny": "3",
-        "gametext": "Deploy on a Rebel. At the end of each opponent's battle phases, if you have presence at the location where that Rebel has presences and a battle did not take place there, opponent loses 4 Force.",
+        "gametext": "Deploy on a Rebel. At the end of each opponent's battle phases, if you have presence at the location where that Rebel has presence and a battle did not take place there, opponent loses 4 Force.",
         "icons": [
           "Dagobah"
         ],
@@ -44132,7 +44139,7 @@
     {
       "front": {
         "destiny": "3",
-        "gametext": "Deploy on your side of table. During your draw phase, you make use 2 Force to search through your Lost Pile. Take one Hidden Weapons into hand or take any one blaster and immediately deploy it (for free).",
+        "gametext": "Deploy on your side of table. During your draw phase, you may use 2 Force to search through your Lost Pile. Take one Hidden Weapons into hand or take any one blaster and immediately deploy it (for free).",
         "icons": [
           "Jabba's Palace"
         ],
@@ -44907,7 +44914,7 @@
       ],
       "front": {
         "destiny": "4",
-        "gametext": "Deploy on a Rebel Base system if you occupy at least two related battleground sites. During each of your control phases, opponent loses 1 Force for each related battleground sit you occupy. Canceled if opponent controls this system. (Immune to Alter.)",
+        "gametext": "Deploy on a Rebel Base system if you occupy at least two related battleground sites. During each of your control phases, opponent loses 1 Force for each related battleground site you occupy. Canceled if opponent controls this system. (Immune to Alter.)",
         "icons": [
           "Special Edition"
         ],
@@ -45308,7 +45315,7 @@
           "Jabba's Palace"
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/JabbasPalace-Dark/large/resistance.gif",
-        "lore": "Oola had to choose between giving in to Jabba's constant advances or resisting him and inciting his wraith.",
+        "lore": "Oola had to choose between giving in to Jabba's constant advances or resisting him and inciting his wrath.",
         "title": "•Resistance",
         "type": "Effect",
         "uniqueness": "*"
@@ -46019,7 +46026,7 @@
           "Force-Attuned"
         ],
         "forfeit": "4",
-        "gametext": "While at Theed Palce Throne Room, your attrition against opponent in battles at same and related Naboo sites is +X, where X = number of battle droids present at that site. While with a battle droid, Haako is power and defense value +2.",
+        "gametext": "While at Theed Palace Throne Room, your attrition against opponent in battles at same and related Naboo sites is +X, where X = number of battle droids present at that site. While with a battle droid, Haako is power and defense value +2.",
         "icons": [
           "Episode I",
           "Theed Palace"
@@ -46060,7 +46067,7 @@
           "Force-Attuned"
         ],
         "forfeit": "4",
-        "gametext": "While at Theed Palce Throne Room, your attrition against opponent in battles at same and related Naboo sites is +X, where X = number of battle droids present at that site. While with a battle droid, Haako is power and defense value +2.",
+        "gametext": "While at Theed Palace Throne Room, your attrition against opponent in battles at same and related Naboo sites is +X, where X = number of battle droids present at that site. While with a battle droid, Haako is power and defense value +2.",
         "icons": [
           "Episode I",
           "Theed Palace"
@@ -46099,7 +46106,7 @@
         "deploy": "2",
         "destiny": "3",
         "forfeit": "3",
-        "gametext": "Power and forfeit +2 at a Coruscant site. May retrieve 1 Force each time your deploy a musician to same site. Once during each of your turns, may use 1 Force to 'charm' one male of ability < 3 present- male is forfeit = 0 for remainder of turn.",
+        "gametext": "Power and forfeit +2 at a Coruscant site. May retrieve 1 Force each time you deploy a musician to same site. Once during each of your turns, may use 1 Force to 'charm' one male of ability < 3 present- male is forfeit = 0 for remainder of turn.",
         "icons": [
           "Special Edition"
         ],
@@ -46708,7 +46715,10 @@
         "type": "Character",
         "uniqueness": "*",
         "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Savage Opress (AI)/image.png",
-        "printableSlipType": "VIRTUAL"
+        "printableSlipType": "VIRTUAL",
+        "extraText": [
+          "Force-Sensitive"
+        ]
       },
       "gempId": "207_23",
       "id": 7017,
@@ -47163,7 +47173,7 @@
           "No Hyperdrive"
         ],
         "forfeit": "3",
-        "gametext": "Deploy -2 to Death Star II or Endor. Permanent pilot provides ability of 2 add adds 1 to power and maneuver.",
+        "gametext": "Deploy -2 to Death Star II or Endor. Permanent pilot provides ability of 2 and adds 1 to power and maneuver.",
         "icons": [
           "Pilot",
           "Death Star II"
@@ -48028,7 +48038,7 @@
           "Special Edition"
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/SpecialEdition-Dark/large/sergeantmajorbursk.gif",
-        "lore": "Leader of most brutal snowtrooper plotoon in the battle of Hoth. Cunning planner. Coordinates attacks and manages troop movements.",
+        "lore": "Leader of most brutal snowtrooper platoon in the battle of Hoth. Cunning planner. Coordinates attacks and manages troop movements.",
         "power": "3",
         "subType": "Imperial",
         "title": "•Sergeant Major Bursk",
@@ -48438,7 +48448,7 @@
           "Death Star II"
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/DeathStarII-Dark/large/sfsls72tiecannon.gif",
-        "lore": "TIE cannon mass produced at Wakeelmui system. Campatable with multiple TIE models for ease of deployment.",
+        "lore": "TIE cannon mass produced at Wakeelmui system. Compatible with multiple TIE models for ease of deployment.",
         "subType": "Starship",
         "title": "SFS L-s7.2 TIE Cannon",
         "type": "Weapon"
@@ -48675,7 +48685,7 @@
           "Special Edition"
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/SpecialEdition-Dark/large/shortrangefighters.gif",
-        "lore": "Imperial batlestations keep squadrons of TIE/Ins on constant patrol.",
+        "lore": "Imperial battlestations keep squadrons of TIE/Ins on constant patrol.",
         "subType": "Used",
         "title": "•Short-range Fighters",
         "type": "Interrupt",
@@ -48799,7 +48809,10 @@
         "type": "Character",
         "uniqueness": "*",
         "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Sidon Ithano/image.png",
-        "printableSlipType": "VIRTUAL"
+        "printableSlipType": "VIRTUAL",
+        "extraText": [
+          "Force-Attuned"
+        ]
       },
       "gempId": "207_24",
       "id": 5158,
@@ -52766,7 +52779,7 @@
           "Special Edition"
         ],
         "imageUrl": "https://res.starwarsccg.org/cards/SpecialEdition-Dark/large/tatooineoccupation.gif",
-        "lore": "Sandtroopers commanded by Governor Aryon do not enjoy their assignment. They find a means of venting their frustrations by harassing the local inhibitors.",
+        "lore": "Sandtroopers commanded by Governor Aryon do not enjoy their assignment. They find a means of venting their frustrations by harassing the local inhabitants.",
         "title": "•Tatooine Occupation",
         "type": "Effect",
         "uniqueness": "*"
@@ -56015,7 +56028,7 @@
           "No Hyperdrive"
         ],
         "forfeit": "2",
-        "gametext": "Power +2 during a Bombing Run battle. Permanent pilot aboard provides ability of 1. At any time during your turn, may use 1 Force to 'diffuse' (lose or return to hand) any one Orbital Mine present.",
+        "gametext": "Power +2 during a Bombing Run battle. Permanent pilot aboard provides ability of 1. At any time during your turn, may use 1 Force to 'defuse' (lose or return to hand) any one Orbital Mine present.",
         "icons": [
           "Pilot",
           "Dagobah"
@@ -58558,7 +58571,7 @@
         "deploy": "2",
         "destiny": "3",
         "forfeit": "4",
-        "gametext": "May add 1 pilot and 4 passengers. Permanent pilot aboard provides ability of 2. Moves for free. While Vader aboard, opponent must have ability > 5 to draw battle destiny at same system. May not Talon Roll.",
+        "gametext": "May add 1 pilot and 4 passengers. Permanent pilot aboard provides ability of 2. Moves for free. While Vader aboard, opponent must have ability > 5 to draw battle destiny at same system. May not Tallon Roll.",
         "hyperspeed": "3",
         "icons": [
           "Pilot",
@@ -60165,7 +60178,7 @@
       "counterpart": "Away Put Your Weapon",
       "front": {
         "destiny": "5",
-        "gametext": "USED: If a lightsaber was just used to enhance a Force drain, place it in owner's Used Pile. LOST: Place any or all of you devices and character weapons on table in your Used Pile.",
+        "gametext": "USED: If a lightsaber was just used to enhance a Force drain, place it in owner's Used Pile. LOST: Place any or all of your devices and character weapons on table in your Used Pile.",
         "icons": [
           "Cloud City"
         ],
@@ -60901,7 +60914,7 @@
         "deploy": "3",
         "destiny": "2",
         "forfeit": "3",
-        "gametext": "Deploys only on Tatooine. Your Jawa Pack is not unique, is doubled, deploys free (or for 6 Force from each player) and cumulatively affects your Jawa's forfeit. While at Audience Chamber or Jawa Camp, all your other Jawas are power +2.",
+        "gametext": "Deploys only on Tatooine. Your Jawa Pack is not unique, is doubled, deploys free (or for 6 Force from each player) and cumulatively affects your Jawas' forfeit. While at Audience Chamber or Jawa Camp, all your other Jawas are power +2.",
         "icons": [
           "Warrior",
           "Jabba's Palace"
@@ -63300,7 +63313,10 @@
         "type": "Character",
         "uniqueness": "*",
         "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Eighth Brother/image.png",
-        "printableSlipType": "VIRTUAL"
+        "printableSlipType": "VIRTUAL",
+        "extraText": [
+          "Force-Sensitive"
+        ]
       },
       "gempId": "213_5",
       "id": 6793,
@@ -64454,7 +64470,10 @@
         "type": "Character",
         "uniqueness": "*",
         "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Ochi/image.png",
-        "printableSlipType": "VIRTUAL"
+        "printableSlipType": "VIRTUAL",
+        "extraText": [
+          "Force-Sensitive"
+        ]
       },
       "gempId": "214_7",
       "id": 6850,
@@ -64546,7 +64565,10 @@
         "type": "Character",
         "uniqueness": "*",
         "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/The Client/image.png",
-        "printableSlipType": "VIRTUAL"
+        "printableSlipType": "VIRTUAL",
+        "extraText": [
+          "Force-Attuned"
+        ]
       },
       "gempId": "214_10",
       "id": 6852,
@@ -71853,7 +71875,10 @@
         "type": "Character",
         "uniqueness": "*",
         "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Director Orson Krennic (AI)/image.png",
-        "printableSlipType": "VIRTUAL"
+        "printableSlipType": "VIRTUAL",
+        "extraText": [
+          "Force-Attuned"
+        ]
       },
       "gempId": "207_20",
       "id": 7265,
@@ -72019,7 +72044,10 @@
         "type": "Character",
         "uniqueness": "*",
         "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Palpatine Emperor Returned (AI)/image.png",
-        "printableSlipType": "VIRTUAL"
+        "printableSlipType": "VIRTUAL",
+        "extraText": [
+          "Dark Jedi Master"
+        ]
       },
       "gempId": "214_8",
       "id": 7269,
@@ -73927,7 +73955,10 @@
         "type": "Character",
         "uniqueness": "*",
         "printableSlipUrl": "https://res.starwarsccg.org/vkit/cards/standard/Hondo Ohnaka (AI)/image.png",
-        "printableSlipType": "VIRTUAL"
+        "printableSlipType": "VIRTUAL",
+        "extraText": [
+          "Force-Attuned"
+        ]
       },
       "gempId": "205_13",
       "id": 7368,

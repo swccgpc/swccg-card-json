@@ -807,7 +807,7 @@
     {
       "front": {
         "destiny": "5",
-        "gametext": "Deploy on War Has Begun. [Virtual Block 2] Special Delivery is canceled. May deploy Arena Pillars from reserve deck; reshuffle. Petranaki Arena is a prison. If there are no captives at Petranaki Arena and opponent about to lose a non-droid character, may imprison it there. If opponent controls Petranaki Arena during their control phase, they may release any number of captives there. If an opponent's imprisoned character was just 'executed,' stack it here face down (Mission 'complete').",
+        "gametext": "Deploy on War Has Begun. [Virtual Block 2] Special Delivery is canceled. May [download] Arena Pillars. Petranaki Arena is a prison. If there are no captives at Petranaki Arena and opponent about to lose a non-droid character, may imprison it there. If opponent controls Petranaki Arena during their control phase, they may release any number of captives there. If an opponent's imprisoned character was just 'executed,' stack it here face down (Mission complete). {Reward}: Attrition against opponent is +1. {Turn the Tide}: If opponent controls Petranaki Arena during their control phase, place this Mission in Used Pile.",
         "icons": [
           "Episode I",
           "Separatist"
@@ -1038,7 +1038,9 @@
         "imageUrl": "https://res.starwarsccg.org/cards/legacy/VirtualBlock2-Dark/large/atatdeploymentplatform.gif",
         "subType": "Site",
         "title": "•••AT-AT Deployment Platform",
-        "type": "Location"
+        "type": "Location",
+        "lightSideIcons": 0,
+        "darkSideIcons": 1
       },
       "id": 6101,
       "legacy": true,
@@ -2619,7 +2621,9 @@
         "imageUrl": "https://res.starwarsccg.org/cards/legacy/VirtualBlock4-Dark/large/caridaisbtrainingacademy.gif",
         "subType": "Site",
         "title": "•Carida: ISB Training Academy",
-        "type": "Location"
+        "type": "Location",
+        "lightSideIcons": 1,
+        "darkSideIcons": 1
       },
       "id": 6164,
       "legacy": true,
@@ -3345,7 +3349,9 @@
         "imageUrl": "https://res.starwarsccg.org/cards/legacy/VirtualBlock7-Dark/large/corulagisblogisticsoffice.gif",
         "subType": "Site",
         "title": "•Corulag: ISB Logistics Office",
-        "type": "Location"
+        "type": "Location",
+        "lightSideIcons": 1,
+        "darkSideIcons": 2
       },
       "id": 6195,
       "legacy": true,
@@ -3399,7 +3405,9 @@
         "imageUrl": "https://res.starwarsccg.org/cards/legacy/VirtualBlock8-Dark/large/coruscantcasino.gif",
         "subType": "Site",
         "title": "•Coruscant: Casino",
-        "type": "Location"
+        "type": "Location",
+        "lightSideIcons": 2,
+        "darkSideIcons": 2
       },
       "id": 6198,
       "legacy": true,
@@ -3425,7 +3433,9 @@
         "imageUrl": "https://res.starwarsccg.org/cards/legacy/VirtualBlock5-Dark/large/coruscantchancellorsoffice.gif",
         "subType": "Site",
         "title": "•Coruscant: Chancellor's Office",
-        "type": "Location"
+        "type": "Location",
+        "lightSideIcons": 1,
+        "darkSideIcons": 2
       },
       "id": 6199,
       "legacy": true,
@@ -3450,7 +3460,9 @@
         "imageUrl": "https://res.starwarsccg.org/cards/legacy/VirtualBlock4-Dark/large/coruscantisbcentraloffice.gif",
         "subType": "Site",
         "title": "•Coruscant: ISB Central Office",
-        "type": "Location"
+        "type": "Location",
+        "lightSideIcons": 0,
+        "darkSideIcons": 1
       },
       "id": 6200,
       "legacy": true,
@@ -3475,7 +3487,9 @@
         "imageUrl": "https://res.starwarsccg.org/cards/legacy/VirtualBlock7-Dark/large/coruscantpalpatinesquarters.gif",
         "subType": "Site",
         "title": "•Coruscant: Palpatine's Quarters",
-        "type": "Location"
+        "type": "Location",
+        "lightSideIcons": 1,
+        "darkSideIcons": 2
       },
       "id": 6201,
       "legacy": true,
@@ -3526,7 +3540,9 @@
         "imageUrl": "https://res.starwarsccg.org/cards/legacy/VirtualBlock8-Dark/large/coruscantsubcitylair.gif",
         "subType": "Site",
         "title": "•Coruscant: Sub City Lair",
-        "type": "Location"
+        "type": "Location",
+        "lightSideIcons": 1,
+        "darkSideIcons": 2
       },
       "id": 6204,
       "legacy": true,
@@ -4299,7 +4315,7 @@
     {
       "front": {
         "destiny": "5",
-        "gametext": "Deploy on War Has Begun. Unless a card stacked here, if you control three Muunilinst locations (and opponent controls no Muunilinst locations), opponent loses 1 Force (cannot be reduced) and stacks lost card here face down (Mission 'complete').",
+        "gametext": "Deploy on War Has Begun. Unless a card stacked here, if you control three Muunilinst locations (and opponent controls no Muunilinst locations), opponent loses 1 Force (cannot be reduced) and stacks lost card here face down (Mission complete). {Reward}: Your Force drains at Muunilinst locations are +1 and, once per turn, may raise your converted Muunilinst site to the top. {Turn The Tide}: If opponent controls two Muunilinst locations, place this Mission in Used Pile.",
         "icons": [
           "Episode I",
           "Separatist"
@@ -4642,7 +4658,8 @@
         "power": "*",
         "subType": "Swamp",
         "title": "•Dianoga (V)",
-        "type": "Creature"
+        "type": "Creature",
+        "ferocity": "*"
       },
       "id": 6254,
       "legacy": true,
@@ -5072,7 +5089,9 @@
         "imageUrl": "https://res.starwarsccg.org/cards/legacy/VirtualBlock3-Dark/large/dungeonprison.gif",
         "subType": "Site",
         "title": "<>Dungeon (Prison)",
-        "type": "Location"
+        "type": "Location",
+        "lightSideIcons": 1,
+        "darkSideIcons": 1
       },
       "id": 6272,
       "legacy": true,
@@ -5461,7 +5480,9 @@
         "imageUrl": "https://res.starwarsccg.org/cards/legacy/VirtualBlock4-Dark/large/executionarenapit.gif",
         "subType": "Site",
         "title": "<>Execution Arena (Pit)",
-        "type": "Location"
+        "type": "Location",
+        "lightSideIcons": 1,
+        "darkSideIcons": 1
       },
       "id": 6288,
       "legacy": true,
@@ -6006,7 +6027,7 @@
     {
       "front": {
         "destiny": "0",
-        "gametext": "Deploy on table. Flagship and Endor Shield are canceled. You may not deploy [Independent] or [Trade Federation] starships. Once per turn, may use 1 Force to deploy an Executor site or a battleground system from Reserve Deck; reshuffle. While Flagship Operations on Executor: its power may not be reduced, your Force drains at battleground systems = 3, your TIE Assault Squadron may deploy without replacement (deploy = 3), and, wherever you have a TIE with a capital starship, draw one battle destiny if not able to otherwise. Your cards add no more than 2 to the destiny, power, and forfeit of your squadrons.",
+        "gametext": "Deploy on table. Flagship and Endor Shield are canceled. You may not deploy [Independent] or [Trade Federation] starships. Once per turn, may use 1 Force to [download] an Executor site or a battleground system. While Flagship Operations on Executor: its power may not be reduced, your Force drains at battleground systems = 3, your TIE Assault Squadron may deploy without replacement (deploy = 3), and, wherever you have a TIE with a capital starship, draw one battle destiny if not able to otherwise. Your cards add no more than 2 to the destiny, power, and forfeit of your squadrons.",
         "icons": [
           "Setup",
           "Death Star II"
@@ -6354,7 +6375,9 @@
         "imageUrl": "https://res.starwarsccg.org/cards/legacy/VirtualBlock9-Dark/large/geonosisdockingbay.gif",
         "subType": "Site",
         "title": "•Geonosis: Docking Bay",
-        "type": "Location"
+        "type": "Location",
+        "lightSideIcons": 1,
+        "darkSideIcons": 1
       },
       "id": 6327,
       "legacy": true,
@@ -6379,7 +6402,9 @@
         "imageUrl": "https://res.starwarsccg.org/cards/legacy/VirtualBlock9-Dark/large/geonosispetranakiarena.gif",
         "subType": "Site",
         "title": "•Geonosis: Petranaki Arena",
-        "type": "Location"
+        "type": "Location",
+        "lightSideIcons": 1,
+        "darkSideIcons": 2
       },
       "id": 6328,
       "legacy": true,
@@ -6404,7 +6429,9 @@
         "imageUrl": "https://res.starwarsccg.org/cards/legacy/VirtualBlock9-Dark/large/geonosisrockyplains.gif",
         "subType": "Site",
         "title": "•Geonosis: Rocky Plains",
-        "type": "Location"
+        "type": "Location",
+        "lightSideIcons": 2,
+        "darkSideIcons": 2
       },
       "id": 6329,
       "legacy": true,
@@ -6431,7 +6458,9 @@
         "imageUrl": "https://res.starwarsccg.org/cards/legacy/VirtualBlock9-Dark/large/geonosissepartistcouncilroom.gif",
         "subType": "Site",
         "title": "•Geonosis: Separatist Council Room",
-        "type": "Location"
+        "type": "Location",
+        "lightSideIcons": 0,
+        "darkSideIcons": 2
       },
       "id": 6330,
       "legacy": true,
@@ -6674,7 +6703,10 @@
         "power": "7",
         "subType": "Republic",
         "title": "•Grievous, Hunter Of Jedi",
-        "type": "Character"
+        "type": "Character",
+        "extraText": [
+          "Force-Sensitive"
+        ]
       },
       "id": 6339,
       "legacy": true,
@@ -6826,7 +6858,8 @@
         "imageUrl": "https://res.starwarsccg.org/cards/legacy/VirtualBlock4-Dark/large/heisnotready.gif",
         "subType": "Immediate",
         "title": "He Is Not Ready (V)",
-        "type": "Effect"
+        "type": "Effect",
+        "lore": "\"All his life has he looked away. To the future; to the horizon. Never his mind on where he was! Hmm? What he was doing! Hm.\""
       },
       "id": 6345,
       "legacy": true,
@@ -7614,7 +7647,7 @@
     {
       "front": {
         "destiny": "2",
-        "gametext": "Deploy on table. Tallon Roll is canceled. At battleground systems where you have an Imperial of ability = 2 piloting a starfighter, and you have no Force drain bonus (except from the system card itself), your Force drains are +1. Your starfighters with a pilot character aboard are immune to attrition < 4. Once per turn, may deploy TIE Fighter Construction Facility from Reserve Deck; reshuffle. Your starfighters without astromech capacity gain 'May add 1 astromech.'",
+        "gametext": "Deploy on table. Tallon Roll is canceled. At battleground systems where you have an Imperial of ability = 2 piloting a starfighter, and you have no Force drain bonus (except from the system card itself), your Force drains are +1. Your starfighters with a pilot character aboard are immune to attrition < 4. Once per turn, may [download] TIE Fighter Construction Facility. Your starfighters without astromech capacity gain \"May add 1 astromech.\"",
         "icons": [
           "Setup",
           "Death Star II"
@@ -8284,7 +8317,9 @@
         "imageUrl": "https://res.starwarsccg.org/cards/legacy/VirtualBlock4-Dark/large/isbsectoroffice.gif",
         "subType": "Site",
         "title": "<>ISB Sector Office",
-        "type": "Location"
+        "type": "Location",
+        "lightSideIcons": 1,
+        "darkSideIcons": 2
       },
       "id": 6428,
       "legacy": true,
@@ -8405,7 +8440,8 @@
         "imageUrl": "https://res.starwarsccg.org/cards/legacy/VirtualBlock7-Dark/large/jabbashaven.gif",
         "lore": "Jabba has won the service of many of his guards and other henchbeings through games of chance.",
         "title": "•Jabba's Haven",
-        "type": "Effect"
+        "type": "Effect",
+        "gametext": "Deploy on table. May [download] Nal Hutta. Once per game, may retrieve an alien or [Independent] starship into hand. While Fearless And Inventive on table, once per battle, may lose 1 Force; your battle destiny modifiers affect your total battle destiny instead. [Immune to Alter]"
       },
       "id": 6433,
       "legacy": true,
@@ -8878,7 +8914,9 @@
         "imageUrl": "https://res.starwarsccg.org/cards/legacy/VirtualBlock7-Dark/large/kashyyykforestmaze.gif",
         "subType": "Site",
         "title": "•Kashyyyk: Forest Maze",
-        "type": "Location"
+        "type": "Location",
+        "lightSideIcons": 1,
+        "darkSideIcons": 2
       },
       "id": 6453,
       "legacy": true,
@@ -8930,7 +8968,9 @@
         "imageUrl": "https://res.starwarsccg.org/cards/legacy/VirtualBlock7-Dark/large/kashyyykslavingcampheadquarters.gif",
         "subType": "Site",
         "title": "•Kashyyyk: Slaving Camp Headquarters",
-        "type": "Location"
+        "type": "Location",
+        "lightSideIcons": 0,
+        "darkSideIcons": 2
       },
       "id": 6455,
       "legacy": true,
@@ -8956,7 +8996,9 @@
         "imageUrl": "https://res.starwarsccg.org/cards/legacy/VirtualBlock6-Dark/large/kashyyykwookieeslavingcamp.gif",
         "subType": "Site",
         "title": "•Kashyyyk: Wookiee Slaving Camp",
-        "type": "Location"
+        "type": "Location",
+        "lightSideIcons": 1,
+        "darkSideIcons": 2
       },
       "id": 6456,
       "legacy": true,
@@ -9067,7 +9109,9 @@
         "imageUrl": "https://res.starwarsccg.org/cards/legacy/VirtualBlock7-Dark/large/kesselspiceminesadministratorsoffice.gif",
         "subType": "Site",
         "title": "•Kessel: Spice Mines - Administrator's Office",
-        "type": "Location"
+        "type": "Location",
+        "lightSideIcons": 0,
+        "darkSideIcons": 2
       },
       "id": 6460,
       "legacy": true,
@@ -9093,7 +9137,9 @@
         "imageUrl": "https://res.starwarsccg.org/cards/legacy/VirtualBlock4-Dark/large/kesselspiceminesdockingbay.gif",
         "subType": "Site",
         "title": "•Kessel: Spice Mines - Docking Bay",
-        "type": "Location"
+        "type": "Location",
+        "lightSideIcons": 1,
+        "darkSideIcons": 1
       },
       "id": 6461,
       "legacy": true,
@@ -9119,7 +9165,9 @@
         "imageUrl": "https://res.starwarsccg.org/cards/legacy/VirtualBlock4-Dark/large/kesselspiceminesextractionfacility.gif",
         "subType": "Site",
         "title": "•Kessel: Spice Mines - Extraction Facility",
-        "type": "Location"
+        "type": "Location",
+        "lightSideIcons": 1,
+        "darkSideIcons": 2
       },
       "id": 6462,
       "legacy": true,
@@ -9144,7 +9192,9 @@
         "imageUrl": "https://res.starwarsccg.org/cards/legacy/VirtualBlock4-Dark/large/kesselspiceminesprison.gif",
         "subType": "Site",
         "title": "•Kessel: Spice Mines - Prison",
-        "type": "Location"
+        "type": "Location",
+        "lightSideIcons": 1,
+        "darkSideIcons": 2
       },
       "id": 6463,
       "legacy": true,
@@ -9369,7 +9419,10 @@
         "power": "3",
         "subType": "Alien",
         "title": "•Lady Valarian",
-        "type": "Character"
+        "type": "Character",
+        "extraText": [
+          "Force-Attuned"
+        ]
       },
       "id": 6476,
       "legacy": true,
@@ -10482,7 +10535,9 @@
         "parsec": "7",
         "subType": "System",
         "title": "•Muunilinst",
-        "type": "Location"
+        "type": "Location",
+        "lightSideIcons": 2,
+        "darkSideIcons": 2
       },
       "id": 6529,
       "legacy": true,
@@ -10507,7 +10562,9 @@
         "imageUrl": "https://res.starwarsccg.org/cards/legacy/VirtualBlock9-Dark/large/muunilinstbankingclanheadquarters.gif",
         "subType": "Site",
         "title": "•Muunilinst: Banking Clan Headquarters",
-        "type": "Location"
+        "type": "Location",
+        "lightSideIcons": 1,
+        "darkSideIcons": 2
       },
       "id": 6530,
       "legacy": true,
@@ -10533,7 +10590,9 @@
         "imageUrl": "https://res.starwarsccg.org/cards/legacy/VirtualBlock9-Dark/large/muunilinstcityofharnaidan.gif",
         "subType": "Site",
         "title": "•Muunilinst: City Of Harnaidan",
-        "type": "Location"
+        "type": "Location",
+        "lightSideIcons": 1,
+        "darkSideIcons": 2
       },
       "id": 6531,
       "legacy": true,
@@ -10559,7 +10618,9 @@
         "imageUrl": "https://res.starwarsccg.org/cards/legacy/VirtualBlock9-Dark/large/muunilinstdockingbay.gif",
         "subType": "Site",
         "title": "•Muunilinst: Docking Bay",
-        "type": "Location"
+        "type": "Location",
+        "lightSideIcons": 1,
+        "darkSideIcons": 1
       },
       "id": 6532,
       "legacy": true,
@@ -10585,7 +10646,9 @@
         "imageUrl": "https://res.starwarsccg.org/cards/legacy/VirtualBlock9-Dark/large/muunilinstseparatistcommandcenter.gif",
         "subType": "Site",
         "title": "•Muunilinst: Separatist Command Center",
-        "type": "Location"
+        "type": "Location",
+        "lightSideIcons": 1,
+        "darkSideIcons": 2
       },
       "id": 6533,
       "legacy": true,
@@ -10819,7 +10882,8 @@
         "power": "3",
         "subType": "Republic",
         "title": "•Nute Gunray (V)",
-        "type": "Character"
+        "type": "Character",
+        "lore": "Commanding Viceroy of the Trade Federation forces assigned to the blockade of Naboo. Takes responsibility for his own actions. Neimoidian {leader}."
       },
       "id": 6546,
       "legacy": true,
@@ -11044,7 +11108,8 @@
         "power": "3",
         "subType": "Snow",
         "title": "•One-Arm (V)",
-        "type": "Creature"
+        "type": "Creature",
+        "ferocity": "3"
       },
       "id": 6557,
       "legacy": true,
@@ -11780,7 +11845,9 @@
         "imageUrl": "https://res.starwarsccg.org/cards/legacy/VirtualBlock6-Dark/large/ralltiirspaceportfinancialdistrict.gif",
         "subType": "Site",
         "title": "•Ralltiir: Spaceport Financial District",
-        "type": "Location"
+        "type": "Location",
+        "lightSideIcons": 1,
+        "darkSideIcons": 1
       },
       "id": 6591,
       "legacy": true,
@@ -11805,7 +11872,9 @@
         "imageUrl": "https://res.starwarsccg.org/cards/legacy/VirtualBlock4-Dark/large/ralltiirsupplyroute.gif",
         "subType": "Site",
         "title": "•Ralltiir: Supply Route",
-        "type": "Location"
+        "type": "Location",
+        "lightSideIcons": 1,
+        "darkSideIcons": 1
       },
       "id": 6592,
       "legacy": true,
@@ -11821,7 +11890,7 @@
     {
       "front": {
         "destiny": "5",
-        "gametext": "Deploy on War Has Begun. During your control phase, if you occupy a site, may attempt to 'align' the related non-'aligned' system (once per system per turn): draw destiny; if destiny + X + Y > 7, stack top card of Lost Pile under system; it is 'aligned' (Mission 'complete').",
+        "gametext": "Deploy on War Has Begun. During your control phase, for each system where you occupy a related site, may draw one destiny; if destiny + X + Y > 7, stack top card of Lost Pile under that system (limit one per system); it is 'aligned' (Mission complete). X = number of 'aligned' systems on table. Y = number of unique (•) [Separatist] characters on table. {Reward}: Your battle destiny draws are +X (limit +2). {Turn the Tide}: If opponent just initiated a Force drain at an 'aligned' system, place stacked cards there in Used Pile (system no longer 'aligned'). If there are no 'aligned' systems on table, place this Mission in Used Pile.",
         "icons": [
           "Episode I",
           "Separatist"
@@ -11958,7 +12027,9 @@
         "imageUrl": "https://res.starwarsccg.org/cards/legacy/VirtualBlock6-Dark/large/remotedepot.gif",
         "subType": "Site",
         "title": "<>Remote Depot",
-        "type": "Location"
+        "type": "Location",
+        "lightSideIcons": 1,
+        "darkSideIcons": 1
       },
       "id": 6599,
       "legacy": true,
@@ -12334,7 +12405,8 @@
         "power": "*",
         "subType": "Ancient Desert",
         "title": "•Sarlacc (V)",
-        "type": "Creature"
+        "type": "Creature",
+        "ferocity": "*"
       },
       "id": 6615,
       "legacy": true,
@@ -12363,7 +12435,10 @@
         "power": "2",
         "subType": "Republic/Imperial",
         "title": "•Sate Pestage",
-        "type": "Character"
+        "type": "Character",
+        "extraText": [
+          "Force-Attuned"
+        ]
       },
       "id": 6616,
       "legacy": true,
@@ -13206,7 +13281,7 @@
     {
       "front": {
         "destiny": "0",
-        "gametext": "If your [Virtual Block 7] Kessel office on table, deploy on table. Program Trap is canceled. Cards stacked here are 'spice' cards. Once per turn, if you control Extraction Facility, may place a 'spice' card in owner's Lost Pile to draw up to 2 cards from Reserve Deck. Once during your turn, may: use 2 Force to stack a card from Lost Pile here, deploy a non-character card with 'Kessel' in title, and/or 'mine' (opponent draws destiny; draw up to X destiny, where X = 1 plus number of Kessel locations you occupy; if any of the printed destiny numbers match, stack opponent's destiny or top card of your Lost Pile here).",
+        "gametext": "If your [Virtual Block 7] Kessel office on table, deploy on table. Program Trap is canceled. Cards stacked here are 'spice' cards. Once per turn, if you control Extraction Facility, may place a 'spice' card in owner's Lost Pile to draw up to 2 cards from Reserve Deck. Once during your turn, may: use 2 Force to stack a card from Lost Pile here, [download] a non-character card with \"Kessel\" in title, and/or 'mine' (opponent draws destiny; draw up to X destiny, where X = 1 plus number of Kessel locations you occupy; if any of the printed destiny numbers match, stack opponent's destiny or top card of your Lost Pile here).",
         "icons": [
           "Setup"
         ],
@@ -13295,7 +13370,9 @@
         "imageUrl": "https://res.starwarsccg.org/cards/legacy/VirtualBlock6-Dark/large/stardestroyercommandstation.gif",
         "subType": "Site",
         "title": "•••Star Destroyer: Command Station",
-        "type": "Location"
+        "type": "Location",
+        "lightSideIcons": 0,
+        "darkSideIcons": 1
       },
       "id": 6660,
       "legacy": true,
@@ -13377,7 +13454,9 @@
         "imageUrl": "https://res.starwarsccg.org/cards/legacy/VirtualBlock6-Dark/large/stormclouds.gif",
         "subType": "Sector",
         "title": "<>Storm Clouds",
-        "type": "Location"
+        "type": "Location",
+        "lightSideIcons": 1,
+        "darkSideIcons": 2
       },
       "id": 6663,
       "legacy": true,
@@ -13712,7 +13791,9 @@
         "imageUrl": "https://res.starwarsccg.org/cards/legacy/VirtualBlock9-Dark/large/tatooineimperialoutpost.gif",
         "subType": "Site",
         "title": "•Tatooine: Imperial Outpost",
-        "type": "Location"
+        "type": "Location",
+        "lightSideIcons": 1,
+        "darkSideIcons": 1
       },
       "id": 6678,
       "legacy": true,
@@ -13737,7 +13818,9 @@
         "imageUrl": "https://res.starwarsccg.org/cards/legacy/VirtualBlock8-Dark/large/tatooineimperialvanguardcamp.gif",
         "subType": "Site",
         "title": "•Tatooine: Imperial Vanguard Camp",
-        "type": "Location"
+        "type": "Location",
+        "lightSideIcons": 1,
+        "darkSideIcons": 2
       },
       "id": 6679,
       "legacy": true,
@@ -14178,7 +14261,8 @@
         "power": "3",
         "subType": "Force Eater",
         "title": "•Thrawn's Ysalamir",
-        "type": "Creature"
+        "type": "Creature",
+        "ferocity": "3"
       },
       "id": 6702,
       "legacy": true,
@@ -15028,7 +15112,8 @@
         "imageUrl": "https://res.starwarsccg.org/cards/legacy/VirtualBlock6-Dark/large/walkergarrison.gif",
         "subType": "Lost",
         "title": "Walker Garrison (V)",
-        "type": "Interrupt"
+        "type": "Interrupt",
+        "lore": "When efficiently deployed, a squadron of AT-ATs can quickly take control of a wide area, making it easy for Imperial forces to dominate a planet."
       },
       "id": 6743,
       "legacy": true,
@@ -15058,7 +15143,8 @@
         "power": "*",
         "subType": "Snow",
         "title": "Wampa (V)",
-        "type": "Creature"
+        "type": "Creature",
+        "ferocity": "*"
       },
       "id": 6744,
       "legacy": true,
