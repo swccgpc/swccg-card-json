@@ -28034,7 +28034,8 @@
         "subType": "Alien",
         "title": "•••Ishi Tib",
         "type": "Character",
-        "uniqueness": "***"
+        "uniqueness": "***",
+        "armor": "3"
       },
       "gempId": "6_19",
       "id": 1329,
@@ -29024,7 +29025,10 @@
         "subType": "Alien",
         "title": "•Jar Jar Binks",
         "type": "Character",
-        "uniqueness": "*"
+        "uniqueness": "*",
+        "extraText": [
+          "Force-Attuned"
+        ]
       },
       "gempId": "11_4",
       "id": 1370,
