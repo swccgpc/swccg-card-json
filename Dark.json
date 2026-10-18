@@ -18221,7 +18221,13 @@
       ],
       "rarity": "U",
       "set": "14",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+        {
+          "cardId": 7508,
+          "title": "Swarming Vulture Droid"
+        }
+      ]
     },
     {
       "front": {
@@ -25701,6 +25707,10 @@
         {
           "cardId": 1276,
           "title": "Coarse And Rough And Irritating"
+        },
+        {
+          "cardId": 7502,
+          "title": "Dark Lightning"
         }
       ]
     },
@@ -26863,7 +26873,13 @@
       ],
       "rarity": "U2",
       "set": "3",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+        {
+          "cardId": 7507,
+          "title": "Separatist Command Center"
+        }
+      ]
     },
     {
       "counterpart": "Hoth: Echo Corridor",
@@ -29536,7 +29552,13 @@
       ],
       "rarity": "C",
       "set": "4",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+        {
+          "cardId": 7511,
+          "title": "Warrant Officer Bachenkall"
+        }
+      ]
     },
     {
       "combo": [
@@ -32404,7 +32426,13 @@
         "If game text is canceled, the asterisk is treated as an unmodifiable zero."
       ],
       "set": "1",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+        {
+          "cardId": 7506,
+          "title": "Run'heb Voend"
+        }
+      ]
     },
     {
       "front": {
@@ -32680,8 +32708,12 @@
       "side": "Dark",
       "underlyingCardFor": [
         {
-          "title": "Vader's Malediction",
-          "cardId": 7188
+          "cardId": 7505,
+          "title": "More Systems Will Rally To Our Cause / The Galaxy Torn Apart"
+        },
+        {
+          "cardId": 7188,
+          "title": "Vader's Malediction"
         }
       ]
     },
@@ -38335,7 +38367,13 @@
       ],
       "rarity": "C",
       "set": "9",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+        {
+          "cardId": 7509,
+          "title": "Utapau (Republic Controlled) / Utapau (Separatist Controlled)"
+        }
+      ]
     },
     {
       "combo": [
@@ -47530,7 +47568,13 @@
       ],
       "rarity": "C",
       "set": "12",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+        {
+          "cardId": 7501,
+          "title": "B1 Clanker"
+        }
+      ]
     },
     {
       "combo": [
@@ -50111,6 +50155,10 @@
         {
           "cardId": 7084,
           "title": "Lothal: Capital City"
+        },
+        {
+          "cardId": 7510,
+          "title": "Utapau: Pau City"
         }
       ]
     },
@@ -52715,6 +52763,10 @@
         {
           "cardId": 5031,
           "title": "Tatooine (V)"
+        },
+        {
+          "cardId": 7503,
+          "title": "Geonosis (Separatist Controlled) / Geonosis (Republic Controlled)"
         }
       ]
     },
@@ -53538,7 +53590,13 @@
         "When the Podrace completes, this site remains a non-battleground while the Force retrieval and Force loss occur. Thus this site won't count as a battleground for Honor Of The Jedi, Come Here You Big Coward, etc. while performing those Force retrieval/loss."
       ],
       "set": "11",
-      "side": "Dark"
+      "side": "Dark",
+      "underlyingCardFor": [
+        {
+          "cardId": 7504,
+          "title": "Geonosis: Petranaki Arena"
+        }
+      ]
     },
     {
       "combo": [
