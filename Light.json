@@ -2650,7 +2650,14 @@
       "set": "9",
       "side": "Light",
       "underlyingCardFor": [
-        "Anakin Skywalker (V)"
+        {
+          "cardId": 6838,
+          "title": "Anakin Skywalker (V)"
+        },
+        {
+          "cardId": 7519,
+          "title": "The Greatest Of All The Jedi"
+        }
       ]
     },
     {
@@ -16227,7 +16234,13 @@
       ],
       "rarity": "PM",
       "set": "10",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        {
+          "cardId": 7513,
+          "title": "Do, Or Do Not & Wise Advice (V)"
+        }
+      ]
     },
     {
       "combo": [
@@ -25455,7 +25468,13 @@
         "Uses the 'move away' rules, meaning the starship(s) must move away via hyperspeed, sector movement, or between a system and an orbiting Death Star. No other forms of movement (no landing/taking off, embarking/disembarking, etc)."
       ],
       "set": "7",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        {
+          "cardId": 7521,
+          "title": "Watch That Crossfire, Boys"
+        }
+      ]
     },
     {
       "front": {
@@ -27812,7 +27831,13 @@
         "Second function may target a vehicle moving 'through' your scout's site. If the driver is removed, the vehicle halts at that site."
       ],
       "set": "9",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        {
+          "cardId": 7515,
+          "title": "Luthen Rael"
+        }
+      ]
     },
     {
       "counterpart": "Imperial Arrest Order",
@@ -37934,7 +37959,13 @@
         "If firing a repeating blaster (e.g. BlasTech E-11B Blaster Rifle), only the first shot is free."
       ],
       "set": "10",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        {
+          "cardId": 7520,
+          "title": "The Mandalorian & Grogu"
+        }
+      ]
     },
     {
       "front": {
@@ -40369,7 +40400,14 @@
       "set": "1",
       "side": "Light",
       "underlyingCardFor": [
-        "Val"
+        {
+          "cardId": 7518,
+          "title": "The Force Will Be With You, Always"
+        },
+        {
+          "cardId": 6831,
+          "title": "Val"
+        }
       ]
     },
     {
@@ -41469,7 +41507,13 @@
       ],
       "rarity": "R",
       "set": "5",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        {
+          "cardId": 7512,
+          "title": "Beckett's Stolen AT-Hauler"
+        }
+      ]
     },
     {
       "front": {
@@ -43141,7 +43185,13 @@
       ],
       "rarity": "C",
       "set": "7",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        {
+          "cardId": 7514,
+          "title": "Grogu In Razor Crest"
+        }
+      ]
     },
     {
       "cancels": [
@@ -45214,6 +45264,9 @@
         "Qui-Gon Jinn's Lightsaber",
         "Qui-Gon's Lightsaber"
       ],
+      "personas": [
+        "Qui-Gon"
+      ],
       "printings": [
         {
           "set": "11"
@@ -45226,8 +45279,11 @@
       "rarity": "R",
       "set": "11",
       "side": "Light",
-      "personas": [
-        "Qui-Gon"
+      "underlyingCardFor": [
+        {
+          "cardId": 7516,
+          "title": "Qui-Gon Jinn (V)"
+        }
       ]
     },
     {
@@ -45256,6 +45312,9 @@
       "gempId": "11_11",
       "id": 5814,
       "legacy": false,
+      "personas": [
+        "Qui-Gon"
+      ],
       "printings": [
         {
           "set": "11"
@@ -45264,8 +45323,11 @@
       "rarity": "R",
       "set": "11",
       "side": "Light",
-      "personas": [
-        "Qui-Gon"
+      "underlyingCardFor": [
+        {
+          "cardId": 7523,
+          "title": "Qui-Gon Jinn (V) (ALT)"
+        }
       ]
     },
     {
@@ -49300,7 +49362,13 @@
         "As a special exception to the rules, the USED and LOST functions are both immune to Sense."
       ],
       "set": "12",
-      "side": "Light"
+      "side": "Light",
+      "underlyingCardFor": [
+        {
+          "cardId": 7522,
+          "title": "Yaddle"
+        }
+      ]
     },
     {
       "front": {
@@ -60259,6 +60327,10 @@
       "set": "9",
       "side": "Light",
       "underlyingCardFor": [
+        {
+          "cardId": 7517,
+          "title": "Sacrifice For Something Bigger"
+        },
         {
           "cardId": 7259,
           "title": "Twilight Is Upon Me (V)"

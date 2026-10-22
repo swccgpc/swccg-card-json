@@ -378,12 +378,12 @@
       "side": "Dark",
       "underlyingCardFor": [
         {
-          "title": "4-LOM With Concussion Rifle (V)",
-          "cardId": 4019
+          "cardId": 4019,
+          "title": "4-LOM With Concussion Rifle (V)"
         },
         {
-          "title": "4-LOM With Concussion Rifle (V) (AI)",
-          "cardId": 7133
+          "cardId": 7133,
+          "title": "4-LOM With Concussion Rifle (V) (AI)"
         }
       ],
       "personas": [
@@ -535,8 +535,8 @@
       "side": "Dark",
       "underlyingCardFor": [
         {
-          "title": "5D6-RA-7 (Fivedesix) (V)",
-          "cardId": 4020
+          "cardId": 4020,
+          "title": "5D6-RA-7 (Fivedesix) (V)"
         }
       ]
     },
@@ -76648,6 +76648,10 @@
         }
       ],
       "rarity": "C2",
+      "rulings": [
+        "The Separatist Controlled side of Geonosis is the front ('0-side').",
+        "Geonosis may be used as a starting location. It must be deployed starting with the front (Separatist Controlled) side up."
+      ],
       "set": "227",
       "side": "Dark"
     },
@@ -76897,6 +76901,10 @@
         }
       ],
       "rarity": "C",
+      "rulings": [
+        "The Republic Controlled side of Utapau is the front ('0-side').",
+        "Utapau may be used as a starting location. It must be deployed starting with the front (Republic Controlled) side up."
+      ],
       "set": "227",
       "side": "Dark"
     },
